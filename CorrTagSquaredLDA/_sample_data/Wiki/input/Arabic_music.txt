@@ -1,0 +1,226 @@
+[[Image:Maler der Geschichte von Bayâd und Riyâd 002.jpg|thumb|right|240px|thumb|| [[Bayad]] plays the oud to The Lady. from the [[Riyad & Bayad]] , [[Arabic]] tale]]
+'''Arabic music''' or '''Arab music''' ([[Arabic]]: '''موسيقى عربية'''; ''{{transl|ar|DIN|Mūsīqā ʿArabīyya}}'') is the [[music]] of the [[Arab World]], including several genres and styles of music ranging from Arabic classical to [[Arabic pop music]] and from [[Secular music|secular]] to [[sacred music]].
+
+Arabic music, while independent and very alive, has a long history of interaction with many other regional musical styles and genres. It is an amalgam of the music of the [[Arab]]s in the [[Arabian Peninsula]] and the music of all the peoples that make up the Arab World today. As was the case in other artistic and scientific fields, Arabs translated and developed [[Greek language|Greek]] texts and works of music and mastered the [[music theory|musical theory]] of the Greeks (i.e. ''Systema ametabolon, enharmonium, chromatikon, diatonon'').<ref>Habib Hassan Touma - Review of ''Das arabische Tonsystem im Mittelalter'' by Liberty Manik. doi:10.2307/</ref>
+
+==History==
+===Pre-Islamic period===
+The development of Arabic music has extremely deep roots in [[Arabic poetry]] dating back to the [[Pre-Islamic Arabia|pre-Islamic period]] known as [[Jahiliyyah]]. Though there is a lack of scientific study to definitively confirm the existence of Arabic music at those times, most historians agree that there existed distinct forms of music in the [[Arabian peninsula]] in the pre-Islamic period between the 5th and the 7th century AD. [[Arabic poetry|Arab poets]] of that time - called '''شعراء الجاهلية''' or "Jahili poets" which translates to "The poets of the period of ignorance" - used to recite poems with a high musical rhythm and tone.<ref>[http://www.khaledtrm.net/?p=74 ''Singing in the Jahili period'' - khaledtrm.net] {{ar icon}}</ref>
+
+Music at that time played an important role in cultivating the mystique of [[exorcist]]s and [[Magician (paranormal)|magicians]]. It was believed that [[Genie|Jinn]]s revealed poems to poets and music to musicians.<ref name="ibid">''ibid.</ref> The [[Choir]] at the time served as a pedagogic facility where the educated poets would recite their [[poem]]s. Singing was not thought to be the work of these intellectuals and was instead entrusted to women with beautiful voices (i.e. [[Al-Khansa]]{{Citation needed|date=August 2010}}) who would learn how to play some instruments used at that time (i.e. [[lute]], [[drum]], [[Oud]], [[rebab]], etc...) and then perform the songs while respecting the [[poetic metre]].<ref name="ibid"/> It should be noted that the compositions were simple and every singer would sing in a single ''[[Arabic maqam|maqam]]''. Among the notable songs of the period were the "huda" from which the ghina' derived, the ''nasb'', ''sanad'', and ''rukbani'
+
+===Early Islamic period===
+[[Arabic maqam]] is the system of [[mode (music)|melodic modes]] used in traditional Arabic music, which is mainly [[melodic music|melodic]]. The word ''maqam'' in Arabic means "stand" and denotes a [[melody type]] built on a [[scale (music)|scale]] and carrying a tradition that defines its habitual phrases, important [[note (music)|notes]], melodic development and [[modulation (music)|modulation]]. Both [[musical composition|compositions]] and [[musical improvisation|improvisations]] in traditional Arabic music are based on the ''maqam'' system. ''Maqams'' can be realized with either [[vocal music|vocal]] or [[Musical instruments|instrumental]] music, and do not include a [[rhythm]]ic component.
+
+[[Al-Kindi]] (801–873 AD) was the first great theoretician of Arabic music. He proposed adding a fifth string to the oud and discussed the cosmological connotations of music{{Citation needed|date=August 2010}}. He surpassed the achievement of the [[Greek music]]ians in using the alphabetical annotation for one eighth. He published fifteen treatises on [[music theory]], but only five have survived. In one of his treatises the word ''musiqa'' was used for the first time in Arabic.<ref name=Saoud>{{cite web |url=http://www.muslimheritage.com/uploads/Music2.pdf |title=The Arab Contribution to the Music of the Western World |accessdate=2007-01-12 |format=PDF |author=Saoud, R. |publisher=FSTC}}</ref>
+
+[[Abu_al-Faraj_al-Isfahani|Abulfaraj]] (897–967) wrote great book about music [[Kitab al-Aghani]] is an encyclopedic collection of poems and songs that runs to over 20 volumes in modern editions by the 8th/9th-century litterateur .
+
+[[Al-Farabi]] (872-950) wrote a notable book on [[Islamic music|music]] titled ''[[Kitab al-Musiqi al-Kabir]]'' (The Great Book of Music). His pure [[Arabian tone system]] is still used in Arabic music.<ref>Habib Hassan Touma (1996), ''The Music of the Arabs'', p. 170, trans. Laurie Schwartz, Portland, Oregon: Amadeus Press, ISBN 0-931340-88-8</ref>
+
+[[Al-Ghazali]] (1059–1111) wrote a treatise on music in [[Persia]] which declared, "Ecstasy means the state that comes from listening to music".
+
+In 1252, [[Safi al-Din Urmawi|Safi al-Din]] developed a unique form of [[musical notation]], where [[rhythm]]s were represented by [[Geometry|geometric]] representation. A similar geometric representation would not appear in the [[Western world]] until 1987, when Kjell Gustafson published a method to represent a rhythm as a two-dimensional graph.<ref>{{citation|first=Godfried|last=Toussaint|title=A Comparison of Rhythmic Similarity Measures|publisher=5th International Conference on Music Information|date=August 2004|url=http://www.cs.mcgill.ca/research/reports/2004/SOCS-TR-2004.6.pdf|accessdate=2009-07-06}}</ref>
+
+====Al-Andalus====
+{{Main|Andalusian classical music}}
+By the 11th century, [[Moorish Spain]] had become a center for the manufacture of instruments. These goods spread gradually throughout [[France]], influencing French [[troubadour]]s, and eventually reaching the rest of Europe. The English words [[lute]], [[rebec]], [[organ (music)|organ]] and [[naker]] are derived from Arabic [[oud]], [[rabab]], [[urghun]] and [[nagqara']].
+
+====Influence of Arabic music====
+{{See also|Islamic contributions to Medieval Europe}}
+
+A number of [[musical instrument]]s used in [[classical music]] are believed to have been derived from Arabic musical instruments: the [[lute]] was derived from the ''[[Oud]]'', the [[rebec]] (ancestor of [[violin]]) from the ''[[rebab]]'', the [[guitar]] from ''qitara'', which in turn was derived from the Persian [[Tar (lute)|Tar]], [[naker]] from ''[[naqareh]]'', [[adufe]] from ''[[Daf|al-duff]]'', [[alboka]] from ''al-buq'', [[Naffir|anafil]] from ''al-nafir'', exabeba from ''al-shabbaba'' ([[flute]]), atabal ([[bass drum]]) from ''al-tabl'', atambal from ''al-tinbal'',<ref>{{Harv|Farmer|1988|p=137}}</ref>
+the [[Balaban (instrument)|balaban]], the [[castanet]] from ''kasatan'', [[Tuna (music)|sonajas de azófar]] from ''sunuj al-sufr'', the [[Bore (wind instruments)|conical bore]] [[wind instrument]]s,<ref>{{Harv|Farmer|1988|p=140}}</ref> the xelami from the ''sulami'' or ''[[fistula]]'' (flute or [[Organ pipe|musical pipe]]),<ref>{{Harv|Farmer|1988|pp=140–1}}</ref>
+the [[shawm]] and [[dulzaina]] from the [[Reed (instrument)|reed instruments]] ''zamr'' and ''[[Zurna|al-zurna]]'',<ref>{{Harv|Farmer|1988|p=141}}</ref>
+the [[Galician gaita|gaita]] from the ''[[Rhaita|ghaita]]'', [[rackett]] from ''iraqya'' or ''iraqiyya'',<ref>{{Harv|Farmer|1988|p=142}}</ref> [[Violin|geige]] (violin) from ''ghichak'',<ref>{{Harv|Farmer|1988|p=143}}</ref>
+and the [[theorbo]] from the ''tarab''.<ref>{{Harv|Farmer|1988|p=144}}</ref> Whether these links between European instruments and Oriental instruments are more than etymological is not known but is likely to be nothing more than that.
+
+The music of the [[troubador]]s may have had some Arabic origins. [[Ezra Pound]], in his ''Canto VIII'', famously declared that William of Aquitaine, an early troubador, "had brought the song up out of Spain / with the singers and veils...". In his study, Lévi-Provençal is said to have found four Arabo-Hispanic verses nearly or completely recopied in William's manuscript. According to historic sources, [[William VIII of Aquitaine|William VIII]], the father of William, brought to Poitiers hundreds of Muslim prisoners.<ref>M. Guettat (1980), ''La Musique classique du Maghreb'' (Paris: Sindbad).</ref> Trend admitted that the troubadours derived their sense of form and even the subject matter of their poetry from the Andalusian Muslims.<ref>J. B. Trend (1965), ''Music of Spanish History to 1600'' (New York: Krause Reprint Corp.)</ref> The hypothesis that the troubadour tradition was created, more or less, by William after his experience of [[Moorish]] arts while fighting with the [[Reconquista]] in Spain was also championed by [[Ramón Menéndez Pidal]] in the early 20th-century, but its origins go back to the ''[[Cinquecento]]'' and Giammaria Barbieri (died 1575) and [[Juan Andrés]] (died 1822). Meg Bogin, English translator of the female troubadors, also held this hypothesis, as did [[Idries Shah]]. Certainly "a body of song of comparable intensity, profanity and eroticism [existed] in Arabic from the second half of the 9th century onwards."<ref>"Troubadour", ''[[Grove Dictionary of Music and Musicians]]'', edited by Stanley Sadie, Macmillan Press Ltd., London</ref>
+
+One possible theory on the origins of the Western [[Solfège]] [[musical notation]] suggests that it may have had Arabic origins. It has been argued that the Solfège syllables (''do, re, mi, fa, sol, la, ti'') may have been derived from the syllables of the Arabic [[solmization]] system ''Durr-i-Mufassal'' ("Separated Pearls") (''dal, ra, mim, fa, sad, lam''). This origin theory was first proposed by Meninski in his ''Thesaurus Linguarum Orientalum'' (1680) and then by Laborde in his ''Essai sur la Musique Ancienne et Moderne'' (1780), while more recent supporters include [[Henry George Farmer]]<ref>{{Harv|Farmer|1988|pp=72–82}}</ref> and Samuel D. Miller.<ref>{{citation|doi=10.2307/3345093|title=Guido d'Arezzo: Medieval Musician and Educator|first=Samuel D.|url=http://jstor.org/stable/3345093|last=Miller|journal=Journal of Research in Music Education|volume=21|issue=3|date=Autumn 1973|pages=239–45}}</ref>
+
+===Sixteenth century===
+[[Bartol Gyurgieuvits]] (1506–1566) spent 13 years as a slave in the [[Ottoman empire]]. After escaping, he published ''De Turvarum ritu et caermoniis'' in Amsterdam in 1544. It is one of the first European books to describe music in Islamic society. In India, the Islamic [[Mughal Empire|Mughal]] emperors ruled both Muslims and Hindus. The greatest of these, [[Akbar]] (1542–1605) had a team of at least fifty musicians, thirty-six of whom are known to us by name. The origins of the "[[belly dance]]" are very obscure, as depictions and descriptions are rare. It may have originated in Pre islamic Arabia Examples have been found from 200 BC, suggesting a possible pre-Islamic origin.
+
+===Female ''Harem''===
+Slavery was widespread around the world. Just as in the Roman empire, slaves were often brought into the Arab world from Africa. Black slaves from [[Zanzibar]] were noted in the 11th century for the quality of their song and dance. The "[[Epistle on Singing Girls]]", written by the [[Basra]] [[Mu'tazilite]] writer [[al-Jahiz]] in the 9th century CE, satirizes the excessive money that could be made by singers. The author mentions an [[Abyssinian]] girl who fetched 120,000 dinars at an auction - far more than an ordinary slave. A festival in the 8th century CE is mentioned as having fifty singing slave-girls with [[lute]]s who acted as back-up musicians for a singer called Jamilia. In 1893, "Little Egypt", a belly-dancer from [[Syria]], appeared at the [[Chicago]] [[world's fair]] and caused a sensation.
+
+=== Male instrumentalists ===
+[[Image:Aleppomusic.jpg|thumb|200px|right|Musicians in Aleppo, 18th century.]]
+Male instrumentalists were condemned in a treatise in 9 CE. They were associated with perceived vices such as [[chess]], love poetry, wine drinking and [[homosexuality]]. Many Persian treatises on music were burned by zealots. Following the invasion of Egypt, [[Napoleon]] commissioned reports on the state of Ottoman culture. [[Villoteau]]'s account reveals that there were guilds of male instrumentalists, who played to male audiences, and "learned females," who sang and played for women. The instruments included the [[oud]], the kanun ([[zither]]) and the [[ney]] (flute). By 1800, several instruments that were first encountered in Turkish military bands had been adopted into European classical orchestras: the [[piccolo]], the [[cymbal]] and the [[kettle drum]]. The [[santur]], a [[hammered dulcimer]], was cultivated within Persian classical schools of music that can be traced back to the middle of 19 CE. There was no written notation for the santur until the 1970s. Everything was learned face-to-face .
+
+==Twentieth century==
+===Early Secular Formation===
+[[Image:Aleppo-Music0Band.jpg|thumb|right|220px|Musicians in [[Aleppo]], 1915.]]
+In the 20th century, Egypt was the first in a series of Arab countries to experience a sudden emergence of [[nationalism]], as it became independent after 2000 years of foreign rule. [[Turkish music]], popular during the rule of the [[Ottoman Empire]] in the region, was replaced by national music. Cairo became a center for musical innovation.
+
+One of the first female singers to take a secular approach was [[Umm Kulthum (singer)|Umm Kulthum]] quickly followed by [[Fairuz]]. Both have been popular through the decades that followed and both are considered legends of Arabic music.
+
+===Westernization===
+During the 1950s and the 1960s Arabic music began to take on a more Western tone with such artists as [[Abdel Halim Hafez]] paving the way. By the 1970s several other singers had followed suit and a strand of [[Arabic pop]] was born. Arabic pop usually consists of Western styled songs with Arabic instruments and lyrics. Melodies are often a mix between Eastern and Western.
+
+In the 1990s the several artists have taken up such a style including [[Amr Diab]], [[Samira Said]], [[Hisham Abbas]], [[Angham]], [[Asalah Nasri]], [[Kadhem Al Saher]], [[Mostafa Amar]], [[Najwa Karam]], [[Nawal Al Zoghbi]], [[Ehab Tawfik]], [[Mohamed Fouad]], [[Diana Haddad]], [[Mohamed Mounir]], [[Latifa]], [[Cheb Khaled]], [[George Wassouf]], and [[Hakim (Egyptian singer)|Hakim]].
+
+In 1996,( Amr Diab - Habibi ya Nour El Ain ) was released, becoming a tremendous success not only in the Middle East nor the Arab world but throughout the entire world. The title track, and its English version "Habibi", was an international phenomenon, becoming a massive crossover hit. In this song Amr Diab has mixed three music civilizations in one track. The Spanish music in flamenco music, French music by accordion
+solo and Arabic which showed in the playing of drums by Duff instrument and tamphits.
+
+This song opened the door in front of Arabic music in the way of internationality and to be popular all over the world.
+
+====Franco-Arabic====
+{{Arab culture}}
+A popular form of West meets East style of music, similar in many respects to modern Arabic Pop. This blend of western and eastern music was popularized as [[Franco-Arabic]] music by artists such as [[Dalida]] (Egypt), Sammy Clarke (Lebanon) and [[Aldo (musician)|Aldo]] from Australia. Although Franco-Arabic is a term used to describe many forms of cross-cultural blending between the West and the Middle East, musically the genre crosses over many lines as is seen in songs that incorporate Arabic and Italian, Arabic and French and, of course, Arabic and English styles and or lyrics.
+
+====Arabic R&B, Reggae, and Hip Hop====
+{{Main|Arabic hip hop}}
+There has also been a rise of [[rhythm and blues|R&B]], [[reggae]] and [[hip hop]] influence of Arabic music in the past five years. This usually involves a [[rapper]] featured in a song (such as [[Ishtar (singer)|Ishtar]] in her song 'Habibi Sawah'). The [[Music of Morocco|Moroccan]] singer [[Elam Jay]] develop a contemporary version of [[Gnawa music|Gnawa]], fusing it with [[R&B]] which he named ''Gnawitone Styla''. Another variation of contemporary [[Gnawa music|Gnawa]] played in [[Music of Morocco|Morocco]] is introduced by [[Darga]]. Based in [[Casablanca]], the group fusing the [[Gnawa music|Gnawa]] with [[Reggae]].
+
+However certain artists have taken to using full R&B and reggae beats and styling such as [[Darine]]. This has been met with mixed critical and commercial reaction. As of now it is not a widespread genre.
+
+====Arabic electronica====
+[[Electronic dance music]] is another genre to come out into popularity, influenced by the styles of North America, Europe, Australia, and other Western countries. Often, songs in this genre would combine electronic musical instruments with traditional Middle Eastern instruments. There are also, likewise, a number of [[nightclub]]s in the Arab world that play this kind of music.
+
+====Arabic jazz====
+Another popular form of West meets East, Arabic [[Jazz]] is also popular, with many songs using jazz instruments. Early jazz influences began with the use of the saxophone by musicians like Samir Suroor, in the "oriental" style. The use of the saxophone in that manner can be found in [[Abdel Halim Hafez]]'s songs, as well as Kadim Al Sahir and Rida Al Abdallah today. The first mainstream jazz elements were incorporated into Arabic music by the [[Rahbani]] brothers. [[Fairuz]]'s later work was almost exclusively made up of jazz songs, composed by her son [[Ziad Rahbani]]. Ziad Rahbani also pioneered today's oriental jazz movement, to which singers including [[Rima Khcheich]], Salma El Mosfi, and (on occasion) [[Latifa]] adhere. We can also find a lot of jazz music in Mohamed Mounir's songs starting from his first album which it was in 1977, till now he still make some good jazz music.
+
+====Arabic rock====
+[[Rock music]] is popular all around the world, and the Arab world is no exception. There are many [[Arabic rock]] bands that fuse the sound of [[hard rock]] with traditional Arabic instruments. Arabic Rock is gaining a lot of attention in the Middle East, with bands such as [[Massar Egbari]] , [[Sahara]], [[Wyvern]] and [[Cartoon Killerz]] in [[Music of Egypt|Egypt]], [[Meen (band)|Meen]] and [[Mashrou' Leila]] in [[Music of Lebanon|Lebanon]], [[Acrassicauda]] of [[Music of Iraq|Iraq]], and in [[Music of Jordan|Jordan]] with bands such as [[Jadal]]. The band [[Hoba Hoba Spirit]] from [[Music of Morocco|Morocco]] is also popular, especially in the [[Maghrebi]] region. [[Rachid Taha]], an [[Music of Algeria|Algerian]] musician, plays a fusion of [[Rock music|Rock]] and [[Raï]].
+
+==Musical regions==
+The world of modern Arabic music has long been dominated by musical trends that have emerged from [[Cairo]], [[Egypt]]. The city is generally considered a [[cultural center]] in the [[Arab world]]. Innovations in popular music via the influence of other regional styles have also abounded from [[Morocco]] to [[Saudi Arabia]]. In recent years, [[Beirut]] has become a major center, dictating trends in the development of [[Arabic pop music]]. Other regional styles that have enjoyed [[popular music]] status throughout the Arab world, including:
+
+{{columns
+|col1 =
+
+===North Africa===
+* [[Andalusian classical music]]
+* [[Chaabi (Algeria)]]
+* [[Chaabi (Morocco)]]
+* [[Al Jeel]] (Egypt)
+* [[gnawa music|Gnawa]]
+* [[Haqibah]]
+* [[Malhun]]
+* [[Mezwed]]
+* [[Raï]]
+* [[Sha'abi]]
+|col2 =
+
+===Arabian Peninsula===
+* [[Adani]]
+* [[Ardha]]
+* [[Fann at Tanbura]]
+* [[Fijiri]]
+* [[Khaliji (music)|Khaliji]]
+* [[Liwa (music)|Liwa]]
+* [[Mizmar (dance)|Mizmar]]
+* [[M'alayah]]
+* [[Samri]]
+* [[Samiri]]
+* [[sawt (music)|Sawt]]
+|col3 =
+
+===Levant===
+* [[Dabke]]
+}}
+
+==Genres==
+===Secular art music===
+Secular genres include [[maqam al-iraqi]], [[andalusi nubah]], [[muwashshah]], [[Fjiri song]]s, [[qasidah]], [[layali]], [[mawwal]], [[taqsim]], [[bashraf]], [[sama'i]], [[tahmilah]],<!--Why was this earlier spelled "tashmilah"?--> [[dulab]], [[sawt (music)|sawt]], and [[liwa (music)|liwa]] (Touma 1996, pp.&nbsp;55–108).
+
+===Sacred music===
+Arabic religious music includes Jewish ([[Pizmonim]] and [[Baqashot]]), Christian, and [[Islamic music]]. However, Islamic music, including the ''[[Tajwid]]'' or recitation of [[Qur'an reading]]s, is structurally equivalent to Arabic secular music, while Christian Arab music has been influenced by [[Syriac music|Syriac Orthodox]], [[Roman Catholic Church|Catholic]], [[Greek Orthodox]], [[Anglican]], [[Coptic Christianity|Coptic]], and [[Maronite]] church music. (ibid, p.&nbsp;152)
+
+==Characteristics of Arabic music==
+Much Arabic music, is characterized by an emphasis on [[melody]] and [[rhythm]], as opposed to [[harmony]]. There are some genres of Arabic music that are [[polyphonic]], but typically, Arabic music is [[homophony|homophonic]].<ref>[http://www.encyclopedia.com/doc/1E1-Arabianm.html "Arabian music" on the on-line edition of The Columbia Encyclopedia, Sixth Edition, at www.encyclopedia.com]</ref>
+
+[[Habib Hassan Touma]] (1996, p.xix-xx) submits that there are "five components" that characterize Arabic music:
+# The [[Arab tone system]]; that is, a [[musical tuning]] system that relies on specific interval structures and was invented by [[al-Farabi]] in the 10th century (p.&nbsp;170)
+# [[Rhythmic-temporal structure]]s that produce a rich variety of [[rhythm]]ic patterns, known as ''[[wazn|awzan]]'' or "weight", that are used to accompany metered vocal and instrumental genres, to accent or give them form.
+# A number of [[musical instrument]]s that are found throughout the Arab world that represent a standardized [[tone system]], are played with generally standardized performance techniques, and display similar details in construction and design.
+# Specific social contexts that produce sub-categories of Arabic music, or musical genres that can be broadly classified as urban (music of the city inhabitants), rural (music of the country inhabitants), or [[Bedouin]] (music of the desert inhabitants)..."
+# An Arab musical mentality, "responsible for the esthetic homogeneity of the tonal-spatial and rhythmic-temporal structures throughout the Arab world whether [[musical composition|compose]]d or [[improvise]]d, [[instrumental]] or [[vocal]], [[secular]] or [[sacred]]." Touma describes this musical mentality as being composed of:
+:*The phenomenon of the maqām
+:*The predominance of vocal music
+:*The tendency toward small instrumental ensembles
+:*The arrangement in different combinatory sequences of the small and smallest melodic elements - the maqams and ajnas - "and their repetition, combination, and permutation within the framework of the tonal-spatial model."
+:*The general absence of polyphony, polyrhythm, and motivic development, though Arabic music is familiar with the use of [[ostinato]], and an even more instinctive heterophonic way of producing and performing music.
+:*The alternation between a free rhythmic-temporal and fixed tonal-spatial organization on the one hand, and a fixed rhythmic-temporal and free tonal-spatial structure on the other.
+
+===Maqam system===
+[[Image:Maqam tone level example.PNG|thumb|right|350px|A Maqam tone level example]]
+Though it would be incorrect to call it a [[Musical mode|modal]] system, the Arabic system is more complex than that of the [[Greece|Greek]] modes. The basis of Arabic music is the [[Arabic maqam|maqam]] (pl. maqamat), which looks like the mode, but is not quite the same. The [[Tonic (music)|tonic]] note, [[Dominant (music)|dominant]] note, and ending note (unless modulation occurs) are generally determined by the maqam used. Arabic maqam theory as ascribed in literature over the ages names between 90 and 110 maqams, that are grouped into larger categories known as fasilah. Fasilah are groupings of maqams whose first four primary pitches are shared in common.<ref>[http://www.musiq.com/makam/page0.html http://www.musiq.com/makam/page0.html] ''Musiq.com''</ref>
+
+====Jins/Ajnas====
+{{Main|Jins}}
+The maqam consists of at least two jins, or scale segments. "Jins" in Arabic comes from the ancient Latin word "genus," meaning type. In practice, a jins (pl. ajnas) is either a [[trichord]], a [[tetrachord]], or a [[pentachord]]. The trichord is three notes, the tetrachord four, and the pentachord five. The maqam usually covers only one [[octave]] (usually two jins), but can cover more. Like the melodic minor scale, some maqamat use different ajnas, and thus note progressions, when descending and ascending. Due to continuous innovation and the emergence of new jins, and because most music scholars have not reached consensus on the subject, it is difficult to provide a solid figure for the total number of jins in use. Nonetheless, in practice most musicians would agree there are at least eight major ajnas: Rast, Bayat, Sikah, Hijaz, Saba, Kurd, Nahawand, and Ajam - and their commonly used variants such as the Nakriz, Athar Kurd, Sikah Beladi, Saba Zamzama. Mukhalif is a rare jins used almost exclusively in Iraq, and it is not used in combination with other ajnas.
+
+===More notes used than in Western scales===
+The main difference between the Western [[chromatic scale]] and the Arabic scales is the existence of many in-between notes, which are sometimes referred to as [[quarter tone]]s, for the sake of simplicity. In some treatments of theory, the quarter tone scale or all twenty four tones should exist. According to [[Yusuf Shawqi|Yūsuf Shawqī]] (1969), in practice, there are many fewer tones (Touma 1996, p.&nbsp;170).
+
+Additionally, in 1932, at the [[Cairo Congress of Arab Music]] held in Cairo, Egypt - and attended by such Western luminaries as [[Béla Bartók]] and [[Henry George Farmer]] - experiments were done which determined conclusively that the notes in actual use differ substantially from an even-tempered 24-tone scale. Furthermore, the intonation of many of those notes differ slightly from region to region (Egypt, Turkey, Syria, Iraq).
+
+====Regional scales====
+As a result of these findings, the following recommendation was issued: "The tempered scale and the natural scale should be rejected. In Egypt, the Egyptian scale is to be kept with the values, which were measured with all possible precision. The Turkish, Syrian, and Iraqi scales should remain what they are..." (translated in Maalouf 2002, p.&nbsp;220).{{Citation needed|date=February 2007}} Both in modern practice, and evident in recorded music over the course of the last century, several differently-tuned "E"s in between the E-flat and E-natural of the Western Chromatic scale are used, that vary according to the types of maqams and ajnas used, and the region in which they are used.
+
+====Practical treatment====
+Musicians and teachers refer to these in-between notes as "[[quarter tone]]s," using "half-flat" or "half-sharp" as a designation for the in-between flats and sharps, for ease of nomenclature. Performance and teaching of the exact values of intonation in each jins or maqam is usually done by ear. It should also be added, in reference to [[Habib Hassan Touma]]'s comment above, that these "quarter-tones" are not used everywhere in the maqamat: in practice, Arabic music does not modulate to 12 different tonic areas like the [[Well-Tempered Klavier]]. The most commonly used "quarter tones" are on E (between [[E-flat major|E-flat]] and [[E-flat minor]]), A, B, D, F (between [[E minor|F-natural]] and [[F♯|F-sharp]]) and C.
+
+===Vocal traditions===
+Arab classical music is known for its famed virtuoso singers, who sing long, elaborately ornamented, melismatic tunes, and are known for driving audiences into ecstasy. Its traditions come from pre-[[Islam]]ic times, when female singing [[slavery|slaves]] entertained the wealthy, and inspired warriors on the battlefield with their rajaz poetry, also performing at [[wedding]]s.
+
+===Instruments and ensembles===
+[[Image:Oud.jpg|thumb|right|80px|Front and rear views of an [[oud]].]]
+The prototypical Arabic music ensemble in Egypt and Syria is known as the [[Takht (music)|takht]], and includes, (or included at different time periods) instruments such as the [['oud]], [[kanun (instrument)|qānūn]], [[rabab]], [[ney]], [[violin]] (introduced in the 1840s or 50s), [[riq]] and [[goblet drum|dumbek]]. In Iraq, the traditional ensemble, known as the chalghi, includes only two melodic instruments - the jowza (similar to the rabab but with four strings) and [[santur]]- accompanied by the [[riq]] and [[dumbek]].
+
+The Arab world has incorporated instruments from the West, including the [[electric guitar]], [[cello]], [[double bass]] and [[oboe]], and incorporated influences from [[jazz]] and other foreign musical styles. The singers remained the stars, however, especially after the development of the recording and film industry in the 1920s in [[Cairo]]. These singing celebrities are the biggest stars in arabic classic music, they include [[Farid Al Attrach]], [[Asmahan]], [[Abd el-Halim Hafez]],  [[Sayed Darwish]], [[Mohammed Abd el-Wahaab]], [[Warda Al-Jazairia]] and [[Oum Kalthoum]]
+
+==External links==
+* [http://www.maqam.com Largest Arabic Music catalog]
+* [http://www.scoopspy.com/video/1_month/arabic_music.php ''List of Arabic Music Videos'' - Scoopspy.com]
+* [http://www.coe.ufl.edu/webtech/Timemachine/music/Arabic/answer.htm Arabic musical instruments]
+* [http://www.radiomaqam.com Arabic Music radio]
+* [http://trumpet.sdsu.edu/M151/Arab_Music1.html Article on History of Arabic music]
+* [http://www.nfb.ca/trouverunfilm/fichefilm.php?id=54249&v=h&lg=en&exp=${between}%20AND%20${two}%20AND%20${notes} ''Between Two Notes'' - a documentary * on Arab Music at NFB.ca]
+* [http://www.chelseamusicacademy.org Centre for Middle-Eastern Music in London - Tuition, Workshops, Concerts, Research]
+
+==Sources==
+* Shireen Maalouf (2002). ''History of Arabic Music Theory: Change and Continuity in the Tone Systems, Genres, and Scales''. Kaslik, Lebanon: Université Saint-Esprit.
+* Peter van der Merwe (1989). ''Origins of the Popular Style: The Antecedents of Twentiet.h-Century Popular Music''. Oxford: Clarendon Press. ISBN .
+* Habib Hassan Touma (1996). ''The Music of the Arabs'', trans. Laurie Schwartz. Portland, Oregon: Amadeus Press. ISBN 1-57467-081-6.
+
+==Further reading==
+* Lodge, David and Bill Badley. "Partner of Poetry". 2000. In Broughton, Simon and Ellingham, Mark with McConnachie, James and Duane, Orla (Ed.), ''World Music, Vol. 1: Africa, Europe and the Middle East'', pp 323–331. Rough Guides Ltd, Penguin Books. ISBN
+* Shiloah, Amnon. ''Music in the World of Islam. A Socio-Cultural Study'' 2001. ISBN
+* Julián Ribera y Tarragó. ''La música árabe y su influencia en la española'' (1985). ISBN -X {{es icon}}
+* Fernández Manzano, Reynaldo. ''De las melodías del reino nazarí de Granada a las estructuras musicales cristianas. La transformación de las tradiciones Hispano-árabes en la península Ibérica''. 1984. ISBN 84-505-1189-5
+* Fernández Manzano, Reynaldo y Santiago Simón, Emilio de (Coordinación y supervisión ed.). ''Música y Poesía del Sur de al-Andalus''. 1995. ISBN 84-7782-335-9
+
+==Notes==
+<div class="references-small">{{Reflist}}</div>
+
+==References==
+* {{Citation|last=Farmer|first=Henry George|authorlink=Henry George Farmer|year=1988|title=Historical facts for the Arabian Musical Influence|publisher=Ayer Publishing|isbn=040508496X|oclc=220811631}}
+
+{{Arabic Pop}}
+{{Middle Eastern music}}
+
+{{DEFAULTSORT:Arabic Music}}
+[[Category:Arab music| ]]
+[[Category:Arabic culture]]
+[[Category:Middle Eastern music]]
+[[Category:Classical and art music traditions]]
+
+[[ar:موسيقى عربية]]
+[[cs:Arabská hudba]]
+[[de:Arabische Musik]]
+[[es:Música árabe]]
+[[eo:Araba muziko]]
+[[fr:Musique arabe]]
+[[ko:아랍 음악]]
+[[he:מוזיקה ערבית]]
+[[la:Musica Arabica]]
+[[nl:Arabische muziek]]
+[[ja:アラブ音楽]]
+[[nn:Arabisk musikk]]
+[[sv:Arabisk musik]]
+[[ta:அரபு இசை]]
+[[zh:阿拉伯音乐]]

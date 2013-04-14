@@ -1,0 +1,323 @@
+{{About|the genus ''Rattus''|pet rats|Fancy rat|other uses|Rat (disambiguation)}}
+{{Distinguish|Mouse}}
+{{pp-semi-protected|small=yes}}
+
+{{Taxobox
+| name              = Rats
+| fossil_range      = Early [[Pleistocene]] – Recent
+| image             = Rattus_norvegicus_1.jpg
+| image_width       = 200px
+| image_caption     = The common [[Brown Rat]] (''Rattus norvegicus'')
+| regnum            = [[Animal]]ia
+| phylum            = [[Chordata]]
+| classis           = [[Mammal]]ia
+| ordo              = [[Rodent]]ia
+| superfamilia      = [[Muroidea]]
+| familia           = [[Muridae]]
+| subfamilia        = [[Murinae]]
+| genus             = '''''Rattus'''''
+| genus_authority   = [[Johann Fischer von Waldheim|Fischer de Waldheim]], 1803
+| subdivision_ranks = [[Species]]
+| subdivision       = [[Rat#Species of rats|64 species]]
+| synonyms          =
+'''''Stenomys''''' Thomas, 1910
+}}
+'''Rats''' are various medium-sized, long-tailed [[rodent]]s of the [[Family (biology)|superfamily]] Muroidea. "True rats" are members of the genus ''Rattus'', the most important of which to humans are the [[black rat]], ''Rattus rattus'', and the [[brown rat]], ''Rattus norvegicus''. Many members of other rodent genera and families are also referred to as rats, and share many characteristics with true rats.
+
+Rats are typically distinguished from [[mouse|mice]] by their size; rats are generally large [[muroid]] rodents, while mice are generally small muroid rodents. The muroid family is very large and complex, and the common terms ''rat'' and ''mouse'' are not [[taxonomy|taxonomically]] specific. Generally, when someone discovers a large muroid, its [[common name]] includes the term ''rat'', while if it is small, the name includes the term ''mouse''. Scientifically, the terms are not confined to members of the ''Rattus'' and ''[[Mus (genus)|Mus]]'' genera, for example, the [[pack rat]] and [[cotton mouse]].
+
+== Species and description ==
+The best-known rat [[species]] are the [[Black Rat]] (''Rattus rattus'') and the [[Brown Rat]] (''Rattus norvegicus''). The group is generally known as the Old World rats or true rats, and originated in [[Asia]]. Rats are bigger than most Old World [[mouse|mice]], which are their relatives, but seldom weigh over {{convert|500|g|lb}} in the wild.
+
+The term "rat" is also used in the names of other small [[mammals]] which are not true rats. Examples include the [[North American]] [[pack rats]], a number of species loosely called [[kangaroo rats]], and others. Rats such as the [[Bandicoot rat]] (''Bandicota bengalensis'') are [[murine]] rodents related to true rats, but are not members of the genus ''Rattus''. Male rats are called ''bucks'', unmated females are called ''does'', pregnant or parent females are called ''dams'', and infants are called ''kittens'' or ''pups''. A group of rats is either referred to as a ''pack'' or a ''mischief''.
+
+In some developed countries, many people keep domesticated rats as [[pets]]. These are of the species [[Brown Rat|''R. norvegicus'']], which originated in the grasslands of [[China]] and spread to [[Europe]] and eventually, in 1775, to the New World. Pet rats are Brown Rats descended from those bred for research, and are often called "[[fancy rat]]s", but are the same species as the common city "sewer" rat. Domesticated rats tend to be both more docile than their wild ancestors and more disease prone, presumably due to inbreeding.
+
+The common species are opportunistic survivors and often live with and near [[humans]], therefore they are known as [[commensals]]. They may cause substantial food losses, especially in developing countries<ref>{{cite journal |author=Meerburg BG, Singleton GR, Leirs H|title=The Year of the Rat ends: time to fight hunger!|journal=Pest Manag Sci |volume=65 |issue=4 |year=2009 |pmid=19206089 |doi=10.1002/ps.1718 |url=http://www3.interscience.wiley.com/journal/121686000/abstract |pages=351–2}}</ref>. However, the widely distributed and problematic [[commensal]] species of rats are a minority in this diverse genus. Many species of rats are [[Endemic (ecology)|island endemics]] and some have become endangered due to habitat loss or competition with the [[brown rat|Brown]], [[Black Rat|Black]] or [[Polynesian Rat|Polynesian]] rat.
+
+Wild rats can carry many different [[zoonotic]] pathogens, such as e.g. [[Leptospira]], [[Toxoplasma gondii]] and [[Campylobacter]], and may transfer these across species, for example to humans<ref name="Meerburg BG, Singleton GR, Kijlstra A 2009">{{cite journal |author=Meerburg BG, Singleton GR, Kijlstra A|title=Rodent-borne diseases and their risks for public health|journal=Crit Rev Microbiol|volume=35 |issue=3|year=2009 |pmid=19548807|doi=10.1080/10408410902989837|url=http://www.informahealthcare.com/doi/pdf/10.1080/10408410902989837 |pages=221–70}}</ref>. The [[Black Death]] is traditionally believed to have been caused by the micro-organism ''[[Yersinia pestis]]'', carried by the Tropical Rat Flea (''[[Xenopsylla cheopis]]'') which preyed on [[Black Rat]] living in European cities during the epidemic outbreaks of the Middle Ages; these rats were used as transport hosts. Today, this cycle still exists in many countries of the world and plague outbreaks still occur every year. Beside transmitting zoonotic pathogens, rats are also linked to the spread of contagious animal pathogens that may result in livestock diseases such as [[Classical swine fever]] and [[Foot-and-mouth disease]].
+
+The normal lifespan of rats ranges from two to five years, and is typically three years.
+
+== As pets ==
+{{main|Fancy rat}}
+[[File:Rat shoulder.jpg|thumb|150px|A domesticated rat]]
+Specially bred rats have been kept as pets at least since the late 19th century. Pet rats are typically variants of the species [[Brown rat]], but [[Black rat]]s and [[Giant pouched rat]]s are also known to be kept. Pet rats behave differently than their wild counterparts depending on how many generations they have been kept as pets.<ref name=NaturalSelection>{{cite web|url=http://www.ratbehavior.org/WildAndDomesticRats.htm|title=Wild Rats in Captivity and Domestic Rats in the Wild|accessdate=2009-07-04}}</ref> Pet rats do not pose any more of a [[zoonosis|health risk]] than pets such as [[cat]]s or [[dog]]s.<ref name=Zoonoses>{{cite web|url=http://www.merckvetmanual.com/mvm/htm/bc/tzns01.htm|title=Merk Veterinary Manual Global Zoonoses Table|accessdate=2006-11-24}}</ref> Tamed rats are generally friendly and can be taught to perform selected behaviors.
+
+== As subjects of scientific research ==
+{{main|Laboratory rat}}
+[[File:Rat diabetic.jpg|thumb|left|170px|A laboratory rat strain known as a Zucker rat. These rats are bred to be genetically prone to [[Diabetes mellitus|diabetes]], the same [[metabolic disorder]] found among humans.]]
+In 1895, [[Clark University]] in [[Worcester]], [[Massachusetts]] ([[United States]]) established a population of domestic white brown rats to study the effects of diet and for other physiological studies. Over the years, rats have been used in many experimental studies, which have added to our understanding of [[genetics]], [[disease]]s, the effects of [[drug]]s, and other topics that have provided a great benefit for the [[health]] and wellbeing of humankind. Laboratory rats have also proved valuable in psychological studies of learning and other mental processes (Barnett, 2002), as well as to understand [[group behavior]] and overcrowding (with the work of [[John B. Calhoun]] on [[behavioral sink]]). A 2007 study found rats to possess [[metacognition]], a mental ability previously only documented in humans and some primates.<ref>{{cite journal|last=Foote|first=Allison L.|coauthors=Jonathon D. Crystal|title=Metacognition in the Rat|journal=Current Biology|volume=17|issue=6|pages=551–555|date=20 March 2007|url=http://www.current-biology.com/content/article/abstract?uid=PIIS0960982207009311|doi=10.1016/j.cub.2007.01.061|pmid=17346969|pmc=1861845}}</ref><ref>[http://www.sciencedaily.com/releases/2007/03/070308121856.htm Rats Capable Of Reflecting On Mental Processes]</ref>
+
+Domestic rats differ from wild rats in many ways. They are calmer and less likely to bite; they can tolerate greater crowding; they breed earlier and produce more offspring; and their [[brain]]s, [[liver]]s, [[kidney]]s, [[adrenal gland]]s, and [[heart]]s are smaller (Barnett 2002).
+
+[[Brown rat]]s are often used as [[model organism]]s for scientific research. Since the publication of the Rat Genome Sequence <ref>Gibbs RA et al: Genome sequence of the Brown Norway rat yields insights into mammalian evolution.: Nature. 2004 Apr 1; 428(6982):475-6.</ref>, and other advances such as the creation of a rat [[SNP genotyping|SNP chip]], and the production of [[knockout rats]], the [[laboratory rat]] has become a useful genetic tool, although not as popular as [[mice]]. When it comes to conducting tests related to intelligence, learning, and [[drug abuse]], rats are a popular choice due to their high [[intelligence]], [[ingenuity]], [[aggressiveness]], and [[adaptability]]. Their [[psychology]], in many ways, seems to be similar to humans. Entirely new [[breed]]s or "lines" of brown rats like the [[Wistar rat]] have been bred for use in laboratories. Much of the genome of ''Rattus norvegicus'' has been sequenced.<ref>{{cite web|url=http://www.ensembl.org/Rattus_norvegicus/index.html|title=Genome project|accessdate=17 February 2007|publisher=''www.ensembl.org''}}</ref>
+{{-}}
+
+== As food ==
+[[File:Rat meat dishes.jpg|thumb|Rat meat dishes in [[Yangshuo]], [[Guangxi]], China]]
+<!-- This section is the target of an [[internal link]] from [[Taboo food and drink]] -->
+Rat meat is a food that while [[taboo food and drink|taboo]] or even forbidden in some cultures, is a dietary staple in others. Taboos include fears of disease or religious prohibition, but in many places rats are so plentiful compared to other sources of protein that it's logical why people would incorporate them into their diet.
+
+In some cultures, rats are or have been limited as an acceptable form of food to a particular social or economic class. In the [[Mishmi]] culture of India, rats are essential to the traditional diet, as Mishmi women may eat no meat except fish, pork, wild birds and rats.<ref>Mills, J. P. (January 1952) ''The Mishmis of the Lohit Valley, Assam''. The Journal of the Royal Anthropological Institute of Great Britain and Ireland, Vol. 82, No. 1. pp. 1-12</ref> Conversely, the [[Musahar]] community in north India has commercialised rat farming as an exotic delicacy.<ref>[http://timesofindia.indiatimes.com/Heads_and_Tales/Rat_meat_to_be_commercialised_in_Bihar/articleshow/3351440.cms Musahar Hindus commercialise rat farming]</ref> In the traditional cultures of the Hawaiians and the Polynesians, rat was an everyday food for commoners. When feasting, the Polynesian people of [[Rapa Nui]] could eat rat, but the king was not allowed to due to the islanders' belief in a "state of sacredness" called [[Tapu (Polynesian culture)|''tapu'']].<ref>Leach, Helen. (February 2003) ''Did East Polynesians Have a Concept of Luxury Foods?'' World Archaeology, Vol. 34, No. 3, Luxury Foods. pp. 442-457.</ref> In studying pre-contact archaeological sites in [[Hawaii]], archaeologists have found that the concentration of the remains of rats associated with commoner households counted for three times the animal remains associated with elite households. The rat bones found in all sites are fragmented, burned and covered in carbonized material, indicating that rats were eaten as food. The greater occurrence of rat remains associated with commoner households may indicate that the elites of pre-contact Hawaii did not consume them as a matter of status or taste.<ref>Kirch, Patrick V.; Sharyn Jones O'Day. (February 2003) ''New Archaeological Insights into Food and Status: A Case Study from Pre-Contact Hawaii.'' World Archaeology, Vol. 34, No. 3. pp. 484-497</ref>
+
+[[Bandicoot rat]]s are an important food source among some peoples in [[Southeast Asia]], and the United Nations Food and Agriculture Organization estimates that rat meat makes up half the locally produced meat consumed in [[Ghana]], where [[cane rat]]s are farmed and hunted for their meat.
+African slaves in the American South were known to hunt [[wood rat]]s (among other animals) to supplement their food rations,<ref>Otto, John Solomon; Augustus Marion Burns III. (December 1983) ''Black Folks, and Poor Buckras: Archeological Evidence of Slave and Overseer Living Conditions on an Antebellum Plantation''. Journal of Black Studies, Vol. 14, No. 2. pp. 185-200</ref> and Aborigines along the coast in Southern Queensland, Australia regularly included rats in their diet.<ref>Hobson, Keith A.; Stephen Collier. (April 1984) ''Marine and Terrestrial Protein in Australian Aboriginal Diets''. Current Anthropology, Vol. 25, No. 2. pp. 238-240</ref>
+
+Ricefield rats ''([[Rattus argentiventer]])'' have traditionally been used as food in rice-producing regions like [[Valencia (province)|Valencia]], as immortalized by [[Vicente Blasco Ibáñez]] in his novel ''Cañas y barro''. Along with [[eel]] and local [[bean]]s known as "''garrafons''", ''rata de marjal'' is one of the main ingredients in traditional [[paella]] (later replaced by rabbit, chicken and seafood).<ref>Manuel Vázquez Montalbán, ''La cocina de los mediterráneos'', Ediciones B - Mexico</ref> Ricefield rats are also consumed in the [[Philippines]], the [[Isaan]] region of [[Thailand]], as well as [[Cambodia]]. In late 2008, Reuters reported that the price of rat meat had quadrupled in Cambodia creating a hardship for the poor who could no longer afford it. Cambodia exports about a metric ton of rats daily to [[Vietnam]] as food.<ref>[http://www.abc.net.au/news/stories/2008/08/27/2348348.htm Poor struggle as rat meat prices soar]</ref>
+
+Elsewhere in the world, rat meat is considered diseased and unclean, socially unacceptable, or there are strong religious proscriptions against it. The British [[Special Air Service|SAS]]'s rule book lists rat as the only meat which its members in action are not allowed to eat in order to prevent them from contracting [[Weil's disease]]. [[Islamic dietary laws|Islam]] and [[Kashrut]] traditions prohibit it, while both the Shipibo people of Peru and Sirionó people of Bolivia have cultural taboos against the eating of rats.<ref>Behrens, Clifford A. (September 1986) ''Shipibo Food Categorization and Preference: Relationships between Indigenous and Western Dietary Concepts''. American Anthropologist, Nathan New Series, Vol. 88, No. 3. pp. 647-658.</ref><ref>Priest, Perry N. (October 1966) ''Provision for the Aged among the Sirionó Indians of Bolivia''. American Anthropologist, New Series, Vol. 68, No. 5. pp. 1245-1247</ref>
+
+Rats are a common food item for snakes, both in the wild, and as pets. Captive-bred [[ball python]]s in particular, are fed a diet of mostly rats. Rats, as food items, are available from many suppliers who supply to individual snake owners as well as to large reptile zoos. In Britain the government in 2007 ruled out the feeding of any live mammal to another animal. The rule says the animal must be dead (frozen) then given to the animal to eat. The rule was put in to place mainly because of the pressure of the [[RSPCA]] and people who found it cruel.
+
+== In medicine ==
+Rats can serve as [[zoonotic]] vectors for certain pathogens and thus cause disease, such as [[Lassa fever]] and [[Hantavirus]]. ''Rattus rattus'', and the rat flea [[Xenopsylla cheopis]], are notorious for their role in epidemics of [[bubonic plague]]<ref name="Meerburg BG, Singleton GR, Kijlstra A 2009"/>.
+
+== In odor detection==
+Rats have a very good sense of smell and are easy to train, this has led to their use in [[Landmine]] and [[Tuberculosis]] detection <ref>[http://www.ted.com/talks/bart_weetjens_how_i_taught_rats_to_sniff_out_land_mines.html Video of Bart Weetjens talk on use of rats as odour detectors]</ref>
+
+== In culture ==
+[[Ancient Romans]] did not generally differentiate between rats and mice, instead referring to the former as ''Mus Maximus'' (big mouse) and the latter as ''Mus Minimus'' (little mouse).
+
+On the [[Isle of Man]] (a dependency of the British Crown) there is a [[taboo]] against the word "rat." See ''[[Longtail (rat)]]'' for more information.
+
+=== In Asian cultures ===
+In Indian tradition rats are recognized as the vehicle of [[Lord Ganesh]] and a rat's statue is always found in a temple of Ganesh. In the northwestern Indian city of [[Deshnoke]], the rats at the [[Karni Mata]] Temple are held to be destined for [[reincarnation]] as [[Sadhu]]s ([[Hindu]] holy men). The attending priests feed milk and grain to the rats, of which the pilgrims also partake. Eating food that has been touched by rats is considered a blessing from god.
+
+In Imperial [[Chinese culture]], the rat (sometimes referred to as a mouse) is the first of the twelve animals of the [[Chinese zodiac]]. People born in this year are expected to possess qualities associated with rats, including creativity, intelligence, honesty, generosity, ambition, a quick temper and wastefulness. People born in a year of the rat are said to get along well with "monkeys" and "dragons," and to get along poorly with "horses."
+[[File:Rat temple.jpg|thumb|right|The indigenous rats are allowed to run freely throughout the [[Karni Mata]] temple.]]
+
+=== In European cultures ===
+European associations with the rat are generally negative. For instance, "Rats!" is used as a substitute for various vulgar [[interjection]]s in the English language. These associations do not draw, ''per se'', from any biological or behavioral trait of the rat, but possibly from the association of rats (and [[fleas]]) with the 14th-century medieval plague called the [[Black Death]]. Rats are seen as vicious, unclean, parasitic animals that steal food and spread disease. However some people in European cultures keep [[Fancy rat|rats as pets]] and conversely find them to be tame, clean, intelligent, and playful.
+
+Rats are often used in scientific [[experiment]]s; [[animal rights]] activists allege that treatment of rats in this context is cruel. The term "lab rat" is used, typically in a self-effacing manner, to describe a person whose job function requires that they spend a majority of their work time engaged in bench-level research (i.e. a scientist or research assistant).
+
+==== ''Rat'' in terminology ====
+Rats are frequently blamed for damaging food supplies and other goods, or spreading disease. Their reputation has carried into common parlance: in the [[English language]], ''rat'' is often an insult. ''Rat'' is generally used to signify an unscrupulous character. Writer/Director [[Preston Sturges]] created the humorous alias "Ratskywatsky" for a soldier who seduced, impregnated, and abandoned the heroine of his [[1944]] film, ''[[The Miracle of Morgan's Creek]]''. It is a term ([[noun]] and [[verb]]) in criminal slang for an [[informant]] - "to rat on someone" is to betray them by informing the authorities of a [[crime]] or misdeed they committed. Describing a person as "rat-like" usually implies he or she is unattractive and suspicious.
+
+Among [[trade union|union]]s, "rat" is a term for non-union employers or breakers of union contracts, and this is why unions use [[inflatable rat]]s. [http://nj.npri.org/nj98/07/power&privilege.htm]
+
+=== In religion ===
+*In [[Leviticus]] 11:29, rats are prohibited as food. (See 'as food' above.)
+
+=== In fiction ===
+{{see also|Fancy rat#In fiction|l1=Fancy rat|Laboratory rat#In fiction|l2=Laboratory rat}}
+[[File:Alaskadeathtrapa.jpg|right|thumb|[[Imperial Japan]] depicted as a rat in a [[WWII]] United States Navy propaganda poster]] 
+Depictions of rats in fiction are historically inaccurate and negative. The most common falsehood is the squeaking almost always heard in otherwise realistic portrayals (i.e. non-[[anthropomorphic]]). While the recordings may be of actual squeaking rats, the noise is uncommon - they may do so only if distressed, hurt, or annoyed. Normal vocalizations are very high-pitched, well outside the range of human hearing. Rats are also often cast in vicious and aggressive roles when in fact it is their shyness which helps keep them undiscovered for so long in an infested home.
+
+The actual portrayals of rats vary from negative to positive with a majority in the negative and ambiguous.<ref name="clute">{{cite book|last=Clute|first=John|coauthors=John Grant|title=The Encyclopedia of Fantasy|publisher=St. Martin's Griffin|date=March 15, 1999|pages=642|isbn=0312198698 }}</ref> The rat plays a villain in several mouse societies; from Brian Jacques's ''[[Redwall]]'' and Robin Jarvis's ''[[The Deptford Mice]]'', to the roles of Disney's [[The_Great_Mouse_Detective#Cast|Professor Ratigan]] and Kate DiCamillo's [[The Tale of Despereaux|Roscuro]] and [[The Tale of Despereaux (film)|Botticelli]]. They have often been used as a mechanism in horror; being the titular evil in stories like ''[[The Rats (novel)|The Rats]]'' or H.P. Lovecraft's ''[[The Rats in the Walls]]'' <ref name="clute"/> and in films like ''[[Willard (1971 film)|Willard]]'' and ''[[Ben (film)|Ben]]''. Another terrifying use of rats is as a method of [[rat torture|torture]], for instance in [[Room 101]] in George Orwell's ''[[Nineteen Eighty-Four]]'' or ''[[The Pit and the Pendulum]]'' by [[Edgar Allan Poe]]. 
+
+Selfish helpfulness —those willing to help for a price— has also been attributed to fictional rats.<ref name="clute"/> Templeton, from E. B. White's ''[[Charlotte's Web]]'', repeatedly reminds the other characters that he is only involved because it means more food for him, and the cellar-rat of John Masefield's ''[[The Midnight Folk]]'' requires bribery to be of any assistance. 
+
+Some fictional works use rats as the main characters. Notable examples include the society created by O'Brien's ''[[Mrs. Frisby and the Rats of NIMH]]'', ''[[Doctor Rat]]'', [[Rizzo the Rat]] from [[The Muppets]], and films like ''[[Ratatouille (film)|Ratatouille]]''. ''[[Mon oncle d'Amérique]]'' ("''My American Uncle''"), a [[1980 in film|1980]] [[cinema of France|French film]] illustrates [[Henri Laborit]]'s theories on [[evolutionary psychology]] and [[human behavior]]s by using short sequences in the storyline showing lab rat experiments.
+
+==== The Pied Piper ====
+One of the oldest and most historic stories about rats is ''[[The Pied Piper of Hamelin]]'', in which a rat-catcher leads away an infestation with enchanted music—the piper is later refused payment, so he in turn leads away the town's children. This tale, placed in Germany around the late 13th century, has inspired the realms of film, theatre, literature, and even opera. The subject of much research, some theories have intertwined the tale with events related to the [[Black Plague]], in which [[black rat]]s may have played an important role. Fictional works based on the tale that focus heavily on the rat aspect include Pratchett's ''[[The Amazing Maurice and his Educated Rodents]]'', and Belgian graphic novel ''[[:fr:Le Bal du Rat Mort|Le Bal du Rat Mort]]'' (''The Ball of the Dead Rat'').
+
+== Taxonomy of ''Rattus'' ==
+The genus ''Rattus'' is a member of the giant subfamily [[Murinae]]. There are several other murine genera that are sometimes considered part of ''Rattus'': ''[[Lenothrix]]'', ''[[Anonymomys]]'', ''[[Sundamys]]'', ''[[Kadarsanomys]]'', ''[[Diplothrix]]'', ''[[Margaretamys]]'', ''[[Lenomys]]'', ''[[Komodomys]]'', ''[[Palawanomys]]'', ''[[Bunomys]]'', ''[[Nesoromys]]'', ''[[Stenomys]]'', ''[[Taeromys]]'', ''[[Paruromys]]'', ''[[Abditomys]]'', ''[[Tryphomys]]'', ''[[Limnomys]]'', ''[[Tarsomys]]'', ''[[Bullimus]]'', ''[[Apomys]]'', ''[[Millardia]]'', ''[[Srilankamys]]'', ''[[Niviventer]]'', ''[[Maxomys]]'', ''[[Leopoldamys]]'', ''[[Berylmys]]'', ''[[Mastomys]]'', ''[[Myomys]]'', ''[[Praomys]]'', ''[[Hylomyscus]]'', ''[[Heimyscus]]'', ''[[Stochomys]]'', ''[[Dephomys]]'', and ''[[Aethomys]]''.
+
+The genus ''Rattus'' proper contains 64 extant [[species]]. A subgeneric breakdown of the species has been proposed, but does not include all species.
+
+=== Species of rats ===
+{{columns-list|3|
+Genus '''''Rattus''''' - Typical rats
+*''[[incertae sedis]]''
+** [[Annandale's Rat]] (''Rattus annandalei'') – [[Indonesia]], [[Malaysia]], and [[Singapore]]
+** [[Enggano Rat]] (''Rattus enganus'') – [[Indonesia]]
+** [[Philippine Forest Rat]] (''Rattus everetti'') – [[Philippines]]
+** [[Polynesian Rat]] (''Rattus exulans'') – [[Fiji]] and most Polynesian islands, [[New Zealand]], [[Easter Island]], and [[Hawaii]]
+** [[Hainald's Rat]] (''Rattus hainaldi'') – [[Indonesia]]
+** [[Hoogerwerf's Rat]] (''Rattus hoogerwerfi'') – [[Indonesia]]
+** [[Korinch's Rat]] (''Rattus korinchi'') – [[Indonesia]]
+** † [[Maclear's Rat]] (''Rattus macleari'') – [[Christmas Island]]
+** [[Nillu Rat]] (''Rattus montanus'') – [[Sri Lanka]]
+** [[Molaccan Prehensile-tailed Rat]] (''Rattus morotaiensis'') – [[Indonesia]]
+** † [[Bulldog Rat]] (''Rattus nativitatis'') – [[Christmas Island]]
+** [[Kerala Rat]] (''Rattus ranjiniae'') – [[India]]
+** [[New Ireland Rat]], ''Rattus sanila''
+** [[Andaman Rat]] (''Rattus stoicus'') – [[Andaman Islands]]
+** [[Timor Rat|Timor rat]] (''Rattus timorensis'') – [[Timor]]
+*''R. norvegicus'' group
+** [[Himalayan Field Rat]] (''Rattus nitidus'') – [[Bangladesh]], [[Bhutan]], [[China]], [[India]], [[Indonesia]], [[Laos]], [[Myanmar]], [[Nepal]], [[Palau]], the [[Philippines]], [[Thailand]], and [[Vietnam]]
+** [[Brown Rat]] or [[Norway Rat]] (''Rattus norvegicus'') – worldwide except Antarctica
+** [[Turkestan Rat]] (''Rattus pyctoris''; obs. ''Rattus turkestanicus'') – [[Afghanistan]], [[China]], [[India]], [[Iran]], [[Kyrgyzstan]], [[Nepal]], and [[Pakistan]]
+*''R. rattus'' group
+** [[Sunburned Rat]] (''Rattus adustus'') – [[Enggano Island]], [[Indonesia]]
+** [[Sikkim Rat]] (''Rattus andamanensis'') – [[Bhutan]], [[Cambodia]], [[China]], [[India]], [[Laos]], [[Myanmar]], [[Nepal]], [[Thailand]], and [[Vietnam]]
+** [[Rice-field Rat]] (''Rattus argentiventer'') – [[Southeast Asia]]
+** [[Summit Rat]] (''Rattus baluensis'') – [[Malaysia]]
+** [[Aceh Rat]], ''Rattus blangorum''
+** [[Nonsense Rat]] (''Rattus burrus'') – [[India]]
+** [[Hoffmann's Rat]] (''Rattus hoffmanni'') – [[Indonesia]]
+** [[Koopman's Rat]] (''Rattus koopmani'') – [[Indonesia]]
+** [[Lesser Rice-field Rat]] (''Rattus losea'') – [[China]], [[Laos]], [[Taiwan]], [[Thailand]], and [[Vietnam]]
+** [[Mentawai Rat]] (''Rattus lugens'') – [[Indonesia]]
+** [[Mindoro Black Rat]] (''Rattus mindorensis'') – [[Philippines]]
+** [[Little Soft-furred Rat]] (''Rattus mollicomulus'') – [[Indonesia]]
+** [[Osgood's Rat]] (''Rattus osgoodi'') – [[Vietnam]]
+** [[Palm Rat]] (''Rattus palmarum'') – [[India]]
+** [[Black Rat]] (''Rattus rattus'') – worldwide except Antarctica
+** [[Sahyadris Forest Rat]], ''Rattus satarae''
+** [[Simalur Rat]] (''Rattus simalurensis'') – [[Indonesia]]
+** [[Tanezumi Rat]] (''Rattus tanezumi'') – [[Afghanistan]], [[Bangladesh]], [[Cambodia]], [[China]], [[Cocos (Keeling) Islands]], [[Fiji]], [[India]], [[Indonesia]], [[Japan]], [[North Korea]], [[South Korea]], [[Laos]], [[Malaysia]], [[Myanmar]], [[Nepal]], [[Pakistan]], the [[Philippines]], [[Taiwan]], [[Thailand]], and [[Vietnam]]
+** [[Tawi-Tawi Forest Rat]] (''Rattus tawitawiensis'') – [[Philippines]]
+** [[Malayan Field Rat]] (''Rattus tiomanicus'') – [[Indonesia]], [[Malaysia]], the [[Philippines]], and [[Thailand]]
+*''R. xanthurus'' group
+** [[Bonthain Rat]] (''Rattus bontanus''; obs. ''Rattus foramineus'') – [[Indonesia]]
+** [[Opossum Rat]] (''Rattus marmosurus'') – [[Indonesia]]
+** [[Peleng Rat]] (''Rattus pelurus'') – [[Indonesia]]
+** ''[[Rattus salocco]]''
+** [[Yellow-tailed Rat]] (''Rattus xanthurus'') – [[Indonesia]]
+*''R. leucopus'' group (New Guinean group)
+** [[Arfak Rat|Arfak Rat (Vogelkop Mountain Rat)]], ''Rattus arfakiensis''
+** [[Western New Guinea Mountain Rat]], ''Rattus arrogans''
+** [[Sula Rat]] (''Rattus elaphinus'') – [[Indonesia]]
+** [[Spiny Ceram Rat]] (''Rattus feliceus'') – [[Indonesia]]
+** [[Giluwe Rat]] (''Rattus giluwensis'') – [[Papua New Guinea]]
+** [[Japen Rat]] (''Rattus jobiensis'') – [[Indonesia]]
+** [[Cape York Rat]] (''Rattus leucopus'') – [[Australia]], [[Indonesia]], and [[Papua New Guinea]]
+** [[Eastern Rat]] (''Rattus mordax'') – [[Papua New Guinea]]
+** [[Moss-forest Rat]] (''Rattus niobe'') – [[Papua New Guinea]], [[Indonesia]]
+** [[New Guinean Rat]] (''Rattus novaeguineae'') – [[Papua New Guinea]]
+** [[Arianus's Rat]], ''Rattus omichlodes''
+** [[Pocock’s Highland Rat]], ''Rattus pococki''
+** [[Spiny Rat]] (''Rattus praetor'') – [[Indonesia]], [[Papua New Guinea]], and [[Solomon Islands]]
+** [[Glacier Rat]] (''Rattus richardsoni'') – [[Indonesia]]
+** [[Stein's Rat]] (''Rattus steini'') – [[Indonesia]] and [[Papua New Guinea]]
+** [[Van Deusen's Rat]] (''Rattus vandeuseni'') – [[Papua New Guinea]]
+** [[Slender Rat]] (''Rattus verecundus'') – [[Indonesia]] and [[Papua New Guinea]]
+*''R. fuscipes'' group (Australian group)
+** [[Dusky Rat]] (''Rattus colletti'') – [[Australia]]
+** [[Bush Rat]] (''Rattus fuscipes'') – [[Australia]]
+** [[Australian Swamp Rat]] (''Rattus lutreolus'') – [[Australia]]
+** [[Dusky Field Rat]] (''Rattus sordidus'') – [[Australia]], [[Indonesia]], and [[Papua New Guinea]]
+** [[Pale Field Rat]] (''Rattus tunneyi'') – [[Australia]]
+** [[Long-haired Rat]] (''Rattus villosissimus'') – [[Australia]]
+}}
+
+== See also ==
+{{commons category|Rats}}
+* [[Black rat]]
+* [[Brown rat]]
+* [[List of fictional mice and rats]]
+* [[Mouse]]
+* [[Oriental rat flea]]
+* [[Rat (zodiac)]]
+* [[Rat-baiting]]
+* [[Rat-catcher]]
+* [[Working rat]]
+* [[Rattus Norvegicus (album)|Rattus Norvegicus]], a [[punk-rock]] album by the band "[[The Stranglers]]" which uses the Latin name for "Brown Rat".
+* [[East Timor giant rat]]
+
+== Further reading ==
+* Barnett, S. Anthony (2002) ''The Story of Rats: Their Impact on Us, and Our Impact on Them'', Allen & Unwin, Crows Nest, NSW, 202 pages, ISBN 1-86508-519-7 .
+* Hendrickson, R. (1983) ''More Cunning than Man: A Complete History of the Rat and its Role in Civilization'', Kensington Books. ISBN 1-57566-393-7
+* Jahn, G. C., P. Cox, S. Mak, and N. Chhorn (1999) "Farmer participatory research on rat management in Cambodia", In G. Singleton, L. Hinds, H. Leirs and Zhibin Zhang [Eds.] ''Ecologically-based rodent management'' ACIAR, Canberra. Ch. 17, pp.&nbsp;358–371. ISBN 1 86320 262 5
+* {{cite journal | last1 = Leung | first1 = LKP | last2 = Cox | first2 = Peter G. | last3 = Jahn | first3 = G. C. | last4 = Nugent | first4 = Robert | year = 2002 | title = Evaluating rodent management with Cambodian rice farmers | url = | journal = Cambodian Journal of Agriculture | volume = 5 | issue = | pages = 21–26 }}
+* [http://www.gutenberg.org/files/17243/17243-h/17243-h.htm#startoftext Matthews, I. (1898) 1st ed. ''Full Revelations of a Professional Rat-Catcher, after 25 Years’ Experience'', Manchester: Friendly Societies Printing Co. ISBN 1-905124-64-3]
+* Musser, G. G. and M. D. Carleton. 1993. "Family [[Muridae]]" in D. E. Wilson and D. M. Reeder eds. "[[Mammal]] [[Species]] of the World a Taxonomic and Geographic Reference", [[Smithsonian]] Institution Press, Washington D.C. pp.&nbsp;501–755
+* Nowak, R. M. (1999) ''Walker's [[Mammal]]s of the World'' Vol. 2. Johns Hopkins University Press, London.
+* Sullivan, Robert (2004) ''Rats: A Year with [[New York]]´s Most Unwanted Inhabitants'', Granta Books, London.
+* Sullivan, Robert (2005) ''Rats: Observations on the History and Habitat of the City's Most Unwanted Inhabitants'' Bloomsbury USA. ISBN 1-58234-477-9
+
+== References and notes ==
+{{reflist|2}}
+
+== External links ==
+<!-- ==============================({{NoMoreLinks}})============================== -->
+<!-- DO NOT ADD MORE LINKS TO THIS ARTICLE. WIKIPEDIA IS NOT A COLLECTION OF LINKS -->
+<!-- If you think that your link might be useful,  instead of placing it here, put -->
+<!-- it on this article's discussion page first. Links that have not been verified -->
+<!--                                WILL BE DELETED                                -->
+<!-- ============================================================================= -->
+{{Wikiquote|Rats}}
+* [http://brainmaps.org/index.php?p=speciesdata&species=rattus-norvegicus High-Resolution Images of the Rat Brain]
+* [http://www.anim.med.kyoto-u.ac.jp/nbr/home.htm National Bio Resource Project for the Rat in Japan]
+* [http://www.ratbehavior.org/rats.html Rat Behaviour and Biology]
+* [http://rgd.mcw.edu/ Rat Genome Database]
+*{{Wikisource-inline|list=
+**{{Cite NIE|Rat|year=1905|noicon=x}}
+**{{Cite EB1911|Rat|noicon=x}}
+**{{Cite Americana|Rat|year=1920|noicon=x}}
+}}
+
+{{Murinae|R.}}
+
+[[Category:Old World rats and mice]]
+[[Category:Scavengers]]
+
+[[af:Rot]]
+[[als:Ratten]]
+[[ar:جرذ]]
+[[an:Rattus]]
+[[az:Siçovullar]]
+[[zh-min-nan:Toā-chhí]]
+[[be:Пацукі]]
+[[be-x-old:Пацук]]
+[[bar:Råtzn]]
+[[br:Razh]]
+[[bg:Плъхове]]
+[[ca:Rata]]
+[[cs:Krysa]]
+[[da:Rotte]]
+[[de:Ratten]]
+[[nv:Łéʼétsoh]]
+[[et:Rott]]
+[[el:Αρουραίος]]
+[[es:Rattus]]
+[[eo:Rato]]
+[[fa:موش صحرایی]]
+[[fr:Rattus]]
+[[ga:Francach (ainmhí)]]
+[[gv:Roddan]]
+[[gl:Rata]]
+[[ko:쥐]]
+[[hi:चूहा]]
+[[hr:Štakori]]
+[[io:Rato]]
+[[ia:Ratto]]
+[[is:Rottur]]
+[[it:Rattus]]
+[[he:חולדה]]
+[[sw:Panya]]
+[[ht:Rat]]
+[[la:Rattus]]
+[[lv:Žurkas]]
+[[lt:Žiurkės]]
+[[lmo:Pàtega]]
+[[hu:Patkány]]
+[[mk:Стаорец]]
+[[ml:എലി]]
+[[ms:Rattus]]
+[[my:ကြွက်]]
+[[nah:Caxtillān quimichin]]
+[[nl:Rattus]]
+[[ne:मुसा]]
+[[ja:クマネズミ属]]
+[[nap:Zoccula]]
+[[no:Rotter]]
+[[nn:Rotte]]
+[[oc:Rattus]]
+[[pl:Szczur]]
+[[pt:Rattus]]
+[[ro:Șobolan]]
+[[qu:Hatun ukucha]]
+[[ru:Крысы]]
+[[sah:Кырыысалар]]
+[[scn:Rattu (armali)]]
+[[simple:Rat]]
+[[sl:Podgana]]
+[[sr:Пацов]]
+[[fi:Rotat]]
+[[sv:Råttor]]
+[[tl:Malaking daga]]
+[[ta:எலி]]
+[[te:ఎలుక]]
+[[th:หนู]]
+[[chr:ᏥᏍᏕᏥ]]
+[[tr:Keme]]
+[[uk:Пацюк]]
+[[vi:Chuột cống]]
+[[war:Yatot]]
+[[zh:大家鼠]]

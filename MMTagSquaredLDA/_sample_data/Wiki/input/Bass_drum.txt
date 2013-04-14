@@ -1,0 +1,132 @@
+{{Original research|date=December 2010}}
+{{ drum kit components}}
+[[Image:Four to the floor bass dru.png|thumb|270px|"[[Four to the floor]]", steady beat maintained by bass drum<ref>"The Dance Music Manual: Tools, Toys and Techniques", [[Rick Snoman]] (2004) ISBN 0-240-51915-9</ref> {{Audio|Four to the floor beat.mid|play within typical rock beat}}]]
+
+The bass drums are of variable sizes and are used in several musical genres (see [[#Usage|usage]] below). Three major types of bass drums can be distinguished.  The type usually seen or heard in orchestral, ensemble or concert band music is the orchestral, or concert '''bass drum''' (in Italian: gran cassa, gran tamburo). It is the largest drum of the orchestra. The 'kick' drum, struck with a beater attached to a pedal, is usually seen on [[drum kit]]s.  The third type, the pitched bass drum, is generally used in marching bands and drum corps.  This particular type of drum is tuned to a specific pitch and is usually played in a set of three to five drums. The bass drum was imported from the Middle East.
+
+In music, the bass drum is used to mark or keep time. In marches it is used to project tempo (marching bands historically march to the beat of the bass). A basic beat for [[rock and roll]] has the bass drum played on the first and third beats of a bars of [[Time signature|common time]], with the [[snare drum]] on the second and fourth beats, called "back beats". In jazz, the bass drum can vary from almost entirely being a timekeeping medium to being a melodic voice in conjunction with the other parts of the set. In classical music, the bass drum often punctuates a musical impact, although it has other valid uses, depending on the size, and how and where the drum is struck.  Implements used to strike the drum may include bass drum beaters of various sizes, shapes, and densities, as well as keyboard percussion mallets, timpani mallets, and drumsticks. The hand or fingers can also be used (it. con la mano). The playing techniques possible includes rolls, repetitions and unison [[drum stroke|stroke]]s. Bass drums can sometimes be used for sound effects. e.g. thunder, or an earthquake.<ref>[http://vsl.co.at/en/ Vienna Symphonic Library]</ref>
+
+Influenced by the [[Janissary Music]] the large Turkish drum was introduced into the orchestral music in the 18th century, especially into operas which required oriental atmosphere. Gradually the instrument developed into the orchestral bass drum as we now know it.<ref name="Vienna Symphonic Library">[http://vsl.co.at/en/70/3196/3211/3213/5793.vsl Vienna Symphonic Library]</ref>
+
+In a [[drum kit]], the bass drum is much smaller than in the traditional orchestral use, most commonly 22" or 20" in diameter. Sizes from 16" to 28" in diameter are available , with depths of 14" to 22", 18" or 16" being normal.  The standard bass drum size of past years was 20" x 14", with 22" x 18" being the current standard. Many manufacturers are now popularizing the 'power drum' concept as with tom-toms, with an 18" depth (22" x 18") to further lower the drum's fundamental note.  This is a misconception, however, since the frequency of vibration and hence the fundamental note of a drum is determined by the width of the drum and not by the depth.  A wider drum with a larger head would be capable of a lower tuning.  
+
+Sometimes the front head of a kit bass drum has a hole in it to allow air to escape when the drum is struck for shorter sustain. Muffling can be installed through the hole without taking off the front head. The hole also allows [[microphones]] to be placed into the bass drum for recording and amplification.  In addition to microphones, sometimes [[trigger pad]]s are used to amplify the sound and provide a uniform tone, especially when fast playing without decrease of volume is desired. Professional drummers often choose to have a customized bass drum front head, with the logo or name of their band on the front.
+
+The kit bass drum may be more heavily muffled than the classical bass drum, and it is popular for drummers to use a pillow, blanket, or professional mufflers<ref>See, for example, the [[Protection Racket]] [http://www.protectionracket.co.uk/pd.asp?ProdCat=BassDrumMuffler&ProdRef=9023-01 bass drum muffler]</ref> inside the drum, resting against the batter head, to dampen the blow from the pedal, and produce a shorter "thud."
+
+Different beaters have different effects, and felt, wood and plastic ones are all popular. Bass drums sometimes have a [[Tom-tom drum|tom-tom]] mount on the top, to save having to use (and pay for) a separate stand or rack. Fastening the mount involves cutting a hole in the top of the bass drum to fix it, and 'virgin' bass drums do not have this hole cut in them, and so are professionally prized.
+
+====Bass drum pedal====
+[[Ludwig-Musser|William F. Ludwig]] made the bass drum pedal workable in 1909, paving the way for the modern drum kit.<ref name="DRUMHISTORY">''The Drum Book: The History of the Rock Drum Kit'' (Geoff Nichols, 1997), p. 8-12</ref> A bass drum pedal operates much the same as the hi-hat; a footplate is pressed to pull a chain, belt, or metal drive mechanism downward, bringing a beater or [[mallet]] forward into the drumhead. The beater head is usually made of either felt, wood, plastic, or rubber and is attached to a rod-shaped metal shaft. The pedal and beater system are mounted in a metal frame and like the [[hi-hat]], a tension unit controls the amount of pressure needed to strike and the amount of recoil upon release. A double bass drum pedal operates much the same way only with a second footplate attached by rod to a remote beater mechanism, which operates in tandem with the regular beater shaft.<ref name="PEARLHARDWARE">[http://www.pearldrum.com/hardware.asp "tama Drums Hardware"] 2004</ref><ref name="GLOSSARY">Marshall, Paul. Radcliff, Mike. [http://www.drumdojo.com/useful/glossary.htm "Glossary of Terms (Drum kit/Drumset)"] 1999</ref>
+[[Image:Simon Phillips on drums.jpg|thumb|right|[[Simon Phillips]]' double bass drums]]
+
+====Double bass drum====
+{{unreferenced section|date=January 2011}}
+In many forms of [[heavy metal music|heavy metal]] and [[hard rock]], as well as some forms of jazz, [[jazz fusion|fusion]], and [[Punk rock|punk]], two bass drum pedals are used (one operated by each foot) or a double-bass-pedal is used (two pedals on the same bass drum). The idea for the double bass drum setup came from jazz drummer [[Louie Bellson]] when he was still in high school. Double bass drums were used initially by jazz artists such as [[Ray McKinley]] and [[Ed Shaughnessy]] in the 1940s and 1950s, and popularized in the 1960s by rock drummers [[Ginger Baker]] of [[Cream (band)|Cream]], [[Mitch Mitchell]] of the Jimi Hendrix Experience, [[Keith Moon]] of [[The Who]], [[Nick Mason]] of [[Pink Floyd]], and [[Simon Phillips]].  Double bass drumming later became an integral part of [[thrash metal]] and [[extreme metal]], pioneered by drummer [[Robb Reiner]] of [[Canadian]] [[Heavy metal music|heavy metal]] band [[Anvil]], who took the technique from his Jazz training and applied it to heavy metal percussion.<ref>http://www.allmusic.com/artist/anvil-p3563/biography</ref> Anvil were an early influence on bands such as [[Metallica]], [[Slayer]], [[Anthrax]], and many others, who all adopted techniques found in Anvil's music, including the use of double bass drum.<ref>Sacha Gervasi. "Anvil! The Story Of Anvil". Documentary. 2008.</ref> Before long, the use of double bass drum had become a staple in all subgenres of modern metal music. The [[Slayer]] song "[[Angel of Death (song)|Angel of Death]]", from their 1986 album ''[[Reign in Blood]]'' is considered a high point for the double bass in modern metal.
+
+=====Drop-clutch=====
+When using a double bass drum pedal, the foot which normally controls the [[hi-hat]] pedal moves to the second bass drum pedal, and so the hi hat opens. When it is open, the notes will ring rather than click, as they do when it is closed, and so some drummers choose to use a drop-clutch.
+
+A drop-clutch is a mechanism used to disengage and drop the top hi-hat in order to free up both feet while playing double bass drums. This results in the hi-hat producing a closed sound until the hi-hat foot is available again. Drop-clutches may be activated in various ways depending on manufacturer, by hitting the clutch either on the side or top down with a drumstick or by pressing a locking footpedal as with a Tama "Cobra Clutch" product which also allows for control over how much the hi-hat cymbals are closed. The clutch can be disengaged by pressing the hi-hat completely down or with the Cobra clutch, by pressing the unlocking pedal.<ref name="PEARLHARDWARE" /><ref>Tama. [http://www.tamadrum.co.jp/world/products/hardware/hh_stand/cobra_clutch/index.html "Cobra Clutch"]</ref>
+
+====Techniques====
+{{unreferenced section|date=January 2010}}
+The most common method of bass drum playing is a "heel-up" technique: the pedals are struck with the ball of the feet using force primarily from the [[thigh]] as opposed to the [[ankle]]s when using the "heel-down" technique. Most drummers play single strokes, although there are many who are also capable of playing doubles or [[diddle]]s. Drummers such as [[Grant Collins]], [[Thomas Lang]], [[Virgil Donati]], and [[Mike Portnoy]] are capable of performing complicated solos on top of an [[ostinato]] bass drum pattern. Thomas Lang, for example, has mastered the heel-up and heel-down (single- and double-stroke) to the extent that he is able to play dynamically with the bass drum and to perform various [[rudiments]] with his feet.
+
+In order to play "doubles", proponents of the "heel up" technique use either one of two techniques: the "slide technique" or the [[heel-toe technique]]. In the slide technique, the pedal is struck around the middle area with the ball of the foot. As the drum produces a sound, the toe is slid up the pedal. After the first stroke, the pedal will naturally bounce back, hit the toe as it slides upwards, and rebound for a second strike. In the [[heel-toe technique]] the foot is suspended above the foot-board of the pedal and the first note is played with the heel. The foot snaps up, the heel comes off the footboard, and the toes come down for a second stroke. Once mastered it allows the player to play very fast rolls on the bass drum. Noted players include [[Rod Morgenstein]], [[Tim Waterson]] (who formerly held the world record for the fastest playing on a bass drum), [[Tomas Haake]], [[Chris Adler (drummer)|Chris Adler]], [[Derek Roddy]], [[Danny Carey]], [[Jan Axel Blomberg|Hellhammer]], and [[John Longstreth]]. The technique is commonly used in death metal and other extreme forms of music.
+
+In certain types of heavy metal and [[Punk rock|punk]], drummers play a constant stream of rapid-fire notes on the bass drum, and the ability to play evenly at extremely high tempos is a skill prized within the heavy metal scene. Many [[extreme metal]], [[thrashcore]] and [[grindcore]] drummers use a combination of fast double bass drum patterns, the [[snare]], and the [[cymbal]]s to create [[blast beats]].
+
+With two feet playing bass drum, many of the techniques of [[snare drum]] playing (such as [[rudiments]] and [[drum roll|rolls]]) can be performed on the bass drums.
+
+===Pitched bass drum in marching band use===
+[[Image:Cavaliers Bassque 2006.jpg‎|thumb|250px|right|[[The Cavaliers Drum and Bugle Corps|Cavaliers]] Bassline 2006]]
+[[Image:Revolution drum corps bass drums.JPG|thumb|250px|right|[[Revolution Drum and Bugle Corps|Revolution's]] bass drums warm up in 2007.]]
+The "bass line" is a unique musical ensemble consisting of graduated pitch marching bass drums commonly found in [[marching band]]s and [[Drum and bugle corps (modern)|drum and bugle corps]]. Each drum plays a different note, and this gives the bass line a unique task in a musical ensemble. Skilled lines execute complex linear passages split among the drums to add an additional melodic element to the percussion section. This is characteristic of the marching bass drum — its purpose is to convey complex rhythmic and melodic content, not just to keep the beat. The line provides impact, melody, and tempo due to the nature of the sound of the instruments. The bass line usually has from as many as seven bass drums to as little as two.  The Florida A&M University Marching 100 band has one of the largest operating tonal bass drum lines, utilizing 8 tonal bass drums.
+
+====Components====
+A bass line typically consists of four or five musicians, each carrying one tuned bass drum, although variations do occur. Smaller lines are not uncommon in smaller groups, such as some high school marching bands, and several groups have had one musician playing more than one bass drum, usually small ones, with one mounted on top of the other.
+
+The drums are typically between 16" and 32" in diameter, but some groups have used bass drums as small as 14" and larger than 36". The drums in a bass line are tuned such that the largest will always play the lowest note with the pitch increasing as the size of the drum decreases. Individually, the drums are usually tuned higher than other bass drums (drumset kick drums or orchestral bass drums) of the same size, so that complex rhythmic passages can be heard clearly and articulated.
+
+Unlike the other drums in a [[drumline]], the bass drums are generally mounted sideways, with the drumhead facing horizontally, rather than vertically. This results in several things.  First of all, to ensure that a vibrating membrane is facing the audience, bass drummers must face [[perpendicular]] to the rest of the band and so are the only section in most groups whose bodies do not face the audience while playing. Consequently, bass drummers usually point their drums at the back of the bass drummer in front of them, so that the drum heads will all be lined up, from the audience's point of view, next to one another in order to produce optimal sound output.
+
+====Playing a marching bass drum====
+Since the bass drum is oriented differently than a snare or [[tenor drum]], the stroke itself is different, but the fundamentals remain the same. As the article "Bass Drum" states, "your forearms should be parallel to the ground, bent at the elbows. The line between your shoulder and elbow should be vertical. Hold the mallet upward at a 45-degree angle.<ref>Orael, Elise. "Bass Drum". 6/23/10 <http://sites.google.com/site/eliseorael2/bassdrumtechnique%28marching%29>.</ref> The hands hold bass mallets in such a way as to place the center of the mallet in the center of the head.
+
+The motion of the basic stroke is either similar to the motion of turning a doorknob, that is, an absolute forearm rotation, or similar to that of a snare drummer, where the wrist is the primary actor, or more commonly, a hybrid of these two strokes.  The second technique allows for cleaner rolls for some players. Bass drum technique sees huge variation between different groups both in the ratio of forearm rotation to wrist turn and the differing views on how the hand works while playing. Some techniques also call for the use of fingers supporting the motion of the mallet by opening or closing, but no matter whether its open or closed the thumb needs to be close to the rest of the fingers.
+
+However, the basic stroke on a drum produces just one of the many sounds a bass line can produce. Along with the solo drum, the "unison" is one of the most common sounds used. It is produced when all of the bass drums play a note at the same time and with a balanced sound; this option has a very full, powerful sound.  It has a sort of pop when it is clean, and a more "fat" sound when dirty. The rim click, which is when the shaft (near the mallet head) is struck against the rim of the drum, either solo or in unison. [[Rimshot]]s are rare on a bass drum and usually only happen on the top drums.  A Rimshot is a sound that is produced when the stick hits the rim and the head of the drum at the same time.<ref>Powelson, Bill. "School of Drums". HSID. 6/23/10 <http://www.studydrums.com/rimshots.html>.</ref>
+
+The different positions of the typical five person bass line each require different skills, though not necessarily different levels of skills. Contrary to the popular belief that "higher is better," each drum has its own critical role to play. 
+
+Bottom, or fifth bass, is the largest, heaviest, and lowest drum in the drumline.  Consequently, it is used frequently to help maintain pulse in an ensemble and is thus sometimes referred to as the "heartbeat" of the group (the bottom bass was also often referred to as the "thud" bass in days gone by, indicating that many of their notes were the last one at the end of a phrase). Although this player does not always play as many notes as fast as other bass drummers (the depth of pitch renders most complex passages indistinguishable from a [[drumroll|roll]]), his or her role is absolutely essential not only to the sound of the bass line or the drum line, but to the ensemble as a whole, especially in the case of parade bands.
+
+Fourth bass is slightly smaller than the bottom drum (generally two to four inches (102&nbsp;mm)  smaller in diameter) and can function tonally similarly to its lower counterpart, but usually plays slightly more rapid parts and is much more likely to play "off the beat" - in the middle rather than at the beginning or end of a passage. 
+
+Third bass is the middle drum, both in terms of position and tone. Its function is usually that of the archetypical bass drum.  This player plays an integral role in the actual rendering of complex linear passages. 
+
+Second bass is known for having the most difficult job in the drumline. This player's parts are very likely to be directly adjacent to the beginning or end of a phrase and less likely to be on a beat, which is highly counter-intuitive, especially to a new player. Sometimes this drum can function about the same as the top drum, but usually the second and top drummer function as a unit, playing very rudimentally difficult passages split between them. This makes Second bass the drum usually played by the section leader.
+
+Top, or first, bass is the highest pitched drum in the bass line and usually starts or ends phrases. This bass is usually known for being the easiest because it is played in the beginning of the phrase, but when given the snare like music, it can be the most complex. The high tension drum heads allow this player to play notes that are just as taxing as those of the snare line, and often the top bass will play a part in unison with the snare line to add some depth to their sound.
+
+====Muffling a marching bass drum====
+There are a few different ways to properly muffle a marching bass drum. Unlike the bass drum on a drumset, muffling should not lie inside the drum and should only be a thin strip of foam glued either to the outside part of the head, glued to the inside of the shell protruding about or with certain heads "wedged" in between the inside part of the head and a clear ring that goes all the way around the head.If the tuner uses generic weather-stripping type foam, start with medium density. If inexperienced or do not know how much foam to apply, the person should apply it to the outside of the head after he/she has put the head onto the drum. Once drum is tuned to the right pitch, make a note of how much foam was applied for future head changes. At that time, apply the foam to the inside of the head before its placed on the drum. This provides a cleaner look to the drumhead and will protect the foam from falling from the player’s beating and the environment.<ref>Buecker, Glen. "Good Bass Drum Tuning Is Not an Impossible Task". Yamaha. 6/22/10 <www.yamaha.com/yamahavgn/.../Percussion_Tips_Buecker.pdf>.</ref>
+
+====Marching a Bass Drum====
+In a field show, bass drummers are subject to turn to facing either goal line. When standing on the 20 yardline, it can be rather difficult to try and see the drum major if you are facing the goal line. Or if the basses can't dress a form facing one direction, they can turn the other way for that section. Turns can be either unison, or rippled for a different effect. For the lower basses it takes a lot more control to be able to turn quickly. Cleaning turns for a bassline can be rather easy. They should lead with the shoulder at the start of the turn and lock the other direction on a specified count. Setting a check point can be beneficial. For instance, you should be flat front on count two of the turn. However, be sure to note that the turn should be smooth and not jerky. A common problem is not stopping the weight of the drum at the end of the turn and letting the momentum get the better of the player. The solution to that problem is tightening their core(abdominals and back muscles).
+
+==Audio samples==
+{{commons|Drums}}
+{{listen
+ | filename = Bass drum.ogg
+ | title = Bass drum
+ | description = Audio sample of an unmuffled bass drum from a drum kit, 54 KB
+ | style = float: none; clear: none;
+}}
+
+==External links==
+* [http://www.drummercafe.com/education/lessons/kick-bass-drum-pedal-technique.html Bass Drum Pedal Techniques] - lesson on Kick pedal set-up and basic playing techniques
+* [http://www.fielddrums.com Historic Field Drums (including Bass Drums)]
+* [http://homerecording.about.com/od/recordingtutorials/ht/perfectkick.htm How To Record The Perfect Kick Drum Sound] - Tips on recording your bass drum
+* [http://www.drummagazine.com/features/post/double-bass-legends-a-short-history Double Bass Legends: A Short History]
+
+== References ==
+{{reflist}}
+
+{{Percussion}}
+
+{{DEFAULTSORT:Bass Drum}}
+[[Category:Drum kit components]]
+[[Category:Drums]]
+[[Category:Marching percussion]]
+[[Category:Orchestral percussion]]
+[[Category:Bass (sound)]]
+[[Category:Membranophones]]
+
+[[bg:Бомбо]]
+[[cs:Basový buben]]
+[[da:Stortromme]]
+[[de:Große Trommel]]
+[[et:Suur trumm]]
+[[el:Μπάσο τύμπανο]]
+[[es:Bombo]]
+[[fr:Grosse caisse]]
+[[ko:큰북]]
+[[id:Drum bass]]
+[[is:Bassatromma]]
+[[it:Grancassa]]
+[[nl:Bass drum]]
+[[nds-nl:Bassdrum]]
+[[ja:バスドラム]]
+[[no:Stortromme]]
+[[nn:Basstromme]]
+[[pl:Bęben wielki]]
+[[pt:Bumbo]]
+[[ru:Большой барабан]]
+[[simple:Bass drum]]
+[[fi:Bassorumpu]]
+[[sv:Bastrumma]]
+[[th:กลองใหญ่]]
+[[uk:Бас-барабан]]
+[[zh:大鼓]]

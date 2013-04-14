@@ -1,0 +1,32 @@
+input file: _sample_data/cikm11AR/affect_index/model.input.validate-2
+
+input dict file: _sample_data/cikm11AR/affect_index/term_to_id.txt
+input tag dict file: _sample_data/cikm11AR/affect_index/term_tag_to_id.txt
+
+# Number of iterations 
+# -------------------- # 
+em iter: 30
+em var iter: 60
+
+# num of topics
+# -------------
+num topics: 100
+# the model root directory where the training model will be stored
+# ---------------------------------------------------------------- #
+model train root dir: _sample_data/cikm11AR/taglda_store/train/100
+
+# the model root directory where the test/validation model will be stored
+# ---------------------------------------------------------------- #
+model root dir: _sample_data/cikm11AR/taglda_store/validate/100
+
+# the symmetric dirichlet prior for topic proportions
+# --------------------------------------------------- #
+topic proportion prior : 0.01
+
+# standard deviation for the regularizer used in the topic-word parameter update (default is 1)
+# --------------------------------------------------- #
+topic word regularizer stddev : 2
+
+# standard deviation for the regularizer used in the tag-word parameter update (default is 1)
+# --------------------------------------------------- #
+tag word regularizer stddev : 2

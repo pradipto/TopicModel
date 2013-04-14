@@ -1,0 +1,268 @@
+{{About|common table salt}}
+{{pp-move-indef}}
+[[File:Image-Zigong Salt.jpg|thumb|300px|[[Brine]] being boiled down to produce salt at the Xinhai Well in [[Zigong]], [[People's Republic of China]]]]
+[[File:Table Salt (NaCl) Crystal.jpg|thumb|Table salt (NaCl) crystal]]
+
+'''Salt''', also known as '''table salt''', or '''[[rock salt]]''', is a [[mineral]] that is composed primarily of [[sodium chloride]]. It is essential for [[animal]] life in small quantities, but is harmful to animals and plants in excess. Salt is one of the oldest, most ubiquitous food seasonings and [[Salting (food)|salting]] is an important method of [[food preservation]]. The [[taste]] of salt (saltiness) is one of the [[taste#Basic_tastes|basic human taste]]s.
+
+Salt for human consumption is produced in different forms: unrefined salt (such as [[sea salt]]), refined salt (table salt), and [[iodised salt|iodized salt]]. It is a crystalline solid, white, pale pink or light gray in color, normally obtained from [[sea water]] or rock deposits. Edible rock salts may be slightly grayish in color because of mineral content.
+
+[[Chloride]] and [[sodium]] ions, the two major components of salt, are needed by all known living creatures in small quantities. Salt is involved in regulating the [[water]] content ([[fluid balance]]) of the body. However, too much salt increases the risk of health problems, including [[hypertension|high blood pressure]]. Therefore health authorities have recommended limitations of dietary sodium.<ref>{{cite web |url=http://www.cnpp.usda.gov/Publications/DietaryGuidelines/2010/Meeting2/CommentAttachments/AHA-220e.pdf |title=American Heart Association 2010 Dietary Guidelines |date=23 January 2009 |work=2010 Dietary Guidelines |publisher=American Heart Association |accessdate=16 May 2010}}</ref><ref>{{cite web |url=http://www.nrv.gov.au/nutrients/sodium.htm |title=Nutrient Reference Values for Australia and New Zealand – Sodium |work=Nutrient Reference Values for Australia and New Zealand |publisher=Australian Government National Health and Medical Research Council/ New Zealand Ministry of Health |accessdate=16 May 2010}}</ref><ref>{{cite web |url=http://www.foodnavigator-usa.com/On-your-radar/The-obesity-problem/Dietary-Guidelines-focus-on-sodium-intake-sugary-drinks-dairy-alternatives |title=Dietary Guidelines focus on sodium intake, sugary drinks, dairy alternatives |date=27 April 2010 |work=Food Navigator-usa.com |publisher=Decision News Media |accessdate=16 May 2010}}</ref><ref>{{cite web |url=http://www.eatwell.gov.uk/healthydiet/nutritionessentials/vitaminsandminerals/sodiumchloride/ |title=Sodium Chloride |work=Eat Well, Be Well |publisher=UK Government Food Standards Agency |accessdate=16 May 2010}}</ref><ref>{{cite web |url=http://www.hc-sc.gc.ca/hl-vs/iyh-vsv/food-aliment/sodium-eng.php |title=Health Canada, Healthy Living, Sodium |year=2008 |work=Healthy Living |publisher=Health Canada |accessdate=16 May 2010}}</ref>
+
+==History==
+{{Main|History of salt}}
+[[File:Salzproduktion-Halle.jpg|thumb|Salt production in [[Halle, Saxony-Anhalt]] (1670)]]
+
+While people have used [[canning]] and artificial [[refrigeration]] to preserve food for the last hundred years or so, salt has been the best-known food preservative, especially for meat, for many thousands of years.<ref name=Barber136>{{Harvcolnb|Barber|1999|p=136}}</ref> A very ancient saltworks operation has been discovered at the Poiana Slatinei archaeological site next to a salt spring in [[Vânători-Neamţ|Lunca]], [[Neamţ County]], [[Romania]]. Evidence indicates that [[Neolithic]] people of the [[Cucuteni-Trypillian culture|Precucuteni Culture]] were boiling the salt-laden spring water through the process of [[briquetage]] to extract the salt as far back as 6050 BC.<ref>Olivier Weller & Gheorghe Dumitroaia [http://antiquity.ac.uk/projgall/weller/ The earliest salt production in the world: an early Neolithic exploitation in Poiana Slatinei-Lunca, Romania] Antiquity, Vol 79 No 306 December 2005</ref> The salt extracted from this operation may have had a direct correlation to the rapid growth of this society's population soon after its initial production began.<ref>{{fr icon}} [http://hal.archives-ouvertes.fr/docs/00/41/60/26/PDF/archaedyn2008_weller_brigand_etal.pdf Arhives-ouvertes.fr] ArchæDyn – Dijon, 23–25 june 2008 Dynamics settlement pattern, production and trades from Neolithic to Middle Ages</ref> The harvest of salt from the surface of [[Xiechi Lake]] near [[Yuncheng, Shanxi|Yuncheng]] in [[Shanxi]], [[China]] dates back to at least 6000 BC, making it one of the oldest verifiable saltworks.<ref name=Kurlansky>{{Harvcolnb|Kurlansky|2002}}</ref>{{Rp|18–19|date=May 2009}}
+
+Salt was included among funereal offerings found in [[ancient Egypt]]ian tombs from the third millennium BC, as were salted birds and salt fish.<ref name=Kurlansky/>{{Rp|38|date=May 2009}} From about 2800 BC, the Egyptians began exporting salt fish to the [[Phoenicia]]ns in return for [[Lebanon cedar]], glass, and the dye [[Tyrian purple]]; the [[Phoenicia]]ns traded Egyptian salt fish and salt from [[North Africa]] throughout their Mediterranean trade empire.<ref name=Kurlansky/>{{Rp|44|date=May 2009}}
+
+Along the [[Sahara]], the [[Tuareg people|Tuareg]] maintain routes especially for the transport of salt by [[Azalai]] (salt caravans). In 1960, the caravans still transported some 15,000 tons of salt, but this trade has now declined to roughly a third of this figure.<ref>Onbekende Wereld by Wim Offeciers (based on [[Douchan Gersi]]'s travels)</ref>
+
+[[Salzburg]], [[Hallstatt]], and [[Hallein]] lie on the river Salzach in central [[Austria]], within a radius of no more than 17 kilometres. [[Salzach]] literally means "salt water" and [[Salzburg]] "salt city", both taking their names from the [[German language|German]] word for salt, {{lang|de|''Salz''}}.
+
+[[Hallstatt culture|Hallstatt]] gave its name to the [[Celt]]ic [[archaeological culture]] that began mining for salt in the area in around 800 BC. Around 400 BC, the Hallstatt Celts, who had heretofore [[salt mine|mined]] for salt, began [[open pan salt making]]. During the first millennium BC, Celtic communities grew rich trading salt and [[Salt-cured meat|salted meat]] to [[Ancient Greece]] and [[Ancient Rome]] in exchange for wine and other luxuries.<ref name=Barber136/>
+
+It is widely, though incorrectly,<ref>{{cite web|title=The American Heritage Dictionary of the English Language, 4th edition|work=Answers.com|url=http://www.answers.com/salary|accessdate=2008-12-14}}</ref> believed that troops in the [[Roman army]] were paid in salt.<ref>For instance, in the animated short [[Scrooge McDuck and Money]]</ref> Even widely respected historical works repeat this error.<ref name=Kurlansky/>{{Rp|63|date=May 2009}} The word ''salad'' literally means "salted," and comes from the [[Ancient Rome|ancient Roman]] practice of salting [[leaf vegetable]]s.<ref name=Kurlansky/>{{Rp|64|date=May 2009}}
+
+[[Mahatma Gandhi]] led at least 100,000 people on the "Dandi March" or "[[Salt Satyagraha]]", in which protesters made their own salt from the sea, which was illegal under [[British rule]], as it avoided paying the "[[History of the British salt tax in India|salt tax]]". This [[civil disobedience]] inspired millions of common people, and elevated the [[Indian independence movement]] from an elitist struggle to a national struggle.
+
+==Forms of salt==
+===Unrefined salt===
+{{Main|Sea salt|Halite|Fleur de sel}}
+[[File:Seasalt.jpg|thumb|A commercial pack of sea salt]]
+Different natural salts have different mineralities, giving each one a unique flavor. [[Fleur de sel]], natural sea salt harvested by hand, has a unique flavor varying from region to region. In traditional Korean cuisine, so-called "[[Jukyeom|bamboo salt]]" is prepared by roasting salt <ref name="soilpollu">{{cite book |author=James V. Livingston |title=Agriculture and soil pollution: new research |publisher=Nova Publishers |year=2005 |page=45 |isbn=1594543100|url=http://books.google.com/books?id=W6ToDne5AsMC&pg=PA45}}</ref> in a [[bamboo]] container plugged with mud at both ends. This product absorbs minerals from the bamboo and the mud, and has been shown to increase the anti[[clastogen]]ic and anti[[mutagen]]ic properties of [[doenjang]].<ref name="AsianFood">{{cite book |author=Shahidi, Fereidoon; John Shi; Ho, Chi-Tang |title=Asian functional foods |publisher=CRC Press |location=Boca Raton |year=2005 |page=575 |isbn=0-8247-5855-2}}</ref>
+
+Completely raw sea salt is bitter because of magnesium and calcium compounds, and thus is rarely eaten. The refined salt industry cites scientific studies saying that raw sea and rock salts do not contain enough [[iodine]] salts to prevent [[Iodine deficiency|iodine deficiency diseases]].<ref>{{cite web|title=References on food salt & health issues|url=http://www.saltinstitute.org/Articles-references/References-on-salt-issues/References-on-salt-issues/References-on-food-salt-health-issues|publisher=Salt Institute|accessdate=5 December 2010|date=2009}}</ref>
+
+Unrefined sea salts are also commonly used as ingredients in bathing additives and [[Cosmetics|cosmetic]] products. One example is [[bath salts]], which uses [[sea salt]] as its main ingredient and combined with other ingredients used for its healing and therapeutic effects.
+
+===Refined salt===
+[[File:Piles of Salt Salar de Uyuni Bolivia Luca Galuzzi 2006 a.jpg|thumb|left|Salt mounds in [[Salar de Uyuni]], [[Bolivia]]]]
+[[Refining|Refined]] salt, which is most widely used presently, is mainly sodium chloride. Food grade salt accounts for only a small part of salt production in [[Developed country|industrialised countries]] (3% in Europe<ref>[http://www.eu-salt.com/index3.htm European Salt Producers' Association]</ref>) although worldwide, food uses account for 17.5% of salt production.<ref>[http://www.roskill.com/reports/salt Roskill Information Services]</ref> The majority is sold for industrial use. Salt has great commercial value because it is a necessary ingredient in many manufacturing processes. A few common examples include: the production of pulp and paper, setting dyes in textiles and fabrics, and the making of soaps and detergents.
+
+The manufacture and use of salt is one of the oldest chemical industries.<ref>[http://www.salt.org.il/arch.html Salt made the world go round]</ref> Salt can be obtained by evaporation of [[sea water]], usually in shallow basins warmed by [[sunlight]];<ref>[http://nauticus.org/currwthrless043.html Nauticus – Weather Curriculum]</ref> salt so obtained was formerly called bay salt, and is now often called sea salt or solar salt. Rock salt deposits are formed by the evaporation of ancient salt lakes,<ref>[http://www.saltsense.co.uk/aboutsalt-what01.htm UK Salt Manufacturers' Association]</ref> and may be [[mining|mined]] conventionally or through the injection of water. Injected water dissolves the salt, and the [[brine]] solution can be pumped to the surface where the salt is collected.
+
+[[File:Salt crystals in death valley.jpg|thumb|Salt crystals at [[Devil's Golf Course]] in [[Death Valley National Park]]]]
+
+After the raw salt is obtained, it is refined to purify it and improve its storage and handling characteristics. Purification usually involves recrystallization. In recrystallization, a brine solution is treated with chemicals that precipitate most impurities (largely magnesium and calcium salts).<ref>[http://www.saltsense.co.uk/aboutsalt-prod02.htm The Salt Manufacturers Association: saltsense, salt history, salt manufacture, salt uses, sodium. Key information on salt from the Salt Industry]</ref> Multiple stages of evaporation are then used to collect pure sodium chloride crystals, which are [[kiln]]-dried.
+
+Since the 1950s, it has been common practice in the [[United Kingdom]] to add a trace amount of [[sodium ferrocyanide]] to the brine; this acts as an [[anticaking agent]] by promoting irregular crystals.<ref>[http://www.saltsense.co.uk/hist-chem08.htm The Salt Manufacturers Association: saltsense, salt history, salt manufacture, salt uses, sodium. Key information on salt from the Salt Industry]</ref> The safety of sodium ferrocyanide as a food additive was confirmed in the United Kingdom in 1993.<ref name="hansard.millbanksystems.com">[http://hansard.millbanksystems.com/written_answers/1993/may/05/table-salt Discussions of the safety of sodium hexaferrocyanate in table salt]</ref> Some anticaking agents used are [[tricalcium phosphate]], [[calcium carbonate|calcium]] or [[magnesium carbonate]]s, [[fatty acid]] salts ([[acid salt]]s), [[magnesium oxide]], [[silicon dioxide]], [[calcium silicate]], [[sodium aluminosilicate]], and [[calcium aluminosilicate]]. Both the European Union and the United States [[Food and Drug Administration]] (FDA) permitted the use of [[aluminum]] in the latter two compounds.<ref>[http://www.ces.purdue.edu/extmedia/HE/HE-625.html HE-620]</ref> The refined salt is then ready for packing and distribution.
+
+===Table salt===
+In [[Western cuisine]]s, salt is used in cooking, and also made available to diners in [[salt shaker]]s on the table.
+
+Table salt is refined salt, which contains about 97% to 99% [[sodium chloride]].<ref>{{cite web|title=Tesco Table Salt 750g|url=http://www.tesco.com/superstore/xpi/8/xpi50042778.htm|publisher=Tesco|accessdate=5 December 2010|quote=Nutritional analysis provided with Tesco Table Salt states 38.9% sodium by weight which equals 97.3% sodium chloride}}</ref><ref>[http://www.wasalt.com.au/Table.html Table]</ref><ref>[http://www.codexalimentarius.net/download/standards/3/CXS_150e.pdf The international Codex Alimentarius Standard for Food Grade Salt]</ref> It usually contains substances that make it free-flowing (anticaking agents) such as [[sodium silicoaluminate]] or magnesium carbonate. Some people also add a [[desiccant]], such as a few grains of uncooked [[rice]],<ref>{{cite web |url= http://www.newton.dep.anl.gov/askasci/gen01/gen01420.htm |title= Rice in Salt Shakers |publisher= Ask a Scientist |accessdate= 2008-07-29}}</ref> in salt shakers to absorb extra moisture and help break up clumps when anticaking agents are not enough.
+Table salt has a [[particle density]] of 2.165 g/cm{{sup|3}}, and a [[bulk density]] (dry, [[ASTM]] D 632 gradation) of about 1.154 g/cm{{sup|3}}.<ref>{{cite web|title=Physical properties|url=http://www.saltinstitute.org/About-salt/Physical-properties|publisher=Salt Institute|accessdate=5 December 2010|date=2010}}</ref>
+
+===Salty condiments===
+In many East Asian cultures, salt is not traditionally used as a condiment.<ref>[http://seattletimes.nwsource.com/pacificnw/2001/0729/taste.html The Seattle Times: Pacific Northwest Magazine]</ref> However, condiments such as [[soy sauce]], [[fish sauce]] and [[oyster sauce]] tend to have a high sodium content and fill much the same role as a salt-providing table condiment that table salt serves in western cultures.
+
+==Health effects==
+[[File:Salt1.jpg|thumb|[[Scanning electron microscope|SEM]] image of a grain of table salt]]
+
+[[Sodium]] is one of the primary [[electrolyte]]s in the body. All four cationic electrolytes (sodium, potassium, magnesium, and calcium) are available in unrefined salt, as are other vital minerals needed for optimal bodily function. Too much or too little salt in the diet can lead to [[cramp|muscle cramps]], [[dizziness]], or [[electrolyte disturbance]], which can cause neurological problems, or death.<ref name=oz>[http://www.betterhealth.vic.gov.au/bhcv2/bhcarticles.nsf/pages/Salt?OpenDocument Salt Australia: Better Health Channel (Australia, Victoria)]</ref> Drinking too much water, with insufficient salt intake, puts a person at risk of [[water intoxication]] ([[hyponatremia]]). Salt is sometimes used as a health aid, such as in treatment of [[dysautonomia]].<ref>[http://www.clevelandclinic.org/health/health-info/docs/1200/1271.asp?index=6004 Cleveland Clinic Health Information Center Dysautonomia page]</ref>
+
+Excess salt consumption is linked with a number of conditions including<ref name="news.bbc.co.uk">[http://news.bbc.co.uk/2/hi/health/medical_notes/393201.stm Salt], BBC News</ref>:
+
+*[[Stroke]] and [[cardiovascular disease]].<ref>{{cite journal |author=Strazzullo P, D'Elia L, Kandala NB, Cappuccio FP |title=Salt intake, stroke, and cardiovascular disease: meta-analysis of prospective studies |journal=BMJ |volume=339 |pages=b4567 |year=2009 |pmid=19934192 |doi= 10.1136/bmj.b4567|pmc=2782060 |ref=harv}}</ref>
+*[[Hypertension]] (high [[blood pressure]]): "Since 1994, the evidence of an association between dietary salt intakes and blood pressure has increased. The data have been consistent in various study populations and across the age range in adults."<ref name="SACN page 3"/> A large scale study from 2007 has shown that people with high-normal blood pressure who significantly reduced the amount of salt in their diet decreased their chances of developing [[cardiovascular disease]] by 25% over the following 10 to 15 years. Their risk of dying from cardiovascular disease decreased by 20%.<ref name="CookN">{{cite journal|pmid=17449506|format=Free full-text|publisher=[[British Medical Journal]]|doi=10.1136/bmj.39147.604896.55|year=2007|last1=Cook|first1=NR|last2=Cutler|first2=JA|last3=Obarzanek|first3=E|last4=Buring|first4=JE|last5=Rexrode|first5=KM|last6=Kumanyika|first6=SK|last7=Appel|first7=LJ|last8=Whelton|first8=PK|title=Long term effects of dietary sodium reduction on cardiovascular disease outcomes: observational follow-up of the trials of hypertension prevention (TOHP).|volume=334|issue=7599|pages=885–8|pmc=1857760|journal=BMJ (Clinical research ed.)|ref=harv}}</ref>
+*[[Left ventricular hypertrophy]] (cardiac enlargement): "Evidence suggests that high salt intake causes left ventricular hypertrophy, a strong [[risk factor]] for cardiovascular disease, independently of blood pressure effects."<ref name="SACN page 3"/> "...there is accumulating evidence that high salt intake predicts left ventricular hypertrophy."<ref name=fsai>Food Safety Authority of Ireland [http://www.fsai.ie/publications/reports/salt_report.pdf Salt and Health: Review of the Scientific Evidence and Recommendations for Public Policy in Ireland], p. 12</ref> Excessive salt (sodium) intake, combined with an inadequate intake of water, can cause [[hypernatremia]]. It can exacerbate [[renal disease]].<ref name=oz/>
+*[[Edema]] ([[British English|BE]]: oedema): A decrease in salt intake has been suggested to treat edema (fluid retention).<ref name=oz/><ref>Australia: Better Health Channel (Australia, Victoria) [http://www.betterhealth.vic.gov.au/bhcv2/bhcArticles.nsf/pages/Fluid_retention?OpenDocument Fluid retention]</ref>
+*[[Peptic ulcer|Duodenal ulcers]] and [[Peptic ulcer|gastric ulcers]]<ref>[http://news.bbc.co.uk/1/hi/health/6680185.stm High-salt diet link to ulcer risk], BBC, 22 May 2007</ref>
+*[[Heartburn]].<ref>Everybody [http://www.everybody.co.nz/page-f8eded49-0e6d-4818-92e6-78d398ea7a79.aspx Study adds salt to suspected triggers for heartburn]</ref>
+*[[Osteoporosis]]: One report shows that a high salt diet does reduce [[bone density]] in women.<ref>[http://www.foodnavigator.com/news-by-product/news.asp?id=59929&k=high-salt-diet High salt diet reduces bone density in girls]</ref> Yet "While high salt intakes have been associated with detrimental effects on bone health, there are insufficient data to draw firm conclusions."<ref name="SACN page 3">Scientific Advisory Committee on Nutrition (SACN) ''[http://www.sacn.gov.uk/pdfs/sacn_salt_final.pdf Salt and Health]'', page 3</ref>
+*Gastric cancer ([[stomach cancer]]) is associated with high levels of sodium, "but the evidence does not generally relate to foods typically consumed in the UK."<ref name="SACN page 18">Scientific Advisory Committee on Nutrition (SACN) ''[http://www.sacn.gov.uk/pdfs/sacn_salt_final.pdf Salt and Health]'', page 18</ref> However, in Japan, salt consumption is higher.<ref>[http://news.bbc.co.uk/1/hi/health/3370141.stm Salt raises 'stomach cancer risk'], BBC News, 7 January 2004</ref>
+*[[Death]]: Ingestion of large amounts of salt in a short time (about 1 g per kg of body weight)<ref>[http://msds.chem.ox.ac.uk/SO/sodium_chloride.html Safety data for sodium chloride – The Physical and Theoretical Chemistry Laboratory of Oxford University]</ref> can be fatal. Deaths have also resulted from attempted use of salt solutions as [[emetic]]s, forced salt intake, and accidental confusion of salt with sugar in child food.<ref>{{cite journal|doi=10.1016/j.legalmed.2004.06.005|title=Fatal hypernatremia after using salt as an emetic?report of three autopsy cases|year=2005|last1=Turk|first1=E|last2=Schulz|first2=F|last3=Koops|first3=E|last4=Gehl|first4=A|last5=Tsokos|first5=M|journal=Legal Medicine|volume=7|pages=47|ref=harv|pmid=15556015|issue=1}}</ref>
+
+The Cochrane Collaboration found that "a modest and long term reduction in population salt intake [...] would result in a lower population blood pressure, and a reduction in strokes, heart attacks and heart failure. Furthermore, our study is consistent with the fact that the lower the salt intake, the lower the blood pressure."<ref>{{cite web |url=http://www2.cochrane.org/reviews/en/ab004937.html |title=Effect of longer-term modest salt reduction on blood pressure |authors=He FJ, MacGregor GA |date=9 May 2005 |work=The Cochrane Collaboration Cochrane Reviews |publisher=The Cochrane Collaboration |accessdate=24 May 2010}}</ref> However, salt consumption is not linked to [[asthma]].<ref>{{cite web |url=http://research.nottingham.ac.uk/NewsReviews/newsDisplay.aspx?id=487 |title=Low-sodium advice for asthmatics should be taken with a pinch of salt |date=15 July 2008 |publisher= The University of Nottingham|accessdate=24 May 2010}}</ref>
+
+The risk for disease due to insufficient or excessive salt intake varies because of biochemical individuality. Some have asserted that while the risks of consuming too much salt are real, the risks have been exaggerated for most people, or that the studies done on the consumption of salt can be interpreted in many different ways.<ref>Why Files article [http://whyfiles.org/111salt/ Salt and other wounds]</ref><ref>{{cite journal|doi=10.1126/science.281.5379.898|author=[[Gary Taubes]]|title=The (Political) Science of Salt|journal=[[Science (journal)|Science]]|year=1998|volume=281|pages=898–907}}</ref>
+
+Some isolated cultures, such as the [[Yanomami]] in South America, have been found to consume little salt, possibly an adaptation originated in the predominantly [[Vegetarianism|vegetarian diet]] of human primate ancestors.<ref>{{cite journal|url=http://www.scielo.br/pdf/abc/v80n3/a05v80n3.pdf |title=Yanomami Indians in the Intersald study|journal=Arq Bras Cardiol|volume=80|issue=3|pages=295–300|year=2003|author=Jairo de Jesus Mancilha-Carvalho, Nelson Albuquerque de Souza e Silva}}</ref> However, the low salt diets of the Yanomamo Indians does not result in their low blood pressure, this has been attributed to their lack of a D/D genotype.<ref>[http://findarticles.com/p/articles/mi_qa3659/is_200312/ai_n9310264/pg_3/?tag=content;col1 Angiotensin-Converting Enzyme Gene (ACE) Insertion/Deletion Polymorphism in Mexican Populations]</ref><ref>{{cite journal|last1=Mitchell|first1=BD|last2=Stern|first2=MP|last3=Haffner|first3=SM|last4=Hazuda|first4=HP|last5=Patterson|first5=JK|title=Risk factors for cardiovascular mortality in Mexican Americans and non-Hispanic whites. San Antonio Heart Study.|journal=American journal of epidemiology|volume=131|issue=3|pages=423–33|year=1990|pmid=2301352}}</ref>
+
+===Recommended intake===
+[[File:Spice 4 bg 010104.jpg|thumb|Sea salt and [[peppercorns]]]]
+[[File:Saltmill.jpg|thumb|A salt mill for sea salt.]]
+
+In the [[United Kingdom]] the [[Scientific Advisory Committee on Nutrition]] (SACN) recommended in 2003 that, for a typical adult, the [[Dietary Reference Values|Reference Nutrient Intake]] (RNI) is 4 g salt per day (1.6 g or 70&nbsp;mmol sodium). However, average adult intake is two and a half times the Reference Nutrient Intake for sodium. SACN states, "The target salt intakes set for adults and children do not represent ideal or optimum consumption levels, but achievable population goals."<ref name="SACN">Scientific Advisory Committee on Nutrition (SACN) ''[http://www.sacn.gov.uk/pdfs/sacn_salt_final.pdf Salt and Health]''</ref> The Food Safety Authority of [[Republic of Ireland|Ireland]] endorses the UK targets.<ref name=fsai/>
+
+[[Health Canada]] recommends an Adequate Intake (AI) and an Upper Limit (UL) in terms of ''sodium'',<ref>Health Canada [http://www.hc-sc.gc.ca/fn-an/nutrition/reference/table/ref_elements_tbl_e.html Dietary Reference Intakes]</ref> as does The Auckland District Health Board in [[New Zealand]].<ref>Auckland District Health Board ''[http://www.arphs.govt.nz/publications/Advice_Publications/N/2005/NA_%20Dec05.pdf Public Health Nutrition Advice]'' (PDF)</ref> Health Canada recommends an AI of 1200–1500&nbsp;mg and an UL of 2200–2300&nbsp;mg per day for persons aged 9 years or more.
+
+The [[NHMRC]] in [[Australia]] was not able to define a recommended dietary intake (RDI). It defines an Adequate Intake (AI) for adults of 460–920&nbsp;mg/day and an Upper Level of intake (UL) of 2300&nbsp;mg/day.<ref>NHMRC [http://www.nrv.gov.au/nutrients/sodium.htm Reference Nutrient Values, Sodium]</ref>
+
+In the [[United States]], the Food and Drug Administration itself does not make a recommendation,<ref>U. S. Food and Drug Administration [http://www.fda.gov/fdac/features/1997/797_salt.html A Pinch of Controversy Shakes Up Dietary Salt]</ref> but refers readers to ''Dietary Guidelines for Americans 2005''. These suggest that US citizens should consume less than 2,300&nbsp;mg of sodium (= 2.3 g sodium = 5.8 g salt) per day.<ref>Department of Health and Human Services (HHS) and the Department of Agriculture (USDA) ''Dietary Guidelines for Americans 2005'' [http://www.health.gov/dietaryguidelines/dga2005/document/html/chapter8.htm "Sodium and Potassium"]</ref>
+
+[[Meta-analysis]] in 2009 found that the sodium consumption of 19,151 individuals from 33 countries fit into the narrow range of 2,700 to 4,900&nbsp;mg/day. The small range across many cultures, together with animal studies, suggest that sodium intake is tightly controlled by feedback loops in the body, making recommendations to reduce sodium consumption below 2,700&nbsp;mg/day potentially futile.<ref>{{cite journal|doi=10.2215/CJN.04660709|title=Can Dietary Sodium Intake Be Modified by Public Policy?|year=2009|last1=McCarron|first1=D. A.|last2=Geerling|first2=J. C.|last3=Kazaks|first3=A. G.|last4=Stern|first4=J. S.|journal=Clinical Journal of the American Society of Nephrology|volume=4|pages=1878|ref=harv|pmid=19833911|issue=11}}</ref>
+
+===Labeling===
+
+UK: The [[Food Standards Agency]] defines the level of salt in foods as follows: "High is more than 1.5 g salt per 100 g (or 0.6 g sodium). Low is 0.3 g salt or less per 100 g (or 0.1 g sodium). If the amount of salt per 100 g is in between these figures, then that is a medium level of salt." In the UK, foods produced by some supermarkets and manufacturers have ‘traffic light’ colors on the front of the pack: Red (High), Amber (Medium), or Green (Low).<ref>[http://www.salt.gov.uk/understanding_labels.html Understanding labels]</ref>
+
+USA: The FDA ''Food Labeling Guide'' stipulates whether a food can be labelled as "free", "low", or "reduced/less" in respect of sodium. When other health claims are made about a food (e.g. low in fat, calories, etc.), a disclosure statement is required if the food exceeds 480&nbsp;mg of sodium per 'serving.'<ref>Food and Drug Administration [http://www.cfsan.fda.gov/~dms/flg-6a.html A Food Labeling Guide—Appendix A]</ref>
+
+Normal salt itself contains 40 g of sodium per 100 g of salt.
+
+===Campaigns===
+
+In 2004, Britain's [[Food Standards Agency]] started a [[public health]] campaign called "Salt – Watch it", which recommends no more than 6g of salt per day; it features a character called [[Sid the Slug]] and was criticised by the Salt Manufacturers Association (SMA).<ref>Salt Manufacturers Association press release [http://www.saltsense.co.uk/releases/rel015.htm New salt campaign under attack]</ref> The [[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]] did not uphold the SMA complaint in its adjudication.<ref>Advertising Standards Authority [http://www.asa.org.uk/NR/rdonlyres/EFB31ED5-A00D-4AE7-8988-F69B20DF8C6D/0/Broadcast_rulings_20_April_05.pdf Broadcast Advertising Adjudications: 20 April 2005] (PDF)</ref> In March 2007, the FSA launched the third phase of their campaign with the slogan "Salt. Is your food full of it?" fronted by comedienne [[Jenny Eclair]].<ref>[http://www.salt.gov.uk/tv_ads.html Salt TV ads]</ref>
+
+The University of Tasmania's Menzies Research Institute maintains a website<ref>{{cite web |url=http://www.saltmatters.org/ Salt Matters |title=Salt Matters |author=Dr [[Trevor Beard]] |date=26 March 2009 |publisher=University of Tasmania |accessdate=17 May 2010}}</ref> to educate people about the problems of a salt-laden diet.
+
+Consensus Action on Salt and Health (CASH)<ref>{{cite web|title=CASH Consensus Action on Salt|url=http://www.hyp.ac.uk/cash/}}</ref> established in 1996, actively campaigns to raise awareness of the harmful health effects of salt. The 2008 focus includes raising awareness of high levels of salt hidden in sweet foods and marketed towards children.<ref>{{cite news| title=Child health fears over high salt levels in sweet foods |url=http://www.guardian.co.uk/society/2008/jan/28/foodanddrink.healthandwellbeing |date=28 January 2008|work=The Guardian|location=London|first=Rebecca|last=Smithers|accessdate=23 May 2010}}</ref>
+
+Taxation of sodium has been proposed as a method of decreasing sodium intake and thereby improving health in countries like the United States where typical salt consumption is high.<ref>{{cite web|url=http://www.bmj.com/cgi/content/extract/329/7471/918-c|title=Letter: Salt tax could reduce population's salt intake|date=2010-04-01}}</ref><ref>{{cite web|url=http://www.lipidsonline.org/news/article.cfm?aid=8996|title=Salt tax could massively reduce US mortality rates, healthcare costs|date=2010-04-01}}</ref>
+
+The Salt Institute, a salt industry body, is active in promoting the use of salt,<ref>{{cite web |url=http://www.saltinstitute.org/About-Us|title=About the Salt Institute|year=2009 |publisher=Salt Institute |accessdate=5 December 2010}}</ref> and questioning or opposing restrictions on salt intake.<ref>{{cite web |url=http://www.saltinstitute.org/Issues-in-focus/Food-salt-health|title=Food salt & health|year=2009 |publisher=Salt Institute |accessdate=5 December 2010}}</ref>
+
+===Additives===
+{{See also|Iodised salt}}
+
+''Iodized salt'' ([[British English|BrE]]: ''iodised salt'') is table salt mixed with a minute amount of [[potassium iodide]], [[sodium iodide]], or [[sodium iodate]]. Iodized salt is used to help reduce the incidence of [[iodine deficiency]] in humans. Iodine deficiency commonly leads to [[thyroid]] gland problems, specifically endemic [[Goitre|goiter]], a disease characterized by a swelling of the thyroid gland, usually resulting in a bulbous protrusion on the neck. While only tiny quantities of iodine are required in the [[diet (nutrition)|diet]] to prevent goiter, the [[United States]] [[Food and Drug Administration]] recommends [21 CFR 101.9 (c)(8)(iv)] 150 [[Kilogram#SI multiples|micrograms]] of iodine per day for both men and women. Iodized table salt has significantly reduced disorders of [[iodine deficiency]] in countries where it is used.<ref>{{cite web|title=Iodized salt|url=http://www.saltinstitute.org/Uses-benefits/Salt-in-Food/Essential-nutrient/Iodized-salt|publisher=Salt Institute|accessdate=5 December 2010|date=2009}}</ref> Iodine is important to prevent the insufficient production of [[thyroid hormone]]s ([[hypothyroidism]]), which can cause [[goitre]], [[cretinism]] in children, and [[myxedema]] in adults.
+
+Table salt is mainly employed in cooking and as a table condiment. The amount of iodine and the specific iodine compound added to salt varies from country to country. In the [[United States]], iodized salt contains 46–77 ppm (parts per million), while in the UK the iodine content of iodized salt is recommended to be 10–22 ppm.<ref>{{cite web|title=Discussion Paper on the setting of maximum and minimum amounts for vitamins and minerals in foodstuffs|url=http://ec.europa.eu/food/food/labellingnutrition/supplements/documents/akj_en.pdf|work= |publisher=Directorate-General Health & Consumers |accessdate=5 December 2010}}</ref> Today, iodized salt is more common in the [[United States]], [[Australia]] and [[New Zealand]] than in the [[United Kingdom]].
+
+In some European countries, where [[water fluoridation]] is not practiced, fluoridated table salt is available. In France, 35% of sold table salt contains either [[sodium fluoride]] or [[potassium fluoride]].{{Citation needed|date=September 2009}} Another additive, especially important for [[pregnancy|pregnant]] women, is [[folic acid]] (vitamin B<sub>9</sub>), which gives the table salt a yellow color.
+
+In Canada, at least one brand ([[Canadian Salt Company|Windsor Salt]]) contains [[inverted sugar syrup]].{{Citation needed|date=July 2010}}
+
+[[Sodium ferrocyanide]], also known as yellow prussiate of soda, is sometimes added to salt as an anticaking agent. The additive is considered safe for human consumption.<ref name="hansard.millbanksystems.com"/><ref>[http://ec.europa.eu/food/fs/sc/scan/out70_en.pdf Ferrocyanides in salt for feed use is acceptable as regards safety for target animals and human consumer...]</ref>
+
+===Salt substitutes===
+{{Main|Salt substitute}}
+
+Salt intake can be reduced by simply reducing the quantity of salty foods in a diet, without recourse to salt substitutes. Salt substitutes have a taste similar to table salt and contain mostly [[potassium chloride]], which will increase [[potassium]] intake. Excess potassium intake can cause [[hyperkalemia]]. Various diseases and [[medications]] may decrease the body's excretion of potassium, thereby increasing the risk of hyperkalemia. Those who have [[Renal failure|kidney failure]], [[heart failure]] or diabetes should seek medical advice before using a salt substitute. One manufacturer, LoSalt, has issued an advisory statement<ref>LoSalt [http://www.losalt.com/docs/lo_salt_web_advice.pdf Advisory Statement] (PDF)</ref> that those taking the following prescription drugs should not use a salt substitute: [[amiloride]], [[triamterene]], Dytac, [[spironolactone]] (Aldactone), and [[eplerenone]] (Inspra).
+
+===Low salt diets===
+{{Main|Low sodium diet}}
+[[Dieting|Diets]] low in salt are mainly [[low sodium diet]]s, that is, diets that specifically aim to lower intake of sodium, potentially including salt substitutes replacing sodium with other components.
+
+==Production==
+[[File:2005salt.PNG|thumb|Global salt output in 2005]]
+
+Salt is produced by [[evaporation]] of [[seawater]] or [[brine]] from other sources, such as [[brine well]]s and [[salt lake]]s, and by [[salt mine|mining]] '''rock salt''', called [[halite]].
+
+In 2002, total world production (of sodium chloride in general, not just table salt) was estimated at 210 million [[tonne]]s, the top five producers being the United States (40.3 million tonnes), China (32.9), Germany (17.7), India (14.5), and Canada (12.3).<ref>{{cite book|doi=10.1002/0471238961.1915040902051820.a01.pub2|title=Sodium Chloride ''in Kirk-Othmer Encyclopedia of Chemical Technology''|year=2005|last1=Feldman|first1=Susan R.|publisher=John Wiley & Sons}}</ref>
+
+==Non-dietary aspects==
+{{Main|Sodium chloride}}
+Apart from its role as the major form of table salt in the diet, [[sodium chloride]] is responsible for the salinity of the [[ocean]], and plays a role in formation of clouds.
+
+==Usage in religion==
+In the [[Hebrew Bible]], thirty-five verses [[Salt in the Bible|mention salt]],<ref>[[Strong's Concordance]]</ref> one of which being the story of [[Lot (biblical)|Lot]]'s wife, who was turned into a pillar of salt when she looked back at the cities of [[Sodom and Gomorrah]] ([[Book of Genesis|Genesis]] 19:26) as the Lord destroyed them. When King [[Abimelech]] destroyed the city of [[Shechem]], he is said to have "[[salting the earth|sown salt]] on it," probably as a curse on anyone who would re-inhabit it. (Judges 9:45) The Book of Job contains the first mention of salt in all literature.  "Can that which is unsavory be eaten without salt? or is there any taste in the white of an egg?" (Job 6:6)
+
+In the Christian [[New Testament]], six verses mention salt. In the [[Sermon on the Mount]], [[Jesus]] referred to his followers as the "[[Salt and Light|salt of the earth]]". [[Paul the Apostle|The apostle Paul]] also encouraged Christians to "let your conversation be always full of grace, seasoned with salt" (Colossians 4:6).
+
+In one of the [[Hadith]] recorded in [[Sunan Ibn Majah]], Prophet [[Muhammad]] is reported to have said that: "Salt is the master of your food. God sent down four blessings from the sky – [[fire]], [[water]], [[iron]] and salt"
+
+Salt is mandatory in the rite of the [[Tridentine Mass]].<ref>{{CathEncy|wstitle=Salt}}</ref> Salt is used in the third item (which includes an [[Exorcism]]) of the Celtic Consecration (''cf.'' [[Gallican Rite]]) that is employed in the consecration of a church. Salt may be added to the water "where it is customary" in the Roman Catholic rite of [[Holy water]].
+
+Salt is considered to be a very auspicious substance in [[Hindu mythology]], and is used in particular religious ceremonies like housewarmings and weddings.
+
+In [[Judaism]], it is recommended to have either a salty bread or to add salt to the bread if this bread is unsalted when doing [[Kiddush]] for [[Shabbat]]. It is customary to spread some salt over the bread or to dip the bread in a little salt when passing the bread around the table after the Kiddush.<ref>[http://www.chabad.org/library/article_cdo/aid/484194/jewish/Why-dip-in-salt.htm Chabad.org]</ref> To preserve the covenant between their people and God, Jews dip the Sabbath bread in salt.<ref name="ReferenceA">{{cite journal|title=10+1 Things you may not know about Salt|journal=Epikouria|year=2006|volume=Fall/Winter|issue=3|url=http://www.epikouria.com/issue3/article6-things.php}}</ref>
+
+In [[Wicca]], salt is symbolic of the element Earth. It is also believed to clense an area of harmful or negative energies.
+
+In the native Japanese religion [[Shinto]], salt is used for [[ritual purification]] of locations and people, such as in [[sumo wrestling]].
+
+In [[Aztec]] mythology, [[Huixtocihuatl]] was a fertility goddess who presided over salt and salt water.
+
+The ancient Egyptians, Greeks and Romans invoked their gods with offerings of salt and water. Some think this to be the origin of [[Holy Water]] in the Christian faith.<ref name="ReferenceA"/>
+
+==See also==
+[[File:Salt ship loading.jpg|thumb|400px|Ship loading salt at a terminal in the Port of [[Areia Branca, Rio Grande do Norte|Areia Branca]], [[Brazil]]]]
+
+*[[Alberger process]]
+*[[Black salt (disambiguation)]]
+*[[Curing (food preservation)]]
+*[[Health Canada Sodium Working Group]]
+*[[International Salt Co. v. United States]]
+*[[Kosher salt]]
+*[[Salt equivalent]]
+*[[Salt Road]]
+*[[Smoked salt]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Bibliography==
+*{{Cite book|last=Barber|first=Elizabeth Wayland|year=1999|title=The Mummies of Ürümchi|publication-place=New York|publisher=W.W. Norton & Co|isbn =0393320197|oclc=48426519|ref=harv}}
+*{{Cite book|last=Kurlansky|first=Mark|year=2002|title=Salt: A World History|place=New York|publication-place=New York|publisher=Walker & Co|isbn =0802713734|oclc=48573453|ref=harv}}
+
+==Further reading==
+* {{cite web|last=Alden|first=Lori|title=Salt|url=http://www.foodsubs.com/Salt.html|work=The Cook's Thesaurus|date=2005}}
+* {{cite web|last=Cowen|first=Richard|title=The Importance of Salt|url=http://mygeologypage.ucdavis.edu/cowen/~gel115/salt.html|work=Department of Geology |publisher=UC Davis|date=May 1999}}
+* {{cite news|last=Zacharias|first=Patricia |title=The ghostly salt city beneath Detroit|url=http://apps.detnews.com/apps/history/index.php?id=17|newspaper=The Detroit News|date=23 January 2000}}
+
+==External links==
+{{Sister project links|wikt=salt|commons=Salt|b=Cookbook:Salt|s=Littell's Living Age/Volume 4/Issue 34/Salt in Abyssinia|v=Extra info on food consumption#Salt/potassium intake|n=no|q=no}}
+*[http://www.iccidd.org/index.php International Council for the Control of Iodine Deficiency Disorders]
+*[http://www.saltinstitute.org/ Salt Institute]
+
+{{Use dmy dates|date=November 2010}}
+
+[[Category:Edible salt| ]]
+
+[[af:Sout]]
+[[ar:ملح الطعام]]
+[[arc:ܡܠܚܐ]]
+[[ay:Jayu]]
+[[az:Duz]]
+[[bjn:Uyah padu]]
+[[bn:লবণ (খাদ্য)]]
+[[zh-min-nan:Iâm]]
+[[be:Галіт]]
+[[be-x-old:Соль]]
+[[bar:Soiz]]
+[[bs:So]]
+[[br:Holen]]
+[[ca:Sal comuna]]
+[[ceb:Alasinon]]
+[[de:Speisesalz]]
+[[nv:Áshįįh]]
+[[el:Αλάτι]]
+[[es:Sal]]
+[[fa:نمک]]
+[[fr:Sel alimentaire]]
+[[ga:Salann]]
+[[gd:Salann]]
+[[gu:મીઠું]]
+[[hak:Yàm]]
+[[ko:소금]]
+[[hi:साधारण नमक]]
+[[hr:Kuhinjska sol]]
+[[io:Manjebla salo]]
+[[id:Garam dapur]]
+[[jv:Uyah]]
+[[kn:ಉಪ್ಪು (ಖಾದ್ಯ)]]
+[[ka:სუფრის მარილი]]
+[[rw:Umunyu]]
+[[ht:Sèl]]
+[[hu:Konyhasó]]
+[[ml:കറിയുപ്പ്]]
+[[mr:मीठ]]
+[[nah:Iztatl]]
+[[nl:Keukenzout]]
+[[ja:塩]]
+[[pl:Sól kuchenna]]
+[[pt:Sal de cozinha]]
+[[ro:Sare de bucătărie]]
+[[ru:Поваренная соль]]
+[[sq:Kripa]]
+[[si:ලුණු]]
+[[sl:Sol]]
+[[sr:Со (зачин)]]
+[[fi:Ruokasuola]]
+[[sv:Salt]]
+[[tl:Asin]]
+[[ta:உப்பு]]
+[[te:ఉప్పు]]
+[[th:เกลือ]]
+[[tr:Yemek tuzu]]
+[[uk:Кухонна сіль]]
+[[ur:نمک]]
+[[ug:تۇز]]
+[[vi:Muối ăn]]
+[[yo:Iyọ̀]]
+[[bat-smg:Droska]]
+[[zh:食盐]]

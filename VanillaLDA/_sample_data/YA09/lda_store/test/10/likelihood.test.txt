@@ -1,0 +1,3 @@
+likelihood = -180755.75229212  : converged =        inf  num_em_steps =  1 (out of  50) 30 em_var_iter
+likelihood = -180747.36982813  : converged =    0.00005  num_em_steps =  2 (out of  50) 30 em_var_iter
+likelihood = -180741.06173022  : converged =    0.00003  num_em_steps =  3 (out of  50) 30 em_var_iter

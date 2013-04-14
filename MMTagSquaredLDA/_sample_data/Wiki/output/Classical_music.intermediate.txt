@@ -1,0 +1,907 @@
+<embedded_doc>
+[[Image:Classical music composers montage.JPG|right|thumb|350px|Montage of great classical music composers. From left to right: first row - [[Antonio Vivaldi]], [[Johann Sebastian Bach]], [[George Frideric Handel]], [[Wolfgang Amadeus Mozart]], [[Ludwig van Beethoven]]; second row - [[Gioachino Rossini]], [[Felix Mendelssohn]], [[Frédéric Chopin]], [[Richard Wagner]], [[Giuseppe Verdi]]; third row - [[Johann Strauss II]], [[Johannes Brahms]], [[Georges Bizet]], [[Pyotr Ilyich Tchaikovsky]], [[Antonín Dvořák]]; fourth row - [[Edvard Grieg]], [[Edward Elgar]], [[Sergei Rachmaninoff]], [[George Gershwin]], [[Aram Khachaturian]]]] $$
+ [[Image:Vielle.jpg|right|thumb||A musician plays the [[vielle]] in a fourteenth-century [[Medieval]] [[manuscript]].]] $$
+ [[Image:CordierColor.jpg|thumb|left|The chanson ''Belle, bonne, sage'' by [[Baude Cordier]], an ''Ars subtilior'' piece included in the [[Chantilly Codex]].]] $$
+ [[Image:white mensural notation.gif|thumb|206px|[[Johannes Ockeghem]], Kyrie "Au travail suis," excerpt.]] $$
+ [[Image:Baschenis - Musical Instruments.jpg|thumb|260px|Baroque instruments including [[hurdy gurdy]], [[harpsichord]], [[bass viol]], [[lute]], [[baroque violin|violin]], and [[baroque guitar]].]] $$
+ [[Image:Haydnportrait.jpg|thumb|right|[[Joseph Haydn]] (1732 - 1809) ca. 1770.]] $$
+ [[Image:Stravinsky picasso.png|thumb|upright|[[Igor Stravinsky]] and [[Pablo Picasso]] collaborated on ''[[Pulcinella (ballet)|Pulcinella]]'' in 1920.]] $$
+ 
+</embedded_doc>
+<links>
+[[Image:Classical music composers montage.JPG|right|thumb|350px|Montage of great classical music composers. From left to right: first row - [[Antonio Vivaldi]], [[Johann Sebastian Bach]], [[George Frideric Handel]], [[Wolfgang Amadeus Mozart]], [[Ludwig van Beethoven]]; second row - [[Gioachino Rossini]], [[Felix Mendelssohn]], [[Frédéric Chopin]], [[Richard Wagner]], [[Giuseppe Verdi]]; third row - [[Johann Strauss II]], [[Johannes Brahms]], [[Georges Bizet]], [[Pyotr Ilyich Tchaikovsky]], [[Antonín Dvořák]]; fourth row - [[Edvard Grieg]], [[Edward Elgar]], [[Sergei Rachmaninoff]], [[George Gershwin]], [[Aram Khachaturian]]]] $$
+ [[art music]] $$
+ [[art music]] $$
+ [[Western culture|Western]] $$
+ [[Religious music|liturgical]] $$
+ [[secular music]] $$
+ [[common practice period]] $$
+ [[popular music]] $$
+ [[musical notation|staff notation]] $$
+ [[Pitch (music)|pitch]] $$
+ [[tempo|speed]] $$
+ [[Meter (music)|meter]] $$
+ [[rhythm]] $$
+ [[Indian classical music]] $$
+ [[Traditional Japanese Music|Japanese traditional music]] $$
+ [[Johann Sebastian Bach]] $$
+ [[Ludwig van Beethoven|Beethoven]] $$
+ [[Oxford English Dictionary]] $$
+ [[orchestra]] $$
+ [[piano]] $$
+ [[harpsichord]] $$
+ [[organ (music)|organ]] $$
+ [[electric guitar]] $$
+ [[synthesizer]] $$
+ [[gamelan]] $$
+ [[bagpipes]] $$
+ [[vihuela]] $$
+ [[hurdy gurdy|hurdy-gurdies]] $$
+ [[equal temperament]] $$
+ [[musical temperament]] $$
+ [[English Renaissance]] $$
+ [[mean tone]] $$
+ [[song]] $$
+ [[concerto]] $$
+ [[symphony]] $$
+ [[sonata]] $$
+ [[opera]] $$
+ [[dance music]] $$
+ [[suite]] $$
+ [[étude]] $$
+ [[symphonic poem]] $$
+ [[musical development]] $$
+ [[motif (music)|motif]] $$
+ [[History of sonata form|sonata form]] $$
+ [[fugue]] $$
+ [[College or university school of music|conservatories]] $$
+ [[jazz]] $$
+ [[Sight reading|sight-reading]] $$
+ [[Musical ensemble|ensemble]] $$
+ [[Tonality|tonal]] $$
+ [[Harmony|harmonic]] $$
+ [[performance practice]] $$
+ [[Theme (music)|thematic]] $$
+ [[Musical phrasing|phrasing]] $$
+ [[Harmony|harmonization]] $$
+ [[Modulation (music)|modulation]] $$
+ [[Texture (music)|texture]] $$
+ [[musical form]] $$
+ [[symphony]] $$
+ [[concerto]] $$
+ [[opera]] $$
+ [[oratorio]] $$
+ [[Phrase (music)|phrases]] $$
+ [[Period (music)|periods]] $$
+ [[Section (music)|sections]] $$
+ [[Movement (music)|movements]] $$
+ [[Musical analysis]] $$
+ [[opera buffa|opere buffe]] $$
+ [[Così fan tutte]] $$
+ [[Nessun dorma]] $$
+ [[Giacomo Puccini]] $$
+ [[Turandot]] $$
+ [[1990 FIFA World Cup]] $$
+ [[The Three Tenors]] $$
+ [[early music]] $$
+ [[Medieval music|Medieval]] $$
+ [[Renaissance music|Renaissance]] $$
+ [[Common practice period]] $$
+ [[Baroque music|Baroque]] $$
+ [[Classical period (music)|Classical]] $$
+ [[Romantic music|Romantic]] $$
+ [[20th century classical music|20th century classical]] $$
+ [[Contemporary classical music|contemporary classical]] $$
+ [[Dates of classical music eras|generalizations]] $$
+ [[counterpoint]] $$
+ [[fugue]] $$
+ [[Haydn]] $$
+ [[Ludwig van Beethoven|Beethoven]] $$
+ [[Johannes Brahms|Brahms]] $$
+ [[Igor Stravinsky|Stravinsky's]] $$
+ [[Pulcinella (ballet)|Pulcinella]] $$
+ [[Neoclassicism (music)|neoclassical]] $$
+ [[Christian]] $$
+ [[Ancient Greece|Ancient Greeks]] $$
+ [[Aristoxenus]] $$
+ [[Pythagoras]] $$
+ [[#Grout73|Grout]] $$
+ [[musical notation]] $$
+ [[aulos]] $$
+ [[reed instrument]] $$
+ [[lyre]] $$
+ [[#Grout88|Grout (1988)]] $$
+ [[ancient music]] $$
+ [[Roman Empire]] $$
+ [[Image:Vielle.jpg|right|thumb||A musician plays the [[vielle]] in a fourteenth-century [[Medieval]] [[manuscript]].]] $$
+ [[Image:CordierColor.jpg|thumb|left|The chanson ''Belle, bonne, sage'' by [[Baude Cordier]], an ''Ars subtilior'' piece included in the [[Chantilly Codex]].]] $$
+ [[Image:white mensural notation.gif|thumb|206px|[[Johannes Ockeghem]], Kyrie "Au travail suis," excerpt.]] $$
+ [[Monophony|Monophonic]] $$
+ [[Gregorian Chant]] $$
+ [[Polyphony|Polyphonic]] $$
+ [[Middle Ages]] $$
+ [[Renaissance]] $$
+ [[motet]] $$
+ [[instrumentation (music)|instrumentation]] $$
+ [[Bass (sound)|bass instruments]] $$
+ [[staff (music)|staff]] $$
+ [[musical notation]] $$
+ [[#Grout73|Grout]] $$
+ [[Musical composition|composition]] $$
+ [[musical score]] $$
+ [[#Grout73|Grout]] $$
+ [[printing press]] $$
+ [[#Grout73|Grout]] $$
+ [[lute]] $$
+ [[vielle]] $$
+ [[psaltery]] $$
+ [[flute]] $$
+ [[recorder]] $$
+ [[shawm]] $$
+ [[oboe]] $$
+ [[trumpet]] $$
+ [[bagpipe]] $$
+ [[pipe organ]] $$
+ [[#Grout73|Grout]] $$
+ [[keyboard (music)|keyboard]] $$
+ [[clavichord]] $$
+ [[harpsichord]] $$
+ [[viol]] $$
+ [[#Grout73|Grout]] $$
+ [[common practice period|Common Practice Period]] $$
+ [[Image:Baschenis - Musical Instruments.jpg|thumb|260px|Baroque instruments including [[hurdy gurdy]], [[harpsichord]], [[bass viol]], [[lute]], [[baroque violin|violin]], and [[baroque guitar]].]] $$
+ [[counterpoint]] $$
+ [[basso continuo]] $$
+ [[sonata form]] $$
+ [[canzona]] $$
+ [[theme and variations]] $$
+ [[major and minor]] $$
+ [[chromaticism]] $$
+ [[#Grout73|Grout]] $$
+ [[harpsichord]] $$
+ [[pipe organ]] $$
+ [[violin]] $$
+ [[Opera]] $$
+ [[cantata]] $$
+ [[oratorio]] $$
+ [[#Grout73|Grout]] $$
+ [[orchestra]] $$
+ [[chamber music]] $$
+ [[concerto]] $$
+ [[equal temperament]] $$
+ [[Bach]] $$
+ [[Well-Tempered Clavier]] $$
+ [[#Grout73|Grout]] $$
+ [[Image:Haydnportrait.jpg|thumb|right|[[Joseph Haydn]] (1732 - 1809) ca. 1770.]] $$
+ [[piano]] $$
+ [[serenade]] $$
+ [[Italy]] $$
+ [[opera buffa]] $$
+ [[symphony]] $$
+ [[harpsichord]] $$
+ [[concertmaster]] $$
+ [[#Grout73|Grout]] $$
+ [[double reed]] $$
+ [[oboe]] $$
+ [[bassoon]] $$
+ [[clarinet]] $$
+ [[single reed]] $$
+ [[Wolfgang Amadeus Mozart|Mozart]] $$
+ [[romanticism]] $$
+ [[nocturne]] $$
+ [[Fantasia (music)|fantasias]] $$
+ [[Prelude (music)|preludes]] $$
+ [[#Swafford|Swafford]] $$
+ [[#Swafford|Swafford]] $$
+ [[art song]] $$
+ [[grand opera]] $$
+ [[Richard Wagner]] $$
+ [[Der Ring des Nibelungen|Ring cycle]] $$
+ [[#Grout73|Grout]] $$
+ [[metallurgy]] $$
+ [[Franz Liszt]] $$
+ [[Niccolò Paganini]] $$
+ [[#Grout73|Grout]] $$
+ [[rotary valve]] $$
+ [[Gustav Mahler]] $$
+ [[Symphony No. 8 (Mahler)|Symphony No. 8]] $$
+ [[nationalism]] $$
+ [[Edvard Grieg]] $$
+ [[Nikolai Rimsky-Korsakov]] $$
+ [[Antonín Dvořák]] $$
+ [[#Grout73|Grout]] $$
+ [[Image:Stravinsky picasso.png|thumb|upright|[[Igor Stravinsky]] and [[Pablo Picasso]] collaborated on ''[[Pulcinella (ballet)|Pulcinella]]'' in 1920.]] $$
+ [[Modernism (music)|Modernism]] $$
+ [[music notation]] $$
+ [[musical interpretation|interpretation]] $$
+ [[Sol Babitz]] $$
+ [[Grove Dictionary of Music and Musicians|Grove 5th edition]] $$
+ [[Robert Donington]] $$
+ [[musical improvisation|Improvisation]] $$
+ [[cadenza]] $$
+ [[Vincenzo Bellini]] $$
+ [[da capo aria]] $$
+ [[Beverly Sills]] $$
+ [[Giulio Cesare]] $$
+ [[piano concerto]] $$
+ [[Maria Callas]] $$
+ [[Academic Festival Overture]] $$
+ [[Kurt Weill]] $$
+ [[The Threepenny Opera]] $$
+ [[Maurice Ravel]] $$
+ [[Postmodern music|postmodern]] $$
+ [[Minimalist music|minimalist]] $$
+ [[Postminimalism|postminimalist]] $$
+ [[Pachelbel's Canon#Pachelbel's canon in popular culture|Pachelbel's Canon]] $$
+ [[Crossover (music)|crossover]] $$
+ [[Hooked on Classics]] $$
+ [[Royal Philharmonic Orchestra]] $$
+ [[Vanessa Mae]] $$
+ [[Catya Maré]] $$
+ [[folk music]] $$
+ [[Antonín Dvořák|Dvořák]] $$
+ [[Bedřich Smetana|Smetana]] $$
+ [[Béla Bartók|Bartók]] $$
+ [[Richard Strauss]] $$
+ [[Also sprach Zarathustra (Richard Strauss)|Also sprach Zarathustra]] $$
+ [[2001: A Space Odyssey (film)|2001: A Space Odyssey]] $$
+ [[Carl Orff]] $$
+ [[Carmina Burana (Orff)|Carmina Burana]] $$
+ [[Dies Irae]] $$
+ [[Giuseppe Verdi|Verdi]] $$
+ [[Edvard Grieg]] $$
+ [[In the Hall of the Mountain King]] $$
+ [[Peer Gynt]] $$
+ [[Beethoven]] $$
+ [[Symphony No. 5 (Beethoven)|Symphony No. 5]] $$
+ [[Die Walküre]] $$
+ [[Rimsky-Korsakov]] $$
+ [[Flight of the Bumblebee]] $$
+ [[Aaron Copland]] $$
+ [[Rodeo (ballet)|Rodeo]] $$
+ [[cliché]] $$
+ [[Wolfgang Amadeus Mozart|Mozart]] $$
+ [[Serenade No. 13 (Mozart)|Eine kleine Nachtmusik]] $$
+ [[Antonio Vivaldi|Vivaldi]] $$
+ [[The Four Seasons (Vivaldi)|Four Seasons]] $$
+ [[Modest Mussorgsky|Mussorgsky]] $$
+ [[Night on Bald Mountain|A Night on Bald Mountain]] $$
+ [[Gioachino Rossini|Rossini]] $$
+ [[William Tell]] $$
+ [[Mozart effect]] $$
+ [[Nature (journal)|Nature]] $$
+ [[IQ]] $$
+ [[New York Times]] $$
+ [[music education]] $$
+ [[New York Times]] $$
+ [[List of classical music styles]] $$
+ [[List of classical music composers]] $$
+ [[American classical music]] $$
+ [[Australian classical music]] $$
+ [[Canadian classical music]] $$
+ [[French classical music]] $$
+ [[Indian classical music]] $$
+ [[Italian classical music]] $$
+ [[Classical music of the United Kingdom]] $$
+ [[W. W. Norton|Norton]] $$
+ [[Barbara Russano Hanning|Hanning, Barbara Russano]] $$
+ [[Stephen Fry|Fry, Stephen]] $$
+ [[Stephen Fry's Incomplete and Utter History of Classical Music]] $$
+ [[Wikipedia:External links]] $$
+ [[Wikipedia:Spam]] $$
+ [[Category:WikiProject Classical music| ]] $$
+ [[Category:European music]] $$
+ [[Category:Classical music| ]] $$
+ [[af:Europese klassieke musiek]] $$
+ [[ar:موسيقى كلاسيكية]] $$
+ [[an:Mosica clasica]] $$
+ [[bn:ধ্রুপদী সঙ্গীত]] $$
+ [[zh-min-nan:Se-iûⁿ kó͘-tián im-ga̍k]] $$
+ [[be:Класічная музыка]] $$
+ [[be-x-old:Клясычная музыка]] $$
+ [[bo:གནའ་གཞུང་རོལ་དབྱངས།]] $$
+ [[bs:Klasična muzika]] $$
+ [[br:Sonerezh klasel]] $$
+ [[bg:Класическа музика]] $$
+ [[ca:Música clàssica]] $$
+ [[cs:Vážná hudba]] $$
+ [[cy:Cerddoriaeth glasurol]] $$
+ [[da:Klassisk musik]] $$
+ [[de:Klassische Musik]] $$
+ [[et:Klassikaline muusika]] $$
+ [[el:Κλασική μουσική]] $$
+ [[es:Música clásica]] $$
+ [[eo:Klasika muziko]] $$
+ [[eu:Musika klasikoa]] $$
+ [[fa:موسیقی کلاسیک]] $$
+ [[fr:Musique classique]] $$
+ [[fy:Klassike muzyk]] $$
+ [[fur:Musiche classiche]] $$
+ [[gl:Música clásica]] $$
+ [[gan:古典音樂]] $$
+ [[ko:서양 고전 음악]] $$
+ [[hy:Դասական երաժշտություն]] $$
+ [[hi:शास्त्रीय संगीत]] $$
+ [[hr:Klasična glazba]] $$
+ [[id:Musik klasik]] $$
+ [[is:Klassísk tónlist]] $$
+ [[it:Musica classica]] $$
+ [[he:מוזיקה קלאסית]] $$
+ [[kn:ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ]] $$
+ [[sw:Muziki wa Klasiki]] $$
+ [[la:Musica classica]] $$
+ [[lv:Klasiskā mūzika]] $$
+ [[li:Klassieke muziek]] $$
+ [[hu:Klasszikus zene]] $$
+ [[mk:Класична музика]] $$
+ [[ml:പാശ്ചാത്യസംഗീതം]] $$
+ [[ms:Muzik klasikal]] $$
+ [[nl:Klassieke muziek]] $$
+ [[ja:クラシック音楽]] $$
+ [[no:Klassisk musikk]] $$
+ [[nn:Klassisk musikk]] $$
+ [[pl:Muzyka poważna]] $$
+ [[pnb:کلاسیکی موسیقی ]] $$
+ [[pt:Música clássica]] $$
+ [[ro:Muzică cultă]] $$
+ [[ru:Классическая музыка]] $$
+ [[simple:Classical music]] $$
+ [[sk:Klasická hudba]] $$
+ [[sl:Klasična glasba]] $$
+ [[sh:Klasična muzika]] $$
+ [[sr:Класична музика]] $$
+ [[fi:Taidemusiikki]] $$
+ [[sv:Klassisk musik]] $$
+ [[tl:Musikang klasiko]] $$
+ [[ta:மேல்நாட்டுச் செந்நெறி இசை]] $$
+ [[th:ดนตรีคลาสสิก]] $$
+ [[tr:Klasik Batı müziği]] $$
+ [[uk:Класична музика]] $$
+ [[vi:Nhạc cổ điển]] $$
+ [[fiu-vro:Klassikalinõ muusiga]] $$
+ [[wa:Muzike classike]] $$
+ [[war:Klasikal nga musika]] $$
+ [[yi:קלאסישע מוזיק]] $$
+ [[zh-yue:古典樂]] $$
+ [[bat-smg:Klasėkėnė mozėka]] $$
+ [[zh:古典音乐]] $$
+ 
+</links>
+<sections>
+<heading>
+Characteristics
+</heading>
+<text>
+
+{{Unreferenced section|date=September 2009}}
+Given the extremely broad variety of forms, styles, genres, and historical periods generally perceived as being described by the term "classical music," it is difficult to list characteristics that can be attributed to all works of that type. Vague descriptions are plentiful, such as describing classical music as anything that "lasts a long time," a statement made rather moot when one considers contemporary composers who are described as classical; or music that has certain instruments like violins, which are also found in other genres. However, there are characteristics that classical music contains that few or no other genres of music contain.
+
+
+</text>
+<heading>
+Instrumentation
+</heading>
+<text>
+
+The instruments used in most classical music were largely invented before the mid-19th century (often much earlier), and codified in the 18th and 19th centuries. They consist of the instruments found in an [[orchestra]], together with a few other solo instruments (such as the [[piano]], [[harpsichord]], and [[organ (music)|organ]]).
+
+Electric instruments such as the [[electric guitar]] appear occasionally in the classical music of the 20th and 21st centuries. Both classical and popular musicians have experimented in recent decades with electronic instruments such as the [[synthesizer]], electric and digital techniques such as the use of sampled or computer-generated sounds, and the sounds of instruments from other cultures such as the [[gamelan]].
+
+None of the bass instruments existed until the Renaissance. In Medieval music, instruments are divided in two categories: loud instruments for use outdoors or in church, and quieter instruments for indoor use. Many instruments which are associated today with popular music used to have important roles in early classical music, such as [[bagpipes]], [[vihuela]]s, [[hurdy gurdy|hurdy-gurdies]] and some woodwind instruments. On the other hand, instruments such as the acoustic guitar, which used to be associated mainly with popular music, have gained prominence in classical music through the 19th and 20th centuries.
+
+While [[equal temperament]] became gradually accepted as the dominant [[musical temperament]] during the 19th century, different historical temperaments are often used for music from earlier periods. For instance, music of the [[English Renaissance]] is often performed in [[mean tone]] temperament. Keyboards almost all share a common layout (often called the piano keyboard).
+
+
+</text>
+<heading>
+Form
+</heading>
+<text>
+
+Whereas the majority of popular styles lend themselves to the [[song]] form, classical music can also take on the form of the [[concerto]], [[symphony]], [[sonata]], [[opera]], [[dance music]], [[suite]], [[étude]], [[symphonic poem]], and others.
+
+Classical composers often aspire to imbue their music with a very complex relationship between its affective (emotional) content and the intellectual means by which it is achieved. Many of the most esteemed works of classical music make use of [[musical development]], the process by which a musical idea or [[motif (music)|motif]] is repeated in different contexts or in altered form. The [[History of sonata form|sonata form]] and [[fugue]] employ rigorous forms of musical development.
+
+
+</text>
+<heading>
+Technical execution
+</heading>
+<text>
+
+Along with a desire for composers to attain high technical achievement in writing their music, performers of classical music are faced with similar goals of technical mastery, as demonstrated by the proportionately high amount of schooling and private study most successful classical musicians have had when compared to "popular" genre musicians, and the large number of secondary schools, including [[College or university school of music|conservatories]], dedicated to the study of classical music. The only other genre in the Western world with comparable secondary education opportunities is [[jazz]].
+
+
+</text>
+<heading>
+Complexity
+</heading>
+<text>
+
+Performance of classical music repertoire often demands a significant level of technical mastery on the part of the musician; proficiency in [[Sight reading|sight-reading]] and [[Musical ensemble|ensemble]] playing, thorough understanding of [[Tonality|tonal]] and [[Harmony|harmonic]] principles, knowledge of [[performance practice]], and a familiarity with the style/musical idiom inherent to a given period, composer or musical work are among the most essential of skills for the classically trained musician.
+
+Works of classical repertoire often exhibit artistic complexity through the use of [[Theme (music)|thematic]] development, [[Musical phrasing|phrasing]], [[Harmony|harmonization]], [[Modulation (music)|modulation]] (change of key), [[Texture (music)|texture]], and, of course, [[musical form]] itself. Larger-scale compositional forms (such as that of the [[symphony]], [[concerto]], [[opera]] or [[oratorio]], for example) usually represent a hierarchy of smaller units consisting of [[Phrase (music)|phrases]], [[Period (music)|periods]], [[Section (music)|sections]], and [[Movement (music)|movements]]. [[Musical analysis]] of a composition aims at achieving greater understanding of it, leading to more meaningful hearing and a greater appreciation of the composer's style.
+
+
+</text>
+<heading>
+Society
+</heading>
+<text>
+
+Often perceived as opulent or signifying some aspect of upper-level society, classical music has generally never been as popular with working-class society. However, the traditional perception that only upper-class society has access to and appreciation for classical music, or even that classical music represents the upper-class society, may not be true, given that many working classical musicians fall somewhere in the middle-class income range in the United States,<ref name="chesky">{{cite journal|last=Chesky|first=Kris S|coauthors=Stephen Corns|year=2007|title=Income From Music Performance: Does Attending College Make Cents?|journal=Reports of Research in Music Education|publisher=Texas Music Educators Association|location=University of Texas at Austin|url=http://www.tmea.org/080_College/Research/che1999.pdf}}</ref> and that classical concertgoers and CD buyers are not necessarily upper class. Even in the Classical era, Mozart's [[opera buffa|opere buffe]] such as ''[[Così fan tutte]]'' were popular with the general public.
+
+Classical music regularly features in pop culture, forming background music for movies, television programs and advertisements. As a result most people in the Western World regularly and often unknowingly listen to classical music; thus, it can be argued that the relatively low levels of recorded music sales may not be a good indicator of its actual popularity. In more recent times the association of certain classical pieces with major events has led to brief upsurges in interest in particular classical genres. A good example of this was the choice of ''[[Nessun dorma]]'' from [[Giacomo Puccini]]'s opera ''[[Turandot]]'' as the theme tune for the [[1990 FIFA World Cup]], which led to a noticeable increase in popular interest in opera and in particular in tenor arias, which led to the huge sellout concerts by [[The Three Tenors]]. Such events are often cited as helping to drive increases in the audiences at many classical concerts that have been observed in recent times.
+
+
+</text>
+<heading>
+History
+</heading>
+<text>
+
+{{Main|History of music}}
+The major time divisions of classical music are the [[early music]] period, which includes [[Medieval music|Medieval]] (476–1400) and [[Renaissance music|Renaissance]] (1400–1600), the [[Common practice period]], which includes the [[Baroque music|Baroque]] (1600–1750), [[Classical period (music)|Classical]] (1730–1820) and [[Romantic music|Romantic]] (1815–1910) periods, and the modern and contemporary period, which includes [[20th century classical music|20th century classical]] (1900–2000) and [[Contemporary classical music|contemporary classical]] (1975–current). 
+
+The dates are [[Dates of classical music eras|generalizations]], since the periods overlapped and the categories are somewhat arbitrary. For example, the use of [[counterpoint]] and [[fugue]], which is considered characteristic of the Baroque era, was continued by [[Haydn]], who is classified as typical of the Classical period. [[Ludwig van Beethoven|Beethoven]], who is often described as a founder of the Romantic period, and [[Johannes Brahms|Brahms]], who is classified as Romantic, also used counterpoint and fugue, but other characteristics of their music define their period.
+
+The prefix ''neo'' is used to describe a 20th century or contemporary composition written in the style of an earlier period, such as Classical or Romantic. [[Igor Stravinsky|Stravinsky's]] ''[[Pulcinella (ballet)|Pulcinella]]'', for example, is a [[Neoclassicism (music)|neoclassical]] composition because it is stylistically similar to works of the Classical period.
+
+
+</text>
+<heading>
+Roots
+</heading>
+<text>
+
+{{Main|Ancient music}}
+
+The roots of Western classical music lie in early [[Christian]] liturgical music, and its influences date back to the [[Ancient Greece|Ancient Greeks]]. Development of individual tones and scales was done by ancient Greeks such as [[Aristoxenus]] and [[Pythagoras]].<ref name="Grout73p28">[[#Grout73|Grout]], p. 28</ref> Pythagoras created a tuning system and helped to codify [[musical notation]]. Ancient Greek instruments such as the [[aulos]] (a [[reed instrument]]) and the [[lyre]] (a stringed instrument similar to a small harp) eventually led to the modern-day instruments of a classical orchestra.<ref>[[#Grout88|Grout (1988)]]</ref>  The antecedent to the early period was the era of [[ancient music]] from before the fall of the [[Roman Empire]] (476 AD).  Very little music survives from this time, most of it from Ancient Greece.
+
+
+</text>
+<heading>
+Early Period
+</heading>
+<text>
+
+[[Image:Vielle.jpg|right|thumb||A musician plays the [[vielle]] in a fourteenth-century [[Medieval]] [[manuscript]].]]
+[[Image:CordierColor.jpg|thumb|left|The chanson ''Belle, bonne, sage'' by [[Baude Cordier]], an ''Ars subtilior'' piece included in the [[Chantilly Codex]].]]
+[[Image:white mensural notation.gif|thumb|206px|[[Johannes Ockeghem]], Kyrie "Au travail suis," excerpt.]]
+
+{{Main|Medieval music|Renaissance music}}
+{{See also|List of Medieval composers|List of Renaissance composers}}
+
+The Medieval period includes music from after the fall of Rome to about 1400. [[Monophony|Monophonic]] chant, also called plainsong or [[Gregorian Chant]], was the dominant form until about 1100.<ref name="Grout73p75"/>  [[Polyphony|Polyphonic]] (multi-voiced) music developed from monophonic chant throughout the late [[Middle Ages]] and into the [[Renaissance]], including the more complex voicings of [[motet]]s.  The Renaissance period was from 1400 to 1600. It was characterized by greater use of [[instrumentation (music)|instrumentation]], multiple interweaving melodic lines, and the use of the first [[Bass (sound)|bass instruments]].  Social dancing became more widespread, so musical forms appropriate to accompanying dance began to standardize.
+
+It is in this time that the notation of music on a [[staff (music)|staff]] and other elements of [[musical notation]] began to take shape.<ref name="Grout73p61">[[#Grout73|Grout]], p. 61</ref>  This invention made possible the separation of the [[Musical composition|composition]] of a piece of music from its ''transmission''; without written music, transmission was oral, and subject to change every time it was transmitted.  With a [[musical score]], a work of music could be performed without the composer's presence.<ref name="Grout73p75">[[#Grout73|Grout]], pp. 75-76</ref>  The invention of the movable-type [[printing press]] in the 15th century had far-reaching consequences on the preservation and transmission of music.<ref name="Grout73p175">[[#Grout73|Grout]], pp. 175-176</ref>
+
+Typical stringed instruments of the Early Period include the harp, [[lute]], [[vielle]], and [[psaltery]], while wind instruments included the [[flute]] family (including [[recorder]]), [[shawm]] (an early member of the [[oboe]] family), [[trumpet]], and the [[bagpipe]].  Simple [[pipe organ]]s existed, but were largely confined to churches, although there were portable varieties.<ref name="Grout73p72">[[#Grout73|Grout]], pp. 72-74</ref>  Later in the period, early versions of [[keyboard (music)|keyboard]] instruments like the [[clavichord]] and [[harpsichord]] began to appear.  Stringed instruments such as the [[viol]] had emerged by the 16th century, as had a wider variety of brass and reed instruments.  Printing enabled the standardization of descriptions and specifications of instruments, as well as instruction in their use.<ref name="Grout73p222">[[#Grout73|Grout]], pp. 222-225</ref>
+
+
+</text>
+<heading>
+Common Practice Period
+</heading>
+<text>
+
+The [[common practice period|Common Practice Period]] is when many of the ideas that make up western classical music took shape, standardized, or were codified.  It began with the Baroque era, running from roughly 1600 to the middle of the 18th century.  The Classical era followed, ending roughly around 1820.  The Romantic era ran through the 19th century, ending about 1910.
+
+
+</text>
+<heading>
+=Baroque music
+</heading>
+<text>
+=
+[[Image:Baschenis - Musical Instruments.jpg|thumb|260px|Baroque instruments including [[hurdy gurdy]], [[harpsichord]], [[bass viol]], [[lute]], [[baroque violin|violin]], and [[baroque guitar]].]]
+{{Main|Baroque music}}
+{{See also|List of Baroque composers}}
+Baroque music is characterized by the use of complex tonal [[counterpoint]] and the use of a [[basso continuo]], a continuous bass line. The beginnings of the [[sonata form]] took shape in the [[canzona]], as did a more formalized notion of [[theme and variations]]. The tonalities of [[major and minor]] as means for managing dissonance and [[chromaticism]] in music took full shape.<ref name="Grout73p300">[[#Grout73|Grout]], pp. 300-332</ref>
+
+During the Baroque era, keyboard music played on the [[harpsichord]] and [[pipe organ]] became increasingly popular, and the [[violin]] family of stringed instruments took the form generally seen today. [[Opera]] as a staged musical drama began to differentiate itself from earlier musical and dramatic forms, and vocal forms like the [[cantata]] and [[oratorio]] became more common.<ref name="Grout73p341">[[#Grout73|Grout]], pp. 341-355</ref>  Instrumental ensembles began to distinguish and standardize by size, giving rise to the early [[orchestra]] for larger ensembles, with [[chamber music]] being written for smaller groups of instruments where parts are played by individual (instead of massed) instruments.  The [[concerto]] as a vehicle for solo performance accompanied by an orchestra became widespread, although the relationship between soloist and orchestra was relatively simple. The theories surrounding [[equal temperament]] began to be put in wider practice, especially as it enabled a wider range of chromatic possibilities in hard-to-tune keyboard instruments. Although Bach did not use equal temperament, as a modern piano is generally tuned, changes in the temperaments from the meantone system, common at the time, to various temperaments that made modulation between all keys musically acceptable, made possible [[Bach]]'s [[Well-Tempered Clavier]].<ref name="Grout73p378">[[#Grout73|Grout]], p. 378</ref>
+
+
+</text>
+<heading>
+=Classical period music
+</heading>
+<text>
+=
+[[Image:Haydnportrait.jpg|thumb|right|[[Joseph Haydn]] (1732 - 1809) ca. 1770.]]
+{{Main|Classical period (music)}}
+{{See also|List of Classical era composers}}
+The Classical period, from about 1750 to 1820, established many of the norms of composition, presentation, and style, and was also when the [[piano]] became the predominant keyboard instrument.  The ''basic'' forces required for an orchestra became somewhat standardized (although they would grow as the potential of a wider array of instruments was developed in the following centuries).  Chamber music grew to include ensembles with as many as 8-10 performers for [[serenade]]s.  Opera continued to develop, with regional styles in [[Italy]], France, and German-speaking lands.  The ''[[opera buffa]]'', a form of comic opera, rose in popularity.  The [[symphony]] came into its own as a musical form, and the concerto was developed as a vehicle for displays of virtuoso playing skill.  Orchestras no longer required a [[harpsichord]] (which had been part of the traditional ''continuo'' in the Baroque style), and were often led by the lead violinist (now called the [[concertmaster]]).<ref name="Grout73p463">[[#Grout73|Grout]], p. 463</ref>
+
+Wind instruments became more refined in the Classical period.  While [[double reed]]ed instruments like the [[oboe]] and [[bassoon]] became somewhat standardized in the Baroque, the [[clarinet]] family of [[single reed]]s was not widely used until [[Wolfgang Amadeus Mozart|Mozart]] expanded its role in orchestral, chamber, and concerto settings.
+
+
+</text>
+<heading>
+=Romantic era music
+</heading>
+<text>
+=
+{{Main|Romantic music}}
+{{See also|List of Romantic composers}}
+The music of the Romantic era, from roughly the second decade of the 19th century to the early 20th century, was characterized by increased attention to an extended melodic line, as well as expressive and emotional elements, paralleling [[romanticism]] in other art forms.  Musical forms began to break from the Classical era forms (even as those were being codified), with free-form pieces like [[nocturne]]s, [[Fantasia (music)|fantasias]], and [[Prelude (music)|preludes]] being written where accepted ideas about the exposition and development of themes were ignored or minimized.<ref name="Swafford200">[[#Swafford|Swafford]], p. 200</ref>  The music became more chromatic, dissonant, and tonally colorful, with tensions (with respect to accepted norms of the older forms) about key signatures increasing.<ref name="Swafford201">[[#Swafford|Swafford]], p. 201</ref>  The [[art song]] (or ''Lied'') came to maturity in this era, as did the epic scales of [[grand opera]], ultimately transcended by [[Richard Wagner]]'s [[Der Ring des Nibelungen|Ring cycle]].<ref name="Grout73p595">[[#Grout73|Grout]], pp. 595-612</ref>
+
+In the 19th century, musical institutions emerged from the control of wealthy patrons, as composers and musicians could construct lives independent of the nobility.  Increasing interest in music by the growing middle classes throughout western Europe spurred the creation of organizations for the teaching, performance, and preservation of music.  The piano, which achieved its modern construction in this era (in part due to industrial advances in [[metallurgy]]) became widely popular with the  middle class, whose demands for the instrument spurred a large number of piano builders. Many symphony orchestras date their founding to this era.<ref name="Swafford201"/>  Some musicians and composers were the stars of the day;  some, like [[Franz Liszt]] and [[Niccolò Paganini]], fulfilled both roles.<ref name="Grout73p543">[[#Grout73|Grout]], p. 543</ref>
+
+The family of instruments used, especially in orchestras, grew.  A wider array of percussion instruments began to appear.  Brass instruments took on larger roles, as the introduction of [[rotary valve]]s made it possible for them to play a wider range of notes.  The size of the orchestra (typically around 40 in the Classical era) grew to be over 100.<ref name="Swafford201"/> [[Gustav Mahler]]'s 1906 ''[[Symphony No. 8 (Mahler)|Symphony No. 8]]'', for example, has been performed with over 150 instrumentalists and choirs of over 400.
+
+European cultural ideas and institutions began to follow colonial expansion into other parts of the world.  There was also a rise, especially toward the end of the era, of [[nationalism]] in music (echoing, in some cases, political sentiments of the time), as composers such as [[Edvard Grieg]], [[Nikolai Rimsky-Korsakov]], and [[Antonín Dvořák]] echoed traditional music of their homelands in their compositions.<ref name="Grout73p634">[[#Grout73|Grout]], pp. 634,641-2</ref>
+
+
+</text>
+<heading>
+20th century, modern, and contemporary music
+</heading>
+<text>
+
+[[Image:Stravinsky picasso.png|thumb|upright|[[Igor Stravinsky]] and [[Pablo Picasso]] collaborated on ''[[Pulcinella (ballet)|Pulcinella]]'' in 1920.]]
+
+{{Main|20th-century classical music|Contemporary classical music|21st-century classical music}}
+{{See also|List of 20th-century classical composers by birth date|List of 21st-century classical composers}}
+[[Modernism (music)|Modernism]] (1905–1985) marked a period when many composers rejected certain values of the common practice period, such as traditional tonality, melody, instrumentation, and structure.  Composers, academics, and musicians developed extensions of music theory and technique. 20th century classical music, encompassing a wide variety of post-Romantic styles composed through the year 1999, includes late Romantic, Modern and Postmodern styles of composition. The term "contemporary music" is sometimes used to describe music composed in the late 20th century through to the present day.
+
+
+</text>
+<heading>
+Significance of written notation
+</heading>
+<text>
+
+
+</text>
+<heading>
+Modernist view of the significance of the score
+</heading>
+<text>
+
+Modernist views hold that: Classical music is considered primarily a ''written'' musical tradition, preserved in [[music notation]], as opposed to being transmitted orally, by rote, or by recordings of particular performances. While there are differences between particular performances of a classical work, a piece of classical music is generally held to transcend any [[musical interpretation|interpretation]] of it. The use of musical notation is an effective method for transmitting classical music, since the written music contains the technical instructions for performing the work. The written score, however, does not usually contain explicit instructions as to how to interpret the piece in terms of production or performance, apart from directions for dynamics, tempo and expression (to a certain extent); this is left to the discretion of the performers, who are guided by their personal experience and musical education, their knowledge of the work's idiom, and the accumulated body of historic performance practices. 
+
+</text>
+<heading>
+Criticism of this modernism view on the importance of the score
+</heading>
+<text>
+
+Some critics express the opinion that it is only from the mid 19th century, but esp. in the 20th century that the score has begun to hold such a high significance. Previously improvisation, rhythmic flexibility, improvisatory deviation from the score and oral tradition of playing was integral to style of music. Yet in the 20th century this oral tradition and passing on of stylistic features within classical music no longer exists. Instead musicians use the score to play music, yet even given the score, there is considerable controversy about how to perform the works. Some of this controversy relates to the fact that this score-centric approach has led to performing styles that emphasize metrically strict block-rhythms (just as the music is notated in the score). This eventually led [[Sol Babitz]] to speak of "sewing machine Bach".
+
+Some quotes that highlight this criticism of modernist overvaluing of the score: 
+*''[...]one of the most stubborn modern misconceptions concerning baroque music is that a metronomic regularity was intended'' (Baroque Interpretation in [[Grove Dictionary of Music and Musicians|Grove 5th edition]] by [[Robert Donington]])
+*''Too many teachers, conditioned to 20th Century ideas, teach Bach and other Baroque music exactly the wrong way. This leads to what musicologist Sol Babitz calls "sewing machine Bach."''<ref name=conservatories_kill_expression />
+*''[...] tendency to look alike, sound alike and think alike. The conservatories are at fault and they have been at fault for many years now. Any sensitive musician going around the World has noted the same thing. The conservatories, from Moscow and Leningrad to Juilliard, Curtis and Indiana, are producing a standardized product. <br />[...] clarity, undeviating rhythm, easy technique, "musicianship". I put the word musicianship in quotes, because as often as not, it is a false kind of musicianship - a musicianship that sees the tree and not the forest, that takes care of the detail but ignores the big picture; a musicianship that is tied to the printed note rather than to emotional meaning of a piece.<br />The fact remains that there is a dreadful uniformity today and also an appalling lack of knowledge about the culture and performance traditions of the past.'' (Music Schools Turning out Robots?<ref name=conservatories_kill_expression>[http://news.google.com/newspapers?nid=1873&dat=19691019&id=dpMeAAAAIBAJ&sjid=ncsEAAAAIBAJ&pg=874,4160516 Music Schools Turning out Robots?] by Harold C. Schonberg; Daytona Beach Morning Journal - Oct 19, 1969</ref>  by Harold C. Schonberg)
+
+
+</text>
+<heading>
+Improvisation
+</heading>
+<text>
+
+[[musical improvisation|Improvisation]] once played an important role in classical music. A remnant of this improvisatory tradition in classical music can be heard in the [[cadenza]], a passage found mostly in concertos and solo works, designed to allow skilled performers to exhibit their virtuoso skills on the instrument. Traditionally this was improvised by the performer; however, it is often written for (or occasionally by) the performer beforehand. Improvisation is also an important aspect in authentic performances of operas of Baroque era and of bel canto (especially operas of [[Vincenzo Bellini]]), and is best exemplified by the ''[[da capo aria]]'', a form by which famous singers typically perform variations of the thematic matter of the aria in the recapitulation section ('B section' / the 'da capo' part). An example is [[Beverly Sills]]' complex, albeit pre-written, variation of ''Da tempeste il legno infranto'' from Händel's ''[[Giulio Cesare]]''. 
+
+Its written transmission, along with the veneration bestowed on certain classical works, has led to the expectation that performers will play a work in a way that realizes in detail the original intentions of the composer. During the 19th century the details that composers put in their scores generally increased. Yet the opposite trend &mdash; admiration of performers for new "interpretations" of the composer's work &mdash; can be seen, and it is not unknown for a composer to praise a performer for achieving a better realization of the original intent than the composer was able to imagine. Thus, classical performers often achieve very high reputations for their musicianship, even if they do not compose themselves. Generally however, it is the composers who are remembered more than the performers.
+
+Another consequence of the primacy of the composer's written score is that this has led to the state, where today improvisation plays a relatively minor role in classical music, in sharp contrast to musicians who lived during the baroque, classical and romantic era. Improvisation in classical music performance was common during both the Baroque era and in the nineteenth, yet lessened strongly during the 2nd half of the 19th and in the 20th centuries. Recently the performance of such music by modern classical musicians has been enriched by a revival of the old improvisational practices. During the classical period, Mozart and Beethoven often improvised the cadenzas to their [[piano concerto]]s (and thereby encouraged others to do so), but they also provided written cadenzas for use by other soloists. In opera, the practice of singing strictly by the score i.e. ''come scritto'', is famously propagated by [[Maria Callas]], who called this practice 'straitjacketing' and implied that it allows the intention of the composer to be understood better, especially during studying the music for the first time.
+
+
+</text>
+<heading>
+Popular music
+</heading>
+<text>
+
+Classical music has often incorporated elements or material from popular music of the composer's time. Examples include occasional music such as Brahms' use of student drinking songs in his ''[[Academic Festival Overture]]'', genres exemplified by [[Kurt Weill]]'s ''[[The Threepenny Opera]]'', and the influence of jazz on early- and mid-20th century composers including [[Maurice Ravel]], exemplified by the movement entitled "Blues" in his sonata for violin and piano.<ref>{{GroveOnline|Ravel, Maurice, §3: 1918–37|Kelly, Barbara. L|July 23|2007}}</ref> Certain [[Postmodern music|postmodern]], [[Minimalist music|minimalist]] and [[Postminimalism|postminimalist]] classical composers acknowledge a debt to popular music.<ref>See, for example, {{GroveOnline|Nyman, Michael|Siôn, Pwyll Ap|July 23|2007}}</ref>
+
+There are numerous examples of influence in the opposite direction, including popular songs based on classical music, the use to which ''[[Pachelbel's Canon#Pachelbel's canon in popular culture|Pachelbel's Canon]]'' has been put since the 1970s, and the musical [[Crossover (music)|crossover]] phenomenon, where classical musicians have achieved success in the popular music arena.<ref>Notable examples are the ''[[Hooked on Classics]]'' series of recordings made by the [[Royal Philharmonic Orchestra]] in the early 1980s and the classical crossover violinists [[Vanessa Mae]] and [[Catya Maré]].</ref>
+
+
+</text>
+<heading>
+Folk music
+</heading>
+<text>
+
+Composers of classical music have often made use of [[folk music]] (music created by musicians who are commonly not classically trained, often from a purely oral tradition). Some composers, like [[Antonín Dvořák|Dvořák]] and [[Bedřich Smetana|Smetana]],<ref name="Yeomans2">{{cite book|last=Yeomans|first=David|title=Piano Music of the Czech Romantics: A Performer's Guide|publisher=Indiana University Press|year=2006|isbn=0253218454|page=2}}</ref> have used folk themes to impart a nationalist flavor to their work, while others (like [[Béla Bartók|Bartók]]) have used specific themes lifted whole from their folk-music origins.<ref name="Stevens129">{{cite book|last=Stevens|first=Haley|coauthors= Gillies, Malcolm|title=The Life and Music of Béla Bartók|year=1993|isbn=0198163495|page=129|publisher=Clarendon Press|location=Oxford}}</ref>
+
+
+</text>
+<heading>
+Commercialism
+</heading>
+<text>
+
+Certain staples of classical music are often used commercially (either in advertising or in movie soundtracks). In television commercials, several passages have become clichéd, particularly the opening of [[Richard Strauss]]' ''[[Also sprach Zarathustra (Richard Strauss)|Also sprach Zarathustra]]'' (made famous in the film ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'') and the opening section "O Fortuna" of [[Carl Orff]]'s ''[[Carmina Burana (Orff)|Carmina Burana]]''; other examples include the ''[[Dies Irae]]'' from the [[Giuseppe Verdi|Verdi]] Requiem, [[Edvard Grieg]]'s ''[[In the Hall of the Mountain King]]'' from ''[[Peer Gynt]]'', the opening bars of [[Beethoven]]'s ''[[Symphony No. 5 (Beethoven)|Symphony No. 5]]'', Wagner's ''Ride of the Valkyries'' from [[Die Walküre]], [[Rimsky-Korsakov]]'s ''[[Flight of the Bumblebee]]'', and excerpts of [[Aaron Copland]]'s ''[[Rodeo (ballet)|Rodeo]]''.
+
+Similarly, movies and television often revert to standard, [[cliché]]d snatches of classical music to convey refinement or opulence: some of the most-often heard pieces in this category include [[Wolfgang Amadeus Mozart|Mozart]]'s ''[[Serenade No. 13 (Mozart)|Eine kleine Nachtmusik]]'', [[Antonio Vivaldi|Vivaldi]]'s ''[[The Four Seasons (Vivaldi)|Four Seasons]]'', [[Modest Mussorgsky|Mussorgsky]]'s "[[Night on Bald Mountain|A Night on Bald Mountain]]", and [[Gioachino Rossini|Rossini]]'s "[[William Tell]]" (The work's Overture).
+
+
+</text>
+<heading>
+Education
+</heading>
+<text>
+
+{{Main|Music education}}
+Throughout history, parents have often made sure that their children receive classical music training from a young age. Some parents pursue music lessons for their children for social reasons or in an effort to instill a sense of self-discipline.{{Citation needed|date=February 2010}} Some believe that knowledge of important works of classical music is part of a good general education.
+
+During the 1990s, several research papers and popular books wrote on what came to be called the "[[Mozart effect]]": an observed temporary, small elevation of scores on certain tests as a result of listening to Mozart's works. The approach has been popularized in a book by Don Campbell, and is based on an experiment published in ''[[Nature (journal)|Nature]]'' suggesting that listening to Mozart temporarily boosted students' [[IQ]] by 8 to 9 points.<ref>[http://www.nature.com/nature/journal/v400/n6747/abs/400827a0.html Prelude or requiem for the 'Mozart effect'?] ''Nature'' '''400''' (1999-08-26): 827.</ref>  This popularized version of the theory was expressed succinctly by a ''New York Times'' music columnist: "researchers... have determined that listening to Mozart actually makes you smarter."<ref>Ross, Alex. [http://query.nytimes.com/gst/fullpage.html?res=9C05EFDF1239F93BA1575BC0A962958260 "CLASSICAL VIEW; Listening To Prozac... Er, Mozart"], [[New York Times]], 1994-08-28. Retrieved on 2008-05-16.</ref> Promoters marketed CDs claimed to induce the effect. Florida passed a law requiring toddlers in state-run schools to listen to classical music every day, and in 1998 the governor of Georgia budgeted $105,000 per year to provide every child born in Georgia with a tape or CD of classical music. One of the co-authors of the original studies of the Mozart effect commented "I don't think it can hurt. I'm all for exposing children to wonderful cultural experiences. But I do think the money could be better spent on [[music education]] programs."<ref>Goode, Erica. [http://query.nytimes.com/gst/fullpage.html?res=9C03E0D81131F930A3575BC0A96F958260&sec=&spon=&pagewanted=3 "Mozart for Baby? Some Say, Maybe Not"], [[New York Times]], 1999-08-03. Retrieved on 2008-05-16.</ref>
+
+
+</text>
+<heading>
+See also
+</heading>
+<text>
+
+{{Portal|Classical music}}
+{{Commons category|Classical music}}
+<div style="-moz-column-count:2; column-count:2;">
+* [[List of classical music styles]]
+* [[List of classical music composers]]
+* [[American classical music]]
+* [[Australian classical music]]
+* [[Canadian classical music]]
+* [[French classical music]]
+* [[Indian classical music]]
+* [[Italian classical music]]
+* [[Classical music of the United Kingdom]]
+</div>
+
+
+</text>
+<heading>
+Notes
+</heading>
+<text>
+
+{{Reflist|colwidth=30em}}
+
+
+</text>
+<heading>
+References
+</heading>
+<text>
+
+*{{cite book|first=Norman|last=Lebrecht|title=When the Music Stops: Managers, Maestros and the Corporate Murder of Classical Music|publisher=Simon &amp; Schuster|year=1996|isbn=9780671010256|ref=Lebrecht}}
+*{{cite book|title=A History of Western Music|first=Donald Jay|last=Grout|publisher=[[W. W. Norton|Norton]]|year=1973|isbn=0393094162|ref=Grout73}}
+*{{cite book|title=A History of Western Music|last=Grout|first=Donald J.|coauthors=Palisca, Claude V.|year=1988|publisher=Norton|isbn=9780393956276|ref=Grout88}}
+*{{cite book|title=The Vintage Guide to Classical Music|first=Jan|last=Swafford|publisher=Vintage Books|city=New York|year=1992|isbn=0-679-72805-8|ref=Swafford}}
+
+
+</text>
+<heading>
+Further reading
+</heading>
+<text>
+
+* Copland, Aaron;(1957) - ''What to listen for in music''. McGraw Hill.-10: 7018981026 (paperback).
+* Grout, Donald Jay; Palisca, Claude V. (1996) - ''A History of Western Music'',  Fifth Edition. W.W. Norton & Company. ISBN 0-393-96904-5 (hardcover).
+* [[Barbara Russano Hanning|Hanning, Barbara Russano]]; Grout, Donald Jay (1998 rev. 2009) - ''Concise History of Western Music''. W.W. Norton & Company. ISBN 0-393-92803-9 (hardcover).
+* Johnson, Julian (2002). ''Who Needs Classical Music?: Cultural Choice and Musical Value''. Oxford University Press. ISBN 0-19-514681-6.
+* Kamien, Roger (2008) - ''Music: An Appreciation'' Sixth Brief Edition ISBN 978-0-07-340134-8
+* Lihoreau, Tim; [[Stephen Fry|Fry, Stephen]] (2004) - ''[[Stephen Fry's Incomplete and Utter History of Classical Music]]''. Boxtree. ISBN 978-0-7522-2534-0
+* Scholes, Percy Alfred; Arnold, Denis (photographer) (1988) - ''The New Oxford Companion to Music''. Oxford University Press. ISBN 0-19-311316-3 (paperback).
+* Taruskin, Richard (2005, rev. Paperback version 2009) - ''Oxford History of Western Music''. Oxford University Press (USA). ISBN 978-0-19-516979-9 (Hardback), ISBN 978-0-19-538630-1 (Paperback)
+
+
+</text>
+<heading>
+External links
+</heading>
+<text>
+
+<!--
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+ {{No more links}} 
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+=
+</heading>
+<text>
+
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+ {{No more links}} 
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+
+</text>
+<heading>
+
+</heading>
+<text>
+-->
+* [http://sounds.bl.uk/BrowseCategory.aspx?category=Classical-music Historical classical recordings from the British Library Sound Archive]
+* [http://www.kickassclassical.com/classical-music-popular-famous-best-composers-a-z.html Classical music used commercially]
+* [http://www.classicalm.com/ Classical music shop]
+* [http://www.essentialhumanities.net/s_art_mus_time.php Classical music timeline]
+
+{{Music topics}}
+{{Musical instruments in classical music}}
+
+{{DEFAULTSORT:Classical Music}}
+[[Category:WikiProject Classical music| ]]
+[[Category:European music]]
+[[Category:Classical music| ]]
+
+[[af:Europese klassieke musiek]]
+[[ar:موسيقى كلاسيكية]]
+[[an:Mosica clasica]]
+[[bn:ধ্রুপদী সঙ্গীত]]
+[[zh-min-nan:Se-iûⁿ kó͘-tián im-ga̍k]]
+[[be:Класічная музыка]]
+[[be-x-old:Клясычная музыка]]
+[[bo:གནའ་གཞུང་རོལ་དབྱངས།]]
+[[bs:Klasična muzika]]
+[[br:Sonerezh klasel]]
+[[bg:Класическа музика]]
+[[ca:Música clàssica]]
+[[cs:Vážná hudba]]
+[[cy:Cerddoriaeth glasurol]]
+[[da:Klassisk musik]]
+[[de:Klassische Musik]]
+[[et:Klassikaline muusika]]
+[[el:Κλασική μουσική]]
+[[es:Música clásica]]
+[[eo:Klasika muziko]]
+[[eu:Musika klasikoa]]
+[[fa:موسیقی کلاسیک]]
+[[fr:Musique classique]]
+[[fy:Klassike muzyk]]
+[[fur:Musiche classiche]]
+[[gl:Música clásica]]
+[[gan:古典音樂]]
+[[ko:서양 고전 음악]]
+[[hy:Դասական երաժշտություն]]
+[[hi:शास्त्रीय संगीत]]
+[[hr:Klasična glazba]]
+[[id:Musik klasik]]
+[[is:Klassísk tónlist]]
+[[it:Musica classica]]
+[[he:מוזיקה קלאסית]]
+[[kn:ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ]]
+[[sw:Muziki wa Klasiki]]
+[[la:Musica classica]]
+[[lv:Klasiskā mūzika]]
+[[li:Klassieke muziek]]
+[[hu:Klasszikus zene]]
+[[mk:Класична музика]]
+[[ml:പാശ്ചാത്യസംഗീതം]]
+[[ms:Muzik klasikal]]
+[[nl:Klassieke muziek]]
+[[ja:クラシック音楽]]
+[[no:Klassisk musikk]]
+[[nn:Klassisk musikk]]
+[[pl:Muzyka poważna]]
+[[pnb:کلاسیکی موسیقی ]]
+[[pt:Música clássica]]
+[[ro:Muzică cultă]]
+[[ru:Классическая музыка]]
+[[simple:Classical music]]
+[[sk:Klasická hudba]]
+[[sl:Klasična glasba]]
+[[sh:Klasična muzika]]
+[[sr:Класична музика]]
+[[fi:Taidemusiikki]]
+[[sv:Klassisk musik]]
+[[tl:Musikang klasiko]]
+[[ta:மேல்நாட்டுச் செந்நெறி இசை]]
+[[th:ดนตรีคลาสสิก]]
+[[tr:Klasik Batı müziği]]
+[[uk:Класична музика]]
+[[vi:Nhạc cổ điển]]
+[[fiu-vro:Klassikalinõ muusiga]]
+[[wa:Muzike classike]]
+[[war:Klasikal nga musika]]
+[[yi:קלאסישע מוזיק]]
+[[zh-yue:古典樂]]
+[[bat-smg:Klasėkėnė mozėka]]
+[[zh:古典音乐]]
+
+</text>
+
+</sections>

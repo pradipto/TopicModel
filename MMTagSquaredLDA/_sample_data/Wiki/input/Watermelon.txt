@@ -1,0 +1,263 @@
+{{pp-semi|small=yes}}
+{{otheruses}}
+{{pp-move-indef}}{{Refimprove|date=December 2008}}
+{{taxobox
+|name = Watermelon
+|image = Taiwan 2009 Tainan City Organic Farm Watermelon FRD 7962.jpg
+|regnum = [[Plant]]ae
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Rosids]]
+|ordo = [[Cucurbitales]]
+|familia = [[Cucurbitaceae]]
+|genus = ''[[Citrullus]]''
+|species = '''''C. lanatus'''''
+|binomial = ''Citrullus lanatus''
+|binomial_authority = ([[Carl Peter Thunberg|Thunb]].) [[Ninzo Matsumura|Matsum.]] & [[Takenoshin Nakai|Nakai]]
+|range_map = 2005watermelon.PNG
+|range_map_caption = Watermelon output in 2005
+|}}
+
+'''Watermelon''' (''Citrullus lanatus'' ([[Carl Peter Thunberg|Thunb.]]), family [[Cucurbitaceae]]) can be both the [[fruit]] and the [[plant]] of a vine-like (scrambler and trailer) plant originally from southern [[Africa]], and is one of the most common types of [[melon]]. This [[flowering plant]] produces a special type of fruit known by [[botany|botanists]] as a [[Epigynous berry|pepo]], a berry which has a thick [[Peel (fruit)|rind]] ([[Pericarp|exocarp]]) and fleshy center (mesocarp and endocarp); pepos are derived from an inferior ovary, and are characteristic of the Cucurbitaceae. The watermelon fruit, loosely considered a type of [[melon]] (although not in the genus ''[[Cucumis]]''), has a smooth exterior rind (green, yellow and sometimes white) and a juicy, sweet interior flesh (usually pink, but sometimes orange, yellow, red and sometimes green if not ripe). It is also commonly used to make a variety of salads, most notably fruit salad. <ref>{{cite web|url=http://www.plantdex.com/index.php/species-growing-guides/watermelon|title=Watermelon |accessdate=2011-01-28}}</ref>
+
+
+==History==
+[[File:Single Watermelon Leaf 2000px.jpg|thumb|left|upright|A close-up of a watermelon leaf]]
+Watermelon is thought to have originated in southern Africa, where it is found growing wild, because it reaches maximum [[genetic diversity]] there, resulting in sweet, bland and bitter forms. [[Alphonse Pyramus de Candolle|Alphonse de Candolle]], in 1882,<ref>Candolle, ''Origin of Cultivated Plants'' (1882) pp 262ff, ''s.v.'' "Water-melon".</ref> already considered the evidence sufficient to prove that watermelon was indigenous to tropical Africa.<ref>[http://cuke.hort.ncsu.edu/cucurbit/wmelon/wmhndbk/wmbiogeography.html North Carolina State University: Watermelon biogeography].</ref> Though ''[[Colocynth|Citrullus colocynthis]]'' is often considered to be a wild ancestor of watermelon and is now found native in north and west Africa, Fenny Dane and Jiarong Liu<ref>Dane and Liu,, "Diversity and origin of cultivated and citron type watermelon (''Citrullus lanatus'')" ''Genetic Resources and Crop Evolution'' '''54'''.6 (September 2007).</ref> suggest on the basis of chloroplast DNA investigations that the cultivated and wild watermelon appear to have diverged independently from a common ancestor, possibly ''C. ecirrhosus'' from Namibia.
+
+It is not known when the plant was first cultivated, but Zohary and Hopf note evidence of its cultivation in the [[Nile Valley]] from at least as early as the [[second millennium BC]]. Although watermelon is not depicted in any Egyptian hieroglyphic text nor does any ancient writer mention it, finds of the characteristically large seed are reported in [[Twelfth Dynasty of Egypt|Twelfth dynasty]] sites; numerous watermelon seeds were recovered from the tomb of [[Pharaoh]] [[Tutankhamun]].<ref>Daniel Zohary and Maria Hopf, ''Domestication of Plants in the Old World'', third edition (Oxford: University Press, 2000), p. 193.</ref>
+
+By the 10th century AD, watermelons were being cultivated in [[China]], which is today the world's single largest watermelon producer. By the 13th century, [[Moors|Moorish]] invaders had introduced the [[fruit]] to Europe; according to John Mariani's ''The Dictionary of American Food and Drink'', "watermelon" made its first appearance in an English dictionary in 1615.
+
+''Museums Online South Africa'' list watermelons as having been introduced to [[Native Americans in the United States|Native Americans]] in the 16th century. Early French explorers found Native Americans cultivating the fruit in the [[Mississippi Valley]]. Many sources list the watermelon as being introduced in [[Massachusetts]] as early as 1629. [[Southern United States|Southern]] food historian John Egerton has said he believes African [[Atlantic slave trade|slaves]] helped introduce the watermelon to the [[United States]]. Texas Agricultural Extension horticulturalist Jerry Parsons lists African slaves and European colonists as having distributed watermelons to many areas of the world. Parsons also mentions the crop being farmed by Native Americans in [[Florida]] (by 1664) and the [[Colorado River]] area (by 1799). Other early watermelon sightings include the [[US Midwest|Midwestern states]] (1673), [[Connecticut]] (1747) and the [[Illiana]] region (1822).
+[[File:Watermelons.jpg|thumb|left|upright|Watermelons on display by a roadside vendor in [[Delhi]], [[India]]]]
+Charles Fredric Andrus, a horticulturist at the [[United States Department of Agriculture|USDA]] Vegetable Breeding Laboratory in [[Charleston, South Carolina]], set out to produce a disease-resistant and wilt-resistant watermelon. The result was "that gray melon from Charleston." Its oblong shape and hard rind made it easy to stack and ship. Its adaptability meant it could be grown over a wide geographical area. It produced high yields and was resistant to the most serious watermelon diseases: [[anthracnose]] and [[fusarium wilt]].
+
+Today, farmers in approximately 44 states in the U.S. grow watermelon commercially, and almost all these varieties have some ''Charleston Gray'' in their lineage. [[Georgia (U.S. state)|Georgia]], [[Florida]], [[Texas]], [[California]] and [[Arizona]] are the USA's largest watermelon producers.
+
+This now-common watermelon is often large enough that groceries often sell half or quarter melons. There are also some smaller, spherical varieties of watermelon, both red- and yellow-fleshed, sometimes called "icebox melons."
+[[File:Square watermelon.jpg|thumb|right|Square watermelon from Japan]]
+In [[Japan]], farmers of the [[Zentsuji]] region found a way to grow cubic watermelons, by growing the fruits in glass boxes and letting them naturally assume the shape of the receptacle.<ref>[http://news.bbc.co.uk/1/hi/world/asia-pacific/1390088.stm (BBC) Square fruit stuns Japanese shoppers] BBC News Friday, 15 June 2001, 10:54 GMT 11:54 UK</ref> The square shape is designed to make the melons easier to stack and store, but the square watermelons are often more than double the price of normal ones. Pyramid shaped watermelons have also been developed and any polyhedral shape may potentially also be used.
+
+==Culture==
+For commercial plantings, one [[beehive]] per acre (4,000 m² per hive) is the minimum recommendation by the US Department of Agriculture for [[pollination]] of conventional, seeded varieties. Because seedless hybrids have sterile pollen, [[pollinizer]] rows of varieties with viable pollen must also be planted. Since the supply of viable pollen is reduced and pollination is much more critical in producing the seedless variety, the recommended number of hives per acre, or [[pollinator]] density, increases to three hives per acre (1,300 m² per hive).
+
+==Nutrition==
+{{nutritionalvalue
+| name=Watermelon, raw (edible parts)
+| kJ=127
+| protein=0.61 g
+| fat=0.15 g
+| carbs=7.55 g
+| fiber=0.4 g
+| water=91.45 g
+| sugars=6.2 g
+| iron_mg=0.24
+| calcium_mg=7
+| magnesium_mg=10
+| phosphorus_mg=11
+| potassium_mg=112
+| zinc_mg=0.10
+| vitA_ug=28
+| vitC_mg=8.1
+| pantothenic_mg=0.221
+| vitB6_mg=0.045
+| folate_ug=3
+| thiamin_mg=0.033
+| riboflavin_mg=0.021
+| niacin_mg=0.178
+| right=1
+| source_usda=1 }}
+A watermelon contains about 6% sugar and 92% [[water]] by weight.<ref>[http://www.ext.colostate.edu/pubs/columnnn/nn010806.html Seven wonders of watermelon<!-- Bot generated title -->]{{dead link|date=December 2009}}</ref> As with many other fruits, it is a source of [[vitamin C]].
+
+Notable is the inner rind of the watermelon, which is usually a light green or white color. This area is edible and contains many hidden nutrients that most people avoid eating due to its unappealing flavor.
+
+The amino acid [[citrulline]] was first extracted from watermelon and analysed.<ref>{{cite journal
+| author = Wada, M.
+| title = Über Citrullin, eine neue Aminosäure im Presssaft der Wassermelone, Citrullus vulgaris Schrad.
+| journal = Biochem. Zeit.
+| volume = 224
+| issue =
+| page = 420
+| year = 1930
+| doi = }}</ref> Watermelons contain a significant amount of [[citrulline]] and after consumption of several kg, an elevated concentration is measured in the [[blood plasma]]; this could be mistaken for [[citrullinaemia]] or other [[urea cycle]] disorders.<ref>{{cite journal
+| author = H. Mandel, N. Levy, S. Izkovitch, S. H. Korman
+| title = Elevated plasma citrulline and arginine due to consumption of Citrullus vulgaris (watermelon)
+| journal = Berichte der deutschen chemischen Gesellschaft
+| volume = 28
+| issue = 4
+| pages = 467–472
+| year = 2005
+| doi = 10.1007/s10545-005-0467-1
+| pmid = 15902549 }}</ref>
+
+Watermelon rinds are also edible, and sometimes used as a [[vegetable]].<ref>{{cite web | url = http://www.5hpk.com/Html/TOPIC/200807172.html| title = The column of watermelon peel from 5hpk.com | accessdate = 2008-07-15}}</ref> In China, they are [[stir frying|stir-fried]], [[stew]]ed or more often [[pickling|pickled]]. When stir-fried, the de-skinned and de-fruited rind is cooked with [[olive oil]], [[garlic]], [[chili pepper]]s, [[scallions]], [[sugar]] and [[rum]]. Pickled watermelon rind is also commonly consumed in the [[Southern US]].<ref>[http://southernfood.about.com/od/picklesrelishes/r/blbb474.htm Southern U.S. Cuisine: Judy's Pickled Watermelon Rind]</ref> Watermelon juice can also be made into [[wine]].<ref>[http://winemaking.jackkeller.net/watermel.aspInsert footnote text here]</ref>
+
+Watermelon is also mildly [[diuretic]].<ref>{{cite news|author=The Associated Press |url=http://www.cbc.ca/health/story/2008/07/03/science-watermelon.html |title=CBC News - Health - Watermelon the real passion fruit? |publisher=Cbc.ca |date=2008-07-03 |accessdate=2009-12-05}}</ref>
+
+Watermelons contain large amounts of [[beta carotene]].<ref>{{cite web|url=http://home.howstuffworks.com/watermelon3.htm |title=HowStuffWorks "Health Benefits of Watermelon" |publisher=Home.howstuffworks.com |date= |accessdate=2009-12-05}}</ref>
+
+Watermelon with red flesh is a significant source of [[lycopene]].
+
+==Varieties==
+[[File:Watermelon seedless.jpg|thumb|left|Seedless watermelon]]
+[[File:Citrullus lanatus.jpg|thumb|left|Watermelon with yellow flesh]]
+There are more than 1200<ref>{{cite web | url = http://agsyst.wsu.edu/Watermelon.html | title = Vegetable Research & Extension Center - Icebox Watermelons | accessdate = 2008-08-02}}</ref> varieties of watermelon ranging in size from less than a pound, to more than two hundred pounds, with flesh that is red, orange, yellow or white.<ref>{{cite web
+ | last =Baker Creek Heirloom Seeds
+ | title =Watermelon Heirloom Seeds
+ | url =http://rareseeds.com/seeds/Watermelon
+ | accessdate =2008-07-15 }} {{Dead link|date=October 2010|bot=H3llBot}}</ref> Several notable varieties are included here.
+* '''Carolina Cross''': This variety of watermelon produced the current world record watermelon weighing 262 pounds (119&nbsp;kg). It has green skin, red flesh and commonly produces fruit between 65 and 150 pounds (29 and 68&nbsp;kg). It takes about 90 days from planting to harvest.<ref>{{cite web
+ | last =Baker Creek Heirloom Seeds
+ | title =Carolina Cross Watermelon
+ | url =http://rareseeds.com/seeds/Watermelon/Carolina-Cross
+ | accessdate =2008-07-15 }} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+* '''Yellow Crimson Watermelon''': variety of watermelon that has a yellow colored flesh. This particular type of watermelon has been described as "sweeter" and more "honey" flavored than the more popular red flesh watermelon.<ref>{{cite web
+ | last =Anioleka Seeds USA
+ | title =Yellow Crimson Watermelon
+ | url =http://www.vegetableseed.net/heirloom-vegetable-seeds/melon-seeds/watermelon-seeds/yellow.html
+ | accessdate =2007-08-07 }}</ref>
+* '''Orangeglo''': This variety has a very sweet orange pulp, and is a large oblong fruit weighing 9–14&nbsp;kg (20–30 pounds). It has a light green rind with jagged dark green stripes. It takes about 90–100 days from planting to harvest.<ref>{{cite web | url = http://www.seedsavers.org/prodinfo.asp?number=1108 | title = Orangeglo Watermelon | accessdate = 2007-04-23 |archiveurl = http://web.archive.org/web/20070927230140/http://www.seedsavers.org/prodinfo.asp?number=1108 <!-- Bot retrieved archive --> |archivedate = 2007-09-27}}</ref>
+* The '''Moon and Stars''' variety of watermelon has been around since 1926.<ref>{{cite web | url = http://rareseeds.com/seeds/Watermelon/Moon-and-Stars | title = Moon and Stars Watermelon Heirloom | accessdate = 2008-07-15}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> The rind is purple/black and has many small yellow circles (stars) and one or two large yellow circles (moon). The melon weighs 9–23&nbsp;kg (20–50 pounds).<ref>{{cite news | url = http://sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2005/07/16/HOG4UDNGDB1.DTL | title = Moon & Stars watermelon (Citrullus lanatus):Seed-spittin' melons makin' a comeback | source = San Francisco Chronicle | date = 2005-07-15 | accessdate = 2007-07-06 | last = Evans | first = Lynette | work=The San Francisco Chronicle}}</ref> The flesh is pink or red and has brown seeds. The foliage is also spotted. The time from planting to harvest is about 90 days.<ref>{{cite web | url = http://www.seedsavers.org/prodinfo.asp?number=266 | title = Moon and Stars Watermelon | accessdate = 2007-04-23 |archiveurl = http://web.archive.org/web/20070602143014/http://www.seedsavers.org/prodinfo.asp?number=266 <!-- Bot retrieved archive --> |archivedate = 2007-06-02}}</ref>
+* '''Cream of Saskatchewan''': This variety consists of small round fruits, around 25&nbsp;cm (10&nbsp;inches) in diameter. It has a quite thin, light green with dark green striped rind, with sweet white flesh and black seeds. It can grow well in cool climates. It was originally brought to [[Saskatchewan]], [[Canada]] by [[Russian Canadians|Russian immigrants]]. These melons take 80–85 days from planting to harvest.<ref>{{cite web | url = http://www.seedsavers.org/Details.aspx?itemNo=778 | title = Cream of Saskatchewan Watermelon | accessdate = 2007-04-23}}</ref>
+* '''Melitopolski''': This variety has small round fruits roughly 28–30&nbsp;cm (11–12&nbsp;inches) in diameter. It is an early ripening variety that originated from the [[Volga River]] region of Russia, an area known for cultivation of watermelons. The Melitopolski watermelons are seen piled high by vendors in Moscow in summer. This variety takes around 95 days from planting to harvest.<ref>{{cite web | url = http://www.seedsavers.org/prodinfo.asp?number=267 | title = Melitopolski Watermelon | accessdate = 2007-04-23 |archiveurl = http://web.archive.org/web/20070927230154/http://www.seedsavers.org/prodinfo.asp?number=267 <!-- Bot retrieved archive --> |archivedate = 2007-09-27}}</ref>
+* '''Densuke Watermelon''': This variety has round fruit up to {{convert|25|lb|abbr=on}}. The rind is black with no stripes or spots. It is only grown on the island of Hokkaido, Japan, where up to 10 000 watermelons are produced every year. In June 2008, one of the first harvested watermelons was sold at an auction for 650 000 yen (6300 USD), making the most expensive watermelon ever sold. The average selling price is generally around 25 000 yen (250 USD).<ref>{{cite news | url = http://ap.google.com/article/ALeqM5jJBRT0pnOdQVMUzzkKC_cGHo7IdQD914F62O0 | title = Black Japanese watermelon sold at record price | accessdate = 2008-06-10}}</ref>
+
+==Cultural uses and references==
+[[File:Kustodiev Merchants Wife.jpg|thumb|Watermelon and other fruit in [[Boris Kustodiev]]'s ''Merchant's Wife''.]]
+* In [[Vietnam]]ese culture, watermelon seeds are consumed during the Vietnamese New Year's holiday, [[Tết]], as a [[snack food|snack]].<ref>[http://books.google.com/books?id=uEH7gZ-9qh0C&pg=PA104&dq=watermelon+new+year+vietnamese&lr= The Asian Texans] By Marilyn Dell Brady, Texas A&M University Press</ref>
+* Stereotypical [[caricature]]s may depict [[African American]]s as being inordinately fond of watermelon.<ref>[http://books.google.com/books?id=w-qHlaIJR1wC&pg=PA284&dq=watermelon+stereotype Beyond the Lines] By Joshua Brown</ref>
+* The [[Oklahoma]] State Senate passed a bill on 17 April 2007 declaring watermelon as the official state [[vegetable]], with some controversy surrounding whether a watermelon is a fruit.<ref>{{cite web|title=Oklahoma Declares Watermelon Its State Vegetable|url=http://cbs4denver.com/watercooler/Oklahoma.watermelon.state.2.282939.html|date=2007-04-18|accessdate=2009-10-03|work=CBS4denver}}</ref>
+* The [[citrulline]] which exists in watermelon (especially in the rind) is a known stimulator of nitric oxide. Nitric oxide is thought to relax and expand blood vessels, much like the erectile dysfunction drug [[Viagra]], and may even increase [[libido]].<ref>{{cite web|url=http://www.sciencedaily.com/releases/2008/06/080630165707.htm |title=Watermelon May Have Viagra-effect |publisher=Sciencedaily.com |date=2008-07-01 |accessdate=2009-12-05}}</ref>
+* Fans of the [[Saskatchewan Roughriders]] of the [[Canadian Football League|CFL]] started a tradition of hollowing out a watermelon and wearing it as a makeshift football helmet (the color of the Roughriders is green). During the 2009 [[Grey Cup]] in [[Calgary]] (between the [[Montreal Alouettes]] and the [[Roughriders]]), thousands of watermelons had to be imported to Calgary supermarkets to prevent a shortage being caused by Rider fans.<ref>[http://www.cbc.ca/canada/saskatchewan/story/2009/11/27/calgary-grey-cup-parties-downtown.html Watermelon shortage averted] CBC News</ref>
+* The town of [[Chinchilla, Queensland#Chinchilla Melon Festival|Chinchilla]] in Queensland, Australia holds a biannual festival celebrating all things melon.
+* The [[Ten-lined June beetle]] is often affectionately referred to as a Watermelon Beetle, due to the green, striped pattern on its back.
+
+==Gallery==
+<gallery>
+File:Watermelon flower measurement.jpg|Watermelon flowers
+File:Water melon leave.jpg|Watermelon leaf
+File:Water melon young shoot.jpg|Hairy stem
+File:Male and female watermelon 1458.JPG|Flower stems of male and female watermelon blossoms, showing [[ovary (plants)|ovary]] on the female
+File:Water melon flower and stem.jpg|Watermelon plant close-up
+File:WatermelonBaller.JPG|Watermelon baller
+</gallery>
+
+==See also==
+* [[Leo Gallagher]], a [[prop comic]] whose most famous bit involves smashing watermelons
+* [[List of fruits]]
+* [[Suikawari]]
+* [[Vampire pumpkins and watermelons]]
+* [[Watermelon steak]]
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+* [http://cuke.hort.ncsu.edu/cucurbit/wmelon/wmelonmain.html North Carolina State University: Watermelon breeding]
+* [http://www.learn2grow.com/plantdatabase/plants/PlantDetails.aspx?PlantID=c424d5cb-6ef7-4164-9e50-96bb03351ba4 Growing watermelons in the home garden]
+* Blomberg, Marina (June 10, 2004). [http://www.gainesville.com/apps/pbcs.dll/article?AID=/20040610/MAGAZINE03/106100003&SearchID=73214462703808 "In Season: Savory Summer Fruits."] ''The Gainesville Sun''. Retrieved Jul. 17, 2005.
+* [http://aggie-horticulture.tamu.edu/plantanswers/publications/vegetabletravelers/watermelon.html "An African Native of World Popularity."] ''Texas A&M University Aggie Horticulture website''. Retrieved Jul. 17, 2005.
+* Blomberg, Marina (June 10, 2004). [http://www.gainesville.com/apps/pbcs.dll/article?AID=/20040610/MAGAZINE03/106100003&SearchID=73214462703808 "In Season: Savory Summer Fruits."] ''The Gainesville Sun''. Retrieved Jul. 17, 2005.
+* [http://cuke.hort.ncsu.edu/cucurbit/wmelon/wmbreeders/andrus.html "Charles Fredric Andrus: Watermelon Breeder."] ''Cucurbit Breeding Horticultural Science''. Retrieved Jul. 17, 2005.
+* [http://agsyst.wsu.edu/Watermelon.html "Crop Production: Icebox Watermelons."] ''Washington State University Vancouver Research and Extension Unit website''. Retrieved Jul. 17, 2005.
+* Hamish, Robertson. [http://www.museums.org.za/bio/plants/cucurbitaceae/citrullus_lanatus.htm "Citrullus lanatus (Watermelon, Tsamma)."] ''Museums Online South Africa''. Retrieved Mar. 15, 2005.
+* Motes, J.E.; Damicone, John; Roberts, Warren; Duthie, Jim; Edelson, Jonathan. [http://pearl.agcomm.okstate.edu/hort/vegetables/f6236.htm "Watermelon Production."] ''Oklahoma Cooperative Extension Service''. Retrieved Jul. 17, 2005.
+* Parsons, Jerry, Ph.D. (June 5, 2002). [http://www.plantanswers.com/garden_column/june02/june5.htm "Gardening Column: Watermelons."] ''Texas Cooperative Extension of the Texas A&M University System''. Jul. 17, 2005.
+* [http://www.iskratv.com/shorts/clips/cfC/uks010_043.html "Redneck Olympics."] ''ISKRA television''. Retrieved Jul. 17, 2005.
+* Shosteck, Robert (1974). ''Flowers and Plants: An International Lexicon with Biographical Notes''. Quadrangle/The New York Times Book Co.: New York.
+* [http://www.whfoods.com/genpage.php?tname=foodspice&dbid=31 "Watermelon."] ''The George Mateljan Foundation for The World's Healthiest Foods''. Retrieved Jul. 28, 2005.
+* [http://www.sundiacorp.com/Watermelon-Fact.php "Watermelon Production and Consumption Demographics."]
+* [http://www.watermelon.org/index.asp?a=dsp&htype=funn&pid=35 "Watermelon History."] ''National Watermelon Promotion Board website''. Retrieved Jul. 17, 2005.
+* Wolford, Ron and Banks, Drusilla. [http://www.urbanext.uiuc.edu/veggies/watermelon1.html "Watch Your Garden Grow: Watermelon."] ''University of Illinois Extension''. Retrieved Jul. 17, 2005.
+
+{{wikispecies|Citrullus vulgaris}}
+{{commonscat|Citrullus lanatus}}
+{{Wiktionary}}
+{{Melons}}
+
+[[Category:Melons]]
+[[Category:Plants and pollinators]]
+[[Category:Cucurbitaceae]]
+[[Category:Hawaiian cuisine]]
+[[Category:Vietnamese ingredients]]
+[[Category:Crops originating from Africa]]
+
+[[ar:بطيخ أحمر]]
+[[gn:Sándia]]
+[[az:Adi qarpız]]
+[[bn:তরমুজ]]
+[[zh-min-nan:Si-koe]]
+[[be:Кавун]]
+[[be-x-old:Кавун]]
+[[bo:ཆུ་ཀུབ།]]
+[[bs:Lubenica]]
+[[bg:Диня]]
+[[ca:Síndria]]
+[[da:Vandmelon]]
+[[pdc:Wassmeloon]]
+[[de:Wassermelone]]
+[[dv:ކަރާ]]
+[[nv:Chʼééhjiyáán]]
+[[et:Arbuus]]
+[[el:Καρπούζι]]
+[[eml:Ingüria]]
+[[es:Citrullus lanatus]]
+[[eo:Akvomelono]]
+[[eu:Angurri]]
+[[fa:هندوانه]]
+[[fr:Pastèque]]
+[[gv:Mellyn ushtey]]
+[[gl:Sandía]]
+[[ko:수박]]
+[[hy:Ձմերուկ]]
+[[hi:तरबूज]]
+[[hsb:Wódna melona]]
+[[hr:Lubenica]]
+[[id:Semangka]]
+[[it:Citrullus lanatus]]
+[[he:אבטיח]]
+[[jv:Semangka]]
+[[ka:საზამთრო]]
+[[kk:Қарбыз]]
+[[ht:Melon dlo]]
+[[la:Citrullus lanatus]]
+[[lv:Arbūzs]]
+[[lt:Tikrasis arbūzas]]
+[[lij:Pateca]]
+[[hu:Görögdinnye]]
+[[mk:Лубеница]]
+[[ml:തണ്ണീർ മത്തൻ]]
+[[mr:टरबूज]]
+[[ms:Tembikai]]
+[[mn:Тарвас]]
+[[nl:Watermeloen]]
+[[ja:スイカ]]
+[[no:Vannmelon]]
+[[mrj:Арбуз]]
+[[ps:هندواڼه]]
+[[pl:Arbuz zwyczajny]]
+[[pt:Melancia]]
+[[ru:Арбуз обыкновенный]]
+[[se:Čáhcemelovdna]]
+[[sc:Sìndria]]
+[[sq:Shalqiri]]
+[[scn:Muluni d'acqua]]
+[[simple:Watermelon]]
+[[sl:Lubenica]]
+[[so:Qare]]
+[[sr:Лубеница]]
+[[sh:Lubenica]]
+[[fi:Vesimeloni]]
+[[sv:Vattenmelon]]
+[[te:పుచ్చ]]
+[[th:แตงโม]]
+[[to:Meleni]]
+[[chr:ᎬᎩᏍᏗ]]
+[[tr:Karpuz]]
+[[udm:Арбуз]]
+[[uk:Кавун]]
+[[ur:تربوز]]
+[[vi:Dưa hấu]]
+[[yi:ארבוז]]
+[[zh:西瓜]]

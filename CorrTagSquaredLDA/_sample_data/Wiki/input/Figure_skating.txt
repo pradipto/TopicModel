@@ -1,0 +1,406 @@
+{{Infobox sport
+|name       = Figure skating
+|image      = Isabelle Delobel & Olivier Schoenfelder EX Lift - 2007 Europeans.jpg
+|imagesize  = 250
+|caption    = 2007 European Champion ice dancers [[Isabelle Delobel]] and [[Olivier Schoenfelder]] perform a lift in exhibition.
+|union      = [[International Skating Union]]
+|nickname   = Artistic skating
+|first      =
+|registered =
+|clubs      =
+|contact    =
+|team       = Individuals, pairs, or groups
+|mgender    = Yes
+|cory   =
+|equipment  = [[Figure skate]]s
+|venue      =
+|obsolete   =
+|olympic    = [[Figure skating at the 1908 Summer Olympics|1908]] (at the Summer Olympics prior to [[1924 Winter Olympics|the first Winter Games in 1924]])
+}}
+'''Figure skating''' is an [[Olympic sports|Olympic sport]] in which individuals, pairs, or groups perform [[figure skating spins|spins]], [[figure skating jumps|jumps]], [[moves in the field|footwork]] and other  intricate and challenging moves on [[ice skates]]. Figure skaters compete at various levels from beginner up to the Olympic level (senior), and at local, national, and international competitions. The [[International Skating Union]] (ISU) regulates international figure skating judging and competitions. Figure skating is an official event in the [[Winter Olympic Games]]. In languages other than English, figure skating is usually referred to by a name that translates as "artistic skating".
+
+Major international competitions are sanctioned by the ISU. These include the [[Winter Olympic Games]], the [[World Figure Skating Championships|World Championships]], the [[World Junior Figure Skating Championships]], the [[European Figure Skating Championships]], the [[Four Continents Figure Skating Championships]], and the [[ISU Grand Prix of Figure Skating]].
+
+The sport is also associated with show-business. Major competitions generally include exhibitions at the end in which the top-placing skaters perform for the crowd by showing off their various skills. Many skaters, both during and after their competitive careers, also skate in ice skating exhibitions or shows which run during the competitive season and the off-season.
+
+==Disciplines==
+
+Olympic sports in figure skating comprise the following disciplines:<ref name=olympic>[http://www.olympic.org/uk/sports/programme/disciplines_uk.asp?DiscCode=FS Figure skating at Olympic.org], accessed September 4, 2006.</ref>
+
+* '''[[Single skating|Singles]]''' competition for men and women (who are referred to as "ladies" in ISU rulebooks), wherein skaters perform [[figure skating jump|jumps]], [[figure skating spin|spins]], step sequences, spirals, and other elements in their programs.
+
+*'''[[Pair skating]]''' teams consist of a woman and a man.  Pairs perform singles elements in unison as well as pair-specific elements such as throw jumps, in which the man 'throws' the woman into a jump; lifts, in which the woman is held above the man's head in one of various grips and positions; pair spins, in which both skaters spin together about a common axis; [[Death spiral (figure skating)|death spiral]]s; and other elements.
+
+*'''[[Ice dancing]]''' is again for couples consisting of a woman and a man skating together.  Ice dance differs from pairs in focusing on intricate footwork performed in close dance holds, in time with the music. Ice dance lifts must not go above the shoulder.
+
+Other disciplines of figure skating include:
+
+*'''[[Synchronized skating]]''', for mixed-gender groups of 12 to 20 skaters. This discipline resembles a group form of ice dance with additional emphasis on precise formations of the group as a whole and complex transitions between formations.  The basic formations include wheels, blocks, lines, circles, and intersections.  The close formations and need for the team to stay in unison add to the difficulty of the footwork performed by the skaters in these elements.
+
+*'''[[Compulsory figures]]''', in which skaters use their blades to draw circles, figure 8s, and similar shapes in ice, and are judged on the accuracy and clarity of the figures and the cleanness and exact placement of the various turns on the circles.  Figures were formerly included as a component of singles competitions but were eliminated from those events in 1990.  Today figures are rarely taught or performed.  The [[United States]] was the last country to retain a separate test and competitive structure for compulsory figures, but the last national-level figures championship was held in 1999.
+
+[[Image:Marigold IceUnity.jpg|thumb|right|250px|Synchronized skating]]
+*'''[[Moves in the field]]''' (known in the [[United Kingdom]] as ''field moves''), which have replaced compulsory figures as a discipline to teach the same turns and edge skills in the context of fluid free skating movements instead of being constrained to artificially precise circles.
+
+*'''[[Four skating|Fours]]''', a discipline that is to pairs as pairs is to singles.  A team of four skaters, consisting of two men and two women, perform singles and pairs elements in unison, as well as unique elements that involve all four skaters.
+
+*'''[[Theatre on ice]]''', also known as "ballet on ice" in Europe.  This is a form of group skating that is less structured than synchronized skating and allows the use of props and theatrical costuming.
+
+*'''[[Adagio skating]]''', a form of pair skating most commonly seen in ice shows, where the skaters perform many spectacular acrobatic lifts but few or none of the singles elements which competitive pairs must perform.
+
+*'''[[Special figures]]''', the tracing of elaborate original designs on the ice, common in the early days of skating.
+
+*'''[[Acrobatic skating]]''', also known as "Acrobatics on ice" or "Extreme Skating", is a combination of circus arts, technical artistic gymnastics skills, and figure skating.
+
+==Jumps==
+{{Main|Figure skating jumps}}
+Jumps are one of the most important elements of figure skating.
+
+Jumps involve the skater leaping into the air and rotating rapidly to land after completing one or more rotations. There are many types of jumps, identified  by the way the skater takes off and lands, as well as by the number of rotations that are completed.
+
+Jumps can be rotated in clockwise or counterclockwise direction. Most skaters are counterclockwise jumpers.  For clarity, all jumps will be described for a skater jumping counter-clockwise.
+
+There are six jumps in figure skating that count as jump elements.  All six are landed on one foot on the right back [[figure skate#Blades|outside edge]] (with counterclockwise rotation, for single and multi-revolution jumps), but have different takeoffs, by which they may be distinguished.  The two categories of jumps are toe jumps and edge jumps.
+
+===Toe jumps===
+Toe jumps are launched by tapping the toe pick of one skate into the ice, and include (in order of difficulty from easiest to hardest):
+
+# [[Toe loop jump|Toe loop]]s take off from the back outside edge of the right foot and are launched by the left toe pick (toe walleys are similar, but take off from the back inside edge of the right foot);
+# [[Flip jump|Flip]]s, which take off from the back inside edge of the left foot and are launched by the right toe pick;
+# [[Lutz jump|Lutz]]es, which take off from the back outside edge of the left foot and are launched by the right toe pick.
+
+===Edge jumps===
+Edge jumps use no toe assist, and include:
+
+# [[Salchow jump|Salchow]]s, which take off from a left back inside edge.  Allowing the edge to come round, the opposite leg helps launch the jump into the air and land on one foot;
+# [[Loop jump|Loop]]s (also known as Rittberger jumps) take off from a right back outside edge and land on the same edge;
+# [[Axel jump|Axel]]s, which are the only rotating jump to take off from a forward edge (the left outside edge).  Because they take off from a forward edge, they include one-half extra rotations and are considered the hardest jump of the six The axel jump will take a skater the longest to learn. The jump harness is a good thing to use before attempting the axel jump on the ice.
+
+===Rotations and combinations===
+The number of rotations performed in the air for each jump determines whether the jump is a single, double, triple, or quadruple (known commonly as a "quad"). Senior-level male single skaters perform mostly triple and quadruple jumps in competition.  Triple jumps other than the Axel are commonly performed by female single skaters.  Only one female skater has been credited with a quadruple jump in international competition.
+
+In addition to jumps performed singly, jumps may also be performed ''in combination'' or ''in sequence''. For a set of jumps to be considered a combination, each jump must take off from the landing edge of the previous jump, with no steps, turns, or change of edge in between jumps. Because of this, the only two jumps that can be performed as the second or third jump in a combination are toe loops and loops, because they take off from the right back outside edge.
+
+To use other jumps on the back end of a combination, connecting jumps such as a half loop (which is actually a full rotation, but lands on a left back inside edge) can be used, enabling the skater to put a salchow or flip at the end of the combination. In contrast, jump sequences are sets of jumps, which may involve steps or changes of edge between the jumps.
+
+===Other jumps===
+
+There are also a number of other jumps that are usually performed only as single jumps and in elite skating are used as transitional movements or highlights in step sequences.  These include the half toe loop (ballet jump), [[Loop jump|half loop]], [[Flip jump|half flip]], [[walley jump]], [[split jump]], [[waltz jump]], [[Axel jump|inside Axel]], and [[Axel jump|one-foot Axel]].
+
+<gallery>
+Image:Alban Preaubert przed skokiem.JPG|[[Alban Préaubert]] sets up for a jump.
+Image:Andrei Lutai - skok.JPG|[[Andrei Lutai]] rotates in the air.
+Image:Jamal Othman Jump 2 - 2006 Skate Canada.jpg|[[Jamal Othman]] lands on the right back outside edge.
+
+Image:VartmannJust 1.jpg|A pair team immediately before a throw jump
+Image:Jessica Miller & Ian Moram Throw Jump - 2006 Skate Canada.jpg|A pair team after the woman has been thrown. She rotates in the air. 
+Image:Anabelle Langlois & Cody Hay Throw Jump - 2006 Skate America.jpg|A throw jump as the woman lands.
+</gallery>
+
+==Spins==
+{{Main|Figure skating spins}}
+
+Spins are a required element in most figure skating competitions, and they exist in all four Olympic disciplines.
+There are three basic spin positions in figure skating: the sit position, the camel position, and the upright position. There are many different variations in these positions. Such as, the pike position, the broken leg position, the doughnut position, the layback position, and the A-frame position.
+
+During a spin, the skater rotates on the round part of the blade, called the front rocker, just behind the toe pick. Spins may be performed singly or in a sequence combining different types of spins.
+
+Spins may be performed on either foot. Like jumping, skaters mostly rotate in the counterclockwise direction, but there are some skaters who rotate in the clockwise direction. Some skaters are able to rotate in both directions. For skaters who rotate in a counterclockwise direction, a spin on the left foot is called a forward spin, while a spin on the right foot is called a back spin.
+
+The three basic spins are - The camel spin, the sit spin and the upright spin. All of these spins have difficult variations; such as, the catch-foot camel variation, the pancake sitspin variation, the layback upright variation and several other variations.
+
+Spins can be entered on the ice or through a jump. Spins that are entered through a jump are calling flying spins. Flying spins include the flying camel, flying sit spin, death drop, and butterfly spin. Flying spins may go from a forward spin to a back spin. A flying spin can also be performed as part of a spin sequence.
+
+In pair skating, spins may be performed side by side with both partners doing the same spin or combination spin at the same time. Additionally, in pairs and in ice dancing, there are pair and dance spins, during which both skaters rotate around the same axis while holding onto each other.
+
+<gallery>
+Image:Yukina Ota 2003 NHK Trophy 2.jpg|A basic camel spin
+Image:VolosharMorozov SP EC2007.JPG|Side by side basic camel spins
+Image:Dominika Piatkowska & Dmitri Khromin Spin - 2006 Skate America.jpg|A pair camel spin
+Image:Nathalie Pechalat & Fabian Bourzat Spin - 2006 Skate America.jpg|A dance spin with the woman in a camel position and the man in a sit position.
+</gallery>
+
+==Lifts==
+{{Main|Figure skating lifts}}
+[[Image:C. Yankowskas and J. Coughlin at 2009 Skate Canada (2).jpg|right|thumb|A one arm overhead lift in pair skating]]
+Lifts are a required element in [[pair skating]] and [[ice dancing]]. Pairs lifts differ from dance lifts most notably in that dancers are not allowed to lift their partners above their shoulders.
+
+Dance lifts are differentiated by the skating involved. There are seven kinds of lifts approved for ISU competitions. They are separated into ''short lifts'' and ''long lifts''. There are many positions the lifting and the lifted partner can take to improve the difficulty of the lift. Each position must be held for at least three seconds to count and is permitted only once a program.
+
+Unlike dance lifts, pair lifts are grouped by the holds involved. In ISU senior level competition, the man must rotate more than one times, but fewer than three a half. In competitive skating, lifts must travel across the ice. There are five different groups of pairs lifts, differentiated by the holds involved. Legal holds are ''Armpit holds'', ''Waist holds'', ''Hand to hip holds'', and ''Hand to hand''. There are two kinds of hand to hand lifts: press lifts and lasso lifts. The lasso lifts are considered the most difficult pair lifts.
+
+Twist lifts are a form of pair lifts, where the lifted partner is thrown into the air, twists, and is caught by the lifted partner. The lady may do a split before the twist, called a ''split twist''. This is not mandatory, but it increases the grade of execution of the element if each leg is separated by at least a 45° angle from the body axis. The lady must be caught by her waist in the air. She lands on the backward outside edge. The man also ends the lift on one foot.
+
+In both pairs and dance, lifts that go on longer than allowed receive deductions.
+
+Synchronized skating teams are also allowed to perform lifts in the free skating portion of the senior division only. Lifts can be pair lifts (such as in a dance lift) or a group lift with two or more skaters lifting another skater. In a pair lift, no more than one arm may be fully extended above the head at any time. Acrobatic lifts are not allowed. To gain additional points, teams will sometimes rotate and/or move lifts across the ice.
+
+==Steps and turns==
+[[Image:Kristina Gorshkova & Vitali Butikov 2005 Croatia Cup.jpg|thumb|right|Skaters performing parallel mirror spread eagles. He is on an inside edge and she is on an outside edge.]]
+Step sequences are a required element in all four Olympic disciplines. The pattern can be straight line, circular, or serpentine. The step sequence consists of a combination of turns, steps, hops and edge changes. Additionally, steps and turns can be used as transitions between elements.
+
+The various turns, which skaters can incorporate into step sequences, include:
+
+*[[3 turn|Three turns]], so called because the blade turns into the curve of the edge or lobe to leave a tracing resembling the numeral "3".
+
+*[[Bracket turn]]s, in which the blade is turned counter to the curve of the lobe, making a tracing resembling a bracket ("}").
+
+*[[Rocker turn|Rockers]] and [[counter turn|counters]], one-foot turns that involve a change of lobe as well as of direction.
+
+*[[Mohawk turn|Mohawk]]s, the two-foot equivalents of three turns and brackets.
+
+*[[Choctaw turn|Choctaw]]s, the two-foot equivalents of rockers and counters.
+
+*[[Twizzle]]s, traveling multi-rotation turns on one foot
+
+Other freeskating movements that can be incorporated into step sequences or used as connecting elements include lunges and [[spread eagle (figure skating)|spread eagles]]. An [[Ina Bauer (element)|Ina Bauer]] is similar to a spread eagle performed with one knee bent and typically an arched back. [[Hydroblading]] refers to a deep edge performed with the body as low as possible to the ice in a near-horizontal position.
+
+===Spirals===
+{{Main|Figure skating spirals}}
+
+A spiral is an element in which the skater moves across the ice on a specific edge with the free leg held above the hip. Spirals can be performed while skating forwards or backwards, and are distinguished by the edge of the blade used and the foot they are skated on. A spiral sequence is one or more spiral positions and edges done in sequence.
+
+There are many different spiral positions.  The leg can be held to the front of the body, to the side, or behind. If the leg is held by the skater's hand, it is considered a supported spiral. If it is not held, it is considered an unsupported spiral. If the skate blade is held, it is considered a catch-foot position. The best known catch-foot position is the Biellmann position.
+
+Spiral sequences are required in ladies skating and pair skating. They count as one of the required step sequences in the free skate.
+
+<gallery>
+Image:Jenni Vahamaa 2008 Junior Worlds.jpg|A basic outside edge spiral position with the free leg held unsupported behind the body.
+Image:Marcoux buntin.jpg|A basic outside edge pair spiral position with the free legs held unsupported behind the body
+Image:Kiira Korpi Spiral - 2006 Skate America.jpg|An inside edge spiral in a catch-foot position.
+Image:Maria Mukhortova & Maxim Trankov - 2006 Skate America.jpg|A pair outside edge spiral in a catch-foot position.
+</gallery>
+
+== Competition format and scoring ==
+[[Image:Sasha cohen1.jpg|right|thumb|[[Sasha Cohen]] waits for her marks in the [[Kiss and cry]], the area beside the rink at competitions where skaters wait to receive their scores.]]
+{{Main|Figure skating competition}}
+
+The [[International Skating Union]] (ISU) is the governing body for international competitions in figure skating, including the World Championships and the figure skating events at the [[Winter Olympic Games]].
+
+In singles and pairs figure skating competition, competitors must perform two routines, the "short program", in which the skater must complete a list of required elements consisting of jumps, spins and steps; and the "free skate" or "long program", in which the skaters have slightly more choice of elements.  Ice dancing competitions usually consist of three phases: one or more "compulsory dances"; an "original dance" to a [[Ballroom dance|ballroom]] rhythm that is designated annually; and a "free dance" to music of the skaters' own choice.
+
+===The 6.0 System===
+{{Main|6.0 system}}
+Skating was formerly judged for "technical merit" (in the free skate), "required elements" (in the short program), and "presentation" (in both programs). The marks for each program ran from 0.0 to 6.0, the latter being the highest. These marks were used to determine a preference ranking, or "ordinal", separately for each judge; the judges' preferences were then combined to determine placements for each skater in each program. The placements for the two programs were then combined, with the free skate placement weighted more heavily than the short program. The highest placing individual (based on the sum of the weighted placements) was declared the winner.<ref name=6.0>[http://www.usfigureskating.org/New_Judging.asp?id=314 The 6.0 System at usfigureskating.org], accessed September 4, 2006.</ref>
+
+===The ISU Judging System===
+<!-- Image with inadequate rationale removed: [[Image:Plushenko-protocol.jpg|thumb|right|[[Evgeni Plushenko]]'s scores at the [[2006 Winter Olympics]], which were scored under the [[ISU Judging System]].]] -->
+{{Main|ISU Judging System}}
+In 2004, in response to the [[2002 Olympic Winter Games figure skating scandal|judging controversy]] during the [[2002 Winter Olympics]], the ISU adopted the International Judging System (IJS), which became mandatory at all international competitions in 2006, including the [[2006 Winter Olympics]].  The new system is often informally referred to as the ''Code of Points'', however, the ISU has never used the term to describe their system in any of their official communications.
+
+Under the new system, points are awarded individually for each skating element, and the sum of these points is the ''total element score'' (TES). Competitive programs are constrained to have a set number of elements. Each element is judged first by a technical specialist who identifies the specific element and determines its ''base value''. The technical specialist uses instant replay video to verify things that distinguish different elements; ''e.g.'', the exact foot position at take-off and landing of a jump. The decision of the technical specialist determines the base value of the element. A panel of twelve judges then each award a mark for the quality and execution of the element.  This mark is called the ''grade of execution'' (GOE) that is an integer from -3 to +3. The GOE mark is then translated into another value by using the table of values in ISU rule 322. The GOE value from the twelve judges is then processed with a computerized random selection of nine judges, then discarding the high and low value, and finally averaging the remaining seven. This average value is then added to (or subtracted from) the base value to get the total value for the element.<ref name=judging>[http://www.isu.org/vsite/vcontent/page/custom/0,8510,4844-152094-169310-31825-132302-custom-item,00.html ISU Judging System for Figure Skating and Ice Dancing 2004/5], accessed September 4, 2006.</ref>
+
+The ''program components score'' (PCS) awards points to holistic aspects of a program or other nuances that are not rewarded in the ''total element score''.  The components are:
+#skating skills (SS),
+#transitions (TR),
+#performance/execution (PE),
+#choreography (CH),
+#interpretation (IN).
+The only exception is the compulsory dance, which has no choreography or transition marks because the steps are preset. A detailed description of each component is given in ISU rule 322.2. Judges award each component a raw mark from 0 to 10 in increments of 0.25, with a mark of 5 being defined as "average". For each separate component, the raw marks are then selected, trimmed, and averaged in a manner akin to determining a ''grade of execution''.  The trimmed mean scores are then translated into a factored mark by multiplying by a factor that depends on the discipline, competition segment, and level.  Then the five (or four) factored marks are added to give the final PCS score.
+
+The ''total element score'' and the ''program components score'' are added to give the total score for a competition segment (TSS). A skater's final placement is determined by the total of their scores in all segments of a competition. No ordinal rankings are used to determine the final results.
+
+===Other judging and competition===
+
+There are also skating competitions organized for professional skaters by independent promoters. These competitions use judging rules set by whoever organizes the competition. There is no "professional league". Well-known professional competitions in the past have included the [[World Professional Championships]] (held in Landover, Maryland), the [[Challenge Of Champions]], the [[Canadian Professional Championships]] and the [[World Professional Championships]] (held in Jaca, Spain).
+
+The [[Ice Skating Institute]] (ISI), an international ice rink trade organization, runs its own competitive and test program aimed at recreational skaters. Originally headquartered in Minnesota, the organization now operates out of Dallas, Texas. ISI competitions are open to any member that have registered their tests. There are very few "qualifying" competitions, although some districts hold Gold Competitions for that season's first-place winners. ISI competitions are especially popular in Asian countries that do not have established ISU member federations. The [[Gay Games]] have also included skating competitions for same-gender pairs and dance couples under ISI sponsorship. Other figure skating competitions for adults also attract participants from diverse cultures and sexual orientations.
+
+==Equipment==
+[[Image:Figure-skates-1.jpg|thumb|right|Figure skates]]
+===Figure skates===
+{{Main|Figure skate}}
+Figure skates differ from [[ice hockey|hockey]] skates most visibly in having a set of large, jagged teeth called ''toe picks'' (also called "toe rakes") on the front of the blade. The toe picks are used primarily in jumping and should not be used for stroking or spins. Blades are mounted to the sole and heel of the boot with screws.  Typically, high-level figure skaters are professionally fitted for their boots and blades at a reputable skate shop in their area.
+
+Ice dancers' blades are about an inch shorter in the rear than those used by skaters in other disciplines, to accommodate the intricate footwork and close partnering in dance.
+
+Hard plastic ''skate guards'' are used when the skater must walk in his or her skates when not on the ice. The guard protects the blade from dirt or material on the ground that may dull the blade.  Soft blade covers called ''soakers'' are used to absorb condensation and protect the blades from rust when the skates are not being worn.
+
+===Clothing===
+[[Image:Lubov ILIUSHECHKINA Nodari MAISURADZE Skate Canada 2010.jpg|thumb|right|Complementary pair skating costumes]]
+For practice skating, figure skaters often wear [[leggings]], tight fitting, flexible pants. They may also wear a skirt with skin-colored tights. In competition, girls and women may wear a dress, typically with matching attached briefs or leotard with a skirt.  They may also wear pants though dresses are far more popular. Women generally wear opaque flesh-coloured leggings or tights under dresses and skirts, which may extend to cover their skates.  Men must wear pants. They are not allowed to wear tights.
+
+Competition dresses/costumes for skaters of both genders can be theatrical and heavily beaded or trimmed, and can cost thousands of dollars if designed by a top-level costumemaker.  Although the use of flesh-colored fabric means the costumes are often less revealing than they may appear, there have been repeated attempts to ban clothing that gives the impression of "excessive nudity" or that is otherwise inappropriate for athletic competition.<ref>"The 1999 Official USFSA Rulebook.", SSR 19.00.  USFSA, 1998.</ref> Many skaters also wear theatrical make up and hairstyles during competitions.
+
+In pair skating and ice dancing, partners wear complementary costumes. Many couples choose matching colors but this is not required. Since the 1990s, costumes of different colors have become more popular.
+
+===Rink equipment===
+Some rinks use harness systems to help skaters learn jumps in a controlled manner.  The [[ice rink]] installs a heavy-duty cable that is securely attached to two walls of the rink.  A set of pulleys ride on the cable.  The skater wears a vest or belt that has a cable or rope attached to it.  That cable/rope is threaded through the movable pulley on the cable above.  The coach holds the other end of the cable and lifts the skater by pulling the cable/rope.  The skater can then practice the jump, with the coach assisting with the completion.
+
+== History ==
+[[Image:Jackson Haines2.jpg|thumb|right|[[Jackson Haines]], considered to be the father of modern figure skating.]]
+{{Main|History of figure skating}}
+While people have been [[ice skating]] for centuries, figure skating in its current form originated in the mid-19th century. ''[[A Treatise on Skating]]'' (1772) by Englishman Robert Jones, is the first known account of figure skating. Competitions were then held in the "English style" of skating, which was stiff and formal and bears little resemblance to modern figure skating. American skater [[Jackson Haines]], considered the "father of modern figure skating", introduced a new style of skating in the mid-1860s. This style, which incorporated free and expressive techniques, became known as the "international style." Although popular in Europe, Haines' style of skating was not widely adopted in the United States until long after his death.<ref name=Haines>[http://www.usfigureskating.org/About.asp?id=101 U.S. Figure Skating History], accessed September 4, 2006.</ref>
+
+===Early 1900s===
+
+The [[International Skating Union]] was founded in 1892. The first [[European Figure Skating Championships|European Championship]] was held in 1891, and the first [[World Figure Skating Championships|World Championship]] was held in 1896 and won by [[Gilbert Fuchs]]. Only men competed in these events. In 1902, a woman, [[Madge Syers]], entered the World competition for the first time, finishing second. The ISU quickly banned women from competing against men, but established a separate competition for "ladies" in 1906.  [[Pair skating]] was introduced at the 1908 World Championships, where the title was won by [[Anna Hübler]] & [[Heinrich Burger]]. The first Olympic figure skating competitions also took place in 1908.<ref name="ISUHistory">{{cite web
+  | title = Some Key Dates in ISU History
+  | work =
+  | publisher = ISU
+  | date =
+  | url = http://www.isu.org/vsite/vcontent/page/custom/0,8510,4844-130844-132152-20256-74409-custom-item,00.html
+  | doi =
+  | accessdate = 2006-09-05 }}</ref>
+
+On March 20, 1914 an international figure skating championship was held in [[New Haven, Connecticut]]. This was the ancestor of both the [[United States Figure Skating Championships|United States]] and [[Canadian Figure Skating Championships|Canadian National Championships]].  However, international competitions in figure skating were interrupted by [[World War I]].
+
+In the 1920s and 1930s, figure skating was dominated by [[Sonja Henie]], who turned competitive success into a lucrative professional career as a movie star and touring skater.  Henie also set the fashion for female skaters to wear short skirts and white boots.<ref>{{cite news
+  | last = Hunt
+  | first = Paul
+  | coauthors =
+  | title = 100 Greatest Female Athletes: Sonja Henie
+  | work =
+  | pages =
+  | language =
+  | publisher = CNN Sports Illustrated
+  | date =
+  | url = http://sportsillustrated.cnn.com/siforwomen/top_100/4/
+  | accessdate =  2006-09-05 }}</ref>  The top male skaters of this period included [[Gillis Grafström]] and [[Karl Schäfer]].
+
+===After World War II===
+Skating competitions were again interrupted for several years by [[World War II]].  After the war, with many European rinks in ruins, skaters from the [[United States]] and [[Canada]] began to dominate international competitions and to introduce technical innovations to the sport.  [[Dick Button]], 1948 and 1952 Olympic Champion, was the first skater to perform the double axel and triple loop jumps, as well as the flying camel spin.
+
+The first World Championships in [[ice dancing]] were not held until [[1952 World Figure Skating Championships|1952]].<ref name="ISUHistory" /> In its first years, ice dance was dominated by British skaters. The first World title holders were [[Jean Westwood (figure skater)|Jean Westwood]] & [[Lawrence Demmy]].
+
+===The rise of the Soviet Union===
+On February 15, 1961, the entire U.S. figure skating team and their coaches were killed in the crash of [[Sabena Flight 548]] in [[Brussels|Brussels, Belgium]] en route to the World Championships in [[Prague]].  This tragedy sent the U.S. skating program into a period of rebuilding.
+
+At the same time, the [[Soviet Union]] rose to become a dominant power in the sport, especially in the disciplines of pair skating and ice dancing. At every Winter Olympics from 1964 until 2006, a Soviet or Russian pair won gold in pair skating, often considered one of the longest winning streaks in modern sports history.<ref>[http://nbcsports.msnbc.com/id/35400871/ns/sports-olympic_sports/ Shen-Zhao set record in pairs short program]</ref><ref>[http://www.cleveland.com/olympics/index.ssf/2010/02/shen_zhao_capture_pairs_skatin.html Shen, Zhao capture pairs skating gold]</ref><ref>[http://www.nbcolympics.com/news-features/news/newsid=444839.html Russian skating slump hits home hard]</ref>
+
+===The effect of television===
+[[Compulsory figures]] formerly accounted for up to 60% of the score in singles figure skating, which meant that skaters who could build up a big lead in figures could win competitions even if they were mediocre free skaters.  As [[television]] coverage of skating events became more important, so did free skating.  Beginning in 1968, the ISU began to progressively reduce the weight of figures, and in 1973, the short program was introduced.  With these changes, the emphasis in competitive figure skating shifted to increasing athleticism in the free skating.  By the time figures were finally eliminated entirely from competition in 1990, [[Midori Ito]] had landed the first triple axel by a woman, and [[Kurt Browning]] the first quadruple jump by a man.
+
+Television also played a role in removing the restrictive [[amateurism|amateur]] status rules that once governed the sport. To retain skaters who might otherwise have given up their eligibility to participate in lucrative professional events, in 1995 the ISU introduced prize money at its major competitions, funded by revenues from selling the TV rights to those events.
+
+===Present day===
+Figure skating is a very popular part of the Winter Olympic Games, in which the elegance of both the competitors and their movements attract many spectators. Not surprisingly, the best skaters show many of the same physical and psychological attributes as [[gymnastics|gymnasts]]. Like [[ice hockey]], figure skating is most popular in regions where natural ice is present. Dominant countries of the last 50 years have been Russia and the former Soviet Union, the United States, Canada, Germany and Japan.  The sport is currently experiencing a surge in popularity in Asia, particularly in [[Japan]], [[China]] and [[South Korea]], as well as in the [[Nordic countries]] such as [[Norway]], [[Finland]], and [[Sweden]]. Currently, the leading countries of the sport are widely considered to be the United States, [[Russia]], Japan, and Canada. These countries not only have skaters that consistently place on the podium internationally in multiple disciplines, but are also host the annual [[ISU Grand Prix]] events, [[Skate America]], [[Cup of Russia]], [[NHK Trophy]], and [[Skate Canada]], respectively.
+
+===Spectator popularity of figure skating===
+Figure skating is one of the most popular spectator sports in America.  From 1989 to 2003, the [[Associated Press]] released several stories and features on spectator sports research studies.  In the 1993 National Sports Study II, considered by the [[Associated Press]] as the largest study of spectator sport popularity in America, ladies' figure skating was the 2nd most popular spectator sport in America, just behind [[National Football League|NFL football]] out of over 100 sports surveyed.<ref>http://seattlepi.nwsource.com/archives/1993/9309080111.asp</ref>
+
+The 1993 study found that three figure skaters - [[Dorothy Hamill]], [[Peggy Fleming]], and [[Scott Hamilton (figure skater)|Scott Hamilton]]<ref>http://www.lasvegassun.com/news/1996/mar/21/stars-on-ice-as-nice-as-the-kids-next-door/</ref> were among the eight most popular athletes in the United States, out of over 800 athletes surveyed.<ref>Inside Edge: A Revealing Journey into the Secret World of Figure Skating By [[Christine Brennan]]; Scribner</ref>  In fact, [[Dorothy Hamill]] was statistically tied with [[Mary Lou Retton]] as the most popular athlete in America.
+
+During the height of the [[Tonya Harding]] scandal in 1994, the first night of the Ladies Figure Skating competition in the [[1994 Winter Olympics]] achieved higher TV [[Nielsen ratings]] than that year's Super Bowl and was the most watched sports television program of all-time, to that date.{{Citation needed|date=June 2010}}
+
+== Age eligibility rules ==
+In order to compete at Worlds, Europeans, Four Continents or the Olympics, skaters must turn 15 before July 1st of the preceding year. These age requirements have faced criticism.<ref name=agereq>{{cite news | url = http://www.usatoday.com/sports/columnist/brennan/2008-01-24-young-skaters_N.htm | title = Age requirement could keep stars from rising | last = Brennan | first = Christine |date = January 25, 2008 | work = [[USA Today]] | accessdate = December 23, 2010}}</ref> 
+
+To compete at other senior international competitions, skaters must turn 14 before the previous July 1st. To be eligible for junior events, a skater must be 13 before July 1st but not yet 19, except for male pair skaters and ice dancers who can be up to 21.
+
+== Injuries and health issues ==
+Competitive skaters generally do not wear helmets or other protective gear. There is a risk of head injuries, particularly in [[pair skating]] as a result of falls from lifts. Partners may also slash each other if they drift too close, particularly during side-by-side [[camel spins]]. Several female pair skaters have suffered head/face injuries during this element, including [[Elena Berezhnaya]], [[Jessica Dubé]] and [[Galina Maniachenko]]. Single and pair skaters are susceptible to hip injuries due to repeated falls while practicing jumps and throws. Foot, knee, and back injuries may affect all four disciplines.
+
+Collisions in practices occur occasionally. [[Midori Ito]] collided with [[Laetitia Hubert]] at the 1991 World Championships, while [[Oksana Baiul]] and [[Tanja Szewczenko]] collided at the 1994 Olympics, but all went on to compete.  On practice sessions with multiple skaters on the ice, the skater whose music is playing conventionally has right of way.  In addition, pairs and ice dancers skating as a unit have right of way over those skating separately as changing course is more difficult for a couple.
+
+[[Eating disorders]] and [[disordered eating]] are common in figure skating.<ref name=hpedpt1>{{cite news | url = http://www.huffingtonpost.com/lesleyann-coker/jenny-kirk-on-figure-skat_b_430032.html | title = Jenny Kirk on Figure Skating's Eating Disorder Epidemic (Part I) | last = Coker | first = Lesleyann |date = January 20, 2010 | work = [[Huffington Post]] | accessdate = December 23, 2010}}</ref><ref name=hpedpt2>{{cite news | url = http://www.huffingtonpost.com/lesleyann-coker/jenny-kirk-on-figure-skat_b_431698.html | title = Jenny Kirk on Figure Skating's Eating Disorder Epidemic (Part II) | last = Coker | first = Lesleyann |date = January 21, 2010 | work = [[Huffington Post]] | accessdate = December 23, 2010}}</ref><ref name=muscles>{{cite news | url = http://www.nytimes.com/2010/02/17/sports/olympics/17icedancers.html?_r=1 | title = New Muscles and Pounds Boost an American Ice Dancer’s Outlook | last = Macur | first = Juliet |date = February 16, 2010 | work = [[New York Times]] | accessdate = December 22, 2010}}</ref>
+
+==Figure skating in popular culture==
+*In 1937, [[Sonja Henie]] appeared in the film ''[[Thin Ice (1937 film)|Thin Ice]]''. Figure skating has been the focus of several later Hollywood films, including ''[[The Cutting Edge]]'' and its sequels, ''[[The Cutting Edge: Going for the Gold]]'', ''[[The Cutting Edge 3: Chasing the Dream]]'', ''[[Ice Princess]]'', ''[[Ice Castles]]'', ''[[Ice Angel]]'', ''[[Go Figure (film)|Go Figure]]'', and ''[[Blades of Glory]]'', among others.
+
+*Olympic champion [[Brian Boitano]] was parodied in ''[[South Park: Bigger, Longer & Uncut]]'' in the song "[[What Would Brian Boitano Do?]]"
+
+==See also==
+{{Portal|Figure skating}}
+*[[International figure skating]]
+*[[Figure skating at the Olympic Games]]
+*[[List of figure skaters]]
+*[[List of figure skating terms]]
+*[[List of Olympic medalists in figure skating]]
+*[[List of national championships in figure skating]]
+*[[World Figure Skating Championships]]
+*[[World Junior Figure Skating Championships]]
+*[[European Figure Skating Championships]]
+*[[Four Continents Figure Skating Championships]]
+*[[Sports terms named after people#Figure Skating|Elements of figure skating named after people]]
+*[[Artistic roller skating]]
+*[[Winter sport]]
+*[[U.S. Figure Skating]]
+
+==References==
+<!--This article uses the Cite.php citation mechanism. For more information, please see http://meta.wikimedia.org/wiki/Cite/Cite.php -->
+===Notes===
+{{Reflist}}
+===General references===
+*''Evaluation of Errors in Figures'', 6th edition.  USFSA, 1964.
+* ''Figure Skating: Championship Techniques''.  [[John Misha Petkevich]], 1989.  ISBN 0-452-26209-7.
+* ''Single Figure Skating''.  Josef Dĕdič, 1974.
+* Benjamin T. Wright, ''Skating in America''.
+* Michael Boo, ''The Story of Figure Skating''.  ISBN 0-688-15821-8.
+*Johnson, Susan A.:  "And Then There Were None".  ''Skating'', March/April 1991.
+* Smith, Beverley.  ''Figure Skating: A Celebration''.  ISBN 0-7710-2819-9.
+* Robert S. Ogilvie, ''Competitive Figure Skating:A Parent's Guide''.  ISBN 0-06-015375-X.
+* Rossano, George.  [http://www.iceskatingintnl.com/archive/features/lifts.htm  Mechanics of Lifts].
+*[http://www.isu.org/vsite/vnavsite/page/directory/0,10853,4844-153889-171105-nav-list,00.html ISU Regulations]
+*[http://www.isufs.org/bios/ ISU Crystal Reports official skaters' bios.]
+*[http://www.washingtonpost.com/wp-srv/sports/longterm/olympics1998/sport/figskate/articles/figskate.htm Washington Post: All You Need to Know About Figure Skating]
+*[http://www.isu.org/vsite/vcontent/page/custom/0,8510,4844-152094-169310-31825-132302-custom-item,00.html ISU Judging System Summary]
+*[http://www.isu.org/vsite/vnavsite/page/directory/0,10853,4844-152055-169271-nav-list,00.html ISU Judging Systems]
+*[http://www.usfigureskating.org/New_Judging.asp?id=289 How the ISU Judging System Works]
+*[http://inventors.about.com/library/inventors/bliceskates.htm History of ice skates]
+*[http://web.archive.org/web/20091027144655/http://www.geocities.com/Colosseum/Arena/1805/firsts.html Figure skating firsts]
+* [http://www.usfigureskating.org/About.asp?id=60 U.S. Figure Skating - Glossary of Terms]
+
+==External links==
+{{Sister project links}}
+*[http://www.isu.org International Skating Union]
+*[http://www.worldskatingmuseum.org/ Official Site World Skating Museum and Hall of Fame]
+*[http://www.rtve.es/deportes/europeo-patinaje/ Live emission: European Figure Skating Championships at RTVE.es] (in Spanish)
+
+{{figure skating}}
+{{olympic sports}}
+
+[[Category:Figure skating| ]]
+[[Category:Olympic sports]]
+[[Category:Sports entertainment]]
+
+{{link FA|eo}}
+{{Link FA|eo}}
+{{Link FA|mk}}
+
+[[ang:Lēoðlic scātung]]
+[[ar:التزلج الفني على الجليد]]
+[[az:Fiqurlu konkisürmə]]
+[[bs:Umjetničko klizanje]]
+[[bg:Фигурно пързаляне]]
+[[ca:Patinatge artístic]]
+[[cs:Krasobruslení]]
+[[da:Kunstskøjteløb]]
+[[de:Eiskunstlauf]]
+[[et:Iluuisutamine]]
+[[el:Καλλιτεχνικό πατινάζ]]
+[[es:Patinaje artístico sobre hielo]]
+[[eo:Arta sketado]]
+[[fr:Patinage artistique]]
+[[fy:Keunstriden]]
+[[ko:피겨 스케이팅]]
+[[hr:Umjetničko klizanje]]
+[[id:Skating indah]]
+[[it:Pattinaggio di figura]]
+[[he:החלקה אמנותית]]
+[[la:Patinaticum]]
+[[lv:Daiļslidošana]]
+[[lt:Dailusis čiuožimas]]
+[[hu:Műkorcsolya és jégtánc]]
+[[mk:Уметничко лизгање]]
+[[nl:Kunstschaatsen]]
+[[ja:フィギュアスケート]]
+[[no:Kunstløp]]
+[[nn:Kunstløp]]
+[[pl:Łyżwiarstwo figurowe]]
+[[pt:Patinação artística no gelo]]
+[[ro:Patinaj artistic]]
+[[ru:Фигурное катание]]
+[[sq:Patinazhi]]
+[[simple:Figure skating]]
+[[sk:Krasokorčuľovanie]]
+[[sl:Umetnostno drsanje]]
+[[sr:Уметничко клизање]]
+[[sh:Umetničko klizanje]]
+[[fi:Taitoluistelu]]
+[[sv:Konståkning]]
+[[th:สเก็ตลีลา]]
+[[tr:Artistik buz pateni]]
+[[uk:Фігурне катання]]
+[[zh-yue:花式溜冰]]
+[[zh:花样滑冰]]

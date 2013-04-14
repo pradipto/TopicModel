@@ -1,0 +1,21 @@
+I have been dealing with trojans, viruses, and various types of wares online. After 10 years of using the internet, on New Year's Day, I got one virus which launched a dos window for about a second, and I watched as it dismantled my windows.
+
+I put in a different hard drive, and instantly, without downloading programs or using the computer for very long, the same virus came. It was leaking through ad banners while using Internet Explorer. This peaked my interest, and for the whole month of January this year, I watched and tested every setting I could imagine. I also downloaded various firewall, anti-virus, and adware/spyware programs. Comodo seems to be a good choice, if you want a free and reliable firewall.
+
+The reason why I am posting here is two-fold. One, I want to share info that has helped me that might help others. Also, I want to test my response, cause it's not going to be the popular one. I would ditch all anti-virus programs, spyware programs, etc...
+
+YOU DON'T NEED ANY OF THEM!!! Let me repeat, you do not need any of them.
+
+These programs remove files that are already downloaded on your hard drive. It's only when these files "come alive" that your programs would detect them. Which would you rather have, an automatic top of the line gun which can kill the first thing that crawls, or not have anything crawl in the first place (which would mean you wouldn't need a water gun)?
+
+First things first, get another browser. Then, get one more. After you get 2, get another. Use multiple browsers and clear cache regularly, so long as none of them are IE. When you do have to use IE, IMMEDIATELY clear cache. Then, look in your c drive. Memorize the files. Know which files are there, and in doing so, you will instantly see new files and be able to determine if they should not be there. Then, do the same for the Windows system folder. You can list by date, and any bad files are often listed at the bottom.
+
+Set one browser as a decoy, and make it default. NEVER USE it. If a virus is about to be downloaded, it will try to download through the default browser. Put in a null proxy server address (gibberish), and it will never be able to load (neat?). The virus will never get downloaded.
+
+After I did this, I never got the virus again. Virus programs that found a virus before were now coming clean. I have never had any problems out of the ordinary since then. These anti-virus programs only help to a certain degree, and then you have to pay. When you pay, the companies know who is willing to pay. They just bill you to remove more viruses you could have avoided for free on your own if you just learned to use multiple browsers. I dare anyone to send me a nasty.
+
+And when all else fails, and your hard drive is no longer working, try this. Take the hard drive out, hook it up to the CD drive on another computer. You can then copy any necessary files, put the hard drive back in the original computer, and then reformat. You haven't lost anything, and the amount of time it takes to do this is a fraction of the time it would take to download programs in order to find out the viruses won't go away.
+
+Save your time, money, and useless frustrating headaches. Feel free to look up my info and contact me for further help. I am connected 24/7 as much as I can, without anti virus programs running. I run ad-aware, and this is only to ensure my net connection is speedy, not to protect my computer from anything.
+
+Together, let's stop the biggest virus of them all, the anti-virus money stealing companies.

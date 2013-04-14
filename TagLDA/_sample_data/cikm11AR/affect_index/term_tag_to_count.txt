@@ -1,0 +1,9 @@
+9458=contended
+2398=despair/bored
+1137=happy/very happy
+2918=maybe/hopeful
+2864=melancholic
+7340=pleased
+8338=satisfied
+357=unsatisfactory
+65446=untagged

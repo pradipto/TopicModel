@@ -1,0 +1,192 @@
+{{Redirect|Swimmer|the military term|frogman}}
+{{Other uses2|Swimming}}
+{{Globalize|date=March 2010}}
+{{Refimprove|date=March 2010}}
+{{ infobox sport
+| name       = Swims
+| image      = Front Crawl 4704.JPG
+| imagesize  = 220px
+| caption    = A swimmer performing [[Freestyle swimming|freestyle]].
+| union      = [[FINA|Fédération Internationale de Natation (FINA)]]
+| nickname   = FINA
+| first      = 
+| registered = 
+| clubs      = 
+| contact    = 
+| team       =  
+| mgender    = 
+| category   = Aquatics
+| ball       = 
+| olympic    = [[Swimming at the Summer Olympics|Since 1896]]
+
+
+
+Swimming is governed by the [[FINA|Fédération Internationale de Natation Amateur (FINA)]]. 
+==History==
+{{Main|History of swimming}}
+Competitive swimming in [[Europe]] started around 1800, mostly using the [[breaststroke]].  In 1873 John Arthr Trudgen introduced the [[trudgen]] to Western swimming competitions, after copying the [[front crawl]] used by [[Indigenous peoples of the Americas|Native Americans]].  Due to a British disregard for splashing, Trudgen employed a [[sidestroke|scissor kick]] instead of the [[front crawl]]'s [[flutter kick]].  Swimming was part of the first modern [[1896 Summer Olympics|Olympic games]] in 1896 in [[Athens]].  In 1902 Richard Cavill introduced the [[front crawl]] to the Western world.  In 1908, the world swimming association, [[FINA|Fédération Internationale de Natation (FINA)]], was formed. The [[butterfly stroke]] was developed in the 1930s and was at first a breaststroke variant, until it was accepted as a separate style in 1952. In [[1964]], Lillian Bonnell won the award for being the first woman to participate in a swimming competition and because of her now [[millions]] of women participate every year.
+
+==Competition==
+The goal of competitive swimming is usually to have the fastest time to complete a given distance. Competitive swimming became popular in the nineteenth century.<ref>[http://www.swimmingpool.com/history-of-swimming-pools Overview of history of swimming pools]</ref>
+
+Swimming is an event at the [[Summer Olympic Games]], where male and female athletes compete in 13 of the recognized events each. Olympic events are held in a '''50''' [[meter]] pool (long course).  
+There are 37 officially recognized<!--by whom? FINA?--> individual swimming events – 18 male events and 19 female events, however the [[International Olympic Committee]] only recognizes 35 of them – 17 male and 18 female.  The international governing body for competitive swimming is the ''Fédération Internationale de Natation'' ("International Swimming Federation") better known as [[FINA]]..
+
+==Competition pools==
+Most swimming sport events are held in special competition swimming pools, which are either [[long course]] pools such as those used in the Olympic Games (50&nbsp;m) or [[short course]] pools such as those used in the [[FINA World Swimming Championships (25 m)]]  (25 [[yard]]s or 25 m).  Competition pools have starting blocks from which the competitor can dive in, and possibly also touch-sensitive pads to electronically record the swimming time of each competitor.
+
+==Seasons==
+Club swimming in the US has two major seasons. During the short-course season, swimmers swim in 25 yard pools.  This season lasts from September to the end of March. The long-course season is swum in 50 meter Olympic pools and lasts from April to the end of August.
+
+==Officials==
+There are several types of officials:<ref>[http://www.fina.org/project/index.php?option=com_content&task=view&id=45&Itemid=119 FINA Technical Rule SW1.2]</ref>
+
+'''Referee''':  The referee has full control and authority over all officials.  The referee will enforce all rules and decisions of FINA and shall decide all questions relating to the actual conduct of the meet, and event or the competition, the final settlement of which is not otherwise covered by the rules. The referee takes overall responsibility for running the race and makes the final decisions as to who wins the competition.
+
+'''Starter''':  The starter has full control of the swimmers from the time the referee turns the swimmers over to him/her until the race commences. A starter sends the swimmers off the blocks and may call a false start if a swimmer leaves the block before the starter sends them.
+
+'''Clerk of Course''':  The clerk of course assembles swimmers prior to each event.
+
+'''Timekeepers''':  There are three (3) timekeepers for each lane.  Each timekeeper takes the time of the swimmers in the lane assigned to him/her. Unless a video backup system is used, it may be necessary to use the full complement of timekeepers even when Automatic Officiating Equipment is used.  A chief timekeeper assigns the seating positions for all timekeepers and the lanes for which they are responsible.  The chief timekeeper collects from the timekeepers in each lane a card showing the times recorded and, if necessary, inspect their watches.
+
+'''Inspectors of Turns''':  One inspector of turns is assigned to each lane at each end of the pool. Each inspector of turns ensures that swimmers comply with the relevant rules for turning as well as the relevant rules for start and finish of the race.  Inspectors of turns shall report any violation on signed cards detailing the event, lane number, and the infringement delivered to the chief inspector of turns who will immediately convey the report to the referee.
+
+'''Judges of Stroke''':  Judges of stroke are located on each side of the pool.  They ensure that the rules related to the style of swimming designated for the event are being observed, and observe the turns and the finishes to assist the inspectors of turns.
+
+'''Finish Judges''' 
+Finish Judges determine the order of finish and make sure the swimmers finish in accordance with the rules (two hands simultaneously for breaststroke and butterfly, on the back for backstroke, etc.)
+
+If an [[official]] catches a swimmer breaking a rule concerning the stroke he or she is swimming, that swimmer is said to be disqualified (commonly referred to as a "DQ") and the swim is not considered valid. The referee can disqualify any swimmer for any violation of the rules that he personally observes. The referee may also disqualify any swimmer for any violation reported to him by other authorised officials. All disqualifications are subject to the decision of the referee.
+
+==Meet Setup==
+A meet consists of a number of events classified by age, gender, distance, and stroke. For example, Event 1: Girls 8&U 25 fly. Each event has a certain amount of heats. A heat is a group of people who swim at the same time, one person per lane, yet compete against all entries in that event. Most meets do one stroke at one time. A heat sheet tells a swimmer what they will swim and in what heat and lane. A psych sheet tells the entry position of the swimmer before the start of the meet. Larger meets, which are not national or international competitions, typically cover a three day period, usually Friday, Saturday, and Sunday. Fridays are typically the distance events: 400 free, 800 free, 1000 free, 1500 free, 1650 free, and the 400 IM. Saturdays consist half of the events and, most likely, free relays. Sundays consist of the remainder of the events and the other relays. In typical meets, swimmers are placed after swimming once in their heat, timed finals. In championship meets (international, national, state, regionals, district, and collegiate) and some other meets, the swimmers compete in preliminaries, sometimes semi-finals, and are placed after finals. Sometimes swimmers can enter time trials at a meet, to obtain new official times, but the results of time trials are not included in the official placing of the particular event at the meet.
+
+==Swimwear==
+{{Main|Competitive swimwear}}
+{{Main|Swimsuit}}
+{{Howto|date=September 2010}}
+;[[Swimsuit]]: The suit covers the skin for modesty. Competitive swimwear seeks to improve upon bare human skin for a speed advantage. For extra speed a swimmer wears a body suit, which has rubber or plastic bumps that break up the water close to the body and provides a small amount of thrust—just barely enough to help a swimmer swim faster. However, swim suits now have limitations to keep the sport requiring talent, not suit.
+;[[Swim cap]]: A swim cap (a.k.a. cap) keeps the swimmer's hair out of the way to reduce drag. During practice, caps may have different sayings, patterns, or both. Caps may be made of latex, silicone or Lycra(TM). 
+;[[Goggles]]: Goggles keep water and [[chlorine]] out of swimmers' eyes. Goggles may be tinted to counteract glare at outdoor pools.  Prescription goggles may be used by swimmers who wear corrective lenses.
+
+===Regular practice and competition-swimwear===
+====Men====
+Men's most used practice swimwear include speedos (briefs) and jammers. Males generally swim [[barechested]].
+
+There has been much controversy after the Beijing Olympic Games in 2008, when many Olympic swimmers, including Olympic Gold Medalist [[Michael Phelps]], broke records unprecedented times using revolutionary swimsuits. To highlight the issue, note that it is rare to break world records, but in 2008, 70 world records were broken in one year, and 66 Olympic records were broken in one Olympic Games (there were races in Beijing where the first 5 finishers were swimming faster than the old world record). Despite many of his records having been won in these suits, Michael Phelps stated that he might boycott the competition after his record was beaten by another swimmer with a more advanced suit.
+
+As of New Year's Day 2010, men are only allowed to wear suits from the waist to above the knees.<ref>[http://www.fina.org/H2O/docs/rules/SWIMWEAR_APPROVAL_from_01012010.pdf FINA Approved Swimwear]</ref> They are also only permitted to wear one piece of swimwear; they cannot wear speedos underneath jammers. This law was enacted after the controversy in the Beijing Olympics and Rome World  Championships.
+
+====Women====
+Women wear one piece suits with different backs for competition, though there are two-piece suits that can be worn to compete as well. Backs vary mainly in strap thickness and geometric design. Most common styles include: racerback, axel back, corset, diamondback, and butterfly-back. There are also different style lengths: three quarter length (reaches the knees), regular length (shoulders to hips), and bikini style (2 piece). Also as of New Year's 2010, in competition, women are only allowed to wear suits that do not go past the knees or shoulders.
+
+====Drag suits====
+Drag suits are used for increasing the resistance against the swimmer in order to help adjust the swimmer to drag. This way when swimmers switch back to normal practice suits they swim faster as a result of feeling less resistance. They are not normally worn during competitions.
+
+====Drag shorts====
+Drag shorts like drag suits are worn in training and are also used to increase drag so that when taken off in racing it feels easier and the wearer feels less resistance.  Other forms of drag wear include nylons, old suits, and t-shirts; the point is to increase friction in the water to build strength during training, and increase speed once drag items are removed for competition.  It is also very common for swimmers to shave areas of exposed skin, to reduce friction in the water. Drag wear is not normally worn during competitions.
+
+====Footwear====
+Swimmers at all levels swim [[barefoot]] due to the difficulty of swimming with footwear.
+
+==Open water swimming==
+{{Main|Open water swimming}}
+Open water swimming is swimming outside of a regular pool, usually in a lake, or sometimes ocean.
+
+==Changes to the sport==
+Swimming times have dropped over the years due to better training techniques and to new developments. 
+
+The first four Olympics competitions were not held in pools, but in open water (1896- The Mediterranean, 1900- The Seine River, 1904- an artificial lake, 1906- The Mediterranean). The [[1904 Olympics]]' freestyle race was the only one ever measured at 100 yards, instead of the usual 100 meters. A 100 meter pool was built for the [[1908 Olympics]] and sat in the center of the main stadium's track and field oval. The [[1912 Olympics]], held in the Stockholm harbor, marked the beginning of [[aquatic timing system|electronic timing]]. 
+
+Male swimmers wore full body suits until the 1940s, which caused more drag in the water than their modern swimwear counterparts did. Competition suits now include engineered fabric and designs to reduce swimmers' drag in the water and prevent athlete fatigue. In addition, over the years, pool designs have lessened the drag. Some design considerations allow for the reduction of swimming [[Drag (physics)|resistance]], making the pool faster. Namely, proper pool depth, elimination of currents, increased lane width, energy absorbing racing lane lines and gutters, and the use of other innovative hydraulic, acoustic, and illumination designs.
+
+The [[1924 Summer Olympics]] were the first to use the standard 50 meter pool with marked lanes. In the freestyle, swimmers originally dove from the pool walls, but diving blocks were incorporated at the [[1936 Summer Olympics]]. The [[tumble turn|flip turn]] was developed by the 1950s and [[goggles]] were first used in the [[1976 Summer Olympics|1976 Olympics]].
+
+There were also changes in the late 20th century in terms of technique. Breaststrokers are now allowed to dip their head completely under water, which allowed for a longer stroke and faster time.  However, the breaststrokers '''must''' bring their heads up at the completion of each cycle. In addition, a split stroke in the breaststroke start and turns has been added to help speed up the stroke. There have been some other changes added recently as well. Now off the start and turns, breaststrokers are allowed 1 butterfly kick to help increase their speed.  Backstrokers are now allowed to turn on their stomachs before the wall in order to perform a "flip-turn".  Previously, they had to reach and flip backwards, but this turn is now illegal in all backstroke races. However, a variation of it, known as a "bucket turn" is sometimes used in Individual Medley events to transition from backstroke to breaststroke.
+
+==Records in swimming==
+{{Refimprove|section|date=April 2009}}
+The foundation of [[FINA]] in 1908 signalled the commencement of recording the first official [[List of world records in swimming|world records in swimming]].<ref>[http://www.fina.org/H2O/index.php?option=com_content&view=article&id=902&Itemid=566 FINA History]</ref> At that time records could be established in any swimming pool of length not less than 25 yards, and records were also accepted for intermediate distance split times from longer distance events. Today World Records will only be accepted when times are reported by Automatic Officiating Equipment, or Semi-Automatic Officiating Equipment in the case of Automatic Officiating Equipment system malfunction.<ref>[http://www.fina.org/H2O/index.php?option=com_content&view=article&id=289:sw-12-world-records&catid=82:swimming-rules&Itemid=184 FINA World Record Rule 12.6]</ref>  
+
+
+Records in events such as 300&nbsp;yd, 300&nbsp;m, 1000&nbsp;yd, and 1000&nbsp;m freestyle, 400&nbsp;m backstroke, and 400&nbsp;m and 500&nbsp;m breaststroke were no longer ratified from 1948. A further removal of the 500&nbsp;yd and 500&nbsp;m freestyle, 150&nbsp;m backstroke, and 3×100&nbsp;m medley relay from the record listings occurred in 1952.
+
+In 1952 the national federations of the United States and Japan proposed at the FINA Congress the separation of records achieved in long course and short course pools, however it was four more years for action to come into effect with Congress deciding to retain only records held in 50&nbsp;m pools as the official world record listings.
+
+By 1969 there were thirty-one events in which FINA recognised official world records &ndash; 16 for men, 15 for women &ndash; closely resembling the event schedule that was in use at the [[Swimming at the Summer Olympics|Olympic Games]].
+
+The increase in accuracy and reliability of electronic timing equipment led to the introduction of hundredths of a second to the time records from 21 August 1972.
+
+Records in short course (25&nbsp;m) pools began to be officially approved as "short course world records" from 3 March 1991. Prior to this date times in short course (25&nbsp;m) pools were not officially recognised, but were regarded a "world best time" (WBT). From 31 October 1994 times in 50&nbsp;m backstroke, breaststroke, and butterfly were added to the official record listings.
+
+FINA currently recognises world records in the following events for both men and women.<ref>[http://www.fina.org/project/index.php?option=com_content&task=view&id=45&Itemid=119 FINA Technical Rule SW12.1 and 12.2]</ref>
+* Freestyle: [[World record progression 50 metres freestyle|50&nbsp;m]], [[World record progression 100 metres freestyle|100&nbsp;m]], [[World record progression 200 metres freestyle|200&nbsp;m]], [[World record progression 400 metres freestyle|400&nbsp;m]], [[World record progression 800 metres freestyle|800&nbsp;m]], [[World record progression 1500 metres freestyle|1500&nbsp;m]]
+* Backstroke: [[World record progression 50 metres backstroke|50&nbsp;m]], [[World record progression 100 metres backstroke|100&nbsp;m]], [[World record progression 200 metres backstroke|200&nbsp;m]]
+* Breaststroke: [[World record progression 50 metres breaststroke|50&nbsp;m]], [[World record progression 100 metres breaststroke|100&nbsp;m]], [[World record progression 200 metres breaststroke|200&nbsp;m]]
+* Butterfly: [[World record progression 50 metres butterfly|50&nbsp;m]], [[World record progression 100 metres butterfly|100&nbsp;m]], [[World record progression 200 metres butterfly|200&nbsp;m]]
+* Individual medley: [[World record progression 100 metres medley|100&nbsp;m]] (short course only), [[World record progression 200 metres medley|200&nbsp;m]], [[World record progression 400 metres medley|400&nbsp;m]]
+* Relays: [[World record progression 4x100 metres freestyle relay|4×100&nbsp;m freestyle]], [[World record progression 4x200 metres freestyle relay|4×200&nbsp;m freestyle]], [[World record progression 4x100 metres medley relay|4×100&nbsp;m medley]]
+
+==Nutrition==
+{{Howto|date=September 2009}}
+
+In swimming it is recommended that you eat healthy, although [[carbohydrate]]s are recommended for highly demanding sports due to the complete sources of energy that they provide.<ref>Jackson, Catherine G Ratzin. Nutrition and Strength Athlete. Nutrition in Exercise and Sport. Boca Raton Fla: CRC P, 2001.</ref>  As a result, many competitive swimmers eat carbohydrates and protein before their race.  Furthermore, carbohydrates promote muscle stamina and strength because the breakdown product of carbohydrate-glucose is a primary source of energy for muscles during exercise.
+
+Commonly the nutrient and energy needs of swimmers can be compromised by their intense schedules. Time should be allowed for a light meal before swimming, and time for a well-balanced generous meal should be allotted after the workout.
+
+Additionally, healthy snacking can at times, be more efficient in fueling the body than a main meal.  For example, healthy snacking ideas include low fat yogurt, fresh or dried fruit, crackers, oatmeal and raisins, granola, and cereal.
+
+Like all aerobic sports, swimmers need to be sure they remain hydrated and drink an adequate amount.
+
+===Importance of carbohydrates===
+
+Nutrients are the "chemicals" supplying the body with energy.  The presence of vitamins, minerals, and water is required in order for the body to access the energy from carbohydrates, but doesn't supply energy in the form of calories.<ref name=name>USA Swimming - Nutrition Articles. www.usaswimming.org</ref>
+
+Carbohydrates are the substrate of choice for quick energy.  They are not made up of fat.  Exercising the body primarily receives energy from the "carbohydrate[s] and fat."  When the body is running low of carbohydrates and fat, then the body will start using "protein as an energy source."  This will happen when "the total caloric intake is too low over a period of months, and/or exercise is so long the body's accessible sources of carbohydrate[s] and protein become exhausted."  Swimmers try their best to not let this happen.<ref name="name"/>
+
+When warming-up or having an easy set at practice, the body has more than enough oxygen available to support the exercise.  In addition, the body realizes it might need carbohydrates at a later time. When practice is rigorous or at a swimming competition, the body doesn't have enough oxygen to run on.  This is when the body finds energy in other ways that don't require oxygen and will "choose to rely primarily on carbohydrate[s] for its energy."<ref name="name"/>
+
+Therefore, the body will always use some carbohydrates and fat.  The intensity of the swim will indicate which fuel source will take command of the others.  As a result, "When swimming is easy, fat is the primary fuel source.  When it is the toughest, [the] carbohydrate is the primary source.  When swimming is about 50% of maximum effort, carbohydrate[s] and fat contribute about equally.<ref name="name"/>
+
+==Health and skin care==
+It's recommended that swimmers wear water proof [[sunscreen]] to meets and daytime swim practices that are outside to prevent [[sunburn]]s. It's also recommended that swimmers dry off well between events at meets and change into dry clothes as soon as possible after swimming to prevent rashes and skin infections.
+
+It also is important for pool water to be properly maintained to avoid rashes and skin infections. <ref>[http://www.swimmingpool.com/water-testing-and-analysis Pool water testing and analysis]</ref>
+
+Swimmers should [[shower]] with mild soap after swimming to remove pool chemicals such as chlorine and salt. Swimmers should use goggles to protect the eyes from pool water and improve underwater vision.<ref>The FAST Swim Store -Frequently Asked Questions, [http://www.fastswimming.org/fastore_faq.htm#faq_skin Fastswimming.org]</ref><ref>Bathing Suit Hygiene By Jamie Lober, [http://www.mckinneykids.com/JJ09bathingsuit.html MCkinneykids.com]</ref><ref>Child safety: public swimming pool, [http://www.essortment.com/family/safetytipspubl_shzp.htm Essortment.com]</ref>
+
+==See also==
+{{Portal|Swimming}}
+* [[Aquatic timing system]]
+* [[FINA]]
+* [[FINA World Aquatics Championships]]
+* [[List of swimming styles]]
+* [[List of world records in swimming]]
+* [[Paralympic swimming]]
+* [[Sports nutrition]]
+* [[Swimming at the Summer Olympics]]
+* [[swimsuit#Swimwear and hygiene|Swimwear and hygiene]]
+* [[United States Masters Swimming]]
+==References==
+{{Reflist}}
+
+{{Racing}}
+{{International swimming}}
+{{World records in swimming}}
+{{Olympic sports}}
+
+{{DEFAULTSORT:Swimming}}
+[[Category:Swimming|*]]
+[[Category:Olympic sports]]
+
+[[be-x-old:Плаваньне]]
+[[de:Schwimmsport]]
+[[fr:Natation sportive]]
+[[he:שחייה תחרותית]]
+[[ml:നീന്തല്‍ മത്സരം]]
+[[ja:競泳]]
+[[pt:Natação pura]]
+[[ru:Плавание]]
+[[sv:Tävlingssimning]]
+[[ta:நீச்சற்போட்டி]]
+[[zh:游泳]]

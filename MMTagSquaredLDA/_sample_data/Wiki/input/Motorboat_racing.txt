@@ -1,0 +1,11 @@
+'''Motorboat racing''' takes several forms:
+*[[Drag boat racing]]
+*[[Hydroplane racing]]
+*[[Jet sprint boat racing]]
+*[[Offshore powerboat racing]]
+*[[F1 Powerboat World Championship]]
+
+{{disambig}}
+
+[[Category:Motorboat racing| ]]
+[[ja:モーターボート競走]]

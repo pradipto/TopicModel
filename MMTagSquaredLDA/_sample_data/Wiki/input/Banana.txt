@@ -1,0 +1,613 @@
+{{Other uses}}
+{{pp-semi-protected|small=yes}}{{pp-move-indef}}
+{{Infobox Cultivar 
+| name = Banana
+| image =Musa paradisiaca Blanco1.88-cropped.jpg
+| image_width = 240px
+| image_caption = Banana 'tree' (''Musa acuminata'' '[[Lacatan Banana|Lacatan]]'). Illustration from the 1880 book ''Flora de Filipinas'' by Francisco Manuel Blanco
+|alt=Drawing of the Lakatan Banana tree from the Philippines
+|hybrid = '''''[[Musa acuminata]]'' × ''[[Musa balbisiana]]'''''<br/><small>[[Luigi Aloysius Colla|Colla]] 1820</small>
+| group = See [[Banana Cultivar Groups]]
+| origin = [[Southeast Asia]], [[South Asia]]
+}}
+
+'''Banana''' is the [[common name]] for [[herbaceous plant]]s of the [[genus]] ''[[Musa (genus)|Musa]]'' and for the [[fruit]] they produce. Bananas come in a variety of sizes and [[color]]s when ripe, including yellow, purple, and red. 
+
+Almost all modern edible [[Parthenocarpy|parthenocarpic]] bananas come from the two wild species ''[[Musa acuminata]]'' and ''[[Musa balbisiana]]''. The [[Binomial nomenclature|scientific names]] of bananas are '''''Musa acuminata''''', '''''Musa balbisiana''''' or hybrids '''''Musa acuminata × balbisiana''''', depending on their genomic constitution. The old scientific names ''Musa sapientum'' and ''Musa paradisiaca'' are no longer used.
+
+Banana is also used to describe the edible fruits of the [[Musa (genus)#Fe'i-type cultivars|Fe'i bananas]] and ''[[Ensete]]'', neither of which properly belong to the [[Musa]] genus. The taxonomy of Fe'i-type cultivars is hard to determine; and Ensete, though belonging to the same family ([[Musaceae]]), is part of a different genus.
+
+In [[popular culture]] and [[commerce]], "banana" usually refers to soft, sweet "dessert" bananas. By contrast, ''Musa'' [[cultivar]]s with firmer, starchier fruit are called [[plantain]]s. The distinction is purely arbitrary and the terms 'plantain' and 'banana' are sometimes interchangeable depending on their usage. 
+
+They are native to tropical [[South Asia|South]] and [[Southeast Asia]], and are likely to have been first domesticated in [[Papua New Guinea]].<ref name="apscience">{{
+cite web |title = Tracing antiquity of banana cultivation in Papua New Guinea |publisher = The Australia & Pacific Science Foundation |date = |url =http://apscience.org.au/projects/PBF_02_3/pbf_02_3.htm |accessdate = 2007-09-18}}</ref> Today, they are cultivated throughout the [[tropics]].<ref>www.traditionaltree.org, Species Profiles for Pacific Island Agroforestry, ''Musa'' species (banana and plantain) [http://agroforestry.net/tti/Musa-banana-plantain.pdf agroforestry.net]</ref> They are grown in at least 107 [[Country|countries]],<ref name="fao">{{
+cite web |title = FAOSTAT: ProdSTAT: Crops |publisher = [[Food and Agriculture Organization]] |year = 2005 |url = http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567 |accessdate =2006-12-09}}</ref> primarily for their fruit, and to a lesser extent to make [[fiber]], [[banana wine]] and as [[ornamental plant]]s.
+{{TOC limit|2}}
+==Description==
+{{multiple image
+ | direction = vertical
+ | width = 240
+ | image1 = M. acuminata x balbisiana.JPG
+ | alt1 = 
+ | caption1 = Banana [[inflorescence]], partially opened.
+ | image2 = Banana Tree 01.jpg
+ | alt2 = 
+ | caption2 = Banana 'tree' showing fruit and inflorescence.
+ | image3 = Bananas.jpg
+ | alt3 = Grocery store photo of several bunches of bananas
+ | caption3 = '[[Cavendish banana|Cavendish]]' bananas are the main commercial banana [[cultivar]]s sold in the world market.
+ }}
+
+The banana plant is the largest herbaceous flowering plant.<ref>[http://www.rhs.org.uk/Learning/Publications/pubs/garden0502/ ''Yes, we have more bananas''] published in the [[Royal Horticultural Society]] Journals, May 2002</ref> The plants are normally tall and fairly sturdy and are often mistaken for [[tree]]s, but their main or upright stem is actually a [[pseudostem]] that grows {{convert|6|to|7.6|m|ft|abbr=off}} tall, growing from a [[corm]].  Each pseudostem can produce a single bunch of bananas. After fruiting, the pseudostem dies, but offshoots may develop from the base of the plant. Many varieties of bananas are [[perennial]].
+
+Leaves are spirally arranged and may grow {{convert|2.7|m|ft|abbr=off}} long and {{convert|60|cm|ft|abbr=on}} wide.<ref>{{
+cite web|url=http://www.hort.purdue.edu/newcrop/morton/banana.html |title=Banana from '&#39;Fruits of Warm Climates'&#39; by Julia Morton |publisher=Hort.purdue.edu |date= |accessdate=2009-04-16}}</ref> They are easily torn by the wind, resulting in the familiar frond look.<ref>
+''See'' Greenearth, Inc., [http://www.bananaplants.net/banananinfo.html Banana Plant Growing Info]. Retrieved 2008.12.20.</ref>
+
+Each pseudostem normally produces a single [[inflorescence]], also known as the ''banana heart''. (More are sometimes produced; an exceptional plant in the [[Philippines]] produced five.)<ref>{{
+cite news | url = http://www.abs-cbnnews.com/classified-odd/05/13/08/banana-plant-five-hearts-instant-hit-negros-occ | storyid=118085 | title = Banana plant with five hearts is instant hit in Negros Occ | last = Angolo | first = A | publisher = [[ABS-CBN Broadcasting Corporation]] | date = 2008-05-15 | accessdate = 2008-05-17 }}</ref> The inflorescence contains many [[bract]]s (sometimes incorrectly called petals) between rows of flowers. The female flowers (which can develop into fruit) appear in rows further up the stem from the rows of male flowers. The ovary is [[Ovary (plants)|inferior]], meaning that the tiny petals and other flower parts appear at the tip of the ovary.
+
+The banana fruits develop from the banana heart, in a large hanging cluster, made up of tiers (called ''hands''), with up to 20 fruit to a tier. The hanging cluster is known as a bunch, comprising 3–20 [[wikt:tier#noun 2|tier]]s, or commercially as a "banana stem", and can weigh from {{convert|30|–|50|kg|lb}}. In common usage, ''bunch'' applies to part of a tier containing 3-10 adjacent fruits.
+
+Individual banana fruits (commonly known as a banana or 'finger') average {{convert|125|g|lb}}, of which approximately 75% is [[water]] and 25% dry matter. There is a protective outer layer (a peel or skin) with numerous long, thin strings (the [[phloem]] [[Vascular bundle|bundles]]), which run lengthwise between the skin and the [[Eating|edible]] inner portion. The inner part of the common yellow dessert variety splits easily lengthwise into three sections that correspond to the inner portions of the three [[carpel]]s.
+
+The fruit has been described as a "leathery berry".<ref>James P. Smith, ''Vascular Plant Families''. Mad River Press, 1977.</ref> In cultivated varieties, the seeds are diminished nearly to non-existence; their remnants are tiny black specks in the interior of the fruit. Bananas grow pointing up, not hanging down.
+
+Bananas are naturally slightly [[Radioactive decay|radioactive]],<ref>''CRC Handbook on Radiation Measurement and Protection,'' Vol 1 pg. 620 Table A.3.7.12, CRC Press, 1978</ref> more so than most other fruits, because of their high potassium content, and the small amounts of the isotope [[potassium-40]] found in naturally occurring potassium.<ref>[http://discovermagazine.com/2007/jun/life-is-rad] Stephen Cass, Corinna Wu (2007). Everything Emits Radiation—Even You: The millirems pour in from bananas, bomb tests, the air, bedmates... ''Discover: Science, Technology, and the Future'', published online June 4, 2007</ref> [[Nuclear power debate|Proponents of nuclear power]] sometimes refer to the [[banana equivalent dose]] of radiation to support their arguments.<ref>http://enochthered.wordpress.com/category/banana-dose/</ref>
+
+==Taxonomy==
+
+The genus ''Musa'' is in the family [[Musaceae]]. The [[APG II system]], of 2003 (unchanged from 1998), assigns [[Musaceae]] to the
+order [[Zingiberales]] in the clade [[commelinid]]s in the [[monocots|monocotyledonous flowering plants]].
+Some sources assert that the banana's genus, ''[[Musa (genus)|Musa]]'', is named for Antonio Musa, physician to the Emperor [[Augustus]].<ref>Liberty Hyde Bailey, ''The Standard Cyclopedia of Horticulture''. 1916. [http://books.google.com/books?id=uZMDAAAAMAAJ&pg=PA2076 p. 2076]</ref> Others say that [[Linnaeus]], who named the genus in [[1750]], simply adapted an [[Arabic]] word for banana, ''[[wiktionary:موز|mauz]]''.<ref name=keppel44>Dan Keppel, ''Banana'', Hudson Street Press, 2008; p. 44.</ref> The word ''banana'' itself might have come from the Arabic ''banan'', which means "finger",<ref name=keppel44/> or perhaps from [[Wolof language|Wolof]] ''[[wiktionary:banaana|banaana]]''.<ref>{{Cite web |url=http://www.etymonline.com/index.php?term=banana |title=Online Etymology Dictionary|accessdate=5 Aug 2010}}</ref> The genus contains many species; several produce edible fruit, while others are cultivated as ornamentals.<ref>Bailey, pp. 2076–2079.</ref>
+
+Banana classification has long been a problematic issue for taxonomists due to the way Linnaeus originally classified bananas as two species based only on their methods of consumption, ''Musa sapientum'' for dessert bananas and ''Musa paradisiaca'' for [[plantain]]s. However, this simplistic classification has proved to be inadequate to address the sheer number of [[cultivar]]s (a lot of them [[Synonym (taxonomy)|synonymous]]) existing in its primary center of diversity, [[Southeast Asia]].<ref name="a">{{Google books|uwEcLfDElAMC|Banana cultivar names and synonyms in Southeast Asia by Ramón V. Valmayor|page=}}</ref>
+
+Ernest Cheesman first discovered that ''Musa sapientum'' and ''Musa paradisiaca'', described by Linnaeus, were actually [[cultivar]]s and descendants of two wild and seedy species, ''[[Musa acuminata]]'' and ''[[Musa balbisiana]]'', both first described by [[Luigi Aloysius Colla]].<ref name ="b">{{Cite web
+ | url = http://www.users.globalnet.co.uk/~drc/mparadisiaca.htm
+ | title =Musa paradisiaca
+ | first =  | last =  | date =  | publisher =  http://www.users.globalnet.co.uk/
+ | postscript = <!--None-->
+}}</ref> He recommended their abolition in favor of reclassifying bananas according to three morphologically distinct cultivars - those primarily exhibiting the botanical characteristics of ''Musa balbisiana'', those primarily exhibiting the botanical characteristics of ''Musa acuminata'', and those with characteristics that are the combination of the two.<ref name="a" />
+
+Researchers Norman Simmonds and Ken Shepherd proposed the genome-based nomenclature system in 1955. This system eliminated almost all the difficulties and inconsistencies of the nomenclature system of bananas based on ''Musa sapientum'' and ''Musa paradisiaca''. Despite this, ''Musa paradisiaca'' is still recognized by some authorities today, leading to confusion.<ref name="b" /><ref>{{cite web |url= http://www.plantnames.unimelb.edu.au/Sorting/Musa.html|title= Sorting Musa names|author= Michel H. Porcher| author2 = Prof. Snow Barlow| date= 19/07/2002|work= |publisher= The University of Melbourne, [http://www.plantnames.unimelb.edu.au/]|accessdate=11 January 2011}}</ref> 
+
+Generally, modern classifications of banana cultivars follow Simmonds' and Shepherd's system. The [[Botanical name|accepted names]] for bananas are '''''Musa acuminata''''', '''''Musa balbisiana''''' or '''''Musa acuminata × balbisiana''''', depending on their genetic ancestry. 
+
+[[Synonym (taxonomy)|Synonyms]] include:
+
+* ''Musa × sapientum'' L.
+* ''Musa paradisiaca'' L.
+* ''Musa × paradisiaca'' L.
+* ''Musa paradisiaca'' L. subsp. ''Musa sapientum'' J. G. Baker
+* ''Musa rosacea'' N. J. von Jacquin
+* ''Musa violacea'' J. G. Baker
+* ''Musa cliffortiana'' L.
+* ''Musa dacca'' P. F. Horaninow
+* ''Musa rosacea'' N. J. von Jacquin
+* ''Musa × paradisiaca'' L. subsp. ''sapientum''(L.) C. E. O. Kuntze
+* ''Musa × paradisiaca'' var. ''dacca'' (P. F. Horaninow) J. G. Baker ex K. M. Schumann
+
+For the banana cultivar previously referred to as ''Musa sapientum'', see [[Latundan Banana]].<ref name ="b21">{{Cite web | url = http://www.users.globalnet.co.uk/~drc/msapientum.ht| title =Musa sapientum | first =  | last =  | date =  | publisher =  http://www.users.globalnet.co.uk/ | postscript = <!--None-->}}</ref> For bananas and plantains previously referred to as ''Musa paradisiaca'', see [[Plantain]].<ref name ="b" /> 
+
+For a list of the cultivars classified under the new system see [[Banana Cultivar Groups]].
+
+{| class="wikitable" style="font-size: 95%; text-align: left"
+|- 
+! colspan="3" style="width:30em;text-align: center;font-size: 110%;"| Comparison between the two wild banana ancestors in the Simmonds and Shepherd table (1955)
+|-
+! style="width:30em;text-align: left;"|Species
+! style="width:30em;text-align: left;"|''[[Musa acuminata]]''
+!style="width:30em;text-align: left;"| ''[[Musa balbisiana]]''
+|-
+! style="width:30em;text-align: left;"|Color of [[pseudostem]]
+| Black or grey-brown spots
+| Unmarked or slightly marked
+|-
+! style="width:30em;text-align: left;"|[[Petiole]] canal
+| Erect edge, with scarred inferior leaves, not against the pseudostem
+| Closed edge, without leaves, against the pseudostem
+|-
+! style="width:30em;text-align: left;"|Stalk
+| Covered with fine hair
+| Smooth
+|-
+! style="width:30em;text-align: left;"|[[Pedicel]]s
+| Short
+| Long
+|-
+! style="width:30em;text-align: left;"|Ovum
+| Two regular rows in the locule
+| Four irregular rows in the locule
+|-
+! style="width:30em;text-align: left;"|Elbow of the bract
+| Tall (< 0.28)
+| Short (> 0.30)
+|-
+! style="width:30em;text-align: left;"|Bend of the [[bract]]
+| The bract wraps behind the opening
+| The bract raises without bending behind the opening
+|-
+! style="width:30em;text-align: left;"|Form of the bract
+| Lance- or egg-shaped, tapering markedly after the bend
+| Broadly egg-shaped
+|-
+! style="width:30em;text-align: left;"|Peak of the bract
+| Acute
+| Obtuse
+|-
+! style="width:30em;text-align: left;"|Color of the bract
+| Dark red or yellow on the outside, opaque purple or yellow on the inside
+| Brown-purple on the outside, crimson on the inside
+|-
+! style="width:30em;text-align: left;"|Discoloration
+| The inside of the bract is more bright toward the base
+| The inside of the bract is uniform
+|-
+! style="width:30em;text-align: left;"|Scarification of the bract
+| Prominent
+| Not prominent
+|-
+! style="width:30em;text-align: left;"|Free [[tepal]] of the male flower
+| Corrugated under the point
+| Rarely corrugated
+|-
+! style="width:30em;text-align: left;"|Color of the male flower
+| White or cream
+| Pink
+|-
+! style="width:30em;text-align: left;"|Color of the markings
+| Orange or bright yellow
+| Cream, yellow, or pale pink
+|}
+
+==Historical cultivation==
+=== Early cultivation ===
+Southeast Asian farmers first [[domestication|domesticated]] bananas. Recent [[archaeology|archaeological]] and palaeoenvironmental evidence at [[Kuk Swamp]] in the [[Western Highlands Province]] of [[Papua New Guinea]] suggests that banana cultivation there goes back to at least 5000 [[Common Era|BCE]], and possibly to 8000 BCE.<ref name="apscience"/> It is likely that other species were later and independently domesticated elsewhere in southeast Asia. Southeast Asia is the region of [[Center of diversity|primary diversity]] of the banana. Areas of secondary diversity are found in [[Africa]], indicating a long history of banana cultivation in the region.
+
+[[Image:Bananas Muslim world.JPG|thumb|240px|Actual and probable diffusion of bananas during [[Muslim Agricultural Revolution|Islamic times]] (700–1500 AD)<ref name = Watson>Watson, p. 54</ref>|alt=Map stating that banana cultivation occurred in pre-Islamic times in India and Southeast Asia, during the 700-1500 AD "Islamic period" along the [[Nile River]] and in [[Mesopotamia]] and [[Palestine]], and less-certainly in sub-Saharan Africa during that same period]]
+[[Phytolith]] discoveries in [[Cameroon]] dating to the first millennium BCE<ref>Evidence for banana cultivation and animal husbandry during the first millennium BC in the forest of southern Cameroon. Mbida VM, Van Neer W, Doutrelepont H, Vrydaghs L. (2000) JOURNAL OF ARCHAEOLOGICAL SCIENCE 27:151-162</ref> triggered an as yet unresolved debate about the date of first cultivation in Africa. There is linguistic evidence that bananas were known in [[Madagascar]] around that time.<ref>{{
+cite journal |title = Herkunft, Diversität und Züchtung der Banane und kultivierter Zitrusarten (''Origin, diversity and breeding of banana and plantain (Musa spp.))''|author = Friedrich J. Zeller|year=2005|journal = Journal of Agriculture and Rural Development in the Tropics and Subtropics| url = http://www.upress.uni-kassel.de/online/frei/978-3-89958-116-4.volltext.frei.pdf}}</ref> The earliest prior evidence indicates that cultivation dates to no earlier than late 6th century AD.<ref>{{
+cite journal |title = Africa's earliest bananas?|coauthors = B. Julius Lejju, Peter Robertshaw, David Taylor|date=2005-06-28|journal = Journal of Archeological Science| url = http://www.inibap.org/pdf/phytoliths_en.pdf}}{{Dead link|date=December 2008}}</ref> It is likely, however, that bananas were brought at least to [[Madagascar]] if not to the East African coast during the phase of [[Malagasy people|Malagasy]] colonization of the island from South East Asia c400CE.<ref>Randrianja, Solofo abd Stephen Ellis: ''Madagascar: A Short History''. University of Chicago Press, 2009.</ref>
+
+The Buddhist story [[Vessantara Jataka]] briefly mention about banana, the king Vessantara has found a banana tree (among some other fruit trees) in the jungle, that bear bananas of the size of an elephants tusk.
+
+The banana may have been present in isolated locations of the [[Middle East]] on the eve of [[Islam]]. There is some textual evidence that the prophet [[Muhammad]] was familiar with bananas. The [[spread of Islam]] was followed by far-reaching diffusion. There are numerous references to it in Islamic texts (such as poems and [[hadith]]s) beginning in the 9th century. By the 10th century the banana appears in texts from [[Palestine]] and [[Egypt]]. From there it diffused into north Africa and [[Al-Andalus|Muslim Iberia]]. During the medieval ages, bananas from [[Granada]] were considered among the best in the Arab world.<ref name = Watson>Watson, p. 54</ref> In 650, Islamic conquerors brought the banana to Palestine.  Nowadays, banana consumption increases significantly in Islamic countries during [[Ramadan]], the month of daylight fasting.
+
+Bananas were introduced to the [[Americas]] by [[Portugal|Portuguese]] sailors who brought the fruits from [[West Africa]] in the 16th century.<ref>{{
+cite web|url=http://www.botgard.ucla.edu/html/botanytextbooks/economicbotany/Musa/index.html |title=Bananas and plantains |publisher=Botgard.ucla.edu |date= |accessdate=2009-04-16}}</ref>
+The word banana is of West African origin, from the [[Wolof language]], and passed into English via Spanish or Portuguese.<ref>{{
+cite web |title =
+Online Etymology Dictionary: banana |publisher = |date = |url = http://www.etymonline.com/index.php?search=banana&searchmode=none |accessdate = 02-11-2007}}</ref>
+
+Many [[Musa (genus)#Selected species|wild banana species]] as well as [[cultivar]]s exist in extraordinary diversity in [[New Guinea]], [[Malaysia]], [[Indonesia]], [[China]], and the [[Philippines]]. 
+{{quote|There are fuzzy [[Musa velutina|bananas whose skins are bubblegum pink]]; green-and-white striped bananas with pulp the color of orange sherbet; bananas that, when cooked, taste like strawberries.  The Double Mahoi plant can produce two bunches at once.  The Chinese name of the aromatic Go San Heong banana means 'You can smell it from the next mountain.'  The fingers on one banana plant grow fused; another produces bunches of a thousand fingers, each only an inch long.|Mike Peed, ''The New Yorker''<ref>Peed, Mike:  "We Have No Bananas: Can Scientists Defeat a Devastating Blight?" ''The New Yorker'', January 10, 2011, pp. 28-34.  Retrieved 2011-01-13.</ref>}}
+
+=== Plantation cultivation ===
+{{multiple image
+ | direction = vertical
+ | width = 240
+ | image1 =Combs.jpg
+ | alt1 = 
+ | caption1 = Banana [[corm]]s, used in the propagation of domesticated bananas
+ | image2 = Inside a wild-type banana.jpg
+ | alt2 = 
+ | caption2 = Fruits of [[Wild type|wild-type]] bananas have numerous large, hard seeds.|alt=Photo of two cross-sectional halves of seed-filled fruit
+ | image3 = Banana-fluorescence-081108.jpg
+ | alt2 = 
+ | caption3 =Ripened bananas (left, under [[sunlight]]) fluoresce in blue when exposed to [[UV light]].|alt=Two adjacent photos of bananas. The left is in sunlight; the right is under uultraviolet light.
+ }}
+In the 15th and 16th century, Portuguese colonists started banana plantations in the Atlantic Islands, [[Brazil]], and western Africa.<ref name="history1">{{
+cite web|url=http://www.phora-sotoby.com/history.html |title=Phora Ltd. - History of Banana |publisher=Phora-sotoby.com |date= |accessdate=2009-04-16}}</ref> As late as the [[Victorian Era]], bananas were not widely known in Europe, although they were available.<ref name="history1"/> [[Jules Verne]] introduces bananas to his readers with detailed descriptions in ''[[Around the World in Eighty Days (book)|Around the World in Eighty Days]]'' (1872).
+
+In the early 20th century, bananas formed the basis of large commercial empires, exemplified by the [[United Fruit Company]], which created immense plantations especially in Central and [[South America]]. These were usually commercially exploitative, and the term "[[Banana republic]]" was coined for states like Honduras and Guatemala, representing the fact that these companies and their political backers created and abetted "servile dictatorships" whose primary motivation was to protect the companies.<ref name="GREED"/>
+
+==Modern cultivation==
+
+All widely cultivated bananas today descend from the two wild bananas ''Musa acuminata'' and ''Musa balbisiana''. While the original wild bananas contained large seeds, [[diploid]] or [[polyploidy|polyploid]] cultivars (some being [[hybrid]]s) with tiny seeds are preferred for human raw fruit consumption.<ref name="Castle2009" /> These are propagated [[asexual reproduction|asexually]] from offshoots. The plant is allowed to produce 2 shoots at a time; a larger one for immediate fruiting and a smaller "sucker" or "follower" to produce fruit in 6–8 months. The life of a banana plantation is 25 years or longer, during which time the individual stools or planting sites may move slightly from their original positions as lateral [[rhizome]] formation dictates.
+
+Cultivated bananas are ''[[parthenocarpy|parthenocarpic]]'', which makes them sterile and unable to produce viable seeds. Lacking seeds, propagation typically involves removing and transplanting part of the underground stem (called a corm). Usually this is done by carefully removing a sucker (a vertical shoot that develops from the base of the banana pseudostem) with some roots intact. However, small [[sympodial]] corms, representing not yet elongated suckers, are easier to transplant and can be left out of the ground for up to 2 weeks; they require minimal care and can be shipped in bulk.
+
+It is not necessary to include the corm or root structure to propagate bananas; severed suckers without root material can be propagated in damp [[sand]], although this takes somewhat longer.
+
+In some countries, commercial propagation occurs by means of [[tissue culture]]. This method is preferred since it ensures disease-free planting material. When using vegetative parts such as suckers for propagation, there is a risk of transmitting diseases (especially the devastating [[Panama disease]]).
+
+As a non-seasonal crop, bananas are available fresh year-round.
+
+===Cavendish===
+In global commerce, by far the most important [[cultivar]]s belong to the triploid [[Banana Cultivar Groups#AAA group|AAA]] [[cultivar group|group]] of ''Musa acuminata'', commonly referred to as Cavendish group bananas. They account for the majority of banana exports.<ref name="Castle2009" /> The cultivars [[Dwarf Cavendish]] and [[Grand Nain]] (Chiquita Banana) gained popularity in the 1950s after the previous mass-produced cultivar, [[Gros Michel banana|Gros Michel]] (also an AAA group cultivar), became commercially unviable due to [[Fusarium oxysporum|Panama disease]], a fungus which attacks the roots of the banana plant.<ref name="Castle2009">{{Cite web
+ | url = http://www.damninteresting.com/the-unfortunate-sex-life-of-the-banana
+ | title = The Unfortunate Sex Life of the Banana
+ | first = Matt
+ | last = Castle
+ | date = August 24, 2009
+ | publisher = DamnInteresting.com
+ | postscript = <!--None-->
+}}</ref>
+
+Ease of transport and shelf life rather than superior taste make the Dwarf Cavendish the main export banana.
+
+Even though it is no longer viable for large scale cultivation, Gros Michel is not extinct and is still grown in areas where Panama disease is not found.{{Citation needed|date=February 2010}} Likewise, Dwarf Cavendish and Grand Nain are in no danger of extinction, but they may leave supermarket shelves if disease makes it impossible to supply the global market. It is unclear if any existing cultivar can replace Cavendish bananas, so various [[Hybrid (biology)|hybrid]]isation and [[genetic engineering]] programs are attempting to create a disease-resistant, mass-market banana.<ref name="Castle2009" />
+
+===Ripening===
+Export bananas are picked green, and ripen in special rooms upon arrival in the destination country. These rooms are air-tight and filled with [[ethylene]] gas to induce ripening. The vivid yellow color normally associated with [[supermarket]] bananas is in fact a side effect of the artificial ripening process.{{Citation needed|date=April 2010}} Flavor and texture are also affected by ripening temperature. Bananas are refrigerated to between {{convert|13.5|and|15|C|F}} during transport. At lower temperatures, ripening permanently stalls, and turns the bananas gray as cell walls break down. The skin of ripe bananas quickly blackens in the {{convert|4|C}} environment of a domestic [[refrigerator]], although the fruit inside remains unaffected.
+
+"Tree-ripened" Cavendish bananas have a greenish-yellow appearance which changes to a brownish-yellow as they ripen further. Although both flavor and texture of tree-ripened bananas is generally regarded as superior to any type of green-picked fruit,{{Citation needed|date=April 2010}} this reduces shelf life to only 7–10 days.
+
+Bananas can be ordered by the retailer "ungassed", and may show up at the supermarket fully green. "[[Guineo]] Verde", or green bananas that have not been gassed will never fully ripen before becoming rotten. Instead of fresh eating, these bananas are best suited to cooking, as seen in Mexican culinary dishes.
+
+A 2008 study reported that ripe bananas [[fluoresce]] when exposed to [[ultraviolet]] light. This property is attributed to the degradation of [[chlorophyll]] leading to the accumulation of a fluorescent product in the skin of the fruit. The chlorophyll [[breakdown product]] is stabilized by a [[propionate]] [[ester]] group. Banana-plant leaves also fluoresce in the same way. Green bananas do not fluoresce. The study suggested that this allows animals which can see light in the ultraviolet spectrum ([[tetrachromat]]s and [[pentachromat]]s) to more easily detect ripened bananas.<ref>{{
+Cite journal | last = Moser | first = Simone
+| coauthors = Thomas Müller, Marc-Olivier Ebert, Steffen Jockusch, Nicholas J. Turro, Bernhard Kräutler | year = 2008 | title = Blue luminescence of ripening bananas | journal = Angewandte Chemie International Edition | volume = 47 | issue = 46 | pages = 8954–8957 | doi = 10.1002/anie.200803189 | accessdate = 2008-10-29 | pmc = 2912500 | pmid = 18850621}}</ref>
+{{clr}}
+
+=== Storage and transport ===
+
+Bananas must be transported over long distances from the tropics to world markets. To obtain maximum shelf life, harvest comes before the fruit is mature. The fruit requires careful handling, rapid transport to ports, cooling, and refrigerated shipping. The goal is to prevent the bananas from producing their natural ripening agent, ethylene. This technology allows storage and transport for 3–4 weeks at {{convert|13|C}}. On arrival, bananas are held at about {{convert|17|C}} and treated with a low concentration of ethylene. After a few days, the fruit begins to ripen and is distributed for final sale. Unripe bananas can not be held in home refrigerators because they suffer from the cold. Ripe bananas can be held for a few days at home. They can be stored indefinitely frozen, then eaten like an [[ice pop]] or cooked as a banana mush.
+
+Recent studies have suggested that carbon dioxide (which bananas produce) and ethylene absorbents extend fruit life even at high temperatures.<ref>
+Scott, KJ, McGlasson WB and Roberts EA (1970) Potassium Permanganate as an Ethylene Absorbent in Polyethylene Bags to Delay the Ripening of Bananas During Storage. Australian Journal of Experimental Agriculture and Animal Husbandry 110, 237–240.</ref><ref>
+Scott KJ, Blake, JR, Stracha n, G Tugwell, BL and McGlasson WB (1971) Transport of Bananas at Ambient Temperatures using Polyethylene Bags. Tropical cha Agriculture (Trinidad ) 48, 163–165.</ref><ref>
+Scott, KJ and Gandanegara, S (1974) Effect of Temperature on the Storage Life of bananas Held in Polyethylene Bags with an Ethylene Absorbent. Tropical Agriculture (Trinidad ) 51,23–26.</ref> This effect can be exploited by packing the fruit in a [[polyethylene]] bag and including an ethylene absorbent, e.g., [[potassium permanganate]], on an inert carrier. The bag is then sealed with a band or string. This treatment has been shown to more than double lifespans up to 3–4 weeks without the need for refrigeration.
+
+===Trade===
+
+{| class="wikitable" border="1" align=right
+! colspan=2|Top 10 banana producing nations - 2009<br />(in million metric tons)
+|-
+| {{IND}} || align="right" | ~26.2
+|-
+| {{PHL}} || align="right" | 9.0
+|-
+| {{CHN}} || align="right" | 8.2
+|-
+| {{ECU}} || align="right" | 7.6
+|-
+| {{BRA}} || align="right" | 7.2
+|-
+| {{IDN}} || align="right" | 6.3
+|-
+| {{MEX}} || align="right" | ~2.2
+|-
+| {{CRI}} || align="right" | 2.1
+|-
+| {{COL}} || align="right" | 2.0
+|-
+| {{THA}} || align="right" | 1.5
+|-
+|'''World Total''' || align="right" | '''95.6'''
+|-
+|colspan=2| ''Source:<br> Food and Agriculture Organization<br> of the United Nations''<ref name="fao"/>
+~ 2008 data
+|}
+
+Bananas and plantains constitute a major staple [[agriculture|food crop]] for millions of people in [[developing country|developing countries]]. In most tropical countries, green (unripe) bananas used for [[cooking]] represent the main cultivars. Bananas are cooked in ways that are similar to [[potato]]es. Both can be [[frying|fried]], [[boiling|boiled]], [[baking|baked]], or chipped and have similar [[taste]] and texture when served. One banana provides about the same [[calorie]]s as one potato.
+
+In 2009, [[India]] led the world in banana production, representing approximately 28% of the worldwide crop, mostly for domestic consumption. The six leading exporting countries (Table, right) together accounted for about two-thirds of exports, each contributing more than 6 million tons, according to [[Food and Agriculture Organization]] statistics.
+
+Most producers are small-scale [[farmer]]s either for home consumption or local markets. Because bananas and plantains produce fruit year-round, they provide an extremely valuable food source during the ''hunger season'' (when the food from one annual/semi-annual harvest has been consumed, and the next is still to come). Bananas and plantains are therefore critical to global [[food security]].
+
+Bananas are among the most widely consumed foods in the world. Most banana farmers receive a low price for their produce as [[grocery]] companies pay discounted prices for buying in enormous quantity. Price competition among grocers has reduced their margins, leading to lower prices for growers. [[Chiquita Brands International|Chiquita]], [[Fresh Del Monte Produce|Del Monte]], [[Dole Food Company|Dole]], and [[Fyffes]] grow their own bananas in Ecuador, Colombia, Costa Rica, [[Guatemala]], and [[Honduras]]. Banana plantations are capital intensive and demand significant expertise. The majority of independent growers are large and wealthy landowners in these countries. Producers have attempted to raise prices via marketing them as "[[fair trade]]" or [[Rainforest Alliance]]-certified in some countries.
+
+The banana has an extensive trade history beginning with the founding of the [[United Fruit Company]] (now Chiquita) at the end of the 19th century. For much of the 20th century, bananas and [[coffee]] dominated the export economies of [[Central America]]. In the 1930s, bananas and [[coffee]] made up as much as 75% of the region's exports. As late as 1960, the two crops accounted for 67% of the exports from the region. Though the two were grown in similar regions, they tended not to be distributed together. The [[United Fruit Company]] based its business almost entirely on the banana trade, because the coffee trade proved too difficult to control. The term "[[banana republic]]" has been applied to most countries in [[Central America]], but from a strict economic perspective only Costa Rica, Honduras, and [[Panama]] had economies dominated by the banana trade.
+
+The [[European Union]] has traditionally imported many of their bananas from former European [[Caribbean]] colonies, paying guaranteed prices above global market rates. As of 2005, these arrangements were in the process of being withdrawn under pressure from other major trading powers, principally the [[United States]]. The withdrawal of these indirect subsidies to Caribbean producers is expected to favour the banana producers of Central America, in which American companies have an economic interest.
+
+The United States produces few bananas. A mere {{convert|14000|t}} were grown in Hawaii in 2001.<ref>{{
+cite web|url=http://www.ipmcenters.org/cropprofiles/docs/hibananas.html |title=Crop Profile for Bananas in Hawaii |publisher=Ipmcenters.org |date= |accessdate=2009-04-16}}</ref> Bananas were once grown in [[Florida]] and southern California.<ref>California Rare Fruit Growers, Inc., [http://www.crfg.org/pubs/ff/banana.html Banana Fruit Facts]. Retrieved 2008.12.30.</ref>
+
+== Pests, diseases, and natural disasters ==
+{{Main|List of banana and plantain diseases}}
+[[Image:BananasBlueBagStLucia.jpg|thumb|240px|upright|Banana bunches are sometimes encased in plastic bags for protection. The bags may be coated with [[pesticide]]s.|alt=Photo of bananas in blue plastic bag]]
+
+While in no danger of outright extinction, the most common edible banana cultivar Cavendish (extremely popular in Europe and the Americas) could become unviable for large-scale cultivation in the next 10–20 years. Its predecessor '[[Gros Michel]]', discovered in the 1820s, suffered this fate. Like almost all bananas, Cavendish lacks genetic diversity, which makes it vulnerable to diseases, threatening both commercial cultivation and small-scale subsistence farming.<ref>{{
+cite news | title =A future with no bananas? | publisher = [[New Scientist]] | date = 2006-05-13 | url =http://www.newscientist.com/channel/earth/dn9152-a-future-with-no-bananas.html | accessdate = 09-12-2006 }}</ref><!----><ref>{{
+cite news | last = Montpellier | first = Emile Frison | title =Rescuing the banana | publisher = [[New Scientist]] | date = 2003-02-08 | url = http://www.newscientist.com/article/mg17723813.300-rescuing-the-banana.html | accessdate = 09-12-2006}}</ref> Some commentators remarked that those variants which could replace what much of the world considers a "typical banana" are so different that most people would not consider them the same fruit, and blame the decline of the banana on [[monogenetic]] cultivation driven by short-term commercial motives.<ref name="GREED">''Big-business greed killing the banana'' - ''Independent'', via ''[[The New Zealand Herald]]'', Saturday 24 May 2008, Page A19</ref>
+
+===Panama Disease===
+[[Panama disease]] is caused by a [[fusarium]] [[soil]] [[fungus]] (Race 1), which enters the [[plant]]s through the [[root]]s and travels with water into the trunk and leaves, producing [[gel]]s and gums that cut off the flow of water and [[nutrient]]s, causing the plant to [[wilting|wilt]], and exposing the rest of the plant to lethal amounts of sunlight. Prior to 1960, almost all commercial banana production centered on '[[Gros Michel banana|Gros Michel]]', which was highly susceptible.<ref name=barker>
+Barker, C. L. ''Conservation: Peeling away.'' National Geographic Magazine, November 2008.</ref> Cavendish was chosen as the replacement for Gros Michel because, among resistant cultivars, it produces the highest quality [[fruit]]. However, more care is required for shipping the Cavendish, and its quality compared to Gros Michel is debated.
+
+According to current sources, a deadly form of Panama disease is infecting Cavendish. All plants are genetically identical, which prevents evolution of disease resistance. Researchers are examining hundreds of wild varieties for resistance.<ref name=barker/>
+
+====Tropical Race 4====
+TR4 is a reinvigorated strain of Panama disease first discovered in 1993. This virulent form of fusarium wilt has wiped out Cavendish in several southeast Asian countries. It has yet to reach the Americas; however, soil fungi can easily be carried on [[boot]]s, [[clothing]], or [[tool]]s. This is how Tropical Race 4 travels and is its most likely route into Latin America. Cavendish is highly susceptible to TR4, and over time, Cavendish is almost certain to disappear from commercial production by this disease. Unfortunately, the only known defense to TR4 is genetic resistance.
+
+===Black Sigatoka===
+[[Black sigatoka]] is a fungal leaf spot disease first observed in [[Fiji]] in 1963 or 1964. Black Sigatoka (also known as black leaf streak) has spread to banana plantations throughout the tropics from infected banana leaves that were used as packing material. It affects all main cultivars of bananas and plantains, impeding [[photosynthesis]] by blackening parts of the leaves, eventually killing the entire leaf. Starved for energy, fruit production falls by 50% or more, and the bananas that do grow [[ripening|ripen]] prematurely, making them unsuitable for [[export]]. The [[fungus]] has shown ever-increasing resistance to treatment, with the current expense for treating {{convert|1|ha}} exceeding [[United States dollar|$]]1,000 per year. In addition to the expense, there is the question of how long intensive spraying can be environmentally justified. Several resistant cultivars of banana have been developed, but none has yet received commercial acceptance due to taste and texture issues.
+
+==== In East Africa ====
+With the arrival of [[Black sigatoka]], banana production in eastern Africa fell by over 40%. For example, during the 1970s, Uganda produced {{convert|15|to|20|t}} of bananas per hectare. Today, production has fallen to only {{convert|6|t}}per hectare.
+
+The situation has started to improve as new disease-resistant cultivars have been developed by the [[International Institute of Tropical Agriculture]] and the [[National Agricultural Research Organisation of Uganda]] (NARO), such as [[FHIA-17]] (known in [[Uganda]] as the [[Kabana 3]]). These new cultivars taste different from the Cabana banana, which has slowed their acceptance by local farmers. However, by adding [[mulch]] and [[manure]] to the soil around the base of the plant, these new cultivars have substantially increased yields in the areas where they have been tried.
+
+The [[International Institute of Tropical Agriculture]] and NARO, funded by the [[Rockefeller Foundation]] and [[Consultative Group on International Agricultural Research|CGIAR]] have started trials for [[genetic engineering|genetically modified]] bananas that are resistant to both Black sigatoka and banana weevils. It is developing cultivars specifically for smallholder and subsistence farmers.
+
+===Banana Bunchy Top Virus (BBTV)===
+This [[virus]] jumps from plant to plant using [[aphid]]s. It stunts leaves, resulting in a "bunched" appearance. Generally, an infected plant does not produce fruit, although mild strains exist which allow some production. These mild strains are often mistaken for malnourishment, or a disease other than BBTV. There is no cure; however, its effect can be minimized by planting only [[plant tissue culture|tissue-cultured plants]] (in vitro propagation), controlling aphids, and immediately removing and destroying infected plants.
+
+==Uses==
+
+===Food and cooking===
+
+==== Fruit ====
+[[File:Banana and cross section.jpg|right|240px|thumb|upright=2|Peeled, whole, and longitudinal section]]
+{{nutritionalvalue
+| name=Banana, raw, edible parts
+| kJ=371
+| protein=1.09 g
+| fat=0.33 g
+| carbs=22.84 g
+| fiber=2.6 g
+| sugars=12.23 g
+| iron_mg=0.26
+| calcium_mg=5
+| magnesium_mg=27
+| phosphorus_mg=22
+| potassium_mg=358
+| zinc_mg=0.15
+| vitC_mg=8.7
+| pantothenic_mg=0.334
+| vitB6_mg=0.367
+| folate_ug=20
+| thiamin_mg=0.031
+| riboflavin_mg=0.073
+| niacin_mg=0.665
+| vitA_ug = 3
+| right=1
+| source_usda=1
+| note=One banana is 100&ndash;150 g.
+}}
+
+Bananas are the staple [[starch]] of many [[tropics|tropical]] populations. Depending upon cultivar and ripeness, the flesh can vary in taste from starchy to sweet, and texture from firm to mushy. Both skin and inner part can be eaten raw or cooked. Bananas' flavor is due, amongst other chemicals, to [[isoamyl acetate]] which is one of the main constituents of [[banana oil]].
+
+During the [[Ripening|ripening process]], bananas produce a [[plant hormone]] called [[ethylene]], which indirectly affects the flavor. Among other things, ethylene stimulates the formation of [[amylase]], an [[enzyme]] that breaks down starch into sugar, influencing the taste of bananas. The greener, less ripe bananas contain higher levels of starch and, consequently, have a "starchier" taste. On the other hand, yellow bananas taste sweeter due to higher sugar concentrations. Furthermore, ethylene signals the production of [[pectinase]], an enzyme which breaks down the [[pectin]] between the cells of the banana, causing the banana to soften as it ripens.<ref>{{cite web |title = Fruit Ripening|url = http://plantphys.info/plants_human/fruitgrowripe.shtml |accessdate =February 17, 2010}}</ref><ref>{{cite web |title = Ethylene Process |url = http://www.newton.dep.anl.gov/askasci/bot00/bot00553.htm |accessdate =February 17, 2010}}</ref>
+
+Bananas are eaten deep fried, baked in their skin in a split [[bamboo]], or steamed in [[glutinous rice]] wrapped in a banana leaf. Bananas can be made into [[fruit preserves|jam]]. Banana [[pancake]]s are popular amongst [[Backpacking (travel)|backpacker]]s and other travelers in [[South Asia]] and [[Southeast Asia]]. This has elicited the expression ''[[Banana Pancake Trail]]'' for those places in [[Asia]] that cater to this group of travelers. [[Banana chips]] are a snack produced from sliced dehydrated or fried banana or plantain, which have a dark brown color and an intense banana taste. Dried bananas are also ground to make banana flour. Extracting juice is difficult, because when a banana is compressed, it simply turns to pulp. Bananas feature prominently in [[Philippine cuisine]], being part of traditional dishes and desserts like ''[[Maruya (Filipino cuisine)|maruya]]'', ''[[Turrón (Filipino cuisine)|turrón]]'', and ''[[halo-halo]]''. Most of these dishes use the [[Saba Banana|Saba]] or Cardaba banana cultivar. [[Pisang goreng]], bananas fried with batter similar to the Filipino ''maruya'', is a popular dessert in [[Malaysia]], [[Singapore]], and [[Indonesia]]. A similar dish is known in the United States as banana fritters.
+
+Plantains are used in various stews and curries or cooked, baked or mashed in much the same way as [[potatoes]].
+
+Seeded bananas (''[[Musa balbisiana]]''), one of the forerunners of the common domesticated banana,<ref>
+''Plant Breeding Abstracts'', Commonwealth Agricultural Bureaux, 1949, p.162</ref> are sold in markets in Indonesia.
+
+==== Flower ====
+
+Banana hearts are used as a [[vegetable]]<ref>{{cite book | url = http://www.asiafood.org/glossary_1.cfm?alpha=B&wordid=3219&startno=1&endno=25 | title = Encyclopedia of Asian Food | year = 1998 | last = Solomon | first = C | publisher = New Holland Publishers | location = Australia | edition = Periplus | accessdate = 2008-05-17 | isbn = 0855616881}}</ref> in [[South Asian cuisine|South Asian]] and [[Southeast Asian cuisine]], either raw or steamed with dips or cooked in soups and curries. The flavor resembles that of [[artichoke]]. As with artichokes, both the fleshy part of the bracts and the heart are edible.
+
+==== Leaves ====
+Banana [[Banana leaf|leaves]] are large, flexible, and waterproof. They are often used as ecologically friendly disposable food containers or as "plates" in [[South Asia]] and several [[Southeast Asia]]n countries.
+Especially in the South Indian state of [[Tamil Nadu]] in every occasion the food must be served in a banana leaf and as a part of the food a banana is served.
+Steamed with dishes they impart a subtle sweet flavor. They often serve as a wrapping for grilling food. The leaves contain the juices, protect food from burning and add a subtle flavor.<ref name=morton/>
+
+==== Trunk ====
+The tender core of the banana plant's trunk is also used in [[South Asian]] and [[Southeast Asian cuisine]], and notably in the [[Burma|Burmese]] dish [[mohinga]].
+
+====Potential health effects====
+Along with other fruits and vegetables, consumption of bananas may be associated with a reduced risk of [[colorectal cancer]]<ref>{{
+cite journal | doi = 10.1080/01635589609514453 | last = Deneo-Pellegrini | first = H | coauthors = De Stefani E; Ronco A | year = 1996 | title = Vegetables, fruits, and risk of colorectal cancer: a case-control study from Uruguay | journal = Nutrition & Cancer | volume = 25 | issue = 3 | pages = 297–304 | pmid = 8771572 }}</ref> and in women, [[breast cancer]]<ref>{{
+cite journal | title = Greater vegetable and fruit intake is associated with a lower risk of breast cancer among Chinese women | last = Zhang | first = CX | coauthors = et al. | year = 2009 | volume = 125 | issue = 1 | pages = 181–8 | journal = International Journal of Cancer | pmid = 19358284 | doi = 10.1002/ijc.24358 }}</ref> and [[renal cell carcinoma]].<ref>{{
+cite journal | journal = International Journal of Cancer | year = 2005 | volume = 113 | issue = 3 | pages = 451–5 | title = Fruits, vegetables and risk of renal cell carcinoma: a prospective study of Swedish women | last = Rashidkhani | first = B |coauthors = Lindblad P; Wolk A | pmid = 15455348 | doi = 10.1002/ijc.20577 }}</ref>
+
+Individuals with a [[latex allergy]] may experience a reaction to bananas.<ref>{{
+cite journal | last = Taylor | first = JS | coauthors = Erkek E | year = 2004 | title = Latex allergy: diagnosis and management | journal = Dermatological Therapy | volume = 17 | issue = 4 | pages = 289–301 | pmid = 15327474 | doi = 10.1111/j.1396-0296.2004.04024.x }}</ref>
+
+Bananas contain moderate amounts of [[Vitamin B6|vitamin B<sub>6</sub>]], [[vitamin C]], [[manganese]] and [[potassium]],<ref>{{cite web | title = Nutrition Facts for raw banana, one NLEA serving, 126 g | source = Nutritiondata.com from Standard Reference 21 of the USDA National Nutrient Database | url = http://nutritiondata.self.com/facts/fruits-and-fruit-juices/1846/2 }}</ref> possibly contributing to [[electrolyte]] balance.
+
+In [[India]], juice is extracted from the [[corm]] and used as a [[home remedy]] for [[jaundice]], sometimes with the addition of [[honey]], and for [[kidney stone]]s.<ref>
+''Healing Power of Foods: Nature's Prescription of Common Diseases'', Pustak Mahal, 2004, ISBN 81-223-0748-5, p.49</ref>
+
+===Fiber===
+====Textiles====
+The banana plant has long been a source of [[fiber]] for high quality [[textile]]s. In [[Japan]], banana cultivation for clothing and household use dates back to at least the 13th century. In the Japanese system, leaves and shoots are cut from the plant periodically to ensure softness. Harvested shoots are first boiled in [[lye]] to prepare fibers for [[yarn]]-making. These banana shoots produce fibers of varying degrees of softness, yielding yarns and textiles with differing qualities for specific uses. For example, the outermost fibers of the shoots are the coarsest, and are suitable for [[tablecloth]]s, while the softest innermost fibers are desirable for [[kimono]] and [[hakama|kamishimo]]. This traditional Japanese cloth-making process requires many steps, all performed by hand.<ref>{{
+cite web |title =Traditional Crafts of Japan - Kijoka Banana Fiber Cloth |publisher = Association for the Promotion of Traditional Craft Industries |date = |url = http://www.kougei.or.jp/english/crafts/0130/f0130.html |accessdate = 11-12-2006}}</ref>
+
+In a [[Nepal]]ese system the trunk is harvested instead, and small pieces are subjected to a softening process, mechanical fiber extraction, bleaching and drying. After that, the fibers are sent to the [[Kathmandu Valley]] for use in [[Carpet|rug]]s with a [[silk]]-like texture. These banana fiber rugs are woven by traditional Nepalese hand-knotting methods, and are sold [[rugmark|RugMark certified]].
+
+In South Indian state of [[Tamil Nadu]] after harvesting for fruit the trunk (outer layer of the shoot) is made into fine thread used  in making of flower [[garland]]s instead of thread.
+
+==== Paper====
+{{Main|Banana paper}}
+Banana fiber is used in the production of banana paper. Banana paper is used in two different senses: to refer to a [[paper]] made from the [[bark]] of the banana plant, mainly used for artistic purposes, or paper made from banana fiber, obtained with an industrialized process from the stem and the non-usable fruits. The paper itself can be either hand-made or in industrial processes.
+
+===Cultural roles===
+{{multiple image
+ | direction = vertical
+ | width = 240
+ | image1 =Thanin market banana flowers and leaves.jpg
+ | alt1 = 
+ | caption1 = Banana flowers and leaves for sale in the Thanin market in [[Chiang Mai]], [[Thailand]].
+ | image2 = River Kaveri worship Tiruchirappalli.jpg
+ | alt2 = 
+ | caption2 = Coconut, banana and banana leaves used while worshiping [[Kaveri River|River Kaveri]] at [[Tiruchirappalli]], [[India]].
+ }}
+====Arts====
+*The song "[[Yes! We Have No Bananas]]" was written by [[Frank Silver]] and [[Irving Cohn]] and originally released in 1923; for many decades, it was the best-selling [[sheet music]] in history. Since then the song has been rerecorded several times and has been particularly popular during banana shortages.
+*A person slipping on a banana peel has been a staple of [[physical comedy]] for generations. A 1910 comedy recording features a popular character of the time, "Uncle Josh", claiming to describe his own such incident:<ref>{{
+cite web|url=http://www.archive.org/details/CalStewart_part2 |title=Collected Works of Cal Stewart part 2 |accessdate=2010-11-17 |last=Stewart |first=Cal |work=Uncle Josh in a Department Store (1910) |publisher=The Internet Archive }}</ref>
+: {{quote|Now I don't think much of the man that throws a banana peelin' on the sidewalk, and I don't think much of the banana peel that throws a man on the sidewalk neither ... my foot hit the bananer peelin' and I went up in the air, and I come down ker-plunk, jist as I was pickin' myself up a little boy come runnin' across the street ... he says, "Oh mister, won't you please do that agin? My little brother didn't see you do it."}}
+*The poet [[Matsuo Bashō|Bashō]] is named after the Japanese word for a banana plant. The "bashō" planted in his garden by a grateful student became a source of inspiration to his poetry, as well as a symbol of his life and home.<ref>Matsuo Basho: the Master Haiku Poet, Kodansha Europe, ISBN 0-87011-553-7</ref>
+*The Japanese novelist Mihoko Yoshimoto changed her name to [[Banana Yoshimoto]] because she liked banana flowers.
+
+====Symbols====
+Bananas are also humorously used as a [[phallus|phallic symbol]] due to similarities in size and shape. This is typified by the artwork of [[The Velvet Underground & Nico|the debut album]] of [[The Velvet Underground]], which features a banana on the front cover, yet on the original LP version, the design allowed the listener to 'peel' this banana to find a pink [[phallus]] on the inside.
+
+====Religion====
+In [[Burma]], bunches of green bananas surrounding a green [[coconut]] in a tray form an important part of traditional offerings to the [[Gautama Buddha|Buddha]] and the [[Nat (spirit)|Nat]]s.
+
+In all the important festivals and occasions of [[Tamil people|Tamil]]s the serving of bananas plays a prominent part. The banana ([[Tamil language|Tamil]]:{{lang|ta|வாழை}} or {{lang|ta|வாழைப்பழம்}}) is one of three fruits with this significance, the others being [[mango]] and [[jack fruit]].
+
+====East Africa====
+Most farms supply local consumption. Cooking bananas represent a major food source and a major [[income]] source for smallhold farmers. In East African highlands bananas are of greatest importance as a staple food crop. In countries such as [[Uganda]], [[Burundi]], and [[Rwanda]] per capita consumption has been estimated at {{kg to lb|45}} per year, the highest in the world.
+
+===Other uses===
+Banana sap is extremely sticky and can be used as a practical adhesive.{{Citation needed|date=December 2010}} Sap can be obtained from the [[pseudostem]], from the peelings, or from the flesh.
+
+In regions where bananas are grown, the large leaves are sometimes used as [[umbrella]]s. The pseudostems, being floatable, can be tied together to form a floatation device.<ref name=morton>{{
+cite web|url=http://www.hort.purdue.edu/newcrop/morton/banana.html#Other%20Uses |title=Banana |publisher=Hortpurdue.edu |date= |accessdate=2009-04-16}}</ref>
+
+Banana sap leaves indelible dark stains on clothes.
+
+A [[banana equivalent dose]] is used in the [[Nuclear power|nuclear]] industry to compare [[Ionizing radiation|radiation]] doses received from radioactive materials to the dose received from the [[radioactivity]] in bananas.
+
+==See also==
+{{Commons}}
+*[[Banana Cultivar Groups]]
+*''[[Ensete]]'' (false bananas)
+*[[Musa (genus)|''Musa'']]
+*''[[Musella]]''
+*[[Musaceae]]
+*[[Plantain]]
+
+==Footnotes==
+{{Reflist|colwidth=30em}}
+
+==References==
+*Denham, T., Haberle, S. G., Lentfer, C., Fullagar, R., Field, J., Porch, N., Therin, M., Winsborough B., and Golson, J. Multi-disciplinary Evidence for the Origins of Agriculture from 6950-6440 Cal BP at Kuk Swamp in the Highlands of New Guinea. ''Science'', June 2003 issue.
+* {{Cite journal | author=Editors | title=Banana fiber rugs | journal=[[Dwell (magazine)|Dwell]] | year=2006 | volume=6 | issue=7 | page= 44}} Brief mention of banana fiber rugs
+*{{Cite journal | author=Leibling, Robert W. and Pepperdine, Donna | title=Natural remedies of Arabia | journal=[[Saudi Aramco World]] | year=2006 | volume=57 | issue=5 | page= 14}} Banana etymology, banana flour.
+* Skidmore, T., Smith, P. - ''Modern Latin America'' (5th edition), (2001) New York: [[Oxford University Press]]
+*Watson, Andrew. ''Agricultural innovation in the early Islamic world'', New York: [[Cambridge University Press]], 1983.
+
+==Further reading==
+*[[Dan Koeppel]], ''Banana: The Fate of the Fruit that Changed the World'', ISBN 978-1-59463-038-5, [http://books.google.com/books?id=cSoVd-o8PmoC&dq=Banana:+The+Fate+of+the+Fruit+that+Changed+the+World]
+*Dan Koeppel, [[The New York Times]] article of June 18, 2008, [http://www.nytimes.com/2008/06/18/opinion/18koeppel.html Yes, We Will Have No Bananas]
+* [[Harriet Lamb]], "Fighting The Banana Wars and other Fairtrade Battles", ISBN 978-1-84604-083-2
+
+==External links==
+{{commons}}
+{{Wiktionary}}
+{{Wikisource1911Enc}}
+* {{dmoz|Science/Agriculture/Horticulture/Fruits/Banana/}}
+
+{{Agriculture country lists}}
+{{Banana}}
+
+[[Category:Bananas| ]]
+[[Category:Fiber plants]]
+[[Category:Flora of Jamaica]]
+[[Category:Inflorescence vegetables]]
+[[Category:Puerto Rican ingredients]]
+[[Category:Staple foods]]
+[[Category:Tropical agriculture]]
+[[Category:Tropical fruit]]
+
+{{Link FA|es}}
+{{Link FA|ru}}
+{{Link FA|te}}
+{{Link FA|uk}}
+{{Link GA|uk}}
+
+[[ace:Pisang]]
+[[ar:موز]]
+[[an:Musa × paradisiaca]]
+[[ast:Plátanu]]
+[[gn:Pakova]]
+[[ay:Puquta]]
+[[az:Banan]]
+[[bjn:Pisang]]
+[[bn:কলা (ফল)]]
+[[zh-min-nan:Kin-chio]]
+[[be:Банан]]
+[[be-x-old:Банан]]
+[[bo:ངང་ལག]]
+[[bs:Banana]]
+[[br:Bananez]]
+[[bg:Банан]]
+[[ca:Banana]]
+[[cs:Banán]]
+[[co:Banana]]
+[[cy:Banana]]
+[[da:Banan]]
+[[de:Dessertbanane]]
+[[dv:ދޮންކެޔޮ]]
+[[nv:Hashkʼaan (łitsooígíí)]]
+[[et:Banaan]]
+[[el:Μπανάνα]]
+[[es:Musa × paradisiaca]]
+[[eo:Banano]]
+[[eu:Banana]]
+[[ee:Akɔɖu]]
+[[fa:موز]]
+[[fr:Banane]]
+[[gv:Bananey]]
+[[gd:Banana]]
+[[gl:Banana]]
+[[gan:香蕉]]
+[[gu:કેળાં]]
+[[hak:Khiûng-tsiâu]]
+[[ko:바나나]]
+[[hi:केला]]
+[[hsb:Bananowc]]
+[[hr:Banana]]
+[[io:Banano]]
+[[id:Pisang]]
+[[ia:Banana]]
+[[is:Banani]]
+[[it:Banana]]
+[[he:בננה]]
+[[jv:Gedhang]]
+[[kn:ಬಾಳೆ ಹಣ್ಣು]]
+[[pam:Sagin]]
+[[ka:ბანანი]]
+[[rw:Umuneke]]
+[[sw:Ndizi]]
+[[ht:Bannann]]
+[[la:Musa (genus)]]
+[[lv:Banāns]]
+[[lt:Bananas]]
+[[jbo:badna]]
+[[lmo:Musa]]
+[[hu:Banán]]
+[[mk:Банана]]
+[[mg:Akondro]]
+[[ml:വാഴ]]
+[[mr:केळ]]
+[[arz:موز]]
+[[ms:Pisang]]
+[[mn:Гадил]]
+[[nah:Zapalōtl]]
+[[fj:Jaina]]
+[[nl:Banaan (fruit)]]
+[[ne:केरा]]
+[[cr:ᐋᐧᑳᐢ]]
+[[ja:バナナ]]
+[[no:Bananer]]
+[[nn:Banan]]
+[[pnb:کیلا]]
+[[km:ចេក]]
+[[pcd:Banade]]
+[[pl:Banan]]
+[[pt:Banana]]
+[[ro:Banană]]
+[[qu:Puquchi]]
+[[ru:Банан]]
+[[sco:Bananae]]
+[[sq:Bananja]]
+[[scn:Banana]]
+[[si:කෙසෙල්]]
+[[simple:Banana]]
+[[sk:Banán]]
+[[sl:Bananovec]]
+[[so:Moos]]
+[[sr:Банана]]
+[[sh:Banana]]
+[[su:Cau]]
+[[fi:Banaani]]
+[[sv:Banan]]
+[[tl:Saging]]
+[[ta:வாழை]]
+[[te:అరటి]]
+[[th:กล้วย]]
+[[to:Fusi]]
+[[tr:Muz]]
+[[tum:Ntochi]]
+[[uk:Банан]]
+[[ur:کیلا]]
+[[vi:Chuối]]
+[[vls:Bananne]]
+[[war:Saging]]
+[[yi:באנאנע]]
+[[yo:Ọ̀gẹ̀dẹ̀]]
+[[zh-yue:蕉]]
+[[bat-smg:Banans]]
+[[zh:香蕉]]

@@ -1,0 +1,26 @@
+input file: _sample_data/synthetic/index/model.input
+#data input mode: sequential
+input dict file: _sample_data/synthetic/index/term_to_id.txt
+input tag dict file: _sample_data/synthetic/index/tag_to_id.txt
+num topics: 2
+
+# Number of iterations 
+# -------------------- # 
+em iter: 5
+em var iter: 80
+
+# the model root directory where the training model will be stored
+# ---------------------------------------------------------------- #
+model root dir: _sample_data/synthetic/taglda_store/train/2
+
+# the symmetric dirichlet prior for topic proportions
+# --------------------------------------------------- #
+topic proportion prior : 0.5
+
+# standard deviation for the regularizer used in the topic-word parameter update (default is 1)
+# --------------------------------------------------- #
+topic word regularizer stddev : 1
+
+# standard deviation for the regularizer used in the tag-word parameter update (default is 1)
+# --------------------------------------------------- #
+tag word regularizer stddev : 1

@@ -1,0 +1,93 @@
+{{About|keyboards on musical instruments|instruments referred to as "keyboards"|Keyboard instrument}}
+[[File:Klaviatur-3-en.svg|300px|thumb|Layout of a musical keyboard (three [[octave]]s shown)]]
+[[File:D274.jpg|thumb|The musical keyboard of a [[Steinway & Sons|Steinway]] concert grand piano]]
+A '''musical keyboard''' is the set of adjacent depressible levers or keys on a [[musical instrument]], particularly the [[piano]]. Keyboards typically contain keys for playing the twelve notes of the Western [[musical scale]], with a combination of larger, longer keys and smaller, shorter keys that repeats at the interval of an [[octave]]. Depressing a key on the keyboard causes the instrument to produce sounds, either by mechanically striking a string or tine ([[piano]], [[electric piano]], [[clavichord]]); plucking a string ([[harpsichord]]); causing air to flow through a pipe ([[organ (music)|organ]]); or strike a bell ([[carillon]]). On electric and electronic keyboards, depressing a key connects a circuit ([[Hammond organ]], [[digital piano]], [[synthesizer]]). Since the most commonly encountered keyboard instrument is the piano, the keyboard layout is often referred to as the "piano keyboard".
+
+==Description==
+[[File:Clavecin flamand.png|thumb|Harpsichord with black keys for the [[C major]] [[Musical scale|scale]]]] 
+The twelve notes of the Western [[musical scale]] are laid out with the lowest note on the left;<ref>An exception is the [[hurdy gurdy]], whose crank is turned with the left hand.</ref> the longer keys (for the seven "natural" notes of the [[C major]] [[Musical scale|scale]]: C, D, E, F, G, A, B) [[wikt:jut|jut]] forward. Because these keys were traditionally covered in [[ivory]] they are often called the ''white notes'' or ''white keys''. The keys for the remaining five notes which are not part of the C major scale (namely C{{Music|#}}/D{{Music|b}}, D{{Music|#}}/E{{Music|b}}, F{{Music|#}}/G{{Music|b}}, G{{Music|#}}/A{{Music|b}}, A{{Music|#}}/B{{Music|b}}) (see [[Sharp (music)|Sharp]] and [[Flat (music)|Flat]]) are raised and set back<!-- Note: "back", not "black" -->. Because these keys receive less wear, they are often made of black colored wood and called the ''black notes'' or ''black keys''. The pattern repeats at the interval of an [[octave]].
+
+The arrangement of longer keys for C major with intervening, shorter keys for the intermediate semitones dates to the 15th century. Many keyboard instruments dating from before the nineteenth century, such as harpsichords and pipe organs, have a keyboard with the colours of the keys reversed: the ''white notes'' are made of ebony and the ''black notes'' are covered with softer white bone. A few electric and electronic instruments from the 1960s and subsequent decades have also done this; Vox's electronic organs of the 1960s, Farfisa's FAST portable organs, Hohner's [[Clavinet]] L, one version of Korg's Poly-800 synthesizer and Roland's digital harpsichords. 
+
+Some 1960s electronic organs used reverse colors or gray sharps or naturals to indicate the lower part(s) of a split or 'broken' keyboard: one which is divided into two parts, each of which produces a different [[Registration (organ)|Registration]] or sound. Such keyboards allow melody and contrasting accompaniment to be played without the expense of a second [[Manual (music)|manual]] and were a regular feature in Spanish and some English organs of the renaissance and baroque. The break was between [[middle C]] and [[C♯ (musical note)|C-sharp]], or outside of Iberia between B and C. Broken keyboards reappeared in 1842 with the [[harmonium]], the split occurring at [[Scientific pitch notation|e4]]/f4.
+
+The reverse-colored keys on [[Hammond organ]]s such as the B3, C3 and A100 are latch-style [[radio button]]s for selecting pre-set sounds.
+
+==Size and historical variation==
+[[File:Syntagma musicum025.gif|thumb|left|Keyboards of [[Halberstadt organ|Nicholas Faber's organ]] for [[Halberstadt]], built in 1361 and enlarged 1495. The illustration is from [[Michael Praetorius|Praetorius]]' ''[[Syntagma Musicum]]'' (1619). At the top is the earliest example of the "seven plus five" layout. The bottom two illustrate the earlier "eight plus four" arrangement]]
+The chromatic compass of keyboard instruments has tended to increase. Harpsichords often extended over five octaves (61+ keys) in the 18th century, while most pianos manufactured since about 1870 have 88 keys. Some modern pianos have even more notes (a [[Bösendorfer]] 225 has 92 and a Bösendorfer 290 "Imperial" has 97 keys). While modern synthesizer keyboards commonly have either 61, 76 or 88 keys, small MIDI controllers are available with 25 notes. Organs normally have 61 keys per manual, though some spinet models have 44 or 49. An organ [[Pedal keyboard|pedalboard]] is a keyboard with long pedals which are played by the organist's feet. Pedalboards vary in size from 12 to 32 notes.
+
+In a typical keyboard layout, ''black note'' keys have uniform width, and ''white note'' keys have uniform width and uniform spacing at the front of the keyboard. In the larger gaps between the ''black'' keys, the width of the natural notes C, D and E differ slightly from the width of keys F, G, A and B. This allows close to uniform spacing of 12 keys per octave while maintaining uniformity of seven "natural" keys per octave.
+
+Over the last three hundred years, the octave span distance found on historical keyboard instruments (organs, [[virginals]], [[clavichord]]s, [[harpsichord]]s, and [[piano]]s) has ranged from as little as 125&nbsp;mm to as much as 170&nbsp;mm. Modern piano keyboards ordinarily have an octave span of 164–165&nbsp;mm; resulting in the width of black keys averaging 13.7&nbsp;mm and white keys about 23.5&nbsp;mm wide at the base, disregarding space between keys. Several reduced-size standards have been proposed and marketed. A 15/16 size (152&nbsp;mm octave span) and the 7/8 DS Standard (140&nbsp;mm octave span) keyboard developed by [[Christopher Donison]] in the 1970s and developed and marketed by [[Steinbuhler & Company]]. U.S. pianist [[Hannah Reiman]] has promoted piano keyboards with narrower octave spans and has a U.S. patent on the apparatus and methods for modifying existing pianos to provide interchangeable keyboards of different sizes.<ref>[http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=/netahtml/PTO/srchnum.htm&r=1&f=G&l=50&s1=6,020,549.PN.&OS=PN/6,020,549&RS=PN/6,020,549 Reimann, Hannah: Patent claim #6,020,549], August 10, 1998</ref>
+
+There have been variations in the design of the keyboard to address technical and musical issues. The earliest designs of keyboards were based heavily on the notes used in [[Gregorian chant]] (the seven diatonic notes plus B-flat) and as such would often include B{{music|b}} and B{{music|natural}} both as diatonic "white notes," with the B{{music|natural}} at the leftmost side of the keyboard and the B{{music|b}} at the rightmost. Thus, an octave would have ''eight'' "white keys" and only four "black keys." The emphasis on these eight notes would continue for a few centuries after the "seven and five" system was adopted, in the form of the [[short octave]]: the eight aforementioned notes were arranged at the leftmost side of the keyboard, compressed in the keys between E and C (at the time, accidentals that low were very uncommon and thus not needed). During the sixteenth century, when instruments were often tuned in [[meantone temperament]], some harpsichords were constructed with the G{{Music|#}} and E{{Music|b}} keys split into two. One portion of the G{{Music|#}} key operated a string tuned to G{{Music|#}} and the other operated a string tuned to A{{Music|b}}, similarly one portion of the E{{Music|b}} key operated a string tuned to E{{Music|b}}, the other portion operating a string tuned to D{{Music|#}}. This type of keyboard layout, known as the [[enharmonic keyboard]], extended the flexibility of the harpsichord, enabling composers to write keyboard music calling for harmonies containing the so-called ''[[Wolf interval|wolf]]'' fifth (G-sharp to E-flat), but without producing aural discomfort in the listeners (''see: [[Split sharp]]''). The "broken octave," a variation of the aforementioned short octave, similarly used split keys to add accidentals left out of the Other examples of variations in keyboard design include the [[6-plus-6-instruments|6-plus-6]] system like the [[Janko keyboard]] and the chromatic keyboard systems on the [[chromatic button accordion]] and [[bandoneón]].
+
+On electric and electronic keyboards, there is an electric switch under each key. Depressing a key connects a circuit, which causes the tone generation mechanism to be triggered. Most electronic keyboards use a [[keyboard matrix (music)|matrix circuit]] in which the rows and columns are made up of wiring. Without a matrix circuit, a 61-key keyboard would have to have 61 wires into the integrated circuit of the keyboard. With the matrix circuit, the entire keyboard can send signals to the integrated circuit with two matrices of eight wires that are conceptually arranged into columns and rows. The keyboard controller scans all of the columns, to determine if a key has been pressed. If a key in the column has been pressed, then the controller scan the rows, to determine which row has been activated. In a manner analogous to the children's board game "Battleship!", the keyboard controller determines which key has been pressed, and then closes the switch for that key's note. This entire process takes place so quickly that the performer is not aware of the delay.<ref>[http://www.dribin.org/dave/keyboard/one_html/ Dave Dribin: "Keyboard Matrix Help"], (June 24, 2000)</ref>
+
+==Playing techniques==
+Despite their apparent similarity, keyboard instruments of different types require different techniques. For instance, a piano will produce a louder note the faster the key is pressed. On the other hand, the volume and timbre of the sound on the [[pipe organ]] are dictated by the flow of air from the bellows and the stops selected by the player; in the harpsichord the strings are plucked and the volume of the note is not perceptibly varied by using a different touch on the keyboard. Players of these instruments must use other techniques to color the sound. The [[Electronic keyboard|arranger keyboard]] uses preset drum rhythms that respond to chords played in the left hand by the instrumentalist, with other buttons and switches used to change rhythms and even the voice of the instrument.
+[[File:Piano_keyboard2010.JPG|thumb|A typical piano keyboard]]
+Playing a keyboard instrument can prove to be a challenging task; even though the layout is quite simple and all notes are easily accessible, some music puts high demand on the performer's skills to play accurately and in [[tempo]], and beginners will often struggle to produce a passable rendition of a simple piece due to [[wikt:technique|technique]] deficiency, which takes training to improve. The sequence of movements executed by the playing hand can be almost arbitrarily complicated, with some possible problems being wide-spanned [[Chord (music)|chords]], which can be problematic for people with small hands, chords that require unusual hand positions which can initially be uncomfortable or even painful, and also fast [[Musical scale|scales]], [[Trill (music)|trills]] and [[arpeggio]]s.
+
+
+Playing instruments with dynamic keyboards (i.e. ones that respond to varying force with which the key is struck) may require independence of the fingers so that some fingers are able to strike harder while others play more softly. Players need to learn to coordinate two hands and use them independently. Most music is written for two hands; typically the right hand plays the [[melody]] in the [[Clef#Treble clef|treble]] range, while the left plays an accompaniment of bass notes and chords in the [[Clef#Bass clef|bass]] range. There exist pieces of non-trivial music written for the left hand alone, e.g. several of the [[Leopold Godowsky|Godowsky's]] [[Studies on Chopin's Études|53 Studies on Chopin's Etudes]] and [[Maurice Ravel|Ravel's]] [[Piano Concerto for the Left Hand (Ravel)|Piano Concerto for the Left Hand]]. In music that uses [[counterpoint]] technique, both hands play different melodies at the same time.
+
+==Other uses==
+[[File:Telegraph Keyboard.jpg|thumb|Keyboard of a Letter-Printing Telegraph Set built by [[Siemens & Halske]] in Saint Petersburg, Russia, ca.&nbsp;1900]]
+A number of percussion instruments share the keyboard layout, although they are not keyboard instruments with levers that are depressed to sound the notes. Instead, the performer of instruments such as the [[xylophone]], [[marimba]], [[vibraphone]], and [[glockenspiel]] strikes the separate-sounding tone bar of metal or wood for each note using a mallet. These bars are laid out in the same configuration as a common keyboard.
+
+There are some examples of a musical keyboard layout used for non-musical devices. For example, some of the earliest [[printing telegraph]] machines used a layout similar to a piano keyboard.<ref>George M. Phelps, {{US patent|0026003}} ''Improvement in Telegraphic Machines'' issued November 1, 1859</ref><ref>[http://www.telegraph-history.org/george-m-phelps/house.htm The House Printing Telegraph (image)]</ref>
+
+==Keyboards with alternate keys==
+There are some rare variations of keyboards with more or fewer than 12 keys per octave, mostly used in [[microtonal music]], after the discoveries and theoretical developments of musician and inventor [[Julian Carrillo]] (1875–1965).
+
+Some free-reed instrument keyboards such as [[accordion]]s and Indian [[harmonium]]s include microtones. Electronic music pioneer [[Pauline Oliveros]] plays one of these. Egyptian belly-dance musicians like Hassam Ramzy use custom-tuned accordions in order to play traditional scales. The small [[Garmon]] accordion played in the [[Music of Azerbaijan]] sometimes has keys that can play microtones when a "shift" key is pressed.
+[[File:Frequencies of the audible range on a twelve and eight equal tempered scale.jpg|1000px|center|thumb|Frequencies of the audible range on a twelve and eight equal tempered scale]]
+
+==See also==
+*[[Keytar]]
+*[[Piano key frequencies]]
+
+==References==
+<references />
+*{{cite book|title=A Guide to the Harpsichord|first=Ann|last=Bond|publisher=Amadeus Press|year=1997|isbn=1-57467-063-8}}
+
+==External links==
+{{Commons cat|Keyboard instruments}}
+* [http://keyboardpiano.net Learn to Play Piano on Keyboard Online]
+*[http://www.piano-play-it.com/layout-piano-keys.html A Piano Keyboard Layout by Piano Play It], A full layout of the Piano Keyboard with an excellent free piano tutorial
+*[http://www.keyboardmag.com/ Keyboard Magazine], selections from magazine, along with multimedia examples
+*[http://www.synthtopia.com/ Electronic Keyboard News], news and reviews of keyboards, synthesizers and synth modules
+*[http://keychord.com Keyboard Chords], chords for keyboards
+*[http://www.mathpages.com/home/kmath043.htm MathPages], mathematical discussion of the distribution of the keys
+*[http://www.quiz-tree.com/Music_The-Keyboard_1_image.html Keyboard quiz]
+*[http://www.johnsankey.ca/action.html The Keyboard of a Harpsichord]
+*[http://www.instrumentjunction.com Instrument Junction], large number of keyboard and piano related articles
+*[http://www.balanced-keyboard.com Balanced Keyboard], A modified symmetrical layout of the standard keyboard. The website shows how to build your own.
+*[http://www.playpianoonkeyboard.com Play Piano On Keyboard], Learn how to play piano on keyboard with many videos and articles
+
+[[Category:Keyboard instruments]]
+
+[[ar:أورغ كهربائي]]
+[[ca:Teclat (música)]]
+[[cs:Klaviatura]]
+[[cy:Allweddell]]
+[[da:Klaviatur]]
+[[de:Klaviatur]]
+[[et:Klaviatuur (muusika)]]
+[[eo:Klavaro (muziko)]]
+[[fa:صفحه‌کلید (موسیقی)]]
+[[fr:Clavier (musique)]]
+[[hr:Klavijatura]]
+[[it:Tastiera (musica)]]
+[[nl:Klavier (toetsen)]]
+[[ja:鍵盤 (楽器)]]
+[[no:Klaviatur]]
+[[pl:Klawiatura muzyczna]]
+[[pt:Teclado (instrumento musical)]]
+[[sl:Klaviatura]]
+[[sv:Klaviatur]]
+[[th:ลิ่มนิ้ว]]
+[[tr:Klavye (müzik)]]
+[[zh:鍵盤 (樂器)]]

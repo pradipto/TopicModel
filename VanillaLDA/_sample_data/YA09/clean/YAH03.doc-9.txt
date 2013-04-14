@@ -1,0 +1,11 @@
+1. Like some people said before, using a browser with the least amount of vulnerabilities does help. Instead of using Internet Explorer, you could use Firefox, Opera, Netscape, Safari, etc.
+
+2. It's best to find a good anti-virus program out there. If your looking for something free, AVG is your best bet since it seems to be popular among users and does fairly well when checking your computer. If your looking for something that your willing to pay for, there are some programs out there such as McAfree, Avast, NOD32, and many others. All of these are great, but I use NOD32 because it uses the least amount of system resources, it does comprehensive scans of your computer, and can also block out incoming malware. Never ever use two anti-virus software at once. It can cause conflicts with each other and it could mess around with your system.
+
+3. Find good anti-spyware programs. There are many good programs out there that are free. Many people tend to use Ad-aware SE Personal, Spybot: Search & Destroy, Spysweeper, and many others. It's best to use two in conjunction since one program can't catch everything. I like to use Ad-aware and Spybot together because both of them can catch most of the spyware/adware hidden in your computer and there free!
+
+4. Using something heuristic. Sounds a bit odd, but you may want to use something called Hijackthis. It's sort of a odd way of looking for malware. It creates a log file that helps a person look for malware in their computer. If you have no idea on how to read it, it's best to post this in a forum where they have special sections for these types of things. There are many forums out there, you just have to search for them on search engines.
+
+5. Having a firewall helps. Just plain and simple.
+
+I'm not saying that you should use the programs that I use. Seriously, look around the internet and in reality and ask questions. See what other people recommend and make the right decision on your own.

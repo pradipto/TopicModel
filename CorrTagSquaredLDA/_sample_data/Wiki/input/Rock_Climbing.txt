@@ -1,0 +1,182 @@
+{{Climbing Terms}}
+{{Rock climbing}}
+[[Image:Valkyrie (The Roaches).jpg|thumb|Climbers on "Valkyrie" at [[the Roaches]], [[UK]]]] 
+'''Rock climbing''' is a [[sport]] in which participants climb up or across natural [[Rock (geology)|rock]] formations or artificial [[climbing wall|rock walls]]. The goal is to reach the [[Summit (topography)|summit]] of a formation or the endpoint of a pre-defined route.  Rock [[climbing competitions]] have objectives of completing the route in the quickest possible time or the farthest along an ever increasingly harder route.  Rock climbing is similar to [[scrambling]] (another activity involving the scaling of hills and similar formations), but climbing is generally differentiated because of the use of hands to support the climber's weight as well as to provide balance.
+
+Rock climbing is a physically and mentally demanding sport, one that often tests a climber's strength, endurance, agility, and balance along with his mental control.  It can be a dangerous sport and knowledge of proper [[climbing technique]]s and usage of specialized [[climbing equipment]] is crucial for the safe completion of routes.  Because of the wide range and variety of rock formations around the world, rock climbing has been separated into several different styles and sub-disciplines that are described below.<ref>[[Mountaineering: The Freedom of the Hills]], Swan Hill Press; 6th Revised edition edition (14 Oct 1997) ISBN 1840370017 ISBN 978-1840370010</ref> While not an Olympic event, rock climbing is recognised by the [[International Olympic Committee]] as a sport.
+
+==History==
+{{Main|History of rock climbing}}
+[[File:Fotothek df ps 0000628 Sport ^ Felsen.jpg|thumb|Climbing in Germany, ca. 1965. Note the lack of intermediate protection points & the potentially deadly tie-in method,, which demonstrate the maxim of the day, "The leader must not fall".]]
+Although rock climbing was an important component of [[Victorian era|Victorian]] [[mountaineering]] in the [[Alps]], it is generally thought that the ''sport'' of rock climbing began in the last quarter of the nineteenth century in various parts of Europe. Rock climbing evolved gradually from an alpine necessity to a distinct athletic activity. 
+
+[[Aid climbing]] (climbing using equipment that acts as artificial hand- or footholds) became popular during the period 1920 - 1960, leading to ascents in the [[Alps]] and in [[Yosemite Valley]] that were considered impossible without such means. However, climbing techniques, equipment, and ethical considerations have evolved steadily, and today, [[free climbing]] (climbing on holds made entirely of natural rock, using gear solely for protection and not for upward movement) is the most popular form of the sport.  Free climbing has since been divided into several [[Climbing styles|sub-styles of climbing]] dependent on [[belaying|belay]] configuration (described below).
+
+Over time, [[Grade (climbing)|grading systems]] have also been created in order to more accurately compare the relative difficulties of climbs.
+
+== Rock climbing basics ==
+{{See also|Climbing techniques}}
+[[File:Joshua Tree bouldering - Stem Gem 2.jpg|thumb|left|Bouldering in [[Joshua Tree National Park]], [[USA]]]]
+
+At its most basic, rock climbing involves climbing a route with one's own hands and feet and little more than a cushioned [[bouldering pad]] in the way of protection.  This style of climbing is referred to as [[bouldering]], since the relevant routes are usually found on [[boulder]]s no more than 10 to 15 feet tall.
+
+As routes get higher off the ground, the increased risk of life-threatening injuries necessitates additional safety measures.  A variety of specialized [[climbing techniques]] and [[climbing equipment]] exists to provide that safety, and climbers will usually work in pairs and utilize a system of ropes and [[Anchor (climbing)|anchors]] designed to catch falls.  Ropes and anchors can be configured differently to suit many styles of climbing, and roped climbing is thus divided into further sub-types that vary based on how their [[belay]] systems are set up.  The different styles are described in more detail below, but, generally speaking, beginners will start with [[top roping]] and/or easy [[bouldering]], and work their way up to [[lead climbing]] and beyond.
+
+===Top-roping===
+In top-roping, an anchor is set up at the summit of a route prior to the start of a climb.  Rope is run through the anchor; one end attaches to the climber and the other to the [[belay]]er, who keeps the rope taut during the climb and prevents long falls. This type of climbing is widely regarded as the safest type of climbing, with the lowest chance of injury. It is also the first type of climbing most people do when learning to climb, as it allows the climber to climb freely and the belayer to learn how to belay more proficiently.
+
+===Lead climbing===
+[[File:Joshua Tree - Illusion Dweller 10.jpg|Leader belays the second on ''Illusion Dweller'' in  [[Joshua Tree National Park]], [[USA]]|thumb]]
+In lead climbing, one person, called the "leader", will climb from the ground up with rope directly attached to their harness (and not through a top anchor) while the other, called the "second", "belays" the leader by feeding out enough rope to allow upward progression without undue slack. As they progress, the leader clips the rope through intermediate points of protection such as active cams, or passive protection such as nuts. They also may clip into pre-drilled bolts; this limits the length of a potential fall.
+
+Because the climbing rope is of a fixed length, the leader can only climb a certain distance. Thus longer routes are broken up into several "pitches"; this is called "multi-pitching". At the top of a pitch, the "leader" sets up an anchor, and then belays the "second" up to the anchor; as the "second" follows the route taken by the "leader" they remove the equipment placed along the way in order to use it again on the next "pitch." Once both are at the anchor, the "leader" begins climbing the next pitch and so on until they reach the top.
+
+In either case, upon completion of a route, climbers can walk back down (if an alternate descent path exists) or [[abseiling|rappel (abseil)]] down with the rope.
+
+===Grading systems===
+Climbing communities in many countries and regions have developed their own [[grade (climbing)|rating systems for routes]]. Ratings (or "grades") record and communicate consensus appraisals of difficulty. (Hence, there may be occasional disagreements arising from physiological or stylistic differences among climbers.) The ratings take into account multiple factors affecting a route, such as the slope of the ascent, the quantity and quality of available handholds, the distance between holds, ease of placing protection, and whether advanced technical maneuvers are required.  Whilst height of a route is generally ''not'' considered a factor, a long series of sustained hard moves will often merit a higher grade than a single move of the same technical difficulty. The typical rating system for top-roping and lead climbing is from 5.2-5.15b. There can be debate on the difficulty rating. Typically the rating for the hardest move on the wall will be the rating for the whole climb, although sometimes climbs are rated for endurance factor.  For example, a climb can have multiple 5.11 moves with no rests and thus be rated 5.12. The scale for bouldering is from V0 to V16.
+
+===Climbing environments===
+Climbs can occur either outdoors on varying types of rock or indoors on specialized [[climbing wall]]s.  Outdoors, climbs usually take place on sunny days when the holds are dry and provide the best grip, but climbers can also attempt to climb at night or in adverse weather conditions if they have the proper training and equipment. However, night climbing or climbing in adverse weather conditions will increase the difficulty and danger on any climbing route.
+
+== Styles of rock climbing ==
+[[Image:Morialta Toproping.JPG|thumb|right|[[Top roping]] ''Balthazar'' (12), in the [[Morialta Conservation Park]] near [[Adelaide, South Australia]].  Top roping is the most accessible style of climbing for beginners.]]
+{{Main|Climbing styles}}
+
+Most of the climbing done in modern times is considered [[free climbing]]---climbing using one's own physical strength with equipment used solely as protection and not as support—as opposed to [[aid climbing]], the gear-dependent form of climbing that was dominant in the sport's earlier days.  Free climbing is typically divided into several styles that differ from one another depending on the equipment used and the configurations of their belay, rope, and anchor systems (or the lack thereof).
+
+*[[Aid Climbing]] - Still the most popular method of climbing big walls.  Progress is accomplished by repeatedly placing and weighting gear which is used directly to aid ascent and enhance safety.
+*[[Traditional climbing]] - Traditional or Trad Climbing involves rock climbing routes in which protection against falls is placed by the climber while ascending. Gear is used to protect against falls but not to aid the ascent directly.
+*[[Sport Climbing]] - Unlike Traditional Rock Climbing, Sport Climbing involves the use of protection (bolts) or permanent anchors which are attached to the rock walls.
+*[[Bouldering]] - Climbing on short, low routes without the use of the safety rope that is typical of most other styles.  Protection, if used at all, typically consists of a cushioned [[bouldering pad]] below the route and/or a ''spotter'', a person who watches from below and directs the fall of the climber away from hazardous areas. Bouldering may be an arena for intense and relatively safe competition, resulting in exceptionally high difficulty standards.
+*[[Free climbing]] - The most commonly used method to ascend climbs refers to climbs where the climber's own physical strength and skill are relied on to accomplish the climb. Free climbing may rely on top rope belay systems, or on lead climbing to establish protection and the belay stations. Anchors, ropes, and protection are used to back up the climber and are passive as opposed to active ascending aids. Subtypes of free climbing are [[trad climbing]] and [[sport climbing]]. Free climbing is generally done as "clean lead" meaning no pitons or pins are used as protection.<ref>{{cite book|url=http://books.google.com/books?id=0OQZ8LUJYCAC&pg=PA13&lpg=PA13&dq=freeclimbing+define&source=bl&ots=bOi_hW8egs&sig=rh7friS5TWhuiHODjztR4yXsDJE&hl=en&ei=CP7XSffrFpK-Mo2yzeEO&sa=X&oi=book_result&ct=result&resnum=9#PPA11,M1 |title=Traditional Lead Climbing: A Rock ... - Google Books |publisher=Books.google.com |date= |accessdate=2010-12-23}}</ref>
+*[[Free soloing]] (not to be confused with free climbing) is single-person climbing without the use of any rope or protection system whatsoever.  If a fall occurs and the climber is not over water (as in the case of [[deep water soloing]]), the climber is likely to be killed or seriously injured.  Though technically similar to bouldering, free solo climbing typically refers to routes that are far taller and/or far more lethal than bouldering. The term "highball" is used to refer to climbing on the boundary between soloing and bouldering, where what is usually climbed as a boulder problem may be high enough for a fall to cause serious injury and hence could also be considered to be a free solo.
+*[[Roped solo climbing|Solo aid]] - Free soloing in which the climber wears a harness and a carries limited protection but doesn't use a rope. The climber may free solo or scramble much of the route but use protection only where safety demands it. Doing so involves placing gear overhead which is then attached to the climber via a short length of cord to his or her harness. The climber then climbs above the protection and reaches down to remove the gear before proceeding- possibly after placing another protection point and attaching to it via a second loop of cord.  This "leap frogging" or "boot strapping" technique is akin to gear conservation techniques that may be used in traditional climbing. Solo aid may or may not use gear to directly assist ascent.
+
+[[File:Grimpeurs Voiron 2b.jpg|thumb|Indoor Climbing]]
+*'''Indoor Climbing''' - With indoor rock climbing you can train year round and improve your climbing skills and techniques. 
+*[[Scrambling]] - Scrambling basically uses hands and feet when going up ridges, rock faces, or buttresses. Scrambling differs from "technical" climbing: in terms of the terrain [[Grade (climbing)|grade]] in the Yosemite decimal system scrambling is possible on anything less than [[Grade (climbing)|fifth class]].  Most scrambling is done in a "free solo" style. However, it is not uncommon for climbers to use ropes and protection on an exposed climb that is technically considered a scramble.
+*'''Deep Water Soloing''' - Similar to free soloing in that the climber is unprotected and without a rope, but different in that if the climber falls, it is into deep water instead of on to the ground.  Deep water soloing over salt water reduces the life of climbing shoes.
+*[[Mixed climbing]] - A combination of ice and rock climbing, often involving specialized ice climbing slippers and specialized ice tools.
+*[[Roped solo climbing|Rope soloing]] - Solo climbing with a rope secured at the beginning of the climb allowing a climber to self-belay as they advance.  Once the pitch is completed the soloist must descend their rope to clean their gear and reclimb the pitch.  This form of climbing can be conducted free or as a form of aid climbing.
+*[[Simul climbing]] - When two climbers move at the same time.  The pseudo-lead climber places gear that the pseudo-follower collects.  When the leader runs low on gear they construct a belay station where the follower can join them to exchange gear.  The stronger climber is often the pseudo-follower since a fall by the follower would pull the leader from below towards the last piece of gear—a potential devastating fall for the leader.  In contrast, a fall from the leader would pull the follower from above, resulting in a less serious fall.  Most speed ascents involve some form of simul climbing but may also include sections of standard free climbing and the use of placed gear for advancement (i.e. partial aid or pulling on gear).
+
+[[File:Climbing in Joshua Tree NP - 2.jpg|thumb|Top roping]]
+*[[Top roping]] - Climbing with the protection of a rope that's already suspended through an anchor (or also known as a "Top Rope System") at the top of a route.  A [[belayer]] controls the rope, keeping it [[taut]], and prevents long falls.  Most [[Indoor climbing]] or "gym climbing" is top roping on indoor purpose-made [[climbing wall]]s although it is also common to boulder and sport climb indoors.  Gym climbing is used as training for outside climbing, but some climb indoors exclusively.  Due to its simplicity and reduced risk, most beginners are introduced to climbing through top-roping.
+
+== Criticism of rock climbing ==
+=== Cultural ===
+Some areas that are popular for climbing are also sacred places for indigenous peoples.  Many such indigenous people would prefer that climbers not climb these sacred places and have made this information well known to climbers.  A well known example is the rock formation that Americans have named [[Devils Tower National Monument]]<ref>[http://www.nps.gov/archive/deto/deto_climbing/detosumm.html Devils Tower National Monument FINAL CLIMBING MANAGEMENT PLAN]</ref>. Native American cultural concerns also led to complete climbing closures at Cave Rock at [[Lake Tahoe]]<ref>[http://www.fs.fed.us/r5/ltbmu/projects/cave-rock/ Cave Rock Climbing Closure Becomes Permanent]</ref>, [[Monument Valley]], [[Shiprock]] & [[Canyon de Chelly]]<ref>[http://gorp.away.com/gorp/books/excerpts/ship.htm Climbing Shiprock: Going Up On Native Land]</ref>.
+
+In [[Australia]], the well known monolith [[Uluru]] is sacred to local indigenous communities and climbing is banned on anything but the established ascent route (and even then climbing is discouraged). 
+
+Indigenous peoples are not the only cultures that object to climbing on certain rock formations. Professional climber [[Dean Potter]] kicked off a major controversy when he ignored long-accepted convention to scale [[Delicate Arch]] in 2006, resulting in strict new climbing regulation in [[Arches National Park]].<ref>[http://www.nationalparkstraveler.com/2010/07/arches-national-park-developing-formal-climbing-canyoneering-management-plan6224 Arches National Park Developing Formal Climbing and Canyoneering Plan]</ref>
+
+Climbing activities can sometimes encroach on [[rock art]] sites created by various Native American cultures and early European explorers and settlers. The potential threat to these resources has led to climbing restrictions and closures in places like [[Hueco Tanks]], [[Texas]]<ref>[http://www.huecotanks.com/TPWD/TPWDdraft2.htm Review of the Public Use Plan for Hueco Tanks SHP]</ref> and portions of [[City of Rocks]], [[Idaho]]<ref>[http://findarticles.com/p/articles/mi_qn4188/is_20060717/ai_n16538740 Climbers seeking to overturn ban on scaling towers]</ref>.
+
+=== Environmental ===
+Although many climbers adhere to "minimal impact" and "[[Leave No Trace|leave no trace]]" practices, rock climbing is sometimes damaging to the environment.  Common environmental damages include: soil [[erosion]], chalk accumulation, litter, abandoned bolts and ropes, human excrement, introduction of foreign plants through seeds on shoes and clothing, and damage to native plant species, especially those growing in cracks and on ledges as these are often intentionally removed during new route development through a process commonly referred to as ''cleaning''.
+
+[[Clean climbing]] is a style of rock climbing which seeks to minimize some of the aesthetically damaging side effects of some techniques used in [[trad climbing]] and more often, [[aid climbing]] by avoiding using equipment such as pitons, which damage rock.
+
+Climbing can also interfere with [[Bird of prey|raptor]] nesting, since the two activities often take place on the same precipitous cliffs. Many climbing area [[land manager]]s institute nesting season closures of [[cliff]]s known to be used by protected [[birds of prey]] like [[eagle]]s, [[falcon]]s and [[osprey]]<ref>[http://flatironsclimbing.net/climbing/wildlife.php Flatirons Climbing, wildlife closures]</ref>.
+
+Many non-climbers also object to the appearance of climbing chalk marks, anchors, bolts and slings on visible cliffs. Since these features are small, visual impacts can be mitigated through the selection of neutral, rock-matching colors for bolt hangers, webbing and chalk.
+
+===Vandalism===
+[[Vandalism]] created by non-climbers is often mistakenly attributed to the climbing population, driving the implementation of new climbing restrictions<ref>[http://www.huecotanks.com/essays/shermjuly1998.htm Thoughts on the Hueco Tanks troubles], by John Sherman</ref>.
+
+The most significant form of vandalism directly attributable to rock climbers is alteration of the climbing surface to render it more climber-friendly and/or safe. 
+
+With the advent of hard, bolted [[sport climbing]] in the 1980s, many routes were "chipped" and "glued" to provide additional features, allowing them to be climbed at the standard of the day. This attitude quickly changed as the safer [[sport climbing]] technique allowed climbers to push hard without much risk, causing the formerly more-or-less fixed grades to steadily rise. Altering routes began to be seen as limiting and pointless. 
+
+Unlike [[trad climbing]] which generally uses protection only as a backup in case of falls, some forms of climbing&mdash;like [[sport climbing]], [[canyoneering]] or, especially, [[aid climbing]]&mdash;rely heavily on artificial protection to advance, either by frequent falls or by directly pulling on the gear. Often these types of climbing involve multiple drilled holes in which to place temporary bolts & rivets, but in recent years an emphasis on clean techniques has grown.
+
+Today, the charge of [[vandalism]] in climbing is more often a disagreement about the appropriateness of drilling and placing permanent [[Bolt (climbing)|bolts]] and other anchors. Typically in America, the first ascensionists decide where to place protection on a new route, and later climbers are supposed to live with these choices. This can cause friction and retro-bolting when the route is perceived to be dangerous to climbers who actually lead at the grade of the climb, since the first ascensionists often lead at a higher grade and therefore don't require as much protection. Failing to properly design a new route at its grade is considered arrogant and very poor form. Even in strongholds of rock-climbing tradition like [[Yosemite National Park]], many routes are being gradually upgraded to safer standards of protection.
+
+Another form of vandalism in rock climbing is pulling existing bolts and anchors. This often happens after retro-bolting occurs. Many climbers feel that if the route has been done without the benefit of protection, it should stay that way. However this argument only holds water when the first ascensionists were climbing at the limit of their skill—as in [[Yosemite]]'s infamous test-piece, the [[Bachar-Yerian]]. In the case of first ascensionists failing to install adequate protection because the new route is below their leading standard and they didn't require it themselves, this attitude is harder to justify since the first-ascensionists are effectively imposing a higher level of risk on later climbers than they assumed themselves.{{Citation needed|date=April 2010}} Pitons are often stolen. Left in place by traditional climbers (who disdain the drilling and placing of expansion bolts) who are 'working' a route; trying to reduce the amount of aid since the first ascent. Unlike bolts, pitons are easier to remove.
+
+===Trespassing===
+Many significant rock [[outcrop]]s exist on private land. Some people within the rock climbing [[community]] have been guilty of [[trespassing]] in many cases, often after land ownership transfers and previous access permission is withdrawn. In response to access closures, the climbing community organized the [[Access Fund]]. This is an "advocacy organization that keeps U.S. climbing areas open and conserves the climbing environment. Five core programs support the mission on national and local levels: public policy, stewardship and conservation (including grants), grassroots activism, climber education, and land acquisition."<ref>[http://www.accessfund.org/ The Access Fund]</ref>
+
+===BASE jumping===
+[[File:Крис Шарма Ultimate Route 8с.jpg|thumb|right|[[Chris Sharma]]]]
+A few climbers are experimenting with taking small parachutes on long climbs. This is also known as Free Basing.  This allows the climber to abandon the route without using a rope to abseil - essentially turning the rock climb into a BASE jump.  [[BASE jumping]] is generally banned in areas known for their rock climbing, notably [[Yosemite National Park]].
+
+==Practical applications==
+Skilled rock climbers have been employed in building a work of sculpture entitled [[Big Bambú]] atop the [[Metropolitan Museum of Art Roof Garden]] <ref name=Metropolitan>[http://www.artinfo.com/galleryguide/19639/6185/124295/the-metropolitan-museum-of-art-new-york/exhibition/big-bambu/press_release/ Big Bambu; April 27, 2010—October 31, 2010], ''Metropolitan Museum of Art Press Release'',</ref> and in repairing wind turbines.
+
+== See also ==
+* Lists and glossaries
+** [[List of climbers]]
+** [[List of climbing topics]]
+** [[List of climbing areas]]
+** [[Climbing shoe#Climbing manufacturers|List of climbing equipment manufacturers]]
+** [[:Category:Climbing organisations|Climbing organisations]]
+** [[Glossary of climbing terms]]
+** [[Climbing Terminology]]
+** [[Climbing command]]
+** [[Glossary of knots common in climbing]]
+** [[Grade (climbing)|Rock climbing grades]]
+* Related activities
+** [[Mountaineering]]
+** [[Scrambling]]
+** [[Ice climbing]]
+** [[Outdoor education]]
+** [[Parkour]] (French technique of passing obstacles efficiently)
+** [[Salto del pastor]] (aboriginal rock [[gymnastic]] sport of [[Canary Islands]])
+** [[Caving]]
+** [[Bouldering]]
+** [[Climbing competition]]
+** [[International Federation of Sport Climbing]]
+* Other
+** [[Climbing injuries]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book |author=Long, John |title=How to Rock Climb! (How to Rock Climb Series) |publisher=Falcon |location=Helena, Mont |year=1998 |pages= |isbn=1-57540-114-2 |oclc= |doi=}}
+
+==External links==
+{{Commons category}}
+*[http://www.8a.nu: 8a.nu]
+*[http://www.supertopo.com/climbingareas/yosemite.html Rock Climbing in Yosemite]
+*[http://rockclimbinguk.co.uk Rock Climbing UK]
+*[http://www.climb.co.za Rock Climbing South Africa]
+*[http://www.accessfund.org/ The Access Fund]
+*[http://www.newrivergorgeclimbing.com New River Gorge Climbing]
+*[http://www.nongkiauclimbing.com Nong Kiau Northern Laos]
+*[http://www.mountainproject.com Mountain Project]
+*[http://www.rockclimbing.com Rockclimbing.com]
+*[http://www.ehowtorockclimb.net/index.html/: How To Rock Climb]
+*{{wikitravelpar|Rock climbing}}
+*[http://www.uptherocks.com/ Rock climbing in Armenia]
+*[http://www.escalando.net Rock climbing in Mexico]
+*[http://www.mountain.kz/en Rock climbing in Kazakhstan]
+*[http://climbing.com.au/climbing_locations.htm Climbing Locations in Australia]
+*[http://www.backcountrysecrets.com/outdoor-sport/8/ice-and-rock-climbing-routes.aspx Find and Share Climbing Locations]
+*[http://www.rockclimbtechniques.com: Rock Climbing Techniques]
+*[http://www.vertical-adventure.com/rock-climbing.html Rock Climbing in Malaysia]
+*[http://www.tryclimbing.co.uk Rock Climbing Instruction Online]
+*[http://www.teamkilimanjaro.com Climb Kilimanjaro]
+
+{{Extreme Sports}}
+
+{{DEFAULTSORT:Rock Climbing}}
+[[Category:Locomotion]]
+[[Category:Rock climbing| ]]
+
+[[ar:تسلق الجبال]]
+[[bg:Скално катерене]]
+[[fa:سنگ‌نوردی]]
+[[ko:암벽등반]]
+[[hy:Ժայռամագլցում]]
+[[it:Arrampicata]]
+[[ja:ロッククライミング]]
+[[no:Fjellklatring]]
+[[nn:Fjellklatring]]
+[[pl:Wspinaczka skalna]]
+[[ru:Скалолазание]]
+[[sl:Sistem (plezanje)]]
+[[fi:Kalliokiipeily]]

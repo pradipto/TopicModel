@@ -1,0 +1,2328 @@
+<embedded_doc>
+[[File:Map-1477 Low Countries.png|thumb|left|The [[Seventeen Provinces]] (orange, brown and yellow areas) and the [[Bishopric of Liège]] (green)]] $$
+ [[File:Wappers belgian revolution.jpg|thumb|left|''Episode of the [[Belgian Revolution]] of 1830'' (1834)<br/>by [[Egide Charles Gustave Wappers]],<br/> [[Royal Museums of Fine Arts of Belgium|Museum of Ancien Arts, Brussels]].]] $$
+ [[File:Albert II.jpg|thumb|150px|[[Albert II of Belgium|Albert II]], [[Monarchy of Belgium|King of the Belgians]]]] $$
+ [[File:Yves Leterme 01.jpg|thumb|left|upright|Prime Minister [[Yves Leterme]]]] $$
+ [[File:Communities of Belgium.svg|thumb|Communities:<br/>{{legend|#fab274|[[Flemish Community]] / Dutch language area}}
+<span style="margin:0; padding-bottom:1px; font-size:90%; display:block;"><span style="background:#fab274; color:#fab274;">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="background:#f2536b; color:#f2536b;">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Flemish & French Community / bilingual language area</span>
+{{legend|#f2536b|[[French Community of Belgium|French Community]] / French language area}}{{legend|#40bb6a|[[German-speaking Community of Belgium|German-speaking Community]] / German language area}}]] $$
+ [[File:Regions of Belgium.svg|thumb|Regions:<br/>{{legend|#fab274|[[Flemish Region]] / Dutch language area}}{{legend|#2385d2|[[Brussels|Brussels-Capital Region]] / bilingual language area}}{{legend|#f2536b|[[Walloon Region]] / French and German language areas}}]] $$
+ [[File:Diksmuide - Polders - IJzer.jpg|thumb|right|[[Polder]]s along the [[Yser]] river]] $$
+ [[File:Ardennen.jpg|thumb|upright|Ardennes|Wooded landscape in the [[Ardennes]]]] $$
+ [[File:Ougree 16.jpg|thumb|Steelmaking along the [[Meuse River]] at [[Ougrée]], near [[Liège (city)|Liège]]]] $$
+ [[File:mercator.jpg|thumb|upright|[[Gerardus Mercator]]]] $$
+ [[File:Be-map.png|thumb|upright|Main areas and places in Belgium]] $$
+ [[File:2007 07 Belgium Brussels 06 (cropped).jpg|thumb|left|[[Brussels]], the capital city and largest metropolitan area of Belgium.]] $$
+ [[File:BelgieGemeenschappenkaart.png|thumb|upright|Official languages:{{legend|#B0B000|Dutch (~59%)}}{{legend|#B00000|French (~40%)}}{{legend|#0000B0|German (~1%)}}]] $$
+ [[File:Brussels signs.jpg|thumb|left|[[Bilingual]] signs in Brussels.]] $$
+ [[File:SteGudule.jpg|thumb|upright|[[St. Michael and St. Gudula Cathedral]] in Brussels]] $$
+ [[File:eyck.hubert.lamb.750pix.jpg|thumb|''The [[Ghent Altarpiece]]: The Adoration of the Mystic Lamb'' (interior view), painted 1432 by [[Jan van Eyck|van Eyck]]]] $$
+ [[File:Emile Verhaeren01.jpg|thumb|left|Poet [[Emile Verhaeren]] by [[Theo van Rysselberghe]].]] $$
+ [[File:Binche - Les Gilles.jpg|thumb|left|The [[Gilles]] of [[Binche]], in costume, wearing wax masks]] $$
+ [[File:Brussels waffle.jpg|right|thumb|upright|130px|[[Brussels waffle]]s, commonly known as [[Belgian waffle]]s outside of Belgium.]] $$
+ 
+</embedded_doc>
+<links>
+[[Eendracht maakt macht]] $$
+ [[The Brabançonne|The "Brabançonne"]] $$
+ [[Dutch language|Dutch]] $$
+ [[Belgians|Belgian]] $$
+ [[Belgians|Belgian]] $$
+ [[Brussels (municipality)|Brussels]] $$
+ [[Brussels Capital Region]] $$
+ [[Federal constitutional monarchy|Federal]] $$
+ [[parliamentary system|parliamentary democracy]] $$
+ [[Constitutional monarchy]] $$
+ [[Belgian monarchy|King]] $$
+ [[List of Prime Ministers of Belgium|Prime Minister]] $$
+ [[Albert II of Belgium|Albert II]] $$
+ [[Yves Leterme]] $$
+ [[Belgian Federal Parliament|Federal Parliament]] $$
+ [[Belgian Senate|Senate]] $$
+ [[Belgian Chamber of Representatives|Chamber of Representatives]] $$
+ [[WP:MOSNUM]] $$
+ [[WP:MOSNUM]] $$
+ [[Belgian Revolution|Independence]] $$
+ [[United Kingdom of the Netherlands|the Netherlands]] $$
+ [[Treaty of London, 1839|Recognized]] $$
+ [[Euro sign|€]] $$
+ [[Central European Time|CET]] $$
+ [[Central European Summer Time|CEST]] $$
+ [[.be]] $$
+ [[Telephone numbers in Belgium|32]] $$
+ [[Belgian franc]] $$
+ [[.eu]] $$
+ [[sovereign state|state]] $$
+ [[Europe]] $$
+ [[European Union]] $$
+ [[NATO]] $$
+ [[Agence de Coopération Culturelle et Technique|ACCT]] $$
+ [[AfDB]] $$
+ [[AsDB]] $$
+ [[Australia Group]] $$
+ [[Benelux]] $$
+ [[Bank for International Settlements|BIS]] $$
+ [[Convention on Cybercrime|CCC]] $$
+ [[Council of Europe|CE]] $$
+ [[CERN]] $$
+ [[Euro-Atlantic Partnership Council|EAPC]] $$
+ [[EBRD]] $$
+ [[European Investment Bank|EIB]] $$
+ [[Economic and Monetary Union of the European Union|EMU]] $$
+ [[ESA]] $$
+ [[FAO]] $$
+ [[Group of Ten (economic)|G-10]] $$
+ [[IAEA]] $$
+ [[IBRD]] $$
+ [[ICAO]] $$
+ [[International Criminal Court|ICC]] $$
+ [[International Red Cross and Red Crescent Movement|ICRM]] $$
+ [[International Development Association|IDA]] $$
+ [[Inter-American Development Bank|IDB]] $$
+ [[International Energy Agency|IEA]] $$
+ [[IFAD]] $$
+ [[International Finance Corporation|IFC]] $$
+ [[IFRCS]] $$
+ [[IHO]] $$
+ [[International Labour Organization|ILO]] $$
+ [[IMF]] $$
+ [[International Maritime Organization|IMO]] $$
+ [[IMSO]] $$
+ [[Intelsat]] $$
+ [[Interpol]] $$
+ [[IOC]] $$
+ [[International Organization for Migration|IOM]] $$
+ [[International Organization for Standardization|ISO]] $$
+ [[ITU]] $$
+ [[MONUC]] $$
+ [[NATO]] $$
+ [[Nuclear Energy Agency|NEA]] $$
+ [[Nuclear Suppliers Group|NSG]] $$
+ [[Organization of American States|OAS]] $$
+ [[OECD]] $$
+ [[OPCW]] $$
+ [[OSCE]] $$
+ [[Permanent Court of Arbitration|PCA]] $$
+ [[UNCTAD]] $$
+ [[UNECE]] $$
+ [[UNESCO]] $$
+ [[UNHCR]] $$
+ [[United Nations Industrial Development Organization|UNIDO]] $$
+ [[UNMIK]] $$
+ [[UNMOGIP]] $$
+ [[UNRWA]] $$
+ [[UNTSO]] $$
+ [[UPU]] $$
+ [[West African Development Bank|WADB]] $$
+ [[WEU]] $$
+ [[WHO]] $$
+ [[WIPO]] $$
+ [[WMO]] $$
+ [[WTrO]] $$
+ [[Zangger Committee|ZC]] $$
+ [[Germanic languages|Germanic]] $$
+ [[Latin Europe]] $$
+ [[Dutch language|Dutch-speakers]] $$
+ [[Flemish people|Flemish]] $$
+ [[Francophone|French-speakers]] $$
+ [[Walloons]] $$
+ [[German-speaking Community of Belgium|German-speakers]] $$
+ [[Flemish Region|Flanders]] $$
+ [[Wallonia]] $$
+ [[Brussels-Capital Region]] $$
+ [[List of enclaves and exclaves#Subnational enclaves which are not exclaves|enclave]] $$
+ [[Université Laval]] $$
+ [[Quebec]] $$
+ [[Brussels]] $$
+ [[Katholieke Universiteit Leuven|KULeuven]] $$
+ [[German-speaking Community of Belgium|German-speaking Community]] $$
+ [[history of Belgium|political history]] $$
+ [[Communities and regions of Belgium|system of government]] $$
+ [[Bayreuth]] $$
+ [[Netherlands]] $$
+ [[Luxembourg]] $$
+ [[Low Countries]] $$
+ [[Benelux]] $$
+ [[Roman province]] $$
+ [[Gallia Belgica]] $$
+ [[Middle Ages]] $$
+ [[Belgian Revolution]] $$
+ [[United Kingdom of the Netherlands|Netherlands]] $$
+ [[cockfight|cockpit]] $$
+ [[:de:Fachhochschule Kehl|Fachhochschule (University of Applied Sciences) of Kehl]] $$
+ [[Kehl]] $$
+ [[Fachhochschule]] $$
+ [[James Howell]] $$
+ [[The Nuttall Encyclopaedia]] $$
+ [[Industrial Revolution]] $$
+ [[Secretariat-General of the European Commission]] $$
+ [[Université Libre de Bruxelles]] $$
+ [[Belgian colonial empire|colonies in Africa]] $$
+ [[culture of Belgium|cultural differences]] $$
+ [[economy of Belgium|asymmetrical economic evolution]] $$
+ [[2007–2011 Belgian political crisis|These still-active conflicts]] $$
+ [[state reform in Belgium|reforms of the formerly unitary Belgian state into a federal state]] $$
+ [[partition of Belgium|partition of the country]] $$
+ [[San Francisco Chronicle]] $$
+ [[BBC News Online]] $$
+ [[File:Map-1477 Low Countries.png|thumb|left|The [[Seventeen Provinces]] (orange, brown and yellow areas) and the [[Bishopric of Liège]] (green)]] $$
+ [[Gallia Belgica]] $$
+ [[Roman province]] $$
+ [[Gaul]] $$
+ [[Belgae]] $$
+ [[Celts|Celtic]] $$
+ [[Germanic peoples]] $$
+ [[Encyclopedia of the Roman Empire]] $$
+ [[University of Virginia]] $$
+ [[Migration Period|gradual immigration]] $$
+ [[Franks|Frankish]] $$
+ [[Merovingian]] $$
+ [[Carolingian Empire]] $$
+ [[Treaty of Verdun]] $$
+ [[Middle Francia|Middle]] $$
+ [[Western Francia]] $$
+ [[fiefdom]] $$
+ [[Middle Ages]] $$
+ [[vassal]] $$
+ [[King of France]] $$
+ [[Holy Roman Emperor]] $$
+ [[Timeline of Burgundian and Habsburg acquisitions in the Low Countries|Many of these fiefdoms]] $$
+ [[Burgundian Netherlands]] $$
+ [[Charles V, Holy Roman Emperor|Emperor Charles V]] $$
+ [[personal union]] $$
+ [[Seventeen Provinces]] $$
+ [[Pragmatic Sanction of 1549]] $$
+ [[Prince-Bishopric of Liège]] $$
+ [[Eighty Years' War]] $$
+ [[Republic of the Seven United Provinces of the Netherlands|United Provinces]] $$
+ [[Latin]] $$
+ [[Southern Netherlands]] $$
+ [[Habsburg Spain|Spanish]] $$
+ [[History of Austria#Charles VI and Maria Theresa (1711–1780)|Austrian]] $$
+ [[Habsburg]] $$
+ [[Franco-Spanish War (1635)|Franco-Spanish]] $$
+ [[War of the Austrian Succession|Franco-Austrian wars]] $$
+ [[French Revolutionary Wars: Campaigns of 1794|campaigns of 1794 in the French Revolutionary Wars]] $$
+ [[French First Republic]] $$
+ [[United Kingdom of the Netherlands]] $$
+ [[First French Empire]] $$
+ [[File:Wappers belgian revolution.jpg|thumb|left|''Episode of the [[Belgian Revolution]] of 1830'' (1834)<br/>by [[Egide Charles Gustave Wappers]],<br/> [[Royal Museums of Fine Arts of Belgium|Museum of Ancien Arts, Brussels]].]] $$
+ [[Belgian Revolution]] $$
+ [[Provisional Government of Belgium|provisional government]] $$
+ [[national Congress of Belgium|national congress]] $$
+ [[Brison D. Gooch]] $$
+ [[The Hague]] $$
+ [[Netherlands]] $$
+ [[Leopold I of Belgium|Leopold I]] $$
+ [[constitutional monarchy]] $$
+ [[parliamentary democracy]] $$
+ [[Laïcité|laicist]] $$
+ [[Napoleonic code]] $$
+ [[universal suffrage]] $$
+ [[Belgian general strike of 1893|general strike of 1893]] $$
+ [[plural voting]] $$
+ [[Catholic Party (Belgium)|Catholic Party]] $$
+ [[Liberal Party (Belgium)|Liberal Party]] $$
+ [[Belgian Labour Party]] $$
+ [[nobility]] $$
+ [[bourgeoisie]] $$
+ [[Belgian Constitution|Constitution]] $$
+ [[Berlin Conference]] $$
+ [[Congo Free State]] $$
+ [[Leopold II of Belgium|King Leopold II]] $$
+ [[Belgian Congo]] $$
+ [[Schlieffen Plan]] $$
+ [[Western Front (World War I)|Western Front]] $$
+ [[Rape of Belgium]] $$
+ [[German colonies]] $$
+ [[Ruanda-Urundi]] $$
+ [[Rwanda]] $$
+ [[Burundi]] $$
+ [[League of Nations]] $$
+ [[districts of Prussia|Prussian districts]] $$
+ [[Eupen-Malmedy|Eupen and Malmedy]] $$
+ [[Blitzkrieg]] $$
+ [[Allied advance from Paris to the Rhine|liberation by the Allies]] $$
+ [[General strike against Leopold III of Belgium|a general strike]] $$
+ [[Leopold III of Belgium|Leopold III]] $$
+ [[Congo Crisis]] $$
+ [[NATO]] $$
+ [[European Coal and Steel Community]] $$
+ [[European Atomic Energy Community]] $$
+ [[European Economic Community]] $$
+ [[European Commission]] $$
+ [[Council of the European Union]] $$
+ [[European Parliament]] $$
+ [[List of Belgian monarchs]] $$
+ [[List of Belgian Prime Ministers]] $$
+ [[Foreign relations of Belgium]] $$
+ [[constitutional monarchy|constitutional]] $$
+ [[popular monarchy]] $$
+ [[parliamentary system|parliamentary democracy]] $$
+ [[File:Albert II.jpg|thumb|150px|[[Albert II of Belgium|Albert II]], [[Monarchy of Belgium|King of the Belgians]]]] $$
+ [[bicameralism|bicameral]] $$
+ [[Belgian Senate|Senate]] $$
+ [[Belgian Chamber of People's Representatives|Chamber of Representatives]] $$
+ [[Communities, regions and language areas of Belgium|3 Community parliaments]] $$
+ [[Belgian Senate#Co-opted Senators|co-opted senators]] $$
+ [[Belgian Senate#Senators by Right|Senators by Right]] $$
+ [[Chambers of parliament|Chamber]] $$
+ [[proportional voting]] $$
+ [[Arrondissements of Belgium|electoral districts]] $$
+ [[compulsory voting]] $$
+ [[voter turnout]] $$
+ [[Trinity College (Connecticut)|Trinity College, Connecticut]] $$
+ [[Monarchy of Belgium|King]] $$
+ [[Albert II of Belgium|Albert II]] $$
+ [[head of state]] $$
+ [[Royal Prerogative|prerogatives]] $$
+ [[Chamber of Representatives of Belgium|Chamber of Representatives]] $$
+ [[federal government]] $$
+ [[University of Berne]] $$
+ [[civil law (legal system)|civil law]] $$
+ [[Napoleonic code]] $$
+ [[Court of Cassation (Belgium)|Court of Cassation]] $$
+ [[Court of Appeal (Belgium)|Court of Appeal]] $$
+ [[File:Yves Leterme 01.jpg|thumb|left|upright|Prime Minister [[Yves Leterme]]]] $$
+ [[Liberalism in Belgium|Liberals]] $$
+ [[Christen-Democratisch en Vlaams|Christian Democrats]] $$
+ [[List of political parties in Belgium#Linguistic parties|linguistic]] $$
+ [[Belgian general election, 1999|was broken in 1999]] $$
+ [[dioxine affair|dioxin crisis]] $$
+ [[European Commission]] $$
+ [[Purple (government)|purple coalition]] $$
+ [[Belgian general election, 2003|2003 election]] $$
+ [[Guy Verhofstadt]] $$
+ [[Nuclear energy policy#Europe|nuclear phase-out]] $$
+ [[War Crimes Law (Belgium)|war crime]] $$
+ [[soft drugs|soft drug usage]] $$
+ [[euthanasia]] $$
+ [[same-sex marriage in Belgium|same-sex marriage]] $$
+ [[Governmental positions on the Iraq War prior to the 2003 invasion of Iraq|opposed the invasion of Iraq]] $$
+ [[Belgian general election, 2007|June 2007 elections]] $$
+ [[2007 Belgian government formation|political crisis]] $$
+ [[partition of Belgium]] $$
+ [[Verhofstadt III Government]] $$
+ [[Christen-Democratisch en Vlaams|Flemish]] $$
+ [[Humanist Democratic Centre|Francophone Christian Democrats]] $$
+ [[VLD|Flemish]] $$
+ [[Mouvement Réformateur|Francophone Liberals]] $$
+ [[Socialist Party (francophone Belgium)|Francophone Social Democrats]] $$
+ [[Leterme I Government|new government]] $$
+ [[Yves Leterme]] $$
+ [[state reform in Belgium|constitutional reforms]] $$
+ [[2008–2009 Belgian financial crisis|crisis]] $$
+ [[Fortis (finance)|Fortis]] $$
+ [[BNP Paribas]] $$
+ [[CD&V|Flemish Christian Democrat]] $$
+ [[Herman Van Rompuy]] $$
+ [[President of the European Council]] $$
+ [[Leterme II Government|new government]] $$
+ [[OpenVLD]] $$
+ [[New Flemish Alliance|N-VA]] $$
+ [[Lame duck (politics)|lame duck]] $$
+ [[2010 Belgian government formation|formation of a new government]] $$
+ [[File:Communities of Belgium.svg|thumb|Communities:<br/>{{legend|#fab274|[[Flemish Community]] / Dutch language area}}
+<span style="margin:0; padding-bottom:1px; font-size:90%; display:block;"><span style="background:#fab274; color:#fab274;">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="background:#f2536b; color:#f2536b;">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Flemish & French Community / bilingual language area</span>
+{{legend|#f2536b|[[French Community of Belgium|French Community]] / French language area}}{{legend|#40bb6a|[[German-speaking Community of Belgium|German-speaking Community]] / German language area}}]] $$
+ [[File:Regions of Belgium.svg|thumb|Regions:<br/>{{legend|#fab274|[[Flemish Region]] / Dutch language area}}{{legend|#2385d2|[[Brussels|Brussels-Capital Region]] / bilingual language area}}{{legend|#f2536b|[[Walloon Region]] / French and German language areas}}]] $$
+ [[Flemish movement]] $$
+ [[Frenchification of Brussels|most Brusselers]] $$
+ [[language legislation in Belgium|official language]] $$
+ [[European Election Database]] $$
+ [[Norwegian Social Science Data Services]] $$
+ [[state reform in Belgium|revisions]] $$
+ [[Constitution of Belgium|the country's constitution]] $$
+ [[Vrije Universiteit Brussel]] $$
+ [[Communities, regions and language areas of Belgium|language areas (''taalgebieden'' in Dutch, ''Sprachgebiete'' in German), occasionally called linguistic regions (''régions linguistiques'' in French)]] $$
+ [[Belgian federal government|federal government]] $$
+ [[Flemish Community]] $$
+ [[French Community of Belgium|French Community]] $$
+ [[German-speaking Community of Belgium|German-speaking Community]] $$
+ [[Flemish Region]] $$
+ [[provinces of Belgium|provinces]] $$
+ [[Walloon Region]] $$
+ [[Brussels-Capital Region]] $$
+ [[Constitutional Court of Belgium]] $$
+ [[Belgian Post Group]] $$
+ [[National Railway Company of Belgium|Belgian Railways]] $$
+ [[Le Monde Diplomatique]] $$
+ [[File:Diksmuide - Polders - IJzer.jpg|thumb|right|[[Polder]]s along the [[Yser]] river]] $$
+ [[France]] $$
+ [[Germany]] $$
+ [[Luxembourg]] $$
+ [[Netherlands]] $$
+ [[49th parallel north|49°]] $$
+ [[53rd parallel north|53° N]] $$
+ [[2nd meridian east|2°]] $$
+ [[7th meridian east|7° E]] $$
+ [[Ardennes]] $$
+ [[Variscan orogeny|Hercynian orogenic belt]] $$
+ [[Paris Basin (geology)|Paris Basin]] $$
+ [[Belgian Lorraine]] $$
+ [[polder]] $$
+ [[Campine]] $$
+ [[canyon|gorges]] $$
+ [[Eifel]] $$
+ [[High Fens]] $$
+ [[Signal de Botrange]] $$
+ [[File:Ardennen.jpg|thumb|upright|Ardennes|Wooded landscape in the [[Ardennes]]]] $$
+ [[Oceanic climate|maritime temperate]] $$
+ [[Köppen climate classification]] $$
+ [[North Sea]] $$
+ [[Celsius|C]] $$
+ [[Phytogeography|Phytogeographically]] $$
+ [[Circumboreal Region]] $$
+ [[Boreal Kingdom]] $$
+ [[University of California Press]] $$
+ [[Berkeley, California|Berkeley]] $$
+ [[World Wide Fund for Nature]] $$
+ [[ecoregion]] $$
+ [[population density]] $$
+ [[Environment of Belgium|environmental problems]] $$
+ [[New Scientist]] $$
+ [[Environmental Performance Index]] $$
+ [[Energy in Belgium]] $$
+ [[File:Ougree 16.jpg|thumb|Steelmaking along the [[Meuse River]] at [[Ougrée]], near [[Liège (city)|Liège]]]] $$
+ [[Index of Globalization]] $$
+ [[transportation in Belgium|transportation infrastructure]] $$
+ [[GNP]] $$
+ [[per capita]] $$
+ [[open economy]] $$
+ [[Belgium-Luxembourg Economic Union]] $$
+ [[Industrial Revolution]] $$
+ [[Liège (city)|Liège]] $$
+ [[Charleroi]] $$
+ [[Sambre]] $$
+ [[Meuse river|Meuse]] $$
+ [[sillon industriel]] $$
+ [[Ghent]] $$
+ [[Antwerp]] $$
+ [[1973 oil crisis|1973]] $$
+ [[1979 oil crisis|1979 oil crises]] $$
+ [[steel industry]] $$
+ [[US Department of State]] $$
+ [[Flemish Diamond]] $$
+ [[University of Maastricht]] $$
+ [[macroeconomic policies]] $$
+ [[GDP]] $$
+ [[National Bank of Belgium]] $$
+ [[Belgian franc]] $$
+ [[Belgian euro coins]] $$
+ [[Science and technology in Brussels]] $$
+ [[Science and technology in Flanders]] $$
+ [[Science and technology in Wallonia]] $$
+ [[File:mercator.jpg|thumb|upright|[[Gerardus Mercator]]]] $$
+ [[Early Modern]] $$
+ [[cartography|cartographer]] $$
+ [[Gerardus Mercator]] $$
+ [[anatomy|anatomist]] $$
+ [[Andreas Vesalius]] $$
+ [[herbalist]] $$
+ [[Rembert Dodoens]] $$
+ [[Balkbrug]] $$
+ [[University of Wisconsin–Madison]] $$
+ [[Commonweal]] $$
+ [[mathematics|mathematician]] $$
+ [[Simon Stevin]] $$
+ [[Ernest Solvay]] $$
+ [[Zenobe Gramme]] $$
+ [[Solvay process]] $$
+ [[Gramme dynamo]] $$
+ [[Bakelite]] $$
+ [[Leo Baekeland]] $$
+ [[Solvay Institute of Sociology]] $$
+ [[Solvay Brussels School of Economics and Management]] $$
+ [[International Solvay Institutes for Physics and Chemistry]] $$
+ [[Université Libre de Bruxelles]] $$
+ [[Solvay Conference|Solvay Conferences on Physics and Chemistry]] $$
+ [[Georges Lemaître]] $$
+ [[Catholic University of Leuven]] $$
+ [[Big Bang]] $$
+ [[American Museum of Natural History]] $$
+ [[Nobel Prize in Physiology or Medicine|Nobel Prizes in Physiology or Medicine]] $$
+ [[Jules Bordet]] $$
+ [[Université Libre de Bruxelles]] $$
+ [[Corneille Heymans]] $$
+ [[University of Ghent]] $$
+ [[Albert Claude]] $$
+ [[Christian De Duve]] $$
+ [[Ilya Prigogine]] $$
+ [[Nobel Prize in Chemistry]] $$
+ [[File:Be-map.png|thumb|upright|Main areas and places in Belgium]] $$
+ [[Morocco|Moroccan]] $$
+ [[Turkish people|Turkish]] $$
+ [[Université Catholique de Louvain|UCLouvain]] $$
+ [[File:2007 07 Belgium Brussels 06 (cropped).jpg|thumb|left|[[Brussels]], the capital city and largest metropolitan area of Belgium.]] $$
+ [[Flemish Diamond]] $$
+ [[Antwerp]] $$
+ [[Leuven]] $$
+ [[Brussels]] $$
+ [[Ghent]] $$
+ [[Antwerp]] $$
+ [[Bruges]] $$
+ [[Charleroi]] $$
+ [[Liège]] $$
+ [[Namur (city)|Namur]] $$
+ [[List of municipalities of the Brussels Capital-Region|19 municipalities]] $$
+ [[File:BelgieGemeenschappenkaart.png|thumb|upright|Official languages:{{legend|#B0B000|Dutch (~59%)}}{{legend|#B00000|French (~40%)}}{{legend|#0000B0|German (~1%)}}]] $$
+ [[dialect]] $$
+ [[Municipalities with language facilities|language facilities]] $$
+ [[File:Brussels signs.jpg|thumb|left|[[Bilingual]] signs in Brussels.]] $$
+ [[#General online sources|General online sources: Janssens, Rudi]] $$
+ [[British Council]] $$
+ [[Brussels|(City of) Brussels]] $$
+ [[German-speaking Community of Belgium|German-speaking Community]] $$
+ [[Walloon Region]] $$
+ [[European Commission]] $$
+ [[University of Wales]] $$
+ [[Université Laval]] $$
+ [[Quebec]] $$
+ [[Belgian Dutch]] $$
+ [[Belgian French]] $$
+ [[Dutch dialects|dialects of Dutch]] $$
+ [[Walloon language|Walloon]] $$
+ [[Picard language|Picard]] $$
+ [[SIL International]] $$
+ [[OECD]] $$
+ [[postsecondary education]] $$
+ [[National Center for Education Statistics]] $$
+ [[Institute of Education Sciences]] $$
+ [[US Department of Education]] $$
+ [[functional illiteracy]] $$
+ [[United Nations Development Programme]] $$
+ [[Programme for International Student Assessment]] $$
+ [[OECD]] $$
+ [[Liberal Party (Belgium)|Liberal]] $$
+ [[Catholic Party (Belgium)|Catholic parties]] $$
+ [[Catholic school|Catholic branch]] $$
+ [[Ghent University]] $$
+ [[File:SteGudule.jpg|thumb|upright|[[St. Michael and St. Gudula Cathedral]] in Brussels]] $$
+ [[freethought]] $$
+ [[s:en:Catholic Encyclopedia (1913)/Belgium|Belgium]] $$
+ [[Catholic Encyclopedia]] $$
+ [[secular]] $$
+ [[laicite|laicist]] $$
+ [[Constitution of Belgium|constitution]] $$
+ [[Albert I of Belgium|Albert I]] $$
+ [[Baudouin I of Belgium|Baudouin]] $$
+ [[Islam]] $$
+ [[Hinduism]] $$
+ [[Buddhism]] $$
+ [[Carl von Ossietzky]] $$
+ [[Metro (Belgian newspaper)]] $$
+ [[Dalai Lama]] $$
+ [[Government of the People's Republic of China|Peking]] $$
+ [[Bureau of Democracy, Human Rights and Labor]] $$
+ [[monotheism|monotheistic]] $$
+ [[afterlife]] $$
+ [[Eurobarometer|Eurobarometer Poll]] $$
+ [[Brussels]] $$
+ [[Wallonia]] $$
+ [[Flanders]] $$
+ [[Antwerp]] $$
+ [[Brussels]] $$
+ [[Charleroi]] $$
+ [[partition of Belgium|political and linguistic divisions]] $$
+ [[European Commission]] $$
+ [[Royal Military Academy (Belgium)|Royal Military Academy]] $$
+ [[Le Monde Diplomatique]] $$
+ [[File:eyck.hubert.lamb.750pix.jpg|thumb|''The [[Ghent Altarpiece]]: The Adoration of the Mystic Lamb'' (interior view), painted 1432 by [[Jan van Eyck|van Eyck]]]] $$
+ [[Mosan art]] $$
+ [[Early Netherlandish painting|Early Netherlandish]] $$
+ [[Metropolitan Museum of Art]] $$
+ [[Dutch and Flemish Renaissance painting|Flemish Renaissance]] $$
+ [[Flemish Baroque painting|Baroque painting]] $$
+ [[Romanesque architecture|Romanesque]] $$
+ [[Gothic architecture|Gothic]] $$
+ [[Renaissance architecture|Renaissance]] $$
+ [[Baroque architecture]] $$
+ [[UNESCO]] $$
+ [[World Heritage List]] $$
+ [[UNESCO]] $$
+ [[Jan van Eyck]] $$
+ [[Rogier van der Weyden]] $$
+ [[Pieter Brueghel the Elder|Peter Breughel]] $$
+ [[Lambert Lombard]] $$
+ [[Peter Paul Rubens]] $$
+ [[Anthony van Dyck]] $$
+ [[romanticism|romantic]] $$
+ [[expressionism|expressionist]] $$
+ [[surrealism|surrealist]] $$
+ [[James Ensor]] $$
+ [[Les XX]] $$
+ [[Constant Permeke]] $$
+ [[Paul Delvaux]] $$
+ [[René Magritte]] $$
+ [[COBRA (avant-garde movement)|CoBrA movement]] $$
+ [[Panamarenko]] $$
+ [[Jan Fabre]] $$
+ [[Luc Tuymans]] $$
+ [[Victor Horta]] $$
+ [[Henry van de Velde]] $$
+ [[Art Nouveau]] $$
+ [[UNESCO]] $$
+ [[World Heritage List]] $$
+ [[File:Emile Verhaeren01.jpg|thumb|left|Poet [[Emile Verhaeren]] by [[Theo van Rysselberghe]].]] $$
+ [[vocal music]] $$
+ [[Franco-Flemish School]] $$
+ [[Encyclopædia Britannica]] $$
+ [[Henri Vieuxtemps]] $$
+ [[Eugène Ysaÿe]] $$
+ [[Arthur Grumiaux]] $$
+ [[Adolphe Sax]] $$
+ [[saxophone]] $$
+ [[César Franck]] $$
+ [[Toots Thielemans]] $$
+ [[Jacques Brel]] $$
+ [[Telex (band)|Telex]] $$
+ [[Front 242]] $$
+ [[K's Choice]] $$
+ [[Hooverphonic]] $$
+ [[Zap Mama]] $$
+ [[Soulwax]] $$
+ [[Deus (band)|dEUS]] $$
+ [[Machiavel]] $$
+ [[Channel Zero (band)|Channel Zero]] $$
+ [[Enthroned]] $$
+ [[Belgian literature|authors]] $$
+ [[Emile Verhaeren]] $$
+ [[Hendrik Conscience]] $$
+ [[Georges Simenon]] $$
+ [[Suzanne Lilar]] $$
+ [[Amélie Nothomb]] $$
+ [[Maurice Maeterlinck]] $$
+ [[Nobel Prize in literature]] $$
+ [[The Adventures of Tintin]] $$
+ [[Hergé]] $$
+ [[Franco-Belgian comics]] $$
+ [[Peyo]] $$
+ [[The Smurfs]] $$
+ [[André Franquin]] $$
+ [[Gaston Lagaffe]] $$
+ [[Edgar P. Jacobs]] $$
+ [[Willy Vandersteen]] $$
+ [[Ernest Claes]] $$
+ [[Robbe De Hert]] $$
+ [[Johan Daisne]] $$
+ [[André Delvaux]] $$
+ [[Stijn Streuvels]] $$
+ [[Fons Rademakers]] $$
+ [[Malpertuis]] $$
+ [[Jean Ray (author)|Jean Ray]] $$
+ [[Harry Kümel]] $$
+ [[Hendrik Conscience]] $$
+ [[Maria Rosseels]] $$
+ [[Felix Timmermans]] $$
+ [[Hubert Lampo]] $$
+ [[Harry Kümel]] $$
+ [[De Leeuw van Vlaanderen]] $$
+ [[Hendrik Conscience]] $$
+ [[Hugo Claus]] $$
+ [[Daens (film)|Daens]] $$
+ [[Louis Paul Boon]] $$
+ [[Stijn Coninx]] $$
+ [[André Delvaux]] $$
+ [[Stijn Coninx]] $$
+ [[Luc Dardenne|Luc]] $$
+ [[Jean-Pierre Dardenne]] $$
+ [[Jan Decleir]] $$
+ [[Marie Gillain]] $$
+ [[Man Bites Dog (film)|Man Bites Dog]] $$
+ [[The Alzheimer Affair]] $$
+ [[Koninklijke Academie voor Schone Kunsten Antwerpen|Royal Academy of Fine Arts]] $$
+ [[Antwerp Six]] $$
+ [[File:Binche - Les Gilles.jpg|thumb|left|The [[Gilles]] of [[Binche]], in costume, wearing wax masks]] $$
+ [[:nl:Ommegang|its article on the Dutch-language Wikipedia]] $$
+ [[kermesse (festival)|kermesse]] $$
+ [[mythology of the Low Countries|mythological background]] $$
+ [[Carnival of Binche]] $$
+ [[Gilles]] $$
+ [[Ath]] $$
+ [[Brussels]] $$
+ [[Dendermonde]] $$
+ [[Mechelen]] $$
+ [[Mons]] $$
+ [[UNESCO]] $$
+ [[Masterpieces of the Oral and Intangible Heritage of Humanity]] $$
+ [[UNESCO]] $$
+ [[Aalst, Belgium|Aalst]] $$
+ [[procession of the Holy Blood|the Holy Blood]] $$
+ [[Bruges]] $$
+ [[Virga Jesse Basilica]] $$
+ [[Hasselt]] $$
+ [[Basilica of Our Lady of Hanswijk]] $$
+ [[Namur (city)|Namur]] $$
+ [[Gentse Feesten]] $$
+ [[Saint Nicholas Day]] $$
+ [[University of Liège]] $$
+ [[File:Brussels waffle.jpg|right|thumb|upright|130px|[[Brussels waffle]]s, commonly known as [[Belgian waffle]]s outside of Belgium.]] $$
+ [[Michelin Guide]] $$
+ [[Belgian waffle|waffles]] $$
+ [[french fries]] $$
+ [[pralines]] $$
+ [[Callebaut]] $$
+ [[Côte d'Or (brand)|Côte d'Or]] $$
+ [[Chocolatier Neuhaus|Neuhaus]] $$
+ [[Leonidas (chocolate maker)|Leonidas]] $$
+ [[Guylian]] $$
+ [[Galler (brand)|Galler]] $$
+ [[Godiva Chocolatier|Godiva]] $$
+ [[Belgian beer|500 varieties of beer]] $$
+ [[Trappist beer]] $$
+ [[Westvleteren Brewery|Abbey of Westvleteren]] $$
+ [[Anheuser-Busch InBev]] $$
+ [[Leuven]] $$
+ [[Euronext]] $$
+ [[Leuven]] $$
+ [[Football in Belgium|Association football]] $$
+ [[Tour de France]] $$
+ [[Eddy Merckx]] $$
+ [[BBC Sport]] $$
+ [[Bernard Hinault]] $$
+ [[Lance Armstrong]] $$
+ [[Miguel Indurain]] $$
+ [[Jacques Anquetil]] $$
+ [[Jean-Marie Pfaff]] $$
+ [[UEFA European Football Championship]] $$
+ [[UEFA Euro 2000|2000]] $$
+ [[UEFA Euro 1972|1972 European Football Championships]] $$
+ [[Kim Clijsters]] $$
+ [[Justine Henin]] $$
+ [[WTA Awards|Player of the Year]] $$
+ [[Women's Tennis Association]] $$
+ [[Spa-Francorchamps]] $$
+ [[Formula One World Championship]] $$
+ [[Belgian Grand Prix]] $$
+ [[Jacky Ickx]] $$
+ [[24 Hours of Le Mans]] $$
+ [[motocross]] $$
+ [[Roger De Coster]] $$
+ [[Joël Robert]] $$
+ [[Georges Jobé]] $$
+ [[Eric Geboers]] $$
+ [[Joël Smets]] $$
+ [[Stefan Everts]] $$
+ [[Steve Ramon]] $$
+ [[Memorial Van Damme]] $$
+ [[Belgian Grand Prix]] $$
+ [[classic cycle races]] $$
+ [[Ronde van Vlaanderen]] $$
+ [[Liège–Bastogne–Liège]] $$
+ [[1920 Summer Olympics]] $$
+ [[Outline of Belgium]] $$
+ [[Index of Belgium-related articles]] $$
+ [[Encyclopædia Britannica Online]] $$
+ [[Georg-August University of Göttingen|Georg-August University]] $$
+ [[Vrije Universiteit Brussel]] $$
+ [[Université Laval]] $$
+ [[Quebec]] $$
+ [[Harvard Law School|HLS]] $$
+ [[Harvard Law School]] $$
+ [[Katholieke Universiteit Leuven|KULeuven]] $$
+ [[Loyola University New Orleans]] $$
+ [[Delaware corporation]] $$
+ [[Ernst Kossmann|Kossmann Ernst H.]] $$
+ [[Ons Erfdeel]] $$
+ [[Rekkem]] $$
+ [[Encyclopædia Britannica]] $$
+ [[United States Department of State]] $$
+ [[Library of Congress]] $$
+ [[s:en:Catholic Encyclopedia (1913)/Belgium|Belgium]] $$
+ [[Catholic Encyclopedia|Catholic Encyclopedia 1913]] $$
+ [[Wikisource]] $$
+ [[Public Diplomacy]] $$
+ [[USC Center on Public Diplomacy]] $$
+ [[Category:Belgium| ]] $$
+ [[Category:European countries]] $$
+ [[Category:Benelux countries]] $$
+ [[Category:Member states of the European Union]] $$
+ [[Category:Countries bordering the Atlantic Ocean]] $$
+ [[Category:Northern Europe]] $$
+ [[Category:Western Europe]] $$
+ [[Category:Constitutional monarchies]] $$
+ [[Category:Dutch-speaking countries]] $$
+ [[Category:Federal countries]] $$
+ [[Category:French-speaking countries]] $$
+ [[Category:German-speaking countries]] $$
+ [[Category:Liberal democracies]] $$
+ [[Category:Member states of La Francophonie]] $$
+ [[Category:States and territories established in 1830]] $$
+ [[Category:Member states of the Union for the Mediterranean]] $$
+ [[Category:Members of the North Atlantic Treaty Organization]] $$
+ [[rue:Белґія]] $$
+ [[ace:Bèlgia]] $$
+ [[af:België]] $$
+ [[als:Belgien]] $$
+ [[am:ቤልጅግ]] $$
+ [[ang:Belgice]] $$
+ [[ar:بلجيكا]] $$
+ [[an:Belchica]] $$
+ [[arc:ܒܠܓܝܩܐ]] $$
+ [[roa-rup:Belghia]] $$
+ [[frp:Bèlg·ique]] $$
+ [[ast:Bélxica]] $$
+ [[ay:Bilkiya]] $$
+ [[az:Belçika]] $$
+ [[bn:বেলজিয়াম]] $$
+ [[zh-min-nan:Belgien]] $$
+ [[ba:Бельгия]] $$
+ [[be:Бельгія]] $$
+ [[be-x-old:Бэльгія]] $$
+ [[bcl:Belhika]] $$
+ [[bi:Belgium]] $$
+ [[bar:Bäigien]] $$
+ [[bo:པེར་ཅིན།]] $$
+ [[bs:Belgija]] $$
+ [[br:Belgia]] $$
+ [[bg:Белгия]] $$
+ [[ca:Bèlgica]] $$
+ [[cv:Бельги]] $$
+ [[ceb:Belhika]] $$
+ [[cs:Belgie]] $$
+ [[co:Belgica]] $$
+ [[cy:Gwlad Belg]] $$
+ [[da:Belgien]] $$
+ [[pdc:Belgien]] $$
+ [[de:Belgien]] $$
+ [[dv:ބެލްޖިއަމް]] $$
+ [[nv:Bélgii Bikéyah]] $$
+ [[dsb:Belgiska]] $$
+ [[dz:བེལ་ཇིཡམ]] $$
+ [[et:Belgia]] $$
+ [[el:Βέλγιο]] $$
+ [[eml:Bélgi]] $$
+ [[es:Bélgica]] $$
+ [[eo:Belgio]] $$
+ [[ext:Bélgica]] $$
+ [[eu:Belgika]] $$
+ [[ee:Belgium]] $$
+ [[fa:بلژیک]] $$
+ [[hif:Belgium]] $$
+ [[fo:Belgia]] $$
+ [[fr:Belgique]] $$
+ [[fy:Belgje]] $$
+ [[fur:Belgjo]] $$
+ [[ga:An Bheilg]] $$
+ [[gv:Yn Velg]] $$
+ [[gag:Belgiya]] $$
+ [[gd:A' Bheilg]] $$
+ [[gl:Bélxica - België]] $$
+ [[hak:Pí-li-sṳ̀]] $$
+ [[xal:Бельҗмудин Нутг]] $$
+ [[ko:벨기에]] $$
+ [[haw:Pelekiuma]] $$
+ [[hy:Բելգիա]] $$
+ [[hi:बेल्जियम]] $$
+ [[hsb:Belgiska]] $$
+ [[hr:Belgija]] $$
+ [[io:Belgia]] $$
+ [[ilo:Belgium]] $$
+ [[bpy:বেলজিয়াম]] $$
+ [[id:Belgia]] $$
+ [[ia:Belgica]] $$
+ [[ie:Belgia]] $$
+ [[os:Бельги]] $$
+ [[is:Belgía]] $$
+ [[it:Belgio]] $$
+ [[he:בלגיה]] $$
+ [[jv:Bèlgia]] $$
+ [[kl:Belgia]] $$
+ [[pam:Belgium]] $$
+ [[krc:Бельгия]] $$
+ [[ka:ბელგია]] $$
+ [[ks:बेल्जियम]] $$
+ [[csb:Belgijskô]] $$
+ [[kk:Белгия]] $$
+ [[kw:Pow Belg]] $$
+ [[rw:Ububiligi]] $$
+ [[ky:Бельгия]] $$
+ [[sw:Ubelgiji]] $$
+ [[koi:Белгия]] $$
+ [[kv:Бельгия]] $$
+ [[kg:Belezi]] $$
+ [[ht:Bèljik]] $$
+ [[ku:Belgiya]] $$
+ [[lad:Beljika]] $$
+ [[la:Belgica]] $$
+ [[lv:Beļģija]] $$
+ [[lb:Belsch]] $$
+ [[lt:Belgija]] $$
+ [[lij:Belgiò]] $$
+ [[li:Belsj]] $$
+ [[ln:Bɛ́ljika]] $$
+ [[jbo:beldjym]] $$
+ [[hu:Belgium]] $$
+ [[mk:Белгија]] $$
+ [[mg:Belzika]] $$
+ [[ml:ബെൽജിയം]] $$
+ [[mt:Belġju]] $$
+ [[mi:Pehiamu]] $$
+ [[mr:बेल्जियम]] $$
+ [[arz:بلجيكا]] $$
+ [[ms:Belgium]] $$
+ [[mdf:Бельгие]] $$
+ [[mn:Бельги]] $$
+ [[my:ဘယ်လ်ဂျီယမ်]] $$
+ [[nah:Belgica]] $$
+ [[na:Belgium]] $$
+ [[nl:België]] $$
+ [[nds-nl:België]] $$
+ [[ne:बेल्जियम]] $$
+ [[ja:ベルギー]] $$
+ [[nap:Belge]] $$
+ [[ce:Бельги]] $$
+ [[frr:Bälgien]] $$
+ [[pih:Beljum]] $$
+ [[no:Belgia]] $$
+ [[nn:Belgia]] $$
+ [[nrm:Belgique]] $$
+ [[nov:Belgia]] $$
+ [[oc:Belgica]] $$
+ [[uz:Belgiya]] $$
+ [[pnb:بیلجیم]] $$
+ [[pap:Bélgika]] $$
+ [[ps:بلجیم]] $$
+ [[pcd:Bergike]] $$
+ [[pms:Belgi]] $$
+ [[tpi:Beljiam]] $$
+ [[nds:Belgien]] $$
+ [[pl:Belgia]] $$
+ [[pnt:Βέλγιον]] $$
+ [[pt:Bélgica]] $$
+ [[crh:Belçika]] $$
+ [[ksh:Belljie]] $$
+ [[ro:Belgia]] $$
+ [[rmy:Beljiya]] $$
+ [[rm:Belgia]] $$
+ [[qu:Bilhika]] $$
+ [[ru:Бельгия]] $$
+ [[sah:Бельгия]] $$
+ [[se:Belgia]] $$
+ [[sa:बेल्जियम]] $$
+ [[sco:Belgium]] $$
+ [[stq:Belgien]] $$
+ [[sq:Belgjika]] $$
+ [[scn:Belgiu]] $$
+ [[simple:Belgium]] $$
+ [[ss:IBhelijiyamu]] $$
+ [[sk:Belgicko]] $$
+ [[cu:Бєлгїѥ]] $$
+ [[sl:Belgija]] $$
+ [[szl:Belgijo]] $$
+ [[so:Beljim]] $$
+ [[ckb:بەلجیکا]] $$
+ [[srn:Belgikondre]] $$
+ [[sr:Белгија]] $$
+ [[sh:Belgija]] $$
+ [[su:Bélgia]] $$
+ [[fi:Belgia]] $$
+ [[sv:Belgien]] $$
+ [[tl:Belhika]] $$
+ [[ta:பெல்ஜியம்]] $$
+ [[kab:Biljik]] $$
+ [[tt:Бельгия]] $$
+ [[te:బెల్జియం]] $$
+ [[tet:Béljika]] $$
+ [[th:ประเทศเบลเยียม]] $$
+ [[tg:Белгия]] $$
+ [[tr:Belçika]] $$
+ [[tk:Belgiýa]] $$
+ [[udm:Бельгия]] $$
+ [[uk:Бельгія]] $$
+ [[ur:بلجئیم]] $$
+ [[ug:بېلگىيە]] $$
+ [[vec:Belgio]] $$
+ [[vi:Bỉ]] $$
+ [[vo:Belgän]] $$
+ [[fiu-vro:Belgiä]] $$
+ [[wa:Beldjike]] $$
+ [[vls:België]] $$
+ [[war:Belhika]] $$
+ [[wo:Belsik]] $$
+ [[wuu:比利时]] $$
+ [[yi:בעלגיע]] $$
+ [[yo:Bẹ́ljíọ̀m]] $$
+ [[zh-yue:比利時]] $$
+ [[diq:Belçıka]] $$
+ [[zea:Belhië]] $$
+ [[bat-smg:Belgėjė]] $$
+ [[zh:比利时]] $$
+ 
+</links>
+<sections>
+<heading>
+History
+</heading>
+<text>
+
+{{Main|History of Belgium}}
+[[File:Map-1477 Low Countries.png|thumb|left|The [[Seventeen Provinces]] (orange, brown and yellow areas) and the [[Bishopric of Liège]] (green)]]
+
+The name 'Belgium' is derived from ''[[Gallia Belgica]]'', a [[Roman province]] in the northernmost part of [[Gaul]] that, before Roman invasion in 100 BC, was inhabited by the ''[[Belgae]]'', a mix of [[Celts|Celtic]] and [[Germanic peoples]].<ref>{{cite book
+|title=[[Encyclopedia of the Roman Empire]]
+|author=Bunson, Matthew
+|year=1994
+|page=169
+|edition=Hardcover 352pp
+|publisher=Facts on File, New York
+|isbn=081602135X Paperback 512pp, ISBN 0-8160-3182-7; Revised edition (2002), Hardcover 636pp, ISBN 0-8160-4562-3}}<!--reference 2007-08-15 borrowed from WP article 'Gallia Belgica', version 2007-05-12 id=128931276, at "Agrippa made the divisions on what he perceived to be distinctions in language, race and community—Gallia Belgica was meant to be a mix of Celtic and Germanic peoples."; not doublechecked--></ref><ref>Footnote: The Celtic and/or Germanic influences on and origin(s) of the Belgae remains disputed. Further reading e.g.{{cite web
+|title=Ethnic and Cultural Identity
+|work=Barbarians on the Greek Periphery?—Origins of Celtic Art
+|year=1997 |month=May
+|author=Witt, Constanze Maria
+|publisher=Institute for Advanced Technology in the Humanities, [[University of Virginia]]
+|url=http://www3.iath.virginia.edu/Barbarians/Essays/ethnic_main.html
+|accessdate=6 June 2007}}</ref>
+A [[Migration Period|gradual immigration]] by Germanic [[Franks|Frankish]] tribes during the 5th century brought the area under the rule of the [[Merovingian]] kings. A gradual shift of power during the 8th century led the kingdom of the Franks to evolve into the [[Carolingian Empire]].<ref name=CookP3>Cook (2002), p. 3</ref> The [[Treaty of Verdun]] in 843 divided the region into [[Middle Francia|Middle]] and [[Western Francia]] and therefore into a set of more or less independent [[fiefdom]]s which, during the [[Middle Ages]], were [[vassal]]s either of the [[King of France]] or of the [[Holy Roman Emperor]].<ref name=CookP3/> [[Timeline of Burgundian and Habsburg acquisitions in the Low Countries|Many of these fiefdoms]] were united in the [[Burgundian Netherlands]] of the 14th and 15th centuries.<ref>{{cite web
+|title=Chapter I: The Burgundian Netherlands|work=History of Holland
+|author=Edmundson, George
+|publisher=The University Press, Cambridge. Republished: Authorama
+|year=1922
+|url=http://www.authorama.com/history-of-holland-3.html
+|accessdate=15 December 2010}}</ref> [[Charles V, Holy Roman Emperor|Emperor Charles V]] extended the [[personal union]] of the [[Seventeen Provinces]] in the 1540s, making it far more than a personal union by the [[Pragmatic Sanction of 1549]] and increased his influence over the [[Prince-Bishopric of Liège]].<ref>{{cite web
+|title=Chapter II: Habsburg Rule in the Netherlands
+|work=History of Holland
+|author=Edmundson, George
+|publisher=The University Press, Cambridge. Republished: Authorama
+|year=1922
+|url=http://www.authorama.com/history-of-holland-4.html
+|accessdate=9 June 2007}}</ref> 
+
+The [[Eighty Years' War]] (1568–1648) divided the Low Countries into the northern [[Republic of the Seven United Provinces of the Netherlands|United Provinces]] (''Belgica Foederata'' in [[Latin]], the "Federated Netherlands") and the [[Southern Netherlands]] (''Belgica Regia'', the "Royal Netherlands"). The latter were ruled successively by the [[Habsburg Spain|Spanish]] and the [[History of Austria#Charles VI and Maria Theresa (1711–1780)|Austrian]] [[Habsburg]]s and comprised most of modern Belgium. This was the theatre of most [[Franco-Spanish War (1635)|Franco-Spanish]] and [[War of the Austrian Succession|Franco-Austrian wars]]<!--disambiguation page intended: "most" wars of that list--> during the 17th and 18th centuries. Following the [[French Revolutionary Wars: Campaigns of 1794|campaigns of 1794 in the French Revolutionary Wars]], the Low Countries—including territories that were never nominally under Habsburg rule, such as the Prince-Bishopric of Liège—were annexed by the [[French First Republic]], ending Austrian rule in the region. The reunification of the Low Countries as the [[United Kingdom of the Netherlands]] occurred at the dissolution of the [[First French Empire]] in 1815.
+
+[[File:Wappers belgian revolution.jpg|thumb|left|''Episode of the [[Belgian Revolution]] of 1830'' (1834)<br/>by [[Egide Charles Gustave Wappers]],<br/> [[Royal Museums of Fine Arts of Belgium|Museum of Ancien Arts, Brussels]].]]
+
+The 1830 [[Belgian Revolution]] led to the establishment of an independent, Catholic and neutral Belgium under a [[Provisional Government of Belgium|provisional government]] and a [[national Congress of Belgium|national congress]].<ref>{{cite web|url=http://www.questia.com/read/3461234|title=[[Brison D. Gooch]], ''Belgium and the February Revolution''|publisher=[[The Hague]], [[Netherlands]]: Martinus Nijhoff Publishers, 1963, 112 pp|accessdate=18 October 2010}}</ref> Since the installation of [[Leopold I of Belgium|Leopold I]] as king in 1831, Belgium has been a [[constitutional monarchy]] and [[parliamentary democracy]], with a [[Laïcité|laicist]] constitution based on the [[Napoleonic code]]. Although the franchise was initially restricted, [[universal suffrage]] for men was introduced after the [[Belgian general strike of 1893|general strike of 1893]] (with [[plural voting]] until 1919) and for women in 1949. The main political parties of the 19th century were the [[Catholic Party (Belgium)|Catholic Party]] and the [[Liberal Party (Belgium)|Liberal Party]], with the [[Belgian Labour Party]] emerging towards the end of the century. French was originally the single official language adopted by the [[nobility]] and the [[bourgeoisie]]. It progressively lost its overall importance as Dutch became recognized as well. This recognition became official in 1898 and in 1967 a Dutch version of the [[Belgian Constitution|Constitution]] was legally accepted.<ref>{{cite web
+|title=Ethnic structure, inequality and governance of the public sector in Belgium
+|author=[http://www.unrisd.org/80256B3C005BC203/(httpPeople)/417C5EAAE7060027C1256F2000472415?OpenDocument Kris Deschouwer]
+|publisher=United Nations Research Institute for Social Development (<span style="font-size:87%;">UNRISD</span>)
+|month=January
+|year=2004
+|url=http://www.unrisd.org/UNRISD/website/document.nsf/ab82a6805797760f80256b4f005da1ab/ec506a59176be044c1256e9e003077c3/$FILE/Deschou.pdf|accessdate=22 May 2007}}</ref>
+
+The [[Berlin Conference]] of 1885 ceded control of the [[Congo Free State]] to [[Leopold II of Belgium|King Leopold II]] as his private possession. From around 1900 there was growing international concern for the extreme and savage treatment of the Congolese population under Leopold II, for whom the Congo was primarily a source of revenue from ivory and rubber production. In 1908 this outcry led the Belgian state to assume responsibility for the government of the colony, henceforth called the [[Belgian Congo]].<ref>{{cite book
+|title=The State of Africa
+|pages=95–96(?)
+|edition=Hardcover 608pp
+|date=6 June 2005
+|author=Meredith, Mark
+|publisher=Free Press
+|isbn=0-7432-3221-6}}<!--Original 2007-06-21 entry here as publisher=Simon & Schuster, year=2006, pages=95–96, isbn=978-0-7432-3222-7: ref not found on that date--></ref> Germany invaded Belgium in 1914 as part of the [[Schlieffen Plan]] and much of the [[Western Front (World War I)|Western Front]] fighting of World War I occurred in western parts of the country. The opening months of the war were known as the [[Rape of Belgium]] due to German atrocities. Belgium took over the [[German colonies]] of [[Ruanda-Urundi]] (modern day [[Rwanda]] and [[Burundi]]) during the war, and they were mandated to Belgium in 1924 by the [[League of Nations]]. In the aftermath of the First World War, the [[districts of Prussia|Prussian districts]] of [[Eupen-Malmedy|Eupen and Malmedy]] were annexed by Belgium in 1925, thereby causing the presence of a German-speaking minority. The country was again invaded by Germany in 1940 during the [[Blitzkrieg]] offensive and occupied until its [[Allied advance from Paris to the Rhine|liberation by the Allies]] in 1944. After World War II, [[General strike against Leopold III of Belgium|a general strike]] forced king [[Leopold III of Belgium|Leopold III]], who many saw as collaborating with the Germans during the war, to abdicate in 1951. The Belgian Congo gained independence in 1960 during the [[Congo Crisis]];<ref>{{cite web|url=http://www.bbc.co.uk/dna/h2g2/A1304803 |title=The Congolese Civil War 1960–1964 |publisher=BBC News |accessdate=29 April 2010}}</ref> Ruanda-Urundi followed with its independence two years later.  Belgium joined [[NATO]] as a founding member and formed the Benelux group of nations with the Netherlands and Luxembourg. Belgium became one of the six founding members of the [[European Coal and Steel Community]] in 1951 and of the [[European Atomic Energy Community]] and [[European Economic Community]], established in 1957. The latter is now the European Union, for which Belgium hosts major administrations and institutions, including the [[European Commission]], the [[Council of the European Union]] and the extraordinary and committee sessions of the [[European Parliament]].
+
+
+</text>
+<heading>
+Politics
+</heading>
+<text>
+
+{{Main|Politics of Belgium|Belgian federal parliament|Belgian federal government|Political parties in Belgium}}
+{{further|[[List of Belgian monarchs]], [[List of Belgian Prime Ministers]], [[Foreign relations of Belgium]]}}
+Belgium is a [[constitutional monarchy|constitutional]], [[popular monarchy]] and a [[parliamentary system|parliamentary democracy]].
+[[File:Albert II.jpg|thumb|150px|[[Albert II of Belgium|Albert II]], [[Monarchy of Belgium|King of the Belgians]]]]
+
+The federal [[bicameralism|bicameral]] parliament is composed of a [[Belgian Senate|Senate]] and a [[Belgian Chamber of People's Representatives|Chamber of Representatives]]. The former is made up of 40 directly elected politicians and 21 representatives appointed by the [[Communities, regions and language areas of Belgium|3 Community parliaments]], 10 [[Belgian Senate#Co-opted Senators|co-opted senators]] and the children of the king, as [[Belgian Senate#Senators by Right|Senators by Right]] who in practice do not cast their vote. The [[Chambers of parliament|Chamber]]'s 150 representatives are elected under a [[proportional voting]] system from 11 [[Arrondissements of Belgium|electoral districts]]. Belgium is one of the few countries that has [[compulsory voting]] and thus holds one of the highest rates of [[voter turnout]] in the world.<ref>{{cite web
+|title=The Dynamics of Electoral Participation—Table 10.1 Average turnout in free elections to the lower house in 40 countries, 1961–1999
+|page=&nbsp;32
+|year=2001
+|author=Franklin, Mark N., [[Trinity College (Connecticut)|Trinity College, Connecticut]]
+|url=http://citeseer.ist.psu.edu/cache/papers/cs/25027/http:zSzzSzwww2.trincoll.eduzSz~mfranklizSzParticipation.pdf/franklin01dynamics.pdf
+|accessdate=29 May 2007}}{{Dead link|date=July 2010}}</ref>
+
+The [[Monarchy of Belgium|King]] (currently [[Albert II of Belgium|Albert II]]) is the [[head of state]], though with limited [[Royal Prerogative|prerogatives]]. He appoints ministers, including a Prime Minister, that have the confidence of the [[Chamber of Representatives of Belgium|Chamber of Representatives]] to form the [[federal government]]. The numbers of Dutch- and French-speaking ministers are equal as prescribed by the constitution.<ref name=constitution1>{{cite web
+|title=Belgium—Constitution—Title III Powers, Chapter II The Senate, Article 72 <nowiki>[</nowiki>King's Descendants<nowiki>]</nowiki>&nbsp;; and Title III, Chapter III King and Federal Government, Section I The King&nbsp;; and Section II The Federal Government, Article 99 <nowiki>[</nowiki>Composition of Government<nowiki>]</nowiki>
+|work=International Constitutional Law
+|publisher=Institut für öffentliches Recht, [[University of Berne]], Switzerland
+|date=17 February 1994
+|url=http://www.servat.unibe.ch/law/icl/be00000_.html
+|archiveurl=http://web.archive.org/web/20070424175706/http://www.servat.unibe.ch/law/icl/be00000_.html
+|archivedate=24 April 2007
+|accessdate=20 May 2007}} Or both:<br/>*{{cite web
+|title=Title III on power, Chapter II on the Senate, Art. 72
+|work=The Constitution of Belgium
+|publisher=The Federal Parliament of Belgium
+|date=21 January 1997
+|url=http://www.fed-parl.be/gwuk0004.htm
+|accessdate=20 May 2007}} And<br/>*{{cite web
+|title=Title III on Power, Chapter III on the King and the Federal Government, Section I on the King&nbsp; and Section II on the Federal Government, Art. 99
+|work=The Constitution of Belgium
+|publisher=The Federal Parliament of Belgium
+|date=21 January 1997
+|url=http://www.fed-parl.be/gwuk0006.htm#E11E6
+|accessdate=20 May 2007}}</ref> The judicial system is based on [[civil law (legal system)|civil law]] and originates from the [[Napoleonic code]]. The [[Court of Cassation (Belgium)|Court of Cassation]] is the court of last resort, with the [[Court of Appeal (Belgium)|Court of Appeal]] one level below.
+
+[[File:Yves Leterme 01.jpg|thumb|left|upright|Prime Minister [[Yves Leterme]]]]
+
+Belgium's political institutions are complex; most political power is organized around the need to represent the main cultural communities.<ref>{{cite web|url=http://www.belgium.be/en/about_belgium/government/federale_staat/|title=Belgium, a federal state |work=Belgium.be|accessdate=26 November 2010}}</ref> Since around 1970, the significant national Belgian political parties have split into distinct components that mainly represent the political and linguistic interests of these communities.<ref name=USStateDpt>{{cite web|url=http://www.state.gov/r/pa/ei/bgn/2874.htm |title=Background Note: Belgium |publisher=U.S. Department of States |date=29 April 2010 |accessdate=26 November 2010}}</ref> The major parties in each Community, though close to the political centre, belong to three main groups: the right-wing [[Liberalism in Belgium|Liberals]], the socially conservative [[Christen-Democratisch en Vlaams|Christian Democrats]] and the socialists forming the left wing.<ref>{{cite web|url=http://www.nsd.uib.no/european_election_database/country/belgium/parties.html|title=Belgium – Political parties|work=European Election Database|publisher=Norwegian Social Science Data Services|year=2010|accessdate=10 December 2010}}</ref> Further notable parties came into being well after the middle of last century, mainly around [[List of political parties in Belgium#Linguistic parties|linguistic]], nationalist, or environmental themes and recently smaller ones of some specific liberal nature.<ref name=USStateDpt/>
+
+A string of Christian Democrat coalition governments from 1958 [[Belgian general election, 1999|was broken in 1999]] after the first [[dioxine affair|dioxin crisis]], a major food contamination scandal.<ref>{{cite web
+|title=Dioxin contamination scandal hits Belgium: Effects spread through European Union and beyond
+|work=World Socialist Web Site (WSWS)
+|publisher=International Committee of the Fourth International (ICFI)
+|author=Tyler, Richard <!--Do ''not'' link to fictional character or The Daily Telegraph's Enterprise Editor, this R.T.=WSWS correspondent-->
+|date=8 June 1999
+|url=http://www.wsws.org/articles/1999/jun1999/belg-j08.shtml
+|accessdate=25 May 2007}}</ref><ref>ElAmin, Ahmed [http://www.foodproductiondaily.com/news/ng.asp?id=65481-belgium-netherlands-dioxin Belgium, Netherlands meat sectors face dioxin crisis], foodproductiondaily.com, 31 January 2006</ref><ref>{{cite press release
+|title=Food Law News—EU&nbsp;: CONTAMINANTS—Commission Press Release (IP/99/399) Preliminary results of EU-inspection to Belgium
+|date=16 June 1999
+|author=[[European Commission]]
+|publisher=School of Food Biosciences, University of Reading, UK
+|url=http://www.foodlaw.rdg.ac.uk/news/eu-99-40.htm
+|accessdate=29 May 2007}}</ref> A 'rainbow coalition' emerged from six parties: the Flemish and the French-speaking Liberals, Social Democrats, Greens.<ref>{{cite news
+|title=Belgium's "rainbow" coalition sworn in
+|publisher=BBC News
+|date=12 July 1999
+|url=http://news.bbc.co.uk/1/hi/world/europe/392004.stm
+|accessdate=20 May 2007}}</ref> Later, a '[[Purple (government)|purple coalition]]' of Liberals and Social Democrats formed after the Greens lost most of their seats in the [[Belgian general election, 2003|2003 election]].<ref>{{cite web
+|title=La Chambre des représentants—Composition (''Composition of the Chamber of Representatives'')
+|date=9 March 2006
+|publisher=The Chamber of Representatives of Belgium
+|language=French
+|url=http://www.lachambre.be/kvvcr/pdf_sections/pri/fiche/10F.pdf
+|accessdate=25 May 2007| archiveurl = http://web.archive.org/web/20061107200900/http://www.lachambre.be/kvvcr/pdf_sections/pri/fiche/10F.pdf| archivedate = 7 November 2006}}<!--REF FAILS TO CONFIRM TEXT (counting seats does not exclude possibility of Ecolo/NVA/FN as 5th etc parties)--></ref> The government led by Prime Minister [[Guy Verhofstadt]] from 1999 to 2007 achieved a balanced budget, some tax reforms, a labour-market reform, scheduled [[Nuclear energy policy#Europe|nuclear phase-out]] and instigated legislation allowing more stringent [[War Crimes Law (Belgium)|war crime]] and more lenient [[soft drugs|soft drug usage]] prosecution. Restrictions on withholding [[euthanasia]] were reduced and [[same-sex marriage in Belgium|same-sex marriage]] legalized. The government promoted active diplomacy in Africa<ref>{{cite web
+|title=Rwanda
+|work=tiscali.reference
+|publisher=Tiscali UK
+|url=http://www.tiscali.co.uk/reference/encyclopaedia/hutchinson/m0019846.html
+|accessdate=27 May 2007}} The article shows an example of Belgium's recent African policies.</ref> and [[Governmental positions on the Iraq War prior to the 2003 invasion of Iraq|opposed the invasion of Iraq]].<ref>{{cite news
+|title=Belgian demand halts NATO progress
+|publisher=CNN News
+|date=16 February 2003
+|url=http://www.cnn.com/2003/WORLD/meast/02/16/sprj.irq.nato.belgium.ap/
+|accessdate=16 June 2007 |archiveurl = http://web.archive.org/web/20050116083744/http://www.cnn.com/2003/WORLD/meast/02/16/sprj.irq.nato.belgium.ap/ |archivedate = 16 January 2005}}</ref> 
+
+Verhofstadt's coalition fared badly in the [[Belgian general election, 2007|June 2007 elections]]. For more than a year, the country experienced a [[2007 Belgian government formation|political crisis]].<ref>{{cite news
+|url=http://news.bbc.co.uk/2/hi/europe/country_profiles/1002141.stm
+|title=Time-line Belgium
+|publisher=BBC-News
+|date=5 January 2009
+|accessdate=16 July 2009
+|quote=2007 September – Belgium without a government for 100 days.}}</ref>  This crisis was such that many observers speculated on a possible [[partition of Belgium]].<ref name=SanFranChro/><ref name=BBCJuly2008/><ref name=Telegraph2010/> From 21 December 2007 until 20 March 2008 the temporary [[Verhofstadt III Government]] was in office. This coalition of the [[Christen-Democratisch en Vlaams|Flemish]] and [[Humanist Democratic Centre|Francophone Christian Democrats]], the [[VLD|Flemish]] and [[Mouvement Réformateur|Francophone Liberals]] together with the [[Socialist Party (francophone Belgium)|Francophone Social Democrats]] was an interim government until 20 March 2008. On that day a [[Leterme I Government|new government]], led by Flemish Christian Democrat [[Yves Leterme]], the actual winner of the federal elections of June 2007, was sworn in by the king. On 15 July 2008 Leterme announced the resignation of the cabinet to the king, as no progress in [[state reform in Belgium|constitutional reforms]] had been made.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/europe/7506640.stm |title=Belgian PM offers his resignation |publisher=BBC News |date=15 July 2008 |accessdate=29 April 2010}}</ref>
+In December 2008 he once more offered his resignation to the king after a [[2008–2009 Belgian financial crisis|crisis]] surrounding the sale of [[Fortis (finance)|Fortis]] to [[BNP Paribas]].<ref>[http://edition.cnn.com/2008/WORLD/europe/12/19/belgium.government.resignation/index.html CNN.com], "Belgium Prime Minister offers resignation over banking deal"</ref> At this juncture, his resignation was accepted and [[CD&V|Flemish Christian Democrat]] [[Herman Van Rompuy]] was sworn in as Prime Minister on 30 December 2008.<ref>[http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSLS35202520081228 Belgian king asks Van Rompuy to form government] Reuters</ref>
+
+After Herman Van Rompuy was designated the first permanent [[President of the European Council]] on 19 November 2009, he offered the resignation of his government to King Albert II on 25 November 2009. A few hours later, the [[Leterme II Government|new government]] under Prime Minister Yves Leterme was sworn in. On 22 April 2010, Leterme again offered the resignation of his cabinet to the king<ref>{{cite news|url=http://www.france24.com/en/20100422-belgium-leterme-resigns-vld-liberals-democrats-quit-ruling-coalition|title=Prime Minister Leterme resigns after liberals quit government |date=22 April 2010|publisher=France24|accessdate=22 April 2010}}</ref> after one of the coalition partners, the [[OpenVLD]], withdrew from the government, and on 26 April 2010 King Albert officially accepted the resignation.<ref>{{cite web|url=http://www.france24.com/en/20100426-leterme-albert-accepts-resignation-prime-minister-government-collapse-belgium |title=King Albert II accepts resignation of Prime Minister Yves Leterme |publisher=France24 |accessdate=29 April 2010}}</ref>
+The Parliamentary elections in Belgium on 13 June 2010 saw the Flemish separatist [[New Flemish Alliance|N-VA]] become the largest party in Flanders, and the Socialist Party PS the largest party in Wallonia.<ref>{{cite web|url=http://electionresources.org/be/chamber.php?election=2010 |title=Federal Elections in Belgium – Chamber of Representatives Results}}</ref> Belgium has since then been governed by Leterme's [[Lame duck (politics)|lame duck]] government awaiting the end of the currently deadlocked negotiations for [[2010 Belgian government formation|formation of a new government]].
+
+
+</text>
+<heading>
+Communities and Regions
+</heading>
+<text>
+
+{{Main|Communities, regions and language areas of Belgium}}
+{{See also|Language legislation in Belgium|Municipalities with language facilities}}
+[[File:Communities of Belgium.svg|thumb|Communities:<br/>{{legend|#fab274|[[Flemish Community]] / Dutch language area}}
+<span style="margin:0; padding-bottom:1px; font-size:90%; display:block;"><span style="background:#fab274; color:#fab274;">&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="background:#f2536b; color:#f2536b;">&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp;Flemish & French Community / bilingual language area</span>
+{{legend|#f2536b|[[French Community of Belgium|French Community]] / French language area}}{{legend|#40bb6a|[[German-speaking Community of Belgium|German-speaking Community]] / German language area}}]]
+[[File:Regions of Belgium.svg|thumb|Regions:<br/>{{legend|#fab274|[[Flemish Region]] / Dutch language area}}{{legend|#2385d2|[[Brussels|Brussels-Capital Region]] / bilingual language area}}{{legend|#f2536b|[[Walloon Region]] / French and German language areas}}]]
+
+Following a usage which can be traced back to the Burgundian and Habsburgian courts,<ref>{{cite book
+|title=Zweisprachigkeit in den Benelux-ländern
+|language=German
+|author=Johannes Kramer
+|quote=Zur prestige Sprache wurde in den Spanischen Niederlanden ganz eindeutig das Französische. Die Vertreter Spaniens beherrschten normalerweise das Französische, nicht aber das Niederländische; ein beachtlicher Teil der am Hofe tätigen Adligen stammte aus Wallonien, das sich ja eher auf die spanische Seite geschlagen hatte als Flandern und Brabant. In dieser Situation war es selbstverständlich, dass die flämischen Adligen, die im Laufe der Zeit immer mehr ebenfalls zu Hofbeamten wurden, sich des Französischen bedienen mussten, wenn sie als gleichwertig anerkannt werden wollten. [Transl.: The prestigious language in the Spanish Netherlands was clearly French. The Spain's representatives usually mastered French but not Dutch; a notable part of the nobles at the court came from Wallonia, which had taken party for the Spanish side to a higher extent than Flanders and Brabant. It was therefore evident within this context that the Flemish nobility, of which a progessively larger number became servants of the court, had to use French, if it wanted to get acknowledged as well.]
+|publisher=Buske Verlag
+|year=1984
+|page=69
+|isbn=3871185973}}</ref> in the 19th century it was necessary to speak French to belong to the governing upper class, and those who could only speak Dutch were effectively second-class citizens.<ref>{{cite book|title=Political History of Belgium: From 1830 Onwards|author1=Els Witte|author2=Jan Craeybeckx|author3=Alain Meynen|publisher=Academic and Scientific Publishers|location=Brussels|year=2009|page=56}}</ref> Late that century, and continuing into the 20th century, [[Flemish movement]]s evolved to counter this situation.<ref name=Fitzmaurice1996-p31>Fitzmaurice (1996), p.31</ref> While the Walloons and [[Frenchification of Brussels|most Brusselers]] adopted French as their first language, the Flemings refused to do so and succeeded progressively in imposing Dutch as Flanders' [[language legislation in Belgium|official language]].<ref name=Fitzmaurice1996-p31/> Following World War II, Belgian politics became increasingly dominated by the autonomy of its two main language communities.<ref name=EED>{{cite web|url=http://www.nsd.uib.no/european_election_database/country/belgium/background.html|title=Belgium|work=[[European Election Database]]|publisher=[[Norwegian Social Science Data Services]]|year=2010|accessdate=8 December 2010}}</ref> Intercommunal tensions rose and the constitution was amended in order to minimise the conflict potentials.<ref name=EED/>
+
+Based on the four language areas defined in 1962–63 (the Dutch, bilingual, French and German language areas), consecutive [[state reform in Belgium|revisions]] of [[Constitution of Belgium|the country's constitution]] in 1970, 1980, 1988 and 1993 established a unique federal state with segregated political power into three levels:<ref name=rolandwillemyns>{{cite journal
+|title=The Dutch-French Language Border in Belgium
+|journal=Journal of Multilingual and Multicultural Development
+|volume= 23
+|issue= 1&2
+|year=2002
+|pages=36–49
+|author=Willemyns, Roland, [[Vrije Universiteit Brussel]], Germanic Languages
+|url=http://www.multilingual-matters.net/jmmd/023/0036/jmmd0230036.pdf
+|accessdate=22 June 2007
+|doi=10.1080/01434630208666453
+}}</ref><ref>Each municipality of the Kingdom is part of one of the four [[Communities, regions and language areas of Belgium|language areas (''taalgebieden'' in Dutch, ''Sprachgebiete'' in German), occasionally called linguistic regions (''régions linguistiques'' in French)]]. See the three legal versions of the Constitution:<br/>*{{cite web
+|title=Titel I: Het federale België, zijn samenstelling en zijn grondgebied
+|quote=Art.&nbsp;4 België omvat vier taalgebieden
+|language=Dutch
+|work=De Belgische Grondwet
+|url=http://www.senate.be/doc/const_n1 May 2007
+|title=Titel I: Das föderale Belgien, seine Zusammensetzung und sein Staatsgebiet
+|quote=Art.&nbsp;4 Belgien umfaßt vier Sprachgebiete
+|language=German
+|date=15 May 2007 last update of web page
+|work=Die Verfassung Belgiens
+|publisher=Belgian Senate
+|url=http://www.senate.be/deutsch/const_de.html#t1
+|accessdate=31 May 2007}}<br/>*{{cite web
+|title=Titre Ier: De la Belgique fédérale, de ses composantes et de son territoire
+|quote=Art.&nbsp;4 La Belgique comprend quatre régions linguistiques
+|language=French
+|date=15 May 2007 last update of web page
+|work=La Constitution Belge
+|url=http://www.senate.be/doc/const_fr.html#t1
+|publisher=Belgian Senate
+|accessdate=31 May 2007}}<br/>&nbsp; English translation, not recently updated and without legal value:<br/>*{{cite web
+|title=Title I: On Federal Belgium, its components and its territory
+|quote=Art.&nbsp;4 Belgium has four linguistic regions
+|date=21 January 1997 last update of main 'the Constitution' page on web site
+|work=the Constitution
+|publisher=Belgian Senate
+|url=http://www.fed-parl.be/gwuk0001.htm#E12E1
+|accessdate=31 May 2007}}</ref>
+# The [[Belgian federal government|federal government]], based in Brussels.
+# The three language communities:
+#* the [[Flemish Community]] (Dutch-speaking);
+#* the [[French Community of Belgium|French Community]] (French-speaking);
+#* the [[German-speaking Community of Belgium|German-speaking Community]].
+# The three regions:
+#* the [[Flemish Region]], subdivided into five [[provinces of Belgium|provinces]];
+#* the [[Walloon Region]], subdivided into five provinces;
+#* the [[Brussels-Capital Region]].
+
+The constitutional language areas determine the official languages in their municipalities, as well as the geographical limits of the empowered institutions for specific matters.<ref name=Fitzmaurice1996-p121>Fitzmaurice (1996), p. 121</ref> Although this would allow for seven parliaments and governments, when the Communities and Regions were created in 1980, Flemish politicians decided to merge both.<ref name=Fitzmaurice1996-p122>Fitzmaurice (1996), p. 122</ref> Thus the Flemings just have one single institutional body of parliament and government is empowered for all except federal and specific municipal matters.<ref name="OneFlemishBody">Footnote: The Constitution set out seven institutions each of which can have a parliament, government and administration. In fact there are only six such bodies because the Flemish Region merged into the Flemish Community. This single Flemish body thus exercises powers about Community matters in the bilingual area of Brussels-Capital and in the Dutch language area, while about Regional matters only in the latter.</ref>
+
+The overlapping boundaries of the Regions and Communities have created two notable peculiarities: the territory of the Brussels-Capital Region (which came into existence nearly a decade after the other regions) is included in both the Flemish and French Communities, and the territory of the German-speaking Community lies wholly within the Walloon Region. Conflicts jurisdiction between the bodies are resolved by the [[Constitutional Court of Belgium]]. The structure is intended as a compromise to allow different cultures to live together peacefully.<ref name="Fitzmaurice"/>
+
+The Federal State's authority includes justice, defence, federal police, social security, nuclear energy, monetary policy and public debt, and other aspects of public finances. State-owned companies include the [[Belgian Post Group]] and [[National Railway Company of Belgium|Belgian Railways]]. The Federal Government is responsible for the obligations of Belgium and its federalized institutions towards the European Union and NATO. It controls substantial parts of public health, home affairs and foreign affairs.<ref name=fedgov1>{{cite web
+|title=The Federal Government's Powers
+|work=.be Portal
+|publisher=Belgian Federal Government
+|url=http://www.belgium.be/eportal/application?origin=navigationBanner.jsp&event=bea.portal.framework.internal.refresh&pageid=indexPage&navId=6188
+|accessdate=23 May 2007}}{{Dead link|date=October 2008}}</ref> The budget—without the debt—controlled by the federal government amounts to about 50% of the national fiscal income. The federal government employs around 12% of the civil servants.<ref>{{cite book
+|quote=In 2002, 58.92% of the fiscal income was going to the budget of the federal government, but more than one third was used to pay the interests of the public debt. Without including this post, the share of the federal government budget would be only 48.40% of the fiscal income. There are 87,8% of the civil servants who are working for the Regions or the Communities and 12,2% for the Federal State.
+|author=Charles-Etienne Lagasse
+|title=Les nouvelles institutions politiques de la Belgique et de l'Europe
+|publisher=Erasme
+|location=Namur
+|year=2003
+|isbn=2-87127-783-4
+|page=289}}</ref>
+
+Communities exercise their authority only within linguistically determined geographical boundaries, originally oriented towards the individuals of a Community's language: culture (including audiovisual media), education and the use of the relevant language. Extensions to personal matters less directly connected with language comprise health policy (curative and preventive medicine) and assistance to individuals (protection of youth, social welfare, aid to families, immigrant assistance services, etc.).<ref name=fedgov2>{{cite web
+|title=The Communities
+|work=.be Portal
+|publisher=Belgian Federal Government
+|url=http://www.belgium.be/eportal/application?origin=navigationBanner.jsp&event=bea.portal.framework.internal.refresh&pageid=indexPage&navId=2686
+|accessdate=23 May 2007}}{{Dead link|date=October 2008}}</ref>
+
+Regions have authority in fields that can be broadly associated with their territory. These include economy, employment, agriculture, water policy, housing, public works, energy, transport, the environment, town and country planning, nature conservation, credit and foreign trade. They supervise the provinces, municipalities and intercommunal utility companies.<ref name=fedgov2/>
+
+In several fields, the different levels each have their own say on specifics. With education, for instance, the autonomy of the Communities neither includes decisions about the compulsory aspect nor allows for setting minimum requirements for awarding qualifications, which remain federal matters.<ref name=fedgov1/> Each level of government can be involved in scientific research and international relations associated with its powers.<ref name=fedgov3>{{cite web
+|title=The Regions
+|work=.be Portal
+|publisher=Belgian Federal Government
+|url=http://www.belgium.be/eportal/application?origin=navigationBanner.jsp&event=bea.portal.framework.internal.refresh&pageid=indexPage&navId=2690
+|accessdate=23 May 2007}}{{Dead link|date=October 2008}}</ref><ref name=fedgov3/> The treaty-making power of the Regions' and Communities' Governments is the broadest of all the Federating units of all the Federations all over the world.<ref>{{cite web
+|language=French
+|quote=La Belgique constitue ainsi le seul exemple clair du transfert d'une partie de la compétence « affaires étrangères » à des entités fédérées. (Transl.: Belgium is thus the only clear example of a transfer of a part of the "Foreign Affairs" competences to federated units.)
+|author=Charles-Etienne Lagasse
+|date=17–18 May 2004
+|publisher=Kazan Institute of Federalism
+|title=Federalism in Russia, Canada and Belgium: experience of comparative research
+|url=http://www.kazanfed.ru/en/actions/konfer8/6/
+}}</ref><ref>{{cite book
+|language=French
+|quote=[Le fédéralisme belge] repose sur une combinaison unique d'équipollence, d'exclusivité et de prolongement international des compétences. ([Belgian federalism] is based on a unique combination of equipollence, of exclusivity, and of international extension of competences.)
+|author=C.E. Lagasse
+|title=Les nouvelles institutions de la Belgique et de l'Europe
+|page=603}}</ref><ref>{{cite web
+|language=French
+|quote=Dans l'organisation de ces autonomies, la Belgique a réalisé une « première » mondiale: afin d'éviter la remise en cause, par le biais de la dimension internationale, de compétences exclusives transférées aux entités fédérées, les communautés et régions se sont vu reconnaître une capacité et des pouvoirs internationaux. (In organizing its autonomies, Belgium realized a World's First: to avoid a relevant stalemate, international consequences caused transfers of exclusive competences to federal, community and regional entities that are recognized to have become internationally enabled and enpowered.)
+|author=Philippe Suinen
+|title=Une Première mondiale
+|work=[[Le Monde Diplomatique]]
+|month=October|year=2000
+|url=http://www.monde-diplomatique.fr/2000/10/SUINEN/14406.html
+}}</ref>
+
+
+</text>
+<heading>
+Geography
+</heading>
+<text>
+
+{{Main|Geography of Belgium}}
+[[File:Diksmuide - Polders - IJzer.jpg|thumb|right|[[Polder]]s along the [[Yser]] river]]
+
+Belgium shares borders with [[France]] ({{nowrap|620&nbsp;km}}), [[Germany]] ({{nowrap|167&nbsp;km}}), [[Luxembourg]] ({{nowrap|148&nbsp;km}}) and the [[Netherlands]] ({{nowrap|450&nbsp;km}}). Its total area, including surface water area, is 33,990 square kilometers; land area alone is 30,528&nbsp;km<sup>2</sup>. It lies between latitudes [[49th parallel north|49°]] and [[53rd parallel north|53° N]], and longitudes [[2nd meridian east|2°]] and [[7th meridian east|7° E]].
+
+Belgium has three main geographical regions: the coastal plain in the north-west and the central plateau both belong to the Anglo-Belgian Basin; the [[Ardennes]] uplands in the south-east are part of the [[Variscan orogeny|Hercynian orogenic belt]]. The [[Paris Basin (geology)|Paris Basin]] reaches a small fourth area at Belgium's southernmost tip, [[Belgian Lorraine]].<ref>{{cite web
+|title=Belgium—The land—Relief
+|work=Encyclopædia Britannica online
+|year=© 2007
+|publisher=Encyclopædia Britannica, Chicago, Illinois, USA
+|url=http://www.britannica.com/eb/article-9109741/Belgium#24981.toc
+|url2=https://edit.britannica.com/getEditableToc?tocId=24981
+|accessdate=3 July 2007}}</ref>
+
+The coastal plain consists mainly of sand dunes and [[polder]]s. Further inland lies a smooth, slowly rising landscape irrigated by numerous waterways, with fertile valleys and the northeastern sandy plain of the [[Campine]] (''Kempen''). The thickly forested hills and plateaus of the Ardennes are more rugged and rocky with caves and small [[canyon|gorges]]. Extending westward into France, this area is eastwardly connected to the [[Eifel]] in Germany by the [[High Fens]] plateau, on which the [[Signal de Botrange]] forms the country's highest point at {{convert|694|m|ft|0}}.<ref>{{cite web
+|title=Geography of Belgium
+|year=<!--unknown-->
+|publisher=123independenceday.com
+|url=http://www.123independenceday.com/belgium/geography.html
+|accessdate=10 August 2007}}</ref><ref>{{cite web
+|title=Life—Nature
+|year=2005
+|publisher=Office for Official Publications of the European Communities
+|url=http://kp.org.pl/n2k/pdf/15.pdf
+|accessdate=10 August 2007}}</ref>
+
+
+</text>
+<heading>
+Climate
+</heading>
+<text>
+
+{{main|Climate of Belgium}}
+[[File:Ardennen.jpg|thumb|upright|Ardennes|Wooded landscape in the [[Ardennes]]]]
+
+The climate is [[Oceanic climate|maritime temperate]] with significant precipitation in all seasons ([[Köppen climate classification]]: ''Cfb''), as is the case with all areas adjacent to the [[North Sea]], including The Netherlands and much of the United Kingdom. The average temperature is lowest in January at {{convert|3|°C|°F|1}} and highest in July at {{convert|18|°C|°F|1}}. The average precipitation per month varies between {{convert|54|mm|in|1}} for February or April, to {{convert|78|mm|in|1|abbr=on}} for July.<ref>{{cite web
+|title=Climate averages—Brussels
+|publisher=Euro<span style="font-size:87%;">WEATHER</span>/Euro<span style="font-size:87%;">METEO</span>, Nautica Editrice Srl, Rome, Italy
+|url=http://www.euroweather.net/english/climate/city_EBBR/id_GT/meteo_brussels%20belgium
+|accessdate=27 May 2007}}</ref> Averages for the years 2000 to 2006 show daily temperature minimums of {{convert|7|°C|°F|1}} and maximums of {{convert|14|°C|°F|1}} and monthly rainfall of {{convert|74|mm|in|1|abbr=on}}; these are about 1 °[[Celsius|C]] and nearly 10 millimetres above last century's normal values, respectively.<ref name=statbel2>{{cite web
+|title=Kerncijfers 2006—Statistisch overzicht van België
+|pages=9–10
+|language=Dutch
+|publisher=Belgian Federal Government Service (ministry) of Economy—Directorate-general Statistics Belgium
+|url=http://statbel.fgov.be/pub/d0/p007y2006_nl.pdf
+|accessdate=8 May 2007| archiveurl = http://web.archive.org/web/20070605012645/http://statbel.fgov.be/pub/d0/p007y2006_nl.pdf| archivedate = 5 June 2007}}</ref>
+
+
+</text>
+<heading>
+Environment
+</heading>
+<text>
+
+[[Phytogeography|Phytogeographically]], Belgium is shared between the Atlantic European and Central European provinces of the [[Circumboreal Region]] within the [[Boreal Kingdom]].<ref>Takhtajan, Armen, 1986. ''Floristic Regions of the World''. (translated by T.J. Crovello & A. Cronquist). [[University of California Press]], [[Berkeley, California|Berkeley]].</ref> According to the [[World Wide Fund for Nature]], the territory of Belgium belongs to the [[ecoregion]] of Atlantic mixed forests.<ref>[http://www.worldwildlife.org/wildworld/profiles/terrestrial/pa/pa0402_full.html Atlantic mixed forests (PA0402)], World Wildlife Fund, 2001.</ref>
+
+Because of its high [[population density]], its location in the centre of Western Europe and inadequate political effort, Belgium faces serious [[Environment of Belgium|environmental problems]]. A 2003 report suggested Belgian natural waters
+(rivers and groundwater) to have the lowest water quality of the 122 countries studied.<ref>{{cite web
+|title=Sewage-laden Belgian water worst in world
+|last=Pearce |first=Fred
+|publisher=[[New Scientist]]
+|date=5 March 2003
+|url=http://www.newscientist.com/article.ns?id=dn3458
+|accessdate=9 May 2006}}</ref>
+In the 2006 pilot [[Environmental Performance Index]], Belgium scored 75.9% for overall environmental performance and was ranked lowest of the EU member countries, though it was only 39th of 133 countries.<ref>[http://www.yale.edu/epi/2006EPI_Report_Full.pdf Pilot 2006 Environmental Performance Index] – Yale Center for Environmental Law & Policy and Columbia University Center for International Earth Science Information Network</ref>
+
+
+</text>
+<heading>
+Economy
+</heading>
+<text>
+
+{{Main|Economy of Belgium}}
+{{Further|[[Energy in Belgium]]}}
+[[File:Ougree 16.jpg|thumb|Steelmaking along the [[Meuse River]] at [[Ougrée]], near [[Liège (city)|Liège]]]]
+
+Belgium's strongly globalized economy<ref>Belgium ranked first in the KOF [[Index of Globalization]] 2009{{cite web
+|url=http://globalization.kof.ethz.ch/
+|title=KOF Index of Globalization
+|editor=ETH Zürich
+|editorlink=ETH Zürich
+|accessdate=2 February 2009}}</ref> and its [[transportation in Belgium|transportation infrastructure]] are integrated with the rest of Europe. Its location at the heart of a highly industrialized region helped make it the world's 15th largest trading nation in 2007.<ref>{{cite web
+|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2078rank.html
+|title=Rank Order – Exports
+|work=CIA – The 2008 world factbook
+|quote=15[th]: Belgium $322,200,000,000 (2007 est.)
+|accessdate=5 October 2008}}</ref><ref>{{cite web
+|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2087rank.html
+|title=Rank Order – Imports
+|work=CIA – The 2008 world factbook
+|quote=15[th]: Belgium $323,200,000,000 (2007 est.)
+|accessdate=5 October 2008}}</ref> The economy is characterized by a highly productive work force, high [[GNP]] and high exports [[per capita]].<ref name=diplomatbe1>{{cite web
+|title=Belgian economy
+|work=Belgium
+|publisher=Belgian Federal Public Service (ministry) of Foreign Affairs, Foreign Trade and Development Cooperation
+|url=http://www.diplomatie.be/en/belgium/belgiumdetail.asp?TEXTID=49019
+|accessdate=12 June 2009
+|quote=Belgium is the world leader in terms of export per capita and can justifiably call itself the 'world's largest exporter'.
+}}</ref> Belgium's main imports are raw materials, machinery and equipment, chemicals, raw diamonds, pharmaceuticals, foodstuffs, transportation equipment, oil products. Its main exports are machinery and equipment, chemicals, finished diamonds, metals and metal products, foodstuffs.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/be.html|title=The World Factbook|accessdate=1 December 2010|publisher=CIA}}</ref>
+
+The Belgian economy is heavily service-oriented and shows a dual nature: a dynamic Flemish economy and a Walloon economy that lags behind.<ref name="Fitzmaurice"/><ref>{{cite web
+|title=Wallonia in 'decline' thanks to politicians
+|publisher=Expatica Communications BV
+|date=9 March 2005
+|url=http://www.expatica.com/actual/article.asp?subchannel_id=48&story_id=17824
+|accessdate=16 June 2007}}</ref> One of the founding members of the European Union, Belgium strongly supports an [[open economy]] and the extension of the powers of EU institutions to integrate member economies. Since 1922, through the [[Belgium-Luxembourg Economic Union]], Belgium and Luxembourg have been a single trade market with customs and currency union.
+
+Belgium was the first continental European country to undergo the [[Industrial Revolution]], in the early 19th century.<ref name=erih>{{cite web
+|title=Industrial History Belgium
+|publisher=European Route of Industrial Heritage
+|url=http://en.erih.net/index.php?pageId=114
+|accessdate=8 May 2007}}</ref> [[Liège (city)|Liège]] and [[Charleroi]] rapidly developed mining and steelmaking, which flourished until the mid-20th century in the [[Sambre]]–[[Meuse river|Meuse]] valley, the [[sillon industriel]] and made Belgium one of the top three most industrialized nations in the world from 1830 to 1910.<ref>{{cite book
+|author=Jean-Pierre Rioux
+|title=La révolution industrielle
+|language=French
+|publisher=Seuil
+|location=Paris
+|year=1989
+|page=105
+|isbn=2-02-000651-0}}</ref><ref>{{cite web|url=http://www.erih.net/industrial-history/belgium.html|publisher=European route of industrial heritage|title=Industrial History, Belgium}}</ref> However, by the 1840s the textile industry of Flanders was in severe crisis, and the region experienced famine from 1846–50.
+
+After World War II, [[Ghent]] and [[Antwerp]] experienced a rapid expansion of the chemical and petroleum industries. The [[1973 oil crisis|1973]] and [[1979 oil crisis|1979 oil crises]] sent the economy into a recession; it was particularly prolonged in Wallonia, where the [[steel industry]] had become less competitive and experienced serious decline.<ref name=usdepartmentofstate1>{{cite web
+|title=Background Note: Belgium
+|publisher=[[US Department of State]], Bureau of European and Eurasian Affairs
+|year=2007 |month=April
+|url=http://www.state.gov/r/pa/ei/bgn/2874.htm
+|accessdate=8 May 2007}}</ref> In the 1980s and 90s, the economic centre of the country continued to shift northwards and is now concentrated in the populous [[Flemish Diamond]] area.<ref>{{cite web
+|title=Het belang van de Vlaamse Ruit vanuit economisch perspectief ''The importance of the Flemish Diamond from an economical perspective''
+|language=Dutch
+|author=Vanhaverbeke, Wim
+|url=http://edata.ub.unimaas.nl/www-edocs/loader/file.asp?id=264
+|publisher=Netherlands Institute of Business Organization and Strategy Research, [[University of Maastricht]]
+|accessdate=19 May 2007| archiveurl = http://web.archive.org/web/20070314033239/http://edata.ub.unimaas.nl/www-edocs/loader/file.asp?id=264| archivedate = 14 March 2007}}</ref>
+
+By the end of the 1980s, Belgian [[macroeconomic policies]] had resulted in a cumulative government debt of about 120% of [[GDP]]. As of 2006, the budget was balanced and public debt was equal to 90.30% of GDP.<ref>{{cite web
+|title=The World Factbook—(Rank Order—Public debt)
+|date=17 April 2007
+|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2186rank.html
+|publisher=CIA
+|accessdate=8 May 2007}}</ref> In 2005 and 2006, real GDP growth rates of 1.5% and 3.0%, respectively, were slightly above the average for the Euro area. Unemployment rates of 8.4% in 2005 and 8.2% in 2006 were close to the area average.<ref name=nbb>{{cite web
+|title=Key figures
+|publisher=[[National Bank of Belgium]]
+|url=http://www.nbb.be/pub/00_00_00_00_02/?l=en&t=ho
+|archiveurl=http://web.archive.org/web/20070430165049/http://www.nbb.be/pub/00_00_00_00_02/?l=en&t=ho
+|archivedate=30 April 2007
+|accessdate=19 May 2007}}</ref>
+
+From 1832 until 2002, Belgium's currency was the [[Belgian franc]]. Belgium switched to the euro in 2002, with the first sets of euro coins being minted in 1999. The standard [[Belgian euro coins]] designated for circulation show the portrait of King Albert II.
+
+
+</text>
+<heading>
+Science and technology
+</heading>
+<text>
+
+{{further|[[Science and technology in Brussels]]|[[Science and technology in Flanders]]|[[Science and technology in Wallonia]]}}
+[[File:mercator.jpg|thumb|upright|[[Gerardus Mercator]]]]
+
+Contributions to the development of science and technology have appeared throughout the country's history. The 16th century [[Early Modern]] flourishing of Western Europe included [[cartography|cartographer]] [[Gerardus Mercator]], [[anatomy|anatomist]] [[Andreas Vesalius]], [[herbalist]] [[Rembert Dodoens]]<ref>{{cite web
+|title=Rembert Dodoens: iets over zijn leven en werk—Dodoens' werken
+|date=Revised 20 December 2005
+|work=Plantaardigheden—Project Rembert Dodoens (Rembertus Dodonaeus)
+|language=Dutch
+|quote=... het Cruijdeboeck, dat in 1554 verscheen. Dit meesterwerk was na de bijbel in die tijd het meest vertaalde boek. Het werd gedurende meer dan een eeuw steeds weer heruitgegeven en gedurende meer dan twee eeuwen was het het meest gebruikte handboek over kruiden in West-Europa. Het is een werk van wereldfaam en grote wetenschappelijke waarde. De nieuwe gedachten die Dodoens erin neerlegde, werden de bouwstenen voor de botanici en medici van latere generaties. ''(... the Cruijdeboeck, published in 1554.
+
+This masterpiece was, after the Bible, the most translated book in that time. It continued to be republished for more than a century and for more than two centuries it was the mostly used referential about herbs. It is a work with world fame and great scientific value. The new thoughts written down by Dodoens, became the building bricks for botanists and physicians of later generations.)''
+|publisher=Stichting Kruidenhoeve/Plantaardigheden
+|location=[[Balkbrug]]
+|url=http://plantaardigheden.nl/dodoens/over_dodoens/leven_en_werk.htm#dodoens
+|accessdate=17 May 2007}}<br/>*{{cite web
+|title=Simon Stevin
+|author=O'Connor, J. J.; Robertson, E. F.
+|publisher=School of Mathematics and Statistics, University of St Andrews, Scotland
+|year=2004
+|url=http://www-groups.dcs.st-andrews.ac.uk/~history/Biographies/Stevin.html
+|quote=Although he did not invent decimals (they had been used by the Arabs and the Chinese long before Stevin's time) he did introduce their use in mathematics in Europe.
+|accessdate=11 May 2007}}<br/>*{{cite web
+|title=Abstract (*)
+|quote=The importance of A. Vesalius' publication'' 'de humani corporis fabrica libri septem' ''cannot be overestimated.
+|publisher=S. Karger AG, Basel
+|url=http://content.karger.com/ProdukteDB/produkte.asp?Aktion=ShowPDF&ProduktNr=223979&Ausgabe=225203&ArtikelNr=13462
+|accessdate=11 May 2007}} (*) Free abstract for pay-per-view article by{{cite journal
+|title=The Low Countries – 16th/17th century
+|author=De Broe, Marc E.; De Weerdt, Dirk L.; Ysebaert, Dirk K.; Vercauteren, Sven R.; De Greef, Kathleen E.; De Broe Luc C.
+|work=Origins of Renal Physiology
+|journal=American Journal of Nephrology
+|year=1999
+|volume=19
+|issue=2
+|pages=282–9
+|pmid=10213829
+|doi=10.1159/000013462
+|url=http://content.karger.com/ProdukteDB/produkte.asp?Aktion=ShowPDF&ArtikelNr=13462&Ausgabe=225203&ProduktNr=223979&filename=13462.pdf
+}}<br/>*{{cite web
+|title='A Day Without Yesterday': Georges Lemaitre & the Big Bang
+|date=24 March 2000
+|pages=18–19
+|author=Midbon, Mark, [[University of Wisconsin–Madison]]
+|publisher=[[Commonweal]], republished: Catholic Education Resource Center (<span style="font-size:87%;">CERC</span>)
+|url=http://www.catholiceducation.org/articles/science/sc0022.html
+|accessdate=7 June 2007}}</ref> and [[mathematics|mathematician]] [[Simon Stevin]] among the most influential scientists.<ref>{{cite book|title=The Fair Face of Flanders|author=Patricia Carson|page=136|isbn=9020943855|publisher=Lannoo Uitgeverij}}</ref>
+
+Chemist [[Ernest Solvay]]<ref>{{cite book|title=Biographical Dictionary of the History of Technology|page=1135|author=Lance Day|editor=Lance Day, Ian McNeil|publisher=Routledge|year=2003|isbn=0203028295}}</ref> and engineer [[Zenobe Gramme]] (École Industrielle de Liège)<ref>{{cite book|title=Biographical Dictionary of the History of Technology|page=523|author=Gordon Woodward|editor=Lance Day, Ian McNeil|publisher=Routledge|year=2003|isbn=0203028295}}</ref> gave their names to the [[Solvay process]] and the [[Gramme dynamo]], respectively, in the 1860s. [[Bakelite]] was developed in 1907–1909 by [[Leo Baekeland]].  Ernest Solvay also acted as a major philantropist and gave its name to the [[Solvay Institute of Sociology]], the [[Solvay Brussels School of Economics and Management]] and the [[International Solvay Institutes for Physics and Chemistry]] which are now part of the [[Université Libre de Bruxelles]]. In 1911, he started a series of conferences, the [[Solvay Conference|Solvay Conferences on Physics and Chemistry]], which have had a deep impact on the evolution of quantum physics and chemistry.<ref>{{cite book|title=Cultures of creativity: the Centennial Exhibition of the Nobel prize|author=Ulf Larsson|page=211|isbn=0881352888|publisher=Science History Publications|year=2001}}</ref> A major contribution to fundamental science was also due to a Belgian, [[Georges Lemaître]] ([[Catholic University of Leuven]]), who is credited with proposing the [[Big Bang]] theory of the origin of the universe in 1927.<ref>{{cite web|title=Georges Lemaître, Father of the Big Bang|url=http://www.amnh.org/education/resources/rfl/web/essaybooks/cosmic/p_lemaitre.html|publisher=[[American Museum of Natural History]]|year=2000|accessdate= 9 December 2010}}</ref>
+
+Three [[Nobel Prize in Physiology or Medicine|Nobel Prizes in Physiology or Medicine]] were awarded to Belgians: [[Jules Bordet]] ([[Université Libre de Bruxelles]]) in 1919, [[Corneille Heymans]] ([[University of Ghent]]) in 1938 and [[Albert Claude]] (Université Libre de Bruxelles) together with [[Christian De Duve]] (Université Catholique de Louvain) in 1974.  [[Ilya Prigogine]] (Université Libre de Bruxelles) was awarded the [[Nobel Prize in Chemistry]] in 1977.<ref>{{cite web|title=The Nobel Prize in Chemistry 1977|url=http://nobelprize.org/nobel_prizes/chemistry/laureates/1977/|publisher=Nobelprize.org|accessdate=9 December 2010}}</ref>
+
+
+</text>
+<heading>
+Demographics
+</heading>
+<text>
+
+[[File:Be-map.png|thumb|upright|Main areas and places in Belgium]]
+{{Main|Demographics of Belgium}}
+
+In the beginning of 2007 nearly 92% of the Belgian population were Belgian citizens, and around 6% were citizens from other European Union member countries. The prevalent foreign nationals were Italian (171,918), French (125,061), Dutch (116,970), [[Morocco|Moroccan]] (80,579), Spanish (42,765), [[Turkish people|Turkish]] (39,419) and German (37,621).<ref>{{cite web
+|title=European Migration Network—Annual Statistical Report on migration and asylum in Belgium (Reference year 2003)—section A. 1) b) Population by citizenship & c) Third country nationals, 1&nbsp;January 2004
+|year=2006 |month=April
+|author=Perrin, Nicolas, [[Université Catholique de Louvain|UCLouvain]], Study Group of Applied Demographics (Gédap)
+|pages= 5–9
+|publisher=Belgian Federal Government Service (ministry) of Interior—Immigration Office
+|url=http://www.dofi.fgov.be/nl/statistieken/belgian%20migration%20point/punt%208%20Belgian%20Statistical%20Report%20on%20Asylum%20and%20Migration%202003.pdf
+|archiveurl=http://web.archive.org/web/20070605012645/http://www.dofi.fgov.be/nl/statistieken/belgian+migration+point/punt+8+Belgian+Statistical+Report+on+Asylum+and+Migration+2003.pdf
+|archivedate=5 June 2007
+|accessdate=28 May 2007}}</ref><ref>[http://ecodata.mineco.fgov.be/mdn/Vreemde_bevolking.jsp Ecodata]</ref>
+In Belgium there are about 2,700,000 inhabitants of foreign background,about 22% of the total population.<ref name="npdata.be"/> 56% (1 313 000)<ref name="npdata.be"/>  of these "New Belgians" are of European origin, and 44%(950 000)<ref name="npdata.be"/>  are from the rest of the world.
+
+[[File:2007 07 Belgium Brussels 06 (cropped).jpg|thumb|left|[[Brussels]], the capital city and largest metropolitan area of Belgium.]]
+
+Almost all of the Belgian population is urban—97% in 2004.<ref>{{cite web
+|title=Quelques résultats des précédents recensements—Indicateurs de logement (1991)
+|publisher=Belgian Federal Government Service (ministry) of Economy—Directorate-general Statistics Belgium
+|year=© 1998/2007
+|language=French switchable to Dutch
+|url=http://statbel.fgov.be/census/previous_fr.asp
+|archiveurl=http://web.archive.org/web/20070625171813/http://www.statbel.fgov.be/census/previous_fr.asp
+|archivedate=25 June 2007
+|accessdate=8 May 2007}}</ref> The population density of Belgium is 342 per square kilometre (886 per square mile).  The most densely inhabited area is Flanders,<ref>{{cite web|url=http://www.gvpedia.com/Uploads/Files/market%20essentials%20-%20belgium.pdf|publisher=British chamber of commerce in Belgium|title=Belgium – Market essentials|accessdate=7 January 2011}}</ref> and in particular the [[Flemish Diamond]], outlined by the [[Antwerp]]–[[Leuven]]–[[Brussels]]–[[Ghent]] agglomerations.<ref>{{cite book|title=Cities and networks in Europe:
+A critical approach of polycentrism|author=Nadine Cattan|publisher=John Libbey Eurotext|year=2007|isbn=9782742006779|page=106}}</ref>
+
+The Ardennes have the lowest density. As of 2006, the Flemish Region had a population of about 6,078,600, with [[Antwerp]] (457,749), Ghent (230,951) and [[Bruges]] (117,251) its most populous cities; Wallonia had 3,413,978, with [[Charleroi]] (201,373), [[Liège]] (185,574) and [[Namur (city)|Namur]] (107,178) its most populous. Brussels houses 1,018,804 in the Capital Region's [[List of municipalities of the Brussels Capital-Region|19 municipalities]], two of which have over 100,000 residents.<ref name=statbel1>{{cite web
+|title= Structuur van de bevolking—België / Brussels Hoofdstedelijk Gewest / Vlaams Gewest / Waals Gewest / De 25 bevolkingsrijkste gemeenten (2000–2006)
+|date= © 1998/2007
+|language= Dutch
+|publisher=Belgian Federal Government Service (ministry) of Economy—Directorate-general Statistics Belgium
+|url= http://statbel.fgov.be/figures/d21_nl.asp#2
+|archiveurl= http://web.archive.org/web/20070528045505/http://statbel.fgov.be/figures/d21_nl.asp
+|archivedate= 28 May 2007
+|accessdate= 23 May 2007
+}}</ref>
+
+
+</text>
+<heading>
+Languages
+</heading>
+<text>
+
+{{Main|Languages of Belgium}}
+[[File:BelgieGemeenschappenkaart.png|thumb|upright|Official languages:{{legend|#B0B000|Dutch (~59%)}}{{legend|#B00000|French (~40%)}}{{legend|#0000B0|German (~1%)}}]]
+
+Belgium has three official languages, which are in order of native speaker population in Belgium: Dutch, French and German. A number of non-official minority languages are spoken as well.<ref>{{cite web| url=http://www.ethnologue.com/show_country.asp?name=belgium|editor=Lewis, M. Paul|year=2009 |title=Ethnologue: Languages of the World |edition=Sixteenth edition |location=Dallas, Tex. |publisher=SIL International}}</ref>
+
+As no census exists, there are no official statistical data regarding the distribution or usage of Belgium's three official languages or their [[dialect]]s.{{citation needed|date=November 2010}} However, various criteria, including the language(s) of parents, of education, or the second-language status of foreign born, may provide suggested figures. An estimated 59% of the Belgian population speaks Dutch (often colloquially referred to as "Flemish"), and French is spoken by 40% of the population.<ref>Native speakers of Dutch living in Wallonia and of French in Flanders are relatively small minorities that furthermore largely balance one another, hence counting all inhabitants of each unilingual area to the area's language can cause only insignificant inaccuracies (99% can speak the language). Dutch: Flanders' 6.079&nbsp;million inhabitants and about 15% of Brussels' 1.019&nbsp;million are 6.23&nbsp;million or 59.3% of the 10.511&nbsp;million inhabitants of Belgium (2006); German: 70,400 in the German-speaking Community (which has [[Municipalities with language facilities|language facilities]] for its less than 5% French-speakers) and an estimated 20,000–25,000 speakers of German in the Walloon Region outside the geographical boundaries of their official Community, or 0.9%; French: in the latter area as well as mainly in the rest of Wallonia (3.414 − 0.093 = 3.321&nbsp;million) and 85% of the Brussels inhabitants (0.866&nbsp;million) thus 4.187&nbsp;million or 39.8%; together indeed 100%.</ref>
+
+[[File:Brussels signs.jpg|thumb|left|[[Bilingual]] signs in Brussels.]]
+
+Total Dutch speakers are 6.23&nbsp;million, concentrated in the northern Flanders region, while French speakers comprise 3.32&nbsp;million in Wallonia and an estimated 0.87&nbsp;million or 85% of the officially bilingual Brussels-Capital Region.<ref name=ericcorijn>Flemish Academic Eric Corijn (initiator of [http://www.charta91.be/ Charta 91]), at a colloquium regarding Brussels, on 2001-12-05, states that in Brussels there is 91% of the population speaking French at home, either alone or with another language, and there is about 20% speaking Dutch at home, either alone (9%) or with French (11%)—After ponderation, the repartition can be estimated at between 85 and 90% French-speaking, and the remaining are Dutch-speaking, corresponding to the estimations based on languages chosen in Brussels by citizens for their official documents (ID, driving licenses, weddings, birth, sex, and so on); all these statistics on language are also available at Belgian Department of Justice (for weddings, birth, sex), Department of Transport (for Driving licenses), Department of Interior (for IDs), because there are no means to know ''precisely'' the proportions since Belgium has abolished 'official' linguistic censuses, thus official documents on language choices can only be estimations. For a web source on this topic, see e.g. [[#General online sources|General online sources: Janssens, Rudi]]</ref><ref name=britishcouncil>{{cite web
+|title=Belgium Market background
+|quote=The capital Brussels, 80–85 percent French-speaking, ...
+|publisher=[[British Council]]
+|url=http://www.britishcouncil.org/eumd-information-background-belgium.htm
+|accessdate=5 May 2007}}—Strictly, the capital is the municipality [[Brussels|(City of) Brussels]], though the Brussels-Capital Region might be intended because of its name and also its other municipalities housing institutions typical for a capital.</ref> The [[German-speaking Community of Belgium|German-speaking Community]] is made up of 73,000 people in the east of the [[Walloon Region]]; around 10,000 German and 60,000 Belgian nationals are speakers of German. Roughly 23,000 more German speakers live in municipalities near the official Community.<ref name=germanspeakingcommunity1/><ref>{{cite web
+|title=Citizens from other countries in the German-speaking Community
+|publisher=The German-speaking Community
+|url=http://www.dglive.be/EN/Desktopdefault.aspx/tabid-1408/2267_read-27184/
+|accessdate=5 May 2007}}<br/>*{{cite web
+|title=German (Belgium)—Overview of the language
+|publisher=Mercator, Minority Language Media in the European Union, supported by the [[European Commission]] and the [[University of Wales]]
+|url=http://www.aber.ac.uk/cgi-bin/user/merwww/index.pl?rm=lang_detail;id=112;lang=1
+|accessdate=7 May 2007}}<br/>*{{cite web
+|title=Belgique • België • Belgien—La Communauté germanophone de Belgique
+|work=L'aménagement linguistique dans le monde
+|language=French
+|date=19 April 2006
+|author=Leclerc, Jacques <!--NO LINK: this is not the well-known general-->, membre associé du TLFQ
+|publisher=Host: Trésor de la langue française au Québec (TLFQ), [[Université Laval]], [[Quebec]]
+|url=http://www.tlfq.ulaval.ca/AXL/europe/belgiqueger.htm
+|accessdate=7 May 2007}}</ref>
+
+Both [[Belgian Dutch]] and [[Belgian French]] have minor differences in vocabulary and semantic nuances from the varieties spoken respectively in the Netherlands and France. Many Flemish people still speak [[Dutch dialects|dialects of Dutch]] in their local environment. [[Walloon language|Walloon]], once the main regional language of Wallonia, is now only understood and spoken occasionally, mostly by elderly people. Wallonia's dialects, along with those of [[Picard language|Picard]],<ref name=ethnologue>{{cite web
+|title=Languages of Belgium
+|work=Ethnologue: Languages of the World, 15th edition
+|author=Gordon, Raymond G., Jr. (ed.)
+|year=2005
+|publisher=[[SIL International]] Dallas, Texas, USA
+|url=http://www.ethnologue.com/show_country.asp?name=BE
+|accessdate=7 May 2007}}</ref> are not used in public life.
+
+
+</text>
+<heading>
+Education
+</heading>
+<text>
+
+{{See also|Education in Belgium}}
+
+Education is compulsory from six to eighteen years of age for Belgians.<ref>{{cite book
+|title=Institutional context of education systems in Europe: a cross-country comparison on quality and equity
+|first1=Roelande H.
+|last1=Hofman
+|first2=W. H. A.
+|last2=Hofman
+|first3=J. M.
+|last3=Gray
+|first4=P.
+|last4=Daly
+|publisher=Kluwer Academic Publishers
+|year=2004
+|isbn=1-402-02744-3
+|page=97,105
+|url=http://books.google.com/books?id=nskLDqh40dwC}}, [http://books.google.com/books?id=nskLDqh40dwC&pg=PA97 Extract of page 97]
+</ref> Among [[OECD]] countries in 2002, Belgium had the third-highest proportion of 18–21 year-olds enrolled in [[postsecondary education]], at 42%.<ref>{{cite web
+|title=Table 388. Percentage of population enrolled in secondary and postsecondary institutions, by age group and country
+|work=Digest of Education Statistics—Tables and Figures
+|chapter=Chapter 6. International Comparisons of Education
+|year=2005, data: 2002
+|publisher=[[National Center for Education Statistics]], [[Institute of Education Sciences]] (<span style="font-size:87%;">IES</span>), [[US Department of Education]]
+|url=http://nces.ed.gov/programs/digest/d05/tables/dt05_388.asp
+|accessdate=6 June 2007}}</ref> Though an estimated 98% of the adult population is literate, concern is rising over [[functional illiteracy]].<ref name=ethnologue/><ref>{{cite web
+|title=I. Monitoring Human Development: Enlarging peoples's choices... —5. Human poverty in OECD, Eastern Europe and the CIS
+|work=Human Development Indicators
+|year=2000
+|pages=172–173
+|publisher=[[United Nations Development Programme]] (<span style="font-size:87%;">UNDP</span>)
+|url=http://hdr.undp.org/reports/global/2000/en/pdf/hdr_2000_back1.pdf
+|archiveurl=http://web.archive.org/web/20070614025222/http://hdr.undp.org/reports/global/2000/en/pdf/hdr_2000_back1.pdf
+|archivedate=14 June 2007
+|accessdate=6 June 2007}}</ref>
+The [[Programme for International Student Assessment]], coordinated by the [[OECD]], currently ranks Belgium's education as the 19th best in the world, being significantly higher than the OECD average.<ref>http://www.oecd.org/dataoecd/42/8/39700724.pdf</ref>
+There are differences between the education systems in the  Flemish, French and the German-speaking Communities. The Flemish Community scores relatively higher than the German-speaking and French Communities.<ref>{{cite web|url=http://www.oecd.org/dataoecd/57/60/36324368.pdf |title=Microsoft Word - FINALTEXT_ENG.doc  |accessdate=4 March 2010}}</ref>
+
+Mirroring the dual structure of the 19th-century Belgian political landscape, characterized by the [[Liberal Party (Belgium)|Liberal]] and the [[Catholic Party (Belgium)|Catholic parties]], the educational system is segregated within a secular and a religious segment. The secular branch of schooling is controlled by the communities, the provinces, or the municipalities, while religious, mainly [[Catholic school|Catholic branch]] education, is organized by religious authorities, although subsidized and supervised by the communities.<ref name=deley>{{cite web
+|title=Humanists and Muslims in Belgian Secular Society (Draft version)
+|year=2000
+|author=De Ley, Herman
+|publisher=Centrum voor Islam in Europe (Centre for Islam in Europe), [[Ghent University]]
+|url=http://www.flwi.ugent.be/cie/CIE/deley10.htm
+|accessdate=7 June 2007}}</ref>
+
+
+</text>
+<heading>
+Religion
+</heading>
+<text>
+
+{{See also|Religion in Belgium}}
+[[File:SteGudule.jpg|thumb|upright|[[St. Michael and St. Gudula Cathedral]] in Brussels]]
+Roman Catholicism has traditionally been Belgium's majority religion; being especially strong in Flanders. However, by 2009 Sunday church attendance was 5.4 % in Flanders compared to 12.7 % in 1998 (sunday church attandance was 11.2% for the total of Belgium in 1998).<ref>[http://www.standaard.be/artikel/detail.aspx?artikelid=3932PEIJ Kerken lopen zeer geleidelijk helemaal leeg]  newsarticle in Dutch describing church attendance in Flanders</ref>  Despite an 8% drop in Sunday church attendance over this nine-year period, Catholicism nevertheless remains an important force in society.<ref name=MarshallCavendish2009>{{cite book|publisher=Marshall Cavendish|year=2009|author=P. Loopbuyck|author2=R. Torfs|volume=4|volumetitle=Belgium, Luxembourg and the Netherlands|title=The world and its people|isbn=0761478906|page=499}}</ref>
+
+Since the country's independence, Roman Catholicism, counterbalanced by strong [[freethought]] movements, has had an important role in Belgium's politics.<ref>See for example [[s:en:Catholic Encyclopedia (1913)/Belgium|Belgium]] entry of the [[Catholic Encyclopedia]]</ref> However Belgium is largely a [[secular]] country as the ''[[laicite|laicist]]'' [[Constitution of Belgium|constitution]] provides for freedom of religion, and the government generally respects this right in practice. During the reigns of [[Albert I of Belgium|Albert I]] and [[Baudouin I of Belgium|Baudouin]], the monarchy had a reputation of deeply rooted Catholicism.<ref name=MarshallCavendish2009/>
+
+Symbolically and materially, the Roman Catholic Church remains in a favourable position.<ref name=MarshallCavendish2009/> Belgium's concept of "recognized religions"<ref>{{cite web |url=http://www.hrwf.net/belgium/ext/human_rights_in_belgium_2001.pdf
+|title=2001 Annual Report on Human Rights in Belgium}}</ref> set a path for [[Islam]] to follow to acquire the treatment of Jewish and Protestant religions. While other minority religions, such as [[Hinduism]], do not yet have such status, [[Buddhism]] took the first steps toward legal recognition in 2007.<ref name=deley/><ref name=oldenburg>{{cite web
+|author=Bousetta, Hassan; Gsir, Sonia; Jacobs, Dirk
+|title=Active Civic Participation of Immigrants in Belgium—Country Report prepared for the European research project POLITIS, Oldenburg
+|year=2005
+|publisher=[[Carl von Ossietzky]] University, Oldenburg IBKM
+|quote=In many respects, the Catholic Roman Church remains in a very advantageous situation. The long and troublesome process that eventually lead to the recognition of Islam is also illustrative of the ambiguity of the relations between the Belgian
+State and religions. For 25 years, Islam has been maintained in an unfair position in comparison to other religions.
+|url=http://www.uni-oldenburg.de/politis-europe/download/Belgium.pdf
+|accessdate=8 May 2007}}</ref><ref name=metro>{{cite news
+|title=België gaat plat op zijn buik voor China (Belgium bends over backwards for China)
+|language=Dutch
+|date=10 May 2007
+|publisher=[[Metro (Belgian newspaper)]]
+|issue=#1455
+|page=2
+|quote=''[Upon the [[Dalai Lama]] for the second time in two years canceling a visit to Belgium after being informed by the Belgian government of [[Government of the People's Republic of China|Peking]]'s diplomatic pressure, quote newspaper:]'' Uittredend Senaatsvoorzitster Anne-Marie Lizin reageert teleurgesteld: 'Gezien het belang van de vergadering waaraan u wilde deelnemen en gezien de redenen van uw beslissing, betreur ik dat ik u niet kan ontvangen in ons land, een land dat openstaat voor iedereen, ongeacht de religieuze overtuiging, en dat net een eerste stap heeft gezet in de erkenning van het'[sic] 'boeddhistische filosofie'. (Lawfully resigning at the end of the government's legislation, President of the Senat Anne-Marie Lizin reacts disappointedly: 'In view of the importance of the meeting you wanted to attend and in view of the reasons of your decision, I regret not being able to receive you in our country, a country open for everyone regardless of religious conviction, and which has just set a first step towards the recognition of the Buddhist philosophy.')
+|url=http://www.metrotime.be/digipapernl.html?pag=2&kdate=2007-05-10
+|accessdate=10 May 2007}} Alternative urls:[http://www.metrotime.be/digipaperArticlenl.html?storyId=3947981], [http://www.metrotime.be/Belgie_gaat_plat_op_br_zijn_buik_voor_China.html], [http://www.metrotime.be/UserFiles/DigiPaper/nl/20070510/2/MVLMP-0-20070510-02.pdf]{{Dead link|date=October 2008}}</ref> According to the ''2001 Survey and Study of Religion'',<ref>{{cite web
+|title=Belgium
+|work=International Religious Freedom Report 2004
+|year=2004
+|publisher=US Department of State, [[Bureau of Democracy, Human Rights and Labor]]
+|url=http://www.state.gov/g/drl/rls/irf/2004/35444.htm
+|accessdate=28 May 2007}}</ref> about 47% of the population identify themselves as belonging to the Catholic Church, while Islam is the second-largest religion at 3.5%. A 2006 inquiry in Flanders, considered to be a more religious region than Wallonia, showed that 55% considered themselves religious and that 36% believed that God created the world.<ref>Inquiry by 'Vepec', 'Vereniging voor Promotie en Communicatie' (Organisation for Promotion and Communication), published in Knack magazine 22 November 2006 p. 14 [The Dutch language term 'gelovig' is in the text translated as 'religious', more precisely it is a very common word for believing in particular in any kind of God in a [[monotheism|monotheistic]] sense and/or in some [[afterlife]]].</ref>
+
+According to the [[Eurobarometer|Eurobarometer Poll]] in 2005,<ref name=EUROBAROMETER>{{cite web|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_225_report_en.pdf|title=Eurobarometer on Social Values, Science and technology 2005 – page 11|accessdate=5 May 2007}}</ref> 43% of Belgian citizens responded that "they believe there is a God", whereas 29% answered that "they believe there is some sort of spirit or life force" and 27% that "they do not believe there is any sort of spirit, God, or life force".
+
+An 2008 estimation shows<ref>{{cite web|url=http://www.indymedia.be/en/node/29363 |title=In België wonen 628.751 moslims |publisher=Indymedia.be |date=12 September 2008 |accessdate=18 June 2010}}</ref> that 6% of the Belgian population, about 628,751, is Muslim (98% Sunni).
+Muslims constitute 25.5% of the population of [[Brussels]], 4.0% of [[Wallonia]] and 3.9% of [[Flanders]].
+The majority of Belgian Muslims live in the major cities, such as [[Antwerp]], [[Brussels]] and [[Charleroi]]. The largest group of immigrants in Belgium are Moroccans, with 264,974 people. The Turks are the third-largest group, and the second-largest Muslim ethnic group, numbering 159,336.<ref>[http://www.hbvl.be/Archief/guid/voor-het-eerst-meer-marokkaanse-dan-italiaanse-migranten.aspx?artikel=e2214650-9013-4207-8139-68ab46554b87 Voor het eerst meer Marokkaanse dan Italiaanse migranten], hbvl.be, 21 May 2007</ref>
+
+
+</text>
+<heading>
+Culture
+</heading>
+<text>
+
+{{Main|Culture of Belgium}}
+
+Despite its [[partition of Belgium|political and linguistic divisions]], the region corresponding to today's Belgium has seen the flourishing of major artistic movements that have had tremendous influence on European art and culture.  Nowadays, to a certain extent, cultural life is concentrated within each language Community, and a variety of barriers have made a shared cultural sphere less pronounced.<ref name="Fitzmaurice"/><ref>{{cite web
+|title=Belgium—Arts and cultural education
+|work=Compendium of Cultural Policies and Trends in Europe, 8th edition
+|publisher=Council of Europe / ERICarts
+|year=2007
+|url=http://www.culturalpolicies.net/web/belgium.php?aid=831
+|accessdate=8 May 2007}}</ref><ref>{{cite web
+|title=Belgique
+|work=European Culture Portal
+|publisher=[[European Commission]]
+|year=2007
+|url=http://ec.europa.eu/culture/portal/sites/members/belgium_en.htm
+|accessdate=10 May 2007}}</ref> Since the 1970s, there are no bilingual universities in the country except the [[Royal Military Academy (Belgium)|Royal Military Academy]], no common media<ref>{{cite web
+|title=Frontière linguistique, frontière politique, une presse en crise
+|language=French
+|author=Adrien Gonthier
+|work=[[Le Monde Diplomatique]]
+|year=2003
+|url=http://www.monde-diplomatique.fr/2003/05/GONTHIER/10142
+|accessdate=17 June 2008}}</ref> and no single large cultural or scientific organization in which both main communities are represented. The forces that once held the Belgians together—Roman Catholicism and economic and political opposition to the Dutch—are no longer strong.<ref>{{cite book
+ |last = Mumford
+ |first = David
+ |authorlink = David Mumford
+ |title = The World Today Series
+ |publisher=NY Times
+ |series = Western Europe/2007
+ |year = 2008
+ |isbn = 1-887985-89-1}}</ref>
+
+
+</text>
+<heading>
+Fine arts
+</heading>
+<text>
+
+{{See|list of Flemish painters|list of Belgian painters|architecture of Belgium|music of Belgium|Belgian literature|Belgian comics|cinema of Belgium}}
+[[File:eyck.hubert.lamb.750pix.jpg|thumb|''The [[Ghent Altarpiece]]: The Adoration of the Mystic Lamb'' (interior view), painted 1432 by [[Jan van Eyck|van Eyck]]]]
+
+Contributions to painting and architecture have been especially rich. The [[Mosan art]], the [[Early Netherlandish painting|Early Netherlandish]],<ref>{{cite web
+|title=Low Countries, 1000–1400 AD
+|work=Timeline of Art History
+|publisher=[[Metropolitan Museum of Art]]
+|year=2007
+|url=http://www.metmuseum.org/toah/ht/07/euwl/ht07euwl.htm
+|accessdate=10 May 2007}}</ref> the [[Dutch and Flemish Renaissance painting|Flemish Renaissance]] and [[Flemish Baroque painting|Baroque painting]]<ref>{{cite web
+|title=Low Countries, 1400–1600 AD
+|work=Timeline of Art History
+|publisher=Metropolitan Museum of Art
+|year=2007
+|url=http://www.metmuseum.org/toah/ht/08/euwl/ht08euwl.htm
+|accessdate=10 May 2007}}</ref> and major examples of [[Romanesque architecture|Romanesque]], [[Gothic architecture|Gothic]], [[Renaissance architecture|Renaissance]] and [[Baroque architecture]]<ref>Several examples of major architectural realisations in Belgium belong to [[UNESCO]]'s [[World Heritage List]]:{{cite web
+|title=Belgium
+|work=Properties inscribed on the World Heritage List
+|publisher=[[UNESCO]]
+|url=http://whc.unesco.org/en/statesparties/be
+|accessdate=15 May 2007}}</ref> are milestones in the history of art. While the 15th century's art in the Low Countries is dominated by the religious paintings of [[Jan van Eyck]] and [[Rogier van der Weyden]], the 16th century is characterized by a broader panel of styles such as [[Pieter Brueghel the Elder|Peter Breughel]]'s landscape paintings and [[Lambert Lombard]]'s representation of the antique.<ref>{{cite book|language=French|first=Jacques
+|last=Hendrick|title=La peinture au pays de Liège|year=1987|location=Liège|publisher=Editions du Perron|isbn=287114026X|page=24}}</ref>  Though the Baroque style of [[Peter Paul Rubens]] and [[Anthony van Dyck]] flourished in the early 17th century in the Southern Netherlands,<ref>{{cite book
+|language=German
+|first=Herwig
+|last=Guratzsch
+|title=Die große Zeit der niederländische Malerei
+|year=1979
+|publisher=Verlag Herder
+|location=Freiburg im Beisgau
+|page=7}}</ref> it gradually declined thereafter.<ref>{{cite web
+|title=Low Countries, 1600–1800 AD
+|work=Timeline of Art History
+|publisher=Metropolitan Museum of Art
+|year=2007
+|url=http://www.metmuseum.org/toah/ht/09/euwl/ht09euwl.htm
+|accessdate=10 May 2007}}</ref><ref>{{cite web
+|title=Art History: Flemish School: (1600–1800)—Artists: (biography & artworks)
+|date=5 February 2006
+|publisher=World Wide Arts Resources
+|url=http://wwar.com/masters/movements/flemish_school.html
+|accessdate=10 May 2007}}—A general presentation of the Flemish artistic movement with a list of its artists, linking to their biographies and artworks</ref>
+
+During the 19th and 20th centuries many original [[romanticism|romantic]], [[expressionism|expressionist]] and [[surrealism|surrealist]] Belgian painters emerged, including [[James Ensor]] and other artists belonging the [[Les XX]] group, [[Constant Permeke]], [[Paul Delvaux]] and [[René Magritte]]. The avant-garde [[COBRA (avant-garde movement)|CoBrA movement]] appeared in the 1950s, while the sculptor [[Panamarenko]] remains a remarkable figure in contemporary art.<ref>{{cite web
+|title=Belgian Artists: (biographies & artworks)
+|date=5 February 2006
+|publisher=World Wide Arts Resources
+|url=http://wwar.com/masters/nationalities/belgian.html
+|accessdate=10 May 2007}}—List of Belgian painters, linking to their biographies and artworks</ref><ref>{{cite web
+|author=Baudson, Michel
+|title=Panamarenko
+|publisher=Flammarion (Paris), quoted at presentation of the ''XXIII Bienal Internacional de São Paulo''
+|year=1996
+|url=http://www1.uol.com.br/bienal/23bienal/universa/iueopa.htm
+|archiveurl=http://web.archive.org/web/20070207233008/http://www1.uol.com.br/bienal/23bienal/universa/iueopa.htm
+|archivedate=7 February 2007
+|accessdate=10 May 2007}}</ref> The multidisciplinary artist [[Jan Fabre]] and the painter [[Luc Tuymans]] are other internationally renowned figures on the contemporary art scene. Belgian contributions to architecture also continued into the 19th and 20th centuries, including the work of [[Victor Horta]] and [[Henry van de Velde]], who were major initiators of the [[Art Nouveau]] style.<ref>
+[http://www.senses-artnouveau.com/brussels.php Brussels, capital of Art Nouveau (page 1)],{{cite web
+|title=ib. (page2)
+|year=2007
+|publisher=[http://www.senses-artnouveau.com/about_us.php Senses Art Nouveau Shop], Brussels
+|url=http://www.senses-artnouveau.com/brussels.php?page=2
+|accessdate=11 May 2007}} (for example)</ref><ref>{{cite web
+|title=Major Town Houses of the Architect Victor Horta (Brussels)
+|work=[[UNESCO]]'s [[World Heritage List]]
+|publisher=UNESCO
+|url=http://whc.unesco.org/en/list/1005
+|quote=The appearance of Art Nouveau in the closing years of the 19th century marked a decisive stage in the evolution of architecture, making possible subsequent developments, and the Town Houses of Victor Horta in Brussels bear exceptional witness to its radical new approach.
+|accessdate=16 May 2007}}</ref>
+
+[[File:Emile Verhaeren01.jpg|thumb|left|Poet [[Emile Verhaeren]] by [[Theo van Rysselberghe]].]]
+
+The [[vocal music]] of the [[Franco-Flemish School]] developed in the southern part of the Low Countries and was an important contribution to Renaissance culture.<ref>{{cite web
+|title=Western music, the Franco-Flemish school
+|quote=Most significant musically was the pervasive influence of musicians from the Low Countries, whose domination of the musical scene during the last half of the 15th century is reflected in the period designations the Netherlands school and the Franco-Flemish school.
+|work=[[Encyclopædia Britannica]]
+|year=2007
+|url=http://www.britannica.com/eb/article-15698/Western-music
+|accessdate=15 May 2007}}</ref> In the 19th and 20th centuries, there was an emergence of major violinists, such as [[Henri Vieuxtemps]], [[Eugène Ysaÿe]] and [[Arthur Grumiaux]], while [[Adolphe Sax]] invented the [[saxophone]] in 1846. The composer [[César Franck]] was born in Liège in 1822. Contemporary music in Belgium is also of repute. Jazz musician [[Toots Thielemans]] and singer [[Jacques Brel]] have achieved global fame. In rock/pop music, [[Telex (band)|Telex]], [[Front 242]], [[K's Choice]], [[Hooverphonic]], [[Zap Mama]], [[Soulwax]] and [[Deus (band)|dEUS]] are well known. In the heavy metal scene, bands like [[Machiavel]], [[Channel Zero (band)|Channel Zero]] and [[Enthroned]] have a worldwide fan-base.<ref>Two comprehensive discussions of rock and pop music in Belgium since the 1950s:<br/>*{{cite web
+|title=The Timeline—A brief history of Belgian Pop Music
+|year=2007 |month=March
+|work=The Belgian Pop & Rock Archives
+|publisher=[http://www.muziekcentrum.be/english/about/static.asp?Id=298 Flanders Music Centre], Brussels
+|url=http://houbi.com/belpop/timeline.htm
+|accessdate=7 June 2007}}<br/>*{{cite web
+|title=Belgian Culture—Rock
+|year=© 2006
+|publisher=[http://www.belgianexperts.com/aboutus.php Vanberg & DeWulf Importing]
+|url=http://www.belgianexperts.com/rock.php
+|accessdate=11 May 2007}}</ref>
+
+Belgium has produced several well-known [[Belgian literature|authors]], including the poet [[Emile Verhaeren]] and novelists [[Hendrik Conscience]], [[Georges Simenon]], [[Suzanne Lilar]] and [[Amélie Nothomb]]. The poet and playwright [[Maurice Maeterlinck]] won the [[Nobel Prize in literature]] in 1911. ''[[The Adventures of Tintin]]'' by [[Hergé]] is the best known of [[Franco-Belgian comics]], but many other major authors, including [[Peyo]] (''[[The Smurfs]]''), [[André Franquin]] (''[[Gaston Lagaffe]]''), [[Edgar P. Jacobs]] and [[Willy Vandersteen]] brought the Belgian cartoon strip industry a worldwide fame.<ref>{{cite book|title=Comics in French: the European bande dessinée in context|author=Laurence Grove|publisher=Berghahn Books|year=2010|isbn=1845455886}}</ref>
+
+Belgian cinema, has brought a number of mainly Flemish novels to life on-screen.<ref>Notable Belgian films based on works by Flemish authors include: ''De Witte'' (author [[Ernest Claes]]) movie by Jan Vanderheyden & Edith Kiel in 1934, remake as ''De Witte van Sichem'' directed by [[Robbe De Hert]] in 1980; ''De man die zijn haar kort liet knippen'' ([[Johan Daisne]]) [[André Delvaux]] 1965; ''Mira'' ('De teleurgang van de Waterhoek' by [[Stijn Streuvels]]) [[Fons Rademakers]] 1971; ''[[Malpertuis]] (aka The Legend of Doom House)'' ([[Jean Ray (author)|Jean Ray]] [pen name of Flemish author who mainly wrote in French, or as John Flanders in Dutch]) [[Harry Kümel]] 1971<!--not 1973 as hereafter 'see also' link, it won the Cannes Festival in 1972-->; ''De loteling'' ([[Hendrik Conscience]]) Roland Verhavert 1974; ''Dood van een non'' ([[Maria Rosseels]]) Paul Collet & Pierre Drouot 1975; ''Pallieter'' ([[Felix Timmermans]]) Roland Verhavert 1976; ''De komst van Joachim Stiller'' ([[Hubert Lampo]]) [[Harry Kümel]] 1976; ''[[De Leeuw van Vlaanderen]]'' ([[Hendrik Conscience]]) [[Hugo Claus]] (a famous author himself) 1985; ''[[Daens (film)|Daens]]'' ('Pieter Daens' by [[Louis Paul Boon]]) [[Stijn Coninx]] 1992; see also [http://web.archive.org/web/20070514023803/http://www.ledoux.be/nl/dvdmain.htm Filmarchief ''les DVD!s de la cinémathèque''] (in Dutch). Retrieved on 7 June 2007.</ref> Other Belgian directors include [[André Delvaux]], [[Stijn Coninx]], [[Luc Dardenne|Luc]] and [[Jean-Pierre Dardenne]]; well-known actors include [[Jan Decleir]] and [[Marie Gillain]]; and successful films include ''[[Man Bites Dog (film)|Man Bites Dog]]'' and ''[[The Alzheimer Affair]]''.<ref>A review of the Belgian cinema can be found at{{cite web
+|title=Cinema
+|work=.be Federal Portal
+|publisher=Federal government of Belgium
+|year=2007
+|url=http://www.belgium.be/eportal/application?languageParameter=en&pageid=contentPage&docId=6879
+|accessdate=13 May 2007}}{{Dead link|date=October 2008}}</ref> In the 1980s, Antwerp's [[Koninklijke Academie voor Schone Kunsten Antwerpen|Royal Academy of Fine Arts]] produced important fashion trendsetters, known as the [[Antwerp Six]].<ref>{{cite web
+|title=Fashion and the ‘Antwerp Six’
+|year=© 2004
+|publisher=[http://fashionworlds.blogspot.com/2000_01_01_fashionworlds_archive.html Fashion Worlds], Dorset, UK
+|url=http://fashionworlds.blogspot.com/2000_01_16_fashionworlds_archive.html
+|accessdate=13 May 2007}}</ref>
+
+
+</text>
+<heading>
+Folklore
+</heading>
+<text>
+
+[[File:Binche - Les Gilles.jpg|thumb|left|The [[Gilles]] of [[Binche]], in costume, wearing wax masks]]
+{{See|Folklore of the Low Countries}}
+
+Folklore plays a major role in Belgium's cultural life: the country has a comparatively high number of processions, cavalcades, parades, 'ommegangs' and 'ducasses',<ref>The Dutch word 'ommegang' is here used in the sense of an entirely or mainly non-religious procession, or the non-religious part thereof—see also [[:nl:Ommegang|its article on the Dutch-language Wikipedia]]; the Processional Giants [http://www.visitbelgium.com/mediaroom/Ommegang.htm of Brussels]{{Dead link|date=July 2010}}, Dendermonde and Mechelen mentioned in this paragraph are part of each city's 'ommegang'. The French word 'ducasse' refers also to a procession; the mentioned Processional Giants of Ath and Mons are part of each city's 'ducasse'.</ref> '[[kermesse (festival)|kermesse]]' and other local festivals, nearly always with an originally religious or [[mythology of the Low Countries|mythological background]]. The [[Carnival of Binche]] with its famous [[Gilles]] and the 'Processional Giants and Dragons' of [[Ath]], [[Brussels]], [[Dendermonde]], [[Mechelen]] and [[Mons]] are recognized by [[UNESCO]] as [[Masterpieces of the Oral and Intangible Heritage of Humanity]].<ref>{{cite web
+|title=Processional Giants and Dragons in Belgium and France
+|publisher=[[UNESCO]]
+|url=http://www.unesco.org/culture/intangible-heritage/05eur_uk.htm
+|accessdate=15 May 2007}}</ref>
+
+Other examples are the Carnival of [[Aalst, Belgium|Aalst]]; the still very religious processions of [[procession of the Holy Blood|the Holy Blood]] in [[Bruges]], [[Virga Jesse Basilica]] in [[Hasselt]] and [[Basilica of Our Lady of Hanswijk]] in Mechelen; 15 August festival in Liège; and the Walloon festival in [[Namur (city)|Namur]]. Originated in 1832 and revived in the 1960s, the [[Gentse Feesten]] have become a modern tradition. A major non-official holiday is the [[Saint Nicholas Day]], a festivity for children and, in Liège, for students.<ref>{{cite web
+|title=Folklore estudiantin liégeois
+|publisher=[[University of Liège]]
+|url=http://www.ulg.ac.be/cms/c_36320/photographies-folklore-etudiant?hlText=Saint+Nicolas&hlMode=any&hlText=Saint+Nicolas&hlMode=any&hlText=Saint+Nicolas&hlMode=any
+|language=French
+|accessdate=17 June 2008}}</ref>
+
+
+</text>
+<heading>
+Cuisine
+</heading>
+<text>
+
+{{Main|Cuisine of Belgium}}
+[[File:Brussels waffle.jpg|right|thumb|upright|130px|[[Brussels waffle]]s, commonly known as [[Belgian waffle]]s outside of Belgium.]]
+
+Many highly ranked Belgian restaurants can be found in the most influential restaurant guides, such as the [[Michelin Guide]].<ref>{{cite web|title=The Michelin stars 2007 in Belgium|publisher=[http://www.resto.be/ware/legal.jsp Resto.be TM Dreaminvest]
+|year=2007
+|url=http://www2.resto.be/bib_new.cfm?langue=uk
+|accessdate=15 May 2007}}</ref> Belgium is famous for beer, chocolate, [[Belgian waffle|waffles]] and [[french fries]]. Contrary to their name, french fries also originated in Belgium. The national dishes are "steak and fries with salad", and "mussels with fries".<ref>{{cite web
+|title=Steak-frites
+|publisher=Epicurious
+|url=http://www.epicurious.com/recipes/recipe_views/views/40035
+|accessdate=12 August 2007}} Republished from{{cite book
+ |title=Everybody Eats Well in Belgium Cookbook
+ |year=1996 |month=October
+ |author=Van Waerebeek, Ruth; Robbins, Maria
+ |publisher=Workman Publishing
+ |isbn=1-56305-411-6 (Paperback), ISBN 0-7611-0106-3 (Cloth)}}</ref><ref>{{cite web
+|title=Belgium
+|publisher=Global Gourmet
+|url=http://www.globalgourmet.com/destinations/belgium/backgrounder.html
+|accessdate=12 August 2007}} Republished from{{cite book
+ |title=Everybody Eats Well in Belgium Cookbook
+ |year=1996 |month=October
+ |author=Van Waerebeek, Ruth; Robbins, Maria
+ |publisher=Workman Publishing
+ |isbn=1-56305-411-6 (Paperback), ISBN 0-7611-0106-3 (Cloth)}}</ref><ref>{{cite web|title=Mussels|year=2005|work=Visit Belgium|publisher=Official Site of the Belgian Tourist Office in the Americas|url=http://www.visitbelgium.com/mussels.htm|accessdate=12 August 2007| archiveurl = http://web.archive.org/web/20070210101230/http://www.visitbelgium.com/mussels.htm| archivedate = 10 February 2007}}—Note: Contrarily to what the text suggests, the season starts as early as July and lasts through April.</ref>
+
+Brands of Belgian chocolate and [[pralines]], like [[Callebaut]], [[Côte d'Or (brand)|Côte d'Or]], [[Chocolatier Neuhaus|Neuhaus]], [[Leonidas (chocolate maker)|Leonidas]], [[Guylian]], [[Galler (brand)|Galler]] and [[Godiva Chocolatier|Godiva]], are world renowned and widely sold.{{citation needed|date=November 2010}} Belgium produces over [[Belgian beer|500 varieties of beer]]. The [[Trappist beer]] of the [[Westvleteren Brewery|Abbey of Westvleteren]] has repeatedly been rated the world's best beer.<ref>{{cite news|last=Ames|first=Paul|title=Buying the World's Best Beer|url=http://www.globalpost.com/dispatch/benelux/090828/st-sixtus-westvleteren-beer|accessdate=19 November 2010|newspaper=Global Post|date=30 August 2009}}</ref><ref>{{cite news|last=Guthrie|first=Tyler|title=Day trip to the best beer in the world|url=http://articles.chicagotribune.com/2010-08-11/travel/sc-trav-0810-strip-belgian-bike-trip-20100810_1_westvleteren-beer-day-trip|accessdate=19 November 2010|newspaper=Chicago Tribune|date=11 August 2010}}</ref><ref>{{cite news|title=Monks run short of 'world's best' beer|url=http://www.abc.net.au/news/newsitems/200508/s1435915.htm|accessdate=19 November 2010|newspaper=ABC|date=12 August 2005|agency=Reuters}}</ref>
+The biggest brewer in the world by volume is [[Anheuser-Busch InBev]], based in [[Leuven]].<ref>{{cite press release
+|title=InBev dividend 2006: 0.72 euro per share—infobox: About InBev
+|quote=InBev is a publicly traded company ([[Euronext]]: INB) based in [[Leuven]], Belgium. The company's origins date back to 1366, and today it is the leading global brewer by volume.
+|date=24 April 2007
+|publisher=InBev
+|url=http://www.inbev.com/press_releases/20070424.1.e.cfm
+|accessdate=31 May 2007}}</ref>
+
+
+</text>
+<heading>
+Sports
+</heading>
+<text>
+
+{{Main|Sport in Belgium}}
+
+Since the 1970s, sports clubs and federations are organised separately within each language community.<ref>{{cite book|title=Organised sport in transition: development, structures and trends of sports clubs in Belgium|author1=Marijke Task|author2=Roland Renson|author3=Bart van Reusel|work=Sport clubs in various European countries|editor=Klaus Heinemann|publisher=Schattauer Verlag|year=1999|isbn=3794520386|pages=183–229}}</ref> However [[Football in Belgium|Association football]] is one of the most popular sports in both parts of Belgium, together with cycling, tennis, swimming and judo.<ref>{{cite book|title=Belgium|author=George Wingfield|publisher=Infobase Publishing|editor=Charles F. Gritzner|year=2008|isbn=9780791096703|pages=94–95}}</ref> With five victories in the [[Tour de France]] and numerous other cycling records, Belgian [[Eddy Merckx]] is regarded as one of the greatest cyclists of all time.<ref>{{cite news
+|title=Great, but there are greater
+|author=Majendie, Matt
+|publisher=[[BBC Sport]]
+|date=18 April 2005
+|quote=[the Author's] top five [cyclists] of all time: 1 Eddy Merckx, 2 [[Bernard Hinault]], 3 [[Lance Armstrong]], 4 [[Miguel Indurain]], 5 [[Jacques Anquetil]]
+|url=http://news.bbc.co.uk/sport1/hi/other_sports/cycling/3925265.stm
+|accessdate=20 September 2007}}</ref> His hour speed record (set in 1972) stood for twelve years. [[Jean-Marie Pfaff]], a former Belgian goalkeeper, is considered one of the greatest in the history of football.<ref>"[http://www.goalkeepersaredifferent.com/keeper/goalkeeping_greats.htm Goalkeeping Greats]" Goalkeepersaredifferent.com. Retrieved on 29 June 2008</ref> Belgium and The Netherlands previously hosted the [[UEFA European Football Championship]] in [[UEFA Euro 2000|2000]]. Belgium hosted the [[UEFA Euro 1972|1972 European Football Championships]].
+
+[[Kim Clijsters]] and [[Justine Henin]] both were [[WTA Awards|Player of the Year]] in the [[Women's Tennis Association]] as they were ranked the number one female tennis player.
+The [[Spa-Francorchamps]] motor-racing circuit hosts the [[Formula One World Championship]] [[Belgian Grand Prix]]. The Belgian driver, [[Jacky Ickx]], won eight Grands Prix and six [[24 Hours of Le Mans]] and finished twice as runner-up in the Formula One World Championship. Belgium also has a strong reputation in [[motocross]];<ref>{{cite book|title=Motocross History: From Local Scrambling to World Championship MX to Freestyle|author=Bob Woods|publisher=Crabtree Publishing Company| year=2008| isbn=9780778739876| page=19}}</ref> world champions include [[Roger De Coster]], [[Joël Robert]], [[Georges Jobé]], [[Eric Geboers]], [[Joël Smets]], [[Stefan Everts]] and [[Steve Ramon]].
+
+Sporting events annually held in Belgium include the [[Memorial Van Damme]] athletics competition, the [[Belgian Grand Prix]] Formula One, and a number of [[classic cycle races]] such as the [[Ronde van Vlaanderen]] and [[Liège–Bastogne–Liège]]. The [[1920 Summer Olympics]] were held in Antwerp, Belgium.
+
+
+</text>
+<heading>
+See also
+</heading>
+<text>
+
+{{Portal box|Belgium|European Union}}
+* [[Outline of Belgium]]
+* [[Index of Belgium-related articles]]
+{{Clear}}
+ 
+{{Navboxes
+|list1=
+{{Belgium topics|state=expand}}
+{{Sovereign states of Europe}}
+{{Navboxes
+|title=International membership
+|list=
+{{Members of the European Union (EU)}}
+{{Council of Europe}}
+{{Organisation for Economic Co-operation and Development}}
+{{North Atlantic Treaty Organisation (NATO)}}
+{{OSCE}}
+{{Union for the Mediterranean}}
+{{Dutch Language Union}}
+{{La Francophonie|state=collapsed}}
+}}
+{{Monarchies|state=collapsed}}
+}}
+
+
+</text>
+<heading>
+References
+</heading>
+<text>
+
+{{Reflist|colwidth=30em}}
+
+;Online sources
+*{{cite web
+|title=Belgium
+|work=[[Encyclopædia Britannica Online]]
+|publisher=Encyclopædia Britannica, Chicago, Illinois, USA
+|url=http://www.britannica.com/nations/Belgium
+|accessdate=7 June 2007}}
+*{{cite web
+|title=Boordtabel
+|year=2007
+|language=Dutch
+|publisher=[http://www.briobrussel.be/eng/default.asp?WebpageId=1 Centre for Information, Documentation and Research on Brussels (<span style="font-size:87%;">BRIO</span>)]
+|url=http://www.briobrussel.be/ned/webpage4.asp?WebpageId=39
+|accessdate=2 June 2007}} (mentioning other original sources)
+* {{CIA_World_Factbook_link|be|Belgium}} Retrieved on 7 June 2007.
+*{{cite web
+|title=The Constitution
+|date=21 January 1997
+|publisher=Federal Parliament Belgium
+|url=http://www.fed-parl.be/constitution_uk.html
+|accessdate=7 June 2007}}
+*{{cite web
+|title=Country Portal – Europe—Belgium
+|publisher=Belgian Federal Government Service (ministry) of Economy—Directorate-general Statistics Belgium
+|url=http://statbel.fgov.be/port/cou_eu_en.asp#BE
+|archiveurl=http://web.archive.org/web/20070701233100/http://www.statbel.fgov.be/port/cou_eu_en.asp
+|archivedate=1 July 2007
+|accessdate=7 June 2007}}
+*{{cite web
+|title=Die Stellung und Rolle der deutschsprachigen Minderheit in Ostbelgien innerhalb des belgischen Nationalstaats
+|author=Fischer, Kathrin
+|work=Kleiner Geländekurs in die <span style="font-size:87%;">EUREGIO</span> Maas-Rhein
+|language=German
+|date=21 July 1999
+|publisher=Geographical Institute of the [[Georg-August University of Göttingen|Georg-August University]] (Department Culture and Social Geography), Göttingen, Germany
+|url=http://www.geogr.uni-goettingen.de/kus/personen/euregio/emr99-21.htm
+|archiveurl=http://web.archive.org/web/20070720161347/http://www.geogr.uni-goettingen.de/kus/personen/euregio/emr99-21.htm
+|archivedate=20 July 2007
+|accessdate=13 June 2007}}
+*{{cite web
+|title=History of Belgium
+|date=Last revised 30 May 2007
+|work=[http://www.zum.de/whkmla/index.html World History at KMLA]
+|publisher=[http://www.zum.de/whkmla/about.html Korean Minjok Leadership Academy (<span style="font-size:87%;">KMLA</span>)]
+|url=http://www.zum.de/whkmla/region/lowcountries/xbelgium.html
+|accessdate=2 June 2007}}
+*{{cite web
+|title=Brusselse Thema's in Brussel—Taalverhoudingen, taalverschuivingen en taalindentiteit in een meertalige stad
+|language=Dutch, summary ''The Use of Languages in Brussels'' pp. 227–250 in English
+|date=1 June 2001
+|author=[http://www.briobrussel.be/ned/webpage3.asp?WebpageId=30 Janssens, Rudi], [[Vrije Universiteit Brussel]]
+|publisher=Vrije Universiteit Brussel Press, Brussels ISBN 9054872934—republished
+|url=http://www.briobrussel.be/assets/bt8download.pdf
+|accessdate=2 June 2007}}
+*{{cite web
+|title=Belgique • België • Belgien
+|work=[http://www.tlfq.ulaval.ca/axl/index.shtml L'aménagement linguistique dans le monde]
+|language=French
+|year=© 2006
+|author=Leclerc, Jacques<!--NO LINK: this is not the well-known general-->, membre associé du TLFQ
+|publisher=Host: Trésor de la langue française au Québec (TLFQ), [[Université Laval]], [[Quebec]]
+|url=http://www.tlfq.ulaval.ca/axl/europe/belgiqueacc.htm
+|accessdate=2 June 2007}}
+*{{cite web
+|title=Bye bye Belgium?
+|date=20 December 2006
+|author=Mnookin, Robert, Professor at [[Harvard Law School|HLS]]
+|coauthors=Verbeke, Alain
+|publisher=International Herald Tribune, republished by [[Harvard Law School]]
+|url=http://www.law.harvard.edu/news/2006/12/20_mnookin.php
+|accessdate=1 June 2007 |archiveurl = http://web.archive.org/web/20070321151959/http://www.law.harvard.edu/news/2006/12/20_mnookin.php |archivedate = 21 March 2007}}—Reflections on nations and nation-state developments regarding Belgium
+
+;Bibliography
+*{{Cite book
+|title=A History of the Low Countries
+|author=Arblaster, Paul
+|edition=Hardcover 312pp
+|date=23 December 2005
+|series=Palgrave Essential Histories
+|publisher=Palgrave Macmillan, New York
+|isbn=1-4039-4827-5}}
+*{{Cite book
+|title=History of the Low Countries
+|author=Blom, J. C. H., Dutch State Institute for War Documentation, ed.; Lamberts, Emiel, Professor in Modern History [[Katholieke Universiteit Leuven|KULeuven]], ed.; Kennedy, James C., translator
+|edition=Hardcover 503pp
+|year=1999 |month=May
+|publisher=Berghahn Books, Oxford/New York
+|isbn=1-5718-1084-6}}
+*{{Cite book
+|title=A History of Belgium from the Roman Invasion to the Present Day
+|author=[http://www.famousbelgians.net/cammaerts.htm Cammaerts, Émile L.]<!--NO WIKILINK to poor stub-->
+|origyear=1913
+|edition=357pp
+|year=1921
+|publisher=D. Appleton and Co, New York
+|id={{OCLC|1525559}} {{ASIN|B00085PM0A}}}}<br/><!--
+-->[Also editions [1913], London, {{OCLC|29072911}}; (1921) D. Unwin and Co., New York {{OCLC|9625246}} also published (1921) as ''Belgium from the Roman invasion to the present day'', The Story of the nations, 67, T. Fisher Unwin, London, {{OCLC|2986704}} {{ASIN|B00086AX3A}}]
+*{{Cite book
+|title=Belgium: A History
+|url=http://www.netlibrary.com/Details.aspx
+|author=Cook, Bernard A., Professor of History at [[Loyola University New Orleans]], Louisiana, United States
+|edition=Paperback 205pp
+|year=[http://isbndb.com/d/book/belgium_a02.html c2002]
+|series=Studies in Modern European History, Vol. 50
+|publisher=Peter Lang Pub, New York
+|isbn=0-8204-5824-4}}<br/><!--
+-->Ib. e-book (2004) NetLibrary, Boulder, Colorado, United States, ISBN 0-8204-7283-2 [Also print edition ([http://isbndb.com/d/book/belgium_a_history.html ISBNDB.com] 2004-06-30) or ([http://www.peterlang.com/index.cfm?vID=67647&vLang=E&vHR=1&vUR=3&vUUR=4&vNoHB=True Peterlang.com] 2005), ISBN 0-8204-7647-1]
+*{{Cite book
+|title=The History of Belgium: Part 1. Cæsar to Waterloo
+|url=http://www.amazon.com/gp/reader/1402167148/
+|author=de Kavanagh Boulger, Demetrius C.
+|edition=Paperback 493pp
+|origyear=1902
+|date=[http://www.amazon.com/exec/obidos/ASIN/1402167148 28 June 2001]
+|series=Elibron Classics
+|publisher=Adamant Media ([[Delaware corporation]]), Boston, Massachusetts, United States.
+|isbn=1-4021-6714-8}} Facsimile reprint of a 1902 edition by the author, London<br/><!--
+-->{{cite book
+|title=Ib. Part 2. 1815–1865. Waterloo to the Death of Leopold I
+|author=Ib.
+|edition=Paperback 462pp
+|origyear=1909
+|date=[http://www.amazon.com/exec/obidos/ASIN/140216713X 28 June 2001]
+|series=Ib.
+|publisher=Ib
+|isbn=1-4021-6713-X}} Facsimile reprint of a 1909 edition by the author, London
+*{{Cite book
+|title=The Politics of Belgium: A Unique Federalism
+|author=Fitzmaurice, John
+|authorlink=John Fitzmaurice
+|edition=Paperback 284pp
+|year=1996 |month=March
+|series=Nations of the modern world
+|publisher=Westview Press, Boulder, Colorado, USA
+|isbn=0-8133-2386-X
+|id={{OCLC|30112536}}}}
+*{{Cite book
+|title=The Low Countries: History of the Northern and Southern Netherlands
+|author=Kossmann-Putto, Johanna A.; [[Ernst Kossmann|Kossmann Ernst H.]]; Deleu Jozef H. M., ed.; Fenoulhet Jane, translator [from: (1987). ''De Lage Landen: geschiedenis van de Noordelijke en Zuidelijke Nederlanden''. Vlaams-Nederlandse Stichting [[Ons Erfdeel]], [[Rekkem]]]
+|edition=3rd Rev. edition Paperback 64pp
+|origyear=1987<!--verified, though @libris (alibris.com) mentions 1987-->
+|year=1993 |month=January
+|publisher=Flemish-Netherlands [http://www.onserfdeel.be/en/info.asp Foundation "Stichting Ons Erfdeel"], Rekkem, Belgium
+|isbn=9-0708-3120-1}} (Several editions in English, incl. (1997) 7th ed.)
+
+
+</text>
+<heading>
+External links
+</heading>
+<text>
+
+{{Sister project links}}
+{{osmrelation|52411}}
+; Government
+* [http://www.monarchie.be/ Official site of Belgian monarchy]
+* [http://www.Belgium.be/ Official site of the Belgian federal government]
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-b/belgium.html Chief of State and Cabinet Members]
+
+;General information
+* {{CIA World Factbook_link|be|Belgium}}
+* [http://www.britannica.com/EBchecked/topic/59268/Belgium Belgium] entry at ''[[Encyclopædia Britannica]]''
+* [http://ucblibraries.colorado.edu/govpubs/for/belgium.htm Belgium] at ''UCB Libraries GovPubs''
+* [http://www.state.gov/p/eur/ci/be/ Belgium] information from the [[United States Department of State]]
+* {{dmoz|Regional/Europe/Belgium}}
+* [http://www.loc.gov/rr/international/european/belgium/be.html Portals to the World] from the United States [[Library of Congress]]
+* [http://www.fao.org/countryprofiles/index.asp?lang=en&iso3=BEL&subj=1&paia= FAO Country Profiles: Belgium]
+* [http://www.thearda.com/internationalData/countries/Country_22_1.asp Statistical Profile of Belgium at the Association of Religion Data Archives]
+{{wikiatlas|Belgium}}
+
+; Tourism
+* [http://www.visitbelgium.com/ Official Site of the Belgian Tourist Office in the Americas and GlobeScope]
+* {{Wikitravel}}
+; Other
+* [[s:en:Catholic Encyclopedia (1913)/Belgium|Belgium]], entry on the [[Catholic Encyclopedia|Catholic Encyclopedia 1913]], republished on [[Wikisource]]
+* [http://publicdiplomacy.wikia.com/wiki/Belgium Belgium], entry on the [[Public Diplomacy]] wiki monitored by the [[USC Center on Public Diplomacy]]
+* [http://eudocs.lib.byu.edu/index.php/History_of_Belgium:_Primary_Documents History of Belgium: Primary Documents] ''EuroDocs: Online Sources for European History''
+
+{{Featured article}}
+
+{{Use dmy dates|date=December 2010}}
+
+[[Category:Belgium| ]]
+[[Category:European countries]]
+[[Category:Benelux countries]]
+[[Category:Member states of the European Union]]
+[[Category:Countries bordering the Atlantic Ocean]]
+[[Category:Northern Europe]]
+[[Category:Western Europe]]
+[[Category:Constitutional monarchies]]
+[[Category:Dutch-speaking countries]]
+[[Category:Federal countries]]
+[[Category:French-speaking countries]]
+[[Category:German-speaking countries]]
+[[Category:Liberal democracies]]
+[[Category:Member states of La Francophonie]]
+[[Category:States and territories established in 1830]]
+[[Category:Member states of the Union for the Mediterranean]]
+[[Category:Members of the North Atlantic Treaty Organization]]
+
+{{Link GA|eo}}
+{{Link GA|es}}
+{{Link GA|th}}
+{{Link FA|af}}
+[[rue:Белґія]]
+
+[[ace:Bèlgia]]
+[[af:België]]
+[[als:Belgien]]
+[[am:ቤልጅግ]]
+[[ang:Belgice]]
+[[ar:بلجيكا]]
+[[an:Belchica]]
+[[arc:ܒܠܓܝܩܐ]]
+[[roa-rup:Belghia]]
+[[frp:Bèlg·ique]]
+[[ast:Bélxica]]
+[[ay:Bilkiya]]
+[[az:Belçika]]
+[[bn:বেলজিয়াম]]
+[[zh-min-nan:Belgien]]
+[[ba:Бельгия]]
+[[be:Бельгія]]
+[[be-x-old:Бэльгія]]
+[[bcl:Belhika]]
+[[bi:Belgium]]
+[[bar:Bäigien]]
+[[bo:པེར་ཅིན།]]
+[[bs:Belgija]]
+[[br:Belgia]]
+[[bg:Белгия]]
+[[ca:Bèlgica]]
+[[cv:Бельги]]
+[[ceb:Belhika]]
+[[cs:Belgie]]
+[[co:Belgica]]
+[[cy:Gwlad Belg]]
+[[da:Belgien]]
+[[pdc:Belgien]]
+[[de:Belgien]]
+[[dv:ބެލްޖިއަމް]]
+[[nv:Bélgii Bikéyah]]
+[[dsb:Belgiska]]
+[[dz:བེལ་ཇིཡམ]]
+[[et:Belgia]]
+[[el:Βέλγιο]]
+[[eml:Bélgi]]
+[[es:Bélgica]]
+[[eo:Belgio]]
+[[ext:Bélgica]]
+[[eu:Belgika]]
+[[ee:Belgium]]
+[[fa:بلژیک]]
+[[hif:Belgium]]
+[[fo:Belgia]]
+[[fr:Belgique]]
+[[fy:Belgje]]
+[[fur:Belgjo]]
+[[ga:An Bheilg]]
+[[gv:Yn Velg]]
+[[gag:Belgiya]]
+[[gd:A' Bheilg]]
+[[gl:Bélxica - België]]
+[[hak:Pí-li-sṳ̀]]
+[[xal:Бельҗмудин Нутг]]
+[[ko:벨기에]]
+[[haw:Pelekiuma]]
+[[hy:Բելգիա]]
+[[hi:बेल्जियम]]
+[[hsb:Belgiska]]
+[[hr:Belgija]]
+[[io:Belgia]]
+[[ilo:Belgium]]
+[[bpy:বেলজিয়াম]]
+[[id:Belgia]]
+[[ia:Belgica]]
+[[ie:Belgia]]
+[[os:Бельги]]
+[[is:Belgía]]
+[[it:Belgio]]
+[[he:בלגיה]]
+[[jv:Bèlgia]]
+[[kl:Belgia]]
+[[pam:Belgium]]
+[[krc:Бельгия]]
+[[ka:ბელგია]]
+[[ks:बेल्जियम]]
+[[csb:Belgijskô]]
+[[kk:Белгия]]
+[[kw:Pow Belg]]
+[[rw:Ububiligi]]
+[[ky:Бельгия]]
+[[sw:Ubelgiji]]
+[[koi:Белгия]]
+[[kv:Бельгия]]
+[[kg:Belezi]]
+[[ht:Bèljik]]
+[[ku:Belgiya]]
+[[lad:Beljika]]
+[[la:Belgica]]
+[[lv:Beļģija]]
+[[lb:Belsch]]
+[[lt:Belgija]]
+[[lij:Belgiò]]
+[[li:Belsj]]
+[[ln:Bɛ́ljika]]
+[[jbo:beldjym]]
+[[hu:Belgium]]
+[[mk:Белгија]]
+[[mg:Belzika]]
+[[ml:ബെൽജിയം]]
+[[mt:Belġju]]
+[[mi:Pehiamu]]
+[[mr:बेल्जियम]]
+[[arz:بلجيكا]]
+[[ms:Belgium]]
+[[mdf:Бельгие]]
+[[mn:Бельги]]
+[[my:ဘယ်လ်ဂျီယမ်]]
+[[nah:Belgica]]
+[[na:Belgium]]
+[[nl:België]]
+[[nds-nl:België]]
+[[ne:बेल्जियम]]
+[[ja:ベルギー]]
+[[nap:Belge]]
+[[ce:Бельги]]
+[[frr:Bälgien]]
+[[pih:Beljum]]
+[[no:Belgia]]
+[[nn:Belgia]]
+[[nrm:Belgique]]
+[[nov:Belgia]]
+[[oc:Belgica]]
+[[uz:Belgiya]]
+[[pnb:بیلجیم]]
+[[pap:Bélgika]]
+[[ps:بلجیم]]
+[[pcd:Bergike]]
+[[pms:Belgi]]
+[[tpi:Beljiam]]
+[[nds:Belgien]]
+[[pl:Belgia]]
+[[pnt:Βέλγιον]]
+[[pt:Bélgica]]
+[[crh:Belçika]]
+[[ksh:Belljie]]
+[[ro:Belgia]]
+[[rmy:Beljiya]]
+[[rm:Belgia]]
+[[qu:Bilhika]]
+[[ru:Бельгия]]
+[[sah:Бельгия]]
+[[se:Belgia]]
+[[sa:बेल्जियम]]
+[[sco:Belgium]]
+[[stq:Belgien]]
+[[sq:Belgjika]]
+[[scn:Belgiu]]
+[[simple:Belgium]]
+[[ss:IBhelijiyamu]]
+[[sk:Belgicko]]
+[[cu:Бєлгїѥ]]
+[[sl:Belgija]]
+[[szl:Belgijo]]
+[[so:Beljim]]
+[[ckb:بەلجیکا]]
+[[srn:Belgikondre]]
+[[sr:Белгија]]
+[[sh:Belgija]]
+[[su:Bélgia]]
+[[fi:Belgia]]
+[[sv:Belgien]]
+[[tl:Belhika]]
+[[ta:பெல்ஜியம்]]
+[[kab:Biljik]]
+[[tt:Бельгия]]
+[[te:బెల్జియం]]
+[[tet:Béljika]]
+[[th:ประเทศเบลเยียม]]
+[[tg:Белгия]]
+[[tr:Belçika]]
+[[tk:Belgiýa]]
+[[udm:Бельгия]]
+[[uk:Бельгія]]
+[[ur:بلجئیم]]
+[[ug:بېلگىيە]]
+[[vec:Belgio]]
+[[vi:Bỉ]]
+[[vo:Belgän]]
+[[fiu-vro:Belgiä]]
+[[wa:Beldjike]]
+[[vls:België]]
+[[war:Belhika]]
+[[wo:Belsik]]
+[[wuu:比利时]]
+[[yi:בעלגיע]]
+[[yo:Bẹ́ljíọ̀m]]
+[[zh-yue:比利時]]
+[[diq:Belçıka]]
+[[zea:Belhië]]
+[[bat-smg:Belgėjė]]
+[[zh:比利时]]
+
+</text>
+
+</sections>

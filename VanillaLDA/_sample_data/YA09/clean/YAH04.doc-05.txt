@@ -1,0 +1,34 @@
+I use a number of methods. As explain below
+
+1) Firstly I have a good anti-virus software that is updated daily, it is the first thing I do in the morning.
+
+2) I also have a firewall program and a anti-crime ware program that blocks hacking attempts and informs me if a website is untrustworthy.
+
+3) I Also have anti-spy ware and anti ad-ware programs that run in the background.
+
+4) You can also use firefox, as most of the virus are written for I.E internet expolerer the changes of coming across for one for firefox are lesser.
+
+5) Update windows then the updates come out (Every second tuesday of the month.
+
+6) Surf the internet from an limited account, hackers have to try harder as you need adm rights to install programs in a limited account.
+
+7) Run virus checks, anti-spy/ad/crime ware checks one a week if you use your cards often
+
+8) This is something I do then typing in a credit card number or a important password do not type it in sequence, as any keyloggers that get pass your anti-virus etc will read your keystokes.
+
+For example of my card number was like 694864839485930
+
+I would type in 66 and then use the mouse to move my cusoer this takes longer but it makes keyloggers less usefull. hers how I would type in the above using this method (using mouse and not cusoer keys) patterm as shown below
+66
+69699
+69464949
+69486489489
+6948648394893
+69486483948593
+694864839485930
+
+9) Check your bank statements for unauthorised use.
+
+10) Clever your browser history and never save your details on your computer either by using windows passwords or any other programm. These are hackable
+
+11) Lastly, reminder if you don't know the site don't use it, and banks will never email or phone you asking for your detials. If in doult look up the phone number of your local bank and then phone them.

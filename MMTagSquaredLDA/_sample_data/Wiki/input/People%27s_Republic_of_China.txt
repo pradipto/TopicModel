@@ -1,0 +1,973 @@
+{{Redirect|PRC}}
+{{Dablink|"China" is often linked here. For Chinese civilization, see [[China]].}}
+{{Distinguish2|the [[Republic of China]]}}
+{{pp-semi-protected|small=yes}}
+{{pp-move-indef}}
+{{Fix bunching|beg}}
+{{contains Chinese text}}
+{{Fix bunching|mid}}
+{{Infobox country
+|native_name = <center>中华人民共和国<small>{{Ref label |names|a|}}</small><br /><center>''Zhōnghuá Rénmín Gònghéguó''</center>
+|conventional_long_name = People's Republic of China
+|common_name = China
+|image_flag = Flag of the People's Republic of China.svg
+|image_coat = National Emblem of the People's Republic of China.svg
+|symbol_type = Emblem
+|image_map = People's Republic of China (orthographic projection).svg
+|map_width = 220px
+|map_caption = PRC-administered areas in dark green;<br />PRC territorial claims in light green
+|national_anthem = <center>[[File:March of the Volunteers instrumental.ogg]]</center><br />“[[March of the Volunteers]]”<br />《义勇军进行曲》([[Pinyin]]: "Yìyǒngjūn Jìnxíngqǔ")
+|official_languages = {{nobr|[[Standard Chinese]]<ref name="langlaw">{{cite web|url=http://www.gov.cn/english/laws/2005-09/19/content_64906.htm |title=Law of the People's Republic of China on the Standard Spoken and Written Chinese Language (Order of the President No.37) |publisher=Gov.cn |date= |accessdate=27 April 2010}}</ref>}}
+|languages_type = [[Official script]]s
+|languages = [[Simplified Chinese characters|Simplified Chinese]]<ref name="langlaw"/>
+|regional_languages = {{nobr|''See [[Languages of China]]''}}
+|ethnic_groups = 92% [[Han Chinese|Han]]; 55 recognised minorities<br />{{Collapsible list|title=[[List of ethnic groups in China|List of ethnic groups]]|91.6% [[Han Chinese|Han]]|1.30% [[Zhuang people|Zhuang]]|0.86% [[Manchu]]|0.79% [[Uyghur people|Uyghur]]|0.79% [[Hui people|Hui]]|0.72% [[Miao people|Miao]]|0.65% [[Yi people|Yi]]|0.62% [[Tujia]]|0.47% [[Ethnic Mongols in China|Mongol]]|0.44% [[Tibetan people|Tibetan]]|0.26% [[Buyei]]|0.15% [[Koreans in China|Korean]]|1.05% other}}
+|capital = [[Beijing]]
+|latd=39 |latm=55 |latNS=N |longd=116 |longm=23 |longEW=E
+|largest_city = [[Shanghai]]
+|demonym = Chinese<!--
+NOTE: Describing the PRC's *GOVERNMENT TYPE* has been a contentious issue.
+PLEASE READ THE ARCHIVES of past discussions BEFORE MAKING/SUGGESTING CHANGES!
+-->|government_type = [[Single-party state|Single party]]-led [[state]] <ref name="pplrepub">{{cite encyclopedia
+ |encyclopedia=Encyclopaedia Britannica
+ |title=China
+ |url=http://www.britannica.com/EBchecked/topic/111803/China
+ |accessdate=15 March 2010
+ |quote=Form of government: single-party people's republic with one legislative house}}</ref><ref>{{cite web|url=http://www.state.gov/r/pa/ei/bgn/18902.htm|title=People's Republic of China|publisher=US State department|quote=Communist party-led state.|date=5 August 2010|accessdate=31 January 2011}}</ref><ref>{{cite book|title=Rough Guide to China|year=2008|edition=5|publisher=Rough Guides|page=7|quote=China is a one-party state run by the Chinese Communist Party}}</ref>
+|leader_title1 =[[President of the People's Republic of China|President]]
+|leader_name1 = [[Hu Jintao]]
+|leader_title2 = [[Premier of the State Council of the People's Republic of China|Premier]]
+|leader_name2 = [[Wen Jiabao]]
+|leader_title3 = {{nobr|<small>[[Chairman of the Standing Committee of the National People's Congress|NPCSC Chairman]]</small>}}
+|leader_name3 = [[Wu Bangguo]]
+|leader_title4 = {{nobr|<small>[[Chinese People's Political Consultative Conference|CPPCC Chairman]]</small>}}
+|leader_name4 = [[Jia Qinglin]]
+|legislature = [[National People's Congress]]
+|sovereignty_type = [[History of China|Establishment]]
+|established_event1 = People's Republic of China proclaimed.
+|established_date1 = 1 October 1949
+|area_footnote ={{Ref label |territory|c|}} or 9,671,018&nbsp;km²{{Ref label |territory|c|}}
+|area_km2 = 9,640,821
+|area_sq_mi = 3704427 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 3rd/4th
+|area_magnitude = 1 E12
+|percent_water = 2.8{{Ref label |mainland|d|}}
+|population_estimate = 1,338,612,968<ref name=unpop>{{Cite journal
+|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html
+|title=China – People
+|publisher=CIA.gov
+|year=2009
+|accessdate=1 January 2010 }}</ref>
+|population_estimate_year = 2010
+|population_estimate_rank = 1st
+|population_census = 1,242,612,226
+|population_census_year = 2000
+|pop_den_footnote =
+|population_density_km2 = 139.6
+|population_density_sq_mi = 363.3 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 53rd
+|GDP_nominal = $5.745&nbsp;trillion<ref name=imf2/>
+|GDP_nominal_rank = 2nd
+|GDP_nominal_year = 2010
+|GDP_nominal_per_capita = $4,283<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 95th
+|GDP_PPP_year = 2010
+|GDP_PPP = $10.084&nbsp;trillion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=924&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=&pr.x=64&pr.y=11 |title=People's Republic of China|publisher=International Monetary Fund|accessdate=6 October 2010}}</ref>
+|GDP_PPP_rank = 2nd
+|GDP_PPP_per_capita = $7,518<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 93rd
+|Gini = 41.5<ref name="Ref_">[https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html CIA World Factbook] [Gini rankings]</ref>
+|Gini_year = 2007
+|HDI_year = 2010
+|HDI = {{increase}} 0.663<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010}}</ref>
+|HDI_rank = 89th
+|HDI_category = <span style="color:#fc0;">medium</span>
+|currency = [[renminbi|Chinese yuan (renminbi)]] (¥)
+|currency_code = CNY
+|time_zone = [[China Standard Time]]
+|utc_offset = +8
+|date_format = yyyy-mm-dd <br />''or'' yyyy{{lang|zh|年}}m{{lang|zh|月}}d{{lang|zh|日}} <br />([[Common Era|CE]]; [[Chinese calendar|CE-1949]])
+|drives_on = right, except for Hong Kong & Macau
+|cctld = [[.cn]]{{Ref label |mainland|d|}} [[.中國]]<ref>{{cite web
+ |url=http://brussels38.icann.org/meetings/brussels2010/transcript-board-25jun10-en.txt
+ |title=ICANN Board Meeting Minutes
+ |publisher=ICANN
+ |accessdate=25 June 2010 }}</ref>
+ [[.中国]]
+|calling_code = [[+86]]{{Ref label |mainland|d|}}
+|footnotes =
+a. {{note|names}} See also [[Name of China#Official names|Names of China]].
+
+b. {{note|complex}} Simple characterizations of the [[political structure]] since the 1980s are no longer possible.<ref name="notsimple"/>
+
+c. {{note|territory}} {{convert|9598086|km2|sqmi|abbr=on}} excludes all disputed territories.<br /> {{convert|9640821|km2|sqmi|abbr=on}} Includes PRC-administered area ([[Aksai Chin]] and [[Trans-Karakoram Tract]], both territories claimed by India), Taiwan is not included.<ref>{{cite web
+ |url=http://www.chinadaily.net/china/2008-01/24/content_6418067.htm
+ |title=GDP expands 11.4 percent, fastest in 13 years
+ |publisher=Chinadaily.net
+ |date=24 January 2008
+ |accessdate=15 June 2009 }}</ref>
+
+d. {{note|mainland}} Information for [[mainland China]] only. Hong Kong, [[Macau]] and territories under the jurisdiction of the [[Republic of China]], commonly known as [[Taiwan]], are excluded.
+}}
+
+{{Fix bunching|mid}}
+{{Chinese
+|title=People's Republic of China
+|t={{linktext|中|華|人|民|共|和|國}}
+|s={{linktext|中|华|人|民|共|和|国}}
+|p=Zhōnghuá Rénmín Gònghéguó
+|bpmf=ㄓㄨㄥ ㄏㄨㄚˊ ㄖㄣˊ ㄇㄧㄣˊ ㄍㄨㄥˋ ㄏㄜˊ ㄍㄨㄛˊ
+|poj=Tiong-hôa jîn-bîn kiōng-hô-kok
+|gan=Tung-fā nīn-mīn khùng-fō-koe̍t
+|wuu=tson<sup>平</sup> gho<sup>平</sup> zin<sup>平</sup> min<sup>平</sup> gon<sup>去</sup> ghu<sup>平</sup> koh<sup>入</sup>
+|j=zung<sup>1</sup> waa<sup>4</sup> jan<sup>4</sup> man<sup>4</sup> gung<sup>6</sup> wo<sup>4</sup> gwok³
+|y=Jūng Wàh Yàhn Màhn Guhng Wòh Gwok
+|h=dung<sup>24</sup> fa<sup>11</sup> ngin<sup>11</sup> min<sup>11</sup> kiung<sup>55</sup> fo<sup>11</sup> gued²
+|buc=Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók
+|order=st
+|l=Chinese People's Republic
+}}
+{{Fix bunching|end}}
+
+The '''People's Republic of China''' ('''PRC'''), commonly known as '''China''', is the [[List of countries by population|most populous]] [[sovereign state|state]] in the world with [[Demographics of the People's Republic of China|over 1.3&nbsp;billion people]]. Located in [[East Asia]], China is a [[single-party state]] governed by the [[Communist Party of China]] (CPC).<ref name="Walton2001">{{Cite book|last=Walton |first=Greg |coauthors=International Centre for Human Rights and Democratic Development |title=China's golden shield: Corporations and the development of surveillance technology in the People's Republic of China |publisher=Rights & Democracy |year=2001 |page=5 |chapter=Executive Summary |isbn=9782922084429 |url=http://books.google.com/?id=S9rP0A2q14UC&lpg=PA4&dq=single-party%20%22people's%20republic%20of%20china%22&pg=PA5#v=onepage&q=%22single-party%20state%22 |accessdate=29 August 2009 }}</ref> The PRC exercises jurisdiction over 22 [[Province (China)|provinces]]<!--these are ONLY the provinces the PRC has jurisdictional control over. It is already mentioned as disputed in the "Administrative divisions" section below.-->, five [[Autonomous regions of the People's Republic of China|autonomous regions]], four [[Direct-controlled municipality|directly administered municipalities]] ([[Beijing]], [[Tianjin]], [[Shanghai]], and [[Chongqing]]), and two highly autonomous<ref name="Ref_a">{{cite web|url=http://en.wikisource.org/wiki/Sino-British_Joint_Declaration |title=Sino-British Joint Declaration |accessdate=8 September 2008 }}</ref> [[Special Administrative Region of the People's Republic of China|special administrative regions]] (SARs) – [[Hong Kong]] and [[Macau]]. Its capital city is Beijing.<ref>{{Cite news
+ |url=http://english.people.com.cn/constitution/constitution.html
+ |title=Constitution of the People's Republic of China
+ |work=People's Daily Online
+ |accessdate=23 November 2009
+ |quote=Article 138. The capital of the People's Republic of China is Beijing. }}</ref>
+
+At about 9.6&nbsp;million square kilometres (3.7&nbsp;million square miles), the PRC is the world's [[List of countries and outlying territories by total area|third- or fourth-largest country by total area]] (depending on the definition of what is included in that total)<ref name="Ref_b">The ranking is disputed with the United States and is either ranked third or fourth. See [[List of countries and outlying territories by area]] for more information.</ref> and the [[List of countries and outlying territories by land area|second largest]] by land area.<ref name="listofcountriesoftheworld.com">{{cite web|url=http://www.listofcountriesoftheworld.com/area-land.html |title=Countries of the world ordered by land area |publisher=Listofcountriesoftheworld.com |date= |accessdate=27 April 2010}}</ref> Its landscape is diverse, with [[Mongolian-Manchurian grassland|forest steppes]] and deserts (the [[Gobi Desert|Gobi]] and [[Taklamakan Desert|Taklamakan]]) in the dry north near [[Mongolia]] and Russia's [[Siberia]], and [[subtropical]] forests in the wet south close to [[Vietnam]], [[Laos]], and [[Burma]]. The terrain in the west is rugged and at high altitude, with the [[Himalayas]] and the [[Tian Shan]] mountain ranges forming China's natural borders with [[India]] and Central Asia. In contrast, mainland China's eastern seaboard is low-lying and has a {{convert|14500|km|mi|sing=on}} long coastline bounded on the southeast by the [[South China Sea]] and on the east by the [[East China Sea]] beyond which lie [[Taiwan]], [[Korea]], and [[Japan]].
+
+The ancient [[Chinese civilization]]—one of the world's earliest—flourished in the fertile basin of the [[Yellow River]] which flows through the [[North China Plain]].<ref>{{cite web
+ |url=http://www.china.org.cn/english/features/China2004/106396.htm
+ |title=Rivers and Lakes
+ |publisher=China.org.cn
+ |accessdate=15 June 2009 }}</ref> For more than 6,000 years, China's political system was based on hereditary monarchies (also known as [[Dynasties in Chinese history|dynasties]]). The first of these dynasties was the [[Xia Dynasty|Xia]] (approx 2000BC) but it was the later [[Qin Dynasty]] that first unified China in 221 BC. The last dynasty, the [[Qing Dynasty|Qing]], ended in 1911 with the founding of the [[Republic of China|Republic of China (ROC)]] by the [[Kuomintang]] (KMT), the Chinese Nationalist Party. The first half of the 20th century saw China plunged into a period of [[Chinese Civil War|disunity and civil wars]] that divided the country into two main political camps&nbsp;– the Kuomintang and the [[Communist Party of China|communists]]. Major hostilities ended in 1949, when the communists won the civil war and established the People's Republic of China in [[mainland China]]. The KMT-led [[Republic of China]] relocated their capital to [[Taipei]] on [[Taiwan]]; its jurisdiction is now limited to [[Taiwan]], [[Kinmen]], [[Matsu Islands|Matsu]] and several outlying islands. Since then, the People's Republic of China (PRC) has been involved in political disputes with the [[Republic of China]] over issues of sovereignty and the [[political status of Taiwan]].
+
+Since the introduction of market-based [[Chinese economic reform|economic reforms in 1978]], China has become the world's [[List of countries by real GDP growth rate|fastest growing]] [[G-20|major economy]],<ref>{{Cite news
+ |url=http://news.bbc.co.uk/2/hi/asia-pacific/country_profiles/1287798.stm
+ |title=Country profile: China
+ |publisher=BBC News
+ |date=1 July 2009
+ |accessdate=14 July 2009 }}</ref> the world's [[List of countries by exports|largest exporter]] and [[List of countries by imports|second largest importer]] of goods. China is the world's second largest economy by both [[List of countries by GDP (nominal)|nominal GDP]] and [[List of countries by GDP (PPP)|purchasing power parity (PPP)]]<ref name="Altucher2010">{{Cite news| title=There's no stopping China|work=New York Post | date=8 January 2010| url=http://www.nypost.com/p/news/business/there_no_stopping_china_0H8GJaMgzHCYenL038Yh2N| accessdate=2 August 2010 | first=James | last=Altucher}}</ref> and a [[United Nations Security Council#Permanent members|permanent member]] of the [[United Nations Security Council]]. It is also a member of formal/informal multilateral organizations including the [[WTO]], [[APEC]], [[BRIC]], [[Shanghai Cooperation Organisation]], and [[G-20]]. China is a [[Nuclear Non-Proliferation Treaty|recognized]] [[List of states with nuclear weapons|nuclear weapons state]] and has the world's [[List of countries by number of active troops|largest standing army]] with the [[List of countries by military expenditures|second-largest defense budget]]. China has been characterized as a [[Potential superpowers|potential superpower]] by a number of academics,<ref>{{cite web
+ |url=http://www.carnegieendowment.org/events/index.cfm?fa=eventDetail&id=851&prog=zch
+ |title=From Rural Transformation to Global Integration: The Environmental and Social Impacts of China's Rise to Superpower
+ |last=Muldavin |first=Joshua
+ |date=9 February 2006
+ |publisher=Carnegie Endowment for International Peace
+ |accessdate=17 January 2010 }}</ref> military analysts,<ref>{{Cite journal
+
+ |last=(Lt Colonel, USAF) Uckert |first=Merri B.
+ |date=April 1995
+ |title=China as an Economic and Military Superpower: A Dangerous Combination?
+ |publisher=Air War College, Air University
+ |location=Maxwell Air Force Base, Alabama
+ |page=33
+ |url=http://www.au.af.mil/au/awc/awcgate/awc/uckertmb.pdf }}</ref> and public policy and economics analysts.<ref>{{Cite book
+
+ |title=China: The Balance Sheet: What the World Needs to Know about the Emerging Superpower
+ |publisher=PublicAffairs
+ |date=17 April 2006
+ |edition=Illustrated Hardcover
+ |page=224
+ |isbn=9781586484644
+ |first1=C. Fred |last1=Bergsten
+ |first2=Bates |last2=Gill
+ |first3=Nicholas R. |last3=Lardy
+ |first4=Derek |last4=Mitchell }}</ref>
+
+{{TOC limit|limit=3}}
+
+==History==
+{{Expand section|1961-1966 history. Deng Xiaoping and Liu Shaoqi|date=April 2010}}
+{{Main|History of China|History of the People's Republic of China|History of Hong Kong|History of Macau}}
+
+===Etymology===
+{{Main|Names of China}}
+
+===20th century===
+[[File:PRCFounding.jpg|thumb|left|Chairman [[Mao Zedong]] proclaiming the establishment of the People's Republic in 1949.]]
+Major combat in the [[Chinese Civil War]] ended in 1949 with the Communist Party of China in control of mainland China, and the [[Kuomintang]] (KMT) retreating to [[Taiwan]]. On 1 October 1949, [[Mao Zedong]] proclaimed the People's Republic of China.<ref name="Ref_c">[http://www.isop.ucla.edu/eas/documents/mao490921.htm The Chinese people have stood up]. UCLA Center for East Asian Studies. Retrieved 16 April 2006.</ref> "Communist China" or "Red China" were two of the names of the PRC.<ref name="Ref_d">Smith, Joseph; and Davis, Simon. [2005] (2005). The A to Z of the Cold War. Issue 28 of ''Historical dictionaries of war, revolution, and civil unrest''. Volume 8 of ''A to Z guides''. Scarecrow Press publisher. ISBN 0810853841, 9780810853843.</ref>
+
+The economic and social plan known as the [[Great Leap Forward]] resulted in an estimated 45&nbsp;million deaths.<ref name="Akbar2010">{{Cite news|url =http://www.independent.co.uk/arts-entertainment/books/news/maos-great-leap-forward-killed-45-million-in-four-years-2081630.html |title= Mao's Great Leap Forward 'killed 45 million in four years'|accessdate=October 30, 2010 |publisher=The Independent|location=London|first=Arifa|last=Akbar|date=17 September 2010}}</ref> In 1966, Mao and his allies launched the [[Cultural Revolution]], which would last until Mao's death a decade later. The Cultural Revolution, motivated by power struggles within the Party and a fear of the [[Soviet Union]], led to a major upheaval in Chinese society. In 1972, at the peak of the [[Sino-Soviet split]], Mao and [[Zhou Enlai]] met [[Richard Nixon]] in Beijing to establish relations with the United States. In the same year, the PRC was [[United Nations General Assembly Resolution 2758|admitted to the United Nations]] in place of the Republic of China for China's membership of the United Nations, and permanent membership of the Security Council.
+
+After Mao's death in 1976 and the arrest of the [[Gang of Four]], blamed for the excesses of the Cultural Revolution, [[Deng Xiaoping]] quickly wrested power from Mao's anointed successor [[Hua Guofeng]]. Although he never became the head of the party or state himself, Deng was in fact the [[Paramount Leader]] of China at that time, his influence within the Party led the country to [[Chinese economic reform|significant economic reforms]]. The Communist Party subsequently loosened governmental control over citizens' personal lives and the [[People's commune|communes]] were disbanded with many peasants receiving multiple land leases, which greatly increased incentives and agricultural production. This turn of events marked China's transition from a planned economy to a mixed economy with an increasingly open market environment, a system termed by some<ref name="Ref_e">[[Martin Hart-Landsberg|Hart-Landsberg, Martin]]; and [[Paul Burkett|Burkett, Paul]]. [http://www.monthlyreview.org/chinaandsocialism.htm "China and Socialism. Market Reforms and Class Struggle"]. Retrieved 30 October 2008.</ref> "[[market socialism]]", and officially by the Communist Party of China "[[Socialism with Chinese characteristics]]". The PRC adopted its current [[constitution of the People's Republic of China|constitution]] on 4 December 1982.
+
+In 1989, the death of pro-reform official [[Hu Yaobang]] helped to spark the [[Tiananmen Square protests of 1989]], during which students and others campaigned for several months, speaking out against corruption and in favour of greater political reform, including democratic rights and freedom of speech. However, they were eventually put down on 4 June when [[People's Liberation Army|PLA]] troops and vehicles entered and forcibly cleared the square, resulting in numerous casualties. This event was widely reported and brought worldwide condemnation and sanctions against the government.<ref name="Ref_f">Youngs, R. ''The European Union and the Promotion of Democracy.'' Oxford University Press, 2002. ISBN 978-0-19-924979-4.</ref><ref name="Ref_g">Carroll, J. M. ''A Concise History of Hong Kong.'' Rowman & Littlefield, 2007. ISBN 978-0-7425-3422-3.</ref> The "[[Tank Man]]" incident in particular became famous.
+
+President [[Jiang Zemin]] and Premier [[Zhu Rongji]], both former mayors of Shanghai, led post-Tiananmen PRC in the 1990s. Under Jiang and Zhu's ten years of administration, the PRC's economic performance pulled an estimated 150&nbsp;million peasants out of poverty and sustained an average annual gross domestic product growth rate of 11.2%.<ref name="Ref_h">[http://www.chinadaily.com.cn/en/doc/2003-07/11/content_244499.htm ''Nation bucks trend of global poverty''] (11 July 2003). ''China Daily''</ref><ref name="Ref_i">[http://english.people.com.cn/english/200003/01/eng20000301X115.html ''China's Average Economic Growth in 90s Ranked 1st in World''] (1 March 2000). ''People's Daily''.</ref> The country formally joined the [[World Trade Organization]] in 2001.
+
+Although the PRC needs economic growth to spur its development, the government has begun to worry that rapid economic growth has negatively impacted the country's resources and environment. Another concern is that certain sectors of society are not sufficiently benefiting from the PRC's economic development; one example of this is the wide gap between urban and rural areas. As a result, under current President [[Hu Jintao]] and Premier [[Wen Jiabao]], the PRC has initiated policies to address these issues of equitable distribution of resources, but the outcome remains to be seen.<ref name="Ref_j">[http://news.bbc.co.uk/1/hi/world/asia-pacific/4913622.stm ''China worried over pace of growth'']. BBC. Retrieved 16 April 2006.</ref> More than 40&nbsp;million farmers have been displaced from their land,<ref name="Ref_k">[http://migration.ucdavis.edu/mn/more.php?id=3166_0_3_0 ''China: Migrants, Students, Taiwan'']. Migration News. January 2006.</ref> usually for economic development, contributing to the 87,000 demonstrations and riots across China in 2005.<ref name="Ref_l">[http://www.washingtonpost.com/wp-dyn/content/article/2006/01/27/AR2006012701588.html ''In Face of Rural Unrest, China Rolls Out Reforms'']. The Washington Post. 28 January 2006.</ref> For much of the PRC's population, living standards have seen extremely large improvements, and freedom continues to expand, but political controls remain tight and rural areas poor.<ref>{{cite web|url=http://www.pbs.org/wgbh/pages/frontline/tankman/etc/transcript.html
+|title=''Frontline'': ''The Tank Man'' transcript
+|accessdate=12 July 2008 |date=11 April 2006 |work=Frontline |publisher=PBS }}</ref>
+
+==Geography==
+{{Multiple image
+ | align = right
+ | direction = vertical
+ | width = 180
+ | image1 = China 100.78713E 35.63718N.jpg
+ | caption1 = Topography of China
+ | image2 = Longji terrace - 03.JPG
+ | caption2 = [[Longsheng Rice Terrace]]
+ | image3 = 漓江山水.jpg
+ | caption3 = [[Lijiang River|Li River]] in [[Guangxi]]
+}}
+{{Main|Geography of the People's Republic of China|Geography of Hong Kong|Geography of Macau}}
+{{See also|Environment of the People's Republic of China|Water resources of the People's Republic of China}}
+{{Multiple image
+ | align = left
+ | direction = vertical
+ | width = 180
+ | image1 = Everest North Face toward Base Camp Tibet Luca Galuzzi 2006 edit 1.jpg
+ | caption1 = [[Mount Everest]] in [[Tibet Autonomous Region|Tibet]]
+ | image2 = Sanya Sun Photo by Dale Preston.jpg
+ | caption2 = [[South China Sea]] coast of [[Hainan]]
+ | image3 =
+ | caption3 = [[Jiuzhaigou Valley]] in [[Sichuan]]
+}}
+
+The People's Republic of China is the [[List of countries and outlying territories by land area|second largest]] country in the world by land area<ref name="listofcountriesoftheworld.com"/> and is considered the [[List of countries and outlying territories by total area|third or fourth largest]] in respect to total area.<ref name="Ref_aq">[http://www.fco.gov.uk/servlet/Front?pagename=OpenMarket/Xcelerate/ShowPage&c=Page&cid=1007029394365&a=KCountryProfile&aid=1018965313021 "The People's Republic of China"] (7 September 2005). Foreign & Commonwealth Office</ref> The uncertainty over size is related to (a) the validity of claims by China on territories such as [[Aksai Chin]] and [[Trans-Karakoram Tract]] (both territories also claimed by India), <ref name="CIA">[https://www.cia.gov/library/publications/the-world-factbook/fields/2070.html Field Listing – Disputes – international], [[CIA World Factbook]]</ref> and (b) how the total size of the United States is calculated: ''The World Factbook'' gives {{convert|9826630|km2|sqmi|abbr=on}},<ref name="Ref_ar"> {{cite web
+  |url=http://unstats.un.org/unsd/demographic/products/dyb/DYB2005/Table03.pdf
+  |format=PDF
+  |title=Population by Sex, Rate of Population Increase, Surface Area and Density
+  |publisher=UN Statistics Division
+  |work=Demographic Yearbook 2005
+  |accessdate=25 March 2008}}</ref> and the ''Encyclopædia Britannica'' gives {{convert|9522055|km2|sqmi|abbr=on}}.<ref name="Ref_as"> {{cite web
+  |url=http://209.85.165.104/search?q=cache:2lOa44xXcrgJ:www.britannica.com/eb/article-9111233/United-States+United+States+Area+encyclopedia+britannica&hl=en&ct=clnk&cd=1&gl=us
+  |title=United States
+  |publisher=Encyclopedia Britannica
+  |accessdate=25 March 2008}}</ref> The area statistics do not include the {{convert|1000|sqkm|1}} of territory ceded to the PRC by the the Parliament of Tajikistan on 12 January 2011, which ended a centuries-long dispute.<ref>[http://www.jpost.com/Headlines/Article.aspx?id=203416 China, Tajikistan sign border agreement]</ref>
+
+China borders 14 nations, [[List of countries by number of neighbouring countries|more than any other country]] (shared with Russia); counted clockwise from south: Vietnam, Laos, Burma, India, Bhutan, Nepal, Pakistan,<ref name="Ref_at">China's border with Pakistan falls in the disputed [[Kashmir]] province. The area under Pakistani-administration is claimed by India.</ref> Afghanistan, Tajikistan, Kyrgyzstan, Kazakhstan, Russia, Mongolia and North Korea. Additionally the border between the PRC and the ROC is located in [[territorial waters]]. China has a land border of {{convert|22117|km|mi|abbr=on}}, the [[List of land border lengths|largest in the world]].
+
+The territory of China lies between latitudes [[18th parallel north|18°]] and [[54th parallel north|54° N]], and longitudes [[73rd meridian east|73°]] and [[135th meridian east|135° E]]. It contains a large variety of [[landscapes]]. In the east, along the shores of the [[Yellow Sea]] and the [[East China Sea]], there are extensive and densely populated [[alluvium|alluvial plains]], while on the edges of the Inner Mongolian plateau in the north, grasslands can be seen. Southern China is dominated by hill country and low mountain ranges. In the central-east are the [[river delta|deltas]] of China's two major rivers, the [[Yellow River]] and [[Yangtze River]] (Chang Jiang). Other major rivers include the [[Xi River|Xi]], [[Mekong]], [[Brahmaputra River|Brahmaputra]] and [[Amur River|Amur]]. To the west, major mountain ranges, notably the Himalayas, with China's highest point at the eastern half of [[Mount Everest]], and high [[plateau]]s feature among the more arid landscapes such as the [[Taklamakan Desert|Taklamakan]] and the [[Gobi Desert]].
+
+A major issue is the continued expansion of deserts, particularly the Gobi Desert.<ref name="Ref_au">[http://news.bbc.co.uk/1/hi/world/asia-pacific/4915690.stm "Beijing hit by eighth sandstorm"]. BBC news. Retrieved 17 April 2006.</ref> Although barrier tree lines planted since the 1970s have reduced the frequency of sandstorms, prolonged [[drought]] and poor agricultural practices result in [[dust storm]]s plaguing northern China each spring, which then spread to other parts of East Asia, including Korea and Japan. According to China's environmental watchdog, Sepa, China is losing a million acres (4,000&nbsp;km²) per year to [[desertification]].<ref name="Ref_av">"[http://www.independent.co.uk/news/world/asia/the-gathering-sandstorm-encroaching-desert-missing-water-399653.html The gathering sandstorm: Encroaching desert, missing water]". The Independent. 9 November 2007.</ref> Water, [[erosion]], and pollution control have become important issues in China's relations with other countries. Melting glaciers in the Himalayas could also lead to [[water shortage]]s for hundreds of millions of people.<ref name="Ref_aw">"[http://www.msnbc.msn.com/id/27894721/ Himalaya glaciers melting much faster]". Msnbc.msn.com. 24 November 2008.</ref>
+
+===Climate===
+China has a [[climate]] mainly dominated by [[dry season]]s and wet [[monsoons]], which leads to temperature differences between winter and summer. In winter, northern winds coming from high latitude areas are cold and dry; in summer, southern winds from sea areas at lower latitude are warm and moist. The climate in China differs from region to region because of the country's extensive and complex [[topography]].
+
+===Biodiversity===
+{{Main|Wildlife of China}}
+[[File:Panda Cub from Wolong, Sichuan, China.JPG|thumb|180px|The [[Giant Panda]]]]
+One of seventeen [[megadiverse countries]],<ref name="Ref_2009a"> {{cite web
+  |url=http://www.environment.gov.au/soe/2001/publications/theme-reports/biodiversity/biodiversity01-3.html 
+  |title=Biodiversity Theme Report 
+  |publisher=Environment.gov.au 
+  |date=10 December 2009 
+  |accessdate=27 April 2010}}</ref> China lies in two of the world's major [[ecozone]]s, the [[Palearctic]] and the [[Indomalaya]]. In the Palearctic zone are found such mammals as the horse, camel, [[tapir]], and [[jerboa]]. Among the species found in the Indomalaya region are the [[Leopard Cat]], [[bamboo rat]], [[treeshrew]], and various species of monkeys and apes. Some overlap exists between the two regions because of natural dispersal and migration, and deer or antelope, bears, wolves, pigs, and rodents are found in all of the diverse climatic and geological environments. The famous giant panda is found only in a limited area along the Yangtze. There is a continuing problem with trade in endangered species, although there are now laws to prohibit such activities.
+
+China contains also a variety of forest types. Both northeast and northwest reaches contain mountains and cold coniferous forests, supporting animal species which include moose and [[Asiatic black bear]], along with some 120 types of birds. Moist [[conifer]] forests can have thickets of [[bamboo]] as an understorey, replaced by [[rhododendrons]] in higher montane stands of [[juniper]] and [[taxus|yew]]. [[Subtropical]] forests, which dominate central and southern China, support an astounding 146,000 species of flora. Tropical rainforest and seasonal rainforests, though confined to [[Yunnan]] and [[Hainan Island]], actually contain a quarter of all the plant and animal species found in China.
+
+===Environment===
+{{Main|Environment of the People's Republic of China}}
+[[Image:Wind power plants in Xinjiang, China.jpg|thumb|180px|[[Wind turbine]]s in [[Xinjiang]]. The Dabancheng project is Asia's largest [[wind farm]].]]
+
+China has some relevant environmental regulations: the 1979 Environmental Protection Law, which was largely modeled on US legislation. But the environment continues to deteriorate.<ref name="Ma2002"> {{Cite book
+  |author=Ma Xiaoying 
+  |coauthors=Ortalano, Leonard 
+  |title=Environmental Regulation in China 
+  |origyear=2000 
+  |year=2002 
+  |publisher=Rowman & Littlefield Publishers 
+  |month=May
+}}</ref> While the regulations are fairly stringent, enforcement of them is poor as they are frequently disregarded by local communities or governments while seeking economic development. Twelve years after the law, only one Chinese city was making an effort to clean up its water discharges.<ref name="Ref_abcdf">Sinkule, Barbara J., ''Implementing Environmental Policy in China'', Praeger Publishers, 1995, ISBN 0-275-94980-X</ref>
+
+Part of the price China is paying for increased prosperity is damage to the environment. Leading Chinese environmental campaigner [[Ma Jun (environmentalist)|Ma Jun]] has warned that water pollution is one of the most serious threats facing China. According to the [[Ministry of Water Resources of the People's Republic of China|Ministry of Water Resources]], roughly 300&nbsp;million Chinese are drinking unsafe water. This makes the crisis of water shortages more pressing, with 400 out of 600 cities short of water.<ref name="water"> {{cite web
+  |url=http://www.chinadialogue.net/article/show/single/en/392-Tackling-China-s-water-crisis-online
+  |title=Tackling China's Water Crisis Online
+  |accessdate=18 February 2007
+  |publisher=www.chinadialogue.net
+  |year=2006
+  |author=Ma, Jun Li, Naomi }}</ref><ref name="Ref_2004"> 
+{{Cite news
+  |url=http://english.peopledaily.com.cn/200412/23/eng20041223_168329.html
+  |title=300&nbsp;million Chinese drinking unsafe water
+  |date=23 December 2004
+  |work=People's Daily Online
+  |accessdate=27 March 2009 }}</ref>
+
+Yet, with $34.6&nbsp;billion invested in clean technology in 2009, China is the world's leading investor in renewable energy technologies.<ref name="By2010"> {{Cite news
+  |author=By LISA FRIEDMAN of ClimateWire 
+  |url=http://www.nytimes.com/cwire/2010/03/25/25climatewire-china-leads-major-countries-with-346-billion-15729.html?pagewanted=1 
+  |title=China Leads Major Countries With $34.6&nbsp;Billion Invested in Clean Technology 
+  |work=The New York Times 
+  |date=25 March 2010 
+  |accessdate=27 April 2010 }}</ref><ref name="Black2010">
+{{Cite news
+  |last=Black |first=Richard 
+  |url=http://news.bbc.co.uk/2/hi/science/nature/8587319.stm 
+  |title=China steams ahead on clean energy 
+  |publisher=BBC News 
+  |date=26 March 2010 
+  |accessdate=27 April 2010 }}</ref> China produces more [[wind turbine]]s and [[solar panel]]s each year than any other country.<ref name=bradsher>Bradsher, Keith, 30 January 2010, [http://www.nytimes.com/2010/01/31/business/energy-environment/31renew.html China leads global race to make clean energy], [[New York Times]]</ref>
+
+==Politics==
+{{Main|Politics of the People's Republic of China}}<!--Please add new information to relevant articles of the series-->
+{{See also|Government of the People's Republic of China|Chinese nationalism|Propaganda in the People's Republic of China|Chinese law|Politics of the Republic of China|Neoconservatism in China|Politics of Hong Kong|Politics of Macau}}
+
+[[File:State organs of the People's Republic of China.svg|thumb|right|300px|The [[Government of the People's Republic of China|State organs of the People's Republic of China]].]]
+The PRC is regarded by several [[political science|political scientists]] as one of the last five [[Communist state]]s (along with Vietnam, North Korea, Laos, and Cuba),<ref>{{cite web|url=http://www.americanthinker.com/2007/11/inordinate_fear.html
+|t|title=Randall Hoven, 7&nbsp;November&nbsp;2007 American Thinker
+|publisher=Americanthinker.com |accessdate=14 July 2009 }}</ref><ref name="Ref_m">Cienciala, Anna (1996). [http://web.ku.edu/~eceurope/communistnationssince1917/intro.html ''The Rise and Fall of Communist Nations 1917–1994'']. Retrieved 16 October 2008.</ref><ref name="Ref_n">Espinosa, Juan Carlos; [http://lanic.utexas.edu/la/cb/cuba/asce/cuba9/espinosa.pdf ''Civil Society in Cuba: The logic of emergence in comparative perspective'']. Retrieved 16 October 2008.</ref> but simple characterizations of PRC's [[political structure]] since the 1980s are no longer possible.<ref name="notsimple">Boum, Aomar (1999). [http://jpe.library.arizona.edu/volume_6/goodmanonoivol6.htm ''Journal of Political Ecology: Case Studies in History and Society'']. Retrieved 5 May 2007.</ref> The PRC government has been variously described as communist and socialist, but also as authoritarian, with heavy restrictions remaining in many areas, most notably on [[Internet censorship in the People's Republic of China|the Internet]], [[freedom of the press|the press]], [[freedom of assembly]], [[reproductive rights]], and [[freedom of religion]].{{Citation needed|date=March 2010}}
+
+Compared to its closed-door policies until the mid-1970s, the liberalization of the PRC has resulted in the administrative climate being less restrictive than before. The PRC is far different from [[liberal democracy]] or [[social democracy]] that exists in most of Europe or North America, and the National People's Congress has been described as a "[[rubber stamp (politics)|rubber stamp]]" body.<ref>{{Cite news|url=http://news.bbc.co.uk/2/shared/spl/hi/in_depth/china_politics/government/html/7.stm |title=BBC, Country Report: China |publisher=BBC News |accessdate=14 July 2009 }}</ref> The PRC's incumbent president is [[Hu Jintao]] and its premier is [[Wen Jiabao]].
+
+[[File:Tiananmen Square Visit.jpg|thumb|left|The [[Great Hall of the People]] in Beijing, where the [[National People's Congress]] convenes.]]
+The country is ruled by the [[Communist Party of China]] (CPC), whose power is enshrined in China's constitution.<ref>{{cite web|url=http://english.people.com.cn/constitution/constitution.html
+|title=Constitution of the People's Republic of China
+|publisher=English.people.com.cn |accessdate=14 July 2009 }}</ref> The political system is very decentralized<ref name="Ref_o">{{cite web|url=http://www.cfr.org/publication/14482/communist_party_of_china.html |title=CFR.org |publisher=CFR.org |date= |accessdate=27 April 2010}}</ref> with limited democratic processes internal to the party and at local village levels, although these experiments have been marred by corruption. There are other political parties in the PRC, referred to in China as democratic parties, which participate in the [[Chinese People's Political Consultative Conference|People's Political Consultative Conference]] and the [[National People's Congress]].
+
+There have been some moves toward political liberalization, in that open contested elections are now held at the village and town levels,<ref name="poll">{{cite web|url=http://www.chinadaily.com.cn/en/doc/2003-12/08/content_288018.htm
+|title=Beijingers Get Greater Poll Choices
+|accessdate=18 February 2007 |work=China Daily |year=2003 |author=Unknown Author }}</ref><ref name="Ref_p">Lohmar, Bryan; and Somwaru, Agapi; [http://www.ers.usda.gov/publications/aib775/aib775n.pdf ''Does China’s Land-Tenure System Discourage Structural Adjustment?''], 1 May 2006. USDA Economic Research Service. Accessed 3 May 2006.</ref> and that legislatures have shown some assertiveness from time to time. However, the Party retains effective control over government appointments: in the absence of meaningful opposition, the CPC wins by default most of the time. Political concerns in the PRC include lessening the growing gap between rich and poor and fighting corruption within the government leadership.<ref name="Ref_q">[http://www.mindfully.org/WTO/China-Wealth-Gap11may02.htm ''China sounds alarm over fast-growing gap between rich and poor'']. Retrieved 16 April 2006.</ref>
+
+The level of support to the government action and the management of the nation is among the highest in the world, with 86% of people who express satisfaction with the way things are going in their country and with their nation's economy according to a 2008 Pew Research Center survey.<ref name="renamed_from_222008_on_20101218235153">{{cite web|author=22 July 2008 |url=http://pewresearch.org/pubs/906/china-economy |title=PEWresearch.org |publisher=PEWresearch.org |date=22 July 2008 |accessdate=27 April 2010}}</ref>
+
+===Administrative divisions===
+{{Main|Administrative divisions of China|Districts of Hong Kong|Municipalities of Macau}}
+{{See also|List of cities in the People's Republic of China}}
+
+The People's Republic of China has administrative control over twenty-two [[Province (China)|provinces]] and considers [[Taiwan Province, People's Republic of China|Taiwan]] to be its 23rd province, despite not having control over Taiwan which is currently administered by the Republic of China. The PRC's claim is disputed by the Republic of China.<ref name="Ref_ap">Gwillim Law (2 April 2005). [http://www.statoids.com/ucn.html Provinces of China]. Retrieved 15 April 2006.</ref> There are also five [[Autonomous regions of China|autonomous regions]], each with a designated minority group; four [[Direct-controlled municipality|municipalities]]; and two [[Special Administrative Region of the People's Republic of China|Special Administrative Regions]] that enjoy some degree of autonomy. The twenty-two provinces, five autonomous regions, and four municipalities can be collectively referred to as "[[mainland China]]", a term which usually excludes Hong Kong and Macau.
+
+{{PRC provinces small imagemap/province list}}
+[[File:PRC Province Population2.svg|thumb|center|550px|Map of the administrative divisions by population in millions.]]
+
+===Foreign relations===
+{{Main|Foreign relations of the People's Republic of China}}
+
+[[File:Hu Jintao Bush.jpg|thumb|[[Hu Jintao]] with former US President [[George W. Bush]]]]
+China maintains diplomatic relations with most major countries in the world. Sweden was the first western country to establish diplomatic relations with the People's Republic on 9 May 1950.<ref>{{cite web|url=http://www.chinaembassy.se/eng/zrgx/t100751.htm
+|title=China and Sweden
+|publisher=Chinaembassy.se |accessdate=15 June 2009 }} {{Dead link|date=October 2010|bot=H3llBot}}</ref> In 1971, the PRC replaced the Republic of China as the sole representative of China in the United Nations and as one of the five permanent members of the [[United Nations Security Council]].<ref name="Ref_r">Chang, Eddy (22 August 2004). [http://www.taipeitimes.com/News/editorials/archives/2004/08/22/2003199768 ''Perseverance will pay off at the UN''], ''The Taipei Times''.</ref> The PRC was also a former member and leader of the [[Non-Aligned Movement]], and still considers itself an advocate for [[developing countries]].<ref name="Ref_2009">{{Cite news|url=http://english.peopledaily.com.cn/90001/90776/90883/6847341.html|title=China says communication with other developing countries at Copenhagen summit transparent|date=21 December 2009|accessdate=20 August 2010|work=[[People's Daily]]}}</ref>
+
+Under its interpretation of the [[One-China policy]], the PRC has made it a precondition to establishing diplomatic relations that the other country acknowledges its claim to Taiwan and severs official ties with the Republic of China government; it has acted furiously when any country shows signs of diplomatic overture,<ref>{{Cite news|url=http://www.google.com/hostednews/afp/article/ALeqM5iNP2McsYhIeRMgrn036WkQdrN3LQ
+|title=Taiwan's Ma to stopover in US: report
+|agency=AFP |date=11 January 2010 }}</ref> or sells armaments to Taiwan.<ref>{{Cite news|url=http://www.timesonline.co.uk/tol/news/world/asia/article7010435.ece |work=The Times |date=1 February 2010
+|title=China says US arms sales to Taiwan could threaten wider relations
+|author=Macartney, Jane | location=London}}</ref> It also opposes publicised foreign travels by [[Taiwan independence movement|pro-Taiwan-independence]] ROC officials, such as [[Lee Teng-hui]] and [[Chen Shui-bian]], and other separatist figures, such as the [[14th Dalai Lama]]<ref>{{Cite news|url=http://www.telegraph.co.uk/news/worldnews/asia/china/6952556/China-cancels-UK-human-rights-summit-after-Akmal-Shaikh-execution.html
+|title=China cancels UK human rights summit after Akmal Shaikh execution
+|author=Moore, Malcolm |date= 8 January 2010 | work=The Daily Telegraph | location=London}}</ref> and [[Rebiya Kadeer]].<ref>{{Cite news|date=28 July 2009 |url=http://news.bbc.co.uk/2/hi/8171791.stm
+|title=Uighur Kadeer arrives in Tokyo
+|publisher=BBC News |accessdate=29 January 2010 }}</ref>
+
+The PRC has been playing an increasing role in calling for [[free trade area]]s and security pacts amongst its Asia-Pacific neighbors. In 2004, the PRC proposed an entirely new [[East Asia Summit]] (EAS) framework as a forum for regional security issues that pointedly excluded the United States.<ref name="Ref_s">Dillon, Dana; and Tkacik, John, Jr.; [http://web.archive.org/web/20060210135228/http://www.policyreview.org/134/dillon.html ''China’s Quest for Asia''], Policy Review, December 2005 and January 2006, Issue No. 134. Retrieved 22 April 2006.</ref> The EAS, which includes [[Association of Southeast Asian Nations Plus Three|ASEAN Plus Three]], India, Australia and New Zealand, held its inaugural summit in 2005. The PRC is also a founding member of the Shanghai Cooperation Organisation (SCO), with Russia and the Central Asian republics.
+
+In 2000 the U.S. Congress approved "permanent normal trade relations" (PNTR) with China, allowing Chinese exports in at the same low tariffs as goods from most other countries.<ref name="Ref_t">"[http://transcripts.cnn.com/2000/ALLPOLITICS/stories/10/10/clinton.pntr/ Clinton signs China trade bill]". CNN.com. October 10, 2000</ref> Both Bill Clinton and George W. Bush asserted that [[free trade]] would gradually open China to [[democracy|democratic]] reform.<ref name="Ref_u">"[http://www.pbs.org/newshour/bb/asia/china/pntr/debate_intro.html The China Trade Debate]". Public Broadcasting Service (PBS). May 18, 2000.</ref> Bush was an advocate of China's entry into the [[World Trade Organization]] (WTO).<ref name="Ref_v">"[http://news.bbc.co.uk/2/hi/asia-pacific/1358596.stm Bush woos China on trade]", May 30, 2001, BBC News</ref> China has a significant trade surplus with the United States, its most important export market.<ref name="Ref_w">"[http://www.bbc.co.uk/news/business-11544677 US trade gap widens on increased Chinese imports]". BBC News. October 14, 2010</ref> U.S. politicians have recently argued that the [[Chinese yuan]] is undervalued, giving China an unfair trade advantage.<ref name="Ref_x">"[http://news.bbc.co.uk/2/hi/business/8617189.stm Chinese President Hu Jintao resists Obama calls on yuan]". BBC News. April 13, 2010.</ref>
+
+Sinophobic attitudes often target Chinese [[Chinese diaspora|minorities]] and nationals living outside of China. Sometimes the anti-Chinese attitudes turn violent, such as the [[13 May Incident]] in Malaysia in 1969 and the [[Jakarta riots of May 1998]] in Indonesia, in which more than 2,000 people died.<ref name="Ref_y">[http://www.economist.com/world/asia/displayStory.cfm?story_id=4323219 ''Malaysia's race rules'']. The Economist Newspaper Limited (25 August 2005). Requires login.</ref> In recent years, a number of anti-Chinese riots and incidents have also occurred in Africa and Oceania.<ref name="Ref_z">[http://en.afrik.com/article16008.html ''Algeria: Xenophobia against Chinese on the rise in Africa'']. Afrik.com. 5 August 2009.</ref><ref name="Ref_aa">[http://www.theaustralian.news.com.au/story/0,25197,25524906-2703,00.html ''Looters shot dead amid chaos of Papua New Guinea's anti-Chinese riots'']. The Australian. 23 May 2009.</ref> Anti-Chinese sentiment is often rooted in socio-economics.<ref name="Ref_ab">[http://media.economist.com/PrinterFriendly.cfm?story_id=14207132 ''Overseas and under siege''].{{dead link|date=November 2010}} The Economist. 11 August 2009.</ref>
+
+Much of the current foreign policy is based on the concept of [[Five Principles of Peaceful Coexistence]] of Zhou Enlai - non-interference in other states' affairs, non-aggression, peaceful coexistence, and equality and mutual benefits. China's foreign policy is also driven by the concept of "harmony without uniformity" which encourages diplomatic relations between states despite ideological differences. This has led China to support states that are regarded as dangerous by Western nations, such as Zimbabwe, North Korea, or Iran.<ref name="Keith">{{Cite book|last=Keith|first=Ronald C.|title=China from the inside out - fitting the People's republic into the world|publisher=PlutoPress}}</ref> Conflicts with foreign countries have occurred at times in its recent history, particularly with the United States; for example, the [[NATO bombing of the Chinese embassy in Belgrade|US bombing of the Chinese embassy]] in [[Belgrade]] during the [[Kosovo War|Kosovo conflict]] in May 1999 and the [[Hainan Island incident|US-China spy plane incident]] in April 2001. Its foreign relations with many Western nations suffered for a time following the [[Tiananmen Square protests of 1989]], though they have since recovered.{{Opinion|date=January 2011}}
+
+The relationship between [[Sino-Japanese relations|China and Japan]] has been strained at times by Japan's refusal to acknowledge its [[World War II|wartime]] past to the satisfaction of the PRC; take for instance [[Historical revisionism|revisionist]] comments made by prominent Japanese officials and in some [[Japanese history textbook controversies|Japanese history textbooks]]. Another point of conflict between the two countries is the frequent visits by Japanese government officials to the [[Yasukuni Shrine]]. However, Sino-Japanese relations have warmed considerably since [[Shinzo Abe]] became the new Japanese Prime Minister in September 2006. A joint historical study conducted by the PRC and Japan released a report in 2010 which pointed toward a new consensus on the issue of [[Japanese war crimes|WWII atrocities]].<ref name="Ref_ac">[http://www.foreignpolicy.com/articles/2010/02/09/nanjing_by_the_numbers ''Nanjing by the Numbers'']. Foreign Policy. 9 February 2010.</ref>
+
+Equally bordering the most countries in the world alongside Russia, the PRC was in a number of [[Foreign relations of the People's Republic of China#International territorial disputes|international territorial disputes]]. China's territorial disputes have led to localized wars in the last 50 years, including the [[Sino-Indian War]] in 1962, the [[Sino-Soviet border conflict]] in 1969, and the [[Sino-Vietnamese War]] in 1979. In 2001, the PRC and Russia signed the [[2001 Sino-Russian Treaty of Friendship|Sino-Russian Treaty of Friendship]],<ref name="Ref_ad">[http://www.chinadaily.com.cn/china/2006-03/21/content_548330.htm ''Treaty of Good-Neighborliness and Friendly Cooperation''] (21 March 2006). Retrieved 16 April 2006.</ref> which paved the way in 2004 for Russia to transfer [[Yinlong Island]] as well as one-half of [[Heixiazi]] to China, ending a long-standing [[Sino-Russian relations|Sino-Russian]] border dispute. Other territorial disputes include islands in the [[East China Sea|East]] and [[South China Sea]]s, and undefined or disputed land borders with India and Bhutan.
+
+While accompanying a rapid economic rise, the PRC since the 1990s seeks to maintain a policy of quiet diplomacy with its neighbors. It does so by keeping economic growth steady and participating in regional organizations and cultivating bi-lateral relations in order to ease suspicion over China's burgeoning military capabilities. The PRC has started a policy of [[Involvement of the People's Republic of China in Africa|wooing African nations]] for trade and bilateral co-operation.<ref name="Ref_ae">McLaughlin, Abraham; [http://www.csmonitor.com/2005/0330/p01s01-woaf.html ''A rising China counters US clout in Africa''], The Christian Science Monitor, 30 March 2005 edition.</ref><ref name="Ref_af">Lyman, Princeton N.; [http://www.cfr.org/publication/8436/ ''China’s Rising Role in Africa''], 21 July 2005 Council of Foreign Relations. Retrieved 26 June 2007.</ref> [[Xinhua]], China's official news agency, states that there are no less than 750,000 Chinese nationals working or living in Africa.<ref name="Ref_ag">Politzer, Malia; [http://www.migrationinformation.org/Feature/display.cfm?id=690 ''China and Africa: Stronger Economic Ties Mean More Migration'']. Migration Information Source. August 2008</ref> There are some discussions about whether China will become a [[China as an emerging superpower|new superpower]] in the [[Chinese Century|21st century]], with certain commentators pointing out its economic progress, military might, very large population, and increasing international influence but others noting the dangers posed by the bubbles that exist in the mainland Chinese economy. <ref> {{Cite news
+  |url=http://www.nytimes.com/2008/01/27/magazine/27world-t.html?_r=1&ref=magazine&oref=slogin
+  |title=Waving Goodbye to Hegemony
+  |work=New York Times 
+  |last=Khanna |first=Parag 
+  |date=27 January 2008 
+  |accessdate=27 March 2009 
+}}</ref><ref> {{cite web
+
+  |url=http://china.usc.edu/ShowArticle.aspx?articleID=848
+  |title=China as a global power
+  |publisher=University of Southern California US-China Institute 
+  |date=13 November 2007 |accessdate=27 March 2009 }}</ref><ref>{{cite web
+
+  |url=http://www.thefirstpost.co.uk/4591,opinion,chinas-bad-loans-will-ruin-us-all
+  |title=The Dragon’s catastrophic potential
+  |publisher=The First Post 
+  |author=Broughton, Philip Delves 
+  |date=23 January 2004 
+  |accessdate=27 March 2009 
+}}</ref><ref> {{cite web
+
+  |url=http://www.worldtribune.com/worldtribune/WTARC/2007/s6_29.asp
+  |title=China's utterly distorted economy is a train wreck waiting to happen
+  |publisher=World Tribune 
+  |last=Sanders 
+  |first=Sol 
+  |date=29 June 2007 
+  |accessdate=27 March 2009 
+}}</ref><ref> {{cite web
+
+  |url=http://www.atimes.com/atimes/Global_Economy/FA23Dj01.html
+  |title=China-US: Double bubbles in danger of colliding
+  |publisher=Asia Times 
+  |last=Williams |first=Ian 
+  |date=23 January 2004 
+  |accessdate=27 March 2009 }}</ref>
+
+===Military===
+{{Main|People's Liberation Army}}
+[[File:J-10a zhas.png|thumb|[[Chengdu J-10]] [[fighter aircraft]]]]
+
+With 2.3&nbsp;million active troops, the [[People's Liberation Army]] (PLA) is the largest military in the world.<ref name="Ref_abcdep">[http://www.iiss.org/whats-new/iiss-in-the-press/press-coverage-2005/august-2005/china-seeks-to-allay-us-fears-as-summit-nears/ China Seeks to Allay US Fears as Summit Nears] (2006). Retrieved 15 April 2006.</ref> The PLA consists of an [[People's Liberation Army Ground Force|army]], [[People's Liberation Army Navy|navy]], [[People's Liberation Army Air Force|air force]], and strategic [[People's Liberation Army#Nuclear weapons|nuclear]] force. The official announced [[Military budget of the People's Republic of China|budget]] of the PLA for 2009 was $70&nbsp;billion. However, the United States claims China does not report its real military spending. The [[Defense Intelligence Agency]] estimates that the real Chinese military budget for 2008 could be anywhere from US$105 to US$150&nbsp;billion.<ref name="Ref_abcdeq">Although this is still only a fraction of US spending.[http://www.defenselink.mil/pubs/pdfs/China_Military_Power_Report_2009.pdf US Department of Defense]</ref>
+
+China, with possession of [[nuclear weapon]]s and delivery systems, is considered a major military regional power and an [[Potential superpowers|emerging military superpower]].<ref name="Ref_abcder">Nolt, James H. [http://www.atimes.com/china/BA27Ad01.html Analysis: The China-Taiwan military balance]. Asia Times. Retrieved 15 April 2006.</ref> China is the only member of the [[UN Security Council]] to have limited [[Military power projection|power projection]] capabilities<ref name="Martin">{{cite web|author=Martin Andrew |url=http://www.asianresearch.org/articles/2680.html |title=AsianResearch.org |publisher=AsianResearch.org |date= |accessdate=27 April 2010}}</ref> As a consequence, it has been establishing foreign military relationships that have been compared to a [[String of Pearls (China)|String of Pearls]].
+
+Much progress has been made in the last decade and the PRC continues to make efforts to modernize its military. It has purchased state-of-the-art fighter jets from Russia, such as the [[Sukhoi Su-30]]s, and has also produced its own modern fighters, specifically the Chinese [[Chengdu J-10|J-10s]] and the [[Shenyang J-11|J-11s]].<ref name="Ref_2009f">{{cite web|url=http://www.sinodefence.com/airforce/fighter/j10b.asp |title=Sinodefence.com |publisher=Sinodefence.com |date=28 March 2009 |accessdate=27 April 2010}}</ref> It has also acquired and improved upon the Russian [[S-300 (missile)|S-300]] [[surface-to-air missile]] systems, which are considered to be among the best aircraft-intercepting systems in the world,<ref name="Ref_abcdes">[http://www.sinodefence.com/army/surfacetoairmissile/hongqi9.asp SinoDefence: Surface-to-air Missile System] (2006). Retrieved 7 July 2009.</ref> albeit Russia has since produced the new generation [[S-400 Triumf]], with China reportedly already having spent $500&nbsp;million on a downgraded export version of it.<ref name="Ref_2008e">{{cite web|title=HQ-19 (S-400) (China)&nbsp;– Jane's Strategic Weapon Systems |publisher=Janes.com |date=23 December 2008 |accessdate=15 June 2009}}</ref> The PRC's armored and rapid-reaction forces have been updated with enhanced electronics and targeting capabilities. In recent years, much attention has been focused on building a navy with [[Blue-water navy|blue-water]] capability.<ref name="Ref_abcdet">[http://www.sinodefence.com/research/aircraft-carrier/China_Aircraft_Carrier_Ambition.pdf SinoDefence: Aircraft carrier programme] (2006). Retrieved 15 April 2006.</ref>
+
+Little information is available regarding the motivations supporting China's military modernization. A 2007 report by the [[US Secretary of Defense]] notes that "China's actions in certain areas increasingly appear inconsistent with its declaratory policies".<ref name="Ref_abcdeu">{{cite web|url=http://www.defense.gov/pubs/pdfs/070523-China-Military-Power-final.pdf |title=China Military Power Report.indd |format=PDF |date= |accessdate=27 April 2010}}</ref> For its part, China claims it maintains an army purely for defensive purposes.<ref name="Ref_2009g">{{Cite news|url=http://news.bbc.co.uk/1/hi/world/asia-pacific/7965084.stm |title= China fury at US military report|publisher=BBC News |date=26 March 2009 |accessdate=27 April 2010}}</ref>
+
+Some think-tanks such as the Asian European Council have argued that the current tensions between the US and China over Washington's abrupt decision to sell arms to Taipei<ref name="Afp2010">{{Cite news|last=AFP |first= |title=China: US spat over Taiwan could hit co-operation |date=2 February 2010 |publisher=Agence France Presse |url=http://www.google.com/hostednews/afp/article/ALeqM5jDzKLVZ7X2dz8yrsshklcJZh38Cg}}</ref> might trigger a new arms race in Asia fueled essentially by domestic ideological motives, a situation reminiscent in many ways of the McCarthy era<ref name="Aec2010">{{Cite news|last=AEC |first= |title= The New ‘China Lobby’: Return of the McCarthyite Hard-Right |date=31 January 2010 |publisher=Asian European Council |url= http://asianeuropean.org/-McCarthyism_in_Asia_.html}}</ref> when the US hard-right was overtly favorable to the [[Chiang Kai-shek]] lobby.{{Citation needed|date=January 2011}}
+
+===Sociopolitical issues and reform ===
+{{see also|Human rights in the People's Republic of China|Hukou|Social welfare in China|Elections in the People's Republic of China}}
+The [[Chinese democracy movement]], social activists, and certain members of the Communist Party of China have all identified the need to address sociopolitical issues with reform. While economic and social controls have been greatly relaxed in China since the 1970s, [[political freedom]] is still tightly restricted. The [[Constitution of the People's Republic of China]] states that the "fundamental rights" of citizens include [[freedom of speech]], [[freedom of the press]], the [[right to a fair trial]], [[freedom of religion]], [[universal suffrage]], and [[property|property rights]]. However, these provisions do not afford significant protection in practice against criminal prosecution by the State.<ref name="Ref_ah">{{cite web|url=http://www.hrw.org/en/world-report-2009/china |title=Human Rights Watch, World Report 2009 |publisher=Hrw.org |date= |accessdate=14 July 2009}}</ref><ref name="Ref_ai">''Will the Boat Sink the Water?: The Life of China's Peasants'' / [[Chen Guidi]] and Wu Chuntao (2006) ISBN 1586483587</ref><ref name="Ref_aj">''Empire of Lies: The Truth About China in the Twenty-First Century'' / [[Guy Sorman]] (2008) ISBN 1594032165</ref>
+[[File:Liu Xiaobo-300.jpg|upright|thumb|left|[[Liu Xiaobo]] was awarded the [[2010 Nobel Peace Prize]], for "his long and non-violent struggle for fundamental human rights in China."<ref name="nobel-announcement">{{Cite web |url=http://nobelprize.org/nobel_prizes/peace/laureates/2010/announcement.html |title=The Nobel Peace Prize 2010 - Prize Announcement|date=8 October 2010 |work=[[Nobel Prize|nobelprize.org]] |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref><ref name="rthk-nobel">{{Cite web |url=http://www.rthk.org.hk/rthk/news/expressnews/20101008/news_20101008_55_703618.htm |title=劉曉波獲諾貝爾和平獎 (Liu Xiaobo won the Nobel Peace Prize) |date=8 October 2010 |work=[[RTHK]] |postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}</ref>]]
+
+With the Chinese economic reform, tens of millions of rural Chinese who have moved to the cities<ref name=ruralmillions>{{Cite news|last=Wingfield |first=Rupert |url=http://news.bbc.co.uk/2/hi/asia-pacific/4782194.stm |title=China’s rural millions left behind |publisher=BBC News |date=7 March 2006 |accessdate=14 July 2009}}</ref> find themselves treated as [[second-class citizen]]s by China's obsolescent [[hukou system|household registration]] system that controls state benefits, called [[Hukou system|hukou]].<ref name=hukou>{{Cite news|last=Luard |first=Tim |url=http://news.bbc.co.uk/2/hi/asia-pacific/4424944.stm |title=China rethinks peasant apartheid |publisher=BBC News |date=10 November 2005 |accessdate=14 July 2009}}</ref> The system of [[property rights]] is weak, and [[eminent domain]] land seizures has abused peasants.<ref name=ruralmillions/> In 2003/2004, the average farmer had to pay three times more in taxes even though his income was only one sixth that of the average urban dweller.<ref name=hukou/> Since then, a number of rural taxes have been reduced or abolished, and additional social services provided to rural dwellers.<ref name="Ni2005">{{Cite news|url=http://articles.latimes.com/2005/dec/30/world/fg-agtax30 |title=LAtimes.com |publisher=Articles.latimes.com |date=30 December 2005 |accessdate=27 April 2010 | first=Ching-Ching | last=Ni}}</ref><ref name="Ref_ak">[http://hsph.harvard.edu/ihsp/publications/pdf/RuralPolicy06.pdf Harvard.eu]{{dead link|date=November 2010}}</ref><ref name="Ref_2006">{{Cite news|url=http://news.bbc.co.uk/1/hi/world/asia-pacific/6174847.stm |title= China ends school fees for 150m|publisher=BBC News |date=13 December 2006 |accessdate=27 April 2010}}</ref>
+
+[[Censorship in the People's Republic of China|Censorship]] of political speech and information, including on the Internet,<ref name="Ref_al">[http://hrichina.org/public/contents/article?revision%5fid=29582&item%5fid=29576 Media Control in China] published 2004 by Human Rights in China, New York. Revised edition 2006 published by Liming Cultural Enterprises of Taiwan</ref> is openly and routinely used to silence criticism of government and the ruling Chinese Communist Party.{{citation needed|date=October 2010}} In 2005, [[Reporters Without Borders]] ranked the PRC 159 (out of 167 states) in its Annual World Press Freedom Index.<ref name = "rsf.org-554">{{cite web|url=http://www.rsf.org/rubrique.php3?id_rubrique=554|archiveurl=http://web.archive.org/web/20080419011906/http://www.rsf.org/rubrique.php3?id_rubrique=554|archivedate=2008-04-19 |title=Reporters sans frontières – Annual Worldwide Press Freedom Index – 2005 |publisher=Rsf.org |date=30 April 2009 |accessdate=14 July 2009}}</ref> The government has put down demonstrations from organizations and beliefs that it considers a potential threat to "social stability" and control, as was the case with the [[Tiananmen Square protests of 1989]]. The Communist Party has had mixed success in controlling information: a very strong media control system faces very strong market forces, an increasingly educated citizenry, and cultural change that are making China more open, especially on environmental issues.<ref name="Ref_am">[http://www.usembassy-china.org.cn/sandt/chplca.htm 1998 US Embassy Beijing report "The Fading of Environmental Secrecy"].{{Dead link|date=March 2009}} Retrieved 4 February 2007.</ref><ref name="Ref_an">[http://www.usembassy-china.org.cn/sandt/ngo3.htm 1997 US Embassy Beijing report "Environmental NGOs in China: Green is Good, But Don't Openly Oppose the Party"].{{Dead link|date=March 2009}} Retrieved 4 February 2007.</ref> <!-- should be a comment here about the internet freedom issue and no more apologetics -->However, attempts are still made by the Chinese government to control the information available from the outside world from reaching their populace.<ref name ="aljazeera">[http://english.aljazeera.net/news/asia-pacific/2011/01/201112991712140318.html Egypt not trending in China]</ref>
+
+A number of foreign governments and NGOs routinely criticize the PRC, alleging widespread civil rights violations including systematic use of lengthy detention without trial, forced confessions, torture, mistreatment of prisoners, restrictions of freedom of speech, [[freedom of assembly|assembly]], [[freedom of association|association]], religion, the press, and [[labor rights]].{{citation needed|date=October 2010}} China [[Capital punishment in China|executes more people than any other country]], accounting for 72% of the world's total in 2009, though it is not the largest executioner [[per capita]].<ref name="Yixiang2009">{{Cite news|url=http://www.theepochtimes.com/n2/content/view/14602/|title=China Responsible for 72 Percent of Executions Worldwide|first=Lin|last=Yixiang|publisher=[[The Epoch Times]]|date=1 April 2009|accessdate=19 August 2010}}</ref>
+
+The PRC government has responded by arguing that the notion of human rights should take into account a country's present level of [[economic development]], and focus more on the people's rights to subsistence and development in poorer countries.<ref name = "yqlgro">[http://english.gov.cn/official/2005-07/28/content_18115.htm "China's Progress in Human Rights"] July 2005, Accessed: 18 April 2008.</ref> The rise in the [[standard of living]], [[literacy]], and [[life expectancy]] for the average Chinese in the last three decades is seen by the government as tangible progress made in human rights.<ref name="Ref_ao">[http://www.china-embassy.org/eng/zt/first%20beginning/t56058.htm "China's reform and opening-up promotes human rights, says premier"]. 11 December 2003. Embassy of the People's Republic of China in the United States. Retrieved 28 April 2006.</ref> Efforts in the past decade to combat deadly natural disasters, such as the perennial [[Yangtze River]] floods, and work-related accidents are also portrayed in China as progress in human rights for a still largely poor country.<ref name = "yqlgro"/>
+
+The PRC government remains divided over the issue of political reform. Some high ranking members have spoken out in favor reforms, while others remain more conservative. Premier [[Wen Jiabao]] states that the PRC needs "to gradually improve the democratic election system so that state power will truly belong to the people and state power will be used to serve the people." Despite his status, Wen's comments were later censored by the government.<ref>[http://www.washingtonpost.com/wp-dyn/content/article/2010/10/13/AR2010101306347.html Chinese Premier Wen Jiabao talks reform, but most countrymen never get to hear what he says]. ''[[Washington Post]]''</ref>
+
+As the social, cultural and political as well as economic consequences of market reform become increasingly manifest, tensions between the conservative and reformists in the party are sharpening. Some Chinese scholars such as Zhou Tianyong, the vice director of research of the [[Party School of the Central Committee of the Communist Party of China|Central Party School]], argue that gradual political reform as well as repression of those pushing for overly rapid change over the next thirty years will be essential if China is to avoid an overly turbulent transition to a middle class dominated polity.<ref>[http://chinadigitaltimes.net/2005/04/david_cowhig_in.php Part I of summary of Zhou Tianyong's 2004 book Reform of the Chinese Political System] Accessed February 7, 2007.</ref><ref>[http://chinadigitaltimes.net/2005/06/zhou_tianyong_r.php Part II of summary of Zhou Tianyong's 2004 book Reform of the Chinese Political System] Accessed February 7, 2007.</ref> Some Chinese look back to the Cultural Revolution and fear chaos if the Communist Party should lose control due to domestic upheavals and so a robust system of monitoring and control is in place to counter the growing pressure for political change.
+
+==Economy==
+{{Main|Economy of the People's Republic of China|Economy of Hong Kong|Economy of Macau}}
+{{See also|Economic history of China|Foreign exchange reserves of the People's Republic of China}}
+From its founding in 1949 to late 1978, the People's Republic of China was a [[Soviet Union|Soviet]]-style centrally [[planned economy]]. [[Private sector|Private businesses]] and capitalism did not exist. To propel the country towards a modern, industrialized communist society, [[Mao Zedong]] instituted the [[Great Leap Forward]]. Following Mao's death and the end of the [[Cultural Revolution]], [[Deng Xiaoping]] and the new Chinese leadership began to [[Economic reform in the People's Republic of China|reform the economy]] and move to a market-oriented [[mixed economy]] under one-party rule. In 1978, China and Japan had normalized diplomatic relations and China had decided to borrow money from Japan in soft loans. Since 1978, Japan has been the No.1 foreign donor for China. China's economy is mainly characterised as a market economy based on private property ownership.<ref name="Ref_ax">
+{{cite web
+  |url=http://elsa.berkeley.edu/~yqian/how%20far%20across%20the%20river.pdf
+  |title=Berkeley.edu
+  |format=PDF
+  |date=
+  |accessdate=2010-04-27
+}}</ref><ref name="Ref_ay">
+{{cite web
+  |url=http://english.eastday.com/e/ICS/u1a4035916.html
+  |title=China is already a market economy – Long Yongtu, Secretary General of Boao Forum for Asia
+  |publisher=English.eastday.com
+  |date=
+  |accessdate=2009-07-14
+}}</ref> [[Collective farming|Collectivization]] of the [[Agriculture in China|agriculture]] was dismantled and farmlands were privatized to increase productivity.
+
+A wide variety of small-scale enterprises were encouraged while the government relaxed price controls and promoted foreign investment. Foreign trade was focused upon as a major vehicle of growth, which led to the creation of [[Special Economic Zone]]s (SEZs) first in [[Shenzhen]] (near Hong Kong) and then in other Chinese cities. Inefficient [[Government-owned corporation|state-owned enterprises]] (SOEs) were restructured by introducing western-style management system and the unprofitable ones were closed, resulting in massive job losses.
+
+[[File:Shanghaistockexchange.jpg|thumb|[[Shanghai Stock Exchange]] building at Shanghai's [[Lujiazui]] financial district]]
+Since economic liberalization began in 1978, the PRC's investment- and export-led<ref name="Ref_az">{{Cite news|url=http://www.chinadaily.com.cn/bizchina/2008-11/21/content_7228346.htm|title=China must be cautious in raising consumption|work=China Daily |accessdate=8 February 2009}}</ref> economy has grown 90 times bigger<ref name=bloomgdp>16 August 2010, [http://www.bloomberg.com/news/2010-08-16/china-economy-passes-japan-s-in-second-quarter-capping-three-decade-rise.html China Overtakes Japan as World's Second-Biggest Economy], Bloomberg</ref> and is the fastest growing major economy in the world.<ref name="Ref_aba">{{cite web|url=http://www.chinability.com/GDP.htm|title=China's gross domestic product (GDP) growth|publisher=Chinability|accessdate=16 October 2008}}</ref> According to IMF that PRC's [[annual average GDP growth]] for the period of 2001-2010 was 10.5 percent and predicted to grow with 9.5 percent for the period of 2011-2015. It now has the world's second largest nominal [[Gross domestic product|GDP]] at 39.8&nbsp;trillion yuan (US$6.05&nbsp;trillion), although its [[per capita]] income of US$4,300 is still low and puts the PRC behind roughly a hundred countries<ref name="Ref_2010">{{Cite news|url=http://www.chinadaily.com.cn/china/2011-01/20/content_11886732.htm|work=China Daily |accessdate=20 January 2011 | date=19 January 2011}}</ref> The [[primary sector of economic activity|primary]], [[secondary sector of economic activity|secondary]], and [[tertiary sector of economic activity|tertiary]] industries contributed 10.6%, 46.8%, and 42.6% respectively to the total economy in 2009. If [[Purchasing power parity|PPP]] is taken into account, the PRC's economy is second only to the US at US$9.05&nbsp;trillion corresponding to US$6,800 per capita.<ref name="Ref_abb">[http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?sy=2009&ey=2009&scsm=1&ssd=1&sort=country&ds=.&br=1&c=924&s=PPPGDP%2CPPPPC&grp=0&a=&pr.x=41&pr.y=13 World Economic Outlook Database] International Monetary Fund (October 2010). Retrieved on 7 October 2010.</ref>
+
+The inaugural Global Wealth Report by Credit Suisse Research Institute collects data across more than 200 countries in mid-2010 stated China is expected to overtake Japan as the second wealthiest country in the world by 2015 ($35 trillion) on the back of rapid economic growth and strong domestic consumption. Ten years ago, China was the seventh largest country in global wealth and China currently holds $ 16.5trillion, 35 percent ahead of the wealthiest European country, [[France]].<ref name="Ref_abc">China to be second richest country by 2015 [http://www.dailytimes.com.pk/default.asp?page=2010%5C10%5C09%5Cstory_9-10-2010_pg5_32 Dailytimes.com]</ref>
+
+In November 2010 Japan's government said, output in China, the largest maker of mobile phones, computers and vehicles, surpassed Japan for the second straight quarter in the three months through September 2010. The Chinese economy overtook the UK as the fourth largest in 2005 and tipped Germany from third place in 2007.<ref>[http://www.businessweek.com/news/2010-11-14/china-to-exceed-u-s-by-2020-standard-chartered-says.html Businessweek.com]</ref>
+
+[[File:DengXiaoping.jpg|thumb|left|upright|In 1978, [[Deng Xiaoping]] initiated the PRC's market-oriented reforms.]]
+The PRC is the fourth most visited country in the world with 50.9&nbsp;million inbound international visitors in 2009.<ref name="Ref_abd">{{cite web|url=http://www.unwto.org/facts/eng/pdf/barometer/UNWTO_Barom10_update_april_en_excerpt.pdf |title=Microsoft Word - UNWTO Barom07 2 en.doc |format=PDF |date= |accessdate=14 May 2010}}</ref> It is a member of the [[World Trade Organization|WTO]] and is the world's second largest trading power behind the US with a total international trade of US$2.21&nbsp;trillion – US$1.20&nbsp;trillion in exports (#1) and US$1.01&nbsp;trillion in imports (#2). Its [[foreign exchange reserves]] have reached US$2.4&nbsp;trillion, making it by far the world's largest.<ref name="Ref_2009b">{{Cite news|url=http://www.bloomberg.com/apps/news?pid=20601087&sid=alZgI4B1lt3s|title=China’s Foreign-Exchange Reserves Surge, Exceeding $2&nbsp;Trillion|date=15 July 2009|work=[[Bloomberg L.P.]]|accessdate=19 July 2010}}</ref> The PRC owns an estimated $1.6&nbsp;trillion of US [[security (finance)|securities]].<ref name="Ref_2009c">{{Cite news|url=http://www.reuters.com/article/bondsNews/idUSPEK16627420090820|title=China must keep buying US Treasuries for now-paper|work=[[Reuters]]|accessdate=19 August 2009 | date=20 August 2009}}</ref> The PRC, holding US$801.5&nbsp;billion in [[Treasury bond]]s, is the largest foreign holder of [[US public debt]].<ref name="Ref_abe">[http://money.cnn.com/2009/07/29/news/economy/china_america_lender_respect.fortune/index.htm Washington learns to treat China with care]. CNNMoney.com. 29 July 2009.</ref><ref name="Hornby2009">{{Cite news|url=http://www.reuters.com/article/newsOne/idUSTRE58M25U20090923|title=Factbox: US-China Interdependence Outweighs Trade Spat|publisher=Reuters|date=23 September 2009|accessdate=25 September 2009 | first=Lucy | last=Hornby}}</ref> It is the world's third largest recipient of inward [[Foreign direct investment|FDI]] by attracting US$92.4&nbsp;billion in 2008 alone,<ref name="Ref_2009d">{{Cite news|url=http://www.chinadaily.com.cn/china/2009-01/15/content_7402154.htm|title=China's FDI up 23.6% in 2008|date=15 January 2009|work=China Daily |accessdate=19 July 2010}}</ref> while the country itself increasingly invests abroad with a total outward FDI of US$52.2&nbsp;billion in 2008 alone becoming the world's sixth largest outward investor.<ref name="Ref_2009e">{{Cite news|url=http://www.chinadaily.com.cn/bizchina/2009-08/03/content_8507784.htm|title=On China's rapid growth in outward FDI|date=3 August 2009|work=China Daily |accessdate=19 July 2010}}</ref> FDI inward in 2010 was $106 billion rose 16 percent from 2009.<ref>http://www.stockmarketdigital.com/sectors/shanghai-se-shenzhen-se-china/china-scores-number-one-fdi-penetration-16-rise-2010</ref>
+
+The PRC's success has been primarily due to manufacturing as a low-cost producer. This is attributed to a combination of cheap labor, good infrastructure, medium level of technology and skill, relatively high productivity, favorable government policy, and some say, an undervalued exchange rate. The latter has been sometimes blamed for the PRC's bulging trade surplus (US$262.7&nbsp;billion in 2007)<ref name="Ref_2008">{{Cite news|url=http://www.chinadaily.com.cn/china/2008-01/11/content_6387775.htm|title=2007 trade surplus hits new record - $262.2B|date=11 January 2008|work=China Daily |accessdate=19 July 2010}}</ref> and has become a major source of dispute between the PRC and its major trading partners&nbsp;– the US, EU, and Japan&nbsp;– despite the yuan having been de-pegged and risen in value by 20% against the US$ since 2005.<ref name="Ref_2005">{{Cite news|url=http://www.china-embassy.org/eng/gyzg/t213645.htm|title=China widens yuan, non-dollar trading range to 3%|date=23 September 2005|accessdate=19 July 2010}}</ref>
+
+[[Image:Country foreign exchange reserves minus external debt.png|thumb|left|Map of countries by foreign currency reserves and gold minus external debt based on 2009 data from CIA Factbook.]]
+The state still dominates in strategic "pillar" industries (such as [[energy]] and [[heavy industry|heavy industries]]), but private enterprise (30&nbsp;million private businesses)<ref name="Ref_abf">[http://web.archive.org/web/20080726102845/http://www.cis.org.au/issue_analysis/IA95/ia95.html Putting Democracy in China on Hold] John Lee, The Center for Independent Studies. Retrieved 26 July 2008.</ref> now accounts for anywhere between 33%<ref name="Englishpeopledailycomcn2005">{{cite web|author=english@peopledaily.com.cn |url=http://english.people.com.cn/200507/13/eng20050713_195876.html |title=People.com |publisher=People.com |date=13 July 2005 |accessdate=27 April 2010}}</ref> (''People's Daily'' 2005) to 70%<ref name="Ref_2005a">{{cite web|url=http://www.businessweek.com/magazine/content/05_34/b3948478.htm |title=Businessweek.com |work=BusinessWeek |date=22 August 2005 |accessdate=27 April 2010}}</ref> (BusinessWeek, 2005) of GDP in 2005, while the OECD estimate is over 50%<ref name="Ref_abg">{{cite web|url=http://www.oecd.org/dataoecd/16/3/36174313.pdf |title=Microsoft Word - China2bandes.doc |format=PDF |date= |accessdate=27 April 2010}}</ref> of China's national output, up from 1% in 1978.<ref name="Ref_2005b">{{cite web|url=http://www.businessweek.com/magazine/content/05_34/b3948478.htm |title=China Is a Private-Sector Economy |publisher=BussinessWeek |date=22 August 2005 |accessdate=27 March 2007}}</ref> Its stock market in [[Shanghai Stock Exchange|Shanghai]] (SSE) is raising record amounts of [[Initial public offering|IPOs]] and its benchmark [[SSE Composite|Shanghai Composite index]] has doubled since 2005. SSE's [[market capitalization]] reached US$3&nbsp;trillion in 2007 and is the [[List of stock exchanges|world's fifth largest exchange]].
+
+[[File:Shanghai - Nanjing Road.jpeg|thumb|[[Nanjing Road (Shanghai)|Nanjing Road]] in Shanghai is one of the world's busiest shopping streets.<ref name="asia">{{cite web|url=http://www.asiarooms.com/travel-guide/china/shanghai/things-to-do-in-shanghai/shopping-in-shanghai/nanjing-road-shopping-mall-shanghai.html|title=Nanjing Road Shopping Mall Shanghai|work=AsiaRooms - [[TUI Travel PLC]]}}</ref>]]
+China now ranks 29th in the [[Global Competitiveness Index]].<ref name="Ref_abh">[http://www.weforum.org/pdf/GCR09/GCR20092010fullreport.pdf The Global Competitiveness Report 2009-2010] World Economic Forum. Retrieved on 24&nbsp;September&nbsp;2009.</ref> 46 Chinese companies made the list in the 2010 [[Fortune Global 500]] (Beijing alone with 30).<ref name="Ref_abi">[http://money.cnn.com/magazines/fortune/global500/2010/countries/China.html Money.cnn.com]  Retrieved on 27&nbsp;July&nbsp;2010.</ref> Measured using [[market capitalization]], four of the world's top ten [[List of corporations by market capitalization|most valuable companies]] are Chinese. Some of these include first-ranked [[PetroChina]] (world's most valuable oil company), third-ranked [[Industrial and Commercial Bank of China]] (world's most valuable bank), fifth-ranked [[China Mobile]] (world's most valuable telecommunications company) and seventh-ranked [[China Construction Bank]].<ref name="Ref_abj">[http://media.ft.com/cms/27fa616e-6c76-11de-a6e6-00144feabdc0.pdf Global 500 2009], ''Financial Times'', Retrieved on 12 August 2009.</ref>
+
+Although a middle income country by the world's standard, the PRC's rapid growth managed to [[Poverty in China|pull hundreds of millions]] of its people out of poverty since 1978. Today, about 10% of the Chinese population (down from 64% in 1978) live below the [[poverty line]] of US$1 per day ([[Purchasing power parity|PPP]]) while [[life expectancy]] has dramatically increased to 73 years. More than 93% of the population is literate,<ref name="Ref_abk">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html |title=CIA – The World Fact Book |publisher=Cia.gov |date= |accessdate=14 May 2010}}</ref> compared to 20% in 1950.<ref name="Ref_abl">Plafker, Ted, [http://www.iht.com/articles/2001/02/12/rchina.t.php China's Long—but Uneven—March to Literacy]{{dead link|date=November 2010}} International Herald Tribune</ref> Urban [[unemployment]] declined to 4 percent in China by the end of 2007 (true overall unemployment might be higher at around 10%).<ref name="Ref_abm">[http://english.peopledaily.com.cn/90001/90776/90884/6342385.html Urban unemployment declines to 4% in China] People's Daily Online (22 January 2008). Retrieved on 27 July 2008.</ref>
+
+Its middle class population (defined as those with annual income of at least US$17,000) has now reached more than 100&nbsp;million,<ref name="Ref_abn">[http://www.abigmission.com/chinas-100-million-strong-middle-class-needs-to-be-reached-part-1.html Abigmission.com] China’s 100&nbsp;million strong middle-class need to be reached. Retrieved on 30 August 2009.</ref> while the number of super-rich individuals worth more than 10&nbsp;million yuan (US$1.5&nbsp;million) is estimated to be 825,000 according to Hurun Report.<ref name="Ref_abo">[http://www.hurun.net/listreleaseen344.aspx One Person in Every 1700 in China has at least 10&nbsp;Million Yuan] Hurun Report (14 April 2009). Retrieved on 4 March 2010.</ref> China's retail market is worth RMB 8.9 trillion (US$1.302 trillion) in 2007 and growing at 16.8% annually.<ref name="Ref_abp">[http://www.stats.gov.cn/english/statisticaldata/monthlydata/t20080313_402467812.htm Total Retail Sales of Consumer Goods (2007.12)] National Bureau of Statistics of China (13 March 2008). Retrieved on 21 November 2008.</ref> It is also now the world's second biggest consumer of luxury goods behind Japan with 27.5% of the global share.<ref name="Ref_abq">[http://www.chinadaily.com.cn/2010-03/03/content_9536600.htm Super Rich have Craze for luxury goods] China Daily (3 March 2010). Retrieved on 4 March 2010.</ref>
+
+The PRC's growth has been uneven when comparing different geographic regions and rural and urban areas. The [[List of countries by income equality|urban-rural income gap is getting wider]] in the PRC with a [[Gini coefficient]] of 46.9%. Development has also been mainly concentrated in the eastern coastal regions while the remainder of the country are left behind. To counter this, the government has promoted development in the [[China Western Development|western]], [[Revitalize Northeast China|northeastern]], and [[Rise of Central China Plan|central]] regions of China.
+
+The economy is also highly energy-intensive and inefficient&nbsp;– it uses 20%–100% more energy than [[OECD]] countries for many industrial processes.<ref name="China Quick Facts">{{cite web|url=http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/EASTASIAPACIFICEXT/CHINAEXTN/0,,contentMDK:20680895~pagePK:1497618~piPK:217854~theSitePK:318950,00.html|title=China Quick Facts|publisher=[[World Bank]]|accessdate=26 July 2008}}</ref> It has now become the world's largest energy consumer<ref name="Swartz2010">{{Cite news|url=http://online.wsj.com/article/SB10001424052748703720504575376712353150310.html?mod=djemalertNEWS|title=China Becomes World's Biggest Energy Consumer|date=19 July 2010|work=Wall Street Journal |accessdate=19 July 2010 | first1=Spencer | last1=Swartz | first2=Shai | last2=Oster}}</ref> but relies on coal to supply about 70% of its energy needs.<ref name="Feller">{{cite web|url=http://www.ecoworld.com/home/articles2.cfm?tid=450|title=China’s Coal|last=Feller|first=Gordon|publisher=ECOworld|accessdate=19 July 2010}}</ref> Coupled with a lax environmental regulation, this has led to a massive water and air pollution (China has 20 of the world's 30 most polluted cities).<ref name="China Quick Facts"/> Consequently, the government has promised to use more [[renewable energy]] with a target of 10% of total energy use by 2010 and 30% by 2050.<ref name="Ref_2008a">{{Cite news|url=http://www.reuters.com/article/pressRelease/idUS39879+12-Mar-2008+BW20080312|title=China have set a Renewable Energy Target of 10% of Electric Power Capacity by 2010|date=11 March 2008|work=[[Reuters]]|accessdate=19 July 2010}}</ref>
+
+===Science and technology===
+{{Main|Science and technology in the People's Republic of China|List of Chinese inventions}}
+[[Image:China Xichang Satellite Center - Tianlian I-01 Launch.jpg|thumb|upright|The launch of Tianlian, at [[Xichang Satellite Launch Center]].]]
+
+After the [[Sino-Soviet split]], China started to develop its own [[nuclear weapon]]s and delivery systems, successfully detonating its first surface [[nuclear testing|nuclear test]] in 1964 at [[Lop Lake|Lop Nur]]. A natural outgrowth of this was a satellite launching program, which culminated in 1970 with the launching of [[Dong Fang Hong I]], the first Chinese satellite. This made the PRC the fifth nation to independently launch a satellite.
+
+In 1992, the [[Shenzhou spacecraft|Shenzhou]] manned spaceflight program was authorized.<ref name="Ref_abr">[http://www.chinaculture.org/gb/en_aboutchina/2003-09/24/content_26079.htm China's First Man-made Satellite] (2003). Ministry of Culture. Retrieved 16 April 2006.</ref> After four unmanned tests, ''[[Shenzhou 5]]'' was launched on 15 October 2003, using a [[Long March 2F]] [[launch vehicle]] and carrying Chinese astronaut [[Yang Liwei]], making the PRC the third country to put a human being into space through its own endeavors.<ref name="Ref_abs">Wade, Mark. [http://www.astronautix.com/craft/shenzhou.htm Shenzhou] (6 January 2006). Retrieved 16 April 2006.</ref> China completed its second manned mission with a crew of two, ''[[Shenzhou 6]]'' in October 2005. In 2008, China successfully completed the ''[[Shenzhou 7]]'' mission, making it the third country to have the capability to conduct a [[Extra-vehicular activity|spacewalk]]. In 2007, the PRC successfully sent the [[Chang'e]] spacecraft, named after the ancient Chinese moon goddess, to orbit and explore the moon as part of their [[Chinese Lunar Exploration Program]]. China has plans to build a [[Project 921-2|space station]] in the near future and to achieve a lunar landing in the next decade. There are also plans for a manned mission to planet [[Mars]].<ref name="Ref_abt">Wade, Mark. (30 March 2005)[http://www.astronautix.com/craft/prot9212.htm Project 921-2]. Retrieved 16 April 2006.</ref>
+
+China has the world's second largest [[research and development]] budget, and is expected to invest over $136&nbsp;billion in 2006 after growing more than 20% in 2005.<ref name="Ref_abu">[http://www.ft.com/cms/s/da4ed9f2-82fa-11db-a38a-0000779e2340.html "China overtakes Japan on R&D"] ''Financial Times''. Retrieved 3 December 2006.</ref> The Chinese government continues to place heavy emphasis on research and development by creating greater public awareness of innovation, and reforming financial and tax systems to promote growth in cutting-edge industries.
+
+In 2006, President Hu Jintao called for China to make the transition from a manufacturing-based economy to an innovation-based one and the National People's Congress have approved large increases in research funding. [[Stem cell]] research and [[gene therapy]], which some in the [[Western world]] see as controversial, face minimal regulation in China. China has an estimated 926,000&nbsp;researchers, second only to the 1.3&nbsp;million in the United States.<ref name="Ref_abv">[http://www.businessweek.com/ap/financialnews/D8LQ0OI00.htm OECD: China to spend $136&nbsp;billion on R&D]{{Dead link|date=March 2009}} ''BusinessWeek''. Retrieved 3 December 2006.</ref>
+
+China is also actively developing its software, [[semiconductor]] and [[energy industry|energy]] industries, including [[renewable energy|renewable energies]] such as hydro, wind and solar power.<ref name="Ref_abw">[http://www.businessweek.com/globalbiz/content/mar2006/gb20060331_921612.htm "Blinding Science: China's Race to Innovate"] Bruce Einhorn, ''Business Week'', 31 March 2006, accessed: 16 April 2006.</ref> In an effort to reduce pollution from coal-burning power plants, China has been pioneering the deployment of [[pebble bed reactor|pebble bed nuclear reactors]], which run cooler and safer, and have potential applications for the [[hydrogen economy]].<ref name="Ref_abx">[http://daga.dhs.org/daga/readingroom/newsclips/2004/wto/41005scmp03.htm "China leading world in next generation of nuclear plants"] Robert J. Saiget. ''DAGA''. 5 October 2004. Retrieved 16 April 2006.</ref>
+
+In 2010, China developed [[Tianhe-I]]A, the world's fastest [[supercomputer]], currently stored in the [[National Supercomputing Center of Tianjin]]. The system is expected to process seismic data for [[Hydrocarbon exploration|oil exploration]], conduct bio-medical computing and help design [[aerospace]] vehicles.<ref name="Ref_2010a">{{Cite news|url=http://www.ibtimes.com/articles/76731/20101028/tianhe-1a-tianhe-supercomputer-fastest-supercomputer-china-us-nvidia-amd-gpum-cpu-chip-semiconductor.htm |title=China Makes World's Fastest Supercomputer |publisher=International Business Times |date= 28 October 2010}}</ref> Besides China's National SuperComputer Center's Tianhe-1A above, China also has Nebulae. It is two publicly (for military or something secret usually is not announced) available supercomputers among world's top 10.<ref name="Ref_aby">[http://www.worldtech24.com/business/two-china-supercomputers-among-worlds-top-10 Worldtech24.com]</ref>
+
+===Communications===
+China currently has the [[List of countries by number of mobile phones in use|most cell phone users]] in the world with over 800&nbsp;million users in July 2010.<ref name="Ref_abz">{{cite web|url=http://www.digitimes.com/news/a20100928VL201.html |title=China August mobile phone users top 823&nbsp;million |work=People's Daily |date= |accessdate=28 September 2010}}</ref> It also has the largest number of [[List of countries by number of Internet users|internet]] and [[List of countries by number of broadband Internet users|broadband users]] in the world.<ref name="Barboza2008">{{Cite news|url=http://www.nytimes.com/2008/07/26/business/worldbusiness/26internet.html |title=China Surpasses US in Number of Internet Users |publisher=NY times |date= 26 July 2008|accessdate=26 July 2008 | first=David | last=Barboza}}</ref> At the end of November 2010, internet users touch 450 million and at the end of the year became 457 million or grew by 19 percent over the previous year, although there are government censors for pornographic and political issues.<ref>[http://www.theglobeandmail.com/news/technology/chinas-online-population-hits-450-million/article1852784/?cmpid=rss1 Theglobeandmail.com]</ref><ref>China's Internet population rises to 457 million http://news.yahoo.com/s/ap/20110119/ap_on_hi_te/as_china_internet_population</ref>
+
+China Telecom and China Unicom are two mammoth broadband service providers, accounted for 20% of global broadband subscribers, whereas the ten largest broadband service providers are 39% of the world's broadband customers. China Telecom with more than 55 million broadband subscribers and China Unicom with more than 40 million whereas the third rank is NTT with only less than 18 million. The gaps between the top two operator and the world's remaining broadband service providers will continue to grow rapidly, whereas the other top ten broadband ISPs operate in mature markets, with high levels of broadband penetration and rapidly slowing subscriber growth.<ref name="Ref_abca">[http://www.telegeography.com/cu/article.php?article_id=33858 Broadband provider rankings: The Rise and Rise of China: CommsUpdate : TeleGeography Research<!-- Bot generated title -->]</ref>
+
+===Transport===
+{{Main|Transport in the People's Republic of China|Transportation in Hong Kong|Transportation in Macau}}
+{{See also|Rail transport in the People's Republic of China}}
+
+[[Image:Central Jingshi Expressway9.jpg|thumb|left|[[Jingshi_Expressway|G5 Expressway]] near exit 10, outside Beijing. There are 74,000&nbsp;km (45,980 mi) of divided expressways in China, just 1000 miles short of the US interstate system.]]
+[[image:CRH380A test, 28 Sep 2010.JPG|thumb|right|A high-speed rail train ([[China Railway High-speed|CRH]]) leaving a station in Shanghai. China has the longest high-speed rail system in the world, with over 6,500&nbsp;km (4,000 miles) of routes in service.]]
+
+Transportation in the mainland of the People's Republic of China has improved significantly since the late 1990s as part of a government effort to link the entire nation through a series of [[Expressways of China|expressways]] known as the National Trunk Highway System (NTHS). The total length of expressway is {{convert|74000|km|mi|abbr=on}} at the end of 2010, second only to the United States.<ref name="Ref_2010b">{{cite web|url=http://chinaautoweb.com/2010/12/chinas-highway-network-expands-74000-kilometers// |title=China's total mileage of expressways open to traffic reached 65,000 kilometers |publisher=English.peopledaily.com.cn |date=15 Jan 2010 |accessdate=14 July 2010}}</ref> China has also the world’s [[High-speed rail by country#High Speed Rail by Country|longest]] [[High-speed rail in China|high-speed rail network]] with over {{convert|7050|km|mi|abbr=on}} of service routes.
+
+Private car ownership is increasing at an annual rate more than 15%. The sale of automobiles had been increasing rapidly after the financial crisis in 2009, and China surpassed the United States became the largest automobile market in the world with total sales of more than 13.6&nbsp;million.<ref name="Ref_2010c">{{cite web|url=http://www.egmcartech.com/2010/01/08/china-auto-sales-officially-surpass-u-s-in-2009-13-6-million-vehicles-sold/ |title=China auto sales officially surpass US in 2009, 13.6&nbsp;million vehicles sold |publisher=Industry News |date=8 January 2010 |accessdate=14 May 2010}}</ref>
+
+Domestic air travel has increased significantly, but remains too expensive for most. Long distance transportation is dominated by railways and charter bus systems. Railways are the vital carrier in China; they are monopolized by the state, divided into various railway bureaus in different regions. At the rates of demand it experiences, the system has historically been subject to overcrowding during travel seasons such as ''[[Chunyun]]'' during the [[Chinese New Year]].
+
+The major cities have rapidly expanding networks of [[Rapid transit|underground]] or [[light rail]] systems. Numerous cities are also constructing subways. [[Transport in Hong Kong|Hong Kong]] has one of the most developed transport systems in the world. Shanghai has a [[Shanghai Maglev Train|Maglev]] rail line connecting its urban area to its main international airport, [[Shanghai Pudong International Airport|Pudong International Airport]].
+
+==Demographics==
+{{Main|Demographics of the People's Republic of China|Demographics of Hong Kong|Demographics of Macau|List of ethnic groups in China|One-child policy}}
+{{See also|International rankings of the People's Republic of China}}
+[[File:PRC Population Density.svg|thumb|A population density map of the People's Republic of China. The eastern, coastal provinces are much more densely populated than the western interior.]]
+As of July 2010, there are 1,338,612,968 people in the PRC. About 21% (male 145,461,833; female 128,445,739) are 14 years old or younger, 71% (male 482,439,115; female 455,960,489) are between 15 and 64 years old, and 8% (male 48,562,635; female 53,103,902) are over 65 years old. The population growth rate for 2006 was 0.6%.<ref name = pop/>
+
+With a population of over 1.3&nbsp;billion, the PRC is very concerned about its [[population growth]] and has attempted, with mixed results,<ref name="Ref_abcf">{{cite web|url=http://content.nejm.org/cgi/content/full/353/11/1171 |title=The New England Journal of Medicine, September&nbsp;2005 |doi=10.1056/NEJMhpr051833 |publisher=Content.nejm.org |date= |accessdate=14 July 2009}}</ref> to implement a strict family planning policy. The government's goal is [[one-child policy|one child per family]], with exceptions for ethnic minorities and flexibility in rural areas. The government's goal is to stabilize population growth early in the 21st century, though some projections estimate a population of anywhere ranging from 1.4&nbsp;billion to 1.6&nbsp;billion by 2025. Hence, the country's family planning minister has indicated that China will maintain its one-child policy until at least the year 2020.<ref name="Ref_2008b">{{Cite news|url=http://edition.cnn.com/2008/WORLD/asiapcf/03/10/china.onechild/index.html |title=China to keep one-child policy |publisher=CNN |date=10 March 2008 |accessdate=14 July 2009}}</ref>
+
+[[File:Population and Natural Increase Rate of PRC.jpg|thumb|230px|left|Population of China from 1949 to 2008]]
+
+The policy is resisted, particularly in rural areas, because of the need for agricultural labour and a traditional preference for boys (who can later serve as male heirs). Families who breach the policy often lie during the census.<ref name="censuslie">[http://www.usembassy-china.org.cn/sandt/fertl2b.htm USembassy-china.org.cn]{{Dead link|date=March 2009}}</ref> Official government policy opposes forced sterilization or abortion, but allegations of coercion continue as local officials, who are faced with penalties for failing to curb population growth, may resort to forced abortion or sterilization, or manipulation of census figures.
+
+The decreasing reliability of PRC population statistics since family planning began in the late 1970s has made evaluating the effectiveness of the policy difficult.<ref name="censuslie"/> Estimates by Chinese demographers of the [[Total fertility rate|average number of children for a Chinese woman]] vary from 1.5 to 2.0. The government is particularly concerned with the large imbalance in the [[human sex ratio|sex ratio]] at birth, apparently the result of a combination of traditional preference for boys and family planning pressure, which led to the ban of using ultrasound devices for the purpose of preventing [[sex-selective abortion and infanticide|sex-selective abortion]].
+
+Another factor is the under-reporting of female children to circumvent the law.{{Citation needed|date=May 2010}} On the basis of a 2005 report by China's [[National Population and Family Planning Commission]], there were 118.6 boys born for every 100 girls, and in some rural areas the boy/girl ratio could be as high as 130/100.{{Citation needed|date=March 2009}} As this trend of gender imbalance is on the increase, experts warn of increased social instability should this trend continue.<ref name="Loyd2007">{{Cite news|url=http://abcnews.go.com/International/story?id=2790469|title=China Fears Lopsided Sex Ratio Could Spark Crisis By 2020, There Will Be 30&nbsp;Million More Men than Women – Making it Hard for a Guy to Find a Bride|last=Loyd|first=Beth|date=12 January 2007|publisher=ABC News|accessdate=27 March 2009}}</ref><ref name="Ref_2007">{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/6962650.stm|title=China warned on gender imbalance|date=24 August 2007|publisher=BBC News|accessdate=23 March 2009}}</ref><ref name="Ref_2007a">{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/6254763.stm|title=Chinese facing shortage of wives|date=12 January 2007|publisher=BBC News|accessdate=23 March 2009}}</ref> Recent studies suggest that over 40 million girls and women are [[Missing women of Asia|'missing' in China]] (Klasen and Wink 2003).<ref>[http://iussp2005.princeton.edu/download.aspx?submissionId=51345 Estimation of the Number of Missing Females in China: 1900-2000]</ref> The government, which imposes tight controls on [[immigration]], no longer encourages [[Overseas Chinese|ethnic Chinese]] to "return" to China.<ref>Aris Ananta, Evi Nurvidya Arifin (2004). "''[http://books.google.com/books?id=a5NWByz6St4C&pg=PA85&dq&hl=en#v=onepage&q=&f=false International migration in Southeast Asia]''". Institute of Southeast Asian Studies. p.85. ISBN 9812302794 </ref>
+
+===Ethnic groups===
+The PRC officially recognizes 56 distinct ethnic groups, the largest of which are the [[Han Chinese]], who constitute about 91.9% of the total population.<ref name="Ref_abcb">[https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html CIA factbook] (29 March 2006). Retrieved 16 April 2006.</ref> Large ethnic minorities include the [[Zhuang people|Zhuang]] (16&nbsp;million), [[Manchu]] (10&nbsp;million), [[Hui people|Hui]] (9&nbsp;million), [[Miao people|Miao]] (8&nbsp;million), [[Uyghur people|Uyghur]] (7&nbsp;million), [[Yi people|Yi]] (7&nbsp;million), [[Tujia people|Tujia]] (5.75&nbsp;million), [[Ethnic Mongols in China|Mongols]] (5&nbsp;million), [[Tibetan people|Tibetans]] (5&nbsp;million), [[Buyei]] (3&nbsp;million), and [[Koreans in China|Koreans]] (2&nbsp;million).<ref name="Ref_abcc">Stein, Justin J (Spring 2003). [http://web.archive.org/web/20060911074341/http://www.princeton.edu/~jpia/pdf2003/Ch+8+Xinjiang-Stein-JPIA+2003.pdf Taking the Deliberative in China]. Retrieved 16 April 2006.</ref>
+
+===Urbanization===
+{{See also|List of cities in the People's Republic of China|List of cities in the People's Republic of China by population|Metropolitan regions of China}}
+In the past decade, China's cities expanded at an average rate of 10% annually. The country's urbanization rate increased from 17.4% to 46.8% between 1978 and 2009, a scale unprecedented in human history.<ref name="Ref_abcd">Zhou Qun, Lin Yanhua. [http://www.chinanews.cn/news/2005/18 Nov. 2005/14441.html China's urbanization encounters "urban disease"]{{dead link|date=November 2010}}, Chinanews.cn (中国新闻网), 11 November 2005. Retrieved 21 April 2005.</ref> Between 150 and 200&nbsp;million [[migrant worker]]s work part-time in the major cities and return home to the countryside periodically with their earnings.<ref name="Harney2008">{{Cite news|url=http://www.cnn.com/2008/WORLD/asiapcf/02/01/china.migrants/index.html|title=Migrants are China's 'factories without smoke'|publisher=CNN |first=Alexandra|last=Harney|date=3 February 2008|accessdate=27 March 2009}}</ref><ref name="Tschang2009">{{cite web|url=http://www.businessweek.com/globalbiz/content/feb2009/gb2009024_357998.htm|title=A Tough New Year for China's Migrant Workers|work=Business Week |first=Chi-Chu|last=Tschang|date=4 February 2009|accessdate=27 March 2009}}</ref>
+
+Today, the People's Republic of China has dozens of major cities with one million or more long-term residents, including the three [[global city|global cities]] of Beijing, Hong Kong, and Shanghai.
+
+The figures below are from the 2008 census, and are only estimates of the population within administrative city limits; a different ranking exists when considering the total municipal populations (which includes suburban and rural populations). The large floating populations of migrant workers make conducting censuses in urban areas difficult;<ref name="Ref_abce">Francesco Sisci, "China's floating population a headache for census", ''The Straits Times'', 22 September 2000.</ref> the figures below do not include the floating population, only long-term residents.
+
+{{Largest cities of the People's Republic of China}}
+
+===Education===
+[[File:Tsinghua Observatory.jpg|thumb|[[Tsinghua University]] in Beijing is a well regarded university in [[mainland China]].]]
+{{Main|Education in the People's Republic of China|Education in Hong Kong|Education in Macau}}
+In 1986, China set the long-term goal of providing compulsory nine-year basic education to every child. As of 2007, there were 396,567 primary schools, 94,116 secondary schools, and 2,236 higher education institutions in the PRC.<ref name="Ref_abcg">[http://caedu.yzu.edu.cn/en/Article_show.asp?ID=55 Factbox: Education in China] (2008). China-Arab Education Information Network</ref> In February 2006, the government advanced its basic education goal by pledging to provide completely free nine-year education, including textbooks and fees.<ref name="Ref_abch">[http://en.ce.cn/National/Rural/200602/21/t20060221_6154334.shtml China pledges free 9-year education in rural west] (21 February 2006). China Economic Net.</ref> Free compulsory education in China consists of elementary school and middle school, which lasts for 9 years (age 6-15); almost all children in urban areas continue with 3 years of high school.
+
+{{As of|2007}}, 93.3% of the population over age 15 are literate.<ref name=pop>[http://hdrstats.undp.org/en/indicators/89.html HDRstats.undp.org] (2009). UNHD.</ref> China's youth (age 15 to 24) literacy rate was 98.9% (99.2% for males and 98.5% for females) in 2000.<ref name="Ref_abci">{{cite web|url=http://portal.unesco.org/education/en/file_download.php/b44872c5f2dfd9c825236194562a2b7fRoss_China.doc|title=Where And Who Are The World’s Illiterates: China|accessdate=14 July 2009|publisher=UNESCO}}</ref> In March 2007, China announced the decision of making education a national "strategic priority", the central budget of the national scholarships will be tripled in two years and 223.5&nbsp;billion Yuan (28.65&nbsp;billion US dollars) of extra funding will be allocated from the central government in the next 5 years to improve the compulsory education in rural areas.<ref name="Ref_abcj">[http://news.xinhuanet.com/english/2007-03/05/content_5800996.htm Premier Wen announces hefty educational investment] (2007). Retrieved 6 March 2007.</ref>
+
+In 2009, Chinese students from Shanghai achieved the best results in mathematics, science and reading in the test of the [[Programme for International Student Assessment]] (PISA), a worldwide evaluation of 15-year-old school pupils' scholastic performance.<ref>[http://www.time.com/time/world/article/0,8599,2035586,00.html#ixzz17XACd2S2 "China Beats Out Finland for Top Marks in Education"]. ''[[Time magazine|TIME]]''.</ref>
+
+The quality of [[List of universities in the People's Republic of China|Chinese colleges and universities]] varies considerably across the country. The consistently top-ranked universities in mainland China are:<ref name="Ref_abco">[http://www.chinadaily.com.cn/english/doc/2005-02/21/content_418027.htm 2005 Chinese University Ranking unveiled] (21 February 2005). China Daily. Retrieved 16 April 2006.</ref><ref name="Ref_abcp">[http://rank2003.netbig.com/en/rnk_1_0_0.htm All-around Ranking] (2003). Retrieved 17 April 2006.</ref>
+
+* Beijing: [[Peking University]], [[Tsinghua University]], [[Renmin University of China]], [[Beijing Normal University]]
+* Shanghai: [[Fudan University]], [[Shanghai Jiao Tong University]], [[Tongji University]], [[East China Normal University]]
+* [[Harbin]]: [[Harbin Institute of Technology]]
+* Tianjin: [[Nankai University]], [[Tianjin University]]
+* [[Xi'an Jiaotong University]] ([[Xi'an]])
+* [[Nanjing University]] ([[Nanjing]])
+* [[University of Science and Technology of China]] ([[Hefei]])
+* [[Zhejiang University]] ([[Hangzhou]])
+* [[Wuhan University]] ([[Wuhan]])
+* [[Guangzhou]]: [[Sun Yat-sen University]] (aka [[Zhongshan University]])
+
+Many parents are highly committed to their children's education, often investing large portions of the family's income on education. Private lessons and recreational activities, such as in foreign languages or music, are popular among the middle-class families who can afford them.<ref name="Ref_abcq">[http://news.bbc.co.uk/2/hi/asia-pacific/3693714.stm "China's graft: Tough talk, old message" by Mary Hennock]. 27 September 2004. BBC News. ''Accessed 2 May 2006''.</ref>
+
+===Health ===
+{{Main|Public health in the People's Republic of China}}
+
+The [[Ministry of Health of the People's Republic of China|Ministry of Health]], together with its counterparts in the provincial health bureaux, oversees the health needs of the Chinese population.<ref name="Ref_abcr">[http://www.casy.org/Chindoc/mohprofile.htm China AIDS Survey at Yahoo]. Retrieved 18 April 2006.</ref> An emphasis on public health and preventive medicine characterized health policy since the early 1950s. At that time, the Communist Party started the [[Patriotic Health Campaign]], which was aimed at improving sanitation and hygiene, as well as attacking several diseases. This has shown major results as diseases like cholera, typhoid, and scarlet fever were nearly eradicated.
+
+With economic reform after 1978, the health of the Chinese public improved rapidly because of better nutrition despite the disappearance, along with the People's Communes, of much of the free public health services provided in the countryside. Health care in China became largely private fee-for-service.
+The country's life expectancy at birth jumped from about 35 years in 1949 to 73.18 years in 2008,<ref name="Ref_abcs">[http://www.globalgeografia.it/temi/Population%20Growth%20in%20China.pdf "Population Growth in China : The Basic Characteristics of China’s Demographic Transition" by Maristella Bergaglio].</ref><ref name="Ref_abct">[https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html "China"]. CIA World Factbook, 16 May 2008</ref> and infant mortality went down from 300 per thousand in the 1950s to about 23 per thousand in 2006.<ref name=autogenerated2>[https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html CIA World Factbook]. 20 April 2006. ''URL accessed 3 May 2006.''</ref><ref name="Ref_abcu">[http://www.china.org.cn/english/19012.htm China’s Infant Mortality Rate Down]. 11 September 2001. CHINA.ORG.CN. ''URL accessed 3 May 2006.''</ref> Malnutrition {{As of|2002|lc=yes}} stood at 12% of the population according to United Nations [[Food and Agriculture Organization|FAO]] sources.<ref name="Ref_abcv">{{cite web|url= http://www.fao.org/ag/agn/nutrition/cpr-e.stm|title= Nutrition country profiles: China summary|accessdate=22 July 2007 |archiveurl = http://web.archive.org/web/20070915190801/http://www.fao.org/ag/agn/nutrition/cpr-e.stm <!-- Bot retrieved archive --> |archivedate = 15 September 2007}}</ref>
+<!--Recent health insurance initiatives like the Ningxia Cooperative Plan should be mentioned here-->
+
+Despite significant improvements in health and the introduction of western style medical facilities, China has several emerging [[public health]] problems, which include respiratory problems as a result of [[Environment of China|widespread air pollution]]<ref name = "FT-china-pollution">{{cite web|url= http://www.ft.com/cms/s/8f40e248-28c7-11dc-af78-000b5df10621.html|title= 750,000 a year killed by Chinese pollution|accessdate=22 July 2007 |work=Financial Times |date= 2 July 2007|author=McGregor, Richard}}</ref> and hundreds of millions of [[tobacco smoking|cigarette smokers]],<ref name="Ref_abcw">[http://www.hcc.hawaii.edu/~pine/Phil110/chinasmoking.html "Smoking 'will kill one third of young Chinese men'"]. 16 August 2001. Honolulu Community College. Retrieved 17 April 2006.</ref><ref name="Ref_abcx">[http://www.nytimes.com/2010/06/11/world/asia/11iht-letter.html "China's Tobacco Industry Wields Huge Power"] article by Didi Kirsten Tatlow in ''[[The New York Times]]'' 10 June 2010</ref> a possible future [[HIV/AIDS in the People's Republic of China|HIV/AIDS epidemic]], and an increase in obesity among urban youths.<ref name="Ref_abcy">[http://www.cnn.com/SPECIALS/1999/china.50/dispatches/09.23.health/ "Serving the people?"]. 1999. Bruce Kennedy. CNN. Retrieved 17 April 2006.</ref><ref name="Ref_abcz">[http://english.people.com.cn/english/200008/04/eng20000804_47271.html "Obesity Sickening China's Young Hearts"] 4 August 2000. ''People's Daily''. Retrieved 17 April 2006.</ref> China's large population and close living quarters has led to some serious disease outbreaks in recent years, such as the 2003 outbreak of [[Severe acute respiratory syndrome|SARS]] (a pneumonia-like disease) which has since been largely contained.<ref name="Ref_abcda">[http://www.who.int/csr/don/2004_05_18a/en/index.html "China’s latest SARS outbreak has been contained, but biosafety concerns remain"]. 18 May 2004. [[World Health Organization]]. Retrieved 17 April 2006.</ref>
+
+Estimates of excess deaths in China from environmental pollution (apart from smoking) are placed at 760,000 people per annum from air and water pollution (including [[indoor air quality|indoor air pollution]]).<ref name="Ref_abcdb">"[http://news.bbc.co.uk/2/hi/asia-pacific/6265098.stm China 'buried smog death finding']". BBC News. 3 July 2007.</ref> In 2007, China has overtaken the United States as the world's biggest producer of [[carbon dioxide]].<ref name="Ref_abcdc">"[http://www.guardian.co.uk/environment/2007/jun/19/china.usnews China overtakes US as world's biggest CO2 emitter]". Guardian.co.uk. 19 June 2007.</ref> Some 90% of China's cities suffer from some degree of [[water pollution]],<ref name="Ref_abcdd">"[http://www.chinadaily.com.cn/english/doc/2005-06/07/content_449451.htm China says water pollution so severe that cities could lack safe supplies]". ''China Daily'' 7 June 2005.</ref> and nearly 500&nbsp;million people lack access to safe drinking water.<ref name="Ref_abcde">"[http://www.nytimes.com/2007/08/26/world/asia/26china.html As China Roars, Pollution Reaches Deadly Extremes]". ''The New York Times''. 26 August 2007.</ref> Reports by the World Bank and the New York Times have claimed industrial pollution, particularly of the air,<ref name="Ref_1900">{{cite web| title=Air Pollution in Yixian | url=http://7ride.com/rides/cycling-china-2009/day-6-fangshan-to-yixian.aspx | work=Air Polution in Yixian | date=1900-1-0 | accessdate=25 May 2010}}</ref> to be significant health hazards in China.
+
+===Religion===
+{{Main|Religion in China|Religion in Hong Kong|Religion in Macau}}
+{{See also|Feng shui}}
+[[File:Huxisanxiaotu.jpg|thumb|left|"[[Three laughs at Tiger Brook]]", ''[[Confucianism]], [[Taoism]], and [[Buddhism]] are one'', a ''litang'' style painting portraying three men laughing by a river stream, 12th century, [[Song Dynasty]].]]
+[[Image:CircularMound.jpg|thumb|The Round Mound Altar, the altar proper at the [[Temple of Heaven]] in Beijing, where the Emperor communed with Heaven.]]
+[[File:Jimingsi snow scene.jpg|thumb|[[Jiming Temple]], a renowned Buddhist (Mahayana) temple in Nanjing, first built in 557 AD.]]
+In mainland China, the government allows a limited degree of religious freedom, however official tolerance is only extended to members of state-approved religious organizations and not to those who worship underground, such as [[house church]]es. An accurate number of religious adherents is hard to obtain because of a lack of official data, but there is general consensus that religion has been enjoying a resurgence over the past 20&nbsp;years.<ref name="news.bbc.co.uk">{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/6337627.stm |title=Asia-Pacific &#124; Survey finds {{convert|300|m|ft|abbr=on}} China believers |publisher=BBC News |date=7 February 2007 |accessdate=15 June 2009}}</ref> A survey by Phil Zuckerman on [[Adherents.com]] found that in 1998, 59% (over 700&nbsp;million)<ref name="Ref_abcdg">{{cite web|url=http://www.adherents.com/Na/Na_473.html |title= Nonreligious, continued...|publisher=Adherents.com<! |date= |accessdate=15 June 2009}}</ref> of the population was [[irreligious]]. Meanwhile, another survey in 2007 found that there are 300&nbsp;million (23% of the population) believers as distinct from an official figure of 100&nbsp;million.<ref name="news.bbc.co.uk"/>
+
+Despite the surveys' varying results, most agree that the traditional religions&nbsp;– [[Buddhism]], [[Taoism]], and [[Chinese folk religion]]s&nbsp;– are the dominant faiths. According to a number of sources, [[Buddhism in China]] accounts for between 660&nbsp;million (~50%) and over 1&nbsp;billion (~80%)<ref name="Ref_abcdh">{{cite web|url=http://www.vipassanafoundation.com/Buddhists.html |title=Buddhists in the world |publisher=Vipassanafoundation.com |date= |accessdate=15 June 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> while Taoists number 400&nbsp;million (~30%).<ref name="Ref_2007b">{{cite web|url=http://asiasentinel.com/index.php?option=com_content&task=view&id=468&Itemid=34 |title=How Now Tao? |publisher=Asia Sentinel |date=27 April 2007 |accessdate=15 June 2009}}</ref><ref name="Ref_abcdi">{{cite web|url=http://www.arcworld.org/downloads/SCMP%20Daoism%2030%20April%202007.pdf |title=Alliance of Religions and Conservation (ARC) |format=PDF |date= |accessdate=14 July 2009}}</ref> However, because of the fact that one person may subscribe to two or more of these traditional beliefs simultaneously and the difficulty in clearly differentiating Buddhism, Taoism, and Chinese folk religions, the number of adherents to these religions can be overlaid. In addition, subscribing to Buddhism and Taoism is not necessarily considered religious by those who follow the philosophies in principle but stop short of subscribing to any kind of divinity.<ref name="Ref_abcdj">{{cite web|url=http://www.travelchinaguide.com/intro/religion/ |title=Religions and Beliefs in China |publisher=Travelchinaguide.com |date= |accessdate=14 July 2009}}</ref><ref name="Ref_abcdk">{{cite web|url=http://www.sacu.org/religion.html |title=Society for Anglo Chinese Understanding |publisher=SACU |date= |accessdate=14 July 2009}}</ref><ref name="Ref_abcdl">{{cite web|url=http://www.index-china.com/index-english/people-religions-s.html |title=Index-China Chinese Philosophies and religions |publisher=Index-china.com |date= |accessdate=14 July 2009}}</ref>
+[[File:The Impressive St. Sophia.jpg|thumb|[[Saint Sophia Cathedral in Harbin|Saint Sophia Cathedral]] in [[Harbin]], northeast China.]]
+
+Most Chinese Buddhists are nominal adherents because only a small proportion of the population (over 8% or over 100&nbsp;million)<ref name="Ref_abcdn">{{cite web|url=http://adherents.com/largecom/com_buddhist.html |title=Buddhism |publisher=Adherents.com |date= |accessdate=15 June 2009}}</ref><ref name="Ref_abcdo">{{cite web|url=http://www.state.gov/g/drl/rls/irf/2007/90133.htm |title=International Religious Freedom Report 2007 – China (includes Tibet, Hong Kong, and Macau) |publisher=State.gov |date= |accessdate=14 July 2009}}</ref> may have taken the formal step of [[Refuge (Buddhism)|going for refuge]].<ref name="Ref_abcdp">{{cite web|url=http://www.askasia.org/teachers/essays/essay.php?no=16 |title=Buddhism in China |publisher=AskAsia |date= |accessdate=14 July 2009}}</ref><ref name="Ref_abcdq">{{cite web|url=http://www.globaled.org/curriculum/china/bessay1.htm |title=TheAmericanForum For Global Education |publisher=Globaled.org |date= |accessdate=14 July 2009}}</ref> Even then, it is still difficult to estimate accurately the number of Buddhists because they do not have congregational memberships and often do not participate in public ceremonies.<ref name=autogenerated3>{{cite web|url=http://www.state.gov/g/drl/rls/irf/2006/71338.htm |title=US Department of States – International Religious Freedom Report 2006: China (includes Tibet, Hong Kong, and Macau) |publisher=State.gov |date= |accessdate=14 July 2009}}</ref> [[Mahayana]] (大乘, ''Dacheng'') and its subsets [[Pure Land Buddhism|Pure Land]] (Amidism), [[Tiantai]] and [[Zen|Chán]] (better known in the west by its Japanese pronunciation [[Zen]]) are the most widely practiced denominations of Buddhism. Other forms, such as [[Theravada]] and [[Tibetan Buddhism|Tibetan]], are practiced largely by ethnic minorities along the geographic fringes of the Chinese mainland.<ref name="Ref_abcdr">Macintosh, R. Scott. [http://www.csmonitor.com/2006/0309/p01s04-woap.html China's prosperity inspires rising spirituality] (9 March 2006). Retrieved 15 April 2006.</ref>
+[[Christianity in China]] was first introduced during the Tang Dynasty in the 7th century with the arrival of [[Nestorian Christianity]] in 635 CE. This was followed by [[Franciscan]] missionaries in the 13th century, [[Jesuits]] in the 16th century, and finally [[Protestantism|Protestants]] in the 19th century, during which time Christianity began to make significant foothold in China.{{Citation needed|date=May 2008}} Of the minority religions, Christianity has been particularly noted as one of the fastest growing (especially since the last 200 years) and today may number between 40&nbsp;million (3%)<ref name="news.bbc.co.uk"/><ref name="Watts2007">{{Cite news| url=http://www.guardian.co.uk/china/story/0,,2007690,00.html | title=Christian population in China |work=The Guardian | accessdate=27 August 2007 | location=London | first=Jonathan | last=Watts | date=7 February 2007}}</ref> and 54&nbsp;million (4%)<ref name="Ref_2007c">{{cite web|url=http://www.assistnews.net/STORIES/2007/s07100011.htm |title=China Survey Reveals Fewer Christians than Some Evangelicals Want to Believe |publisher=Assistnews.net |date=1 October 2007 |accessdate=15 June 2009}}</ref> according to independent surveys, while official estimates suggested that there are only 16&nbsp;million Christians.<ref name="Ref_abcds">{{cite web| title=Chinese government official statistics on Christian population in China | url=http://hrwf.org/religiousfreedom/news/2007PDF/China%202007.doc | archiveurl=http://web.archive.org/web/20070808215628/http://hrwf.org/religiousfreedom/news/2007PDF/China+2007.doc | archivedate=2007-08-08 | publisher=hrwf.org | accessdate=27 August 2007}}</ref> Some sources also reported up to 130&nbsp;million Christians in China.<ref name="Ref_abcdt">{{cite web|url=http://www.opendoors.no/sider/tekst.asp?id=Kina |title=Open doors - country profile |publisher=Opendoors.no |date= |accessdate=27 April 2010}}</ref>
+
+[[File:Kowloon Masjid and Islamic Centre from East 2.jpg|thumb|left|يمين|Islamic Society in [[Kowloon]]]]
+[[Islam in China]] dates to a mission in 651, eighteen years after [[Muhammad]]'s death. Muslims came to China for trade, dominating the import/export industry during the [[Song Dynasty]].<ref name=bbc>{{cite web|url=http://www.bbc.co.uk/religion/religions/islam/history/china_1.shtml |title=BBC Islam in China (650–present) |publisher=BBC News |date=2 October 2002 |accessdate=14 July 2009}}</ref><ref name=islamicculture>{{cite web|url=http://www.religion-online.org/showchapter.asp?title=1656&C=1645|title=Islamic culture in China}}</ref> They became influential in government circles, including [[Zheng He]], [[Lan Yu (general)|Lan Yu]] and [[Yeheidie'erding]]. [[Nanjing]] became an important center of Islamic study.<ref name="Ref_abcdu">{{cite web|url=http://www.hsais.org/2essay0405_4.htm|title=Looking East: The challenges and opportunities of Chinese Islam}}{{dead link|date=November 2010}}</ref> The [[Qing Dynasty]] waged war and [[genocides in history|genocide]] against Muslims in the [[Dungan revolt]] and [[Panthay rebellion]].<ref name="Ref_abcdv">Levene, Mark. Genocide in the Age of the Nation-State. I.B.Tauris, 2005. ISBN 1845110579, page 288</ref><ref name="Ref_abcdw">Giersch, Charles Patterson. Asian Borderlands: The Transformation of Qing China's Yunnan Frontier. Harvard University Press, 2006. ISBN 1845110579, page 219</ref><ref name="Ref_abcdx">Dillon, Michael. [http://www.hsais.org/2essay0405_4.htm China’s Muslim Hui Community].{{dead link|date=November 2010}} Curzon, 1999. ISBN 0700710264, page xix</ref> Statistics are hard to find, and most estimates figures that there are 20 to 30&nbsp;million Muslims (1.5% to 2% of the population).<ref name="Ref_abcdy">Counting up the number of people of traditionally Muslim nationalities who were enumerated in the 1990 census gives a total of 17.6&nbsp;million, 96% of whom belong to just three nationalities: Hui 8.6&nbsp;million, Uyghurs 7.2&nbsp;million, and Kazakhs 1.1&nbsp;million. Other nationalities that are traditionally Muslim include Kyrghyz, Tajiks, Uzbeks, Tatars, Salar, Bonan, and Dongxiang. See Dru C. Gladney, "Islam in China: Accommodation or Separatism?", Paper presented at Symposium on Islam in Southeast Asia and China, Hong Kong, 2002. Available at [http://www.islamsymposium.cityu.edu.hk islamsymposium.cityu.edu.hk]. The 2000 census reported a total of 20.3&nbsp;million members of Muslim nationalities, of which again 96% belonged to just three groups: Hui 9.8&nbsp;million, Uyghurs 8.4&nbsp;million, and Kazakhs 1.25&nbsp;million.</ref><ref name="Ref_abcdz">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ch.html |title=CIA – The World Factbook – China |publisher=Cia.gov |date= |accessdate=15 June 2009}}</ref><ref name="Ref_abcdea">{{cite web|url=http://www.state.gov/g/drl/rls/irf/2006/71338.htm |title=China (includes Hong Kong, Macau, and Tibet) |publisher=State.gov |date= |accessdate=15 June 2009}}</ref><ref name="Ref_2008c">{{cite web|url=http://www.chinadaily.com.cn/bizchina/2008-07/09/content_6831389.htm |title=NW China region eyes global Muslim market |work=China Daily |date=9 July 2008 |accessdate=14 July 2009}}</ref><ref name="Ref_2008d">{{cite web|url=http://muslimmedianetwork.com/mmn/?p=1922 |title=Muslim Media Network |publisher=Muslim Media Network |date=24 March 2008 |accessdate=14 July 2009}}</ref>
+
+There are also followers of minority religions including [[Hinduism in China|Hinduism]], [[Dongbaism]], [[Bön]], and a number of new religions and sects (particularly [[Xiantianism]]). In July 1999, the [[Falun Gong]] spiritual practice was officially banned by the authorities,<ref name=ban>[[Xinhua]], [http://english.people.com.cn/special/fagong/1999072200A101.html China Bans Falun Gong], ''[[People's Daily]]'', 22 July 1999</ref> and many international organizations have criticized the [[history of Falun Gong|government's treatment of Falun Gong]] that has occurred since then.<ref name="Ref_abcdeb">Mary-Anne Toy, [http://www.theage.com.au/world/underground-existence-for-falun-gong-faithful-20080725-3l2p.html?page=-1 Underground existence for Falun Gong faithful], ''[[The Age]]'', 26 July 2008.<br />"The US State Department, US Congress, the United Nations and human rights groups such as Amnesty say persecution of Falun Gong practitioners in China is a continuing abuse of human rights."</ref> There are no reliable estimates of the number of Falun Gong practitioners in China.<ref name="Ref_abcdec">Xu Jiatun, [http://www.taipeitimes.com/News/editorials/archives/1999/09/08/1308 Cultural Revolution revisited in crackdown], ''Taipai Times'', 8 September 1999.</ref>
+
+==Culture==
+{{Main|Culture of the People's Republic of China|Culture of Hong Kong|Culture of Macau|Culture of China}}
+{{See also|Chinese mythology|Music of China|Chinese literature|Chinese art|Traditional Chinese medicine|Chinese cuisine|Cinema of China|Media of the People's Republic of China}}
+{{See also|Society of the People's Republic of China|Zhonghua minzu|Han Chinese clothing|Chinese architecture|Chinese animation}}
+{{Multiple image
+ | align = right
+ | direction = vertical
+ | width = 210
+ | image1 = Pekin przedstawienie tradycjnego teatru chinskiego 7.JPG
+ | caption1 = [[Beijing opera]] is a quintessential aspect of traditional Chinese culture and holds an important position in the world treasure of art.<ref name="Ref_abcded">{{cite web|url=http://en.cnta.gov.cn|title=Tour Guidebook: Beijing|publisher=China National Tourism Administration}}</ref>
+ | image2 = Sunset of the Forbidden City 2006.JPG
+ | caption2 = A north corner of [[Forbidden City]], featuring [[Chinese architecture|classic construction style]].
+ }}
+
+For centuries, opportunity for economic and social advancement in China could be provided by high performance on [[Imperial examination]]s. The literary emphasis of the exams affected the general perception of cultural refinement in China, such as the belief that [[East Asian calligraphy|calligraphy]] and literati painting were higher forms of art than dancing or drama. China's traditional values were derived from various versions of [[Confucianism]] and conservatism.
+
+A number of more authoritarian and [[rationalism|rational]] strains of thought have also been influential, such as [[Legalism (Chinese philosophy)|Legalism]]. There was often conflict between the philosophies, such as the individualistic [[Song Dynasty]] [[Neo-Confucianism|neo-Confucians]], who believed Legalism departed from the original spirit of Confucianism. Examinations and a [[meritocracy|culture of merit]] remain greatly valued in China today. In recent years, a number of [[New Confucianism|New Confucians]] have advocated that democratic ideals and human rights are quite compatible with traditional Confucian "Asian values."<ref name="Ref_abcdee">Bary, Theodore de. [http://www.columbia.edu/cu/ccba/cear/issues/fall97/graphics/special/debary/debary.htm "Constructive Engagement with Asian Values"].{{Dead link|date=March 2009}} Columbia University.</ref>
+
+The first leaders of the People's Republic of China were born in the old society but were influenced by the [[May Fourth Movement]] and reformist ideals. They sought to change some traditional aspects of Chinese culture, such as rural land tenure, sexism, and a Confucian education, while preserving others, such as the family structure and obedience to the state.
+
+Many observers believe that the period following 1949 is a continuation of traditional Chinese dynastic history, while others say that the CPC's rule has damaged the foundations of Chinese culture, especially through political movements such as the [[Cultural Revolution]], where many aspects of traditional culture were labeled 'regressive and harmful' or 'vestiges of feudalism' by the regime and thus, were [[Cultural revolution#Destruction of antiques, historical sites and culture|destroyed]]. They further argue that many important aspects of traditional Chinese morals and culture, such as [[Confucianism]], [[Chinese art]], literature, and performing arts like [[Beijing opera]], were altered to conform to government policies and propaganda at the time.
+
+Today, the Chinese government has accepted a great deal of traditional [[Culture of China|Chinese culture]] as an integral part of Chinese society, lauding it as an important achievement of the Chinese civilization and emphasizing it as vital to a [[Chinese nationalism|Chinese national identity]]. Since the Cultural Revolution ended, various forms of traditional Chinese art, literature, music, film, fashion and architecture have seen a vigorous revival,<ref name="Ref_abcdef">[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+cn0133) "China: Traditional arts". Library of Congress – Country Studies.] Accessed: 26 December 2007.</ref><ref name="Ref_abcdeg">[http://www.britannica.com/eb/article-258942/China "China: Cultural life: The arts". Encyclopædia Britannica Online] Accessed: 26 December 2007.</ref> and folk and variety art in particular have gained a new found respectability, and sparked interest nationally and even worldwide.<ref name="Ref_abcdeh">[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+cn0138) "China: Folk and Variety Arts". Library of Congress – Country Studies.] Accessed: 26 December 2007.</ref>
+
+Chinese culture and the West were linked by the [[Silk Road]]. Artifacts from the history of the silk route, as well as from the natural history of the [[Gobi desert]], are displayed in the [[Silk Route Museum]].<ref name="Ref_abcdei">{{cite web|url=http://www.silkroutemuseum.com |title=Silk Route Museum |publisher=Silk Route Museum |date= |accessdate=14 July 2009}}</ref><ref name="Ref_abcdej">{{cite web|url=http://www.thesilkroadfund.org/downloads/SRM_Tour_Promo.pdf |title=Tourism Guide 2009 |format=PDF |date= |accessdate=14 July 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref name="Ref_abcdek">{{cite web|url=http://www.thesilkroadfund.org/silk.pdf |title=First Annual Silk Road Museum International Arts Competition 2009 |format=PDF |date= |accessdate=14 July 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+=== Cuisine ===
+[[File:Tianjin lunch of Goubuli.jpg|thumb|Chinese traditional food in [[Tianjin]]]]
+{{Main|Chinese cuisine}}
+
+The overwhelmingly large variety of Chinese cuisine comes mainly from the practice of dynastic period [[Emperor of China|emperors]] hosting  banquets with 100 dishes per meal.<ref name="Kong">Kong, Foong, Ling. [2002]. The Food of Asia. Tuttle Publishing. ISBN 0-7946-0146-4</ref> A countless number of imperial kitchen staff and [[concubines]] were involved in the food preparation process.
+
+Over time, many dishes became part of the everyday-citizen culture. Some of the highest quality restaurants with recipes close to the dynastic periods include [[Fangshan]] restaurant in [[Beihai Park]] [[Beijing]] and the Oriole Pavilion.<ref name="Kong"/> Arguably all branches of [[Cuisine of Hong Kong#Eastern Styles|Hong Kong eastern style]] or even [[American Chinese food]] are in some ways rooted from the original dynastic cuisines.
+
+===Sports===
+{{Main|Sport in the People's Republic of China|Sports in Hong Kong|Sports in Macau}}
+{{See also|Public holidays in the People's Republic of China|China at the Olympics}}
+[[File:Wangfujingbasketball.jpg|thumb|left|Evening pickup [[basketball]] game in a Beijing neighborhood]]
+
+China has one of the [[Sport in the People's Republic of China|oldest sporting cultures]] in the world, spanning the course of several millennia. There is, in fact, evidence that a form of [[Association football|football]] was played in China in ancient times.<ref name="Ref_abcdel">[http://athleticscholarships.net/history-of-soccer.htm Origins of the Great Game]. 2000. Athleticscholarships.net. Retrieved 23 April 2006.</ref> Besides football,<ref name="Ref_abcdem">[http://soccernet.espn.go.com/news/story?id=370457&cc=5901 ESPN Soccernet]. 2002. ESPN Soccernet. Retrieved 26 January 2006.</ref> some of the most popular sports in the country include martial arts, table tennis, badminton, swimming, basketball and snooker. [[Board game]]s such as [[Go (board game)|Go]] (Weiqi), and [[Xiangqi]] (Chinese chess) and recently [[chess]] are also commonly played and have organized competitions.{{Citation needed|date=May 2009}}
+
+[[Physical fitness]] is widely emphasized in [[culture of China|Chinese culture]]. Morning exercises are a common activity and often one can find the elderly practicing [[qigong]] and [[tai chi chuan]] in parks or students doing stretches on school campuses.
+
+Young people are also keen on basketball, especially in urban centers with limited space and grass areas. The [[National Basketball Association|NBA]] has a huge following among Chinese youths, with [[Yao Ming]] being the idol of many.<ref name="Beech2003">{{Cite news|url=http://www.time.com/time/asia/2003/heroes/yao_ming.html |title=Yao Ming |accessdate=30 March 2007 |last=Beech |first=Hannah |work=Asian Heroes |work=Time Magazine | date=28 April 2003}}</ref> Major sporting events were also held in Beijing such as the [[1990 Asian Games]] and the [[2008 Summer Olympics]].
+
+Many traditional sports are also played. The popular Chinese dragon boat racing occurs during the [[Dragon Boat Festival]]. In [[Inner Mongolia]], sports such as [[Mongolian wrestling|Mongolian-style wrestling]] and [[horse racing]] are popular. In [[Tibet Autonomous Region|Tibet]], [[archery]] and [[equestrianism]] are a part of traditional festivals.<ref name="Ref_abcden">Qinfa, Ye. [http://chineseculture.about.com/library/weekly/aa032301a.htm Sports History of China]. About.com. Retrieved 21 April 2006.</ref>
+
+China finished [[2008 Summer Olympics medal table|first in gold medal count]] at the [[2008 Summer Olympics|most recent Summer Olympic Games]] which were held in Beijing from 8 to 24 August 2008.<ref name="Ref_abcdeo">[http://results.beijing2008.cn/WRM/ENG/INF/GL/95A/GL0000000.shtml Beijing2008.cn]</ref>
+
+==See also==
+{{Portal|People's Republic of China}}
+* [[Index of China-related articles]]
+* [[Outline of China]]
+
+==References==
+<!-- scroll boxes should not be used in main article space, as it renders any content obscured within the template unprintable. This is especially true with text content, such as citations, according to a June 2007 discussion: [[Wikipedia:Templates for deletion/Log/2007 June 11#Template:Scrollref]].''' Please, if you see a scroll box in article space, remove it and put a hidden warning.-->
+{{Reflist|colwidth=30em}}
+
+;Further reading
+{{refbegin}}
+* {{Cite book|last=Chang|first=Jung|title=Wild Swans|year=1992|publisher=Doubleday |isbn=0385425473}}
+* Farah, Paolo, ''Five Years of China’s WTO Membership. EU and US Perspectives on China’s Compliance with Transparency Commitments and the Transitional Review Mechanism'', Legal Issues of Economic Integration, Kluwer Law International, Volume 33, Number 3, pp.&nbsp;263–304, 2006. [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=916768 Abstract].
+* Heilig, Gerhard K., ''[http://www.china-profile.com/bib/bib_start.htm China Bibliography – Online].'' 2006, 2007.
+* {{Cite book|last=Lynch |first=Michael |title=People’s Republic of China 1949–90 |year=1998 |publisher=[[Trafalgar Square Publishing]] |isbn=0-340-68853-X}}
+* {{Cite book|last=Murphey |first=Rhoads |title=East Asia: A New History |year=1996 |publisher=[[University of Michigan Press]] |isbn=0-321-07801-2 }}
+* {{Cite book|author=Sang Ye |title=China Candid: The People on the People's Republic |year=2006 |publisher=[[University of California Press]] |location= |isbn=0-520-24514-8}}
+* {{Cite book|last=Selden |first=Mark |title=The People's Republic of China: Documentary History of Revolutionary Change |year=1979 |publisher=Monthly Review Press|location=New York |isbn=0853455325}}
+* {{Cite book|last=Terrill |first=Ross |title=[[The New Chinese Empire]], And What It Means For The United States |year=2003 |publisher=Basic Books |location=New York |isbn=0-465-08412-5}}
+* {{Cite book|last=Thurston |first=Anne F. |title=China Bound: A Guide to Academic Life and Work in the PRC |year=1994 |publisher=[[National Academies Press]]|location=Washington |isbn=0-309-04932-6}}
+{{refend}}
+
+==External links==
+<!--======================== {{No more links}} ============================
+ | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia |
+ | is not a collection of links nor should it be used for advertising. |
+ | |
+ | Excessive or inappropriate links WILL BE DELETED. |
+ | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details. |
+ | |
+ | If there are already plentiful links, please propose additions or |
+ | replacements on this article's discussion page, or submit your link |
+ | to the relevant category at the Open Directory Project (dmoz.org) |
+ | and link back to that category using the {{dmoz}} template. |
+======================={{No more links}}=====================-->
+{{Col-begin}}
+{{Col-2}}
+'''Overviews'''
+<div class="references-small">
+* [http://english.peopledaily.com.cn/china/home.html China at a Glance] ''People's Daily''
+* [http://news.bbc.co.uk/1/hi/world/asia-pacific/country_profiles/1287798.stm BBC News – ''Country Profile: China'']
+* {{CIA World Factbook link|ch|China}}
+* [http://www.monthlyreview.org/1105wu.htm "Rethinking ‘Capitalist Restoration’ in China"] by Yiching Wu
+</div>
+
+'''Documentaries'''
+<div class="references-small">
+* [http://www.pbs.org/newshour/bb/asia/china/ "China on the Rise"] PBS Online NewsHour. October 2005.
+* [http://www.pbs.org/wgbh/pages/frontline/shows/red/ ''China in the Red''], 1998–2001. PBS Frontline.
+* ''[http://www.pbs.org/kqed/chinainside/ China From the Inside]'' A documentary series co-produced by KQED Public Television and Granada Television.
+</div>
+
+'''Government'''
+<div class="references-small">
+* [http://english.gov.cn/ The Central People's Government of People's Republic of China] {{Language icon|en}}
+* [http://www.china.org.cn/ China Internet Information Center (China.org.cn)] {{Language icon|en}} - Authorized government portal site to China
+</div>
+{{Col-2}}
+{{Sister project links|China}}
+'''Studies'''
+<div class="references-small">
+* [http://ifri.org/files/Securite_defense/Prolif_Paper_Minxin_Pei.pdf Assertive Pragmatism: China's Economic Rise and Its Impact on Chinese Foreign Policy] – analysis by Minxin Pei, IFRI Proliferation Papers n°15, 2006
+* [http://www.globalpolitician.com/articles.asp?ID=341 The Dragon's Dawn: China as a Rising Imperial Power] 11 February 2005.
+* [http://www.china-profile.com/history/hist_list_1.htm History of The People's Republic of China] Timeline of Key Events since 1949.
+* [http://www.danwei.org/ Media, advertising, and urban life in China.]
+</div>
+
+'''Travel'''
+<div class="references-small">
+* {{Wikitravel|China}}
+</div>
+
+'''Maps'''
+<div class="references-small">
+* [http://maps.google.com/maps?q=China&ll=30.600094,103.710938&spn=64.10009,177.1875&om=1 Google Maps – China]
+* [http://www.china-profile.com/maps/map_overview_1.htm Google Maps – China] Interesting locations
+{{Wikiatlas|the People's Republic of China}}
+</div>
+
+{{Col-end}}
+{{editsection}}
+{{People's Republic of China topics}}
+{{Template group
+|title = {{Resize|105%|Geographic locale}}
+|list =
+{{Countries and territories of East Asia}}
+{{Countries of Asia}}
+}}
+{{Template group
+|title = {{Resize|105%|International membership}}
+|list =
+{{East Asia Summit (EAS)}}
+{{Communist states}}
+{{UN Security Council}}
+{{World Trade Organization (WTO)}}
+{{Asia-Pacific Economic Cooperation (APEC)}}
+{{Shanghai Cooperation Organisation}}
+{{G8+5}}
+{{G-20}}
+{{BRIC countries}}
+{{Like Minded Group}}}}
+{{Socialist states}}
+
+{{Coord|35|00|N|103|00|E|type:country|display=title}}
+{{Use dmy dates|date=August 2010}}
+
+{{DEFAULTSORT:China, People's Republic Of}}
+[[Category:People's Republic of China| ]]
+[[Category:Central Asian countries]]
+[[Category:East Asian countries]]
+[[Category:Countries bordering the South China Sea]]
+[[Category:Countries bordering the Pacific Ocean]]
+[[Category:Socialist states]]
+[[Category:Communist states]]
+[[Category:Single-party states]]
+[[Category:Republics]]
+[[Category:Chinese-speaking countries and territories]]
+[[Category:States and territories established in 1949]]
+
+{{Link GA|de}}
+{{Link GA|id}}
+{{Link FA|eu}}
+{{Link FA|sco}}
+<!--Interwikis-->
+
+[[ace:Rèpublik Rakyat Cina]]
+[[af:Volksrepubliek van Sjina]]
+[[als:Volksrepublik China]]
+[[am:የቻይና ሕዝባዊ ሪፐብሊክ]]
+[[ang:Cīnan Folclicu Cyneƿīse]]
+[[ab:Ачынҭатәи Ажәлартә Республика]]
+[[ar:جمهورية الصين الشعبية]]
+[[an:Republica Popular de China]]
+[[frp:Rèpublica populèra de Ch·ina]]
+[[ast:China]]
+[[gn:China Tekoha Tetã]]
+[[ay:Markani Republika China]]
+[[az:Çin Xalq Respublikası]]
+[[bm:China]]
+[[bn:গণচীন]]
+[[zh-min-nan:Tiong-hoâ Jîn-bîn Kiōng-hô-kok]]
+[[ba:Ҡытай]]
+[[be:Кітай]]
+[[be-x-old:Кітай]]
+[[bh:चीन (जनवादी प्रजातंत्र)]]
+[[bcl:Tsina]]
+[[bar:Kina]]
+[[bo:ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ།]]
+[[bs:Narodna Republika Kina]]
+[[br:Republik Pobl Sina]]
+[[bg:Китайска народна република]]
+[[ca:República Popular de la Xina]]
+[[cv:Китай Халăх Республики]]
+[[ceb:Republikang Popular sa Tsina]]
+[[cs:Čínská lidová republika]]
+[[cbk-zam:China]]
+[[cy:Gweriniaeth Pobl Tsieina]]
+[[da:Kina]]
+[[de:Volksrepublik China]]
+[[dv:ސީނުކަރަ]]
+[[dsb:Chinska ludowa republika]]
+[[et:Hiina]]
+[[el:Λαϊκή Δημοκρατία της Κίνας]]
+[[eml:Cina]]
+[[es:República Popular China]]
+[[eo:Ĉinio]]
+[[ext:China]]
+[[eu:Txinako Herri Errepublika]]
+[[ee:China]]
+[[fa:جمهوری خلق چین]]
+[[hif:People's Republic of China]]
+[[fo:Kina]]
+[[fr:République populaire de Chine]]
+[[fy:Sina]]
+[[ga:Daon-Phoblacht na Síne]]
+[[gv:Deynphobblaght ny Sheen]]
+[[gd:Sluagh-Phoblachd na Sìne]]
+[[gl:República Popular da China]]
+[[gan:中華人民共和國]]
+[[gu:ચીન]]
+[[hak:Chûng-fà Ngìn-mìn Khiung-fò-koet]]
+[[xal:Китдин Улс Орн]]
+[[ko:중화인민공화국]]
+[[ha:Sin]]
+[[haw:Kina]]
+[[hy:Չինաստանի Ժողովրդական Հանրապետություն]]
+[[hi:चीनी जनवादी गणराज्य]]
+[[hsb:China]]
+[[hr:Kina]]
+[[io:Chinia]]
+[[ilo:China]]
+[[bpy:গণচীন]]
+[[id:Republik Rakyat Cina]]
+[[ia:China]]
+[[ie:China]]
+[[os:Китай]]
+[[is:Alþýðulýðveldið Kína]]
+[[it:Cina]]
+[[he:הרפובליקה העממית של סין]]
+[[jv:Républik Rakyat Cina]]
+[[kn:ಚೀನಿ ಜನರ ಗಣರಾಜ್ಯ]]
+[[pam:Maldang Republika ning Tsina]]
+[[krc:Къытай Халкъ Республика]]
+[[ka:ჩინეთი]]
+[[csb:Chińskô Lëdowô Repùblika]]
+[[kk:Қытай]]
+[[kw:Repoblek Werin China]]
+[[rw:Ubushinwa]]
+[[ky:Кытай]]
+[[sw:China]]
+[[koi:Китай]]
+[[kv:Китай]]
+[[kg:Sina]]
+[[ku:Çîn]]
+[[la:Res Publica Popularis Sinarum]]
+[[lv:Ķīna]]
+[[lb:Volleksrepublik China]]
+[[lt:Kinijos Liaudies Respublika]]
+[[li:Volksrepubliek China]]
+[[ln:Sína]]
+[[jbo:jugygu'e]]
+[[lmo:Cina]]
+[[hu:Kína]]
+[[mk:Народна Република Кина]]
+[[mg:Repoblika Entim-bahoakan'i Sina]]
+[[ml:ചൈന]]
+[[mt:Repubblika Popolari taċ-Ċina]]
+[[mr:चीन]]
+[[arz:الصين]]
+[[mzn:چین]]
+[[ms:Republik Rakyat China]]
+[[mwl:República Popular de la China]]
+[[mdf:Китай]]
+[[mn:Бүгд Найрамдах Хятад Ард Улс]]
+[[my:တရုတ်ပြည်သူ့သမ္မတနိုင်ငံ]]
+[[nah:China]]
+[[na:Tsiene]]
+[[nl:Volksrepubliek China]]
+[[nds-nl:Volksrippebliek China]]
+[[ne:जनबादी गणतन्त्र चीन]]
+[[ja:中華人民共和国]]
+[[frr:China]]
+[[pih:Shiina]]
+[[no:Folkerepublikken Kina]]
+[[nn:Folkerepublikken Kina]]
+[[nrm:Républyique du Peupl'ye d'la Chinne]]
+[[nov:Populen Republike de China]]
+[[oc:Republica Populara de China]]
+[[mhr:Китай]]
+[[or:ଚୀନ]]
+[[pnb:چین]]
+[[pap:China]]
+[[ps:د خلکو جمهوري چين]]
+[[pcd:République populoère d' Chine]]
+[[pms:Cin-a]]
+[[tpi:Ol Manmeri Ripablik bilong Saina]]
+[[nds:Volksrepubliek China]]
+[[pl:Chińska Republika Ludowa]]
+[[pnt:Κίνα]]
+[[pt:República Popular da China]]
+[[crh:Çin Halq Cumhuriyeti]]
+[[ty:Tinitō]]
+[[ro:Republica Populară Chineză]]
+[[qu:Runallaqta Republika China]]
+[[ru:Китайская Народная Республика]]
+[[rue:Кітайска Народна Републіка]]
+[[sah:Кытай Дьон Республиката]]
+[[se:Kiinná]]
+[[sm:Saina]]
+[[sg:Sînä]]
+[[sc:Cina]]
+[[sco:Fowkrepublic o Cheenae]]
+[[stq:Foulksrepublik China]]
+[[st:Tjhaena]]
+[[sq:Kina]]
+[[scn:Cina]]
+[[si:මහජන චීන ජනරජය]]
+[[simple:People's Republic of China]]
+[[ss:IShayina]]
+[[sk:Čína]]
+[[cu:Срѣдинꙗ́нє]]
+[[sl:Ljudska republika Kitajska]]
+[[szl:Chińsko Ludowo Republika]]
+[[so:Shiinaha]]
+[[ckb:کۆماری گەلی چین]]
+[[srn:Sneysa]]
+[[sr:Кина]]
+[[sh:Narodna Republika Kina]]
+[[fi:Kiina]]
+[[sv:Kina]]
+[[tl:Republikang Popular ng Tsina]]
+[[ta:சீன மக்கள் குடியரசு]]
+[[kab:Ccinwa]]
+[[tt:Кытай]]
+[[te:చైనా]]
+[[tet:Xina]]
+[[th:ประเทศจีน]]
+[[tg:Ҷумҳурии Халқии Чин]]
+[[chr:ᏓᎶᏂᎨᏍᏛ]]
+[[tr:Çin Halk Cumhuriyeti]]
+[[tk:Hytaý Halk Respublikasy]]
+[[udm:Китай]]
+[[uk:Китайська Народна Республіка]]
+[[ur:چین]]
+[[ug:جۇڭخۇا خەلق جۇمھۇرىيىتى]]
+[[za:Cunghvaz Yinzminz Gunghozgoz]]
+[[vec:Cina]]
+[[vi:Cộng hòa Nhân dân Trung Hoa]]
+[[vo:Tsyinän]]
+[[fiu-vro:Hiina Rahvavabariik]]
+[[zh-classical:中華人民共和國]]
+[[war:Kanan Katawhan Republika han Tsina]]
+[[wo:Siin]]
+[[wuu:中华人民共和国]]
+[[ts:China]]
+[[yi:כינע]]
+[[yo:Orílẹ̀-èdè Olómìnira àwọn Ará ilẹ̀ Ṣáínà]]
+[[zh-yue:中華人民共和國]]
+[[zea:China]]
+[[bat-smg:Kėnėjės Liaudies Respoblėka]]
+[[zh:中华人民共和国]]

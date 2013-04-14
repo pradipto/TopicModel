@@ -1,0 +1,428 @@
+{{Redirect6|Pianoforte|earlier versions of the instrument|Fortepiano|other uses of ''Piano''|Piano (disambiguation)}}
+{{Infobox Instrument
+| name                  = Piano
+| image                 = Steinway Model D.JPG
+| image_capt            = [[Steinway & Sons|Steinway]] grand piano
+| background            = keyboard
+| hornbostel_sachs      = 314.122-4-8
+| hornbostel_sachs_desc = Simple [[chordophone]] with [[Musical keyboard|keyboard]] sounded by hammers
+| inventors             = [[Bartolomeo Cristofori]]
+| developed             = Early 18th century
+| range                 = [[Image:Range of piano.svg|200px|center]]
+}}
+The '''piano''' is a [[musical instrument]] played by means of a [[musical keyboard|keyboard]].  It is one of the most popular instruments in the world. Widely used in [[classical music]] for solo performances, ensemble use, [[chamber music]] and [[accompaniment]], the piano is also very popular as an aid to [[musical composition|composing]] and [[rehearsal]]. Although not portable and often expensive, the piano's versatility and ubiquity have made it one of the world's most familiar musical instruments.
+
+Pressing a key on the piano's keyboard causes a [[felt]]-covered hammer to strike [[steel]] strings.  The hammers rebound, allowing the strings to continue vibrating at their [[Resonance|resonant frequency]].<ref>{{cite web |url=http://demonstrations.wolfram.com/HammerTime |title=Hammer Time |author=John Kiehl |date= |work= |publisher=[[Wolfram Demonstrations Project]] |accessdate= }}</ref> These vibrations are transmitted through a [[Bridge (instrument)|bridge]] to a [[Sound board (music)|sounding board]] that more-efficiently [[Coupling (electronics)|couples]] the acoustic energy to the air. The sound would otherwise be no louder than that directly produced by the strings. When the key is released, a damper stops the string's vibration. See the article on [[Piano key frequencies]] for a picture of the piano keyboard and the location of middle-C. In the [[Hornbostel-Sachs]] system of instrument classification, pianos are considered [[chordophone]]s.
+
+The word ''piano'' is a shortened form of the word '''''pianoforte''''', which derives from the original [[Italian language|Italian]] name for the instrument, ''clavicembalo ''[or ''gravicembalo'']'' col piano e forte'' (literally ''[[harpsichord]] capable of playing at the normal level, and more strongly''). The musical terms "piano" and "forte" are usually interpreted as "soft" and "loud", but this is not strictly what they mean in Italian. Here, "Piano" means a plane or level, suggesting the normal playing level.  "Forte" means a stronger, more powerful level of playing&mdash;louder than usual. This refers to the instrument's responsiveness to keyboard touch, which allows the [[pianist]] to produce notes at different dynamic levels by controlling the inertia with which the hammers hit the strings.
+
+==History==
+===Early history===
+{{See also|Fortepiano|Bartolomeo Cristofori}}
+[[Image:Grand Piano 1781 France - Louis Bas.jpg|thumb|Grand piano by Louis Bas of [[Villeneuve-lès-Avignon]], France, 1781. Earliest French grand piano known to survive; includes an inverted wrestplank and action derived from the work of Bartolomeo Cristofori (ca. 1700) with ornately decorated soundboard.]]
+[[Image:FortepianoByMcNultyAfterWalter1805.jpg|thumb|upright|Early piano replica by the modern builder Paul McNulty, after Walter & Sohn, 1805]]
+
+The piano is founded on earlier technological innovations. The first [[string instrument]]s with struck strings were the [[hammered dulcimer]]s.<ref>David R. Peterson (1994), "Acoustics of the hammered dulcimer, its history, and recent developments", ''[[Journal of the Acoustical Society of America]]'' '''95''' (5), p. 3002.</ref> During the [[Middle Ages]], there were several attempts at creating stringed [[keyboard instrument]]s with struck strings.<ref>{{cite book |last= Pollens|first= Stewart|title=The Early Pianoforte|publisher=Cambridge University Press |year= 1995 |month= October |isbn= 0521417295}} Chapter 1.</ref> By the 17th century, the mechanisms of keyboard instruments such as the [[clavichord]] and the [[harpsichord]] were well known. In a clavichord the strings are struck by [[Tangent (clavichord)|tangents]], while in a harpsichord they are plucked by quills. Centuries of work on the mechanism of the harpsichord in particular had shown the most effective ways to construct the case, soundboard, bridge, and keyboard.
+
+The invention of the modern piano is credited to [[Bartolomeo Cristofori]] (1655–1731) of [[Padua]], [[Italy]], who was employed by [[Ferdinando de' Medici, Grand Prince of Tuscany]], as the Keeper of the Instruments. He was an expert harpsichord maker and was well acquainted with the previous body of knowledge on stringed keyboard instruments. It is not known exactly when Cristofori first built a piano.  An inventory made by his employers, the [[Medici]] family, indicates the existence of a piano by the year 1700; another document of doubtful authenticity indicates a date of 1698. A friend of the family by the name of Sebastian LeBlanc suggested the idea to switch the black and white keys{{Citation needed|date=March 2008}} The three Cristofori pianos that survive today date from the 1720s.<ref>{{cite book |last= Erlich|first= Cyril|title=The Piano: A History|publisher=[[Oxford University Press]], USA; Revised edition |year= 1990 |month= May |isbn= 0198161719 }}</ref><ref>http://www.metmuseum.org/toah/hd/cris/hd_cris.htm</ref>
+
+While the clavichord allowed expressive control of volume and sustain, it was too quiet for large performances. The harpsichord produced a sufficiently loud sound, but had little expressive control over each note. The piano was likely formed as an attempt to combine loudness with control, avoiding the trade-offs of available instruments.
+
+Cristofori's great success was solving, with no prior example, the fundamental mechanical problem of piano design: the hammer must strike the string, but not remain in contact with it (as a tangent remains in contact with a clavichord string) because this would [[Damping|dampen]] the sound. Moreover, the hammer must return to its rest position without bouncing violently, and it must be possible to repeat a note rapidly. Cristofori's piano [[Action (piano)|action]] was a model for the many different approaches to piano actions that followed. Cristofori's early instruments were made with thin strings, and were much quieter than the modern piano&mdash;but compared to the clavichord (the only previous keyboard instrument capable of dynamic nuance via the keyboard) they were much louder and had more sustain.
+
+Cristofori's new instrument remained relatively unknown until an Italian writer, [[Scipione Maffei]], wrote an enthusiastic article about it (1711), including a diagram of the mechanism. This article was widely distributed, and most of the next generation of piano builders started their work because of reading it. One of these builders was [[Gottfried Silbermann]], better known as an [[organ (music)|organ]] builder. Silbermann's pianos were virtually direct copies of Cristofori's, with one important addition: Silbermann invented the forerunner of the modern [[damper pedal]], which lifts all the dampers from the strings at once.
+
+Silbermann showed [[Johann Sebastian Bach]] one of his early instruments in the 1730s, but Bach did not like it at that time, claiming that the higher notes were too soft to allow a full dynamic range. Although this earned him some animosity from Silbermann, the criticism was apparently heeded. Bach did approve of a later instrument he saw in 1747, and even served as an agent in selling Silbermann's pianos.<ref>{{cite book |last= Palmieri|first= Bob & Meg|title=The Piano: An Encyclopedia|publisher=Taylor & Francis |year= 2003 |month= May |isbn= 9780415937962}}. "Instrument: piano et forte genandt" [was] an expression Bach also used when acting as Silbermann's agent in 1749."</ref>
+
+Piano-making flourished during the late 18th century in the [[First Viennese School|Viennese school]], which included [[Johann Andreas Stein]] (who worked in [[Augsburg]], Germany) and the Viennese makers [[Nannette Streicher]] (daughter of Stein) and [[Anton Walter]]. Viennese-style pianos were built with wood frames, two strings per note, and had leather-covered hammers. Some of these Viennese pianos had the opposite coloring of modern-day pianos; the natural keys were black and the accidental keys white.<ref name="vienna">{{cite web |url=http://www.ptg.org/resources-historyOfPianos-viennese.php |title=The Viennese Piano |accessdate=2007-10-09}}</ref> It was for such instruments that [[Wolfgang Amadeus Mozart]] composed his [[piano concerto|concertos]] and [[piano sonata|sonatas]], and replicas of them are built today for use in [[authentic performance|authentic-instrument performance]] of his music. The pianos of Mozart's day had a softer, more ethereal tone than today's pianos or English pianos, with less sustaining power. The term ''[[fortepiano]]'' is nowadays often used to distinguish the 18th-century instrument from later pianos.
+
+{{listen
+ | header       = Comparison of piano sound
+ | filename     = Frederic Chopin - Opus 25 - Twelve Grand Etudes - c minor.ogg
+ | title        = 19th century piano sound
+ | description  = [[Frédéric Chopin]]'s [[Étude Op. 25, No. 12 (Chopin)|Étude Op. 25, No. 12]], on an [[Sébastien Érard|Erard]] piano made in 1851
+ | format       = [[Ogg]]
+ | filename2    = Frederic Chopin - etude no. 12 in c minor, op. 25.ogg
+ | title2       = Modern piano sound
+ | description2 = The same piece, on a modern piano
+ | format2      = [[Ogg]]
+}}
+
+{{details|Innovations in the piano}}
+In the period lasting from about 1790 to 1860, the [[Wolfgang Amadeus Mozart|Mozart]]-era piano underwent tremendous changes that led to the modern form of the instrument. This revolution was in response to a consistent preference by composers and pianists for a more powerful, sustained piano sound, and made possible by the ongoing [[Industrial Revolution]] with technological resources such as high-quality steel, called [[piano wire]], for [[Strings (music)|string]]s, and precision [[Casting (metalworking)|casting]] for the production of [[Cast iron|iron frame]]s. Over time, the tonal range of the piano was also increased from the five [[octave]]s of Mozart's day to the 7¼ or more octaves found on modern pianos.
+
+[[Image:Broadwood grand square action.svg|thumb|left|Broadwood square action]]
+
+Early technological progress owed much to the firm of [[Broadwood and Sons|Broadwood]]. [[John Broadwood]] joined with another Scot, Robert Stodart, and a Dutchman, Americus Backers, to design a piano in the harpsichord case—the origin of the "grand". They achieved this in about 1777.  They quickly gained a reputation for the splendour and powerful tone of their instruments, with Broadwood constructing ones that were progressively larger, louder, and more robustly constructed. They sent pianos to both [[Joseph Haydn]] and [[Ludwig van Beethoven]], and were the first firm to build pianos with a range of more than five octaves: five octaves and a fifth during the 1790s, six octaves by 1810 (Beethoven used the extra notes in his later works), and seven octaves by 1820. The [[Vienna|Viennese]] makers similarly followed these trends, however the two schools used different piano actions: Broadwoods were more robust, Viennese instruments were more sensitive.
+
+[[Image:Erard double pilot action.svg|thumb|right|Erard square action]]
+
+By the 1820s, the center of innovation had shifted to [[Paris]], where the [[Pleyel et Cie|Pleyel]] firm manufactured pianos used by [[Frédéric Chopin]] and the Érard firm manufactured those used by [[Franz Liszt]]. In 1821, [[Sébastien Érard]] invented the double escapement [[Action (piano)|action]], which incorporated a ''repetition lever'' (also called the ''balancier'') that permitted a note to be repeated even if the key had not yet risen to its maximum vertical position. This facilitated rapid playing of repeated notes, and this musical device was pioneered by Liszt. When the invention became public, as revised by [[Henri Herz]], the double escapement action gradually became standard in grand pianos, and is still incorporated into all grand pianos currently produced. 
+
+Other improvements of the mechanism included the use of felt hammer coverings instead of layered leather. Felt, which was first introduced by Henri Pape in 1826, was a more consistent material, permitting wider dynamic ranges as hammer weights and string tension increased. The [[Sostenuto|sostenuto pedal]] ([[Piano#Standard pedals|see below]]), invented in 1844 by [[Jean Louis Boisselot]] and improved by the [[Steinway & Sons|Steinway]] firm in 1874, allowed a wider range of effects.
+
+One of the major technical innovations that helped to create the sound of the modern piano was the use of a strong iron frame. Also called the "plate", the iron frame sits atop the [[Sounding board|soundboard]], and serves as the primary bulwark against the force of string [[Tension (physics)|tension]]. The increased structural integrity of the iron frame allowed the use of thicker, tenser, and more numerous strings.  In a modern grand the total string tension can exceed 20 tons. The single piece cast iron frame was [[patent]]ed in 1825 in [[Boston]] by [[Alpheus Babcock]], combining the metal hitch pin plate (1821, claimed by Broadwood on behalf of Samuel Hervé) and resisting bars (Thom and Allen, 1820, but also claimed by Broadwood and Érard). Babcock later worked for the [[Chickering and Sons|Chickering & Mackays]] firm who patented the first full iron frame for grand pianos in 1843. Composite forged metal frames were preferred by many European makers until the American system was fully adopted by the early 20th century.
+
+Other important advances included changes to the way the piano was strung, such as the use of a "choir" of three strings rather than two for all but the lowest notes, and the implementation of an over-strung scale in which the strings are placed in two separate planes, each with its own [[Bridge (instrument)|bridge]] height. (This is also called "[[cross-stringing]]". Whereas earlier instruments' bass strings were a mere continuation of a single string plane, over-stringing placed the bass bridge behind and to the treble side of the tenor bridge area. This ''crossed'' the strings, with the bass strings in the higher plane.) This permitted a much narrower cabinet at the "nose" end of the piano, and optimized the transition from unwound tenor strings to the iron or copper-wrapped bass strings. Over-stringing was invented by [[Jean-Henri Pape]] during the 1820s, and first patented for use in grand pianos in the [[United States]] by Henry Steinway, Jr. in 1859.
+
+[[Image:DuplexScale.JPG|thumb|Duplex scaling of an 1883 Steinway Model 'A'. From lower left to upper right: main sounding length of strings, treble bridge, duplex string length, duplex bar (nickel-plated bar parallel to bridge), hitchpins, plate strut with bearing bolt, plate hole.]] 
+
+Duplex scaling, patented in 1872 by Theodore Steinway, enhanced the voice of each note by using [[sympathetic resonance|sympathetic vibration]]. Short lengths of non-speaking wire were bridged by the aliquot throughout much of upper range of the piano, always in locations that caused them to vibrate in conformity with their respective overtones—typically in doubled octaves and twelfths. Somewhat similar systems were developed by [[Blüthner]] ([[Aliquot stringing]], 1873), as well as [http://mediatheque.cite-musique.fr/ClientBookLineCIMU/recherche/NoticeDetailleByID.asp?ID=0162147 Taskin] (1788), and [[Collard & Collard|Collard]] (1821). Each used more distinctly ringing, undamped vibrations to modify tone.
+
+Some early pianos had shapes and designs that are no longer in use. The [[square piano]] (not truly square, but rectangular) was cross strung at an extremely acute angle above the hammers, with the keyboard set along the long side. This design is attributed to Gottfried Silbermann or Christian Ernst Friderici on the continent, and [[Johannes Zumpe]] or Harman Vietor in England, and it was improved by changes first introduced by [[Guillaume-Lebrecht Petzold]] in France and [[Alpheus Babcock]] in the United States. Square pianos were built in great numbers through the 1840s in Europe and the 1890s in America, and saw the most visible change of any type of piano: the iron-framed, over-strung squares manufactured by [[Steinway & Sons]] were more than two-and-a-half times the size of Zumpe's wood-framed instruments from a century before. Their overwhelming popularity was due to inexpensive construction and price, although their tone and performance were limited by narrow soundboards, simple actions and string spacing that made proper hammer alignment difficult.
+
+[[Image:Upright piano inside.jpg|thumb|left|The mechanism in upright pianos is perpendicular to the keys.]]
+The tall, vertically strung upright grand was arranged like a grand set on end, with the soundboard and bridges above the keys, and tuning pins below them. The term was later revived by many manufacturers for advertising purposes. Giraffe, pyramid and lyre pianos were arranged in a somewhat similar fashion in evocatively shaped cases.
+
+The very tall cabinet piano was introduced about 1805 and was built through the 1840s. It had strings arranged vertically on a continuous frame with bridges extended nearly to the floor, behind the keyboard and very large ''sticker action''. The short cottage upright or ''pianino'' with vertical stringing, made popular by [[Robert Wornum]] around 1815, was built into the 20th century. They are informally called ''birdcage pianos'' because of their prominent damper mechanism. Pianinos were distinguished from the oblique, or diagonally strung upright made popular in France by [[Blanchet (harpsichord makers)|Roller & Blanchet]] during the late 1820s. The tiny [[spinet]] upright was manufactured from the mid-1930s until recent times. The low position of the hammers required the use of a "drop action" to preserve a reasonable keyboard height.
+
+Modern upright and grand pianos attained their present forms by the end of the 19th century. Improvements have been made in manufacturing processes, and many individual details of the instrument continue to receive attention.
+
+===History and musical performance===
+{{Main|Piano history and musical performance}}
+Much of the most widely admired [[piano repertoire]], for example, that of [[Joseph Haydn|Haydn]], [[Wolfgang Amadeus Mozart|Mozart]], and [[Ludwig van Beethoven|Beethoven]], was composed for a type of instrument (the pianoforte) that is rather different from the modern instruments on which this music is normally performed today. Even the music of the Romantics, including [[Franz Liszt|Liszt]], [[Frédéric Chopin|Chopin]], [[Robert Schumann]], [[Felix Mendelssohn]] and [[Johannes Brahms]], was written for pianos substantially different from modern pianos.
+
+==Modern piano==
+[[Image:Fortepian - schemat.svg|thumb|center|700px|A schematic depiction of the construction of a pianoforte (Part names are listed in the illustration's file)]]
+
+===Types===
+Modern pianos come in two basic configurations (with subcategories): the grand piano and the upright piano.
+
+====Grand====
+{{Fix bunching|beg}}
+[[Image:Piano in Entrance Hall.jpg|thumb|[[Steinway & Sons|Steinway]] grand piano in the [[White House]]]]
+{{Fix bunching|mid}}
+[[Image:Klavier nah offen.jpg|thumb|Upright piano by [[August Förster]]]]
+{{Fix bunching|mid}}
+[[Image:Kawai UST8 Action Wide Photo.JPG|thumb|right|Vertical piano action]]
+{{Fix bunching|end}}
+
+In grand pianos, the frame and strings are horizontal, with the strings extending away from the keyboard. The action lies beneath the strings, and uses gravity as its means of return to a state of rest.
+
+There are many sizes of grand piano. A rough generalization distinguishes the ''concert grand'' (between about 2.2&nbsp;m and 3&nbsp;m/9.84&nbsp;feet long) from the ''parlor grand'' or ''boudoir grand'' (about 1.7&nbsp;m to 2.2&nbsp;m) and the smaller ''baby grand'' (around 1.5&nbsp;m).
+
+All else being equal, longer pianos with longer strings have larger, richer sound and lower [[inharmonicity]] of the strings. Inharmonicity is the degree to which the [[frequency|frequencies]] of [[overtone]]s (known as partials or [[harmonic]]s) sound [[sharp (music)|sharp]] relative to whole multiples of the fundamental frequency. This results from the piano's considerable string stiffness; as a struck string decays its harmonics vibrate, not from their termination, but from a point very slightly toward the center (or more flexible part) of the string. The higher the partial, the further sharp it runs. Pianos with shorter and thicker strings, i.e. small pianos with short string scales, have more inharmonicity. The greater the inharmonicity, the more the ear perceives it as harshness of tone.
+
+Inharmonicity requires octaves to be [[Pseudo-octave|"stretched"]], or tuned to a lower octave's corresponding sharp overtone rather than to a theoretically correct octave. If octaves are not stretched, single octaves sound in tune, but double—and notably triple—octaves are unacceptably narrow. Stretching a small piano's octaves to match its inherent inharmonicity level creates an imbalance among all the instrument's intervallic relationships, not just its octaves. In a concert grand, however, the octave "stretch" retains harmonic balance, even when aligning treble notes to a harmonic produced from three octaves below. This lets close and widespread octaves sound pure, and produces virtually beatless [[perfect fifth]]s. This gives the concert grand a brilliant, singing and sustaining tone quality&mdash;one of the principal reasons that full-size grands are used in the concert hall. Smaller grands satisfy the space and cost needs of domestic use.
+
+====Upright====
+Upright pianos, also called vertical pianos, are more compact because the frame and strings are vertical. The hammers move horizontally, and return to their resting position via springs, which are prone to wear and tear. Upright pianos with unusually tall frames and long strings are sometimes called ''upright grand'' pianos.  Some authors classify modern pianos according to their height and to modifications of the action that are necessary to accommodate the height.
+* ''Studio'' pianos are around 42 to 45&nbsp;inches tall.  This is the shortest cabinet that can accommodate a full-sized action located above the keyboard.
+* ''Console'' pianos have a compact action (shorter hammers), and are a few inches shorter than studio models.
+* The top of a ''[[spinet]]'' model barely rises above the keyboard.  The action is located below, operated by vertical wires that are attached to the backs of the keys.
+* Anything taller than a studio piano is called an ''upright''.
+
+====Other types====
+[[Image:SteinwayWelte1919.jpg|thumb|left|[[Steinway & Sons|Steinway]] player piano]]
+
+The 19th century saw the introduction of the [[toy piano]].
+
+In 1863, [[Henri Fourneaux]] invented the [[player piano]], which plays itself from a [[piano roll]] without the need for a pianist. A machine perforates a performance recording into rolls of paper, and the player piano replays the performance using pneumatic devices. Modern equivalents of the player piano include the [[Bösendorfer]] CEUS and the Yamaha [[Disklavier]], using solenoids and [[MIDI]] rather than pneumatics and rolls.
+
+A [[silent piano]] is an acoustic piano having an option to silence the strings by means of an interposing hammer bar. They are designed for private silent practice.
+
+[[Edward Ryley]] invented the [[transposing piano]] in 1801. It has a lever under the keyboard as to move the keyboard relative to the strings so a pianist can play in a familiar key while the music sounds in a different key.
+
+The [[prepared piano]], present in some contemporary art music, is a piano with objects placed inside it to alter its sound, or has had its mechanism changed in some other way. The scores for music for prepared piano specify the modifications, for example instructing the pianist to insert pieces of rubber, paper, metal screws, or washers in between the strings. These either mute the strings or alter their timbre.
+
+[[Electric piano]]s use electromagnetic [[pickup (music technology)|pickups]] to amplify the sound of the strings. Playing a note loudly causes the electric signal to [[clipping (audio)|clip]], and the player can incorporate the distortion into his or her expressive range.
+
+[[Digital piano]]s use [[sampling (signal processing)|digital sampling]] technology to reproduce the sound of each piano note. Digital pianos can be sophisticated, with features including working pedals, weighted keys, multiple voices, and [[MIDI]] interfaces. However, when one depresses the damper pedal (see below) on such an instrument, there are no strings to [[sympathetic strings|vibrate sympathetically]]. The synthesis software of some higher end digital pianos, such as the [[Yamaha Clavinova]] series, or the [[KAWAI MP8]] series, incorporates [[physical modelling synthesis|physical models]] of sympathetic vibration.
+
+With the advent of powerful desktop computers, highly realistic pianos have become available as affordable software modules. Some of these modules, such as the 2004 [[Synthogy|Synthogy's Ivory]], use multi-gigabyte piano sample sets with as many as 90 recordings, each lasting many seconds, for each of the 88 (some have 81) keys under different conditions. Additional samples emulate sympathetic resonance, key release, the drop of the dampers, and simulations of piano techniques like re-pedaling to augment these conditions. Some other software modules, such as Modartt's 2006 [[Pianoteq]], use no samples whatsoever and are a pure synthesis of all aspects of the physicalities that go into the creation of a real piano's sound.
+
+Today, piano manufactures take advantage of innovative pianos that play themselves via a [[CD]] or [[MP3 player]]. Similar in concept to a player piano, the [[PianoDisc]] or iQ systems allow pianos to "play themselves" when the software interprets a certain file format. Such additions are quite expensive, often doubling the cost of a piano. These pianos are available in both upright and grand.
+
+===Keyboard===
+{{Further|[[Musical keyboard]]}}
+{{redirect|Piano keys|the runway threshold markings|Runway#Runway markings}}
+[[Image:D274.jpg|thumb|Keyboard of a [[Steinway & Sons|Steinway]] grand piano]]
+Almost every modern piano has 36 black keys and 52 white keys for a total of 88 keys (seven [[octave]]s plus a minor third, from A<sub>0</sub> to C<sub>8</sub>). Many older pianos only have 85 keys (seven octaves from A<sub>0</sub> to A<sub>7</sub>), while some manufacturers extend the range further in one or both directions.
+
+Some [[Bösendorfer]] pianos, for example, extend the normal range down to F<sub>0</sub>, with one other model going as far as a bottom C<sub>0</sub>, making a full eight octave range. These extra keys are sometimes hidden under a small hinged lid that can cover the keys to prevent visual disorientation for pianists unfamiliar with the extra keys. On others, the colors of the extra white keys are reversed (black instead of white).
+
+The extra keys are added primarily for increased resonance from the associated strings; that is, they vibrate sympathetically with other strings whenever the damper pedal is depressed and thus give a fuller tone. Only a very small number of works composed for piano actually use these notes. More recently, the [[Stuart & Sons|Stuart and Sons]] company has also manufactured extended-range pianos, with the first 102 key piano. On their instruments, the frequency range extends from C<sub>0</sub> to F<sub>8</sub>, which is the widest practical range for the acoustic piano.  The extra keys are the same as the other keys in appearance.
+
+Small studio upright acoustical pianos with only 65 keys have been manufactured for use by roving pianists. Known as ''gig'' pianos and still containing a cast iron [[harp]], these are comparatively lightweight and can be easily transported to and from engagements by only two people. As their harp is longer than that of a spinet or console piano, they have a stronger bass sound that to some pianists is well worth the trade-off in range that a reduced key-set offers.
+
+The [[toy piano]] manufacturer [[Schoenhut]] started manufacturing both grands and uprights with only 44 or 49 keys, and shorter distance between the keyboard and the pedals. These pianos are true pianos with action and strings. The pianos were introduced to their product line in response to numerous requests in favor of it.
+
+Special editions are keyboards with the [[6-plus-6-instruments|6-plus-6]] system e. g. the [[Janko keyboard|Jankó keyboard]].
+
+===Pedals===
+====Standard pedals====
+{{Main|Piano pedals}}
+[[Image:Piano 3 pedals.jpg|thumb|[[Piano pedals]] from left to right: [[una corda]], [[sostenuto]], and [[sustain pedal]]]]
+Pianos have had pedals, or some close equivalent, since the earliest days. (In the 18th century, some pianos used levers pressed upward by the player's knee instead of pedals.) Most grand pianos in the US have three pedals: the [[soft pedal]] (una corda), sostenuto, and [[sustain pedal]] (from left to right, respectively), while in Europe, the standard is two pedals: the soft pedal and the sustain pedal. Most modern upright pianos also have three pedals: soft pedal, practice pedal and sustain pedal, though older or cheaper models may lack the practice pedal. Again, in Europe the standard for upright pianos is two pedals: the soft and the sustain pedals.
+
+The [[sustain pedal]] (or, damper pedal) is often simply called "the pedal", since it is the most frequently used. It is placed as the rightmost pedal in the group. It lifts the dampers from all keys, sustaining all played notes. In addition, it alters the overall tone by allowing all strings, even the ones not directly played, to reverberate.
+
+The [[soft pedal]] or ''una corda'' pedal is placed leftmost in the row of pedals. In grand pianos it shifts the entire action/keyboard assembly to the right (a very few instruments have shifted left) so that the hammers hit two of the three strings for each note. In the earliest pianos whose unisons were bichords rather than trichords, the action shifted so that hammers hit a single string, hence the name ''una corda'', or 'one string'. The effect is to soften the note as well as change the tone. In uprights this action is not possible; instead the pedal moves the hammers closer to the strings, allowing the hammers to strike with less kinetic energy. This produces a slightly softer sound, but no change in timbre.
+
+On grand pianos, the middle pedal is a [[sostenuto]] pedal. This pedal keeps raised any damper already raised at the moment the pedal is depressed. This makes it possible to sustain selected notes (by depressing the sostenuto pedal before those notes are released) while the player's hands are free to play additional notes (which aren't sustained). This can be useful for musical passages with [[pedal point]]s and other otherwise tricky or impossible situations.
+
+On many upright pianos, there is a middle pedal called the "practice" or ''celeste'' pedal. This drops a piece of felt between the hammers and strings, greatly muting the sounds. Often this pedal can be shifted while depressed, into a "locking" position.
+
+There are also non-standard variants. On some pianos (grands and verticals), the middle pedal can be a bass sustain pedal: that is, when it is depressed, the dampers lift off the strings only in the bass section. Players use this pedal to sustain a single bass note or chord over many measures, while playing the melody in the treble section. On the [[Stuart & Sons|Stuart and Sons]] piano as well as the largest [[Fazioli]] piano, there is a fourth pedal to the left of the principal three. This fourth pedal works in the same way as the soft pedal of an upright piano, moving the hammers closer to the strings.<ref>{{cite web|url=http://www.fazioli.com/eng/quarto_pedale.php|title=Fourth pedal|publisher=[[Fazioli]]|accessdate=2008-04-21 |archiveurl = http://web.archive.org/web/20080416203256/http://www.fazioli.com/eng/quarto_pedale.php <!-- Bot retrieved archive --> |archivedate = 2008-04-16}}</ref>
+
+====Unusual pedals====
+[[Image:Pedal piano 1.JPG|thumb|An upright pedal piano]]
+The rare [[transposing piano]], of which [[Irving Berlin]] possessed an example, has a middle pedal that functions as a [[clutch]] that disengages the keyboard from the mechanism, enabling the keyboard to be moved to the left or right with a lever. The entire action of the piano is thus shifted to allow the pianist to play music written in one key so that it sounds in a different key.
+
+There were three piano companies to include extra pedals other than the standard two or three.  Two of these companies offered a piano with four pedals (Crown and Schubert Piano Co.), and Wing and Son of New York offered a five pedal piano from approximately 1893 through the 1920s.  There is no mention of the company past the 1930s.  Labeled left to right the pedals are Mandolin, Orchestra, Expression, Soft, and Forte (Sustain).  The Mandolin pedal produces a sound similar to a vibrato feel by bouncing a set of small hammers against the strings, enabling the piano to mimic a mandolin, guitar, banjo, zither and harp.  The Orchestra (Orch) pedal used a similar approach, lowering a set of metal tipped felt strips in between the hammers and the strings.  This extended the life of the hammers when the Orch pedal was used, a good idea for practicing, and created an echo-like sound that mimicked playing in an orchestral hall.<ref>{{cite web |url=http://musicaviva.com/encyclopedia/display.html?phrase=piano-with-instrumental-attachments |title=Piano with instrumental attachments |author= |date= |work= |publisher=Musica Viva |accessdate=27 August 2010}}</ref><ref>{{cite web |url=http://www.antiquepianoshop.com/online-museum/wing-son/ |title=Wing & Son |author= |date= |work= |publisher=Antique Piano Shop |accessdate=27 August 2010}}</ref>
+
+The ''pedalier'' piano, or [[pedal piano]], is a rare type of piano that includes a [[Pedal keyboard|pedalboard]], enabling bass register notes to be played with the feet, as is standard on the [[pipe organ|organ]]. There are two types of pedal piano: the pedal board may be an integral part of the instrument, using the same strings and mechanism as the manual keyboard, or, less frequently, it may consist of two independent pianos (each with its separate mechanics and strings), which are placed one above the other, a regular piano played by the hands and a bass-register piano played by the feet.  This was developed primarily as a practice instrument for organists, although there is a small repotoire written specifically for the instrument.
+
+===Construction===
+Many parts of a piano are made of materials selected for strength and longevity.  This is especially true of the outer rim. It is most commonly made of hardwood, typically maple or beech, and its massiveness serves as an essentially immobile object from which the flexible soundboard can best vibrate. According to Harold A. Conklin,<ref>{{cite web |url=http://www.speech.kth.se/music/5_lectures/conklin/thepianocase.html |title=The piano case |author= |year=1990 |work=Five lectures on the Acoustics of the piano |publisher=[[Royal Swedish Academy of Music]] |accessdate=30 August 2010}}</ref> the purpose of a sturdy rim is so that "the vibrational energy will stay as much as possible in the soundboard instead of dissipating uselessly in the case parts, which are inefficient radiators of sound." 
+
+Yet Bösendorfer, the Austrian manufacturer of extremely high quality pianos, constructs their rim from spruce, the very same wood that the soundboard is made from. Their idea is to concertedly involve the cabinet in the projection and coloration of sound. The ''loss'' of energy into the Bösendorfer case alters the instrument's tone, giving it perhaps less power but a complex and unusually resonant sound.
+
+[[Image:SoundboardBracesRibs.jpg|thumb|left|View from below of a 182-cm grand piano. In order of distance from viewer: softwood braces, tapered soundboard ribs, soundboard. The metal rod at lower right is a humidity control device.]]
+
+The finest hardwood rims are made by laminating thin (hence flexible) strips of hardwood, bending them to the desired shape immediately after the application of glue. This system was developed by Theodore Steinway in 1880. The thick wooden posts on the underside (grands) or back (uprights) of the piano stabilize the rim structure, and are made of softwood for stability. The requirement of structural strength, fulfilled by stout hardwood and thick metal, makes a piano heavy; even a small upright can weigh 136&nbsp;kg (300&nbsp;lb), and the [[Steinway & Sons|Steinway]] concert grand (Model D) weighs 480&nbsp;kg (990&nbsp;lb). The largest piano built, the [[Fazioli]] F308, weighs 691&nbsp;kg (1520&nbsp;lb).
+
+The pinblock, which holds the tuning pins in place, is another area of the piano where toughness is important. It is made of hardwood, (typically hard [[maple]] or [[beech]]), and is laminated for strength, stability and longevity. Piano strings (also called [[piano wire]]), which must endure years of extreme tension and hard blows, are made of high carbon steel. They are manufactured to vary as little as possible in diameter, since all deviations from uniformity introduce tonal distortion. The bass strings of a piano are made of a steel core wrapped with copper wire, to increase their mass whilst retaining flexibility. If all strings throughout the piano's compass were individual (monochord), the massive bass strings would overpower the upper ranges.  Makers compensate for this with the use of double (bichord) strings in the tenor and triple (trichord) strings throughout the treble. 
+
+[[Image:Fluegel-Rahmen.jpg|thumb|upright|[[Cast iron]] plate of a [[Steinway & Sons|Steinway]] grand piano]]
+The plate, or metal frame, of a piano is usually made of [[cast iron]]. It is advantageous for the plate to be very massive. Since the strings vibrate from the plate at both ends, vibrations absorbed by the plate result in energy loss to the desired (efficient) sound transmission channel, namely the bridge and the soundboard. While some manufacturers use cast steel in their plates, most prefer cast iron. Cast iron is easy to cast and machine, has flexibility sufficient for piano use, is much more resistant to deformation than steel, and is especially tolerant of compression. Plate casting is a delicate art, since dimensions are crucial and the iron shrinks by about one percent during cooling.
+
+Including an extremely large piece of metal in a piano is potentially an aesthetic handicap. Piano makers overcome this by polishing, painting, and decorating the plate. Plates often include the manufacturer's ornamental medallion. In an effort to make pianos lighter, [[Alcoa]] worked with Winter and Company piano manufacturers to make pianos using an [[aluminum piano plate|aluminum plate]] during the 1940s. Aluminum piano plates, however, were not widely accepted,  and were discontinued.
+
+The numerous grand parts and upright parts of a piano action are generally [[hardwood]], e.g., [[maple]], [[beech]], or [[hornbeam]]. However, since World War II, makers have used some [[plastics]]. Early plastics were incorporated into some pianos in the late 1940s and 1950s, but proved disastrous because they crystallized and lost their strength after only a few decades of use. The [[Steinway & Sons|Steinway]] firm once incorporated [[polytetrafluoroethylene|Teflon]], a synthetic material developed by [[DuPont]], for some grand action parts in place of cloth, but ultimately abandoned the experiment due to excessive friction and an inherent "clicking" that invariably developed over time. (Teflon is "humidity stable" whereas the wood adjacent to the Teflon swells and shrinks with humidity changes, causing problems.) More recently, the [[Kawai]] firm built pianos with action parts made of more modern materials such as [[carbon fiber reinforced plastic]], and the piano parts manufacturer Wessell, Nickel and Gross has launched a new line of carefully-engineered composite parts. Thus far these parts have performed reasonably, but it will take decades to know if they will match the longevity of wood.
+
+In all but the poorest pianos the [[sounding board|soundboard]] is made of solid [[spruce]] (that is, spruce boards glued together along the side grain). Spruce's high ratio of strength to weight minimizes [[acoustic impedance]] while offering strength sufficient to withstand the downward force of the strings. The best piano makers use quarter-sawn, defect-free spruce of close annular grain, carefully seasoning it over a long period of time before making it into soundboards. Cheap pianos often have [[plywood]] soundboards.
+
+In the early years of piano construction, keys were commonly made from sugar pine. Today they are likely to be made of spruce or [[basswood]]. Spruce is typically used in high-quality pianos. The black keys were traditionally made from [[ebony]] and the white keys were covered with strips of [[ivory]], but since ivory-yielding species are now endangered and protected by treaty, plastics are now almost exclusively used. Also, ivory tends to chip more easily than plastic. Legal ivory can still be obtained in limited quantities. The [[Yamaha Corporation|Yamaha]] firm invented a plastic called "Ivorite" that they claim mimics the look and feel of ivory; it has since been imitated by other makers.
+
+===Care and maintenance===
+{{Main|Care and maintenance of pianos|Piano tuning}}
+[[Image:Moritz von Schwind Schubertiade.jpg|thumb|The piano at the social center in the 19th century ([[Moritz von Schwind]], 1868). The man at the piano is [[Franz Schubert]].]]Pianos need regular tuning to keep them up to pitch, which is usually the internationally recognized standard concert pitch of [[A440|A4]]&nbsp;=&nbsp;440&nbsp;Hz. The hammers of pianos are voiced to compensate for gradual hardening, and other parts also need periodic regulation. Aged and worn pianos can be rebuilt or reconditioned. Often, by replacing a great number of their parts, they can be made to perform as well as new pianos. Older pianos are often more settled and produce a warmer tone.{{Citation needed|date=October 2008}}
+
+Piano moving should be done by trained piano movers using adequate manpower and the correct equipment for any particular piano's size and weight.{{Citation needed|date=June 2008}} Pianos are heavy yet delicate instruments. Over the years, professional piano movers have developed special techniques for transporting both grands and uprights, which prevent damage to the case and to the piano's mechanics.
+
+===Tuning===
+{{Main|Piano tuning}}
+[[Image:Piano tuner.jpg|thumb|A [[piano tuning|piano tuner]]]]The relationship between two pitches, called an [[Interval (music)|interval]], is the ratio of their absolute [[Frequency|frequencies]]. Two different intervals are perceived as the same when the pairs of pitches involved share the same frequency ratio. The easiest intervals to identify, and the easiest intervals to tune, are those that are [[Just intonation|just]], meaning they have a simple whole-number ratio. The term ''[[Musical temperament|temperament]]'' refers to a tuning system that tempers the [[Just intonation|just intervals]] (usually the [[perfect fifth]], which has the ratio 3:2) to satisfy another mathematical property; in equal temperament, a fifth is tempered by narrowing it slightly, achieved by flattening its upper pitch slightly, or raising its lower pitch slightly. A temperament system is also known as a set of '''bearings'''.
+
+Tempering an interval causes it to [[Beat (acoustics)|beat]], which is a fluctuation in perceived sound intensity due to interference between close (but unequal) pitches. The rate of beating is equal to the frequency differences of any harmonics that are present for both pitches and that coincide or nearly coincide.
+
+'''Piano tuning''' is the act of adjusting the tensions of the piano's strings, thereby aligning the intervals among their tones so that the instrument is [[Musical tuning|in tune]]. The meaning of the term ''in tune'' in the context of piano tuning is not simply a particular fixed set of [[Pitch (music)|pitches]]. Fine piano tuning carefully assesses the interaction among all notes of the chromatic scale, different for every piano, and thus requires slightly different pitches from any theoretical standard. Pianos are usually tuned to a modified version of the system called [[equal temperament]] (''see [[Piano key frequencies]] for the theoretical piano tuning''). In all systems of tuning, each pitch is derived from its relationship to a chosen fixed pitch, usually [[A440]].<ref>[[Piano tuning]]</ref>
+
+===Physics===
+When the key is struck, a chain reaction occurs to produce the sound. First, the key raises the wippen, which forces the jack against the hammer roller (or "knuckle"). The hammer roller then lifts the lever carrying the hammer. The key also raises the damper; and immediately after the hammer strikes the wire it falls back, allowing the wire to resonate. When the key is released the damper falls back onto the strings, stopping the wire from vibrating.<ref>Macaulay, David. The New How Things Work. From Levers to Lasers, Windmills to Web Sites, A Visual guide to the World of Machines. Houghton Mifflin Company. United States. 1998. ISBN 0-395-93847-3. pp. 26-27.</ref>  The vibrating piano strings themselves are not very loud, but their vibrations are transmitted to a large soundboard that moves air and thus converts the energy to sound. The irregular shape and off-center placement of the bridge ensures that the soundboard vibrates strongly at all frequencies.<ref name="physics.odu.edu">[http://www.physics.odu.edu/~hyde/Teaching/Phys332_Wk13.ppt Physics of the Piano by the Piano Tuners Guild]</ref> (See [[Piano action]] for a diagram and detailed description of piano parts.)
+
+There are three factors that influence the pitch of a vibrating wire. 
+
+* Length: All other factors the same, the shorter the wire, the higher the pitch. 
+* Thickness: All other factors the same, the thinner the wire, the higher the pitch. 
+* Tension: All other factors the same, the tighter the wire, the higher the pitch. 
+
+A vibrating wire subdivides itself into many parts vibrating at the same time. Each part produces a pitch of its own, called a partial. A vibrating string has one fundamental and a series of partials. The most pure combination of two pitches is when one is double the frequency of the other.<ref>Reblitz, Arthur A. Piano Servicing, Tuning, and Rebuilding. For the Professional, the student, and the Hobbyist. Vestal Press, Lanham Maryland. 1993. ISBN 1-879511-03-7 Pp. 203-215. Piano Servicing, Tuning, and Rebuilding. For the Professional, the student, and the Hobbyist.</ref>
+
+For a repeating wave, the velocity, ''v'', equals the wavelength, ''λ'', times the frequency, ''f''.
+
+''v = λf''
+
+On the piano string, waves reflect from both ends. The superposition of reflecting waves results in a standing wave pattern, but only for wavelengths λ = 2L, L, L/2, … = 2L/n, where L is the length of the string. Therefore the only frequencies produced on a single string are ''f'' = n''v''/(2L). Timbre is largely determined by the content of these harmonics. Different instruments have different harmonic content for the same pitch. A real string vibrates at harmonics that are not perfect multiples of the fundamental. This results in a little [[inharmonicity]], which gives richness to the tone but causes significant tuning challenges throughout the compass of the instrument.<ref name="physics.odu.edu"/>
+
+Striking the piano key with greater force increases the amplitude of the waves and therefore the volume. From ''pianissimo'' (''pp'') to ''fortissimo'' (''ff'') the hammer velocity changes by almost a factor of a hundred. The hammer contact time with the string shortens from 4 ms at ''pp'' to less than 2 ms at ''ff''.<ref name="physics.odu.edu"/> If two wires adjusted to the same pitch are struck at the same time, the sound produced by one reinforces the other, and a louder combined sound of shorter duration is produced.  If one wire vibrates out of synchronization with the other, they subtract from each other and produce a softer tone of longer duration.<ref>Reblitz, Arthur A. Piano Servicing, Tuning, and Rebuilding. For the Professional, the student, and the Hobbyist. Vestal Press, Lanham Maryland. 1993. ISBN 1-879511-03-7 Pp. 203-215.</ref>
+
+==Well-known piano makers==
+<!-- Please do not add makers who do not have their own Wikipedia article -->
+
+Well-known piano makers are (in alphabetical order): [[Baldwin]], [[C. Bechstein Pianofortefabrik|Bechstein]], [[Blüthner]], [[Bösendorfer]], [[Broadwood and Sons|Broadwood]], [[Fazioli]], [[Feurich]], [[August Förster|Förster]], [[Heintzman]], [[Kawai]], [[Mason & Hamlin]], [[Petrof]], [[Pleyel et Cie|Pleyel]], [[Samick]], [[Wilhelm Schimmel|Schimmel]], [[Steingraeber & Söhne]], [[Steinway & Sons]], [[Stuart & Sons]] and [[Yamaha]].
+[[File:Samuelpost-BachBMajor.ogg|thumb|A pianist playing Prelude and Fugue No. 23 in B major (BWV 868) from [[Johann Sebastian Bach|Bach]]'s ''[[The Well-Tempered Clavier]]'' on a grand piano.]]
+
+==Role==
+{{See also|Social history of the piano}}
+The piano is a crucial instrument in Western [[European classical music|classical music]], [[jazz]], [[Film music|film]], [[television]], and most other complex western musical genres. A large number of [[composer]]s are proficient [[pianists]]—and because the piano keyboard offers an easy means of complex melodic and harmonic interplay—the piano is often used as a tool for composition.
+
+Pianos were, and still are, popular instruments for private household ownership.  Hence, pianos have gained a place in the popular consciousness, and are sometimes referred to by nicknames including: "the ivories", "the joanna", "the eighty-eight", "the black(s) and white(s)", and "the little joe(s)". Playing the piano is sometimes referred to as "tickling the ivories".
+
+==See also==
+{{Portal box|Piano|Music}}
+{{Col-begin}}
+{{Col-4}}
+;General
+* [[Jazz piano]]
+* [[Musica Obscura]]
+* [[Piano extended technique]]
+* [[Piano transcription]]
+* [[Piano trio]]
+* [[PianoForte Foundation]]
+* [[Street piano]]
+* [[String piano]]
+
+
+
+
+{{Col-4}}
+;Technical
+* [[Agraffe]]
+* [[Aliquot stringing]]
+* [[Piano acoustics]]
+* [[Sounding board]]
+
+{{Col-4}}
+;Related lists
+* [[List of classical pianists (recorded)]]
+* [[List of films about pianists]]
+* [[List of piano brand names]]
+* [[List of piano makers]]
+* [[:Category:Piano compositions|Piano compositions category]]
+
+{{Col-4}}
+;Related instruments
+* [[Electric piano]]
+* [[Electronic keyboard]]
+* [[Electronic piano]]
+* [[Harmonichord]]
+* [[Keyboard instruments]]
+* [[Keytar]]
+* [[Organ (music)|Organ]] and [[Pipe organ]]
+
+{{Col-5}}
+;Other
+−[[Pianos]]
+−[[Pianist]]
+
+{{Col-end}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+* The authoritative ''[[New Grove Dictionary of Music and Musicians]]'' (available online by subscription), contains a wealth of information. Main article: "Pianoforte".
+* The ''[[Encyclopædia Britannica]]'' (available online by subscription) also includes much information on the piano. In the 1988 edition, the primary article can be found in "Musical Instruments".
+* <cite>The Piano Book</cite> by Larry Fine (4th ed. Jamaica Plain, Massachusetts: Brookside Press, 2001; ISBN 1-929145-01-2) gives the basics of how pianos work, and a thorough evaluative survey of current pianos and their manufacturers. It also includes advice on buying and owning pianos.
+*''Giraffes, black dragons, and other pianos: a technological history from Cristofori to the modern concert grand'' by Edwin M. Good (1982, second ed., 2001, Stanford, Calif.: [[Stanford University Press]]) is a standard reference on the history of the piano.
+*''The Early Pianoforte'' by Stewart Pollens (1995, Cambridge: [[Cambridge University Press]]) is an authoritative work covering the ancestry of the piano, its invention by Cristofori, and the early stages of its subsequent evolution.
+
+==Further reading==
+* {{cite book | title = Music Fundamentals | first = Rod| last = Schejtman | publisher = The Piano Encyclopedia | year = 2008 | isbn = 978-987-25216-2-2 | url = http://www.pianoencyclopedia.com}}
+* {{cite book | title = The pianist's guide to pedaling | first = Joseph | last = Banowetz | coauthors = Elder, Dean | location = Bloomington | publisher = Indiana University Press | year = 1985 | isbn = 0-253-34494-8}}
+* {{cite book | title = The Piano Shop on the Left Bank | first = Thad | last = Carhart | publisher = Random House | location = New York | year = 2002 | origyear = 2001 | isbn = 0-375-75862-3}}
+* {{cite book | title = The Piano Book: Buying and Owning a New or Used Piano (4th edition) | first = Larry | last = Fine | coauthors = Gilbert, Douglas R | publisher = Brookside Press | location = Jamaica Plain, MA | year = 2001 | isbn = 1-929145-01-2 | url = http://pianobook.com}}
+* {{cite book | title = Van Piano tot Forte (The History of the Early Piano) | first = Christo | last = Lelie | publisher = Kok-Lyra | location = Kampen | year = 1995}} {{nl icon}}
+* {{cite book | title = Men, Women, and Pianos: A Social History | first = Arthur | last = Loesser | origyear = 1954 | year = 1991 | location = New York | publisher = Dover Publications}}
+* {{cite book | title = Piano roles : three hundred years of life with the piano | first = James | last = Parakilas | location = New Haven, Connecticut | publisher = [[Yale University Press]] | year = 1999 | isbn = 0-300-08055-7}}
+* {{cite book | title = Piano Servicing, Tuning and Rebuilding: For the Professional, the Student, and the Hobbyist | first = Arthur A. | last = Reblitz | year = 1993 | location = Vestal, NY | publisher = Vestal Press | isbn = 1-879511-03-7}}
+
+==External links==
+{{Sisterlinks|piano}}
+<!--========================({{No More Links}})============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. WIKIPEDIA  |
+    | IS NOT A COLLECTION OF LINKS NOR SHOULD IT BE USED FOR ADVERTISING. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    =======================({{No More Links}})=====================-->
+* [http://www.ptg.org/ The Piano Page]
+* [http://www.uk-piano.org/history/history.html History of the Piano Forte], Association of Blind Piano Tuners, UK
+* [http://www.frederickcollection.org/collection.html The Frederick Historical Piano Collection]
+* [http://www.metmuseum.org/toah/hd/cris/hd_cris.htm  The Pianofortes of Bartolomeo Cristofori, Heilbrunn Timeline of Art History, The Metropolitan Museum of Art]
+
+{{Percussion}}
+
+[[Category:Piano| ]]
+[[Category:Composite chordophones]]
+[[Category:Italian inventions]]
+[[Category:Keyboard instruments]]
+[[Category:Percussion instruments]]
+
+{{link FA|es}}
+{{Link FA|eo}}
+
+[[af:Klavier]]
+[[am:ፒያኖ]]
+[[ar:بيانو]]
+[[an:Piano]]
+[[az:Pianino]]
+[[bn:পিয়ানো]]
+[[zh-min-nan:Kǹg-khîm]]
+[[be:Фартэпіяна]]
+[[be-x-old:Фартэпіяна]]
+[[bo:རྣོ་སྦྲེང་།]]
+[[bs:Klavir]]
+[[bg:Пиано]]
+[[ca:Piano]]
+[[ceb:Pyano]]
+[[cs:Klavír]]
+[[cy:Piano]]
+[[da:Klaver]]
+[[de:Klavier]]
+[[et:Klaver]]
+[[el:Πιάνο]]
+[[es:Piano]]
+[[eo:Piano]]
+[[eu:Piano]]
+[[fa:پیانو]]
+[[hif:Piano]]
+[[fr:Piano]]
+[[fy:Piano]]
+[[ga:Pianó]]
+[[gl:Piano]]
+[[ko:피아노]]
+[[hi:पियानो]]
+[[hr:Glasovir]]
+[[io:Piano]]
+[[id:Piano]]
+[[zu:Ipiyano]]
+[[is:Píanó]]
+[[it:Pianoforte]]
+[[he:פסנתר]]
+[[kn:ಪಿಯಾನೋ]]
+[[ka:ფორტეპიანო]]
+[[sw:Piano]]
+[[la:Clavile]]
+[[lv:Klavieres]]
+[[lb:Piano]]
+[[lt:Pianinas]]
+[[jbo:pipno]]
+[[hu:Zongora]]
+[[mk:Клавир]]
+[[ml:പിയാനോ]]
+[[mr:पियानो]]
+[[ms:Piano]]
+[[nah:Pianotli]]
+[[nl:Piano (instrument)]]
+[[nds-nl:Tengeltangel]]
+[[ja:ピアノ]]
+[[no:Piano]]
+[[nn:Piano]]
+[[oc:Piano]]
+[[pnb:پیانو]]
+[[tpi:Piano]]
+[[pl:Fortepian]]
+[[pt:Piano]]
+[[ro:Pian]]
+[[qu:Yatana qallwa]]
+[[ru:Фортепиано]]
+[[stq:Klavier]]
+[[sq:Pianoja]]
+[[scn:Chianuforti]]
+[[simple:Piano]]
+[[sk:Klavír]]
+[[sl:Klavir]]
+[[sr:Клавир]]
+[[sh:Klavir]]
+[[fi:Piano]]
+[[sv:Piano]]
+[[tl:Piyano]]
+[[ta:பியானோ]]
+[[th:เปียโน]]
+[[chr:ᎤᏔᏅ ᏗᎧᏃᎩᏍᏗ]]
+[[tr:Piyano]]
+[[uk:Фортепіано]]
+[[ug:پىئانىنو]]
+[[vi:Dương cầm]]
+[[war:Pyano]]
+[[zh-yue:鋼琴]]
+[[bat-smg:Pianėns]]
+[[zh:钢琴]]

@@ -1,0 +1,799 @@
+{{Dablink|This article is about the Asia-Pacific theatre of World War II. For the war between Chile, Bolivia, and Peru in 1879–84, see [[War of the Pacific]]. For other uses, see [[Pacific War (disambiguation)]]}}
+{{Fix bunching|beg}}
+{{Infobox military conflict
+|conflict=Pacific War
+|partof=[[World War II]]
+|image=[[Image:US landings.jpg|300px]] <!-- This map used again lower down. Delete/replace one? -->
+|caption=A map showing the main areas of the conflict and Allied landings in the Pacific, 1942–45.
+|date=7 December 1941 – 2 September 1945
+|place=East Asia, South Asia, the [[Western Pacific Ocean]], its islands and neighboring countries, and part of the [[Indian Ocean]] for a short time.
+|territory=
+|result=Decisive [[Allies of World War II|Allied victory]]<br>End of World War II.
+* Fall of the [[Empire of Japan]].
+* Continuation of [[Chinese Civil War]].
+* Substantial weakening of European [[colonialism|colonial powers]], gradual [[decolonization]] of Asia (including the [[Indonesian National Revolution]] and the [[First Indochina War]])
+|territory= [[American occupation of Japan]]. The removal of all Japanese troops occupying parts of the [[Republic of China]]. The retrocession of [[Taiwan]] to China. The liberation of [[Korea]] and [[Manchuria]] from Japanese rule. The secession of all Japanese-held islands in the [[Pacific Ocean|Central Pacific Ocean]], such as the [[Marianas Islands]], the [[Marshall Islands]], the [[Caroline Islands]], and the [[Palau Islands]] to the [[United Nations]]. The removal of all Japanese troops from the [[Australia]]n-governed [[Solomon Islands]], [[Papua New Guinea]], the [[Admiralty Islands]], and the [[Bismarck Archipelago]].
+<!-- Check the discussion page before modifying the combatants - there is a consensus that minor participants in the war should not be included here -->
+|combatant1='''[[Allies of World War II|Major Allied combatants]]'''{{#tag:ref|Complete list of nations which fought on the Allied side in the Pacific War (including lesser contributors): The [[Republic of China]], The United States, The United Kingdom (including the [[Colonial Fiji#Fiji in World War II|Fiji Islands]], [[Participants in World War II#Hong Kong|Hong Kong]], the [[Straits Settlements Volunteer Force|Straits Settlements]] and [[British Empire|other colonial forces]]), [[Tonga Defence Services#History of Tonga Armed Forces|Tonga]] (a British protectorate), Australia (including the [[Territory of New Guinea]]), the [[Commonwealth of the Philippines]] (under the protection of the United States), [[British Raj|British India]], the [[Netherlands]] (including colonial forces from the [[Dutch East Indies]]), the [[Soviet Union]], [[Military history of New Zealand in World War II#Campaigns in the Pacific|New Zealand]], [[Military history of Canada during the Second World War#Early campaigns|Canada]], [[Mexico in World War II|Mexico]], and [[Participants in World War II#Mongolia|Mongolia]]. [[Vichy France|Vichy French]] forces briefly resisted the Japanese in Indochina in 1940 and 1945, and some also [[Franco-Thai War|fought against Thailand]] in 1940. As a supporter of the [[Axis Powers]], the Vichy regime allowed the Japanese to use bases in [[French Indochina]] beginning in 1941. [[Free French Naval Forces]] contributed to Allied effort with several [[warship]]s, such as the ''[[Triomphant]]'' or the ''[[Savorgnan-de-Brazza]]''. After the [[Liberation of France]], the French battleship [[French battleship Richelieu|''Richelieu'']] was sent to the Pacific. The main allies against the Japanese Empire are listed in this reference.<ref>[http://avalon.law.yale.edu/20th_century/decade19.asp The Avlon Project: A Decade of American Foreign Policy 1941-1949 Interim Meeting of Foreign Ministers, Moscow]. Retrieved on 30 September 2009.</ref>
+<br />
+Guerrilla Organizations which fought for the Allies include [[Chinese Red Army]], ''[[Hukbalahap]]'', [[Malayan People's Anti-Japanese Army]], Manchurian [[Anti-Japanese Volunteer Armies]], the [[Korean Liberation Army]], and the ''[[Viet Minh]]''
+|group=nb}}<ref name = "Philippine Commonwealth">[http://avalon.law.yale.edu/20th_century/decade19.asp A Decade of American Foreign Policy 1941-1949 Interim Meeting of Foreign Ministers, Moscow]. Retrieved 30 September 2009.</ref>
+{{flag|United States|1912|name=United States}}
+*{{Flag icon|Philippines|1919}} [[Commonwealth of the Philippines]]
+{{flag|Republic of China}}<br />
+{{flag|United Kingdom}}
+*{{Flag icon|Malaysia|1895|name=British Malaya}} [[British Malaya]]
+*{{flag|British Raj|name=British India}}
+{{flag|Australia}}<br />
+{{flag|Soviet Union|1923}}<br>
+{{flag|Netherlands}}
+*{{Flag icon|Netherlands}} [[Dutch East Indies]]
+|combatant2= '''[[Axis powers|Major Axis combatants]]'''{{#tag:ref|Complete list of nations and groups which fought on the Axis side in the Pacific War (including lesser contributors): The [[Empire of Japan]] (including [[Taiwan under Japanese rule]] and [[Korea under Japanese rule]], [[Axis powers#Thailand|Thailand]] (temporarily), the puppet government of [[Manchukuo]] ([[Manchuria]]), [[Mengjiang]], [[Wang Jingwei regime]], and other Chinese collaborationist governments and organizations, [[State of Burma|Ba Maw Regime]], the [[Arzi Hukumat-e-Azad Hind|Provisional Government of Free India]], the puppet [[Second Philippine Republic]], [[Template:German auxiliary cruiser|Germany]], and other states in the [[Greater East Asia Co-Prosperity Sphere]]).|group=nb}} <br />
+{{flag|Empire of Japan|name=Empire of Japan}}<br/>
+*{{flag|Manchukuo}}
+*[[File:Flag of the Republic of China-Nanjing (Peace, Anti-Communism, National Construction).svg|22px]] [[Wang Jingwei regime]]
+*{{flag icon|Philippines|1943}} [[Second Philippine Republic]]<br />
+{{flag|Thailand}}<br/>
+{{flagicon|India|1931}} [[Arzi Hukumat-e-Azad Hind]]
+|commander1=
+{{Flag icon|USA|1912}} [[Chester W. Nimitz]]<br>
+{{Flag icon|USA|1912}} [[Douglas MacArthur]]<br>
+{{Flag icon|USA|1912}} [[George C. Marshall]]<br>
+{{Flag icon|USA|1912}} [[Ernest J. King]]<br>
+{{Flag icon|USA|1912}} [[Henry H. Arnold]]<br>
+{{Flag icon|USA|1912}} [[Alexander Vandergrift|Alexander "Archie" Vandergrift]]<br>
+{{Flag icon|ROC}} [[Chiang Kai-shek]]<br>
+{{Flag icon|ROC}} [[Chen Cheng]]<br>
+{{Flag icon|ROC}} [[He Yingqin]]<br>
+{{Flag icon|ROC}} [[Sun Liren]]<br>
+{{Flag icon|UK}} [[Archibald Wavell, 1st Earl Wavell|Archibald Wavell]]<br>
+{{Flag icon|UK}} [[Louis Mountbatten]]<br>
+{{Flag icon|Australia}} [[Thomas Blamey]]<br>
+{{Flag icon|Soviet Union|1923}} [[Aleksandr Vasilevsky]]<br>
+{{Flag icon|Netherlands}} [[Hein ter Poorten]]
+|commander2=
+{{Flag icon|Empire of Japan}} [[Prince Kan'in Kotohito|Kotohito Kan'in]]<br>
+{{Flag icon|Empire of Japan}} [[Hajime Sugiyama]]<br>
+{{Flag icon|Empire of Japan}} [[Hideki Tojo]]<br>
+{{Flag icon|Empire of Japan}} [[Isoroku Yamamoto]]<br>
+{{Flag icon|Empire of Japan}} [[Yoshijirō Umezu]]<br>
+{{Flag icon|Empire of Japan}} [[Osami Nagano]]<br>
+{{Flag icon|Empire of Japan}} [[Shigetarō Shimada]]<br>
+{{Flag icon|Empire of Japan}} [[Koshirō Oikawa]]<br>
+{{Flag icon|Thailand}} [[Plaek Pibulsonggram]]<br>
+{{Flag icon|Manchukuo}} [[Zhang Jinghui]]<br>
+{{Flag icon|India|1931}} [[Subhas Chandra Bose]]
+|strength1=
+|strength2=
+|casualties1=≈? military casualties{{#tag:ref|3.8 million Chinese military casualties 1937-45 (3.2 million Nationalist/-allied and 580,000 Communist),<ref name="Chinese People Contribute to WWII">{{cite web|title=Chinese People Contribute to WWII|url=http://www.china.org.cn/english/features/celebrations/128172.htm|accessdate=2009-04-23}}</ref> 354,523 United States casualties (106,207 killed, 248,316 wounded and missing),<ref>[http://www.nationalww2museum.org/education/education_numbers.html The National World War II Museum, New Orleans]{{dead link|date=October 2010}}</ref> 52,000 British casualties including 12,000 deaths in captivity,{{Citation needed|date=July 2009}} 86,838 British Indian casualties (this casualty figure is for all theatres of World War Two that Indian troops fought in),<ref name=dower>Dower, John W (1987), ''War Without Mercy: Race and Power in the Pacific War''. Pantheon</ref>{{Page needed|date=September 2010}} 17,501 Australian casualties,<ref>{{Cite book|last=Dear, I.C.B and Foot, M.R.D. (editors)|title=The Oxford Companion to World War II|editor=|publisher=Oxford University Press|location=Oxford|year=2005|page=66|chapter=Australia|isbn=9780192806703}}</ref>{{Page needed|date=September 2010}} 57,000 casualties from the Philippine Commonwealth,{{Citation needed|date=July 2009}} around 9,400 Dutch casualties including 8,500 who died in captivity (likely not including colonial forces),{{Citation needed|date=July 2009}} 578 New Zealander casualties,<ref>{{cite web|url=http://www.beehive.govt.nz/speech/honouring+nz039s+pacific+war+dead |title=Honouring NZ's Pacific War dead |publisher=Beehive |date=2005-08-15 |accessdate=2010-10-31}}</ref> 63,225 Soviet casualties (20,797 killed and missing, 42,428 wounded and sick), 5000 French military casualties in Indochina, 300 Mongolian casualties<ref>{{cite web|title=Russia and USSR in Wars of XX century|url=http://www.soldat.ru/doc/casualties/book/chapter5_10_1.html#5_10_51|accessdate=2008-07-11|publisher=И.И.Ивлев |archiveurl = http://web.archive.org/web/20080505031426/http://www.soldat.ru/doc/casualties/book/chapter5_10_1.html#5_10_51 <!-- Bot retrieved archive --> |archivedate = 2008-05-05}}</ref> and 5 Mexican deaths <ref>{{cite web|title=Leyte Gulf: The Mexican Air Force|url=http://www.avalanchepress.com/MexicanAirForce.php}}</ref> [[Malaria]] was the most important health hazard encountered by U.S. troops in
+the South Pacific during World War II, where about 500,000 men were infected.<ref>"''[http://books.google.com/books?id=XhNYUkgX0rQC&pg=PA51&dq&hl=en#v=onepage&q=&f=false Science and the Pacific War: science and survival in the Pacific, 1939-1945]''". Roy M. MacLeod (2000). p.51. ISBN 0792358511</ref> |group=nb}} <br />
+≈ ? million civilian casualties{{#tag:ref|Over 17 million Chinese civilian deaths 1937-45,<ref name="Chinese People Contribute to WWII"/> around 4 million civilian deaths from the Dutch East Indies,<ref name=dower/>{{Page needed|date=September 2010}}, two million Indochinese civilians,<ref>{{cite web|url=http://mailman.anu.edu.au/pipermail/hepr-vn/2008-August/000188.html |title="Vietnam needs to remember famine of 1945" |publisher=Mailman.anu.edu.au |date= |accessdate=2010-10-31}}</ref> around 1.5 million British Indian civilian deaths, 1/2 to one million Filipino civilian and hundreds of thousands of Burmese, Malayan, Pacific etc. civilian deaths.<ref name=dower/>{{Page needed|date=September 2010}}|group=nb}}
+|casualties2=≈? Japanese military deaths {{#tag:ref|2,133,915 Japanese military deaths 1937-45,<ref>Bren, John (2005-06-03) [http://japanfocus.org/-John-Breen/2060 "Yasukuni Shrine: Ritual and Memory"] ''Japan Focus''. Retrieved on 2009-06-05.</ref> 1.18 million Chinese collaborator casualties 1937-45 (432.000 dead),{{Citation needed|date=July 2009}} 22,000 Burmese casualties,{{Citation needed|date=July 2009}} 5,600 Thai casualties,{{Citation needed|date=July 2009}} and 2,615 Indian casualties.{{Citation needed|date=July 2009}}|group=nb}}
+~960,000+ civilian casualties{{#tag:ref|580,000 Japanese civilian deaths,<ref name=dower/>{{Page needed|date=September 2010}}, 378,000 Korean and 300 Thai civilian deaths.{{Citation needed|date=July 2009}}|group=nb}}
+}}
+{{Fix bunching|mid}}
+{{Campaignbox World War II}}
+{{Fix bunching|mid}}
+{{Campaignbox Pacific War}}
+{{Fix bunching|end}}
+
+The '''Pacific War''', also sometimes called the '''Asia-Pacific War'''<ref>Williamson Murray, Allan R. Millett [http://books.google.com/books?id=tdYkMPfUSUAC&pg=PT159 A war to be won: fighting the Second World War], Harvard University Press, 2001, page 143</ref> refers broadly to the parts of [[World War II]] that took place in the [[Pacific Ocean]], its islands, and in the [[Far East]]. The term ''Pacific War'' is used to encompass the [[Pacific Ocean theatre of World War II|Pacific Ocean theatre]], the [[South West Pacific theatre of World War II|South West Pacific theatre]], the [[South-East Asian theatre of World War II|South-East Asian theatre]] and the [[Second Sino-Japanese War]], also including the [[Soviet–Japanese War (1945)|1945 Soviet-Japanese conflict]].
+
+It is generally considered that the Pacific War began on 7 December 1941 with the [[battle of Malaya|invasion of British Malaya]] and the [[attack on Pearl Harbor]] in the [[United States]]' [[Territory of Hawaii]] by the [[Empire of Japan]].<ref>John Costello, ''The Pacific War: 1941-1945'', Harper Perennial, 1982</ref><ref>[[B. H. Liddell Hart]], ''History of the Second World War'', Putnum, New York, 1971</ref><ref>Japan Economic Foundation, ''Journal of Japanese trade & industry, Volume 16'', 1997</ref><ref>David Williams, [http://books.google.com/books?id=iT06WZ2qs60C&pg=PA22 Defending Japan's Pacific War: The Kyoto Philosophers and the Idea of a Post-White World], RoutledgeCurzon, 2004</ref> Some authors consider the conflict in Asia can be dated as far as 7 July 1937, beginning with the [[Second Sino-Japanese War]] between the [[Empire of Japan]] and the [[Republic of China]], or possibly 19 September 1931, beginning with the [[Japanese invasion of Manchuria]].<ref>Roy M. MacLeod, [http://books.google.com/books?id=XhNYUkgX0rQC&pg=PA1 Science and the Pacific War: science and survival in the Pacific, 1939-1945], Kluwer Academic Publishing, p. 1, 1999</ref> However, it is more widely accepted that the Pacific War itself started in early December 1941, with the Sino-Japanese War then becoming part of it as a theater of the greater World War II.<ref>"For fifty-three long months, beginning in July 1937, China stood alone, single-handedly fighting an undeclared war against Japan. On 9 December 1941, after Japan's surprise attack on Pearl Harbor, China finally declared war against Japan. What had been for so long a war between two countries now became part of a much wider Pacific conflict." Hsi-sheng Ch'i, in James C. Hsiung and Steven I. Levine, ''China's bitter victory : the war with Japan 1937-1945'', M.E. Sharpe, 1992, p. 157</ref><ref>Youli Sun, [http://books.google.com/books?id=0Iq5ypmhKxUC&pg=PA185&dq=%22pacific+war%22%221937%22&lr=&cd=4#v=snippet&q=pearl%20harbor&f=false China and the Origins of the Pacific War, 1931-41], Palgrave MacMillan, p. 11</ref>
+
+The Pacific War saw the [[Allies of World War II|Allied powers]] against the Empire of Japan, the latter briefly aided by [[Thailand]] and to lesser extent by its [[Axis powers|Axis]] allies [[Nazi Germany|Germany]] and [[Kingdom of Italy (1861–1946)|Italy]]. The war culminated in the [[atomic bombings of Hiroshima and Nagasaki]], and other large [[aerial bomb]]ing attacks by the [[United States Army Air Forces]], accompanied by the [[Soviet invasion of Manchuria]] on 8 August 1945. These resulting in the [[surrender of Japan]] and the end of fighting during World War II on 15 August 1945. The formal and official [[surrender of Japan]] occurred aboard the battleship {{USS|Missouri|BB-63|6}} in [[Tokyo Bay]] on 2 September 1945.
+
+==Etymology==
+In Allied countries during the war, it was not usually distinguished from [[World War II]] in general, or it was known simply as the '''War against Japan'''. In the [[United States]], the term '''[[Pacific Theater of Operations|Pacific Theater]]''' was widely used, although technically this did not cover the [[South West Pacific Theatre of World War II|South West Pacific Theatre]] (under the command of [[General of the Army|General]] [[Douglas MacArthur]]), the [[China Burma India Theater of World War II|China-Burma-India Theater]], or the usually the Southeast Asian Theater. However, note that the [[aircraft carrier]] [[task force]]s of the [[U.S. Pacific Fleet]] did carry out large [[strategic bombing|air raid]]s on [[Vietnam]] - at [[Haiphong]], [[Camranh Bay]], and [[Saigon]] in early 1945.
+
+Japan used the name {{Nihongo|'''Greater East Asia War'''|[[:ja:大東亜戦争|大東亜戦争]]|Dai Tō-A Sensō}}, as chosen by a [[cabinet (government)|cabinet]] decision on 10 December 1941, to refer to both the war with the Western Allies and the ongoing war in China. This name was released to the public on 12 December, with an explanation that it involved Asian nations achieving their independence from the Western powers through armed forces of the [[Greater East Asia Co-prosperity Sphere]]. Japanese officials integrated what they called the {{Nihongo|'''Japan-Sino Incident'''|日支事変|Nisshi Jihen}} into the Greater East Asia War.
+
+During the [[Occupation of Japan|American military occupation of Japan]] (1945–52), these Japanese terms were prohibited in official documents, although their informal usage continued, and the war became officially known as {{Nihongo|Pacific War|太平洋戦争|Taiheiyō Sensō}}. This latter term has later come into limited use in Occidental countries. In Japan, the {{Nihongo|'''Fifteen Year War'''|十五年戦争|Jūgonen Sensō}} is also used, referring to the period from the [[Mukden Incident]] of 1931 through 1945.
+
+==Participants==
+[[Image:Pacific Area - The Imperial Powers 1939 - Map.svg|thumb|400px|right|Imperial Powers 1939]]
+The [[Axis powers of World War II|Axis]] states which assisted [[Imperial Japan|Japan]] included the [[authoritarian]] government of [[Thailand]], which quickly formed a temporary alliance with the Japanese in 1941, since Japanese forces were invading the  southern peninsula of Thailand, anyway. Also the [[Phayap Army]] sent troops to [[Burma Campaign#Thai army enters Burma|invade and occupy northeastern Burma]]. This was former Thai territory that had much earlier been forcibly taken away by the British Army. Also involved were the Japanese [[puppet state]]s of [[Manchukuo]] (consisting of most of [[Manchuria]] and part of [[Inner Mongolia]]), and the [[Wang Jingwei Government|Wang Jingwei]] (which controlled the coastal regions of China).
+
+The official policy of the [[Federal Government of the United States|U.S. Government]] is that Thailand was not an ally of the Axis, and that the United States was not at war with Thailand. The policy of the U.S. Government ever since 1945 has been to treat Thailand not as a former enemy, but rather, Thailand had been forced into certain actions by Japanese [[blackmail]], and then Thailand was occupied by Japanese troops. Thailand has been treated by the United States just the same as other Axis-occupied countries such as [[Belgium]], [[Czechoslovakia]], [[Denmark]], [[Greece]], [[Korea]], [[Norway]], [[Poland]], and the [[Netherlands]].
+
+Japan enlisted many soldiers from its [[Japanese Empire|colonies]] of [[Korea]] and [[Taiwan|Formosa]] (later known as "Taiwan"). To a small extent, some [[Vichy French]], [[Indian National Army]], and [[Burmese National Army]] forces were active in the area of the Pacific War. To an even smaller extent, [[Nazi Germany|German]] and [[Kingdom of Italy (1861–1946)|Italian]] naval forces (mainly [[armed merchantmen]] and naval [[submarines]]) also operated in the Pacific and Indian Oceans.
+
+The major [[Allies of World War II|Allied]] participants were the United States, the [[Republic of China]], the United Kingdom (including the armed forces of [[British India]], the [[Fiji Islands]], [[Samoa]], etc.), [[Australia]], the [[Commonwealth of the Philippines]], the [[Netherlands]] (as the possessor of the [[Dutch East Indies]] and the western part of [[New Guinea]]), [[New Zealand]], and [[Canada]], all of whom were members of the [[Pacific War Council]].<ref>{{cite web|url=http://www.bbc.co.uk/ww2peopleswar/timeline/factfiles/nonflash/a1141958.shtml |title=WW2 People's War - Timeline |publisher=BBC |date= |accessdate=2010-10-31}}</ref> Mexico, [[Free French Forces|Free France]] and many other countries also took part, especially forces from other [[Crown colony|British colonies]] and also [[Latin America]].
+
+The [[Soviet Union]] fought two short, undeclared [[Soviet-Japanese Border Wars|border conflicts]] with Japan in 1938 and 1939, then remained neutral until August 1945, when it joined the Allies and [[Soviet invasion of Manchuria|invaded the territory of Manchukuo]], [[Republic of China]], [[Inner Mongolia]], the Japanese protectorate of [[Korea under Japanese rule|Korea]] and Japanese-claimed islands such as [[Sakhalin]] coordinated notably between the [[Pacific Ocean Fleet (Russia)#Great Patriotic War|Red Banner Pacific Fleet]] and the US Navy's [[Fast Carrier Task Force|Task Force 38]].{{Citation needed|date=August 2008}}
+
+==Theaters==
+[[Image:Pacific War Council.jpg|thumb|The Pacific War Council as photographed on 12 October 1942. Pictured are representatives from the United States (seated) [[Republic of China|China]], the United Kingdom, Australia, Canada, the [[Netherlands]], New Zealand, and the [[Philippine Commonwealth]].]]
+Between 1942 and 1945, there were four main [[theater (military)|areas of conflict]] in the Pacific War: '''[[Second Sino-Japanese War|China]]''', the '''[[Pacific Ocean theater of World War II|Central Pacific]]''', '''[[South-East Asian theatre of World War II|South East Asia]]''' and the '''[[South West Pacific theatre of World War II|South West Pacific]]'''. U.S. sources refer to two theaters within the Pacific War: the [[Pacific Theater of Operations]] (PTO) and the [[China Burma India Theater of World War II|China Burma India Theater]] (CBI). However these were not operational commands.
+
+In the PTO, the Allies divided operational control of their forces between two supreme commands, known as [[Pacific Ocean Areas (command)|Pacific Ocean Areas]] and [[South West Pacific Area (command)|Southwest Pacific Area]].<ref>{{cite web|url=http://www.dean.usma.edu/history/web03/atlases/ww2%20pacific/ww2%20pacific%20%20maps/ww2%20asia%20map%2016.jpg |title=Map of the Pacific Theater |date= |accessdate=2010-10-31}}</ref> In 1945, for a brief period just before the [[Japanese surrender]], the [[Military history of the Soviet Union#World War II|Soviet Union]] and its [[Mongolian People's Republic#World War II (1939-1945)|Mongolian]] ally [[Manchurian Strategic Offensive Operation|engaged]] Japanese forces in [[Manchuria]] and [[northeast China]].
+
+==Conflict between China and Japan==
+===Background===
+The roots of the Second Sino-Japanese War began in the late 19th century with China in political chaos and [[History of Japan#Meiji Restoration|Japan]] rapidly modernizing. Over the course of the late 19th century and early 20th century, Japan intervened and finally annexed Korea and expanded its political and economic influence into China, particularly [[Manchuria]]. This expansion of power was aided because by the 1910s, China had fragmented into [[warlord era (China)|warlordism]] with only a weak and ineffective central government.
+
+However, the situation of a weak China unable to resist Japanese demands appeared to be changing toward the end of the 1920s. In 1927, Generalissimo [[Chiang Kai-shek]] and the [[National Revolutionary Army]] of the [[Kuomintang]] (KMT) led the [[Northern Expedition (1926–1927)|Northern Expedition]]. Chiang was able to defeat the warlords in southern and central China, and secured the nominal allegiance of [[Zhang Xueliang]], the warlord controlling Manchuria, which resulted in the [[Chinese reunification (1928)|nominal unification]] of China in 1928. Alarmed at the strengthening of China under one government, the Japanese staged the [[Mukden Incident]] in 1931, using it as a pretext for an [[Japanese invasion of Manchuria|invasion of Manchuria]] and set up the puppet state of [[Manchukuo]]. [[Henry Pu Yi]], the last emperor of the defunct [[Qing Dynasty]], became the figurehead for Manchukuo.
+
+Japan's imperialist goals in China were to maintain a secure supply of [[natural resource]]s and to have puppet governments in China that would not act against Japanese interests. Although Japanese actions would not have seemed out of place among European colonial powers in the 19th century, by 1930, increasing anti-colonialism meant overt military force in support of [[colonialism]] was no longer as acceptable as before.
+
+Hence Japanese actions in Manchuria were roundly criticized and led to Japan's withdrawal from the [[League of Nations]]. During the 1930s, China and Japan reached a stalemate with Chiang focusing his efforts at eliminating the [[Communist Party of China]], whom he considered to be a more fundamental danger than the Japanese. The influence of [[Chinese nationalism]] on opinion both in the political elite and the general population rendered this strategy increasingly untenable.
+
+Though they had at first cooperated in the Northern Expedition, during the period of 1930–34, the nationalist KMT and the Chinese Communist Party entered into direct conflict.<ref name=CHINA-WWII-DATABASE>{{cite web
+|title=World War II Database: China
+|url=http://worldwar2database.com/html/china.htm
+|accessdate=2007-03-05 }}</ref> The Japanese capitalized on the infighting between Chinese factions to make greater inroads, forcing a landing at [[January 28 Incident|Shanghai in 1932]].<ref name=WWII-1930-1937>{{cite web
+|title=World War II: 1930–1937
+|url=http://www.leesaunders.co.uk/html/world_war_II/year/ww2_1930-1937.php
+|accessdate=2007-03-05 }}</ref>
+
+Meanwhile, in Japan, a policy of [[assassination]] by secret societies and the effects of the [[Great Depression]] had caused the civilian government to lose [[civilian control of the military|control of the military]]. In addition, the military high command had limited control over the [[Army|field armies]] who acted in their own interest, often in contradiction to the overall national interest, but usually in keeping with [[Emperor Hirohito]]'s wishes.<ref>The Emperor was using the Army to keep the ''Diet'' off-balance and shore up Imperial prestige, so he did not use his authority to rein in "cowboy generals" in China, even as the China war dragged on. Bix, ''Hirohito''.</ref> [[Pan-Asianism]] was also used as a justification for Japanese expansion. This is perhaps best summarized by the "[[Amo Doctrine]]" of 1934, issued by [[Eiji Amo]], head of information department of the Japanese Foreign Ministry. Known as the "[[Monroe Doctrine]] of Asia", it announced Japan's intention for European countries to adopt a "hands off" policy in China, thereby negating the [[Open Door Policy]]. It stated that Japan was to be the sole leader in security in [[East Asia]], including the task of defeating [[communism]]. Economics was also a very important factor leading to the invasion of China. During the Depression, Japanese exports to American and European markets were severely curtailed, and Japan turned to completely dominating China politically and economically to provide a stable market. In the period leading up to full-scale war in 1937, Japan used force in localised conflicts to threaten China unless the latter reduced its [[protective tariff]] and suppressed anti-Japanese activities and [[boycott]]s.
+
+===Second Sino-Japanese War===
+{{Main|Second Sino-Japanese War}}
+
+In 1936 [[Xian Incident|Chiang was kidnapped]] by [[Zhang Xueliang]]. As a condition of his release, Chiang agreed to form a united front with the communists and fight the Japanese. Soon after, the [[Marco Polo Bridge Incident]] took place on 7 July 1937, which succeeded in provoking a war between the Republic of China and the Empire of Japan. Though the Nationalist and Communist Chinese would cooperate in military campaigns against Japan and sought to create a united national front, [[Mao Zedong]] refused Chiang's wish to directly control communist forces. In 1939, the Chinese Communist Red Army consisted of 500,000 troops independent of the KMT.<ref name=GEORGI-DIMITROV>{{cite web
+|title=Georgi Dimitrov and the United National Front in China 1936-1944 (See: ''No. 22 New Soviet Aid for Chinese'')
+|url=http://www.revolutionarydemocracy.org/rdv5n2/dimitrov.htm
+|accessdate=2007-03-05 }}</ref>
+
+In addition, throughout the 1930s Japan alienated public opinion in the West, particularly the United States and Britain. During the early 1930s, public opinion in the United States had been neutral. However, news reports of the [[Panay incident]] caused American public opinion to swing against Japan.
+
+In 1939 Japanese forces tried to push into the [[Russian Far East|Soviet Far East]] from Manchuria. They were soundly defeated in the [[Battles of Khalkhin Gol|Battle of Khalkhin Gol]] by a mixed Soviet and Mongolian force led by [[Georgy Zhukov]]. This stopped Japanese expansion to the north, and Japan and the Soviet Union kept an uneasy peace until 1945.
+
+In September 1940 Japan attempted to cut Chinese links with other countries by obtaining approval for bases in [[French Indochina]], which was controlled at the time by [[Vichy France]]. Japanese forces broke the terms of their agreement with the Vichy administration and [[Invasion of French Indochina|fighting broke out]], ending in a Japanese victory. On 27 September Japan signed a military alliance with Germany and Italy.
+
+By 1941 the conflict had become a stalemate. Although Japan had occupied much of northern and central China, the [[Kuomintang]] had retreated to the interior with a provisional capital set up at [[Chongqing|Chungking]] while the Chinese communists remained in control of base areas in [[Shaanxi]]. In addition, Japanese control of northern and central China was somewhat tenuous, in that Japan was usually able to control railroads and the major cities ("points and lines"), but did not have a major military or administrative presence in the vast Chinese countryside. The Japanese found its aggression against the retreating and regrouping Chinese army was stalled by the mountainous terrain in southwestern China while the Communists organised widespread [[guerrilla warfare|guerrilla]] and saboteur activities in northern and eastern China behind the Japanese front line.
+
+Japan sponsored several [[puppet government]]s, one of which was headed by [[Wang Jingwei]]. However, its policies of brutality toward the Chinese population, of not yielding any real power to the governments, and of supporting several rival governments failed to make any of them a popular alternative to Chiang's government. Japan was also unwilling to negotiate directly with Chiang, nor was it willing to attempt to create splits in the Chinese united front.
+
+==Tensions between Japan and the Western powers==
+In an effort to discourage Japanese militarism, Western powers including Australia, the United States, Britain, and the [[Dutch government in exile]], which controlled the [[petroleum]]-rich [[Netherlands East Indies]], stopped selling iron ore, steel and oil to Japan, denying it the raw materials needed to continue its activities in China and French Indochina. In Japan, the government and [[Japanese nationalism|nationalists]] viewed these [[embargo]]s as acts of aggression; imported oil made up about 80% of domestic consumption, without which Japan's economy, let alone its military, would grind to a halt. The Japanese media, influenced by military propagandists,<ref>''Kokushi Daijiten'' ("Historical Dictionary"), 1980: "It was not an official term, but a term of incitement used by the Japanese media, under the guidance of the military, in order to stir up the Japanese people's sense of crisis..." (Cited by Christopher Barnard, 2003, ''Language, Ideology and Japanese History Textbooks'', London & New York, Routledge Curzon, p.85.)</ref> began to refer to the embargoes as the "ABCD ("American-British-Chinese-Dutch") [[encirclement]]" or "ABCD line".
+
+Faced with a choice between economic collapse and withdrawal from its recent conquests (with its attendant loss of face), the Japanese [[Imperial General Headquarters]] began planning for a war with the western powers in April or May 1941.
+
+The key objective was for the [[Southern Expeditionary Army Group]] to seize economic resources under the control of the United Kingdom and the Netherlands, most notably those in [[British Malaya|Malaya]] and the Netherlands East Indies, known as the "Southern Plan". It was also decided—because of the close relationship between the UK and United States, and the (mistaken)<ref name=kaigun>Peattie & Evans, ''Kaigun''</ref><ref name=barrier>Willmott, ''Barrier and the Javelin'' (Annapolis: Naval Institute Press, 1983).</ref> belief the US would inevitably become involved<ref name=kaigun/>—Japan would also require an "eastern plan".
+
+The eastern plan required
+* initial attacks on the [[US Pacific Fleet]] at [[Pearl Harbor]], [[Hawaii]], with [[aircraft carrier|carrier]]-based [[aircraft]] of the [[Imperial Japanese Navy|Combined Fleet]], and
+* following this attack with
+** seizure of the [[Philippines]], and
+** cutting the U.S. lines of communication by seizing [[Guam]] and [[Wake Island|Wake]].
+
+The southern plans called for:
+* attacking Malaya and [[Hong Kong]], and
+* following with attacks against
+** the [[Bismarck Archipelago]],
+** [[Java (island)|Java]], and
+** [[Sumatra]].
+* isolating Australia and New Zealand
+
+Following completion of these objectives, the strategy would turn defensive, primarily holding their newly acquired territory while hoping for a negotiated peace.
+
+By November these plans were essentially complete, and were modified only slightly over the next month. Japanese military planners' expectation of success rested on the United Kingdom and the [[Soviet Union]] being unable to effectively respond to a Japanese attack because of the threat posed to each by [[Nazi Germany|Germany]]; the Soviet Union was even seen as unlikely to commence hostilities.
+
+There is no evidence the Japanese planned to defeat the United States; the alternative would be negotiating for peace after their initial victories. In fact, the Imperial GHQ noted, should acceptable negotiations be reached with the Americans, the attacks were to be canceled—even if the order to attack had already been given.
+
+They also planned, should the U.S. transfer its Pacific Fleet to the Philippines, to intercept and attack this fleet ''en route'' with the Combined Fleet, in keeping with all Japanese Navy prewar planning and doctrine.
+
+Should the United States or Britain attack first, the plans further stipulated the military were to hold their positions and wait for orders from GHQ. The planners noted attacking the Philippines and Malaya still had possibilities of success, even in the worst case of a combined preemptive attack including Soviet forces.
+
+===German and Italian involvement===
+[[Nazi Germany]] and [[Kingdom of Italy (1861–1946)|Fascist Italy]] both had limited involvement in the Pacific War. The German Navy (''[[Kriegsmarine]]'') and the Italian Royal Navy (''[[Regia Marina]]'') operated [[submarines]] and [[armed merchantmen|raiding ships]] in the Indian and Pacific Oceans. The Italians had access to "[[Concession (territory)|concession territory]]" naval base in [[China]] while the Germans did not. After Japan's [[attack on Pearl Harbor]] and the subsequent declarations of war, both navies had access to Japanese naval facilities.
+
+==Japan attacks the Western Powers==
+On 7 December 1941 Japan attacked [[Pearl Harbor]] in the [[Attack on Pearl Harbor]] as well as Guam and Wake Island. On 8 December 1941, Japanese forces attacked the British [[crown colony]] of [[Hong Kong]] in the [[Battle of Hong Kong]] resulting in the [[Japanese occupation of Hong Kong]], invaded the US-controlled [[Commonwealth of the Philippines]] in the [[Philippines Campaign (1941–42)]], invaded Thailand from its bases in French Indochina in the [[Japanese Invasion of Thailand]], and invaded Malaya in the [[Battle of Malaya]] passing after through Thai territory.
+
+===Attack on Pearl Harbor===
+{{Main|Attack on Pearl Harbor}}
+[[Image:USSArizona PearlHarbor 2.jpg|thumb|{{USS|Arizona|BB-39|6}} burned for two days after being hit by a Japanese bomb in the [[attack on Pearl Harbor]].]]
+
+In the early hours of 7 December (Western Hemisphere time), Japan launched a major [[aircraft carrier|carrier]]-based air strike [[Attack on Pearl Harbor|on Pearl Harbor]], which knocked eight American battleships out of action. The Japanese had gambled that the United States, when faced with such a sudden and massive defeat, would agree to a negotiated settlement and allow Japan free rein in China. This gamble did not pay off. American losses were less serious than initially thought: the American [[aircraft carrier]]s, far more important than battleships, were at sea, and vital naval infrastructure ([[fuel oil]] tanks and the shipyard facilities), [[submarine]]s and [[OP-20-G|signals intelligence]] units were unscathed. Japan's fallback strategy, relying on a [[attrition warfare|war of attrition]] to make the US come to terms, was beyond the IJN's capabilities.<ref name=kaigun/><ref name=japanesemm>Parillo, Mark P. ''Japanese Merchant Marine in World War II''. (United States Naval Institute Press, 1993).</ref>
+
+When the attack on Pearl Harbor occurred, the United States was not officially at war anywhere in the world.<ref>The [[Neutrality Patrol]] had U.S. [[destroyer]]s effectively at war, but no state of war had been declared by Congress.</ref> The 800,000-member [[America First Committee]] had vehemently opposed any American intervention in the European conflict, even as America sold military aid to Britain and the Soviet Union through the [[Lend-Lease]] program. Opposition to war in the United States vanished after the attack. On 9 December Australia declared war on Japan.<ref>{{cite |periodical=(purportedly) Inter-Allied Review |date=(purportedly) 15 December 1941|url=http://www.ibiblio.org/pha/timeline/411209awp.html |title=Australia Declares War on Japan |publisher=Inter-Allied Review via publisher=[Pearl Harbor History Associates Inc. http://www.ibiblio.org/pha/] hosted at ibiblio|year=1997 |accessdate=2009-10-03}}</ref> On 8 December [[Netherlands]] declared war on Japan.<ref>{{cite |periodical=(purportedly) Inter-Allied Review |date=(purportedly) 15 December 1941 |url=http://www.ibiblio.org/pha/policy/1941/411208c.html |title=(purportedly) The Kingdom of the Netherlands Declares War with Japan |publisher=Inter-Allied Review via publisher=[Pearl Harbor History Associates Inc. http://www.ibiblio.org/pha/] hosted at ibiblio|year=1997 |accessdate=2009-10-03}}</ref> Four days after Pearl Harbor, [[Nazi Germany]] and [[Kingdom of Italy (1861–1946)|Fascist Italy]] declared war on the United States, drawing the country into a two-theater war. This is widely agreed to be a [[grand strategic]] blunder, as it abrogated the benefit Germany gained by Japan's distraction of the U.S. (predicted months before in a [[McCollum memo|famous memo]] by Commander [[Arthur McCollum]])<ref>The same McCollum conspiracy theorists accuse of providing a [[McCollum memo|blueprint]] for provoking Japan.</ref> and the reduction in aid to Britain, which both Congress and Hitler had managed to avoid during over a year of mutual provocation, which would otherwise have resulted.
+
+==Japanese offensives, 1941–42==
+{{Cquote2|''I praise the Army for cutting down like weeds large numbers of the enemy...''|[[Hirohito]]<ref>H. Bix, "The Shōwa Emperor's Monologue and the Problem of War Responsibility", ''Journal of Japanese Studies'', Vol. 18, No. 2, 1992, p. 344.</ref>}}
+
+[[Image:Prince of Wales and Repulse.jpg|thumb|right|[[HMS Prince of Wales (1939)|HMS ''Prince of Wales'']] (left, front) and [[HMS Repulse (1916)|HMS ''Repulse'']] (left, rear) under attack by Japanese aircraft. A destroyer is in the foreground.]]
+
+British, Australian and Dutch forces, already drained of personnel and [[matériel]] by two years of war with Germany, and heavily committed in the Middle East, North Africa and elsewhere, were unable to provide much more than token resistance to the battle-hardened Japanese. The Allies suffered many disastrous defeats in the first six months of the war. Two major British warships, {{HMS|Repulse|1916|6}} and {{HMS|Prince of Wales|1939|6}} were [[Sinking of Prince of Wales and Repulse|sunk by a Japanese air attack]] off Malaya on 10 December 1941.
+
+Thailand, with its territory already serving as a springboard for the Malayan campaign, surrendered within 24 hours of the [[Japanese Invasion of Thailand|Japanese invasion]]. The government of Thailand formally allied itself with Japan on 21 December.
+
+[[Battle of Hong Kong|Hong Kong was attacked on 8 December]]<ref>[http://arts.uwaterloo.ca/~ghayes/Copp.pdf ]{{dead link|date=October 2010}}</ref> and fell on 25 December 1941, with Canadian forces and the Royal Hong Kong Volunteers playing an important part in the defense. U.S. bases on [[Battle of Guam (1941)|Guam]] and [[Battle of Wake Island|Wake Island]] were lost at around the same time.
+
+Following the 1 January 1942 ''[[Declaration by United Nations]]'' (the first official use of the term United Nations), the Allied governments appointed the British General Sir [[Archibald Wavell]] to the [[American-British-Dutch-Australian Command]] (ABDACOM), a supreme command for Allied forces in [[South East Asia]]. This gave Wavell nominal control of a huge force, albeit thinly-spread over an area from Burma to the Philippines to northern Australia. Other areas, including India, Hawaii and the rest of Australia remained under separate local commands. On 15 January Wavell moved to [[Bandung]] in [[Java (island)|Java]] to assume control of ABDA Command (ABDACOM).
+
+[[Image:Japanese battleships Yamashiro, Fuso and Haruna.jpg|thumb|left|Japanese battleships {{warship|Japanese battleship|Yamashiro||2}}, {{warship|Japanese battleship|Fuso||2}} and {{warship|Japanese battleship|Haruna||2}} (more distant).]]
+In January, Japan invaded [[Burma]], the [[Dutch East Indies]], [[New Guinea]], the [[Solomon Islands]] and captured [[Manila]], [[Kuala Lumpur]] and [[Rabaul]]. After being driven out of Malaya, Allied forces in Singapore attempted to resist the Japanese during the [[Battle of Singapore]] but surrendered to the Japanese on 15 February 1942; about 130,000 Indian, British, Australian and Dutch personnel became prisoners of war.<ref>{{cite web|url=http://www.awm.gov.au/atwar/remembering1942/singapore/transcript.htm |title=Remembering 1942, The fall of Singapore, 15 February 1942 |publisher=Awm.gov.au |date= |accessdate=2010-10-31}}</ref> The pace of conquest was rapid: [[Bali]] and [[Timor]] also fell in February. The rapid collapse of Allied resistance had left the "ABDA area" split in two. Wavell resigned from ABDACOM on 25 February, handing control of the ABDA Area to local commanders and returning to the post of [[Commander-in-Chief, India]].
+
+Meanwhile, Japanese aircraft had all but eliminated Allied air power in South-East Asia and were making [[Japanese air attacks on Australia, 1942–43|attacks on northern Australia]], beginning with a psychologically devastating (but militarily insignificant) [[Bombing of Darwin (February 1942)‎|attack on the city of Darwin]] on 19 February, which killed at least 243 people.
+
+At the [[Battle of the Java Sea]] in late February and early March, the [[Imperial Japanese Navy|Japanese Navy]] inflicted a resounding defeat on the main ABDA naval force, under Admiral [[Karel Doorman]]. The [[Netherlands East Indies campaign]] subsequently ended with the surrender of Allied forces on Java.
+
+In March and April, a [[Indian Ocean Raid|raid into the Indian Ocean]] by a powerful Imperial Japanese Navy aircraft carrier force resulted in a wave of major air raids against [[Sri Lanka|Ceylon]] and the sinking of a British aircraft carrier, {{HMS|Hermes|95|6}} as well as other Allied ships and driving the British fleet out of the Indian Ocean. This paved the way for a Japanese assault on Burma and India.
+
+The British, under intense pressure, made a fighting retreat from [[Yangon|Rangoon]] to the Indo-Burmese border. This cut the [[Burma Road]] which was the western Allies' supply line to the Chinese Nationalists. Cooperation between the Chinese Nationalists and the Communists had waned from its zenith at the [[Battle of Wuhan]], and the relationship between the two had gone sour as both attempted to expand their area of operations in occupied territories. Most of the Nationalist guerrilla areas were eventually overtaken by the Communists. On the other hand, some Nationalist units were deployed to blockade the Communists and not the Japanese. Furthermore, many of the forces of the Chinese Nationalists were warlords allied to Chiang Kai-Shek, but not directly under his command. "Of the 1,200,000 troops under Chiang's control, only 650,000 were directly controlled by his generals, and another 550,000 controlled by warlords who claimed loyalty to his government; the strongest force was the Szechuan army of 320,000 men. The defeat of this army would do much to end Chiang's power."<ref name=JAPANS-WAR>{{Cite book
+|first=Edwin P.
+|last=Hoyt
+|title=Japan's War
+|publisher=Da Capo
+|year=1986
+|isbn=0-306-80348-8
+|pages=262–263 }}</ref> The Japanese exploited this lack of unity to press ahead in their offensives.
+
+Filipino and U.S. forces resisted in the Philippines until 8 May 1942, when more than 80,000 soldiers were ordered to surrender. By this time, General [[Douglas MacArthur]], who had been appointed Supreme Allied Commander South West Pacific, had retreated to the safer confines of Australia. The U.S. Navy, under Admiral [[Chester Nimitz]], had responsibility for the rest of the Pacific Ocean. This divided command had unfortunate consequences for the [[convoy|commerce war]],<ref name=blair>Blair, ''Silent Victory''</ref> and consequently, the war itself.
+
+==Allies re-group==
+{{cquote2|''For every advance that the Japanese have made since they started their frenzied career of conquest, they have had to pay a very heavy toll in warships, in transports, in planes, and in men. They are feeling the effects of those losses.''<ref>{{cite |periodical=(purportedly) White House news release|date=(purportedly) 28 April 1942|title=President Franklin D. Roosevelt's Broadcast to the Nation|publisher=[Pearl Harbor History Associates Inc. http://www.ibiblio.org/pha/] hosted at ibiblio|year=1997 |url=http://www.ibiblio.org/pha/policy/1942/420428a.html}}</ref>|Franklin D. Roosevelt, 28 April 1942}}
+
+In early 1942, the governments of smaller powers began to push for an inter-governmental Asia-Pacific war council, based in [[Washington, D.C.]]. A council was established in London, with a subsidiary body in Washington. However the smaller powers continued to push for a U.S.-based body. The [[Pacific War Council]] was formed in Washington, on 1 April 1942, with President [[Franklin Delano Roosevelt|Franklin D. Roosevelt]], his key advisor [[Harry Hopkins]], and [[representatives]] from Britain, China, Australia, the Netherlands, New Zealand, and Canada. Representatives from [[British India|India]] and the Philippines were later added. The council never had any direct operational control, and any decisions it made were referred to the U.S.-UK [[Combined Chiefs of Staff]], which was also in Washington.
+
+Allied resistance, at first symbolic, gradually began to stiffen. Australian and Dutch forces led civilians in a prolonged [[Battle of Timor|guerilla campaign in Portuguese Timor]]. The [[Doolittle Raid]] did minimal damage but was a huge morale booster for the Allies, especially the United States, and it caused repercussions throughout the Japanese military because they were sworn to protect the [[Japanese emperor]] and homeland, but did not intercept, down, or damage a single bomber. The greatest effect of the raid, however, was that it caused the Japanese to launch the ultimately catastrophic assault on Midway.<ref>Wilmott, ''Barrier and the Javelin''</ref>
+
+===Coral Sea and Midway: the turning point===
+{{Main|Battle of the Coral Sea|Battle of Midway}}
+[[Image:Uss lexington cv2 coral.jpg|thumb|right|''Lexington'' on fire at the [[battle of the Coral Sea|Coral Sea]].]]
+
+By mid-1942, the [[Japanese Combined Fleet]] found itself holding a vast area, even though it lacked the aircraft carriers, aircraft, and aircrew to defend it, and the freighters, tankers, and destroyers necessary to sustain it. Moreover, Fleet doctrine was inadequate to execute the proposed "barrier" defence.<ref name=kaigun/><ref name=japanesemm/> Instead, they decided on additional attacks in both the south and central Pacific. While Yamamoto had used the element of surprise at Pearl Harbor, Allied [[codebreaker]]s now turned the tables. They discovered an attack against [[Port Moresby]], New Guinea, was imminent with intent to invade and conquer all of New Guinea. If Port Moresby fell, it would give Japan control of the seas to the immediate north of Australia. Nimitz rushed the carrier {{USS|Lexington|CV-2|6}}, under Admiral [[Frank Jack Fletcher|Fletcher]], to join {{USS|Yorktown|CV-5|6}} and an American-Australian task force, with orders to contest the Japanese advance. The resulting [[Battle of the Coral Sea]] was the first naval battle in which ships involved never sighted each other and aircraft were solely used to attack opposing forces. Although ''Lexington'' was sunk and ''Yorktown'' seriously damaged, the Japanese lost the aircraft carrier {{warship|Japanese aircraft carrier|Shōhō||2}}, suffered extensive damage to {{warship|Japanese aircraft carrier|Shōkaku||2}} and heavy losses to the air wing of {{warship|Japanese aircraft carrier|Zuikaku||2}} (both missed the operation against Midway the following month), and saw the Moresby invasion force turn back. Even though Allied losses were heavier than Japanese, the Japanese attack on Port Moresby was thwarted and their invasion forces turned back, yielding a strategic victory for the Allies. Moreover, Japan lacked the capacity to replace losses in ships, planes and trained pilots.
+[[Image:Hiryu f075712.jpg|thumb|{{warship|Japanese aircraft carrier|Hiryū||2}} under attack by [[B-17 Flying Fortress]] heavy bombers.]]
+Destruction of U.S. carriers was Yamamoto's main objective, and he planned an operation to lure them to battle. After Coral Sea, he had four fleet carriers operational—{{warship|Japanese aircraft carrier|Sōryū||2}}, {{warship|Japanese aircraft carrier|Kaga||2}}, {{warship|Japanese aircraft carrier|Akagi||2}} and {{warship|Japanese aircraft carrier|Hiryū||2}}—and believed Nimitz had a maximum of two—{{USS|Enterprise|CV-6|2}} and {{USS|Hornet|CV-8|2}}. {{USS|Saratoga|CV-3|2}} was out of action, undergoing repair after a torpedo attack, while ''Yorktown'' sailed after three days' work to repair her [[flight deck]] and make essential repairs, with civilian work crews still aboard.
+
+A large Japanese force was sent north to [[Battle of the Aleutian Islands|attack the Aleutian Islands]], off [[Alaska]]. The next stage of Yamamoto's plan called for the capture of [[Midway Atoll]], which would give him an opportunity to destroy Nimitz's remaining carriers; afterward, it would be turned into a major airbase, giving Japan control of the central Pacific. In May, Allied [[codebreaking|codebreakers]] discovered his intentions. Nagumo was again in tactical command but was focused on the invasion of Midway; Yamamoto's complex plan had no provision for intervention by Nimitz before the Japanese expected him. Planned surveillance of the U.S. fleet by long range seaplane did not happen [[Operation K|(as a result of an abortive identical operation in March)]], so U.S. carriers were able to proceed to a [[flanking maneuver|flanking position]] on the approaching Japanese fleet without being detected. Nagumo had 272 planes operating from his four carriers, the U.S. 348 (of which 115 were land-based).
+
+As anticipated by U.S. commanders, the Japanese fleet arrived off Midway on 4 June and was spotted by [[PBY]] patrol aircraft.<ref>{{cite web|url=http://www.history.navy.mil/photos/events/wwii-pac/midway/mid-1m.htm |title=Battle of Midway-Scouting and Early Attacks from Midway, 3-4 June 1942 |publisher=History.navy.mil |date= |accessdate=2010-10-31}}</ref>  Nagumo executed a first strike against Midway, while Fletcher launched his aircraft, bound for Nagumo's carriers. At 09:20 the first U.S carrier aircraft arrived, [[TBD Devastator]] [[torpedo bomber]]s from ''Hornet'', but their attacks were poorly coordinated and ineffectual;<ref>thanks in part to faulty aircraft [[torpedo]]es.</ref> they failed to score a single hit, and [[A6M Zero|Zero]] fighters shot down all 15. At 09:35, 15 TBDs from ''Enterprise'' skimmed in over the water; 14 were shot down by Zeroes. Fletcher's attacks had been disorganized, yet succeeded in distracting Nagumo's defensive fighters. When U.S. [[dive bomber]]s arrived, the Zeros could not offer any protection. In addition, Nagumo's four carriers had drifted out of formation, reducing the concentration of their anti-aircraft fire. His most-criticized error was twice changing his arming orders: he first held aircraft for shipping attack as a hedge against discovery of U.S. carriers, changed this based on reports an additional strike was needed against Midway, then again after sighting ''Yorktown'', wasting time and leaving his hangar decks crowded with refueling and rearming aircraft, and ordnance stowed outside the magazines. Yamamoto's dispositions, which left Nagumo with inadequate reconnaissance to detect (and therefore attack) Fletcher before he launched, are often ignored.<ref name=barrier/>
+[[Image:Pacific Theater Areas;map1.JPG|thumb|300px|The Pacific Theater in August 1942]]
+When [[SBD Dauntless]]es from ''Enterprise'' and ''Yorktown'' appeared at an altitude of {{convert|10000|ft|m}}, the Zeroes at sea level were unable to respond before the bombers pushed over. They scored a small number of significant hits; ''Sōryū'', ''Kaga'', and ''Akagi'' all caught fire. ''Hiryū'' survived this wave of attacks and launched an attack against the American carriers which caused severe damage to ''Yorktown'' (which was later finished off by a Japanese submarine). A second attack from the U.S. carriers a few hours later found and destroyed ''Hiryū''. Yamamoto had four additional small carriers, assigned to his scattered surface forces, all too slow to keep up with the ''[[Kido Butai]]'' and therefore never in action. Yamamoto's enormous superiority in gun power was irrelevant as the U.S. had [[air superiority]] at Midway and could refuse a surface gunfight (which, by remarkable good fortune, Spruance moved to avoid, based on a faulty submarine report<ref>By [[John Murpy]] in {{USS|Tambor|SS-198|2}}. Blair, ''Silent Victory'', p.246.</ref>); Yamamoto's flawed dispositions had made closing to engage after dark on 4 June impossible.<ref>Willmott, ''op. cit.''</ref> Midway was a decisive victory for the U.S. Navy and the [[turning point|high point]] in Japanese aspirations in the Pacific.
+
+===New Guinea and the Solomons===
+{{Main|New Guinea campaign|Solomon Islands campaign}}
+Japanese land forces continued to advance in the [[Solomon Islands]] and [[New Guinea]]. From July 1942, a few Australian [[Australian Army Reserve|reserve]] [[battalion]]s, many of them very young and untrained, fought a stubborn rearguard action in New Guinea, against a Japanese advance along the [[Kokoda Track Campaign|Kokoda Track]], towards Port Moresby, over the rugged [[Owen Stanley Ranges]]. The militia, worn out and severely depleted by casualties, were relieved in late August by regular troops from the [[Second Australian Imperial Force]], returning from action in the [[Mediterranean, Middle East and African theatres of World War II|Mediterranean theater]].
+[[File:Marines rest in the field on Guadalcanal.jpg|thumb|US Marines rest in the field during the Guadalcanal campaign in November 1942]]
+In early September 1942 [[Japanese Special Naval Landing Forces|Japanese marines]] attacked a strategic [[Royal Australian Air Force]] base at [[Battle of Milne Bay|Milne Bay]], near the eastern tip of New Guinea. They were beaten back by the [[Australian Army]], which inflicted the first outright defeat on Japanese land forces since 1939.
+
+====Guadalcanal====
+{{Main|Guadalcanal Campaign}}
+At the same time as major battles raged in New Guinea, Allied forces identified a Japanese airfield under construction at Guadalcanal. In August 16,000 Allied infantry—primarily [[United States Marine Corps|US Marines]]—made an amphibious landing, to capture the airfield.
+
+Japanese and Allied forces occupied various parts of the island. Over the following six months, both sides fed resources into an escalating battle of attrition on the island, at sea, and in the sky. Most of the Japanese aircraft in the South Pacific were drafted into the Japanese defence of Guadalcanal, facing [[Cactus Air Force|Allied air forces]] based at [[Honiara International Airport|Henderson Field]]. Japanese ground forces launched attacks on US positions around Henderson Field, suffering high casualties. These offensives were resupplied by Japanese convoys known to the Allies as the "[[Tokyo Express]]", which often faced night battles with the Allied navies, and expended [[destroyer]]s IJN could ill-afford to lose. Later fleet battles involving heavier ships and even daytime carrier battles resulted in a stretch of water near Guadalcanal becoming known as "[[Ironbottom Sound]]", from the severe losses to both sides. However, only the US Navy could quickly replace and repair its losses. The Allies were victorious on Guadalcanal in February 1943.
+
+===Allied advances in New Guinea and the Solomons===
+[[Image:Awm 127976.jpg salamaua.jpg|thumb|Australian commandos in New Guinea during July 1943]]
+By late 1942, the Japanese were also retreating along the Kokoda Track in the highlands of New Guinea. Australian and U.S. counteroffensives culminated in the capture of the key Japanese beachhead in eastern New Guinea, the [[Battle of Buna-Gona|Buna-Gona area]], in early 1943.
+
+In June 1943, the Allies launched [[Operation Cartwheel]], which defined their offensive strategy in the South Pacific. The operation was aimed at isolating the major Japanese forward base, at [[Rabaul]], and cutting its supply and communication lines. This prepared the way for Nimitz's [[island-hopping]] campaign towards Japan.
+
+==Stalemate in China and South-East Asia==
+{{Main|Second Sino-Japanese War|Burma Campaign 1942–1943}}
+[[Image:Changde battle.jpg|thumb|right|Chinese troops during the [[Battle of Changde]] in November 1943.]]
+In the aftermath of the Japanese conquest of Burma, there was widespread disorder in eastern India, and a disastrous [[Bengal famine of 1943|famine in Bengal]], which ultimately caused up to 3 million deaths. In spite of these, and inadequate lines of communication, British and Indian forces attempted limited counter-attacks in Burma in early 1943. An [[Arakan Campaign 1942-1943|offensive in Arakan]] failed, while a long distance raid mounted by the [[Chindits]] under Brigadier [[Orde Wingate]] suffered heavy losses, but was publicized to bolster Allied morale. It also provoked the Japanese to mount major offensives themselves the following year.
+
+In August 1943 the Allies formed a new [[South East Asia Command]] (SEAC) to take over strategic responsibilities for Burma and India from the [[British India Command]], under Wavell. In October 1943 [[Winston Churchill]] appointed Admiral Lord [[Louis Mountbatten, 1st Earl Mountbatten of Burma|Louis Mountbatten]] as its Supreme Commander. The British and Indian [[Fourteenth Army (United Kingdom)|Fourteenth Army]] was formed to face the Japanese in Burma. Under Lieutenant General [[William Slim]], its training, morale and health greatly improved. The American General [[Joseph Warren Stilwell|Joseph Stilwell]], who also was deputy commander to Mountbatten and commanded U.S. forces in the [[China Burma India Theater]], directed aid to China and prepared to construct the [[Ledo Road]] to link India and China by land.
+
+On 22 November 1943 U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and ROC Generalissimo Chiang Kai-shek, met in [[Cairo]], Egypt, to discuss a strategy to defeat Japan. The meeting was also known as [[Cairo Conference]] and concluded with the [[Cairo Declaration]].
+
+==Allied offensives, 1943–44==
+[[Image:Cairo conference.jpg|thumb|left|The Allied leaders of the Asian and Pacific Theaters: Generalissimo [[Chiang Kai-shek]], Franklin D. Roosevelt, and Winston Churchill meeting at the [[Cairo Conference]] in 1943.]]
+Midway proved to be the last great naval battle for two years. The United States used the ensuing period to turn its vast industrial potential into actual ships, planes, and trained aircrew. At the same time, Japan, lacking an adequate industrial base or technological strategy, a good aircrew training program, or adequate naval resources and [[convoy|commerce defense]], fell further and further behind. In strategic terms the Allies began a long movement across the Pacific, seizing one island base after another. Not every Japanese stronghold had to be captured; some, like Truk, Rabaul, and Formosa, were neutralized by air attack and bypassed. The goal was to get close to Japan itself, then launch massive strategic air attacks, improve the submarine blockade, and finally (only if necessary) execute an invasion.
+
+In November 1943 U.S. Marines sustained high casualties when they overwhelmed the 4,500-strong garrison at [[Battle of Tarawa|Tarawa]]. This helped the Allies to improve the techniques of amphibious landings, learning from their mistakes and implementing changes such as thorough pre-emptive bombings and bombardment, more careful planning regarding tides and landing craft schedules, and better overall coordination.
+
+The U.S. Navy did not seek out the Japanese fleet for a decisive battle, as [[Alfred Thayer Mahan|Mahanian]] doctrine would suggest (and as Japan hoped); the Allied advance could only be stopped by a Japanese naval attack, which oil shortages (induced by submarine attack) made impossible.<ref name=japanesemm/><ref name=blair/>
+
+===Submarine warfare===
+{{Main|Allied submarines in the Pacific War}}
+
+US submarines, as well as some British and Dutch vessels, operating from bases at [[Cavite]], in the Philippines (1941–42) [[Fremantle, Western Australia|Fremantle]] and [[Brisbane]] in Australia; Pearl Harbor; [[Trincomalee]], Ceylon; [[Midway Atoll|Midway]]; and later [[Guam]], [[Allied submarines in the Pacific War|played a major role in defeating Japan]]. This was the case even though submarines made up a small proportion of the Allied navies — less than two percent in the case of the US Navy.<ref name=blair/><ref>Theodore Roscoe, ''[[United States Submarine Operations in World War II]]'' (US Naval Institute Press, 1949).</ref> Submarines strangled Japan by sinking its merchant fleet, intercepting many [[troop transports]], and cutting off nearly all the oil imports essential to weapons production and military operations. By early 1945 the oil tanks were dry. The Japanese military claimed its defenses sank 468 Allied subs.<ref>Prange ''et al.'' ''Pearl Harbor Papers''</ref> Only 42 US submarines were sunk in the Pacific, with 10 others going down in accidents or as the result of [[friendly fire]].<ref name=pigboats>Roscoe, Theodore. ''Pig Boats'' (Bantam Books, 1958)</ref><ref>; Blair, ''Silent Victory'', pp.991-2.</ref>
+
+[[Image:Torpedoed Japanese destroyer HD-SN-99-02974.JPEG|thumb|right|The torpedoed Japanese destroyer, {{warship|Japanese destroyer|Yamakaze||2}}, as seen through the periscope of an American submarine, {{USS|Nautilus|SS-168|2}}, in June 1942.]]
+
+US submarines accounted for 56% of the Japanese merchantmen sunk; most of the rest were destroyed by mines or aircraft.<ref name=pigboats/> US submariners also claimed 28% of Japanese warships destroyed.<ref name="UsSubs">Larry Kimmett and Margaret Regis, [http://www.navpublishing.com/subtour1.htm U.S. Submarines in World War II]</ref> Furthermore, they played important reconnaissance roles, as at the battles of the Philippine Sea and Leyte Gulf (and, coincidentally, at Midway), when they gave accurate and timely warning of the approach of the Japanese fleet. Submarines also rescued hundreds of downed fliers.
+
+The Allied submarines did not adopt a defensive posture and wait for the enemy to attack. Within hours of Pearl Harbor, Roosevelt ordered a new doctrine into effect: unrestricted [[submarine warfare]] against Japan. This meant sinking any warship, commercial vessel, or passenger ship in Axis controlled waters, without warning and without help to survivors.<ref>The US thereby reversed its opposition to unrestricted submarine warfare. After the war, when moralistic doubts about Hiroshima and other raids on civilian targets were loudly voiced, no-one criticized Roosevelt's submarine policy. (Two German admirals, [[Erich Raeder]] and [[Karl Dönitz]], were charged at the [[Nuremberg Trials|Nuremberg War Crimes Trials]] with violating international law through unrestricted submarine warfare; they were acquitted after proving Allied merchant ships were legitimate military targets, under the rules in force at the time.</ref> Allied submarine bases were well-protected by surface fleets and aircraft.
+
+While Japan had a large number of submarines, they did not make a significant impact on the war. In 1942, the Japanese fleet subs performed well, knocking out or damaging many Allied warships. However, Imperial Japanese Navy (and pre-war US) [[doctrine]] stipulated naval campaigns are won only by fleet battles, not ''[[guerre de course]]'' (commerce raiding). So, while the US had an unusually long supply line between its west coast and frontline areas, and was vulnerable to submarine attack, Japan's submarines were instead primarily used for long range reconnaissance and only occasionally attacked US supply lines. The Japanese [[Axis naval activity in Australian waters|submarine offensive against Australia]] in 1942 and 1943 also achieved little.<ref>David Stevens. ''[http://ajrp.awm.gov.au/AJRP/AJRP2.nsf/437f72f8ac2c07238525661a00063aa6/225b90b97196e29bca256a1d00130203?OpenDocument Japanese submarine operations against Australia 1942-1944]''. Retrieved 18 June 2007.</ref> As the war turned against Japan, IJN submarines were increasingly used to resupply strongholds which had been cut off, such as [[Truk]] and [[Rabaul]]. In addition, Japan honored its neutrality treaty with the Soviet Union and ignored US freighters shipping millions of tons of war supplies from San Francisco to [[Vladivostok]]<ref>Carl Boyd, "The Japanese Submarine Force and the Legacy of Strategic and Operational Doctrine Developed Between the World Wars", in Larry Addington ed. ''Selected Papers from the Citadel Conference on War and Diplomacy: 1978'' (Charleston, 1979) 27–40; Clark G. Reynolds, ''Command of the Sea: The History and Strategy of Maritime Empires'' (1974) 512.</ref> much to the consternation of its German ally.
+
+[[Image:I400 2.jpg|thumb|right|The {{warship|Japanese submarine|I-400}}. The ''Sen Toku I-400'' class were the largest non-nuclear submarines ever constructed. Japanese submarines were not used to their full potential during the Pacific War.]]
+
+The US Navy, by contrast, relied on commerce raiding from the outset. However, the problem of Allied forces surrounded in the [[Philippines]], during the early part of 1942, led to diversion of boats to "guerrilla submarine" missions. As well, basing in Australia placed boats under Japanese aerial threat while ''en route'' to patrol areas, inhibiting effectiveness, and Nimitz relied on submarines for close surveillance of enemy bases. Furthermore, the standard issue [[Mark 14 torpedo]] and its Mark VI exploder were both defective, problems not corrected until September 1943. Worst of all, before the war, an uninformed [[United States Customs Service|US Customs]] officer had seized a copy of the Japanese merchant marine code (called the [[Japanese naval codes#JN-167|"''maru'' code"]] in the USN), not knowing [[Office of Naval Intelligence]] (ONI) had broken it;<ref>Farago, Ladislas. ''Broken Seal''.</ref> the Japanese government promptly changed it, and the new code was not broken again until 1943.
+
+Thus, it was not until 1944 the US Navy began to use its 150 submarines to maximum effect: effective shipboard radar was installed, commanders lacking in aggression were replaced, and faults in torpedoes were fixed. Japanese commerce protection was "shiftless beyond description,"<ref>Chihaya Masataka, in ''Pearl Harbor Papers'', p.323. Chihaya went on to note, when IJN belatedly improved its ASW methods, the US submarine force responded by increasing Japanese losses.</ref> and convoys were poorly organised and defended compared to Allied ones, a product of flawed IJN doctrine and training — errors concealed by American faults as much as Japanese overconfidence. The number of U.S. submarines patrols (and sinkings) rose steeply: 350 patrols (180 ships sunk) in 1942, 350 (335) in 1943, and 520 (603) in 1944.<ref>Blair, ''Silent Victory'', pp.359-60, 551-2, & 816.</ref> By 1945, sinkings had decreased because so few targets dared to move on the high seas. In all, Allied submarines destroyed 1,200 merchant ships for about five million tons of shipping. Most were small cargo carriers, but 124 were tankers bringing desperately needed oil from the East Indies. Another 320 were passenger ships and troop transports. At critical stages of the Guadalcanal, Saipan, and Leyte campaigns, thousands of Japanese troops were killed or diverted before they arrived where they were needed. Over 200 warships were sunk, ranging from many auxiliaries and destroyers to one battleship and no fewer than eight carriers. Underwater warfare was especially dangerous; of the 16,000 Americans who went out on patrol, 3,500 (22%) never returned, the highest casualty rate of any American force in World War II.<ref>Roscoe, ''op. cit.''</ref> The Japanese losses, 130 submarines in all,<ref>Blair, p.877.</ref> were even higher.
+
+A single German submarine, [[Unterseeboot 862|''U-862'']], operated in the Pacific Ocean during the war, patrolling off the Australian east coast and New Zealand in December 1944 and January 1945. It sank one ship in the Pacific before it was recalled to [[Jakarta|Batavia]].<ref>Uboat.net [http://www.uboat.net/ops/monsun3.htm ''The Monsun boats'']. Retrieved 18 June 2007.</ref>
+
+Japanese Naval and Merchant Marine losses 1941-1945 can be found here at <ref>{{cite |author=The Joint Army-Navy Assessment Committee|title=Japanese Naval and Merchant Shipping Losses During World War II by All Causes NAVEXOS P-468|date=February 1947|editor=Transcribed and formatted for HTML by Larry Jewell & Patrick Clancey|publisher=[http://www.ibiblio.org/hyperwar/about.html Hyperwar project] ed. Patrick Clancey|url=http://www.ibiblio.org/hyperwar/Japan/IJN/JANAC-Losses/index.html#contents HyperWar: Japanese Naval and Merchant Shipping Losses During World War II}}</ref>
+US Submarine claims of sunk/damaged ships 1941-1945 can be found at <ref>{{cite web|author=RD Designs |url=http://www.pigboats.com/ww2/ww2sinkings.html |title=Sinkings By Boat |publisher=Pigboats.com |date=1941-12-07 |accessdate=2010-10-31}}</ref> The Joint Army Navy Assessment Committee has assessed US Submarine credits.<ref>{{cite web|url=http://www.valoratsea.com/JANAC.htm |title=Japanese Naval and Merchant Vessels Sunk During World War II By All U.S. Submarines |publisher=Valoratsea.com |date= |accessdate=2010-10-31}}</ref>
+
+==Japanese counteroffensives in China, 1944==
+{{Main|Operation Ichi-Go}}
+
+In mid-1944, Japan launched a massive invasion across China, under the code name [[Operation Ichi-Go]]. These attacks, the biggest in several years, gained much ground for Japan before they were stopped in [[Guangxi]].
+
+{{Expand section|date=May 2008}}
+
+==Japanese offensive in India 1944==
+{{Main|Burma Campaign 1944}}
+ [[Image:Chinese troops on Stuart tanks Ledo road.jpg|thumb|Chinese forces on [[M3 Stuart]] tanks on the Ledo Road]]
+After the Allied setbacks in 1943, the South East Asia command was preparing to launch offensives into Burma on several fronts. In the first months of 1944, the Chinese and American troops of the [[Northern Combat Area Command]], commanded by the American Joseph Stilwell, began extending the [[Ledo Road]] from India into northern Burma, while the [[XV Corps (British India)|XV Corps]] began an advance along the coast in the [[Rakhine|Arakan]] province. In February, the Japanese mounted a local counter-attack in the Arakan. After early success, this counter-attack was defeated when the [[British Indian Army|Indian]] divisions of XV Corps stood firm, and relied on aircraft to drop supplies to isolated forward units until they could be relieved by reserve divisions.
+
+The Japanese response to the Allied attacks was to launch an offensive of their own into India, across the mountainous and densely-forested frontier. This attack, codenamed [[Operation U-Go]], was advocated by Lieutenant General [[Renya Mutaguchi]], the recently promoted commander of the [[Fifteenth Army (Japan)|Japanese Fifteenth Army]], and was permitted to proceed by [[Imperial General Headquarters]], despite misgivings at several intervening headquarters. The offensive was launched in mid-March. Although several units of the British Fourteenth Army were forced to fight their way out of encirclement, by early April they had concentrated around [[Imphal]] in [[Manipur]] state. A Japanese division which had advanced to [[Kohima]] in [[Nagaland]] cut the main road to Imphal, but failed to capture the whole of the defences at Kohima. During April, the Japanese attacks against Imphal failed, while fresh Allied formations drove the Japanese from the positions they had captured at Kohima.
+
+As many Japanese had feared, their supply arrangements were inadequate to maintain their forces. Once Mutaguchi's hopes for an early victory were thwarted, his troops, particularly those at Kohima, starved. During May, while Mutaguchi continued to order attacks, the Allies were advancing southwards from Kohima and northwards from Imphal. The two Allied attacks met on 22 June, breaking the Japanese siege of Imphal. The Japanese finally broke off the operation on 3 July. They had lost over 50,000 troops, mainly to starvation and disease. It was the worst defeat suffered by the Japanese Army to that date.
+
+Although the advance in the Arakan had been halted to release troops and aircraft for the [[Battle of Imphal]], the Americans and Chinese had continued to advance in northern Burma, aided by the Chindits operating against the Japanese lines of communication. By the time campaigning ceased during the [[monsoon]] rains, the Americans had secured a vital airfield at [[Myitkyina]], which eased the problems of the air resupply to China over [[The Hump]].
+
+==Beginning of the end in the Pacific, 1944==
+===Saipan and Philippine Sea===
+{{Main|Battle of Saipan|Battle of the Philippine Sea}}
+On 15 June 1944, 535 ships began landing 128,000 U.S. Army and Marine personnel on the island of [[Saipan]]. The Allied objective was the creation of airfields within [[B-29]] range of Tokyo. The ability to plan and execute such a complex operation in the space of 90 days was indicative of Allied logistical superiority.
+
+[[Image:P-sea.jpg|thumb|The Japanese aircraft carrier ''Zuikaku'' and two destroyers under attack in the Battle of Philippine Sea.]]
+
+It was imperative for Japanese commanders to hold Saipan. The only way to do this was to destroy the [[U.S. Fifth Fleet]], which had 15 fleet carriers and 956 planes, 7 battleships, 28 submarines, and 69 destroyers, as well as several<!--how many?--> light and heavy cruisers. Vice Admiral [[Jisaburo Ozawa]] attacked with nine-tenths of Japan's fighting fleet, which included nine carriers with 473 planes, 5 battleships, several<!--how many?--> cruisers, and 28 destroyers. Ozawa's pilots were outnumbered 2:1 and their aircraft were becoming or were already obsolete. The Japanese had considerable [[anti-aircraft gun|antiaircraft defenses]] but lacked [[proximity fuze]]s or good [[radar]]. With the odds against him, Ozawa devised an appropriate strategy. His planes had greater range because they were not weighed down with protective armor; they could attack at about 480&nbsp;km (300&nbsp;mi){{Citation needed|date=February 2008}}<!--nm?-->, and could search a radius of 900&nbsp;km{{Citation needed|date=February 2008}} (560&nbsp;mi<!--nm?-->). U.S. Navy [[Grumman Hellcat|Hellcat]] fighters could only attack within {{convert|200|mi|km}} and only search within a {{convert|325|mi|km|sing=on}}{{Citation needed|date=February 2008}} <!--nm?--> radius. Ozawa planned to use this advantage by positioning his fleet {{convert|300|mi|km}}{{Citation needed|date=February 2008}}<!--nm?--> out. The Japanese planes would hit the U.S. carriers, land at Guam to refuel, then hit the enemy again when returning to their carriers. Ozawa also counted on about 500 land-based planes at Guam and other islands.
+
+Admiral [[Raymond A. Spruance]] was in overall command of Fifth Fleet. The Japanese plan would have failed if the much larger U.S. fleet had closed on Ozawa and attacked aggressively; Ozawa correctly inferred Spruance would not attack. U.S. Admiral [[Marc Mitscher]], in tactical command of Task Force 58, with its 15 carriers, was aggressive but Spruance vetoed Mitscher's plan to hunt down Ozawa because Spruance's orders made protecting the landings on Saipan his first priority.
+
+[[File:MARINE~1.png|thumb|A U.S. Marine retrieves a living baby from a cave full of corpses. June 1944, [[Saipan]]. Nearly all of the 30,000 Japanese defenders were killed; thousands of Japanese civilians also died, many committing suicide.]]
+
+The forces converged in the largest sea battle of World War II up to that point. Over the previous month American destroyers had destroyed 17 of 25 submarines out of Ozawa's screening force.<ref>Blair, Clay, Jr. ''Silent Victory'' (New York: Bantam, 1976).</ref><ref>Morison, S. E. ''U.S. Navy in World War Two''.</ref> Repeated U.S. raids destroyed the Japanese land-based planes. Ozawa's main attack lacked coordination, with the Japanese planes arriving at their targets in a staggered sequence. Following a directive from Nimitz, the U.S. carriers all had combat information centers, which interpreted the flow of radar data and radioed interception orders to the Hellcats. The result was later dubbed the ''Great Marianas Turkey Shoot''. The few attackers to reach the U.S. fleet encountered massive AA fire with proximity fuzes. Only one American warship was slightly damaged.
+
+On the second day, U.S. reconnaissance planes located Ozawa's fleet, {{convert|275|mi|km}}{{Citation needed|date=February 2008}} <!--nm?--> away, and submarines sank two Japanese carriers. Mitscher launched 230 torpedo planes and dive bombers.<!--how many each?--> He then discovered the enemy was actually another {{convert|60|mi|km}}{{Citation needed|date=February 2008}} <!--nm?--> further off, out of aircraft range (based on a roundtrip flight). Mitscher decided this chance to destroy the Japanese fleet was worth the risk of aircraft losses due to running out of fuel on the return flight. Overall, the U.S. lost 130 planes and 76 aircrew; however, Japan lost 450 planes, three carriers, and 445 aircrew. The Imperial Japanese Navy's carrier force was effectively destroyed.
+
+===Leyte Gulf 1944===
+{{Main|Battle of Leyte Gulf}}
+
+The Battle of Leyte Gulf was arguably the [[largest naval battle in history]]. It was a series of four distinct engagements fought off the Philippine island of [[Leyte (island)|Leyte]] from 23 to 26 October 1944. Leyte Gulf featured the largest [[battleship]]s ever built, was the last time in history that battleships engaged each other, and was also notable as the first time that [[kamikaze]] aircraft were used. Allied victory in the Philippine Sea established Allied air and sea superiority in the western Pacific. Nimitz favored blockading the Philippines and landing on Formosa. This would give the Allies control of the sea routes to Japan from southern Asia, cutting off substantial Japanese garrisons. MacArthur favoured an invasion of the Philippines, which also lay across the supply lines to Japan. Roosevelt adjudicated in favor of the Philippines. Meanwhile, Japanese Combined Fleet Chief [[Toyoda Soemu]] prepared four plans to cover all Allied offensive scenarios. On 12 October Nimitz launched a carrier raid against Formosa to make sure that planes based there could not intervene in the landings on Leyte. Soemu put Plan ''Sho-2'' into effect, launching a series of air attacks against the U.S. carriers. However the Japanese lost 600 planes in three days, leaving them without air cover. [[Image:Leyte map annotated.jpg|right|thumbnail|The four engagements in the battle of Leyte Gulf.]]
+
+''Sho-1'' called for [[Vice Admiral|V. Adm.]] [[Jisaburo Ozawa]]'s force to use an apparently vulnerable carrier force to lure the [[U.S. 3rd Fleet]] away from Leyte and remove air cover from the Allied landing forces, which would then be attacked from the west by three Japanese forces: V. Adm. [[Takeo Kurita]]'s force would enter [[Leyte Gulf]] and attack the landing forces; [[Rear Admiral|R. Adm.]] [[Shoji Nishimura]]'s force and V. Adm. [[Kiyohide Shima]]'s force would act as mobile strike forces. The plan was likely to result in the destruction of one or more of the Japanese forces, but Toyoda justified it by saying that there would be no sense in saving the fleet and losing the Philippines.
+
+Kurita's "Center Force" consisted of five battleships, 12 cruisers and 13 destroyers. It included the two largest battleships ever built: {{warship|Japanese battleship|Yamato||2}} and {{warship|Japanese battleship|Musashi||2}}. As they passed [[Palawan]] Island after midnight on 23 October the force was spotted, and U.S. submarines sank two cruisers. On 24 October, as Kurita's force entered the [[Sibuyan Sea]], {{USS|Intrepid|CV-11|6}} and [[USS Cabot (CVL-28)|USS ''Cabot '']] launched 260 planes, which scored hits on several ships. A second wave of planes scored many direct hits on ''Musashi''. A third wave, from {{USS|Enterprise|CV-6|6}} and {{USS|Franklin|CV-13|6}} hit ''Musashi'' with 11 bombs and eight torpedoes. Kurita retreated but in the evening turned around to head for San Bernardino Strait. ''Musashi'' sank at about 19:30.
+
+Meanwhile, V. Adm. [[Onishi Takijiro]] had directed his [[Japanese First Air Fleet|First Air Fleet]], 80 land-based planes, against U.S. carriers, whose planes were attacking airfields on Luzon. The carrier {{USS|Princeton|CVL-23|6}} was hit by an armour-piercing bomb and suffered a major explosion which killed 108 crew (out of 1,569) and 80 on a cruiser which was fire-fighting alongside. ''Princeton'' sank, and the cruiser was forced to retire.
+
+Nishimura's force consisted of two battleships, one cruiser and four destroyers. Because they were observing radio silence, Nishimura was unable to synchronise with Shima and Kurita. Nishimura and Shima had failed to even coordinate their plans before the attacks — they were long-time rivals and neither wished to have anything to do with the other. When he entered the narrow [[Surigao Strait]] at about 02:00, Shima was 22 miles (40&nbsp;km) behind him, and Kurita was still in the Sibuyan Sea, several hours from the beaches at Leyte. As they passed [[Panaon Island]], Nishimura's force ran into a trap set for them by the U.S.-Australian [[U.S. 7th Fleet|7th Fleet]] Support Force. R. Adm. [[Jesse Oldendorf]] had six battleships, four [[heavy cruiser]]s, four [[light cruiser]]s, 29 destroyers and 39 [[PT boat]]s. To pass the strait and reach the landings, Nishimura had to run the gauntlet. At about 03:00 the Japanese battleship {{warship|Japanese battleship|Fuso||2}} and three destroyers were hit by torpedoes and ''Fuso'' broke in two. At 03:50 the U.S. battleships opened fire. Radar fire control meant they could hit targets from a much greater distance than the Japanese. The battleship {{warship|Japanese battleship|Yamashiro||2}}, a cruiser and a destroyer were crippled by 16-inch (406&nbsp;mm) shells; ''Yamashiro'' sank at 04:19. Only one of Nishimura's force of seven ships survived the engagement. At 04:25 Shima's force of two cruisers and eight destroyers reached the battle. Seeing ''Fuso'' and believing her to be the wrecks of two battleships, Shima ordered a retreat.
+
+Ozawa's "Northern Force" had four aircraft carriers, two obsolete battleships partly converted to carriers, three cruisers and nine destroyers. The carriers had only 108 planes. The force was not spotted by the Allies until 16:40 on 24 October. At 20:00 Soemu ordered all remaining Japanese forces to attack. Halsey saw an opportunity to destroy the remnants of the Japanese carrier force. The U.S. Third Fleet was formidable — nine large carriers, eight light carriers, six battleships, 17 cruisers, 63 destroyers and 1,000 planes — and completely outgunned Ozawa's force. Halsey's ships set out in pursuit of Ozawa just after midnight. U.S. commanders ignored reports that Kurita had turned back towards San Bernardino Strait. They had taken the bait set by Ozawa. On the morning of 25 October Ozawa launched 75 planes. Most were shot down by U.S. fighter patrols. By 08:00 U.S. fighters had destroyed the screen of Japanese fighters and were hitting ships. By evening, they had sunk the carriers {{warship|Japanese aircraft carrier|Zuikaku||2}}, {{warship|Japanese aircraft carrier|Zuiho||2}}, and {{warship|Japanese aircraft carrier|Chiyoda||2}}, and a destroyer. The fourth carrier, {{warship|Japanese aircraft carrier|Chitose||2}} and a cruiser were disabled and later sank.
+[[Image:Zuikaku at Cape Engano.jpg|thumb|The Japanese aircraft carriers {{warship|Japanese aircraft carrier|Zuikaku||2}}, left, and (probably) {{warship|Japanese aircraft carrier|Zuiho||2}} come under attack by dive bombers early in the battle off Cape Engaño.]]
+
+Kurita passed through [[San Bernardino Strait]] at 03:00 on 25 October and headed along the coast of [[Samar (island)|Samar]]. The only thing standing in his path were three groups (Taffy 1, 2 and 3) of the Seventh Fleet, commanded by Admiral [[Thomas Kinkaid]]. Each group had six [[escort aircraft carrier|escort carriers]], with a total of more than 500 planes, and seven or eight destroyers or [[destroyer escort]]s (DE). Kinkaid still believed that Lee's force was guarding the north, so the Japanese had the element of surprise when they attacked Taffy 3 at 06:45. Kurita mistook the Taffy carriers for large fleet carriers and thought he had the whole Third Fleet in his sights. Since escort carriers stood little chance against a battleship, Adm. [[Clifton Sprague]] directed the carriers of Taffy 3 to turn and flee eastward, hoping that bad visibility would reduce the accuracy of Japanese gunfire, and used his destroyers to divert the Japanese battleships. The destroyers made harassing torpedo attacks against the Japanese. For ten minutes ''Yamato'' was caught up in evasive action. Two U.S. destroyers and a DE were sunk, but they had bought enough time for the Taffy groups to launch planes. Taffy 3 turned and fled south, with shells scoring hits on some of its carriers and sinking one of them. The superior speed of the Japanese force allowed it to draw closer and fire on the other two Taffy groups. However, at 09:20 Kurita suddenly turned and retreated north. Signals had disabused him of the notion that he was attacking the Third Fleet, and the longer Kurita continued to engage, the greater the risk of major air strikes. Destroyer attacks had broken the Japanese formations, shattering tactical control, and two of Kurita's heavy cruisers had been sunk. The Japanese retreated through the San Bernardino Strait, under continuous air attack. The Battle of Leyte Gulf was over.
+
+The battle secured the beachheads of the [[U.S. Sixth Army]] on Leyte against attack from the sea, broke the back of Japanese naval power and opened the way for an advance to the [[Ryukyu Islands]] in 1945. The only significant Japanese naval operation afterwards was the disastrous [[Operation Ten-Go]], in April 1945. Kurita's force had begun the battle with five battleships; when he returned to Japan, only ''Yamato'' was combat-worthy. Nishimura's sunken ''Yamashiro'' was the last battleship in history to engage another in combat.
+
+===Philippines, 1944–45===
+[[Image:Douglas MacArthur lands Leyte1.jpg|thumb|[[Douglas MacArthur|General Douglas MacArthur]] wading ashore at Leyte]]
+{{Main|Philippines Campaign (1944–45)}}
+
+On 20 October 1944 the [[Sixth United States Army|U.S. Sixth Army]], supported by naval and air bombardment, landed on the favorable eastern shore of [[Leyte]], north of [[Mindanao]]. The U.S. Sixth Army continued its advance from the east, as the Japanese rushed reinforcements to the [[Ormoc Bay]] area on the western side of the island. While the Sixth Army was reinforced successfully, the [[Fifth Air Force|U.S. Fifth Air Force]] was able to devastate the Japanese attempts to resupply. In torrential rains and over difficult terrain, the advance continued across Leyte and the neighboring island of Samar to the north. On 7 December U.S. Army units landed at Ormoc Bay and, after a major land and air battle, cut off the Japanese ability to reinforce and supply Leyte. Although fierce fighting continued on Leyte for months, the U.S. Army was in control.
+
+On 15 December 1944 landings against minimal resistance were made on the southern beaches of the island of [[Mindoro]], a key location in the planned [[Lingayen Gulf]] operations, in support of major landings scheduled on [[Luzon]]. On 9 January 1945, on the south shore of Lingayen Gulf on the western coast of Luzon, [[Walter Krueger|General Krueger]]'s Sixth Army landed his first units. Almost 175,000 men followed across the twenty-mile (32&nbsp;km) beachhead within a few days. With heavy air support, Army units pushed inland, taking [[Clark Air Base|Clark Field]], {{convert|40|mi|km}} northwest of [[Manila]], in the last week of January.
+
+Two more major landings followed, one to cut off the [[Bataan Peninsula]], and another, that included a parachute drop, south of Manila. Pincers closed on the city and, on 3 February 1945, elements of the [[1st Cavalry Division (United States)|1st Cavalry Division]] pushed into the northern outskirts of Manila and the 8th Cavalry passed through the northern suburbs and into the city itself.
+
+As the advance on Manila continued from the north and the south, the Bataan Peninsula was rapidly secured. On 16 February paratroopers and amphibious units assaulted the island fortress of [[Corregidor]], and resistance ended there on 27 February.
+
+In all, ten U.S. divisions and five independent regiments battled on Luzon, making it the largest campaign of the Pacific war, involving more troops than the United States had used in North Africa, Italy, or southern France. Eighty percent of the 250,000 Japanese defenders of Luzon were killed, and the rest were still fighting at war's end.<ref name="war"/>
+
+[[Palawan Island]], between [[Borneo]] and Mindoro, the fifth largest and western-most Philippine Island, was invaded on 28 February with landings of the [[Eighth United States Army|Eighth Army]] at [[Puerto Princesa City|Puerto Princesa]]. The Japanese put up little direct defence of Palawan, but cleaning up pockets of Japanese resistance lasted until late April, as the Japanese used their common tactic of withdrawing into the mountain jungles, dispersed as small units. Throughout the Philippines, U.S. forces were aided by Filipino guerrillas to find and dispatch the holdouts.
+
+The U.S. Eighth Army then moved on to its first landing on Mindanao (17 April), the last of the major Philippine Islands to be taken. Mindanao was followed by invasion and occupation of [[Panay]], [[Cebu]], [[Negros Island|Negros]] and several islands in the [[Sulu Archipelago]]. These islands provided bases for the U.S. Fifth and [[Thirteenth Air Force]]s to attack targets throughout the Philippines and the [[South China Sea]].
+
+==Final stages==<!-- This heading is used as a redirect anchor -->
+
+===Allied offensives in Burma, 1944–45===
+{{Main|Burma Campaign 1944-1945}}
+[[Image:Royal Marines land Ramree Burma.jpg|right|thumb|British [[Royal Marines]] land at Ramree]]
+In late 1944 and early 1945, the Allied South East Asia Command launched offensives into Burma, intending to recover most of the country, including [[Yangon|Rangoon]], the capital, before the onset of the monsoon in May.
+
+The Indian XV Corps advanced along the coast in Arakan province, at last capturing [[Sittwe|Akyab Island]] after failures in the two previous years. They then landed troops behind the retreating Japanese, inflicting heavy casualties, and captured [[Ramree Island]] and [[Cheduba Island]] off the coast, establishing airfields on them which were used to support the offensive into Central Burma.
+
+The Northern Combat Area Command resumed its advance in northern Burma, and in late January 1945, they linked up with Chinese armies attacking westwards from [[Yunnan]] province. The Ledo Road was completed, linking India and China, but too late in the war to have any significant effect.
+
+The [[Japanese Burma Area Army]] attempted to forestall the main Allied attack on the central part of the front by withdrawing their troops behind the [[Irrawaddy River]]. Lieutenant General [[Heitarō Kimura]], the new Japanese commander in Burma, hoped that the Allies' lines of communications would be overstretched trying to cross this obstacle. However, the advancing British Fourteenth Army under Lieutenant General [[William Slim]] switched its axis of advance to outflank the main Japanese armies.
+
+[[Image:Royal Indian Army.jpg|thumb|right|[[Gurkha]] troops of Fourteenth Army crossing the Irrawaddy on 27 January 1945.]]
+During February, Fourteenth Army secured bridgeheads across the Irrawaddy on a broad front. On 1 March, units of [[IV Corps (United Kingdom)|IV Corps]] captured the supply centre of [[Meiktila]], throwing the Japanese into disarray. While the Japanese attempted to recapture Meiktila, [[XXXIII Corps (British India)|XXXIII Corps]] captured [[Mandalay]]. The Japanese armies were heavily defeated, and with the capture of Mandalay, the Burmese population and the [[Burma National Army]] which the Japanese had raised, turned against the Japanese.
+
+During April, Fourteenth Army advanced {{convert|300|mi|km}} south towards Rangoon, the capital and principal port of Burma, but was delayed by Japanese rearguards {{convert|40|mi|km}} north of Rangoon at the end of the month. Slim feared that the Japanese would defend Rangoon house-to-house during the monsoon, placing his army in a disastrous supply situation, and in March he had asked that a plan to capture Rangoon by an amphibious force, [[Operation Dracula]], which had been abandoned earlier, be reinstated.<ref>{{Cite book|last=Slim|first=William|authorlink=William Slim|title=Defeat into Victory|year=1956|publisher=Cassell|pages=468–469}}</ref> ''Dracula'' was launched on 1 May, but Rangoon was found to have been abandoned. The troops which occupied Rangoon linked up with Fourteenth Army five days later, securing the Allies' lines of communication.
+
+The Japanese forces which had been bypassed by the Allied advances attempted to break out across the [[Sittang River]] during June and July to rejoin the Burma Area Army which had regrouped in [[Tenasserim]] in southern Burma. They suffered 10,000 casualties, half their strength. Although roughly 150,000 Japanese were to be killed in Burma, only 1,700 were taken prisoner, of whom only 400 could be described as physically fit.<ref name="prisoners"/>
+
+The Allies were preparing to make amphibious landings in Malaya when word of the Japanese surrender arrived.
+
+===Liberation of Borneo===
+[[Image:Balikpapan landing (AWM 018812).jpg|thumb|US LVTs land Australian soldiers at Balikpapan on 7 July 1945]]
+{{Main|Borneo Campaign (1945)}}
+The Borneo Campaign of 1945 was the last major campaign in the [[South West Pacific Area]]. In a series of amphibious assaults between 1 May and 21 July, the [[I Corps (Australia)|Australian I Corps]], under General [[Leslie Morshead]], attacked [[Empire of Japan|Japanese]] forces occupying the island. Allied naval and air forces, centred on the [[U.S. 7th Fleet]] under Admiral [[Thomas Kinkaid]], the [[Australian First Tactical Air Force]] and the U.S. [[Thirteenth Air Force]] also played important roles in the campaign.
+
+The campaign opened with a landing on the small island of [[Battle of Tarakan (1945)|Tarakan]] on 1 May. This was followed on 1 June by simultaneous assaults in the north west, on the island of [[Operation Oboe Six|Labuan]] and the coast of [[Brunei]]. A week later the Australians attacked Japanese positions in [[Battle of North Borneo|North Borneo]]. The attention of the Allies then switched back to the central east coast, with the last major amphibious assault of World War II, at [[Battle of Balikpapan (1945)|Balikpapan]] on 1 July.
+
+Although the campaign was criticised in Australia at the time, and in subsequent years, as pointless or a "waste" of the lives of soldiers, it did achieve a number of objectives, such as increasing the isolation of significant Japanese forces occupying the main part of the [[Dutch East Indies]], capturing major [[petroleum|oil]] supplies and freeing Allied prisoners of war, who were being held in deteriorating conditions.<ref>{{Cite book|last=Grey |first=Jeffrey |authorlink= |coauthors= |title=A Military History of Australia |year=1999 |publisher=Cambridge University Press |location=Cambridge |isbn=0521644836 }}. Pages 184-186.</ref> At one of the very worst sites, around [[Sandakan]] in Borneo, only six of some 2,500 British and Australian prisoners survived.<ref name="prisoners"/>
+
+===Landings in the Japanese home islands===
+{{Main|Japan campaign}}
+[[File:USS Bunker Hill hit by two Kamikazes.jpg|thumb|[[USS Bunker Hill (CV-17)|USS ''Bunker Hill'']] burns after being hit by two [[kamikaze]]s. At Okinawa the kamikazes caused the greatest losses ever suffered by the US Navy in a single battle, killing approximately 5,000 men.]]
+Hard-fought battles on the [[Japanese Archipelago|Japanese home islands]] of [[Battle of Iwo Jima|Iwo Jima]], [[Battle of Okinawa|Okinawa]], and others resulted in horrific casualties on both sides but finally produced a Japanese defeat. Of the 117,000 Japanese troops defending Okinawa, 94 percent died.<ref name="war">"''[http://books.google.com/books?id=jHYqXJA0i6QC&pg=PA41&dq&hl=en#v=onepage&q=&f=false Creating military power: the sources of military effectiveness]''". Risa Brooks, Elizabeth A. Stanley (2007). [[Stanford University Press]]. p.41. ISBN 0804753997</ref> Faced with the loss of most of their experienced pilots, the Japanese increased their use of kamikaze tactics in an attempt to create unacceptably high casualties for the Allies. The U.S. Navy proposed to force a Japanese surrender through a total naval blockade and air raids.<ref>Skates, James. ''Invasion of Japan''.</ref>
+
+Towards the end of the war as the role of strategic bombing became more important, a new command for the [[U.S. Strategic Air Forces in the Pacific]] was created to oversee all U.S. strategic bombing in the hemisphere, under [[United States Army Air Forces]] General [[Curtis LeMay]]. Japanese industrial production plunged as nearly half of the built-up areas of 64 cities were destroyed by [[B-29]] [[Incendiary bomb|firebombing]] raids. On 9–10 March 1945 alone, about 100,000 people were killed in a [[fire storm]] caused by an [[Bombing of Tokyo in World War II|attack on Tokyo]]. In addition, LeMay also oversaw [[Operation Starvation]], in which the inland waterways of Japan were extensively mined by air, which disrupted the small amount of remaining Japanese coastal sea traffic.
+
+===Soviet invasion and the Atomic bomb===
+{{Main|Atomic bombings of Hiroshima and Nagasaki|Soviet–Japanese War (1945)|Soviet invasion of Manchuria (1945)}}
+
+[[Image:Nagasakibomb.jpg|thumb|upright|left|The mushroom cloud from the [[Atomic bombings of Hiroshima and Nagasaki|nuclear explosion over Nagasaki]] rising 60,000&nbsp;feet (18&nbsp;km) into the air on the morning of 9 August 1945.]]
+
+On 3 February 1945 the Soviet Union agreed with Roosevelt to enter the Pacific conflict. It promised to act 90 days after the war ended in Europe and did so exactly on schedule on 9 August by [[Soviet invasion of Manchuria|invading Manchuria]]. A battle-hardened, one million-strong Soviet force, transferred from Europe, attacked Japanese forces in [[Manchuria]] and quickly defeated the Japanese ''[[Kwantung Army|Kantōgun]]'' (Kwantung Army group).<ref>Raymond L. Garthoff. The Soviet Manchurian Campaign, August 1945. Military Affairs, Vol. 33, No. 2 (Oct., 1969), pp. 312-336</ref>
+
+On 6 August 1945, the B-29 ''[[Enola Gay]]'' dropped an [[atomic bomb]] on the Japanese city of [[Hiroshima]], in the first [[Nuclear warfare|nuclear attack]] in history. On 9 August another was dropped on [[Nagasaki, Nagasaki|Nagasaki]]. This was the last nuclear attack. More than 240,000 people died as a direct result of these two bombings.<ref name=anderson>Professor Duncan Anderson, 2005,[http://www.bbc.co.uk/history/worldwars/wwtwo/nuclear_02.shtml "Nuclear Power: The End of the War Against Japan"] (''World War Two'', BBC History website) Access date: 11 September 2007.</ref> The necessity of the atomic bombings has long been debated, with detractors claiming that a naval [[blockade]] and [[strategic bombing|bombing campaign]] had already made invasion, hence the atomic bomb, unnecessary.<ref>See, for example, Alperowitz, G., ''The Decision to Use the Atomic Bomb'' (1995; New York, Knopf; ISBN 0-679-44331-2) for this argument.</ref>
+However, other scholars have argued that the bombings did obviate invasion, including a [[Proposed Soviet invasion of Japan in World War II|planned Soviet invasion]] of [[Hokkaidō]], or a prolonged blockade and bombing campaign, any of which may have exacted even higher casualties among Japanese civilians.<ref name=anderson/>
+
+===Surrender===
+[[Image:Douglas MacArthur signs formal surrender.jpg|thumb|right|[[Douglas MacArthur]] signs the formal [[Japanese Instrument of Surrender (1945)|surrender of Japanese forces]] on the {{USS|Missouri|BB-63|6}}, 2 September 1945.]]
+[[File:Japan Instrument of Surrender 2 September 1945.jpg|thumb|Japan's Instrument of Surrender, 2 September 1945.]]
+The effects of the "Twin Shocks"—the [[Soviet–Japanese War (1945)|Soviet entry]] and the [[Atomic bombings of Hiroshima and Nagasaki|atomic bombing]]—were profound. On 10 August the "sacred decision" was made by Japanese Cabinet to accept the [[Potsdam Declaration|Potsdam terms]] on one condition: the "prerogative of His Majesty as a Sovereign Ruler". At noon on 15 August, after the American government's intentionally ambiguous reply, stating that the "authority" of the emperor "shall be subject to" the Supreme Commander of the Allied Powers", the Emperor broadcast to the nation and to the world at large the rescript of surrender,<ref>Sadao Asada. The Shock of the Atomic Bomb and Japan's Decision to Surrender: A Reconsideration. The Pacific Historical Review, Vol. 67, No. 4 (Nov., 1998), pp. 477-512.</ref> ending the Second World War.
+
+"Should We continue to fight, it would not only result in an ultimate collapse and obliteration of the Japanese nation, but also it would lead to the total extinction of human civilization." -Emperor Hirohito.{{Citation needed|date=April 2010}}
+
+In Japan, 14 August is considered to be the day that the Pacific War ended. However, as Imperial Japan actually surrendered on 15 August, this day became known in the English-speaking countries as "[[V-J Day]]" (Victory in Japan).<ref>{{cite web|url=http://www.wanpela.com/holdouts/list.html |title=Chronology of Japanese Holdouts |publisher=Wanpela.com |date= |accessdate=2010-10-31}}</ref> The formal [[Japanese Instrument of Surrender (1945)|Instrument of Surrender]] was signed on 2 September 1945, on the battleship {{USS|Missouri|BB-63|6}}, in [[Tokyo Bay]]. The surrender was accepted by General Douglas MacArthur as "[[Supreme Commander Allied Powers|Supreme Commander for the Allied Powers]], with representatives of several Allied nations, from a Japanese delegation led by [[Mamoru Shigemitsu]] and [[Yoshijiro Umezu]].
+
+Following this period, MacArthur went to Tokyo to oversee the postwar development of the country. This period in Japanese history is known as [[Occupation of Japan|the occupation]].
+
+==War crimes==
+{{Main|Japanese war crimes|Tokyo War Crimes Tribunal|Allied war crimes during World War II}}
+[[Empire of Japan|Japanese]] soldiers rounded up and killed millions of civilians and prisoners of war from surrounding nations.<ref>{{cite web|url=http://www.hawaii.edu/powerkills/SOD.CHAP3.HTM |title=Rummel, R.J. '&#39;'Statistics of Democide: Genocide and Mass Murder since 1900'&#39;' Chapter 3. LIT Verlag Münster-Hamburg-Berlin-Wien-London-Zürich (1999) |publisher=Hawaii.edu |date= |accessdate=2010-10-31}}</ref> At least 20 million Chinese died during the Sino-Japanese War (1937–1945).<ref>"[http://www.bbc.co.uk/history/worldwars/wwtwo/nuclear_01.shtml Nuclear Power: The End of the War Against Japan]". BBC - History.</ref><ref>"[http://www.chinadaily.com.cn/english/doc/2005-08/15/content_468908.htm Remember role in ending fascist war]"</ref>
+[[Image:LeonardGSiffleet.jpg|thumb|upright|left|Australian POW moments before his execution]]
+[[Unit 731]] was one example of wartime atrocities committed on a civilian population during World War II, where experiments were performed on thousands of [[Han Chinese|Chinese]] civilians and [[Allied]] prisoners of war. In military campaigns, the Japanese army used [[biological weapons]] on Chinese, killing around 400,000 Chinese civilians.<ref>{{Cite news|title=Doctors of Depravity |publisher=Daily Mail |author=Christopher Hudson |date=2 March 2007 |url=http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=439776&in_page_id=1770}}</ref> [[The Rape of Nanking]] is another example of atrocity committed by Japanese soldiers on a civilian population.<ref>{{cite web|url=http://www.history.ucsb.edu/faculty/marcuse/classes/133p/133p04papers/JChapelNanjing046.htm |first=Joseph |last=Chapel |title=Denial of the Holocaust and the Rape of Nanking |year=2004}}</ref>
+
+According to the findings of the [[Tokyo tribunal]], the death rate of Western prisoners was 27.1%, seven times that of POWs under the Germans and Italians.<ref name="prisoners">"''[http://books.google.com/books?id=ktCv32ysz0AC&pg=PA47&dq&hl=en#v=onepage&q=&f=false Japanese prisoners of war]''". Philip Towle, Margaret Kosuge, Yōichi Kibata (2000). [[Continuum International Publishing Group]]. pp.47-48. ISBN 1852851929</ref> The most notorious use of forced labour was in the construction of the Burma–Thailand [[Death Railway]]. A widely publicised example of institutionalised sexual slavery are "[[comfort women]]", a euphemism for the 200,000 women who served in the Japanese army's camps during World War II. Some 35 Dutch comfort women brought a successful case before the Batavia Military Tribunal in 1948.<ref>{{Cite book|last= de Brouwer |first=Anne-Marie |title= Supranational Criminal Prosecution of Sexual Violence |url=http://books.google.com/?id=JhY8ROsA39kC&dq=war+rape+in+ancient+times |publisher=Intersentia |isbn=9050955339 |page=8 |year=2005 }}</ref> To this day, Japan still denies these war crimes as Prime Minister [[Shinzō Abe]] claimed "The fact is, there is no evidence to prove there was coercion."<ref>"[http://search.japantimes.co.jp/cgi-bin/nn20070302a9.html No government coercion in war's sex slavery: Abe]", The Japan Times, March 2, 2007</ref>
+
+The [[Three Alls Policy]] (''Sankō Sakusen'') was a Japanese [[scorched earth]] policy adopted in China, the three alls being: ''"Kill All, Burn All and Loot All"''. Initiated in 1940 by [[Ryukichi Tanaka|Ryūkichi Tanaka]], the ''Sankō Sakusen'' was implemented in full scale in 1942 in north China by [[Yasuji Okamura]]. According to historian Mitsuyoshi Himeta, the scorched earth campaign was responsible for the deaths of "more than 2.7 million" Chinese civilians.<ref>Himeta, Mitsuyoshi (姫田光義) (日本軍による『三光政策・三光作戦をめぐって』) (''Concerning the Three Alls Strategy/Three Alls Policy By the Japanese Forces''), Iwanami Bukkuretto, 1996, Bix, ''Hirohito and the Making of Modern Japan'', 2000</ref>
+
+==Pacific War campaigns==
+(Flags indicate the country, or countries, taking the offensive.)
+<!-- the dates are in ISO 8601 format so this list can easily be sorted for the purposes of "battle before/after" in battlesboxes. -->
+
+===Second Sino-Japanese war===
+Before 1941 and inclusion in the Pacific War :
+* {{Flag icon|Empire of Japan|size=20px}} 1937-07-07 – 1937-07-09 [[Marco Polo Bridge Incident]]
+* {{Flag icon|Empire of Japan|size=20px}} 1937-08-13 – 1937-11-26 [[Battle of Shanghai]]
+* {{Flag icon|Empire of Japan|size=20px}} 1937-09-01 – 1937-11-09 [[Battle of Taiyuan]]
+* {{Flag icon|Empire of Japan|size=20px}} 1937-12-09 – 1938-01-31 [[Battle of Nanjing]]
+* {{Flag icon|Empire of Japan|size=20px}} 1938-03-24 – 1938-05-01 [[Battle of Xuzhou]]
+* {{Flag icon|Empire of Japan|size=20px}} 1938-06-11 – 1938-10-27 [[Battle of Wuhan]]
+* {{Flag icon|Empire of Japan|size=20px}} 1939-03-17 – 1939-05-09 [[Battle of Nanchang]]
+* {{Flag icon|Republic of China|size=20px}} 1939-04-20 - 1939-05-24 [[Battle of Suixian-Zaoyang]]
+* {{Flag icon|Republic of China|size=20px}} 1939-09-13 - 1939-10-08 [[Battle of Changsha (1939)]]
+* {{Flag icon|Republic of China|size=20px}} 1939-11-15 - 1940-11-30 [[Battle of South Guangxi]]
+* {{Flag icon|Republic of China|size=20px}} 1940-05-01 - 1940-06-18 [[Battle of Zaoyang-Yichang]]
+* {{Flag icon|Republic of China|size=20px}} 1941-01-30 - 1941-03-01 [[Battle of South Henan]]
+* {{Flag icon|Republic of China|size=20px}} 1941-03-14 - 1941-04-09 [[Battle of Shanggao]]
+* {{Flag icon|Empire of Japan|size=20px}} 1941-05-07 – 1941-05-27 [[Battle of South Shanxi]]
+* {{Flag icon|Republic of China|size=20px}} 1941-09-06 - 1941-10-08 [[Battle of Changsha (1941)]]
+After inclusion in the Pacific War :
+* {{Flag icon|Republic of China|size=20px}} 1941-02-24 - 1942-01-15 [[Battle of Changsha (1942)]]
+* {{Flag icon|Republic of China|size=20px}} 1942-05-14 - 1942-09-07 [[Zhejiang-Jiangxi Campaign]]
+* {{Flag icon|Republic of China|size=20px}} 1943-05-12 - 1943-06-03 [[Battle of West Hubei]]
+* {{Flag icon|Republic of China|size=20px}} 1943-11-02 - 1943-12-20 [[Battle of Changde]]
+* {{Flag icon|Empire of Japan|size=20px}} 1944-04-17 - 1944-12-10 [[Operation Ichi-Go]]
+* {{Flag icon|Republic of China|size=20px}}{{Flag icon|United States|1912|size=20px}} 1945-04-09 - 1945-06-07 [[Battle of West Hunan]]
+
+{{Flag icon|Thailand}} '''[[Franco-Thai War]]'''
+* October 1940 – 9 May 1941
+
+{{Flag icon|Soviet Union|1923}} '''[[Soviet-Japanese Border Wars]]'''
+* 1938-07-29 – 1938-08-11 [[Battle of Lake Khasan]]
+* 1939-05-11 – 1939-09-16 [[Battle of Khalkhin Gol]]
+
+===Japanese conquest of Southeast Asia and Pacific===
+* {{Flag icon|Empire of Japan|size=20px}} 1940-09-22 [[Invasion of French Indochina]]
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-07 (12-08 [[Japan Standard Time|Asian Time]]) [[Attack on Pearl Harbor]]
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-08 [[Japanese Invasion of Thailand]]
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-08 [[Battle of Guam (1941)]]
+* 1941-12-07 Japan declares war on the United States and the United Kingdom; 1941-12-08 The United States and the United Kingdom declare war on Japan
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-08 – 1941-12-25 [[Battle of Hong Kong]]
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-08 – 1942-01-31 [[Malayan Campaign]]
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-10 [[Sinking of Prince of Wales and Repulse|Sinking]] of {{HMS|Prince of Wales|1939|6}} and {{HMS|Repulse|1916|6}}
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-11 – 1941-12-24 [[Battle of Wake Island]]
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-16 – 1942-04-01 [[Battle of Borneo (1941–42)]]
+* {{Flag icon|Empire of Japan|size=20px}} 1941-12-22 – 1942-05-06 [[Philippines Campaign (1941–42)|Battle of the Philippines]]
+* 1942-01-01 – 1945-10-25 Transport of POWs via [[hell ship]]s
+* {{Flag icon|Empire of Japan|size=20px}} 1942-01-11 – 1942-01-12 [[Battle of Tarakan (1942)|Battle of Tarakan]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-01-23 [[Battle of Rabaul (1942)]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-01-24 [[Battle of Balikpapan (1942)]]
+* 1942-01-25 [[Thailand]] declares war on the Allies
+* {{Flag icon|Empire of Japan|size=20px}} 1942-01-30 – 1942-02-03 [[Battle of Ambon]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-01-30 – 1942-02-15 [[Battle of Singapore]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-02-04 [[Battle of Makassar Strait]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-02-14 – 1942-02-15 [[Battle of Palembang]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-02-19 [[Bombing of Darwin (February 1942)‎|Air raids on Darwin]], Australia
+* {{Flag icon|Empire of Japan|size=20px}} 1942-02-19 – 1942-02-20 [[Battle of Badung Strait]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-02-19 – 1943-02-10 [[Battle of Timor (1942-43)]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-02-27 – 1942-03-01 [[Battle of the Java Sea]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-03-01 [[Battle of Sunda Strait]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-03-01 – 1942-03-09 [[Battle of Java (1942)|Battle of Java]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-03-31 [[Battle of Christmas Island]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-03-31 – 1942-04-10 [[Indian Ocean raid]]
+* 1942-04-09 [[Bataan Death March]] begins
+* {{Flag icon|United States|1912|size=20px}} 1942-04-18 [[Doolittle Raid]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-05-03 [[invasion of Tulagi (May 1942)|Japanese invasion of Tulagi]]
+*{{Flag icon|Australia|size=20px}} {{Flag icon|United States|1912|size=20px}} 1942-05-04 – 1942-05-08 [[Battle of the Coral Sea]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-05-31 – 1942-06-08 [[Attack on Sydney Harbour|Attacks on Sydney Harbour area]], Australia
+* {{Flag icon|United States|1912|size=20px}} 1942-06-04 – 1942-06-06 [[Battle of Midway]]
+
+===Allied offensives===
+{| class="wikitable"
+|-
+! colspan=3|[[Atlas of the World Battle Fronts|See Atlas of Battle Fronts from July 1943 to August 1945 at Half-Month intervals]]
+|- <!--some browsers ignore--> style="font-size:92%; text-align:center;"
+|[[Image:1943-07-01JapWW2BattlefrontAtlas.jpg|110px]]<br />1943-07-01
+|[[Image:1943-12-01JapWW2BattlefrontAtlas.jpg|110px]]<br />1943-12-01
+|[[Image:1944-05-01JapWW2BattlefrontAtlas.jpg|110px]]<br />1944-05-01
+|-  style="font-size:92%; text-align:center;"
+|[[Image:1944-11-01JapWW2BattlefrontAtlas.jpg|110px]]<br />1944-11-01
+|[[Image:1945-03-01JapWW2BattlefrontAtlas.jpg|110px]]<br />1945-03-01
+|[[Image:1945-08-01JapWW2BattlefrontAtlas.jpg|110px]]<br />1945-08-01
+|}
+'''[[South-East Asian theater of World War II|South East Asian campaigns]]''': 1941-12-08 – 1945-08-15
+* {{Flag icon|Republic of China|size=20px}} {{Flag icon|United Kingdom}} {{Flag icon|India|British}} {{Flag icon|United States|1912}} [[Burma Campaign]]: 1941-12-16 – 1945-08-15
+* {{Flag icon|United Kingdom}} 1945-05-15 – 1945-05-16 [[Battle of the Malacca Strait]]
+
+'''[[New Guinea campaign]]'''
+* {{Flag icon|Empire of Japan|size=20px}} 1942-01-23 – [[Battle of Rabaul (1942)|Battle of Rabaul]]
+* 1942-03-07 – [[Operation Mo]] (Japanese invasion of mainland [[New Guinea]])
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1942-05-04 – 1942-05-08 [[Battle of the Coral Sea]]
+* {{Flag icon|Australia}} 1942-07-01 – 1943-01-31 [[Kokoda Track Campaign]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1942-08-25 – 1942-09-05 [[Battle of Milne Bay]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1942-11-19 – 1943-01-23 [[Battle of Buna-Gona]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1943-01-28 – 1943-01-30 [[Battle of Wau]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1943-03-02 – 1943-03-04 [[Battle of the Bismarck Sea]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1943-06-29 – 1943-09-16 [[Battle of Lae]]
+* {{Flag icon|Australia}} {{Flag icon|New Zealand}} {{Flag icon|United States|1912}} 1943-06-30 – 1944-03-25 [[Operation Cartwheel]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1943-09-19 – 1944-04-24 [[Finisterre Range campaign]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1943-09-22 – 1944-01-15 [[Huon Peninsula campaign]]
+* {{Flag icon|Australia}} {{Flag icon|New Zealand}} {{Flag icon|United States|1912}} 1943-11-01 – 1943-11-11 [[Attack on Rabaul]]
+* {{Flag icon|Australia}} {{Flag icon|New Zealand}} {{Flag icon|United States|1912}} 1943-12-15 – 1945-08-15 [[New Britain campaign]]
+* {{Flag icon|United States|1912}} 1944-02-29 – 1944-03-25 [[Admiralty Islands campaign]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1944-04-22 – 1945-08-15 [[Western New Guinea campaign]]
+
+'''[[Battle of Madagascar|Madagascar Campaign]]'''
+* {{Flag icon|United Kingdom}}{{Flag icon|Southern Rhodesia}}{{Flag icon|South Africa|1928}}{{Flag icon|Australia|naval}} 1942-05-05 – 1942-11-06 [[Battle of Madagascar]]
+
+'''[[Aleutian Islands Campaign]]'''
+* {{Flag icon|Canada|1957}} {{Flag icon|United States|1912}} 1942-06-06 – 1943-08-15 [[Battle of the Aleutian Islands]]
+* {{Flag icon|Canada|1957}} {{Flag icon|United States|1912}} 1942-06-07 – 1943-08-15 [[Battle of Kiska]]
+* {{Flag icon|United States|1912}} 1943-03-26 – [[Battle of the Komandorski Islands]]
+
+'''[[Guadalcanal Campaign]]'''
+* {{Flag icon|Australia}} {{Flag icon|New Zealand}} {{Flag icon|United States|1912}} {{Flag icon|Tonga}} 1942-08-07 – 1943-02-09 [[Battle of Guadalcanal]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-08-09 [[Battle of Savo Island]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1942-08-24 – 1942-08-25 [[Battle of the Eastern Solomons]]
+* {{Flag icon|United States|1912}} 1942-10-11 – 1942-10-12 [[Battle of Cape Esperance]]
+* 1942-10-25 – 1942-10-27 [[Battle of the Santa Cruz Islands]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1942-11-13 – 1942-11-15 [[Naval Battle of Guadalcanal]]
+* {{Flag icon|Empire of Japan|size=20px}} 1942-11-30 [[Battle of Tassafaronga]]
+
+'''[[Solomon Islands campaign]]'''
+* {{Flag icon|Empire of Japan|size=20px}} 1943-01-29 – 1943-01-30 [[Battle of Rennell Island]]
+* {{Flag icon|United States|1912}} 1943-03-06 [[Battle of Blackett Strait]]
+* {{Flag icon|Australia}} {{Flag icon|New Zealand}} {{Flag icon|United States|1912}} {{Flag icon|Fiji}} 1943-06-10 – 1943-08-25 [[New Georgia Campaign]]
+* 1943-07-06 [[Battle of Kula Gulf]]
+* {{Flag icon|Empire of Japan|size=20px}} 1943-07-12 – 1943-07-13 [[Battle of Kolombangara]]
+* {{Flag icon|United States|1912}} 1943-08-06 – 1943-08-07 [[Battle of Vella Gulf]]
+* {{Flag icon|Japan|size=20px}} 1943-08-17 – 1943-08-18 [[Battle off Horaniu]]
+* {{Flag icon|New Zealand}} {{Flag icon|United States|1912}} {{Flag icon|Fiji}} 1943-08-15 – 1943-10-09 [[Land Battle of Vella Lavella]]
+* {{Flag icon|Empire of Japan|size=20px}} 1943-10-06 [[Naval Battle of Vella Lavella]]
+* {{Flag icon|Australia}} {{Flag icon|New Zealand}} {{Flag icon|United States|1912}} {{Flag icon|Fiji}} 1943-11-01 – 1945-08-21 [[Battle of Bougainville]]
+* {{Flag icon|United States|1912}} 1943-11-01 – 1943-11-02 [[Battle of Empress Augusta Bay]]
+* {{Flag icon|United States|1912}} 1943-11-26 [[Battle of Cape St. George]]
+
+'''[[Gilbert and Marshall Islands campaign]]'''
+* {{Flag icon|United States|1912}} 1943-11-20 – 1943-11-23 [[Battle of Tarawa]]
+* {{Flag icon|United States|1912}} 1943-11-20 – 1943-11-24 [[Battle of Makin]]
+* {{Flag icon|United States|1912}} 1944-01-31 – 1944-02-07 [[Battle of Kwajalein]]
+* {{Flag icon|United States|1912}} 1944-02-16 – 1944-02-17 [[Operation Hailstone|Attack on Truk]]
+* {{Flag icon|United States|1912}} 1944-02-16 – 1944-02-23 [[Battle of Eniwetok]]
+
+'''[[Bombing of South East Asia, 1944-45]]'''
+* {{Flag icon|United Kingdom}} {{Flag icon|United States|1912}} [[Operation Cockpit]] 1944-04-19
+* {{Flag icon|United Kingdom}} {{Flag icon|United States|1912}} [[Operation Transom]] 1944-05-17
+* {{Flag icon|United States|1912}} [[Operation Matterhorn]] 1944-06-05 – May 1945
+* {{Flag icon|United Kingdom}} [[Operation Meridian]] 1945-01-24 – 1945-01-29
+
+'''[[Mariana and Palau Islands campaign]]'''
+* {{Flag icon|United States|1912}} 1944-06-15 – 1944-07-09 [[Battle of Saipan]]
+* {{Flag icon|United States|1912}} 1944-06-19 – 1944-06-20 [[Battle of the Philippine Sea]]
+* {{Flag icon|United States|1912}} 1944-07-21 – 1944-08-10 [[Battle of Guam (1944)|Battle of Guam]]
+* {{Flag icon|United States|1912}} 1944-07-24 – 1944-08-01 [[Battle of Tinian]]
+* {{Flag icon|United States|1912}} 1944-09-15 – 1944-11-25 [[Battle of Peleliu]]
+* {{Flag icon|United States|1912}} 1944-09-17 – 1944-09-30 [[Battle of Angaur]]
+
+'''[[Philippines campaign (1944-45)|Philippines campaign]]'''
+* {{Flag icon|Australia}} {{Flag icon|Philippines|1919}}{{Flag icon|United States|1912}} 1944-10-20 – 1944-12-10 [[Battle of Leyte]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1944-10-24 – 1944-10-25 [[Battle of Leyte Gulf]]
+* {{Flag icon|United States|1912}} 1944-11-11 – 1944-12-21 [[Battle of Ormoc Bay]]
+* {{Flag icon|Mexico}} {{Flag icon|Philippines|1919}} {{Flag icon|United States|1912}} 1944-12-15 – 1945-07-04 [[Battle of Luzon]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1945-01-09 [[Invasion of Lingayen Gulf]]
+* {{Flag icon|Philippines|1919}} {{Flag icon|United States|1912}} 1945-01-31 – 1945-02-08 [[Battle of Bataan (1945)|Recapture of Bataan]]
+* {{Flag icon|Philippines|1919}} {{Flag icon|United States|1912}} 1945-02-03 – 1945-03-03 [[Battle of Manila]]
+* {{Flag icon|Philippines|1919}} {{Flag icon|United States|1912}} 1945-03-18 – 1945-07-30 [[Battle of the Visayas]]
+* {{Flag icon|Philippines|1919}} {{Flag icon|United States|1912}} 1945-03-10 – 1945-08-15 [[Battle of Mindanao]]
+
+'''[[Volcano and Ryukyu Islands campaign]]'''
+* {{Flag icon|United States|1912}} 1945-02-16 – 1945-03-26 [[Battle of Iwo Jima]]
+* {{Flag icon|Australia}} {{Flag icon|Canada|1957}} {{Flag icon|New Zealand}} {{Flag icon|United Kingdom}} {{Flag icon|United States|1912}} 1945-04-01 – 1945-06-21 [[Battle of Okinawa]]
+* {{Flag icon|United States|1912}} 1945-04-07 [[Operation Ten-Go]]
+
+'''[[Borneo campaign (1945)|Borneo campaign]]'''
+* {{Flag icon|Australia}} {{Flag icon|Netherlands}} {{Flag icon|United States|1912}} 1945-05-01 – 1945-05-25 [[Battle of Tarakan (1945)|Battle of Tarakan]]
+* {{Flag icon|Australia}} 1945-06-10 – 1945-06-15 [[Battle of Brunei]]
+* {{Flag icon|Australia}} 1945-06-10 – 1945-06-22 [[Battle of Labuan]]
+* {{Flag icon|Australia}} 1945-06-17 – 1945-08-15 [[Battle of North Borneo]]
+* {{Flag icon|Australia}} {{Flag icon|United States|1912}} 1945-07-07 – 1945-07-21 [[Battle of Balikpapan (1945)|Battle of Balikpapan]]
+
+'''[[Japan campaign]]'''
+* {{Flag icon|United States|1912}} 1945-07-22 [[Battle of Tokyo Bay]]
+* {{Flag icon|United States|1912}} 1945-08-06 – 1945-08-09 [[Atomic bombings of Hiroshima and Nagasaki]]
+
+'''[[Soviet invasion of Manchuria]]'''
+* {{Flag icon|Soviet Union|1923}}1945-08-08 – 1945-09-02 [[Soviet invasion of Manchuria]]
+
+==Command areas==
+The command structures of the Pacific War varied, reflecting the different roles of various belligerent nations, and often involving different geographic scopes. These included the following:
+
+* Purely American commands:
+** [[Pacific Ocean theater of World War II|Pacific Ocean Theater]]
+** [[South West Pacific theatre of World War II|South West Pacific Theater]]
+** [[South-East Asian Theater of World War II|South-East Asian Theater]]
+* Other Allied commands:
+** [[American-British-Dutch-Australian Command]]
+** [[Far East Command (Soviet Union)]], the Soviet command during the war against Japan in 1945
+* Japanese commands:
+** [[Japanese Combined Fleet]], the Japanese command which oversaw naval operations
+** [[Southern Expeditionary Army Group]], the Japanese army command in the South West Pacific and South East Asia
+
+==See also==
+{{Portal box|World War II|War|History}}
+*[[Battle between HMAS Sydney and German auxiliary cruiser Kormoran]]
+*[[European Theatre of World War II]]
+*[[Japanese holdout]]
+*[[Operation Downfall]]
+*[[Pacific Theater of Operations]]
+*[[Template:Timeline WWII - Pacific Theater|Timeline WW II — Pacific Theater]]
+
+==Footnotes==
+{{Reflist|colwidth=30em|group=nb}}
+
+==Citations==
+{{Reflist|colwidth=30em}}
+
+==References==
+{{refbegin}}
+* [http://www.questia.com/PM.qst?a=o&d=82355094 Eric M. Bergerud, ''Fire in the Sky: The Air War in the South Pacific'' (2000)]
+* Clay Blair, Jr. ''Silent Victory''. Philadelphia: Lippincott, 1975 (submarine war).
+* Thomas Buell, ''Master of Seapower: A Biography of Admiral Ernest J. King'' Naval Institute Press, 1976.
+* Thomas Buell, ''The Quiet Warrior: A Biography of Admiral Raymond Spruance''. 1974.
+* John Costello, ''The Pacific War''. 1982.
+* Wesley Craven, and James Cate, eds. ''The Army Air Forces in World War II. Vol. 1, Plans and Early Operations, January 1939 to August 1942''. University of Chicago Press, 1958. Official history; Vol. 4, The Pacific: Guadalcanal to Saipan, August 1942 to July 1944''. 1950; Vol. 5, The Pacific: Matterhorn to Nagasaki''. 1953.
+* Dunnigan, James F., and Albert A. Nofi. ''The Pacific War Encyclopedia.'' Facts on File, 1998. 2 vols. 772p.
+* [http://www.questia.com/PM.qst?a=o&d=94432774 Harry A. Gailey.' 'The War in the Pacific: From Pearl Harbor to Tokyo Bay'' (1995)]
+* Gordon, David M. "The China-Japan War, 1931-1945" ''Journal of Military History'' (January 2006) v 70#1, pp 137–82. Historiographical overview of major books
+* Seki, Eiji. (2006). ''Mrs. Ferguson's Tea-Set, Japan and the Second World War: The Global Consequences Following Germany's Sinking of the SS Automedon in 1940.'' London: [[Global Oriental]]. 10-ISBN 1-905246-28-5; 13- ISBN 978-1-905246-28-1 (cloth) (reprinted by [[University of Hawaii Press]]), Honolulu, 2007. [http://www.uhpress.hawaii.edu/cart/shopcore/?db_name=uhpress&page=shop/flypage&product_id=4475&PHPSESSID=75b7d372eb6f6c4d747ec0a150c42ead previously announced as ''Sinking of the SS Automedon and the Role of the Japanese Navy: A New Interpretation''].
+* Saburo Hayashi and Alvin Coox. ''Kogun: The Japanese Army in the Pacific War''. Quantico, Virginia: Marine Corps Assoc., 1959.
+* James C. Hsiung and Steven I. Levine, eds. ''China's Bitter Victory: The War with Japan, 1937–1945'' M. E. Sharpe, 1992
+* Ch'i Hsi-sheng, ''Nationalist China at War: Military Defeats and Political Collapse, 1937–1945'' University of Michigan Press, 1982
+* Rikihei Inoguchi, Tadashi Nakajima, and Robert Pineau. ''The Divine Wind''. Ballantine, 1958. Kamikaze.
+* S. Woodburn Kirby, ''The War Against Japan''. 4 vols. London: H.M.S.O., 1957-1965. Official Royal Navy history.
+* William M. Leary, ''We Shall Return: MacArthur's Commanders and the Defeat of Japan''. University Press of Kentucky, 1988.
+* Gavin Long, ''Australia in the War of 1939–45'', Army. Vol. 7, The Final Campaigns. Canberra: Australian War Memorial, 1963.
+* Dudley McCarthy, ''Australia in the War of 1939–45, Army. Vol. 5, South-West Pacific Area—First Year: Kokoda to Wau''. Canberra: Australian War Memorial, 1959.
+* D. Clayton James, ''The Years of MacArthur''. Vol. 2. Houghton Mifflin, 1972.
+* Maurice Matloff and Edwin M. Snell [http://www.history.army.mil/books/wwii/Sp1941-42/index.htm ''Strategic Planning for Coalition Warfare 1941–1942''], [[United States Army Center of Military History]],  Washington, D. C., 1990
+* {{Cite book
+ | last = Miller
+ | first = Edward S.
+ | coauthors =
+ | year = 2007
+ | title = War Plan Orange: The U.S. Strategy to Defeat Japan, 1897-1945
+ | publisher = US Naval Institute Press
+ | location =
+ | isbn = 1591145007
+}}
+* Samuel Eliot Morison, ''History of United States Naval Operations in World War II''. Vol. 3, The Rising Sun in the Pacific. Boston: Little, Brown, 1961; Vol. 4, Coral Sea, Midway and Submarine Actions. 1949; Vol. 5, The Struggle for Guadalcanal. 1949; Vol. 6, Breaking the Bismarcks Barrier. 1950; Vol. 7, Aleutians, Gilberts, and Marshalls. 1951; Vol. 8, New Guinea and the Marianas. 1962; Vol. 12, Leyte. 1958; vol. 13, The Liberation of the Philippines: Luzon, Mindanao, the Visayas. 1959; Vol. 14, Victory in the Pacific. 1961.
+* Masatake Okumiya, and Mitso Fuchida. ''Midway: The Battle That Doomed Japan''. Naval Institute Press, 1955.
+* E. B. Potter, and Chester W. Nimitz. ''Triumph in the Pacific''. Prentice Hall, 1963. Naval battles
+* E. B. Potter, ''Bull Halsey'' Naval Institute Press, 1985.
+* E. B. Potter, ''Nimitz''. Annapolis, Maryland: Naval Institute Press, 1976.
+* John D. Potter, ''Yamamoto'' 1967.
+* Gordon W. Prange, Donald Goldstein, and Katherine Dillon. ''At Dawn We Slept''. Penguin, 1982. Pearl Harbor
+* ——, ''et al.'' ''Miracle at Midway''. Penguin, 1982.
+* ——, ''et al.'' ''Pearl Harbor: The Verdict of History''.
+* {{Cite book
+ | last = Seki
+ | first = Eiji
+ | coauthors =
+ | year = 2007
+ | title = Sinking of the SS Automedon And the Role of the Japanese Navy: A New Interpretation
+ | publisher = University of Hawaii Press
+ | location =
+ | isbn = 1905246285
+}}
+* Henry Shaw, and Douglas Kane. ''History of U.S. Marine Corps Operations in World War II. Vol. 2, Isolation of Rabaul''. Washington, D.C.: Headquarters, U.S. Marine Corps, 1963
+* Henry Shaw, Bernard Nalty, and Edwin Turnbladh. ''History of U.S. Marine Corps Operations in World War II. Vol. 3, Central Pacific Drive.'' Washington, D.C.: Office of the Chief of Military History, 1953.
+* E.B. Sledge, ''[[With the Old Breed]]: At Peleliu and Okinawa.'' Presidio, 1981. Memoir.
+* J. Douglas Smith, and Richard Jensen. ''World War II on the Web: A Guide to the Very Best Sites''. (2002)
+* Ronald Spector, ''Eagle Against the Sun: The American War with Japan'' Free Press, 1985.
+* John Toland, ''The Rising Sun''. 2 vols. Random House, 1970. Japan's war.
+* H. P. Willmott. ''Empires in the Balance''. Annapolis: United States Naval Institute Press, 1982.
+* ——. ''The Barrier and the Javelin''. Annapolis: United States Naval Institute Press, 1983.
+* Gerhard L. Weinberg, ''A World at Arms: A Global History of World War II,'' Cambridge University Press. ISBN 0-521-44317-2. (2005).
+* William Y'Blood, ''Red Sun Setting: The Battle of the Philippine Sea''. Annapolis, Maryland: Naval Institute Press, 1980.
+*{{Cite book
+ | last = Harries
+ | first = Meirion
+ | authorlink =
+ | coauthors = Susie Harries
+ | year = 1994
+ | chapter =
+ | title = Soldiers of the Sun : The Rise and Fall of the Imperial Japanese Army
+ | publisher = [[Random House]]
+ | location = New York
+ | isbn = 0-679-75303-6
+}}
+{{refend}}
+
+==External links==
+{{Commons category}}
+* [http://www.britishpathe.com/record.php?id=12427 Film Footage of the Pacific War]
+* [http://www.stratisc.org/Strategique_81_10.htm La politique de la sphère de coprospérité de la grande Asie orientale au Japon] {{fr icon}}
+* [http://www.historyanimated.com/PWindex.html Animated History of the Pacific War]
+* [http://wwii.ca/index.php?page=Page&action=showpage&id=32 Canada at the Pacific War] — Canadians in Asia & the Pacific
+* [http://www.wtj.com/wars/pacific_war/ The Pacific War Series] – at The War Times Journal
+* [http://www.morinoske.com/ Morinoske: Japanese Pilot testimonials - and more]
+* [http://www.combinedfleet.com/ Imperial Japanese Navy Page]
+* [http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB162/index.htm The Atomic Bomb and the End of World War II]
+{{World War II}}
+{{States in the sphere of influence of Imperial Japan during World War II}}
+{{JapanEmpireNavbox}}
+[[Category:Military history of Oceania]]
+[[Category:World War II Pacific Theatre| ]]
+
+{{Link FA|bs}}
+{{Link FA|de}}
+{{Link FA|hr}}
+{{Link FA|pl}}
+[[ar:حرب المحيط الهادي]]
+[[bs:Rat na Pacifiku]]
+[[bg:Тихоокеанска война]]
+[[ca:Guerra del Pacífic]]
+[[cs:Válka v Tichomoří]]
+[[da:Stillehavskrigen]]
+[[de:Pazifikkrieg]]
+[[es:Guerra del Pacífico (1937-1945)]]
+[[eu:Pazifikoko Gerra]]
+[[fr:Guerre en Asie et dans le Pacifique]]
+[[ko:태평양 전쟁]]
+[[hr:Rat na Pacifiku]]
+[[id:Perang Pasifik]]
+[[it:Guerra del Pacifico (seconda guerra mondiale)]]
+[[he:המערכה באסיה ובאוקיינוס השקט]]
+[[jv:Perang Pasifik]]
+[[lb:Pazifikkrich]]
+[[lt:Antrasis pasaulinis karas Ramiajame vandenyne]]
+[[ms:Perang Pasifik]]
+[[nl:Azië in de Tweede Wereldoorlog]]
+[[ja:太平洋戦争]]
+[[no:Stillehavskrigen]]
+[[pl:Wojna na Pacyfiku]]
+[[pt:Guerra do Pacífico]]
+[[ro:Războiul din Pacific (al Doilea Război Mondial)]]
+[[ru:Тихоокеанский театр военных действий Второй мировой войны]]
+[[sk:Vojna v Pacifiku]]
+[[sl:Vojna za Tihi ocean]]
+[[sh:Rat na Pacifiku]]
+[[fi:Tyynenmeren sota toisessa maailmansodassa]]
+[[sv:Stillahavskriget]]
+[[tl:Digmaang Pasipiko]]
+[[ta:பசிபிக் போர்]]
+[[th:สงครามมหาสมุทรแปซิฟิก]]
+[[tr:Pasifik Cephesi (II. Dünya Savaşı)]]
+[[uk:Війна на Тихому океані]]
+[[vi:Chiến tranh Thái Bình Dương]]
+[[zh:太平洋战争]]

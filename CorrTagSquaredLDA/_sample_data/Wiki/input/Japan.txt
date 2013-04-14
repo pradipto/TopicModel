@@ -1,0 +1,757 @@
+{{About|the country}}
+{{Featured article}}
+{{pp-semi|small=yes}}{{pp-move-indef}}
+{{Infobox Country
+|native_name = {{lang|ja| 日本国 }} <br>''Nippon-koku'' or ''Nihon-koku''
+|conventional_long_name = Japan
+|Kyujitai_name = 日本國
+|image_flag = Flag of Japan.svg
+|alt_flag = Centered red circle on a white rectangle.
+|common_name = Japan
+|linking_name = Japan
+|image_coat = Imperial Seal of Japan.svg
+|alt_coat = Golden circle subdivided by golden wedges with rounded outer edges and thin black outlines.
+|symbol_type = Imperial Seal
+|other_symbol_type = [[Government Seal of Japan|Government Seal]]:
+|other_symbol = [[File:Goshichi no kiri.svg|85x85px|Seal of the Office of the Prime Minister and the Government of Japan]] <br><small>{{Nihongo|[[Paulownia]]|五七桐|''Go-Shichi no Kiri''}}</small>
+|image_map = Japan (orthographic projection).svg
+|national_anthem = <center>[[File:Kimi ga Yo instrumental.ogg]]</center><br>{{Nihongo|''[[Kimigayo]]''|君が代}}
+|official_languages = None<ref>{{cite web|url=http://houseikyoku.sangiin.go.jp/column/column068.htm|title=法制執務コラム集「法律と国語・日本語」|publisher=Legislative Bureau of the House of Councillors|accessdate=19 January 2009}}</ref>
+|languages_type = [[National language]]
+|languages = [[Japanese language|Japanese]]
+|regional_languages = <small>[[Aynu itak]], [[Ryukyuan languages|Ryukyuan languages]], [[Eastern Japanese]], [[Western Japanese]], and several other [[Japanese dialects]]</small>
+|demonym = Japanese
+|ethnic_groups = 98.5%&nbsp;[[Japanese people|Japanese]], 0.5%&nbsp;[[Koreans in Japan|Korean]], 0.4%&nbsp;[[Chinese people in Japan|Chinese]], 0.6%&nbsp;other<ref name="cia"/>
+|capital = [[Tokyo]] (''de facto'')
+|latd = 35
+|latm = 41
+|latNS = N
+|longd = 139
+|longm = 46
+|longEW = E
+|largest_city = capital
+|government_type = [[Unitary state|Unitary]] [[parliamentary system|parliamentary democracy]] and [[constitutional monarchy]]
+|leader_title1 = [[Emperor of Japan]]
+|leader_name1 = [[Akihito]]
+|leader_title2 = [[Prime Minister of Japan]]
+|leader_name2 = [[Naoto Kan]] ([[Democratic Party of Japan|DPJ]])
+|legislature = [[Diet of Japan]]
+|upper_house = [[House of Councillors]]
+|lower_house = [[House of Representatives of Japan]]
+|area_footnote = <ref>{{cite web|title=Japan Statistical Yearbook 2010|publisher=Statistics Bureau|accessdate=15 January 2011|url=http://www.stat.go.jp/data/nenkan/pdf/yhyou01.pdf|page=17}}</ref>
+|area_rank = 61st
+|area_magnitude = 1 E11
+|area_km2 = 377,944
+|area_sq_mi = {{convert|377944|km2|sqmi|disp=output number only}}<!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water = 0.8
+|population_estimate = 127,360,000<ref>{{cite web|url=http://www.stat.go.jp/english/data/jinsui/tsuki/index.htm |title=Official Japan Statistics Bureau estimate |publisher=Statistics Bureau |accessdate=25 August 2010}}</ref>
+|population_estimate_year = 2010
+|population_estimate_rank = 10th
+|population_census = 127,333,002
+|population_census_year = 2004
+|population_density_km2 = 337.1
+|population_densitymi2 = 873.1 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 36th
+|GDP_PPP_year = 2010
+|GDP_PPP = $4.308 trillion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=158&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=&pr.x=48&pr.y=16 |title=Japan|publisher=International Monetary Fund|accessdate=5 January 2011}}</ref>
+|GDP_PPP_rank = 3rd
+|GDP_PPP_per_capita = $33,828<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 24th
+|GDP_nominal = $5.390 trillion<ref name=imf2/>
+|GDP_nominal_rank = 3rd
+|GDP_nominal_year = 2010
+|GDP_nominal_per_capita = $42,325<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 17th
+|sovereignty_type = [[History of Japan|Formation]]
+|established_event1 = [[National Foundation Day]]
+|established_date1 = February 11, 660&nbsp;BC<ref>According to legend, Japan was founded on this date by [[Emperor Jimmu]], the country's first emperor.</ref>
+|established_event2 = [[Meiji Constitution]]
+|established_date2 = November 29, 1890
+|established_event3 = [[Constitution of Japan|Current constitution]]
+|established_date3 = May 3, 1947
+|established_event4 = [[Treaty of San Francisco|Treaty of<br>San Francisco]]
+|established_date4 = <br>April 28, 1952
+|HDI_year = 2007
+|HDI = {{increase}} 0.884<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=UN|accessdate=5 November 2010}}</ref>
+|HDI_rank = 11th
+|HDI_category = <span style="color:#090;">very high</span>
+|Gini = 38.1 (2002)<ref>{{cite web|title=World Factbook: Gini Index|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html|publisher=CIA|accessdate=15 January 2011}}</ref>  
+|currency = International Symbol '''¥''' ''Pronounced'' ([[Japanese yen|'''Yen''']])<br>Japanese Symbol {{lang|ja|'''円'''}} (or {{lang|ja|'''圓'''}} in Traditional Kanji) ''Pronounced'' {{transl|ja|([[Japanese yen|'''En''']])}}
+|currency_code = '''JPY'''
+|country_code = JPN
+|time_zone = [[Japan Standard Time|JST]]
+|utc_offset = +9
+|time_zone_DST = not observed
+|date_format = yyyy-mm-dd<br>yyyy年m月d日<br>[[Japanese era name|Era]]&nbsp;yy年m月d日 ([[Common Era|CE]]−1988)
+|drives_on = left
+|cctld = [[.jp]]
+|calling_code = [[Telephone numbers in Japan|81]]
+|ISO_3166–1_alpha2 = JP
+|ISO_3166–1_alpha3 = JPN
+|ISO_3166–1_numeric = 392
+|sport_code = JPN
+|vehicle_code = J
+}}
+
+'''Japan''' ({{IPAc-en|En-us-Japan.ogg|dʒ|ə|ˈ|p|æ|n}}; {{lang-ja|日本}} '''''Nihon''''' or '''''Nippon''''', officially {{lang|ja|日本国}} {{audio|help=no|Ja-nippon_nihonkoku.ogg|'''''Nippon-koku'''''}} or '''''Nihon-koku''''') is an island nation in [[East Asia]].<ref>{{cite web | url = http://unstats.un.org/unsd/methods/m49/m49regin.htm#asia | title = Standard Country and Area Codes Classifications | accessdate = 16 July 2010 | date = 1 April 2010 | publisher = UN Statistics Division}}</ref> Located in the [[Pacific Ocean]], it lies to the east of the [[Sea of Japan]], [[People's Republic of China|China]], [[North Korea]], [[South Korea]] and [[Russia]], stretching from the [[Sea of Okhotsk]] in the north to the [[East China Sea]] and [[Republic of China|Taiwan]] in the south. The [[kanji|characters]] that make up [[Names of Japan|Japan's name]] mean "sun-origin", which is why Japan is sometimes referred to as the "[[Land of the Rising Sun]]".
+
+Japan is an [[archipelago]] of [[List of islands of Japan|6,852 islands]].<ref>{{cite web | title = ''Facts and Figures of Japan 2007 01: Land'' | url = http://fpcj.jp/old/e/mres/publication/ff/pdf_07/01_land.pdf | publisher = Foreign Press Center Japan | accessdate = 4 July 2007}}</ref> The four largest islands are [[Honshu]], [[Hokkaido]], [[Kyushu]] and [[Shikoku]], together accounting for ninety-seven percent of Japan's land area. Most of the islands are mountainous, many volcanic; Japan’s highest peak, [[Mount Fuji]], is a volcano. Japan has the world's [[List of countries by population|tenth-largest population]], with over 127&nbsp;million people. The [[Greater Tokyo Area]], which includes [[Capital of Japan|the ''de facto'' capital city]] of [[Tokyo]] and several surrounding [[Prefectures of Japan|prefectures]], is the [[World's largest cities|largest metropolitan area]] in the world, with over 30 million residents.
+
+Archaeological research indicates that people were living on the islands of Japan as early as the Upper Paleolithic period. The first written mention of Japan begins with brief appearances in [[History of China|Chinese history]] texts from the 1st century&nbsp;AD. Influence from the outside world followed by long periods of isolation has characterized [[History of Japan|Japan's history]]. Since adopting its [[Constitution of Japan|constitution]] in 1947, Japan has maintained a unitary constitutional monarchy with an [[Emperor of Japan|emperor]] and an elected parliament called the [[Diet of Japan|Diet]].
+
+A major economic power,<ref name="cia">{{cite web|title=World Factbook: Japan|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ja.html|publisher=CIA|accessdate=15 January 2011}}</ref> Japan has the world's [[List of countries by GDP (nominal)|third-largest economy]] by nominal GDP<ref>{{Cite news| title=China confirmed as World's Second Largest Economy|newspaper=The Guardian | date=21 January 2011| url=http://www.guardian.co.uk/business/2011/jan/21/china-confirmed-worlds-second-largest-economy| accessdate=21 January 2011 | first=James | last=Inman}}</ref> and by [[List of countries by GDP (PPP)|purchasing power parity]]. It is also the world's [[List of countries by exports|fourth largest exporter]] and [[List of countries by imports|fifth largest importer]]. Although Japan has officially [[Article 9 of the Japanese Constitution|renounced its right to declare war]], it maintains an extensive modern military force in self-defense and peacekeeping roles. It is a developed country with very high living standards [[List of countries by Human Development Index|(11th highest HDI)]]. After [[Singapore]], Japan has the lowest homicide (including attempted homicide) rate in the world.<ref>{{cite web|url=http://www.unodc.org/pdf/research/9th_survey/CTS9ByIndicatorExtract.pdf |title=Ninth United Nations survey of crime trends and operations of criminal justice systems |accessdate=1 December 2006 |publisher=UN Office on Drugs and Crime |pages=1–9 }}</ref> Japan has [[List of countries by life expectancy|the highest life expectancy]] of any country (according to both the [[United Nations|UN]] and [[World Health Organization|WHO]] estimates) and the third lowest [[infant mortality]] rate.<ref>{{cite news|title=WHO: Life expectancy in Israel among highest in the world|url=http://www.haaretz.com/news/who-life-expectancy-in-israel-among-highest-in-the-world-1.276618|accessdate=15 January 2011|newspaper=Haaretz|date=May 2009}}</ref><ref>{{cite web|title=Table A.17|url=http://www.un.org/esa/population/publications/wpp2006/WPP2006_Highlights_rev.pdf|work=United Nations World Population Prospects'', 2006 revision''|publisher=UN|accessdate=15 January 2011}}</ref>
+
+==History==
+<!--Please try to keep this section as general as possible. Specific information should be added to a more specific article. -->
+{{Main|History of Japan}}
+
+===Etymology===
+{{Main|Names of Japan}}
+The [[English language|English]] word ''Japan'' is an [[exonym]]. The [[Japanese language|Japanese]] names for Japan are {{Nihongo|''Nippon''|にっぽん}} {{Audio|ja-nippon(日本).ogg|listen}} and {{Nihongo|''Nihon''|にほん}} {{Audio|ja-nihon(日本).ogg|listen}}; both names are written using the [[kanji]] {{nihongo2|'''日本'''}}. The Japanese name ''Nippon'' is used for most official purposes, including on [[Japanese yen|money]], postage stamps, and for many international sporting events. ''Nihon'' is a more casual term and is the most frequently used in contemporary speech. Japanese people refer to themselves as {{Nihongo|''Nihonjin''|日本人}} and to their language as {{Nihongo|''Nihongo''|日本語}}. Both ''Nippon'' and ''Nihon'' literally mean "sun-origin" and are often translated as the ''Land of the Rising Sun''. This nomenclature comes from [[Japanese missions to Imperial China|Imperial correspondence]] with the [[China|Chinese]] [[Sui Dynasty]] and refers to Japan's eastward position relative to China. Before ''Nihon'' came into official use, Japan was known as {{Nihongo||倭|Wa}} or {{Nihongo||倭国|Wakoku}}.<ref>{{cite book|title=The emergence of Japanese kingship|first=Joan R. |last=Piggott|year=1997|publisher=Stanford University Press|isbn=0-804-72832-1|pages=143–144}}</ref>
+
+The English word for Japan came to the West via early trade routes. The early [[Mandarin Chinese|Mandarin]] or possibly [[Wu Chinese]] (吳語) word for Japan was recorded by [[Marco Polo]] as ''Cipangu.'' In modern [[Shanghainese]], a Wu dialect, the pronunciation of characters {{nihongo2|日本}} 'Japan' is ''Zeppen'' {{IPA-wuu|zəʔpən|}}; in Wu, the character 日 has two pronunciations, {{Nihongo|informal|白讀}} {{IPA|[niʔ]}} and {{Nihongo|formal|文讀}} {{IPA|[zəʔ]}}. (In some southern Wu dialects, 日本 is pronounced {{IPA-wuu|niʔpən|}}, similar to its pronunciation in Japanese.) The old [[Malay language|Malay]] word for Japan, ''Jepang'', was borrowed from a Chinese language, and this Malay word was encountered by [[Portugal|Portuguese]] traders in [[Malacca]] in the 16th century. It is thought the Portuguese traders were the first to bring the word to Europe. It was first recorded in English in a 1565 letter, spelled ''Giapan''.<ref>{{cite book|last=Mancall|first=Peter C.|title=Travel narratives from the age of discovery: an anthology|year=2006|publisher=Oxford University Press|pages=156–157|chapter=Of the Ilande of Giapan, 1565}}</ref>
+
+===Prehistory===
+[[File:Genjosanzo.jpg|thumb|left|An illustrated scroll from the 1100s]]
+A [[Japanese Paleolithic|Paleolithic]] culture around [[Upper Paleolithic|30,000&nbsp;BC]] constitutes the first known habitation of Japan. This was followed from around 14,000&nbsp;BC (the start of the [[Jōmon period]]) by a [[Mesolithic]] to [[Neolithic]] semi-sedentary [[hunter-gatherer]] culture, possibly ancestors of the [[Ainu people]], characterized by pit dwelling and rudimentary agriculture.<ref>{{cite web|last=Travis|first=John|title= Jomon Genes|url=http://www.pitt.edu/~annj/courses/notes/jomon_genes.html|publisher=University of Pittsburgh|accessdate=15 January 2011}}</ref> Decorated clay vessels from this period, often with plaited patterns, are some of the oldest surviving examples of [[pottery]] in the world. The [[Yayoi period]], starting around 500&nbsp;BC, saw the introduction of new practices like [[rice|wet-rice farming]],<ref>{{cite web|title=Road of rice plant|url=http://www.kahaku.go.jp/special/past/japanese/ipix/5/5-25.html|publisher=[[National Science Museum of Japan]]|accessdate=15 January 2011}}</ref> a new style of pottery,<ref>{{cite web|title=Kofun Period|url=http://www.metmuseum.org/toah/hd/kofu/hd_kofu.htm|publisher=Metropolitan Museum of Art|accessdate=15 January 2011}}</ref> and [[metallurgy]], brought by migrants from China and Korea.<ref>{{cite web|title=Yayoi Culture|url=http://www.metmuseum.org/toah/hd/yayo/hd_yayo.htm|publisher=Metropolitan Museum of Art|accessdate=15 January 2011}}</ref>
+
+The Japanese first appear in written history in the Chinese ''[[Book of Han]]''. According to the ''[[Records of Three Kingdoms]]'', the most powerful kingdom on the archipelago during the 3rd century was called [[Yamataikoku]]. [[Buddhism]] was first introduced to Japan from [[Baekje]], one of the [[Three Kingdoms of Korea]], but the subsequent development of [[Buddhism in Japan|Japanese Buddhism]] was primarily influenced by China.<ref>{{cite book |editor=Brown, Delmer M.|year=1993 |title=The Cambridge History of Japan |publisher=Cambridge University Press |pages=140–149}}</ref> Despite early resistance, Buddhism was promoted by the ruling class and eventually gained acceptance beginning in the [[Asuka period]].<ref>{{cite book |title=The Japanese Experience: A Short History of Japan |first=William Gerald|last=Beasley |publisher=University of California Press |year=1999 |page=42 |isbn=0520225600 }}</ref>
+
+The [[Nara period]] of the 8th century marked the emergence of a strong Japanese state, centered on an imperial court in the city of [[Heijō Palace|Heijō-kyō]] (modern [[Nara, Nara|Nara]]). In addition to the continuing adoption of Chinese administrative practices, the Nara period is characterized by the appearance of a nascent written literature with the completion of the massive chronicles ''[[Kojiki]]'' (712) and ''[[Nihon Shoki]]'' (720).<ref>{{cite book |first=Conrad|last=Totman |year=2002 |title=A History of Japan |publisher=Blackwell |pages=64–79 | isbn=978-1405123594}}</ref> The [[smallpox]] epidemic of 735–737 is believed to have killed as much as one-third of Japan's population.<ref>{{cite book|last=Hays|first=J.N.|title=Epidemics and pandemics: their impacts on human history|year=2005|publisher=ABC-CLIO|isbn=1851096582|page=31}}</ref> In 784, [[Emperor Kammu]] moved the capital from Nara to [[Nagaoka-kyō]] for a ten-year period before relocating it to [[Heian-kyō]] (modern [[Kyoto]]) in 794, where it remained for more than a millennium.<ref>{{cite book |first=Conrad|last=Totman |year=2002 |title=A History of Japan |publisher=Blackwell |pages=79–87 | isbn=978-1405123594}}</ref> This marked the beginning of the [[Heian period]], during which time a distinctly indigenous Japanese culture emerged, noted for its [[Japanese art|art]], [[Japanese poetry|poetry]] and [[Japanese literature|literature]]. [[Murasaki Shikibu|Lady Murasaki's]] ''[[The Tale of Genji]]'' and the lyrics of Japan's national anthem ''[[Kimigayo]]'' were written during this time.<ref>{{cite book |first=Conrad|last=Totman |year=2002 |title=A History of Japan |publisher=Blackwell |pages=122–123 | isbn=978-1405123594}}</ref>
+
+===Feudal era===
+Japan's feudal era was characterized by the emergence of a ruling class of warriors, the [[samurai]]. In 1185, following the defeat of the rival [[Taira clan]], [[Minamoto no Yoritomo]] was appointed [[Shogun]] and established a base of power in [[Kamakura, Kanagawa|Kamakura]]. After Yoritomo's death, the [[Hōjō clan]] came to rule as regents for the shoguns. [[Zen]] Buddhism was introduced from China in the [[Kamakura period]] (1185–1333) and became popular among the samurai class.<ref>{{cite book|last=Totman|first=Conrad|title=A History of Japan ''(2nd ed.)''|year=2005|publisher=Blackwell|isbn=1405123591|pages=106–112}}</ref> The [[Kamakura shogunate]] repelled [[Mongol invasions of Japan|Mongol invasions]] in 1274 and 1281, aided by a storm that the Japanese interpreted as a ''[[kamikaze (typhoon)|kamikaze]]'' or Divine Wind. The Kamakura shogunate was eventually [[Kemmu restoration|overthrown by Emperor Go-Daigo]], who was soon himself defeated by [[Ashikaga Takauji]] in 1336.<ref>{{cite book |first=George|last=Sanson|year=1961 |title=A History of Japan: 1334–1615 |publisher=Stanford University Press|page=42 | isbn=0-8047-0525-9}}</ref> The succeeding [[Ashikaga shogunate]] failed to control the feudal warlords (''[[daimyo]]''), and a civil war (the [[Ōnin War]]) began in 1467 and opened the century-long [[Sengoku period]] (“Warring States”).<ref>{{cite book |first=George|last=Sanson |year=1961 |title=A History of Japan: 1334–1615 |publisher=Stanford University Press|page=217 | isbn=0-8047-0525-9}}</ref>
+[[File:Meiji_tenno1.jpg|thumb|upright|170px|The [[Meiji Emperor]]]]
+
+During the 16th century, traders and [[Society of Jesus|Jesuit]] [[missionary|missionaries]] from Portugal reached Japan for the first time, initiating active commercial and cultural exchange between Japan and the West (''[[Nanban trade]]''). [[Oda Nobunaga]] conquered numerous other daimyo by using European technology and [[firearm]]s, and had almost unified the nation when he was assassinated in 1582. [[Toyotomi Hideyoshi]] succeeded Nobunaga and united the nation in 1590. Hideyoshi [[Japanese invasions of Korea (1592–1598)|invaded Korea twice]], but following several defeats by Korean and [[Ming Dynasty|Ming]] Chinese forces and Hideyoshi's death, Japanese troops were withdrawn in 1598.<ref>{{cite book |first=Stephen|last=Turnbull|year=2002 |title=Samurai Invasion: Japan's Korean War |publisher=Cassel |page=227| isbn=978-0304359486}}</ref>
+
+[[Tokugawa Ieyasu]] served as regent for Hideyoshi's son [[Toyotomi Hideyori]], using his position to gain political and military support. When open war broke out, he defeated rival clans in the [[Battle of Sekigahara]] in 1600. Ieyasu was appointed [[shogun|shōgun]] in 1603 and established the [[Tokugawa shogunate]] at [[Edo]] (modern [[Tokyo]]).<ref>{{cite book|last=Turnbull|first=Stephen|title=Toyotomi Hideyoshi|year=2010|publisher=Osprey Publishing|isbn=9781846039607|page=61}}</ref> The Tokugawa shogunate enacted a variety of measures such as ''[[Buke shohatto]]'' to control the autonomous daimyo.<ref>{{cite book|last=Totman|first=Conrad|title=A History of Japan ''(2nd ed.)''|year=2005|publisher=Blackwell|isbn=1405123591|pages=142–143}}</ref> In 1639, the shogunate began the isolationist ''[[sakoku]]'' ("closed country") policy that spanned the two and a half centuries of tenuous political unity known as the [[Edo period]].<ref>{{cite journal|last=Toby|first=Ronald P.|title=Reopening the Question of Sakoku: Diplomacy in the Legitimation of the Tokugawa Bakufu|journal=Journal of Japanese Studies|date=1977|volume=3|issue=2|pages=323–363}}</ref> The study of Western sciences, known as ''[[rangaku]]'', continued during this period through contact with the [[Netherlands|Dutch]] enclave at [[Dejima]] in [[Nagasaki]]. The Edo period also gave rise to ''[[kokugaku]]'' ("national studies"), the study of Japan by the Japanese themselves.<ref>{{cite journal|last=Ohtsu|first=M.|title=Japanese National Values and Confucianism|journal=Japanese Economy|year=1999|volume=27|issue=2|pages=45–59}}</ref> According to one authority, there were at least 130 famines during the Edo period, of which 21 were particularly serious.<ref>{{cite book|last=Robb|first=Peter|title=Local agrarian societies in colonial India: Japanese perspectives|year=1996|publisher=Curzon Press|coauthors=Sugihara, Kaoru; Haruka Yanagisawa|page=312}}</ref>
+
+On March 31, 1854, [[Matthew C. Perry|Commodore Matthew Perry]] and the "[[Black Ships]]" of the [[United States Navy]] forced the opening of Japan to the outside world with the [[Convention of Kanagawa]]. Subsequent similar treaties with Western countries in the [[Bakumatsu]] period brought Japan into economic and political crises. The resignation of the shogunate led to the [[Boshin War]] and the establishment of [[Abolition of the han system|a centralized state]] unified under the name of the Emperor ([[Meiji Restoration]]).<ref>{{cite book|last=Totman|first=Conrad|title=A History of Japan ''(2nd ed.)''|year=2005|publisher=Blackwell|isbn=1405123591|pages=289–296}}</ref> Adopting Western political, judicial and military institutions, the [[Cabinet of Japan|Cabinet]] organized the [[Privy Council (Japan)|Privy Council]], introduced the [[Meiji Constitution]], and assembled the [[Diet of Japan|Imperial Diet]]. The Meiji Restoration transformed the [[Empire of Japan]] into an industrialized world power that embarked on a number of military conflicts to expand the nation's sphere of influence. After victories in the [[First Sino-Japanese War]] (1894–1895) and the [[Russo-Japanese War]] (1904–1905), Japan gained control of [[Taiwan]], Korea, and the southern half of [[Sakhalin]].<ref>{{cite book|last=Matsusaka|first=Y. Tak|title=Companion to Japanese History|year=2009|publisher=Blackwell|isbn=9781505116909|pages=224–241|editor=Tsutsui, William M.|chapter=The Japanese Empire}}</ref> Japan's population grew from 35 million in 1873 to 70 million in 1935.<ref>{{cite book|last=Hiroshi|first=Shimizu|title=Japan and Singapore in the world economy : Japan's economic advance into Singapore, 1870 – 1965|year=1999|publisher=Routledge|isbn=9780415192361|coauthors=Hitoshi, Hirakawa|page=17}}</ref>
+
+===20th century===
+The early 20th century saw a brief period of "[[Taishō period|Taishō democracy]]" overshadowed by increasing [[expansionism]] and [[Japanese militarism|militarization]]. [[World War I]] enabled Japan, which joined the side of the victorious [[Allies of World War I|Allies]], to [[Japan during World War I|widen its influence and territorial holdings]]. Japan continued its expansionist policy by occupying [[Manchuria]] in 1931. As a result of [[Lytton Report|international condemnation of this occupation]], Japan resigned from the [[League of Nations]] two years later. In 1935, local assemblies under Japanese control were established in Taiwan.<ref>{{cite book|last=Rigger|first=Shelley|title=Politics in Taiwan|year=1999|publisher=Routledge|isbn=0415172098|page=36}}</ref> In 1936, Japan signed the [[Anti-Comintern Pact]] with [[Nazi Germany]], and in 1940 signed the [[Tripartite Pact]] to join the Axis Powers.<ref>{{cite web|title=The Axis Alliance|url=http://www.ibiblio.org/pha/policy/pre-war/361125a.html#3|publisher=iBiblio|accessdate=16 January 2011}}</ref> In 1941, Japan negotiated a [[Soviet–Japanese Neutrality Pact|neutrality pact]] with the [[Soviet Union]].<ref>{{cite book|last=Totman|first=Conrad|title=A History of Japan ''(2nd ed.)''|year=2005|publisher=Blackwell|isbn=1405123591|page=442}}</ref>
+
+[[File:Tokyo night view 1.jpg|thumb|left|Present-day [[Tokyo]]]]
+In 1937, the Empire of Japan invaded other parts of China, precipitating the [[Second Sino-Japanese War]] (1937–1945). In 1940, the Empire then [[invasion of French Indochina|invaded French Indochina]], after which the United States placed an oil embargo on Japan.<ref>{{cite book |first=Roland H., Jr. |last=Worth |title=No Choice But War: the United States Embargo Against Japan and the Eruption of War in the Pacific |publisher=McFarland |year=1995 |pages=56, 86|isbn=0-7864-0141-9}}</ref> On December 7, 1941, Japan [[Attack on Pearl Harbor|attacked the US naval base]] at [[Pearl Harbor]] and declared war on the United States, the [[United Kingdom]] and the Netherlands. This act brought the US into [[World War II]] and, on December 8, those three countries declared war on Japan.<ref>{{cite web |url=http://www.sankei.co.jp/seiron/koukoku/2005/0504/ronbun3-2.html |title=インドネシア独立運動と日本とスカルノ（２）|work=馬 樹禮 |publisher=産経新聞社 |date=April 2005 |accessdate=2 October 2009}}</ref><ref>{{cite web |url=http://www.ibiblio.org/pha/policy/1941/411208c.html |title=The Kingdom of the Netherlands Declares War with Japan |publisher=iBiblio |accessdate=2 October 2009}}</ref> After the [[Soviet invasion of Manchuria]] and the [[atomic bombings of Hiroshima and Nagasaki]] in 1945, Japan agreed to an [[Surrender of Japan|unconditional surrender]] on August 15 ([[Victory over Japan Day]]).<ref>{{cite journal|last=Pape|first=Robert A.|title=Why Japan Surrendered|journal=International Security|year=1993|volume=18|issue=2|pages=154–201}}</ref>
+
+The war cost Japan and the other countries of the [[Greater East Asia Co-Prosperity Sphere]] millions of lives and left much of the nation's industry and infrastructure destroyed. The Allied powers (led by the US) repatriated millions of [[Japanese diaspora|ethnic Japanese]] from colonies and military camps throughout Asia.<ref>{{cite book|last=Watt|first=Lori|title=When Empire Comes Home: Repatriation and Reintegration in Postwar Japan|publisher=Harvard University Press|year=2010|isbn=9780674055988|pages=1–4}}</ref> The [[International Military Tribunal for the Far East]] was convened by the [[Allies of World War II|Allies]] on May 3, 1946 to prosecute some Japanese leaders for [[Japanese war crimes|war crimes]]. However, all members of the [[unit 731|bacteriological research units]] and members of the imperial family involved in the conduct of the war were exonerated from criminal prosecutions by the [[Supreme Allied Commander]] despite calls for trials for both groups.<ref>{{cite book|last=Thomas|first=J.E.|title=Modern Japan|year=1996|publisher=Longman|isbn=0582259622|pages=284–287}}</ref>
+
+In 1947, Japan adopted a new pacifist [[Constitution of Japan|constitution]] emphasizing liberal democratic practices. [[Occupation of Japan|The Allied occupation]] ended with the [[Treaty of San Francisco]] in 1952<ref>{{cite web |url=http://search.japantimes.co.jp/cgi-bin/nn20070306f3.html |title='52 coup plot bid to rearm Japan: CIA |first=Joseph |last=Coleman| date=6 March 2006| publisher=''[[Japan Times]]'' |accessdate=3 April 2006}}</ref> and Japan was granted membership in the [[United Nations]] in 1956. Japan later achieved [[Japanese post-war economic miracle|spectacular growth]] to become the second-largest economy in the world, with an annual growth rate averaging 10 percent for four decades. This ended in the mid-1990s when Japan suffered [[Japanese asset price bubble|a major recession]]. Positive growth in the early 21st century has signaled a gradual recovery.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/business/5178822.stm |title=Japan scraps zero interest rates |publisher=[[BBC News Online]] |date=14 July 2006 |accessdate=28 December 2006}}</ref>
+
+==Geography==
+{{Main|Geography of Japan|Geology of Japan}}
+[[File:Japan topo en.jpg|thumb|Topographic map]]
+
+Japan has a total of 6,852 islands extending along the [[Pacific Ocean|Pacific]] coast of Asia. The country, including all of the islands it controls, lies between latitudes [[24th parallel north|24°]] and [[46th parallel north|46°N]], and longitudes [[122nd meridian east|122°]] and [[146th meridian east|146°E]]. The main islands, from north to south, are [[Hokkaido]], [[Honshū]], [[Shikoku]] and [[Kyūshū]]. The [[Ryukyu Islands]], including [[Okinawa Island|Okinawa]], are a chain of islands south of Kyushū. Together they are often known as the [[Japanese Archipelago]].<ref>{{cite book|last=McCargo|first=Duncan|title=Contemporary Japan|year=2000|publisher=Macmillan|isbn=0333710022|pages=8–11}}</ref>
+
+About 70 to 80 percent of Japan is forested, mountainous, and unsuitable for agricultural, industrial, or residential use.<ref name="cia"/><ref>{{cite web|title=Japan|url=http://www.state.gov/r/pa/ei/bgn/4142.htm|publisher=US Department of State|accessdate=16 January 2011}}</ref> This is because of the generally steep elevations, climate and risk of landslides caused by earthquakes, soft ground and heavy rain. As a result, the habitable zones, mainly located in coastal areas, have extremely high population densities. Japan is one of the [[list of countries by population density|most densely populated countries]] in the world.<ref>{{cite web |url=http://esa.un.org/unpp/ |title=World Population Prospects |publisher=UN Department of Economic and Social Affairs |accessdate=27 March 2007}}</ref>
+
+The islands of Japan are located in a [[Volcano|volcanic]] zone on the [[Pacific Ring of Fire]]. They are primarily the result of large oceanic movements occurring over hundreds of millions of years from the mid-Silurian to the Pleistocene as a result of the [[subduction]] of the [[Philippine Sea Plate]] beneath the continental [[Amurian Plate]] and [[Okinawa Plate]] to the south, and subduction of the [[Pacific Plate]] under the [[Okhotsk Plate]] to the north. Japan has 108 active volcanoes. Destructive [[earthquake]]s, often resulting in [[tsunami]]s, occur several times each century.<ref>{{cite web |url=http://volcano.und.edu/vwdocs/volc_images/north_asia/japan_tec.html |archiveurl=http://web.archive.org/web/20070204064754/http://volcano.und.edu/vwdocs/volc_images/north_asia/japan_tec.html |archivedate=4 February 2007 |title=Tectonics and Volcanoes of Japan |publisher=Oregon State University |accessdate=27 March 2007}}</ref> The [[1923 Great Kantō earthquake|1923 Tokyo earthquake]] killed over 140,000 people.<ref>{{cite web|last=James|first=C.D.|title=The 1923 Tokyo Earthquake and Fire|url=http://nisee.berkeley.edu/kanto/tokyo1923.pdf|publisher=University of California Berkeley|accessdate=16 January 2011|date=2002}}</ref> The most recent major quakes are the [[2004 Chūetsu earthquake]] and the [[Great Hanshin earthquake|Great Hanshin Earthquake]] of 1995. [[Onsen|Hot springs]] are numerous and have been developed as resorts.<ref>{{cite news|last=Nakata|first=Hiroko|title=Japan's hot springs part of social, geologic, historic fabric|url=http://search.japantimes.co.jp/cgi-bin/nn20080122i1.html|accessdate=16 January 2011|newspaper=Japan Times|date=21 January 2008}}</ref> Japan was originally attached to eastern coast of the Eurasian continent. The subducting plates, being deeper than the Eurasian plate, pulled Japan eastward, opening the [[Sea of Japan]] around 15 million years ago.<ref>{{cite web|url=http://shinku.nichibun.ac.jp/jpub/pdf/jr/IJ1501.pdf|last=Barnes|first=Gina L.|title=
+Origins of the Japanese Islands|publisher=[[University of Durham]]|year=2003|accessdate=11 August 2009}}</ref> The [[Strait of Tartary]] and the [[Korea Strait]] opened much later.<ref>{{cite book|last=Totman|first=Conrad|title=A History of Japan ''(2nd ed.)''|year=2005|publisher=Blackwell|isbn=1405123591|page=14}}</ref>
+
+===Climate===
+{{Main|Climate of Japan}}
+[[File:Ocean Expo Park.JPG|thumb|left|180px|[[Okinawa]] has a subtropical climate with warm winters and hot summers.]]
+
+The climate of Japan is predominantly [[temperate]], but varies greatly from north to south. Japan's geographical features divide it into six principal climatic zones: Hokkaido, Sea of Japan, [[Central Highland (Japan)|Central Highland]], [[Inland Sea|Seto Inland Sea]], Pacific Ocean, and Ryukyu Islands. The northernmost zone, Hokkaido, has a temperate climate with long, cold winters and cool summers. [[precipitation (meteorology)|Precipitation]] is not heavy, but the islands usually develop deep snow banks in the winter. In the Sea of Japan zone on Honshū's west coast, the northwest wind in the wintertime brings heavy snowfall. In the summer, the region is cooler than the Pacific area, though it sometimes experiences extremely hot temperatures, because of the [[foehn wind]] phenomenon. The Central Highland is a  typical inland climate, with large temperature differences between summer and winter, and between day and night. Precipitation is light. The mountains of the [[Chūgoku region|Chūgoku]] and [[Shikoku]] regions shelter the Seto Inland Sea from the seasonal winds, bringing mild weather throughout the year. The Pacific east coast experiences cold winters with little snowfall and hot, humid summers because of the southeast seasonal wind. The Ryukyu Islands have a subtropical climate, with warm winters and hot summers. Precipitation is very heavy, especially during the rainy season. [[tropical cyclone|Typhoons]] are common.<ref>{{cite book|last=Karan|first=Pradyumna Prasad|title=Japan in the 21st century|year=2005|publisher=University Press of Kentucky|isbn=0813123429|pages=18–21, 41|coauthor=Gilbreath, Dick}}</ref>
+
+The highest temperature ever measured in Japan—{{convert|40.9|°C}}—was recorded on August 16, 2007.<ref>{{cite web |url=http://www.japannewsreview.com/society/national/20070816page_id=1553 |title=Gifu Prefecture sees highest temperature ever recorded in Japan – 40.9 |publisher=Japan News Review Society |date=16 August 2007| accessdate=16 August 2007}}</ref> The main [[East Asian rainy season|rainy season]] begins in early May in Okinawa, and the stationary rain front gradually works its way north until reaching Hokkaido in late July. In most of Honshū, the rainy season begins before the middle of June and lasts about six weeks. In late summer and early autumn, typhoons often bring heavy rain.<ref name="climate">{{cite web |url=http://www.jnto.go.jp/eng/arrange/essential/climate.html |title=Essential Info: Climate |publisher=[[JNTO]] |accessdate=1 April 2007}}</ref>
+
+===Biodiversity===
+{{See also|Wildlife of Japan}}
+Japan has nine forest [[ecoregions in Japan|ecoregions]] which reflect the climate and geography of the islands. They range from [[Tropical and subtropical moist broadleaf forests|subtropical moist broadleaf forests]] in the Ryūkyū and Bonin islands, to [[temperate broadleaf and mixed forests]] in the mild climate regions of the main islands, to [[temperate coniferous forest]]s in the cold, winter portions of the northern islands.<ref>{{cite web |url=http://www.us.emb-japan.go.jp/jicc/spotflora.htm |archiveurl=http://web.archive.org/web/20070213035135/http://www.us.emb-japan.go.jp/jicc/spotflora.htm |archivedate=13 February 2007 |title=Flora and Fauna: Diversity and regional uniqueness |publisher=Embassy of Japan in the USA |accessdate=1 April 2007}}</ref>
+
+===Environment===
+{{Main|Environmental issues in Japan}}
+[[File:Ikata Nuclear Powerplant.JPG|thumb|right|[[Ikata Nuclear Power Plant]]]]
+
+In the period of rapid economic growth after World War II, environmental policies were downplayed by the government and industrial corporations. As an inevitable consequence, [[Four Big Pollution Diseases of Japan|environmental pollution]] occurred in the 1950s and 1960s. Responding to rising concern over the problem, the government introduced several environmental protection laws in 1970.<ref>{{cite web|title=日本の大気汚染の歴史|url=http://www.erca.go.jp/taiki/history/ko_syousyu.html|publisher=Environmental Restoration and Conservation Agency|accessdate=16 January 2011}}</ref> The [[1973 oil crisis|oil crisis in 1973]] also encouraged the efficient use of energy due to Japan's lack of natural resources.<ref>{{cite web|last=Sekiyama|first=Takeshi|title=Japan's international cooperation for energy efficiency and conservation in Asian region|url=http://nice.erina.or.jp/en/pdf/C-SEKIYAMA.pdf|archiveurl=http://web.archive.org/web/20080216005103/http://nice.erina.or.jp/en/pdf/C-SEKIYAMA.pdf|archivedate=16 February 2008|publisher=Energy Conservation Center|accessdate=16 January 2011}}</ref> Current priority environmental issues include urban [[air pollution]] ([[NOx]], suspended particulate matter, toxics), [[waste management]], water [[eutrophication]], [[nature conservation]], [[climate change]], chemical management and international co-operation for environmental conservation.<ref>{{cite web|title=Environmental Performance Review of Japan|url=http://www.oecd.org/dataoecd/0/17/2110905.pdf|publisher=[[Organisation for Economic Co-operation and Development]]|accessdate=16 January 2011}}</ref>
+
+Japan is one of the world's leaders in the development of new environment-friendly technologies. [[Honda]] and [[Toyota]] [[hybrid electric vehicle]]s were named to have the highest [[fuel economy in automobiles|fuel economy]] and lowest [[automobile emission|emissions]].<ref>{{cite web|title=Automaker Rankings 2007: The Environmental Performance of Car Companies|url=http://www.ucsusa.org/clean_vehicles/vehicle_impacts/cars_pickups_and_suvs/automaker-rankings-2007.html|publisher=[[Union of Concerned Scientists]]|accessdate=23 January 2011}}</ref> This is due to the use of advanced hybrid systems, biofuels, lighter-weight material, and specialized engineering techniques.<ref>{{cite web|last=Mackenzie|first=Don|title=Automaker Rankings 2007|url=http://www.ucsusa.org/assets/documents/clean_vehicles/autorank_2007report.pdf|publisher=Union of Concerned Scientists|accessdate=7 January 2011|pages=4, 17–21}}</ref> Japan is ranked 20th best in the world in the 2010 [[Environmental Performance Index]].<ref>{{cite web|title=Environmental Performance Index: Japan|url=http://epi.yale.edu/Countries/Japan|publisher=Yale University|accessdate=7 January 2011}}</ref>
+
+As a signatory of the [[Kyoto Protocol]], and host of the 1997 conference which created it, Japan is under treaty obligations to reduce its carbon dioxide emissions and to take other steps related to curbing climate change. The [[Cool Biz campaign]] introduced under former Prime Minister Junichiro Koizumi was targeted at reducing energy use through the reduction of air conditioning in government offices. Japan is preparing to force industry to make cuts in greenhouse gases, taking the lead in a country struggling to meet its Kyoto Protocol obligations.<ref>{{cite web|url=http://www.wbcsd.org/plugins/DocSearch/details.asp?type=DocDet&ObjectId=MzAyNzQ |title=World Business Council for Sustainable Development |publisher=WBCSD |accessdate=30 November 2009}}</ref>
+
+==Politics==
+{{Main|Politics of Japan|Government of Japan}}
+[[File:Akihito 090710-1600a.jpg|thumb|upright|150px|[[Emperor Akihito]] and [[Empress Michiko]]. Japan has the oldest continuous hereditary monarchy.<ref>{{cite book|last=Ponsonby-Fane|first=Richard|title=The Imperial House of Japan|publisher=Ponsonby Memorial Society|date=1959|pages=28–29}}</ref>]]
+
+Japan is a [[constitutional monarchy]] where the power of the [[Emperor of Japan|Emperor]] is very limited. As a ceremonial figurehead, he is defined by the [[Constitution of Japan|constitution]] as "the symbol of the state and of the unity of the people". Power is held chiefly by the [[Prime Minister of Japan]] and other elected members of the Diet, while sovereignty is vested in the Japanese people.<ref name="Constitution">{{cite web |url=http://www.sangiin.go.jp/eng/law/index.htm |title=The Constitution of Japan |publisher=House of Councillors of the National Diet of Japan |date=3 November 1946 |accessdate=10 March 2007}}</ref> The Emperor acts as the head of state on diplomatic occasions. [[Akihito]] is the current Emperor of Japan; [[Naruhito, Crown Prince of Japan]], stands as next in line to the throne.
+
+Japan's legislative organ is the [[Diet of Japan|National Diet]], a bicameral [[parliament]]. The Diet consists of a [[House of Representatives of Japan|House of Representatives]] with 480 seats, elected by popular vote every four years or when dissolved, and a [[House of Councillors]] of 242 seats, whose popularly-elected members serve six-year terms. There is [[universal suffrage]] for adults over 20 years of age,<ref name="cia"/> with a [[secret ballot]] for all elected offices.<ref name="Constitution"/> In 2009, the social liberal [[Democratic Party of Japan]] took power after 54 years of the liberal conservative [[Liberal Democratic Party (Japan)|Liberal Democratic Party]]'s rule.<ref>{{cite news|last=Harden|first=Blaine|title=Ruling Party Is Routed In Japan|url=http://www.washingtonpost.com/wp-dyn/content/article/2009/08/30/AR2009083000854.html|accessdate=7 January 2011|newspaper=Washington Post|date=31 August 2009}}</ref>
+
+The Prime Minister of Japan is the head of government. The Prime Minister is appointed by the Emperor after being designated by the Diet from among its members, and must enjoy the confidence of the House of Representatives to remain in office. The Prime Minister is the head of the [[Cabinet of Japan|Cabinet]] (the literal translation of his Japanese title is "Prime Minister of the Cabinet") and appoints and dismisses the [[Minister of State|Ministers of State]], a majority of whom must be Diet members. [[Naoto Kan]] was designated by the Diet to replace [[Yukio Hatoyama]] as the Prime Minister of Japan on June 2, 2010.<ref>{{cite news|url=http://search.japantimes.co.jp/cgi-bin/nn20100604x1.html|title=Diet votes in Kan as prime minister|date=4 June 2010|newspaper=Japan Times|accessdate=4 June 2010}}</ref> Although the Prime Minister is formally appointed by the Emperor, the Constitution of Japan explicitly requires the Emperor to appoint whoever is designated by the Diet. Emperor Akihito formally appointed Kan as the country's 94th Prime Minister on June 8.<ref>{{cite news|last=Fackler|first=Martin|title=Focusing on Future, Premier in Japan Unveils Cabinet|url=http://www.nytimes.com/2010/06/09/world/asia/09japan.html|accessdate=7 January 2011|newspaper=The New York Times|date=8 June 2010}}</ref>
+
+Historically influenced by [[Chinese law]], the [[law of Japan|Japanese legal system]] developed independently during the Edo period through texts such as ''[[Kujikata Osadamegaki]]''.<ref>{{cite book|last=Dean|first=Meryll|title=Japanese legal system : text, cases & materials|year=2002|publisher=Cavendish|isbn=9781859416730|pages=55–58|edition=2nd}}</ref> However, since the late 19th century, the [[judicial system of Japan|judicial system]] has been largely based on the [[civil law (legal system)|civil law]] of Europe, notably Germany. For example, in 1896, the Japanese government established a civil code based on a draft of the [[Bürgerliches Gesetzbuch|German civil code]]. With post-World War II modifications, the code remains in effect in present-day Japan.<ref>{{cite journal|last=Kanamori|first=Shigenari|title=German influences on Japanese Pre-War Constitution and Civil Code|journal=European Journal of Law and Economics|date=1 January 1999|volume=7|issue=1|pages=93–95|doi=10.1023/A:1008688209052}}</ref> Statutory law originates in Japan's legislature with the [[rubber stamp (politics)|rubber stamp]] approval of the Emperor. The Constitution requires that the Emperor promulgates legislation passed by the Diet, without specifically giving him the power to oppose the passing of the legislation.<ref name="Constitution"/> Japan's court system is divided into four basic tiers: the [[Supreme Court of Japan|Supreme Court]] and three levels of lower courts.<ref>{{cite web |url=http://www.kantei.go.jp/foreign/judiciary/0620system.html |publisher=Office of the Prime Minister of Japan |title=The Japanese Judicial System |accessdate=27 March 2007}}</ref> The main body of Japanese statutory law is a collection called the [[Six Codes]].<ref>{{cite book|last=Dean|first=Meryll|title=Japanese legal system : text, cases & materials|year=2002|publisher=Cavendish|isbn=9781859416730|page=131|edition=2nd}}</ref>
+
+===Administrative divisions===
+{{Main|Prefectures of Japan|Cities of Japan|Towns of Japan|Villages of Japan|List of Japanese cities by population}}
+
+Japan consists of [[Prefectures of Japan|forty-seven prefectures]], each overseen by an elected governor, legislature and administrative bureaucracy. Each prefecture is further divided into cities, towns and villages.<ref>{{cite book|last=McCargo|first=Duncan|title=Contemporary Japan|year=2000|publisher=Macmillan|isbn=0333710022|pages=84–85}}</ref> The nation is currently undergoing administrative [[Merger and dissolution of municipalities of Japan|reorganization by merging]] many of the cities, towns and villages with each other. This process will reduce the number of sub-prefecture administrative regions and is expected to cut administrative costs.<ref>{{cite web |last=Mabuchi |first=Masaru |url=http://siteresources.worldbank.org/WBI/Resources/wbi37175.pdf |title=''Municipal Amalgamation in Japan''|publisher=World Bank |month=May | year=2001 | accessdate=28 December 2006}}</ref>
+
+[[File:Regions and Prefectures of Japan.svg|thumb|270px|Map of the prefectures of Japan in [[ISO 3166-2:JP]] order and the [[regions of Japan]]]]
+{| style="margin:auto;"
+| style="padding-right:1em; vertical-align:top;" |
+<div class="center">'''[[Hokkaido]]'''</div>
+----
+1.&nbsp;[[Hokkaido]]
+| style="padding-right:1em; vertical-align:top;" |
+<div class="center">'''[[Tōhoku region|Tōhoku]]'''</div>
+----
+2.&nbsp;[[Aomori Prefecture|Aomori]]<br>
+3.&nbsp;[[Iwate Prefecture|Iwate]]<br>
+4.&nbsp;[[Miyagi Prefecture|Miyagi]]<br>
+5.&nbsp;[[Akita Prefecture|Akita]]<br>
+6.&nbsp;[[Yamagata Prefecture|Yamagata]]<br>
+7.&nbsp;[[Fukushima Prefecture|Fukushima]]
+| style="padding-right:1em; vertical-align:top;" |
+<div class="center">'''[[Kantō region|Kantō]]'''</div>
+----
+8.&nbsp;[[Ibaraki Prefecture|Ibaraki]]<br>
+9.&nbsp;[[Tochigi Prefecture|Tochigi]]<br>
+10.&nbsp;[[Gunma Prefecture|Gunma]]<br>
+11.&nbsp;[[Saitama Prefecture|Saitama]]<br>
+12.&nbsp;[[Chiba Prefecture|Chiba]]<br>
+13.&nbsp;[[Tokyo]]<br>
+14.&nbsp;[[Kanagawa Prefecture|Kanagawa]]
+| style="padding-right:1em; vertical-align:top;" |
+<div class="center">'''[[Chūbu region|Chūbu]]'''</div>
+----
+15.&nbsp;[[Niigata Prefecture|Niigata]]<br>
+16.&nbsp;[[Toyama Prefecture|Toyama]]<br>
+17.&nbsp;[[Ishikawa Prefecture|Ishikawa]]<br>
+18.&nbsp;[[Fukui Prefecture|Fukui]]<br>
+19.&nbsp;[[Yamanashi Prefecture|Yamanashi]]<br>
+20.&nbsp;[[Nagano Prefecture|Nagano]]<br>
+21.&nbsp;[[Gifu Prefecture|Gifu]]<br>
+22.&nbsp;[[Shizuoka Prefecture|Shizuoka]]<br>
+23.&nbsp;[[Aichi Prefecture|Aichi]]
+|-
+| style="padding-right:1em; vertical-align:top;" |
+<div class="center">'''[[Kansai]]'''</div>
+----
+24.&nbsp;[[Mie Prefecture|Mie]]<br>
+25.&nbsp;[[Shiga Prefecture|Shiga]]<br>
+26.&nbsp;[[Kyoto Prefecture|Kyoto]]<br>
+27.&nbsp;[[Osaka Prefecture|Osaka]]<br>
+28.&nbsp;[[Hyōgo Prefecture|Hyōgo]]<br>
+29.&nbsp;[[Nara Prefecture|Nara]]<br>
+30.&nbsp;[[Wakayama Prefecture|Wakayama]]
+| style="padding-right:1em; vertical-align:top;" |
+<div class="center">'''[[Chūgoku region|Chūgoku]]'''</div>
+----
+31.&nbsp;[[Tottori Prefecture|Tottori]]<br>
+32.&nbsp;[[Shimane Prefecture|Shimane]]<br>
+33.&nbsp;[[Okayama Prefecture|Okayama]]<br>
+34.&nbsp;[[Hiroshima Prefecture|Hiroshima]]<br>
+35.&nbsp;[[Yamaguchi Prefecture|Yamaguchi]]
+| style="padding-right:1em; vertical-align:top;" |
+<div class="center">'''[[Shikoku]]'''</div>
+----
+36.&nbsp;[[Tokushima Prefecture|Tokushima]]<br>
+37.&nbsp;[[Kagawa Prefecture|Kagawa]]<br>
+38.&nbsp;[[Ehime Prefecture|Ehime]]<br>
+39.&nbsp;[[Kōchi Prefecture|Kōchi]]
+| style="padding-right:1em; vertical-align:top;" |
+<div class="center">'''[[Kyūshū]] and [[Okinawa]]'''</div>
+----
+40.&nbsp;[[Fukuoka Prefecture|Fukuoka]]<br>
+41.&nbsp;[[Saga Prefecture|Saga]]<br>
+42.&nbsp;[[Nagasaki Prefecture|Nagasaki]]<br>
+43.&nbsp;[[Kumamoto Prefecture|Kumamoto]]<br>
+44.&nbsp;[[Ōita Prefecture|Ōita]]<br>
+45.&nbsp;[[Miyazaki Prefecture|Miyazaki]]<br>
+46.&nbsp;[[Kagoshima Prefecture|Kagoshima]]<br>
+47.&nbsp;[[Okinawa Prefecture|Okinawa]]
+|}
+
+===Foreign relations===
+{{Main|Foreign relations of Japan}}
+Japan is a member of the [[G8]], [[Asia-Pacific Economic Cooperation|APEC]], and "[[Association of Southeast Asian Nations Plus Three|ASEAN Plus Three]]", and is a participant in the [[East Asia Summit]]. Japan signed a security pact with [[Australia]] in March 2007<ref>{{cite web|url=http://www.mofa.go.jp/region/asia-paci/australia/joint0703.html |title=Japan-Australia Joint Declaration on Security Cooperation |publisher=Ministry of Foreign Affairs|accessdate=25 August 2010}}</ref> and with [[India]] in October 2008.<ref>{{cite web|url=http://www.mofa.go.jp/region/asia-paci/india/pmv0810/joint_d.html |title=Joint Declaration on Security Cooperation between Japan and India |publisher=Ministry of Foreign Affairs |date=22 October 2008 |accessdate=25 August 2010}}</ref> It is the world's third largest donor of [[official development assistance]] after the United States and France, donating US$9.48 billion in 2009.<ref>{{cite web|title=Net Official Development Assistance in 2009|url=http://www.oecd.org/dataoecd/17/9/44981892.pdf|publisher=Organisation for Economic Co-operation and Development|accessdate=16 January 2011}}</ref> Japan contributed non-combatant troops to the [[Iraq War]] but subsequently withdrew its forces.<ref name="Iraq deployment">{{cite web |url=http://www.iht.com/articles/2006/06/20/news/japan.php |title= Tokyo says it will bring troops home from Iraq |publisher=''International Herald Tribune'' |date=20 June 2006 | accessdate=28 March 2007}}</ref> The [[Japan Maritime Self-Defense Force]] is a regular participant in [[RIMPAC]] maritime exercises.<ref>{{cite web|title=About RIMPAC|url=http://www.mindef.gov.sg/imindef/mindef_websites/topics/exrimpac/abt_rimpac.html|publisher=Government of Singapore|accessdate=7 January 2011}}</ref>
+[[File:SM3 from JDS Kongo.jpg|thumb|upright|150px|[[JDS Kongō (DDG-173)|JDS ''Kongō'' (DDG-173)]] launching a [[Standard Missile 3]] [[anti-ballistic missile]]]]
+Japan is engaged in several territorial disputes with its neighbors: with Russia over the [[Kuril Islands dispute|South Kuril Islands]], with South Korea over the [[Liancourt Rocks]], with China and Taiwan over the [[Senkaku Islands]], and with China over the [[EEZ]] around [[Okinotorishima]].<ref>{{cite book|title=Peace in Northeast Asia|year=2008|publisher=Edward Elgar Publishing Limited|pages=26–29|editor=Schoenbaum, Thomas J.}}</ref> Japan also faces an ongoing dispute with [[North Korea]] over the latter's [[North Korean abductions of Japanese|abduction of Japanese citizens]] and its [[North Korea and weapons of mass destruction|nuclear weapons and missile program]] (see also [[Six-party talks]]).<ref>{{cite web|last=Chanlett-Avery|first=Emma|title=North Korea's Abduction of Japanese Citizens and the Six-Party Talks|url=http://www.fas.org/sgp/crs/row/RS22845.pdf|work=CRS Report for Congress|publisher=Federation of American Scientists|accessdate=7 January 2011}}</ref>
+
+===Military===
+{{Main|Japan Self-Defense Forces|Ministry of Defense (Japan)}}
+Japan maintains one of the largest military budgets of any country in the world.<ref>{{cite web|title=The 15 countries with the highest military expenditure in 2009|url=http://www.sipri.org/research/armaments/milex/resultoutput/milex_15|publisher=Stockholm International Peace Research Institute|accessdate=16 January 2011}}</ref> Japan has close economic and military relations with the United States, with the [[Japan-United States relations|US-Japan security alliance]] serving as the cornerstone of the nation's foreign policy.<ref>{{cite web |url=http://www.realclearpolitics.com/articles/2007/03/japan_is_back_why_tokyos_new_a.html |title=Japan Is Back: Why Tokyo's New Assertiveness Is Good for Washington| author=Michael Green |publisher=Real Clear Politics | accessdate=28 March 2007}}</ref> A member state of the United Nations since 1956, Japan has served as a non-permanent [[United Nations Security Council|Security Council]] member for a [[List of elected members of the United Nations Security Council#By number of years as Security Council member|total of 19 years]], most recently for 2009 and 2010. It is one of the [[G4 nations]] seeking permanent membership in the Security Council.<ref>{{cite web |url=http://www.centralchronicle.com/20070111/1101194.htm |archiveurl=http://web.archive.org/web/20070221044357/http://www.centralchronicle.com/20070111/1101194.htm |archivedate=21 February 2007 |title=UK backs Japan for UNSC bid |publisher=''Central Chronicle'' | accessdate=28 March 2007}}</ref>
+
+Japan's military is restricted by Article 9 of the Japanese Constitution, which renounces Japan's right to declare war or use military force as a means of settling international disputes. Japan's military is governed by the Ministry of Defense, and primarily consists of the [[Japan Ground Self-Defense Force]] (JGSDF), the [[Japan Maritime Self-Defense Force]] (JMSDF) and the [[Japan Air Self-Defense Force]] (JASDF). The forces have been recently used in peacekeeping operations; the [[Japanese Iraq Reconstruction and Support Group|deployment of Japanese troops to Iraq]] marked the first overseas use of its military since World War II.<ref name="Iraq deployment"/> [[Nippon Keidanren]] has called on the government to lift the ban on arms exports so that Japan can join multinational projects such as the [[Joint Strike Fighter]].<ref>{{cite news|url=http://in.reuters.com/article/idINIndia-50097320100713 |title=Japan business lobby wants weapon export ban eased |publisher=Reuters |date= 13 July 2010|accessdate=25 August 2010}}</ref>
+
+==Economy==
+{{Main|Economy of Japan}}
+[[File:Tokyo stock exchange.jpg|thumb|left|upright|150px|The [[Tokyo Stock Exchange]]]]
+From 1868, the Meiji period launched economic expansion.<ref>{{cite book|last=Totman|first=Conrad|title=A History of Japan ''(2nd ed.)''|year=2005|publisher=Blackwell|isbn=1405123591|pages=312–314}}</ref> Meiji rulers embraced the concept of a [[market economy]] and adopted British and North American forms of free enterprise capitalism. Japanese studied overseas and Western scholars were hired to teach in Japan. Many of today's enterprises were founded at the time, and Japan emerged as the most developed nation in Asia.<ref>{{cite book|last=McCargo|first=Duncan|title=Contemporary Japan|year=2000|publisher=Macmillan|isbn=0333710022|pages=18–19}}</ref>
+
+The period of overall real economic growth from the 1960s to the 1980s has been called [[Japanese post-war economic miracle|a "Japanese miracle"]]: it averaged 7.5 percent in the 1960s and 1970s, and 3.2 percent in the 1980s and early 1990s.<ref>{{cite journal|last=Ryan|first=Liam|title=The “Asian economic  miracle” unmasked: The political economy of the reality|journal=International Journal of Social Economics|date=1 January 2000|volume=27|issue=7–10|pages=802–815|doi=10.1108/03068290010335235}}</ref> Growth slowed markedly in the 1990s during what the Japanese call [[Lost Decade (Japan)|the Lost Decade]], largely because of the after-effects of the [[Japanese asset price bubble]] and domestic policies intended to wring speculative excesses from the stock and real estate markets. Government efforts to revive economic growth met with little success and were further hampered [[Dot-com bubble|by the global slowdown in 2000]].<ref name="cia"/> The economy showed strong signs of recovery after 2005. GDP growth for that year was 2.8 percent, with an annualized fourth quarter expansion of 5.5 percent, surpassing the growth rates of the US and [[European Union]] during the same period.<ref>{{cite news|last=Masake|first=Hisane|title=A farewell to zero|url=http://www.atimes.com/atimes/Japan/HC02Dh01.html|accessdate=16 January 2011|newspaper=Asia Times|date=2 March 2006}}</ref>
+
+{{As of|2010}}, Japan is the [[List of countries by GDP (nominal)|third largest]] national economy in the world,<ref name="imf">{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C941%2C914%2C446%2C612%2C666%2C614%2C668%2C311%2C672%2C213%2C946%2C911%2C137%2C193%2C962%2C122%2C674%2C912%2C676%2C313%2C548%2C419%2C556%2C513%2C678%2C316%2C181%2C913%2C682%2C124&s=NGDPD&grp=0&a=&pr.x=27&pr.y=13 |title=World Economic Outlook Database; country comparisons |publisher=[[IMF]] |date=6 October 2010 |accessdate=5 January 2011}}</ref> after the United States and China, in terms of both [[gross domestic product|nominal GDP]] (around US$5 trillion)<ref name="imf"/> and [[purchasing power parity]].<ref>{{cite web|title=World Factbook: Country Comparison :: GDP (purchasing power parity)|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2001rank.html|publisher=CIA|accessdate=16 January 2011}}</ref> {{As of|January 2011}}, Japan's [[public debt]] was more than 200 percent of its annual gross domestic product, the largest such ratio among industrialized nations.<ref>S.&P. Downgrades Japan as Global Debt Concerns Spread http://www.nytimes.com/2011/01/28/business/global/28yen.html?_r=1&partner=rss&emc=rss</ref> The [[service sector]] accounts for three quarters of the gross domestic product. Banking, [[insurance]], [[real estate]], [[retailing]], [[Transport in Japan|transportation]], [[telecommunication]]s and [[construction]] are all major industries.<ref>{{cite web|title=Manufacturing and Construction|url=http://www.stat.go.jp/english/data/handbook/c06cont.htm|work=Statistical Handbook of Japan|publisher=Statistics Bureau|accessdate=16 January 2011}}</ref> Japan has a large industrial capacity, and is home to some of the largest and most technologically advanced producers of motor vehicles, [[electronics]], [[machine tool]]s, [[steel]] and nonferrous metals, ships, [[chemical substance]]s, [[textile]]s, and [[food processing|processed foods]].<ref name="cia"/> [[Agriculture, forestry, and fishing in Japan|Agricultural businesses in Japan]] often utilize a system of [[terrace farming]], and crop yields are high; 13 percent of Japan's land is cultivated. Japan accounts for nearly 15 percent of the global fish catch, second only to China.<ref name="cia"/> Japan's agricultural sector is protected at high cost.<ref>{{cite web|title=Has Japanese agricultural protection had its day?|url=http://www.rirdc.gov.au/pub/shortreps/anu36a.html|archiveurl=http://web.archive.org/web/20070902121216/http://www.rirdc.gov.au/pub/shortreps/anu36a.html|archivedate=2 September 2007|publisher=Rural Industries Research & Development Corporation|accessdate=16 January 2011}}</ref>
+
+As of 2001, Japan's shrinking labor force consisted of some 67 million workers.<ref>{{cite web |url=http://www.prcdc.org/summaries/japan/japan.html |archiveurl=http://web.archive.org/web/20070927032804/http://www.prcdc.org/summaries/japan/japan.html |archivedate=27 September 2007 |title=Executive Summary: Population Trends in Japan |publisher=Population Resource Center |accessdate=11 May 2009}}</ref> Japan has a [[List of countries by unemployment rate|low unemployment rate]] of around 4 percent. Almost one in six Japanese, or 20 million people, lived in poverty in 2007.<ref>{{cite news|title=Japan Tries to Face Up to Growing Poverty Problem|url=http://www.nytimes.com/2010/04/22/world/asia/22poverty.html?source=patrick.net|accessdate=16 January 2011|newspaper=The New York Times|date=21 April 2010}}</ref> [[Housing in Japan]] is characterized by limited land supply in urban areas, particularly in Tokyo. More than half of all Japanese live in suburbs or more rural areas, where [[detached house]]s are the dominant housing type.<ref>{{cite web|title=2008 Housing and Land Survey|url=http://www.e-stat.go.jp/SG1/estat/NewListE.do?tid=000001028768|publisher=Statistics Bureau|accessdate=20 January 2011}}</ref> Japan's [[List of countries by GDP (PPP) per hour worked|GDP per hour worked]] is the world's 19th highest as of 2007.<ref>{{cite web|url=http://www.ggdc.net/ |title=Groningen Growth and Development Centre (GGDC) |publisher=GGDC |date=26 January 2009 |accessdate=30 November 2009}}</ref>
+
+[[File:Lexus LS-h 1001.jpg|thumb|180px|[[Toyota]], one of the world's largest automakers. Japan is the second-largest producer of automobiles in the world.<ref>{{cite web|title=World Motor Vehicle Production by Country|url=http://oica.net/wp-content/uploads/worldprod_country.PDF|publisher=OICA|accessdate=16 January 2011}}</ref>]]
+Japan ranks 12th of 178 countries in the 2008 [[Ease of Doing Business Index]] and has [[List of countries by tax revenue as percentage of GDP|one of the smallest tax revenues]] of the developed world. The Japanese variant of capitalism has many distinct features. [[Keiretsu]] enterprises are influential. [[Lifetime employment]] and seniority-based career advancement are relatively common in the [[Japanese work environment]].<ref>{{cite news |url=http://www.economist.com/node/7193984?story_id=7193984 |title=Japan's Economy: Free at last |publisher=The Economist |date=20 July 2006 |accessdate=23 January 2011}}</ref><ref name="oecd2008">{{cite web|url=http://www.oecd.org/document/17/0,3343,en_2649_34111_40353553_1_1_1_1,00.html |title=Economic survey of Japan 2008 |publisher=OECD |accessdate=25 August 2010}}</ref> Japanese companies are known for management methods like "[[The Toyota Way]]", and [[shareholder activism]] is rare.<ref>{{cite news|title=Activist shareholders swarm in Japan|url=http://www.economist.com/node/9414552?story_id=9414552|accessdate=23 January 2011|date=28 June 2007|newspaper=The Economist}}</ref> Japan's business culture has many indigenous concepts such as the [[nemawashi]], the [[Nenko System|nenko system]], the [[salaryman]], and the [[office lady]]. Recently, Japan has moved away from some of these norms.<ref>{{cite web |url=http://www.moneyweek.com/file/26181/why-germanys-economy-will-outshine-japan.html |title=Why Germany's economy will outshine Japan |publisher=MoneyWeek |date=28 February 2007 |accessdate=28 March 2007}}</ref><ref>{{cite news|url=http://www.economist.com/node/10169956?story_id=10169956 |title=Going hybrid |publisher=''The Economist'' |date= 29 November 2009|accessdate=23 January 2011}}</ref> In the [[Index of Economic Freedom]], Japan is the fifth most [[laissez-faire]] of 30 Asian countries.<ref>{{cite web|title=Japan|url=http://www.heritage.org/Index/country/Japan|publisher=[[Index of Economic Freedom]]|accessdate=16 January 2011}}</ref>
+
+Japan's exports amounted to [[List of countries by exports per capita|$US4,210 per capita]] in 2005. Japan's main export markets are China (18.88 percent), the United States (16.42 percent), South Korea (8.13 percent), Taiwan (6.27 percent) and [[Hong Kong]] (5.49 percent) as of 2009. Japan's main exports are transportation equipment, motor vehicles, electronics, electrical machinery and chemicals.<ref name="cia"/> Japan's main import markets as of 2009 are China (22.2 percent), the US (10.96 percent), Australia (6.29 percent), [[Saudi Arabia]] (5.29 percent), [[United Arab Emirates|UAE]] (4.12 percent), South Korea (3.98 percent) and [[Indonesia]] (3.95 percent). Japan's main imports are machinery and equipment, [[fossil fuel]]s, foodstuffs (in particular beef), chemicals, textiles and raw materials for its industries.<ref>{{cite news|last=Blustein|first=Paul|title=China Passes U.S. in Trade with Japan|url=http://www.washingtonpost.com/wp-dyn/articles/A40192-2005Jan26.html|accessdate=28 December 2006|newspaper=The Washington Post|date=27 January 2005}}</ref> By market share measures, domestic markets are the least open of any [[OECD]] country.<ref name="oecd2008"/> [[Junichiro Koizumi]]'s administration began some pro-competition reforms, and foreign investment in Japan has soared.<ref>{{cite news|title=Foreign investment in Japan soars|url=http://news.bbc.co.uk/2/hi/business/4632747.stm|accessdate=16 January 2011|newspaper=''BBC''|date=29 June 2005}}</ref>
+
+Some of the largest enterprises in Japan include Toyota, [[Nintendo]], [[NTT DoCoMo]], [[Canon (company)|Canon]], Honda, [[Takeda Pharmaceutical]], [[Sony]], [[Panasonic Corporation|Panasonic]], [[Toshiba]], [[Sharp Corporation|Sharp]], [[Nippon Steel]], [[Nippon Oil]], [[Japan Tobacco]], [[The Tokyo Electric Power Company|Tepco]], [[Mitsubishi]], [[Seven & I Holdings Co|711]],<ref>{{cite news|title=Japan 500 2007|url=http://www.ft.com/cms/s/0/1b939a9a-2587-11dc-b338-000b5df10621.html|accessdate=23 January 2011|newspaper=[[Financial Times]]}}</ref> [[Hitachi]], [[Nissan]], [[Æon]], [[Fujitsu]], and [[Nippon Telegraph and Telephone]]. It is home to some of [[Bank|the world's largest banks]], and the [[Tokyo Stock Exchange]] (known for its [[Nikkei 225]] and [[Topix]] indices) stands as the second largest in the world by [[market capitalization]].<ref>{{cite web|title=Market Data|url=http://www.nyse.com/events/1170156816059.html|publisher=New York Stock Exchange|accessdate=11 August 2007|date=31 January 2006}}</ref> Japan is home to 326 companies from the [[Forbes Global 2000]] or 16.3 percent (as of 2006).<ref>{{cite web|title=The Forbes 2000|url=http://www.forbes.com/lists/2006/18/06f2000_The-Forbes-2000_Rank.html|publisher=''Forbes''|accessdate=7 January 2011}}</ref> 
+
+===Science and technology===
+{{Main|Science and technology in Japan}}
+Japan is a leading nation in [[research|scientific research]], particularly [[technology]], machinery and [[biomedical research]]. Nearly 700,000 researchers share a US$130 billion [[research and development]] budget, the third largest in the world.<ref>{{cite news|last=McDonald|first=Joe|title=China to spend $136 billion on R&D|newspaper=BusinessWeek|date=4 December 2006}}</ref> Japan is a world leader in [[fundamental research|fundamental scientific research]], having produced fifteen [[Nobel Prize|Nobel laureates]] in either physics, chemistry or medicine,<ref>{{cite web |title=Japanese Nobel Laureates |publisher=[[Kyoto University]] |year=2009 |url=http://www.kyoto-u.ac.jp/en/profile/intro/honor/nobel.htm/ |accessdate=7 November 2009}}</ref> three [[Fields Medal|Fields medalists]] <ref>{{cite web |title=Japanese Fields Medalists |publisher=Kyoto University |year=2009 |url=http://www.kyoto-u.ac.jp/en/profile/intro/honor/fields.htm|accessdate=7 November 2009}}</ref> and one [[Gauss Prize]] laureate.<ref>{{cite web |title=Dr. Kiyoshi Ito receives Gauss Prize |publisher=Kyoto University |year=2009 |url=http://www.kyoto-u.ac.jp/en/profile/intro/honor/gauss.htm|accessdate=7 November 2009}}</ref> Some of Japan's more prominent technological contributions are found in the fields of electronics, automobiles, machinery, [[earthquake engineering]], [[industrial robot]]ics, [[optics]], chemicals, [[semiconductor]]s and metals. Japan leads the world in [[robotics]] production and use, possessing more than half (402,200 of 742,500) of the world's industrial robots used for manufacturing.<ref>{{cite web|title=The Boom in Robot Investment Continues|url=http://www.unece.org/press/pr2000/00stat10e.htm|publisher=UN Economic Commission for Europe|accessdate=28 December 2006|date=17 October 2000}}</ref> It produced [[QRIO]], [[ASIMO]] and [[AIBO]]. Japan is also the world's largest producer of automobiles.<ref>{{cite web |title=World Motor Vehicle Production by Country |publisher=[[OICA]] |year=2006 |url=http://www.oica.net/htdocs/statistics/tableaux2006/worldprod_country-2.pdf |archiveurl=http://web.archive.org/web/20070807213925/http://www.oica.net/htdocs/statistics/tableaux2006/worldprod_country-2.pdf |archivedate=7 August 2007 |accessdate=15 January 2010}}</ref>
+
+The [[Japan Aerospace Exploration Agency]] (JAXA) is Japan's [[space agency]]; it conducts space and planetary research, aviation research, and development of rockets and satellites. It is a participant in the [[International Space Station]]: the [[Japanese Experiment Module]] (Kibo) was added to the International Space Station during [[Space Shuttle]] assembly flights in 2008.<ref>{{cite web |title=Japan Aerospace Exploration Agency Homepage |publisher = Japan Aerospace Exploration Agency|date=3 August 2006 |url=http://www.jaxa.jp/index_e.html |accessdate=28 March 2007}}</ref> It has plans in [[space exploration]], such as launching a [[space probe]] to [[Venus]], ''[[Akatsuki (probe)|Akatsuki]]'', in 2010,<ref>{{cite web|url=http://www.jaxa.jp/projects/sat/planet_c/index_e.html |title=JAXA {{!}} Venus Climate Orbiter "AKATSUKI" (PLANET-C)|publisher=Japan Aerospace Exploration Agency|accessdate=4 December 2010}}</ref><ref>{{cite web |url=http://www.isas.jaxa.jp/e/enterp/missions/planet-c/index.shtml |title=ISAS {{!}} Venus Meteorology AKATSUKI (PLANET-C) | work=[[Institute of Space and Astronautical Science]] | publisher=Japan Aerospace Exploration Agency |accessdate=4 December 2010}}</ref> developing the ''[[Mercury Magnetospheric Orbiter]]'' to be launched in 2013,<ref>{{cite web|url=http://www.jaxa.jp/projects/sat/bepi/index_e.html |title=JAXA, Mercury Exploration Mission "BepiColombo" |publisher=Japan Aerospace Exploration Agency |accessdate=25 August 2010}}</ref><ref>{{cite web |url=http://www.isas.jaxa.jp/e/enterp/missions/mmo/index.shtml |title=ISAS, Mercury Exploration MMO (BepiColombo) |work= Institute of Space and Astronautical Science |publisher=Japan Aerospace Exploration Agency|accessdate=25 August 2010}}</ref> and building a [[colonization of the Moon|moon base]] by 2030.<ref>{{cite web |title=Japan Plans Moon Base by 2030 |publisher=MoonDaily |date=3 August 2006 |url=http://www.moondaily.com/reports/Japan_Plans_Moon_Base_By_2030_999.html |accessdate=27 March 2007}}</ref> On September 14, 2007, it launched lunar [[orbit]] [[explorer]] "''[[SELENE]]''" ('''Sel'''enological and '''En'''gineering '''E'''xplorer) on an [[H-IIA]] (Model H2A2022) carrier rocket from [[Tanegashima Space Center]]. ''SELENE'' is also known as ''Kaguya'', the lunar princess of ''[[The Tale of the Bamboo Cutter]]''.<ref name="jaxa_nickname">{{cite web|url=http://www.jaxa.jp/countdown/f13/special/nickname_e.html| title="KAGUYA" selected as SELENE's nickname| accessdate=13 October 2007}}</ref> ''Kaguya'' is the largest lunar probe mission since the [[Apollo program]]. Its mission is to gather data on the [[Moon#Formation|moon's origin and evolution]]. It entered into a lunar orbit on October 4,<ref>{{cite web|url=http://www.japancorp.net/Article.Asp?Art_ID=15429 |title=Japan Successfully Launches Lunar Explorer "Kaguya" |publisher=Japan Corporate News Network|accessdate=25 August 2010}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/6994272.stm |title=Japan launches first lunar probe |publisher=BBC News |date=14 September 2007 |accessdate=25 August 2010}}</ref> flying in a lunar orbit at an altitude of about {{convert|100|km|0|abbr=on}}.<ref>{{cite web|url=http://www.jaxa.jp/press/2008/10/20081009_kaguya_e.html |title=JAXA, KAGUYA (SELENE) Image Taking of "Full Earth-Rise" by HDTV |publisher=Japan Aerospace Exploration Agency |accessdate=25 August 2010}}</ref>
+
+===Infrastructure===
+{{Main|Energy in Japan|Transport in Japan}}
+[[File:JR East Shinkansen lineup at Niigata Depot 200910.jpg|thumb|left|[[Shinkansen]] or ''Bullet trains'' are a popular form of transport in Japan.<ref>{{Cite book| first=Christopher P. | last=Hood | year=2006 | title=Shinkansen – From Bullet Train to Symbol of Modern Japan | publisher=Routledge | isbn=0-415-32052-6|pages=61–68}}</ref>]]
+
+As of 2008, 46.4 percent of [[energy in Japan]] is produced from [[petroleum]], 21.4 percent from [[coal]], and 16.7 percent from [[natural gas]], 9.7 percent from nuclear power, and 2.9 percent from hydro power. [[Nuclear power in Japan|Nuclear power]] produces 22.5 percent of Japan's electricity.<ref>{{cite web|title=Energy|url=http://www.stat.go.jp/english/data/handbook/c07cont.htm|work=Statistical Handbook of Japan 2010|publisher=Statistics Bureau|accessdate=16 January 2011}}</ref>
+
+Japan's road spending has been extensive.<ref>{{cite news|title=Japan's Road to Deep Deficit is Paved with Public Works|url=http://query.nytimes.com/gst/fullpage.html?res=9500E3DC1031F932A35750C0A961958260|accessdate=16 January 2011|newspaper=The New York Times}}</ref> Its 1.2 million kilometers of paved road are the main means of transportation.<ref>{{cite web|title=Transport|url=http://www.stat.go.jp/english/data/handbook/c09cont.htm|work=Statistical Handbook of Japan 2007|publisher=Statistics Bureau|accessdate=16 January 2011}}</ref> A single network of high-speed, divided, limited-access toll roads connects major cities and is operated by [[toll road|toll-collecting enterprises]]. New and used cars are inexpensive; car ownership fees and fuel levies are used to promote energy efficiency. However, at just 50 percent of all distance traveled, car usage is the lowest of all G8 countries.<ref name="transtatsjp">{{cite web|url=http://www.iraptranstats.net/jp|title=Transport in Japan|accessdate=17 February 2009|work=International Transport Statistics Database|publisher=[[International Road Assessment Program]]}}{{subscription required}}</ref>
+
+[[List of railway companies in Japan|Dozens of Japanese railway companies]] compete in regional and local passenger transportation markets; major companies include seven [[Japan Railways Group|JR]] enterprises, [[Kintetsu Corporation]], [[Seibu Railway]] and [[Keio Corporation]]. Some 250 high-speed [[Shinkansen]] trains connect major cities. Japanese trains are known for their punctuality.<ref>{{cite web|url=http://www.hitachi-rail.com/rail_now/column/just_in_time/index.html|archiveurl=http://web.archive.org/web/20080513230217/http://www.hitachi-rail.com/rail_now/column/just_in_time/index.html|archivedate=13 May 2008|title=Corporate Culture as Strong Diving Force for Punctuality- Another "Just in Time"|accessdate=19 April 2009|publisher=Hitachi}}</ref> There are 173 airports in Japan, and flying is a popular way to travel between cities. The largest domestic airport, [[Haneda Airport]], is [[World's busiest airports by passenger traffic|Asia's second-busiest airport]].<ref>{{cite web|url=http://www.airports.org/cda/aci_common/display/main/aci_content07_c.jsp?zn=aci&cp=1-5-212-218-222_666_2__ |title= Year to Date Passenger Traffic|publisher=Airports Council International |date=11 November 2010 |accessdate=16 November 2010}}</ref> The largest international gateways are [[Narita International Airport]], [[Kansai International Airport]] and [[Chūbu Centrair International Airport]].<ref>{{cite book|last=Nakagawa|first=Dai|title=Transport Policy and Funding|year=2006|publisher=Elsevier|isbn=0080448526|page=63|coauthors=Matsunaka, Ryoji}}</ref> The largest ports include [[Nagoya Port]].<ref>{{cite web|title=Port Profile|url=http://www.port-of-nagoya.jp/english/about_port.htm|publisher=Port of Nagoya|accessdate=7 January 2011}}</ref>
+
+==Demographics==
+{{Main|Demographics of Japan|Japanese people|Aging of Japan|Racial issues in Japan}}
+[[File:Skyscrapers of Shinjuku 2009 January.jpg|thumb|[[Greater Tokyo Area]] is the world's most populous metropolitan area with about 35 million people]]
+Japan's population is estimated at around 127.3 million.<ref name="cia"/> Japanese society is [[linguistics|linguistically]] and culturally homogeneous with small populations of foreign workers.<ref>{{cite news|title='Multicultural Japan' remains a pipe dream|url=http://search.japantimes.co.jp/cgi-bin/fl20070327zg.html|accessdate=16 January 2011|newspaper=Japan Times|date=27 March 2007}}</ref> [[Koreans in Japan|Zainichi Koreans]],<ref>{{cite news|title=Japan-born Koreans live in limbo|url=http://www.nytimes.com/2005/04/01/news/01iht-nurse.html|accessdate=16 January 2011|newspaper=The New York Times|date=2 April 2005}}</ref> [[Chinese people in Japan|Zainichi Chinese]], [[Filipinos in Japan|Filipinos]], [[Japanese Brazilian]]s,<ref>{{cite news|title=An Enclave of Brazilians Is Testing Insular Japan|url=http://www.nytimes.com/2008/11/02/world/asia/02japan.html|accessdate=16 January 2011|newspaper=The New York Times|date=1 November 2008}}</ref> and [[Japanese Peruvians]] are among the small minority groups resident in Japan.<ref>{{cite news|title='Home' is where the heartbreak is for Japanese-Peruvians|url=http://www.atimes.com/japan-econ/AJ16Dh01.html|accessdate=16 January 2011|newspaper=Asia Times|date=16 October 1999}}</ref> In 2003, there were about 136,000 Western expatriates in Japan.<ref>{{cite web|title=Registered Foreigners in Japan by Nationality|url=http://www.stat.go.jp/data/nenkan/pdf/y0213014.pdf|archiveurl=http://web.archive.org/web/20050824195238/http://www.stat.go.jp/data/nenkan/pdf/y0213014.pdf|archivedate=24 August 2005|publisher=Statistics Bureau|accessdate=16 January 2011}}</ref> The most dominant native ethnic group is the [[Yamato people]]; primary minority groups include the indigenous [[Ainu people|Ainu]]<ref>{{cite news |first= Philippa |last= Fogarty|title= Recognition at last for Japan's Ainu|url= http://news.bbc.co.uk/2/hi/asia-pacific/7437244.stm|publisher= BBC|date= 6 June 2008|accessdate=7 June 2008 }}</ref> and [[Ryukyuan people]]s, as well as social minority groups like the ''[[burakumin]]''.<ref>{{cite news|title=The Invisible Race|url=http://www.time.com/time/magazine/article/0,9171,910511,00.html|accessdate=16 January 2011|newspaper=Time|date=8 January 1973}}</ref>
+
+Japan has one of the highest [[life expectancy]] rates in the world, at 81.25 years of age as of 2006.<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html |title=The World Factbook: Rank order—Life expectancy at birth |publisher=[[CIA]] |date=19 December 2006 |accessdate=28 December 2006}}</ref> The [[Aging of Japan|Japanese population is rapidly aging]], the effect of [[Post-World War II baby boom|a post-war baby boom]] followed by a decrease in births in the latter part of the 20th century. In 2004, about 19.5 percent of the population was over the age of 65.<ref name="handbook">{{cite web |url=http://www.stat.go.jp/English/data/handbook/c02cont.htm |title=Statistical Handbook of Japan: Chapter 2—Population |publisher=Statistics Bureau |accessdate=28 December 2006}}</ref> The changes in demographic structure have created a number of social issues, particularly a potential decline in workforce population and increases in the cost of social security benefits such as the public [[pension]] plan. Many Japanese youth are increasingly preferring not to marry or have families as adults.<ref name="Ogawa"/> Japan's population is expected to drop to 100 million by 2050 and to 64 million by 2100.<ref name="handbook"/> Demographers and government planners are currently in a heated debate over how to cope with this problem.<ref name="Ogawa">{{cite web|last=Ogawa|first=Naohiro|title=Demographic Trends and their implications for Japan's future|url=http://www.mofa.go.jp/j_info/japan/socsec/ogawa.html|work=Transcript of speech delivered on 7 March 1997|publisher=Ministry of Foreign Affairs|accessdate=14 May 2006}}</ref> [[Immigration]] and birth incentives are sometimes suggested as a solution to provide younger workers to support the nation's aging population.<ref>{{cite web |url=http://jipi.gr.jp/english/message.html |archiveurl=http://web.archive.org/web/20070929222250/http://jipi.gr.jp/english/message.html |archivedate=29 September 2007 |title=Japan Immigration Policy Institute: Director's message| first= Hidenori|last=Sakanaka| publisher=Japan Immigration Policy Institute |date=5 October 2005 |accessdate=5 January 2007}}</ref><ref>{{cite news|last=French|first=Howard|title=Insular Japan Needs, but Resists, Immigration|url=http://www.nytimes.com/2003/07/24/international/asia/24JAPA.html?ei=5007&en=53c7315175389e69&ex=1374379200&partner=USERLAND&pagewanted=all&position=|accessdate=21 February 2007|newspaper=The New York Times|date=24 July 2003}}</ref> According to the [[UNHCR]], in 2007 Japan accepted just 41 refugees for resettlement, while the US took in 50,000.<ref>{{cite news|title=Refugees in Japan|url=http://search.japantimes.co.jp/cgi-bin/ed20081012a2.html|accessdate=16 January 2011|newspaper=Japan Times|date=12 October 2008}}</ref>
+
+Japan [[Suicide in Japan|suffers from a high suicide rate]].<ref name="NYT">{{cite news|url=http://query.nytimes.com/gst/fullpage.html?res=9F00E1DB173FF936A25754C0A96F958260&sec=health&spon=&scp=29&sq=suicide%20japan&st=cse|title=In Japan, Mired in Recession, Suicides Soar|last=Strom|first=Stephanie|date=15 July 1999|newspaper=The New York Times|accessdate=20 September 2008}}</ref><ref name=Times>{{cite news|url=http://www.timesonline.co.uk/tol/news/world/asia/article4170649.ece|title=Japan gripped by suicide epidemic|last=Lewis|first=Leo|date=19 June 2008|newspaper=[[The Times (London)|The Times]]|accessdate=20 September 2008}}</ref> In 2009, the number of suicides exceeded 30,000 for the twelfth straight year.<ref>{{cite news |title = Suicides in Japan top 30,000 for 12th consecutive year | newspaper = Japan Today | date = 25 December 2009| url = http://www.japantoday.com/category/national/view/suicides-in-japan-top-30000-in-2009-for-12th-consecutive-year|accessdate=16 January 2011}}</ref> Suicide is the leading cause of death for people under 30.<ref name="ozawa-desilva">{{Cite journal| last = Ozawa-de Silva| first = Chikako
+ | title = Too Lonely to Die Alone: Internet Suicide Pacts and Existential Suffering in Japan| journal = Cult Med Psychiatry | volume = 32 | issue = 4 | pages = 516–551 | month = December | year = 2008 | doi = 10.1007/s11013-008-9108-0| pmid = 18800195}}</ref>
+
+===Urbanization===
+{{Infobox largest cities
+<!--- Table title --->
+| title = [[List of Japanese cities by population|Largest cities of Japan]]
+<!--- List header --->
+| city_type = Core City
+| subdivision_type = Prefecture
+<!--- Central images --->
+| image1 = Tokyo Tower and around Skyscrapers.jpg
+| image2 = Osaka Castle 03bs3200.jpg
+<!--- List --->
+| city1 = Tokyo
+| city1_div = Tokyo
+| city1_pop = 8,483,050
+| city2 = Yokohama
+| city2_div = Kanagawa Prefecture{{!}}Kanagawa
+| city2_pop = 3,579,133
+| city3 = Osaka
+| city3_div = Osaka Prefecture{{!}}Osaka
+| city3_pop = 2,628,776
+| city4 = Nagoya
+| city4_div = Aichi Prefecture{{!}}Aichi
+| city4_pop = 2,215,031
+| city5 = Sapporo
+| city5_div = Hokkaido
+| city5_pop = 1,880,875
+| city6 = Kobe
+| city6_div = Hyōgo Prefecture{{!}}Hyōgo
+| city6_pop = 1,525,389
+| city7 = Kyoto
+| city7_div = Kyoto Prefecture{{!}}Kyoto
+| city7_pop = 1,465,917
+| city8 = Fukuoka, Fukuoka{{!}}Fukuoka
+| city8_div = Fukuoka Prefecture{{!}}Fukuoka
+| city8_pop = 1,450,149
+| city9 = Kawasaki, Kanagawa{{!}}Kawasaki
+| city9_div = Kanagawa Prefecture{{!}}Kanagawa
+| city9_pop = 1,327,009
+| city10 = Saitama, Saitama{{!}}Saitama
+| city10_div = Saitama Prefecture{{!}}Saitama
+| city10_pop = 1,176,269
+| city11 = Hiroshima
+| city11_div = Hiroshima Prefecture{{!}}Hiroshima
+| city11_pop = 1,159,391
+| city12 = Sendai
+| city12_div = Miyagi Prefecture{{!}}Miyagi
+| city12_pop = 1,028,214
+| city13 = Kitakyushu
+| city13_div = Fukuoka Prefecture{{!}}Fukuoka
+| city13_pop = 993,483
+| city14 = Chiba, Chiba{{!}}Chiba
+| city14_div = Chiba Prefecture{{!}}Chiba
+| city14_pop = 924,353
+| city15 = Sakai, Osaka{{!}}Sakai
+| city15_div = Osaka Prefecture{{!}}Osaka
+| city15_pop = 835,333
+| city16 = Niigata, Niigata{{!}}Niigata
+| city16_div = Niigata Prefecture{{!}}Niigata
+| city16_pop = 813,847
+| city17 = Hamamatsu
+| city17_div = Shizuoka Prefecture{{!}}Shizuoka
+| city17_pop = 804,067
+| city18 = Shizuoka, Shizuoka{{!}}Shizuoka
+| city18_div = Shizuoka Prefecture{{!}}Shizuoka
+| city18_pop = 710,944
+| city19 = Sagamihara, Kanagawa{{!}}Sagamihara
+| city19_div = Kanagawa Prefecture{{!}}Kanagawa
+| city19_pop = 701,568
+| city20 = Okayama, Okayama{{!}}Okayama
+| city20_div = Okayama Prefecture{{!}}Okayama
+| city20_pop = 696,172
+<!--- Footnotes --->
+| source = 2005 Census
+}}
+
+===Religion===
+{{Main|Religion in Japan}}
+
+[[File:Itsukushima torii distance.jpg|thumb|[[Shinto]] [[Itsukushima Shrine]] [[UNESCO World Heritage Site]]]]
+
+The highest estimates suggest that 84–96 percent of the Japanese population are [[Buddhism|Buddhists]] or [[Shinto]]ists, including a large number of believers in a [[syncretism]] of both religions.<ref name="cia"/><ref>{{cite web|url=http://www.state.gov/g/drl/rls/irf/2006/71342.htm |title=International Religious Freedom Report 2006 |author=Bureau of Democracy, Human Rights, and Labor |publisher=US Department of State |date=15 September 2006 |accessdate=4 December 2007}}</ref> However, these estimates are based on people associated with a temple, rather than the number of people truly following the religion.<ref name=Kisala>{{cite book| last = Kisala | first = Robert | editor= Wargo, Robert| title = The Logic Of Nothingness: A Study of Nishida Kitarō | publisher = University of Hawaii Press| year = 2005| pages = 3–4 | isbn = 0824822846}}</ref> Professor Robert Kisala ([[Nanzan University]]) suggests that only 30 percent of the population identify themselves as belonging to a religion.<ref name=Kisala/> [[Taoism]] and [[Confucianism]] from China have also influenced Japanese beliefs and customs.<ref>{{cite book|last=Totman|first=Conrad|title=A History of Japan ''(2nd ed.)''|year=2005|publisher=Blackwell|isbn=1405123591|page=72}}</ref> Religion in Japan tends to be syncretic in nature, resulting in a variety of practices, such as parents and children celebrating Shinto rituals, students praying before exams, couples holding a wedding at a [[Christian]] [[church (building)|church]], and funerals being held at Buddhist temples. According to the CIA World Fact Book, two percent of Japanese are Christian (2.4 million).<ref name="cia"/> In addition, since the mid-19th century, numerous religious sects (''[[Shinshūkyō]]'') have emerged in Japan.<ref name="Clarke, Peter B. 1993 pg. 208">{{cite book|title=The World's religions : understanding the living faiths|year=1993|publisher=Reader's Digest|isbn=9780895775016|editor=Clarke, Peter|page=208}}</ref>
+
+===Languages===
+{{Main|Japanese language}}
+
+More than 99 percent of the population speaks [[Japanese language|Japanese]] as their first language.<ref name="cia"/> It is an [[agglutinative language]] distinguished by a system of [[Honorific speech in Japanese|honorifics]] reflecting the hierarchical nature of Japanese society, with verb forms and particular vocabulary indicating the relative status of speaker and listener. [[Japanese writing system|Japanese writing]] uses [[kanji]] ([[Chinese character]]s) and two sets of [[kana]] ([[syllabary|syllabaries]] based on simplified Chinese characters), as well as the [[Latin alphabet]] and [[Arabic numerals]].<ref>{{cite web|last=Miyagawa|first=Shigeru|title=The Japanese Language|url=http://web.mit.edu/jpnet/articles/JapaneseLanguage.html|publisher=Massachusetts Institute of Technology|accessdate=16 January 2011}}</ref>
+
+Besides Japanese, the [[Ryukyuan languages]], also part of the [[Japonic languages|Japonic language family]], are spoken in Okinawa; however, few children learn these languages.<ref>{{cite journal|last=Heinrich|first=Patrick|title=Language Planning and Language Ideology in the Ryūkyū Islands|journal=Language Policy|date=January 2004|volume=3|issue=2|pages=153–179|doi=10.1023/B:LPOL.0000036192.53709.fc}}</ref> The [[Ainu language]], which is unrelated to Japanese or any other known language, is [[moribund language|moribund]], with only a few elderly native speakers remaining in Hokkaido.<ref>{{cite web |url=http://www.un.org/works/culture/japan_story.html |archiveurl=http://web.archive.org/web/20080106062419/http://www.un.org/works/culture/japan_story.html |archivedate=6 January 2008 |title=15 families keep ancient language alive in Japan |publisher=UN | accessdate=27 March 2007}}</ref> Most public and private schools require students to take courses in both Japanese and English.<ref>{{cite web |url=http://www.indiana.edu/~japan/digest5.html |archiveurl=http://web.archive.org/web/20060427225148/http://www.indiana.edu/~japan/digest5.html |archivedate=27 April 2006 |title=Japan Digest: Japanese Education |date=1 September 2005 |first= Lucien|last=Ellington|publisher=Indiana University |accessdate=27 April 2006}}</ref>
+
+===Education===
+{{Main|Education in Japan|Health care in Japan}}
+[[File:Yasuda Auditorium, Tokyo University - Nov 2005.JPG|thumb|The Yasuda Auditorium of [[University of Tokyo]]]]
+Primary schools, secondary schools and universities were introduced into Japan in 1872 as a result of the Meiji Restoration.<ref>{{cite web |url=http://www.fpri.org/footnotes/087.200312.ellington.japaneseeducation.html |title=Beyond the Rhetoric: Essential Questions About Japanese Education |first=Lucien |last=Ellington|publisher=Foreign Policy Research Institute |date=1 December 2003 |accessdate=1 April 2007}}</ref> Since 1947, compulsory education in Japan comprises [[Elementary schools in Japan|elementary school]] and [[Secondary education in Japan#Middle school|middle school]], which together last for nine years (from age 6 to age 15). Almost all children continue their education at a three-year senior [[Secondary education in Japan#High school|high school]], and, according to the [[Ministry of Education, Culture, Sports, Science and Technology (Japan)|MEXT]], as of 2005 about 75.9 percent of high school graduates attend a university, junior college, trade school, or other [[Higher education in Japan|higher education]] institution.<ref>{{cite web |url= http://www.mext.go.jp/english/statist/05101901/005.pdf |title= School Education |publisher= [[Ministry of Education, Culture, Sports, Science and Technology (Japan)|MEXT]] | accessdate=10 March 2007}}</ref>
+
+Japan's education system is very competitive,<ref>{{cite web |url=http://www.usyd.edu.au/news/international/226.html?newsstoryid=1568 |title=Rethinking Japanese education |first=Kate|last=Rossmanith|publisher=University of Sydney |date=5 February 2007| accessdate=1 April 2007}}</ref> especially for entrance to institutions of higher education. The two top-ranking universities in Japan are the [[University of Tokyo]] and [[Kyoto University]].<ref name="Global University Ranking">{{cite web | url=http://www.globaluniversitiesranking.org/index.php?option=com_content&view=article&id=94&Itemid=131|title=TOP – 100 |publisher=Global Universities Ranking|year=2009|accessdate=22 March 2010}}</ref><ref>{{cite web | url=http://www.topuniversities.com/university-rankings/world-university-rankings/2010|title=QS World University Rankings 2010|publisher=QS TopUniversities|year=2010|accessdate=15 January 2010}}</ref> The [[Programme for International Student Assessment]] coordinated by the OECD currently ranks the knowledge and skills of Japanese 15-year-olds as the sixth best in the world.<ref>{{cite web|title=OECD's PISA survey shows some countries making significant gains in learning outcomes|url=http://www.oecd.org/document/22/0,3343,en_2649_201185_39713238_1_1_1_1,00.html|publisher=OECD|accessdate=16 January 2011}}</ref>
+
+===Health===
+In Japan, health care services are provided by national and local governments. Payment for personal medical services is offered through a universal health insurance system that provides relative equality of access, with fees set by a government committee. People without insurance through employers can participate in a national health insurance program administered by local governments. Since 1973, all elderly persons have been covered by government-sponsored insurance.<ref>{{cite web |url=http://www.nyu.edu/projects/rodwin/lessons.html |first=Victor|last=Rodwin|title=Health Care in Japan |publisher=New York University |accessdate=10 March 2007}}</ref> Patients are free to select physicians or facilities of their choice.<ref>{{cite web |url=http://www.ipss.go.jp/s-info/e/Jasos/Health.html |title=Health Insurance: General Characteristics |publisher=National Institute of Population and Social Security Research |accessdate=28 March 2007}}</ref>
+
+==Culture==
+[[File:Kinkaku3402CBcropped.jpg|thumb|The Temple of the Golden Pavilion (''[[Kinkaku-ji]]'')]]
+{{Main|Culture of Japan|Japanese folklore|Japanese aesthetics|Japanese ceramics|Japanese art|Japanese architecture}}
+Japanese culture has evolved greatly over the years, from the country's original Jōmon arts to its contemporary culture, which combines influences from Asia, Europe and North America. Traditional Japanese arts include [[Japanese handicrafts|crafts]] ([[ikebana]], [[origami]], [[ukiyo-e]], [[Japanese traditional dolls|dolls]], [[Japanese lacquerware|lacquerware]], [[Japanese pottery and porcelain|pottery]]), performances ([[bunraku]], [[Japanese traditional dance|dance]], [[kabuki]], [[noh]], [[rakugo]]), traditions ([[List of Japanese games|games]], [[Japanese tea ceremony|tea ceremony]], [[Budō]], [[Japanese architecture|architecture]], [[Japanese garden|gardens]], [[Katana|swords]]) and [[Japanese cuisine|cuisine]]. The fusion of traditional [[woodblock printing]] and Western art led to the creation of [[manga]], a typically Japanese comic book format that is now popular within and outside Japan.<ref>{{cite web |url=http://www.dnp.co.jp/museum/nmp/nmp_i/articles/manga/manga1.html |title= A History of Manga |publisher=NMP International |accessdate=27 March 2007}}</ref> Manga-influenced animation for television and film is called [[anime]]. Japanese-made [[video game console]]s have been popular since the 1980s.<ref>{{cite web |url=http://uk.gamespot.com/gamespot/features/video/hov/index.html |title= The History of Video Games |first=Leonard|last=Herman|coauthor=Horwitz, Jer; Kent, Steve; Miller, Skyler|publisher=[[Gamespot]] |accessdate=1 April 2007}}</ref>
+
+===Music===
+{{Main|Music of Japan}}
+Japanese music is eclectic, borrowing instruments, scales and styles from neighboring cultures. Many instruments, such as the [[koto (musical instrument)|koto]], were introduced in the 9th and 10th centuries. The accompanied [[recitative]] of the [[Noh]] drama dates from the 14th century and the popular folk music, with the guitar-like [[shamisen]], from the sixteenth.<ref>{{cite book|last=Malm|first=William P.|title=Traditional Japanese music and musical instruments|year=2000|publisher=Kodansha International|isbn=9784770023957|pages=31–45|edition=New}}</ref> Western [[classical music]], introduced in the late 19th century, now forms an integral part of the culture. Post-war Japan has been heavily influenced by American and European modern music, which has led to the evolution of popular band music called [[J-pop]].<ref>{{cite news |url=http://www.guardian.co.uk/music/2005/aug/21/popandrock3 |title= J-Pop History |publisher=The Observer| accessdate=1 April 2007 | first=Chris | last=Campion | date=22 August 2005}}</ref> [[Karaoke]] is the most widely practiced cultural activity. A November 1993 survey by the [[Agency for Cultural Affairs|Cultural Affairs Agency]] found that more Japanese had sung karaoke that year than had participated in traditional cultural pursuits such as flower arranging (ikebana) or tea ceremonies.<ref>{{cite book|title=The worlds of Japanese popular culture: gender, shifting boundaries and global cultures|year=1998|publisher=Cambridge University Press|isbn=9780521637299|page=76|edition=Repr.|editor=Martinez, D.P.}}</ref>
+[[File:Brooklyn_Museum_-_Scene_from_the_Tale_of_Genji_-_overall.jpg|thumb|right|150px|upright|A scene from ''The Tale of Genji'']]
+
+===Literature===
+{{Main|Japanese literature}}
+The earliest works of [[Japanese literature]] include two history books, the ''[[Kojiki]]'' and the ''[[Nihon Shoki]]'', and the 8th century poetry book ''[[Man'yōshū]]'', all written in Chinese characters.<ref>{{cite web |url=http://www.meijigakuin.ac.jp/~ascj/2000/200015.htm |title= Asian Studies Conference, Japan (2000) |publisher=Meiji Gakuin University |accessdate=1 April 2007}}</ref> In the early days of the Heian period, the system of transcription known as ''kana'' ([[Hiragana]] and [[Katakana]]) was created as phonograms. ''The Tale of the Bamboo Cutter'' is considered the oldest Japanese narrative.<ref name="ispmsu">{{cite web |url=http://isp.msu.edu/AsianStudies/wbwoa/eastasia/Japan/literature.html |archiveurl=http://web.archive.org/web/20071011065654/http://isp.msu.edu/AsianStudies/wbwoa/eastasia/Japan/literature.html |archivedate=11 October 2007 |title= Windows on Asia—Literature : Antiquity to Middle Ages: Recent Past |publisher=Michigan State University |accessdate=28 December 2007}}</ref> An account of Heian court life is given by ''[[The Pillow Book]]'' written by [[Sei Shōnagon]], while ''[[The Tale of Genji]]'' by [[Murasaki Shikibu|Lady Murasaki]] is often described as the world's first novel.<ref>{{cite book|last=Totman|first=Conrad|title=A History of Japan ''(2nd ed.)''|year=2005|publisher=Blackwell|isbn=1405123591|pages=126–127}}</ref><ref>{{Cite book|title=The Tale of Genji|editor=Royall, Tyler|publisher=[[Penguin Classics]]|year=2003|isbn=014243714X|pages=i–ii, xii}}</ref>
+
+During the Edo period, literature became not so much the field of the samurai aristocracy as that of the [[chōnin]], the ordinary people. [[Yomihon]], for example, became popular and reveals this profound change in the readership and authorship.<ref name="ispmsu"/> The Meiji era saw the decline of traditional literary forms, during which Japanese literature integrated Western influences. [[Natsume Sōseki]] and [[Mori Ōgai]] were the first "modern" novelists of Japan, followed by [[Ryūnosuke Akutagawa]], [[Jun'ichirō Tanizaki]], [[Yasunari Kawabata]], [[Yukio Mishima]] and, more recently, [[Haruki Murakami]]. Japan has two [[Nobel Prize in Literature|Nobel Prize-winning]] authors—[[Yasunari Kawabata]] (1968) and [[Kenzaburo Oe]] (1994).<ref name="ispmsu"/>
+
+===Sports===
+{{Main|Sport in Japan}}
+[[File:Sumo.jpg|thumb|200px|Sumo wrestlers competing in Tokyo]]
+Traditionally, [[sumo]] is considered Japan's national sport.<ref>{{cite web |url=http://www.pbs.org/independentlens/sumoeastandwest/sumo.html |title=Sumo: East and West |publisher=[[PBS]] |accessdate=10 March 2007}}</ref> [[Japanese martial arts]] such as [[judo]], [[karate]] and [[kendo]] are also widely practiced and enjoyed by spectators in the country. After the Meiji Restoration, many Western sports were introduced in Japan and began to spread through the education system.<ref>{{cite web |url=http://www.uk.emb-japan.go.jp/en/facts/culture_dailylife.html#sports |archiveurl=http://web.archive.org/web/20070317192109/http://www.uk.emb-japan.go.jp/en/facts/culture_dailylife.html#sports |archivedate=17 March 2007|title=Culture and Daily Life |publisher=Embassy of Japan in the UK |accessdate=27 March 2007}}</ref> Japan hosted the Summer Olympics in [[1964 Summer Olympics|Tokyo in 1964]]. Japan has hosted the Winter Olympics twice: [[1998 Winter Olympics|Nagano in 1998]] and [[1972 Winter Olympics|Sapporo in 1972]].<ref>{{cite web|title=Olympic History in Japan|url=http://www.joc.or.jp/english/historyjapan/history_japan_bid.html|publisher=Japanese Olympic Committee|accessdate=7 January 2011}}</ref>
+
+The [[Nippon Professional Baseball|professional baseball league in Japan]] was established in 1936.<ref>{{cite book |author=Nagata, Yoichi; Holway, John B. |editor=Palmer, Pete |title=Total Baseball |edition=4th |year=1995 |publisher=Viking Press |page=547 |chapter=Japanese Baseball}}</ref> Today baseball is the most popular spectator sport in the country. One of the most famous Japanese baseball players is [[Ichiro Suzuki]], who now plays for the [[Seattle Mariners]].<ref>{{cite news|last=Posnanski|first=Joe|title=There has never been a player like Ichiro, and there likely never will |url=http://sportsillustrated.cnn.com/2010/writers/joe_posnanski/03/25/unique.ichiro/index.html|accessdate=7 January 2011|newspaper=Sports Illustrated}}</ref> [[Sadaharu Oh]] was well-known outside Japan, having hit more home runs during his career in Japan than [[Hank Aaron]] did in the US.<ref>{{cite news|last=Wallace|first=Bruce|title=Home run king and gentleman|url=http://articles.latimes.com/2007/jul/04/sports/sp-oh4|accessdate=7 January 2011|newspaper=Los Angeles Times|date=4 July 2007}}</ref> Since the establishment of the [[J. League|Japan Professional Football League]] in 1992, [[Football in Japan|association football (soccer)]] has also gained a wide following.<ref>{{cite web |url=http://www.tjf.or.jp/takarabako/PDF/TB09_JCN.pdf |title= Soccer as a Popular Sport: Putting Down Roots in Japan |publisher= The Japan Forum | accessdate=1 April 2007}}</ref> Japan was a venue of the [[Intercontinental Cup (football)|Intercontinental Cup]] from 1981 to 2004 and co-hosted the [[2002 FIFA World Cup]] with South Korea.<ref>{{cite web|title=Previous FIFA World Cups|url=http://www.fifa.com/worldcup/archive/edition=4395/index.html|publisher=FIFA|accessdate=7 January 2011}}</ref> Japan has one of the most successful soccer teams in Asia, winning the [[AFC Asian Cup|Asian Cup]] four times.<ref>{{cite web|title=Japan's best for AFC Asian Cup|url=http://www.the-afc.com/en/afc-asian-cup-news/31044-japans-best-for-afc-asian-cup|publisher=Asian Football Confederation|accessdate=7 January 2011}}</ref>
+
+Golf is also popular in Japan,<ref>{{cite web |url=http://metropolis.co.jp/tokyo/604/sports.asp |title= Japanese Golf Gets Friendly |publisher=[[Metropolis (English magazine in Japan)|Metropolis]] |first=Fred |last=Varcoe|accessdate=1 April 2007|archiveurl = http://web.archive.org/web/20070926215517/http://metropolis.co.jp/tokyo/604/sports.asp |archivedate = 26 September 2007|deadurl=yes}}</ref> as are forms of auto racing, such as the [[Super GT]] sports car series and [[Formula Nippon]] formula racing.<ref>{{cite web |url=http://metropolis.co.jp/tokyo/623/sports.asp |title= Japanese Omnibus: Sports |publisher=''[[Metropolis (English magazine in Japan)|Metropolis]]'' |first=Len|last=Clarke|accessdate=1 April 2007|archiveurl = http://web.archive.org/web/20070926215524/http://metropolis.co.jp/tokyo/623/sports.asp |archivedate = September 26, 2007|deadurl=yes}}</ref> [[Twin Ring Motegi]] was completed in 1997 by Honda in order to bring [[IndyCar Series|IndyCar]] racing to Japan.<ref>{{cite web|title=Birth of Twin Ring Motegi|url=http://world.honda.com/history/challenge/1997twinringmotegi/|publisher=Honda|accessdate=7 January 2011}}</ref>
+
+==See also==
+{{Portal|Japan}}
+* [[Outline of Japan]]
+{{Template group
+|title = Articles Related to Japan
+|list =
+{{Japan topics}}
+{{Template group
+|title = Geographic locale
+|list =
+{{Regions and administrative divisions of Japan}}
+{{Countries and territories of East Asia}}
+}}
+{{Template group
+|title = International membership
+|list =
+{{Major non-NATO ally}}
+{{East Asia Summit}}
+{{Current G8 Leaders}}
+{{G20}}
+{{Monarchies|state=collapsed}}
+}}
+}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+;Further reading
+{{refbegin}}
+* De Mente, ''The Japanese Have a Word For It'', McGraw-Hill, 1997 (ISBN 0-8442-8316-9)
+* Flath, ''The Japanese Economy'', Oxford University Press, 2000 (ISBN 0-19-877503-2)
+* Henshall, ''A History of Japan'', Palgrave Macmillan, 2001 (ISBN 0-312-23370-1)
+* Ikegami, ''Bonds Of Civility: Aesthetic Networks And The Political Origins Of Japanese Culture'', Cambridge University Press, 2005 (ISBN 0-521-60115-0)
+* Ito et al., ''Reviving Japan's Economy: Problems and Prescriptions'', MIT Press, 2005 (ISBN 0-262-09040-6)
+* Iwabuchi, ''Recentering Globalization: Popular Culture and Japanese Transnationalism'', [[Duke University Press]], 2002 (ISBN 0-8223-2891-7)
+* Jansen, ''The Making of Modern Japan'', Belknap, 2000 (ISBN 0-674-00334-9)
+* Johnson, ''Japan: Who Governs?'', [[W.W. Norton & Company]], 1996 (ISBN 0-393-31450-2)
+* Kato et al., ''A History of Japanese Literature: From the Man'Yoshu to Modern Times'', Japan Library, 1997 (ISBN 1-873410-48-4)
+* Macwilliams, ''Japanese Visual Culture: Explorations in the World of Manga and Anime'', M.E. Sharpe, 2007 (ISBN 0-7656-1602-5)
+* McDonald, ''Reading a Japanese Film: Cinema in Context'', [[University of Hawaii Press]], 2005 (ISBN 0-8248-2993-X)
+* Ono et al., ''Shinto: The Kami Way'', Tuttle Publishing, 2004 (ISBN 0-8048-3557-8)
+* Reischauer, ''Japan: The Story of a Nation'', McGraw-Hill, 1989 (ISBN 0-07-557074-2)
+* Samuels, ''Securing Japan: Tokyo's Grand Strategy and the Future of East Asia'', [[Cornell University Press]], 2008 (ISBN 0-8014-7490-6)
+* Silverberg, ''Erotic Grotesque Nonsense: The Mass Culture of Japanese Modern Times'', [[University of California Press]], 2007 (ISBN 0-520-22273-3)
+* Shinoda, ''Koizumi Diplomacy: Japan’s Kantei Approach to Foreign and Defense Affairs'', [[University of Washington Press]], 2007 (ISBN 0-295-98699-9)
+* Stevens, ''Japanese Popular Music: Culture, Authenticity and Power'', Routledge, 2007 (ISBN 0-415-38057-X)
+* Sugimoto et al., ''An Introduction to Japanese Society'', [[Cambridge University Press]], 2003 (ISBN 0-521-52925-5)
+* Varley, ''Japanese Culture'', University of Hawaii Press, 2000 (ISBN 0-8248-2152-1)
+{{refend}}
+
+==External links==
+{{Sister project links|Japan}}
+
+; Government
+* [http://www.kantei.go.jp/foreign/index-e.html Kantei.go.jp], official [[Prime Minister of Japan|prime ministerial]] and cabinet site
+* [http://www.kunaicho.go.jp/eindex.html Kunaicho.go.jp], official site of the [[Imperial House of Japan|Imperial family]].
+* [http://www.mofa.go.jp/ Ministry of Foreign Affairs]
+* [http://www.ndl.go.jp/en/index.html National Diet Library]
+
+; News media
+* [http://www.asahi.com/english/index.html Asahi Shimbun]
+* [http://home.kyodo.co.jp/ Kyodo News]
+* [http://www.nhk.or.jp/english/ NHK Online]
+* [http://www.japantimes.co.jp/ Japan Times]
+* [http://www.yomiuri.co.jp/dy/ Yomiuri Shimbun (English)]
+
+; Tourism
+* [http://www.jnto.go.jp/eng/ Japan National Tourist Organization]
+* {{Wikitravel}}
+
+; General information
+* [http://ucblibraries.colorado.edu/govpubs/for/japan.htm Japan] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Asia/Japan}}
+* [http://tonto.eia.doe.gov/country/country_energy_data.cfm?fips=JA Energy Profile for Japan] from the US [[Energy Information Administration]]
+* {{gutenberg author | id=Japan | name=Government of Japan}} containing the 1889 and 1946 Constitutions
+* [http://www.life.com/image/first/in-gallery/44241/japan-land-of-the-rising-sun Japan: Land of the Rising Sun] – slideshow by ''[[Life magazine]]''
+
+[[Category:Japan| ]]
+[[Category:G8 nations]]
+[[Category:G20 nations]]
+[[Category:Constitutional monarchies]]
+[[Category:Countries bordering the Pacific Ocean]]
+[[Category:Countries bordering the Philippine Sea]]
+[[Category:East Asian countries]]
+[[Category:Empires]]
+[[Category:Island countries]]
+[[Category:Liberal democracies]]
+[[Category:States and territories established in 660 BC]]
+
+{{Link GA|de}}
+{{Link GA|es}}
+{{Link GA|fi}}
+{{Link GA|lt}}
+{{Link GA|no}}
+{{Link GA|zh}}
+{{Link FA|af}}
+{{Link FA|ca}}
+{{Link FA|th}}
+{{Link FA|tt}}
+{{Link FA|vi}}
+{{Link FA|ko}}
+
+[[ace:Jeupun]]
+[[af:Japan]]
+[[als:Japan]]
+[[am:ጃፓን]]
+[[ang:Iapan]]
+[[ab:Иапониа]]
+[[ar:اليابان]]
+[[an:Chapón]]
+[[arc:ܝܦܢ]]
+[[frp:J·apon]]
+[[as:জাপান]]
+[[ast:Xapón]]
+[[ay:Nihun]]
+[[az:Yaponiya]]
+[[bjn:Japang]]
+[[bn:জাপান]]
+[[zh-min-nan:Ji̍t-pún]]
+[[ba:Япония]]
+[[be:Японія]]
+[[be-x-old:Японія]]
+[[bcl:Hapon]]
+[[bar:Japan]]
+[[bo:རི་པིན།]]
+[[bs:Japan]]
+[[br:Japan]]
+[[bg:Япония]]
+[[bxr:Жибэн]]
+[[ca:Japó]]
+[[cv:Япони]]
+[[ceb:Hapon]]
+[[cs:Japonsko]]
+[[ch:Chapan]]
+[[cbk-zam:Japón]]
+[[cy:Japan]]
+[[da:Japan]]
+[[pdc:Japan]]
+[[de:Japan]]
+[[dv:ޖަޕާނު]]
+[[nv:Binaʼadaałtzózí Dinéʼiʼ Bikéyah]]
+[[dsb:Japańska]]
+[[dz:ཇ་པཱན]]
+[[et:Jaapan]]
+[[el:Ιαπωνία]]
+[[es:Japón]]
+[[eo:Japanio]]
+[[ext:Japón]]
+[[eu:Japonia]]
+[[ee:Japan]]
+[[fa:ژاپن]]
+[[hif:Japan]]
+[[fo:Japan]]
+[[fr:Japon]]
+[[fy:Japan]]
+[[ga:An tSeapáin]]
+[[gv:Yn Çhapaan]]
+[[gag:Yaponiya]]
+[[gd:Iapan]]
+[[gl:Xapón - 日本]]
+[[gan:日本]]
+[[gu:જાપાન]]
+[[hak:Ngi̍t-pún]]
+[[xal:Ниxуудин Нутг]]
+[[ko:일본]]
+[[ha:Japan]]
+[[haw:Iāpana]]
+[[hy:Ճապոնիա]]
+[[hi:जापान]]
+[[hsb:Japanska]]
+[[hr:Japan]]
+[[io:Japonia]]
+[[ilo:Japon]]
+[[bpy:জাপান]]
+[[id:Jepang]]
+[[ia:Japon]]
+[[ie:Japan]]
+[[iu:ᓃᑉᐊᓐ/niipan]]
+[[os:Япон]]
+[[zu:IJapani]]
+[[is:Japan]]
+[[it:Giappone]]
+[[he:יפן]]
+[[jv:Jepang]]
+[[kn:ಜಪಾನ್]]
+[[pam:Hapon]]
+[[krc:Япония]]
+[[ka:იაპონია]]
+[[ks:जापान]]
+[[csb:Japòńskô]]
+[[kk:Жапония]]
+[[kw:Nihon]]
+[[rw:Ubuyapani]]
+[[ky:Жапония]]
+[[sw:Japani]]
+[[kv:Япония]]
+[[ht:Japon]]
+[[ku:Japon]]
+[[lo:ປະເທດຍີ່ປຸ່ນ]]
+[[la:Iaponia]]
+[[lv:Japāna]]
+[[lb:Japan]]
+[[lt:Japonija]]
+[[lij:Giappon]]
+[[li:Japan]]
+[[ln:Zapɔ́]]
+[[jbo:pongu'e]]
+[[lmo:Giapun]]
+[[hu:Japán]]
+[[mk:Јапонија]]
+[[mg:Japana]]
+[[ml:ജപ്പാൻ]]
+[[mt:Ġappun]]
+[[mi:Nipono]]
+[[mr:जपान]]
+[[arz:اليابان]]
+[[ms:Jepun]]
+[[cdo:Nĭk-buōng]]
+[[mwl:Japon]]
+[[mdf:Япунмастор]]
+[[mn:Япон]]
+[[my:ဂျပန်နိုင်ငံ]]
+[[nah:Xapon]]
+[[na:Djapan]]
+[[nl:Japan]]
+[[nds-nl:Japan]]
+[[ne:जापान]]
+[[new:जापान]]
+[[ja:日本]]
+[[nap:Giappone]]
+[[pih:Japan]]
+[[no:Japan]]
+[[nn:Japan]]
+[[nrm:Japon]]
+[[nov:Japan]]
+[[oc:Japon]]
+[[mhr:Японий]]
+[[or:ଜାପାନ]]
+[[uz:Yaponiya]]
+[[pnb:جاپان]]
+[[pap:Hapon]]
+[[ps:جاپان]]
+[[km:ជប៉ុន]]
+[[pms:Giapon]]
+[[tpi:Siapan]]
+[[nds:Japan]]
+[[pl:Japonia]]
+[[pt:Japão]]
+[[crh:Yaponiya]]
+[[ty:Tāpōnē]]
+[[ro:Japonia]]
+[[rm:Giapun]]
+[[qu:Nihun]]
+[[ru:Япония]]
+[[rue:Японія]]
+[[sah:Дьоппуон]]
+[[se:Japána]]
+[[sm:Iapani]]
+[[sa:जापान]]
+[[sc:Giappone]]
+[[sco:Japan]]
+[[stq:Japan]]
+[[sq:Japonia]]
+[[scn:Giappuni]]
+[[si:ජපානය]]
+[[simple:Japan]]
+[[sd:جاپان]]
+[[ss:IJaphani]]
+[[sk:Japonsko]]
+[[cu:Ꙗпѡні́ꙗ]]
+[[sl:Japonska]]
+[[szl:Japůńijo]]
+[[so:Jabaan]]
+[[ckb:ژاپۆن]]
+[[srn:Japan]]
+[[sr:Јапан]]
+[[sh:Japan]]
+[[su:Jepang]]
+[[fi:Japani]]
+[[sv:Japan]]
+[[tl:Hapon (bansa)]]
+[[ta:ஜப்பான்]]
+[[kab:Japun]]
+[[tt:Япония]]
+[[te:జపాన్]]
+[[th:ประเทศญี่ปุ่น]]
+[[ti:ጃፓን]]
+[[tg:Ҷопон]]
+[[chr:ᏣᏩᏂᏏ]]
+[[tr:Japonya]]
+[[tk:Ýaponiýa]]
+[[udm:Япония]]
+[[bug:ᨍᨛᨄ]]
+[[uk:Японія]]
+[[ur:جاپان]]
+[[ug:ياپونىيە]]
+[[za:Nditbonj]]
+[[vec:Giapòn]]
+[[vi:Nhật Bản]]
+[[vo:Yapän]]
+[[zh-classical:日本]]
+[[war:Hapon]]
+[[wo:Sapoŋ]]
+[[wuu:日本]]
+[[yi:יאפאן]]
+[[yo:Japan]]
+[[zh-yue:日本]]
+[[diq:Japonya]]
+[[bat-smg:Japuonėjė]]
+[[zh:日本]]

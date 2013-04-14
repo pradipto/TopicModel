@@ -1,0 +1,417 @@
+{{For|the Willie Nelson album|Country Music (Willie Nelson album)}}
+{{Infobox music genre
+|name=Country music
+|color=white
+|bgcolor=brown
+|stylistic_origins=[[Appalachian music|Appalachian folk music]], [[Music of the Maritimes|Maritime folk music]], [[Gospel music|Gospel]], [[Music of the United Kingdom|Anglo]], and [[Old-time music]]
+|cultural_origins=Early 20th century [[Atlantic Canada]] and the [[Southern United States]]
+|instruments=[[Guitar]] - [[Bass guitar|Bass]] - [[Dobro]] - [[Steel Guitar]] - [[Pedal steel guitar]] - [[Mandolin]] - [[Banjo]] - [[Double Bass]] - [[Fiddle]] - [[Piano]] - [[electronic keyboard]]  - [[Drum]]s - [[Harmonica]] - [[Vocals]]  
+|popularity= 1920s&ndash;present <br />
+High in [[Australia]], [[Canada]] and the [[United States|US]], <br />
+Medium in [[United Kingdom]], [[Ireland]], Scandinavia and [[New Zealand]]<br />
+Low in [[Asia]], [[Africa]], [[Latin America]] and mainland [[Europe]]. <!--- sources needed --->
+|derivatives=[[Rock and Roll]], [[Dansband]], [[Roots rock]], [[Southern rock]], [[Heartland rock]]
+|subgenrelist= [[List of country genres]]
+|subgenres=[[Bakersfield sound]] - [[Bluegrass music|Bluegrass]] - [[Close harmony]] - [[Honky tonk]] - [[Jug band]] - [[Lubbock sound]] - [[Nashville sound]] - [[Neotraditional country]] - [[Outlaw country]] - [[Red Dirt (music)|Red Dirt]] - [[Western swing]] - [[Texas country music|Texas country]]
+|fusiongenres=[[Alternative country]] - [[Country rock]] - [[Psychobilly]] - [[Rockabilly]] - [[Gothabilly]] - [[Cowpunk]] - [[Country-rap]] - [[Country pop]] - [[Country soul]] - [[Southern soul]] 
+|other_topics=[[List of country musicians|Country musicians]] - [[List of years in country music]]
+}}
+[[Image:CMFlogo.jpg|thumb|right|Country Music Hall of Fame and Museum logo]]'''Country music''' (or '''country and Western''') is a blend of traditional and popular [[American music|musical]] forms traditionally found in the [[Southern United States]] and the [[Maritimes|Canadian Maritimes]] that evolved rapidly beginning in the 1920s.<ref name="Peterson">Peterson, Richard A. (1999). ''Creating Country Music: Fabricating Authenticity'', p. 9. ISBN 0-226-66285-3.</ref> Distinctive variations of the genre have also emerged elsewhere including [[Australian country music]].
+
+The term ''country music'' gained popularity in the 1940s when the earlier term ''[[hillbilly]] music'' came to be seen as denigrating. ''Country music'' was widely embraced in the 1970s, while ''country and Western'' has declined in use since that time, except in the [[United Kingdom]] and [[Ireland]], where it is still commonly used.<ref name="Peterson" /> However, in the [[Southwestern United States]] a different mix of [[American ancestry|ethnic groups]] created the music that became the [[Western music (North America)|Western music]] of the term ''country and Western''. The term ''country music'' is used today to describe many [[List of country genres|styles]] and subgenres. 
+
+Country music has produced two of the top selling solo artists of all time. [[Elvis Presley]], who was known early on as “the Hillbilly Cat” and was a regular on the radio program ''[[Louisiana Hayride]]'',<ref>[http://www.jim-reeves.com/hayride.html Jim-reeves.com] ''Jim-reeves.com''</ref> went on to become a defining figure in the emergence of [[rock and roll]]. With 129.5 million albums sold, Presley is the top-domestic-selling solo artist in U.S. history. Contemporary musician [[Garth Brooks]], with 128 million albums sold, is the second best-selling solo artist in U.S. history.<ref>[http://www.acountry.com/music/2008_academy_of_country_music_awards_winners/ Acountry.com] "The Academy of Country Music also honored Garth Brooks with the first-ever Crystal Milestone Award. The award is given to an artist or industry leader to commemorate a specific, remarkable achievement. With 128 million unit sales, Brooks has been certified the second best top-selling solo recording artist in U.S. history."</ref>
+
+While album sales of most musical genres have declined since about 2005, country music experienced one of its best years in 2006, when, during the first six months, U.S. sales of country albums increased by 17.7 percent to 36 million. Moreover, country music listening nationwide has remained steady for almost a decade, reaching 77.3 million adults every week, according to the radio-ratings agency [[Arbitron]], Inc.<ref>[http://www.roughstock.com/history/garthnew.html Roughstock.com] ''Roughstock.com''</ref><ref>{{cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/21/MNGEJKM7F11.DTL&feed=rss.news | title=L.A. radio loses its twang / Last country station switches to pop format to attract more Hispanic adult women | first1=Charles | last1=Duhigg | first2=Geoff | last2=Boucher | date=2006-08-21 | work=The San Francisco Chronicle}}</ref>
+
+== Early history ==
+[[Immigrant]]s to the [[Maritime Provinces]] and Southern [[Appalachian Mountains]] of North America brought the music and instruments of the Old World along with them for nearly 300 years. They brought some of their most important valuables with them, and to most of them this was an instrument: “Early Scottish settlers enjoyed the fiddle because it could be played to sound sad and mournful or bright and bouncy”<ref>Gish, D.L. Country Music. North Mankato, MN: Smart Apple Media, 2002.Print.</ref> The Irish [[fiddle]], the German derived [[Appalachian dulcimer|dulcimer]], the Italian [[mandolin]], the Spanish [[guitar]], and the West African [[banjo]]<ref>{{cite web|url=http://bluegrassbanjo.org/banhist.html |title=Bluegrassbanjo.org |publisher=Bluegrassbanjo.org |date= |accessdate=2011-02-01}}</ref> were the most common musical instruments. The interactions among musicians from different ethnic groups produced music unique to this region of [[North America]]. [[Appalachian]] [[String band (American music)|string band]]s of the early 20th century primarily consisted of the fiddle, guitar, and banjo.<ref>{{cite web|url=http://www.shoppbs.org/sm-pbs-the-appalachians-dvd--pi-2048969.html#Details |title=Shoppbs.org |publisher=Shoppbs.org |date=2009-02-16 |accessdate=2011-02-01}}</ref> This early country music along with early recorded country music is often referred to as [[old-time music]].
+
+According to [[Bill Malone]] in ''Country Music U.S.A'', country music was “introduced to the world as a southern phenomenon."<ref>Malone, Bill. ''Country Music U.S.A.'' Austin: University of Texas Press, 2002. Print.</ref>  In the South, folk music was a combination of cultural strains, combining musical traditions of a variety of ethnic groups in the region. For example, some instrumental pieces from Anglo-British and Irish immigrants were the basis of folk songs and ballads that form what is now known as [[old time music]], from which country music descended. It is commonly thought that British and Irish folk music influenced the development of old time music. British and Irish arrivals to the Southern U.S. included immigrants from Scotland, Wales, Ireland, and England.
+
+Often, when many people think or hear country music, they think of it as a creation of European-Americans. However, a great deal of style—and of course, the banjo, a major instrument in most early American folk songs—came from African Americans. One of the reasons country music was created by African-Americans, as well as European-Americans, is because blacks and whites in rural communities in the south often worked and played together, just as recollected by [[DeFord Bailey]]<ref>{{cite web|url=http://www.pbs.org/deford/music/influences.html |title=PBS.org |publisher=PBS.org |date= |accessdate=2011-02-01}}</ref> in the PBS documentary, ''DeFord Bailey:  A Legend Lost''.<ref>{{cite web|url=http://www.pbs.org/deford/ |title=PBS.org |publisher=PBS.org |date=2005-02-14 |accessdate=2011-02-01}}</ref>
+
+Throughout the 19th century, several [[Immigration to the United States|immigrant]] groups from [[Europe]], most notably from [[Ireland]], [[Germany]], [[Spain]], and [[Italy]] moved to [[Texas]]. These groups interacted with [[Mexican American|Mexican]] and [[Native Americans in the United States|Native American]], and U.S. communities that were already established in Texas. As a result of this cohabitation and extended contact, Texas has developed unique cultural traits that are rooted in the culture of all of its founding communities.<ref>{{cite web|url=http://www.tshaonline.org/handbook/online/articles/CC/xbc3.html |title=Texas Handbook on Line |publisher=Tshaonline.org |date= |accessdate=2011-02-01}}</ref>
+
+==1920s==
+Local performers from Atlanta and Fort Worth were being played on radio stations in 1922. Along with local performers, barn-dance programs became popular among radio stations as well. Some record companies in Georgia turned away early artists such as Fiddlin' John Carson; while others realized that his music would fit perfectly with the lifestyle of the countries agricultural employees.<ref>Richard, Crawford,. America's musical life a history. New York: Norton, 2001. Print.</ref> The first commercial recording of what was considered country music was "Sallie Gooden" by fiddlist [[Eck Robertson|A.C. (Eck) Robertson]] in 1922 for Victor Records. [[Columbia Records]] began issuing records with "hillbilly" music (series 15000D "Old Familiar Tunes") as early as 1924.<ref>[http://www.78discography.com/COL15000D.htm 78discography.com] ''The Online Discography Project''.</ref>
+[[Image:Vernon Dalhart 01.jpg|thumb|right|upright|[[Vernon Dalhart]]]] 
+
+A year earlier on June 14, 1923, [[Fiddlin' John Carson]] recorded "[[The Little Old Log Cabin in the Lane|Little Log Cabin in the Lane]]" for [[Okeh Records]].<ref>{{cite web|url=http://ourgeorgiahistory.com/chronpop/215 |title=Our Georgia History |publisher=Our Georgia History |date= |accessdate=2011-02-01}}</ref> [[Vernon Dalhart]] was the first country singer to have a nationwide hit in May 1924 with "[[Wreck of the Old '97]]".<ref>{{cite web|url=http://www.blueridgeinstitute.org/ballads/old97song.html |title=Blue Ridge Institute & Museum |publisher=Blueridgeinstitute.org |date= |accessdate=2011-02-01}}</ref><ref>{{cite web|url=http://www.blueridgeinstitute.org/ballads/old97.html |title=Blue Ridge Institute & Museum |publisher=Blueridgeinstitute.org |date=1903-09-27 |accessdate=2011-02-01}}</ref> The flip side of the record was "Lonesome Road Blues," which also became very popular.<ref name="cohn">{{cite book|last=Cohn|first=Lawrence|title=Nothing but the Blues: The Music and the Musicians|origmonth=September|origyear=1993|coauthors=Aldin, Mary Katherine; Bastin, Bruce|publisher=Abbeville Press|isdn=978-1558592711|page=238}}</ref> In April 1924, "Aunt" [[Samantha Bumgarner]] and Eva Davis became the first female musicians to record and release country songs.<ref>[http://www.thesylvaherald.com/B-Full-Sam-workout022201.htm Thesylvaherald.com]{{dead link|date=February 2011}}</ref>
+
+Many "hillbilly" musicians, such as [[Cliff Carlisle]], recorded blues songs throughout the decade<ref>Country Music Originals - The Legends and the Lost. Tony Russell. 2007. Oxford University Press. pages 14, 15, 25, 31, 45, 59, 73, 107, 157, 161, 165,167, 225. ISBN 978019532506.</ref> and into the 30s. Other important early recording artists were [[Riley Puckett]], [[Don Richardson (musician)|Don Richardson]], [[Fiddlin' John Carson]], [[Al Hopkins]], Ernest V. Stoneman, [[Charlie Poole and the North Carolina Ramblers]] and The Skillet Lickers.<ref>{{cite web|author=Billy Abbott |url=http://www.southernmusic.net/gidtanner.htm |title=Southernmusic.net |publisher=Southernmusic.net |date=1924-03-07 |accessdate=2011-02-01}}</ref> The [[steel guitar]] entered country music as early as 1922, when Jimmie Tarlton met famed Hawaiian guitarist [[Frank Ferera]] on the West Coast.<ref>Cohn, Lawrence: "Nothing But the Blues" chapter titles "A Lighter Shade of Blue - White Country Blues" by Charles Wolfe page 247, 1993</ref>
+
+[[Jimmie Rodgers (country singer)|Jimmie Rodgers]] and the [[Carter Family]] are widely considered to be important early country musicians. Their songs were first captured at a [[Bristol sessions|historic recording session]] in [[Bristol, Tennessee|Bristol]] on August 1, 1927, where [[Ralph Peer]] was the talent scout and sound recordist.<ref>Country Music Originals - The Legends and the Lost. Tony Russell. 2007. Oxford University Press. page 68. ISBN 978019532506</ref><ref name=Sanjek>David Sanjek, "All the Memories Money Can Buy: Marketing Authenticity and Manufacturing Authorship," p. 155–172 in Eric Weisbard, ed., ''This is Pop'', [[Harvard University Press]], 2004. ISBN 0-674-01321-2 (cloth), ISBN 0-674-01344-1 (paper). p. 158.</ref> A scene in the movie ''[[O Brother, Where Art Thou?|O Brother, Where Art Thou? (film)]]'' depicts a similar occurrence in the same timeframe.
+
+Rodgers fused hillbilly country, gospel, jazz, blues, pop, cowboy, and folk; and many of his best songs were his compositions, including “Blue Yodel”,<ref>{{cite web|url=http://www.lpdiscography.com/r/Rodgers/jimmie-sp.htm |title=LPdiscography.com |publisher=LPdiscography.com |date= |accessdate=2011-02-01}}</ref> which sold over a million records and established Rodgers as the premier singer of early country music.<ref>[http://www.alamhof.org/rodgersj.htm Alamhof.org]{{dead link|date=February 2011}}</ref><ref>Nothing But the Blues 1993, White Country Blues by Charles Wolfe page 233</ref>
+
+Beginning in 1927, and for the next 17 years the Carters recorded some 300 old-time ballads, traditional tunes, country songs and Gospel hymns, all representative of America's southeastern folklore and heritage.<ref>[http://www.southernmusic.net/carterfamily.htm Southernmusic.net<!-- Bot generated title -->], The Carter Family.</ref>
+
+== 1930s&ndash;1940s ==
+One effect of the [[Great Depression]] was to reduce the number of records that could be sold. Radio, and broadcasting, became a popular source of entertainment, and "barn dance" shows featuring country music were started all over the South, as far north as Chicago, and as far west as California.
+[[File:Roy Acuff.jpg|thumb|left|upright|[[Roy Acuff]]]]
+
+The most important was the ''[[Grand Ole Opry]]'', aired starting in 1925 by [[WSM (AM)|WSM-AM]] in Nashville to the present day. Some of the early stars on the ''Opry'' were [[Uncle Dave Macon]], [[Roy Acuff]] and African American harmonica player DeFord Bailey. WSM's 50,000 watt signal (1934) could often be heard across the country,<ref>{{cite web|author=code:v_farquharson@kshira_interactive and j_nowicki@kshira_interactive design:k_wilson@framewerk |url=http://www.pbs.org/americanrootsmusic/pbs_arm_episode_summaries.html |title=American Roots Music : Episode Summaries |publisher=PBS |date= |accessdate=2011-02-01}}</ref>
+
+Many musicians performed and recorded songs in any number of styles. [[Moon Mullican]], for example, played Western swing, but also recorded songs that can be called rockabilly. [[Bill Haley]] sang cowboy songs, and was at one time a cowboy yodeler. Haley became most famous as an early player of rock n roll, adding [[Jimmie Rodgers (country singer)|Jimmie Rodgers]]-stylings to his environment, thus creating a sound that was very much his own. Between 1947 and 1949, country crooner [[Eddy Arnold]] placed eight songs in the top 10.<ref>[http://www.billboard.com/bbcom/charts/yearend_chart_index.jsp Billboard.com] ''Billboard.com''</ref>
+
+== Singing cowboys and Western swing ==
+{{Main|Western music (North America)}}
+During the 1930s and 1940s, cowboy songs, or Western music, which had been recorded since the 1920s, were popularized by films made in Hollywood. Some of the popular [[singing cowboy]]s from the era were [[Gene Autry]], the [[Sons of the Pioneers]] and [[Roy Rogers]].<ref>{{cite web|author=NAME: |url=http://www.roughstock.com/history/cowboy.html |title=Roughstock's History of Country Music - Cowboy Music |publisher=Roughstock.com |date= |accessdate=2011-02-01}}</ref>
+
+And it wasn't only cowboys; cowgirls contributed to the sound in various family groups. [[Patsy Montana]] opened the door for female artists with her history making song "I Want To Be a Cowboy's Sweetheart". This would begin a movement toward opportunities for women to have successful solo careers.
+
+[[Bob Wills]] was another country musician from the Lower Great Plains who had become very popular as the leader of a “hot string band,” and who also appeared in [[Western (genre)|Hollywood Westerns]]. His mix of country and [[jazz]], which started out as dance hall music, would become known as [[Western swing]]. [[Spade Cooley]] and [[Tex Williams]] also had very popular bands and appeared in films. At its height, Western swing rivaled the popularity of other [[big band]] jazz.
+
+=== Changing instrumentation ===
+Drums were scorned by early country musicians as being "too loud" and "not pure," but by 1935 Western swing [[big band]] leader Bob Wills had added drums to the Texas Playboys. In the mid 1940s, the Grand Ole Opry did not want the Playboys’ drummer to appear on stage. Although drums were commonly used by rockabilly groups by 1955, the less-conservative-than-the-Grand Ole Opry ''[[Louisiana Hayride]]'' kept its infrequently used drummer back stage as late as 1956. By the early 1960s, however, it was rare that a country band didn't have a drummer.<ref name="autogenerated1">[http://www.countrymusichalloffame.com/site/experience-museum-programs-school-instruments.aspx Instruments | Country Music Hall of Fame and Museum|Nashville, Tennessee<!-- Bot generated title -->]</ref>
+
+Bob Wills was one of the first country musicians known to have added an electric guitar to his band, in 1938.<ref>[http://takecountryback.com/reviews/merlebobwills.htm Takecountryback.com<!-- Bot generated title -->], Merle Haggard - Bob Wills</ref> A decade later (1948)  [[Arthur "Guitar Boogie" Smith|Arthur Smith]] achieved top 10 US country chart success with his MGM Records recording of "[[Guitar Boogie (song)|Guitar Boogie]]", which crossed over to the US pop chart, introducing many people to the potential of the electric guitar.
+For several decades Nashville session players  preferred the warm tones of the Gibson and Gretsch archtop electrics, but a “hot” Fender style, utilizing guitars which became available beginning in the early 1950s, eventually prevailed as the signature guitar sound of country.<ref name="autogenerated1" /><ref>[http://www.empsfm.org/exhibitions/index.asp?categoryID=129&ccID=132 Empsfm.org <!-- Bot generated title -->], exhibitions - online features</ref>
+
+=== Hillbilly boogie ===
+Country musicians began recording [[boogie woogie|boogie]] in 1939, shortly after it had been played at Carnegie Hall, when Johnny Barfield recorded "Boogie Woogie." The trickle of what was initially called hillbilly boogie, or okie boogie (later to be renamed country boogie), became a flood beginning in late 1945. One notable release from this period was the [[Delmore Brothers]]' "Freight Train Boogie," considered to be part of the combined evolution of country music and blues towards [[rockabilly]]. In 1948, [[Arthur "Guitar Boogie" Smith]] achieved top ten US country chart success with his MGM Records recordings of "[[Guitar Boogie (song)|Guitar Boogie]]" and "Banjo Boogie," with the former crossing over to the US pop charts.<ref>[http://www.oldies.com/artist-biography/Arthur-Smith.html Oldies.com<!-- Bot generated title -->], Arthur Smith Biography.</ref> Other country boogie artists included [[Merrill Moore]] and [[Tennessee Ernie Ford]]. The hillbilly boogie period lasted into the 1950s and remains one of many subgenres of country into the 21st century.
+
+=== Bluegrass, folk and gospel ===
+[[File:Clyde J Foley.jpg|thumb|right|upright|[[Red Foley]]]]
+
+By the end of [[World War II]], "mountaineer" string band music known as [[Bluegrass music|bluegrass]] had emerged when [[Bill Monroe]] joined with [[Lester Flatt]] and [[Earl Scruggs]], introduced by Roy Acuff at the Grand Ole Opry. Gospel music, too, remained a popular component of country music. [[Red Foley]], the biggest country star following World War II, had one of the first million-selling gospel hits ("[[Peace In The Valley]]") and also sang boogie, blues and rockabilly.
+
+In the post-war period, country music was called "folk" in the trades, and "hillbilly" within the industry.
+<ref>Country Music Goes To War By Charles K. Wolfe, James Edward Akenson. 2005. University Press of Kentucky. page = 55. ISBN 0813123089 [http://books.google.com/books?id=Hj9r6l_OZoEC&pg=PA55&lpg=PA55&dq=ted+daffin&source=web&ots=iXw0R8mAmb&sig=uCGzsONxuDs-Rj3i1YtX9YHDMTc#PPA55,M1 Google Books]</ref> In 1944, ''[[Billboard (magazine)|The Billboard]]'' replaced the term "hillbilly" with "folk songs and blues," and switched to "country" or "country and Western" in 1949.<ref>Long Steel Rail: The Railroad in American Folksong. By Norm Cohen, David Cohen. [[University of Illinois Press]]. 2000. page 31. ISBN 0252068815, 9780252068812</ref><ref>{{cite web|url=http://books.google.com/books?id=AY7St4-8x10C&pg=PA30&lpg=PA30&dq=john+carson+Hallelujah++i'm+A+Bum&source=web&ots=OcYOjz7qCb&sig=kLd6WRJivF5Vdc3wo_dWBss7zPI&hl=en&sa=X&oi=book_result&resnum=8&ct=result#PPA31,M1 |title=Google Books |publisher=Books.google.com |date= |accessdate=2011-02-01}}</ref>
+
+=== Honky tonk ===
+Another type of stripped down and raw music with a variety of moods and a basic ensemble of guitar, bass, dobro or steel guitar (and later) drums became popular, especially among poor white southerners. It became known as [[Honkey tonk#Honky tonk music|honky tonk]] and had its roots in Texas. [[Bob Wills]] and His Texas Playboys personified this music which has been described as "a little bit of this, and a little bit of that, a little bit of black and a little bit of white...just loud enough to keep you from thinking too much and to go right on ordering the whiskey."<ref name="Workin 1999. page 135">Workin' Man Blues - Country Music in California. Gerald W. Haslan. [[University of California Press]]. 1999. page 135. ISBN 0-520-21800-0.</ref> East Texan [[Al Dexter]] had a hit with "Honky Tonk Blues," and seven years later "[[Pistol Packin' Mama]]".<ref>Go, Cat, Go! by Carl Perkins and David McGee 1996 pages 23–24 Hyperion Press ISBN 0-7868-6073-1</ref> These "honky tonk" songs associated barrooms, were performed by the likes of [[Ernest Tubb]], [[Ted Daffan]], [[Floyd Tillman]], and the [[Maddox Brothers and Rose]], [[Lefty Frizzell]] and [[Hank Williams]], would later be called "traditional" country. Williams' influence in particular would prove to be enormous, inspiring many of the pioneers of rock and roll, such as Elvis Presley and [[Jerry Lee Lewis]], as well as [[Chuck Berry]] and [[Ike Turner]], while providing a framework for emerging honky tonk talents like [[George Jones]]. [[Webb Pierce]] was the top-charting country artist of the 1950s, with 13 of his singles spending 113 weeks at number one. He charted 48 singles during the decade; 31 reached the top ten and 26 reached the top four.
+
+== 1950s&ndash;1960s ==
+{{See also|1950s in music|1960s in music}}
+By the early 1950s a blend of Western swing, country boogie, and honky tonk was played by most country bands, but a new style was about to become popular.<ref>Go Cat Go! Rockabilly Music and Its Making. Craig Morrison. 1996. [[University of Illinois]]. page 28. ISBN 0-252-02207-6</ref>
+
+=== Rockabilly ===
+{{Main|Rockabilly}}
+Rockabilly was most popular with country fans in the 1950s, and 1956 could be called the year of [[rockabilly]] in country music. Rockabilly was a mixture of rock-and-roll and hillbilly music. During this period Elvis Presley converted over to country music. He played a huge role in the music industry during this time. The number two, three and four songs on ''[[Billboard (magazine)|Billboard's]]'' charts for that year were [[Elvis Presley]], "[[Heartbreak Hotel]]"; [[Johnny Cash]], "[[I Walk the Line]]"; and [[Carl Perkins]], "[[Blue Suede Shoes]]".<ref>{{cite web|url=http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=Hot+Country+Songs&g=Year-end+Singles&year=1956 |title=Billboard.com |publisher=Billboard.com |date= |accessdate=2011-02-01}}</ref>
+
+[[File:JohnnyCash1969.jpg|thumb|left|upright|[[Johnny Cash]]]]
+Cash and Presley placed songs in the top 5 in 1958 with No. 3 "Guess Things Happen That Way/Come In, Stranger" by Cash, and No. 5 by Presley "Don't/I Beg Of You."<ref>[http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=Hot+Country+Songs&g=Year-end+Singles&year=1958 Billboard.com] ''Billboard.com''</ref> Presley acknowledged the influence of rhythm and blues artists and his style, saying "The colored folk been singin' and playin' it just the way I'm doin' it now, man for more years than I know." But he also said, "My stuff is just hopped-up country."<ref name="Workin 1999. page 135"/>
+Within a few years, many rockabilly musicians returned to a more mainstream style or had defined their own unique style.
+
+Country music gained national television exposure through ''[[Ozark Jubilee]]'' on ABC-TV and radio from 1955–1960 from [[Springfield, Missouri]]. The program showcased top stars including several rockabilly artists, some from the [[Ozarks]]. As Webb Pierce put it in 1956, "Once upon a time, it was almost impossible to sell country music in a place like New York City.  Nowadays, television takes us everywhere, and country music records and sheet music sell as well in large cities as anywhere else."<ref>Shulman, Art "Dynamo - Country Style" (1956), ''TV Guide'', p, 28</ref>
+
+The late 1950s saw the emergence of the [[Lubbock sound]], but by the end of the decade, backlash as well as traditional artists such as [[Ray Price (musician)|Ray Price]], [[Marty Robbins]], and [[Johnny Horton]] began to shift the industry away from the rock n' roll influences of the mid-50s.
+
+=== The Nashville and countrypolitan sounds ===
+{{Main|Nashville sound}}
+Beginning in the mid 1950s, and reaching its peak during the early 1960s, the Nashville sound turned country music into a multimillion-dollar industry centered in [[Nashville, Tennessee]]. Under the direction of producers such as [[Chet Atkins]], [[Owen Bradley]], and later [[Billy Sherrill]], the sound brought country music to a diverse audience and helped revive country as it emerged from a commercially fallow period.<ref>{{cite web|url=http://www.rockhall.com/inductee/floyd-cramer |title=Rockhall.com |publisher=Rockhall.com |date= |accessdate=2011-02-01}}</ref>
+
+[[File:Jim Reeves.jpg|thumb|right|upright|[[Jim Reeves]]]]
+This subgenre was notable for borrowing from 1950s pop stylings: a prominent and "smooth" vocal, backed by a string section and vocal chorus. Instrumental soloing was de-emphasized in favor of trademark "licks". Leading artists in this genre included [[Patsy Cline]], [[Jim Reeves]] and [[Eddy Arnold]]. The "slip note" piano style of session musician [[Floyd Cramer]] was an important component of this style.
+
+Nashville's pop song structure became more pronounced and it morphed into what was called [[Countrypolitan#Countrypolitan|countrypolitan]]. Countrypolitan was aimed straight at mainstream markets and it sold well throughout the later 1960s into the early 1970s. Top artists included [[Tammy Wynette]] and [[Charlie Rich]].
+
+=== Country soul - crossover===
+{{Main|Country soul}}
+In 1962, [[Ray Charles]] surprised the pop world by turning his attention to country and western music, topping the charts and rating number three for the year on ''Billboard's'' pop chart<ref>{{cite web|url=http://www.billboard.com/bbcom/charts/yearend_chart_display.jsp?f=The+Billboard+Hot+100&g=Year-end+Singles&year=1962 |title=Billboard.com |publisher=Billboard.com |date= |accessdate=2011-02-01}}</ref> with the "[[I Can't Stop Loving You]]" single, and recording the landmark album ''[[Modern Sounds in Country and Western Music]]''.
+
+=== The Bakersfield sound ===
+{{Main|Bakersfield sound}}
+Another genre of country music grew out of hardcore honky tonk with elements of [[Western swing]] and originated {{convert|112|mi|km|0}} north-northwest of [[Los Angeles]] in [[Bakersfield, California]]. Influenced by one-time West Coast residents [[Bob Wills]] and [[Lefty Frizzell]], by 1966 it was known as the [[Bakersfield sound]]. It relied on electric instruments and amplification, in particular the [[Telecaster]] electric guitar, more than other subgenres of country of the era, and can be described as having a sharp, hard, driving, no-frills, edgy flavor. Leading practitioners of this style were [[Buck Owens]], [[Merle Haggard]] which is the best of the best , [[Tommy Collins (country music)|Tommy Collins]], [[Dwight Yoakam]] and [[Wynn Stewart]], each of whom had his own style.<ref>{{cite web|url=http://www.cmt.com/artists/az/haggard_merle/bio.jhtml |title=Merle Haggard : Biography |publisher=CMT.com |date=1937-04-06 |accessdate=2011-02-01}}</ref><ref>[http://www.buckowens.com/aboutbuck18.html Buckowens.com<!-- Bot generated title -->], Buck Owen's Crystal Palace: About Buck</ref>
+
+=== Country rock ===
+{{Main|Country rock}}
+The late 1960s in American music produced a unique blend as a result of traditionalist backlash within separate genres. In the aftermath of the [[British Invasion]], many desired a return to the "old values" of rock n' roll. At the same time there was a lack of enthusiasm in the country sector for Nashville-produced music. What resulted was a crossbred genre known as [[country rock]].[[File:Gram Parsons promo.jpg|thumb|left|upright|[[Gram Parsons]] influenced [[rock music]]ians from [[The Rolling Stones]] to [[The Byrds]] in the late 1960s]]
+
+Early innovators in this new style of music in the 60s and 70s included rock n' roll icon band [[The Byrds]] and its spin-off [[The Flying Burrito Brothers]] (both featuring [[Gram Parsons]]), guitarist [[Clarence White]], [[Michael Nesmith]] ([[Monkees]] and [[First National Band]]), [[the Grateful Dead]], [[Neil Young]], [[Commander Cody and His Lost Planet Airmen|Commander Cody]], [[The Allman Brothers]], [[The Marshall Tucker Band]], [[Poco]], [[Buffalo Springfield]], and [[Eagles (band)|The Eagles]] among many. [[The Rolling Stones]] also got into the act with songs like "[[Honky Tonk Women]]" and "[[Dead Flowers (The Rolling Stones song)|Dead Flowers]]".
+
+Described by [[Allmusic]] as the "father of country-rock",<ref>[{{Allmusic|class=artist|id=p5109|pure_url=yes}} Allmusic.com], Gram Parsons: Overview</ref> Gram Parsons' work in the early '70s was acclaimed for its purity and for his appreciation for aspects of traditional country music.<ref>[http://www.rollingstone.com/artists/gramparsons Rollingstone.com]{{dead link|date=February 2011}}</ref>  Though his career was cut tragically short by his 1973 death, his legacy was carried on by his mentee and duet partner [[Emmylou Harris]]; Harris would release her debut solo in 1975, an amalgamation of country, rock and roll, folk, blues and pop.
+
+Subsequent to the initial blending of the two polar opposite genres, other offspring soon resulted, including [[Southern rock]], [[heartland rock]] and in more recent years, [[alternative country]].
+
+In the decades that followed, artists such as [[Juice Newton]], [[Alabama (band)|Alabama]], [[Hank Williams, Jr.]], [[Gary Allan]], [[Shania Twain]], [[Brooks & Dunn]], [[Faith Hill]], [[Garth Brooks]], [[Dwight Yoakam]], [[Steve Earle]], [[Dolly Parton]], [[Rosanne Cash]] and [[Linda Ronstadt]] moved country further towards rock influence.
+
+== 1970s&ndash;1980s ==
+=== Outlaw country ===
+{{Main|Outlaw country}}
+Derived from the traditional and honky tonk sounds of the late 1950s and 1960s, including [[Ray Price (musician)|Ray Price]] (whose band, the "Cherokee Cowboys", included [[Willie Nelson]] and [[Roger Miller]]) and mixed with the anger of an alienated subculture of the nation during the period, outlaw country revolutionized the genre of country music.
+
+[[File:WillieNelson.jpg|thumb|right|upright|[[Willie Nelson]]]]
+"After I left Nashville (the early 70s), I wanted to relax and play the music that I wanted to play, and just stay around Texas, maybe Oklahoma. Waylon and I had that outlaw image going, and when it caught on at colleges and we started selling records, we were O.K. The whole outlaw thing, it had nothing to do with the music, it was something that got written in an article, and the young people said, 'Well, that's pretty cool.' And started listening." (Willie Nelson)<ref>The Roots of Country Music" Collectors Edition by Life September 1, 1994 page 72</ref>
+
+The term ''outlaw country'' is traditionally associated with [[Hank Williams, Jr]], [[Willie Nelson]], [[Waylon Jennings]], [[David Allan Coe]], [[John Prine]], [[Billy Joe Shaver]], [[Gary Stewart (singer)|Gary Stewart]], [[Townes Van Zandt]] and with a few female vocalists such as [[Jessi Colter]] and [[Sammi Smith]]. It was encapsulated in the 1976 album ''[[Wanted! The Outlaws]]''. A related subgenre is [[Red Dirt (music)|Red Dirt]].
+
+=== Country pop ===
+{{Main|Country pop}}
+Country pop or soft pop, with roots in both the [[countrypolitan]] sound and in [[soft rock]], is a subgenre that first emerged in the 1970s. Although the term first referred to country music songs and artists that crossed over to top 40 radio, country pop acts are now more likely to cross over to [[adult contemporary music]]. It started with pop music singers like [[Michael Nesmith]], [[The Bellamy Brothers]], [[Glen Campbell]], [[John Denver]], [[Olivia Newton-John]], [[Marie Osmond]], [[B. J. Thomas]] and [[Anne Murray]] having hits on the country charts. Campbell's "Rhinestone Cowboy" was one of the biggest crossover hits in country music history.
+
+[[File:Lynnanderson(by Scott Dudelson).jpg|thumb|upright|left|[[Lynn Anderson]] in concert]]
+
+In 1974, Newton-John, an Australian pop singer, won the "Best Female Country Vocal Performance" as well as the Country Music Association's most coveted award for females, "Female Vocalist of the Year". In the same year, a group of artists, troubled by this trend, formed the short-lived [[Association of Country Entertainers]]. The debate raged into 1975, and reached its apex at that year's Country Music Association Awards when reigning Entertainer of the Year [[Charlie Rich]] (who himself had a series of crossover hits) presented the award to his successor, John Denver. As he read Denver's name, Rich set fire to the envelope with a cigarette lighter. The action was taken as a protest against the increasing pop style in country music.
+
+During the mid-1970s, [[Dolly Parton]], a highly successful mainstream country artist since the late '60s, mounted a high profile campaign to crossover to pop music, culminating in her 1977 hit "Here You Come Again", which topped the U.S. country singles chart, and also reached No. 3 on the pop singles charts. Parton's male counterpart, [[Kenny Rogers]] came from the opposite direction, aiming his music at the country charts, after a successful career in pop, rock and folk music, achieving success the same year with "Lucille", which topped the country charts and reached No. 5 on the U.S. pop singles charts. Parton and Rogers would both continue to have success on both country and pop charts simultaneously, well into the 1980s. Artists like [[Crystal Gayle]], [[Ronnie Milsap]] and [[Barbara Mandrell]] would also find success on the pop charts with their records as well.
+[[File:Dolly Parton in Nashville cropped.jpg|thumb|right|upright|[[Dolly Parton]]]]
+In 1975, author Paul Hemphill stated in the ''Saturday Evening Post'', “Country music isn’t really country anymore; it is a hybrid of nearly every form of popular music in America.”<ref>Hemphill, Paul. "Nashville--Where It All Started." Saturday Evening Post 247.3 (1975): 44-86. Academic Search Premier. EBSCO. Web. 1 Feb. 2010.</ref>
+
+During the early 1980s, country artists continued to see their records perform well on the pop charts. [[Willie Nelson]] and [[Juice Newton]] each had two songs in the top 5 of the Billboard Hot 100 in the early eighties: Nelson charted "Always On My Mind" (No. 5, 1982) and "To All The Girls I've Loved Before" (No. 5, 1984), and Newton achieved success with "Queen of Hearts" (No. 2, 1981) and "Angel of the Morning" (No. 4, 1981). Four country songs topped the ''Billboard'' Hot 100 in the 1980s: "Lady" by [[Kenny Rogers]], from the late fall of 1980; "9 to 5" by [[Dolly Parton]], "I Love a Rainy Night" by [[Eddie Rabbitt]] (these two back-to-back at the top in early 1981); and "Islands in the Stream", a duet by [[Dolly Parton]] and [[Kenny Rogers]] in 1983, a pop-country crossover hit written by Barry, Robin, and Maurice Gibb of the [[Bee Gees]]. Newton's "Queen of Hearts" almost reached No. 1, but was kept out of the spot by the pop ballad juggernaut "Endless Love" by [[Diana Ross]] and [[Lionel Richie]].
+<ref>[http://www.billboard.com/bbcom/charts/yearend_chart_index.jsp Billboard.com<!-- Bot generated title -->], Historical Music Charts Archive.</ref> Although there were few crossover hits in the latter half of the 1980s, one song — [[Roy Orbison]]'s "[[You Got It]]", from 1989 — made the top 10 of both the ''Billboard'' [[Hot Country Songs|Hot Country Singles]]" and Hot 100 charts.<ref>Whitburn, Joel, "Top Country Songs: 1944-2008," 2009.</ref><ref>Whitburn, Joel, "Top Pop Singles: 1955-2006," 2007</ref>
+
+The record-setting, multi-platinum group, Alabama, was named Artist of the Decade for the 1980s by the Academy of Country Music.
+
+=== Neocountry ===
+In 1980, a style of "neocountry disco music" was popularized by the film ''[[Urban Cowboy]]'',<ref name="Workin 1999. page 259">Workin' Man Blues - Country Music in California. Gerald W. Haslan. University of California Press. 1999. page 259. ISBN 0-520-21800-0.</ref> which also included more traditional songs such as "[[The Devil Went Down to Georgia]]" by the [[Charlie Daniels Band]].<ref>[http://www.lyricsoncall.com/lyrics/charlie-daniels-band/the-devil-went-down-to-georgia-lyrics.html Lyricsoncall.com] ''Lyricsoncall.com''</ref> A related subgenre is [[Texas country music]].
+
+Sales in record stores rocketed to $250 million in 1981; by 1984, 900 radio stations began programming country or neocountry pop full time. As with most sudden trends, however, by 1984 sales had dropped below 1979 figures.<ref name="Workin 1999. page 259"/>
+
+=== Truck driving country ===<!-- linked from [[truck driving country music]] -->
+Truck driving country music is a genre of country music<ref name="truckers-jukebox">{{cite book
+ | title = Trucker's Jukebox: Various Artists: Music
+ | url = http://www.amazon.com/Truckers-Jukebox-Various-Artists/dp/B0009A1ATG
+ | accessdate = 2009-02-24
+ | publisher = [[Amazon.com]]
+ | quote = Trucker's Jukebox covers the Country landscape: outlaw, honkey tonk, country-rock, Bakersfield sound, country comedy, truck driving country and more.}}</ref>
+and is a fusion of [[honky tonk]], [[country-rock]] and [[Bakersfield Sound]].<ref name="starpulse">{{cite web
+ | title = Truck Driving Country Music
+ | url = http://www.starpulse.com/Genre/MusicGenres.html?Genre=CTRY&ID=D4307&Lvl=4
+ | publisher = All Media Guide LLC
+ | accessdate = 2009-02-24}}</ref>
+It has the [[tempo]] of country-rock and the emotion of honky-tonk,<ref name="starpulse"/>
+and its lyrics focus on a truck driver's lifestyle.<ref name="amazon">{{cite web
+ | title = Dave Dudley: Albums, Songs, Bios, Photos
+ | url = http://www.amazon.com/Dave-Dudley/e/B000APBUEU
+ | accessdate = 2009-02-24
+ | publisher = [[Amazon.com]]}}</ref>
+Truck driving country [[song]]s often deal with [[truck]]s and [[love]].<ref name="starpulse"/>
+Well-known artists who sing truck driving country include [[Dave Dudley]], [[Red Sovine]], [[Dick Curless]], [[Red Simpson]], [[Colonel Robert Morris]], and [[Waylon Speed]].<ref name="starpulse"/>
+Dudley is known as the father of truck driving country.<ref name="amazon"/><ref name="mp3com">{{cite web
+ | title = Dave Dudley
+ | url = http://www.mp3.com/genre/193/subgenre.html
+ | accessdate = 2009-02-24
+ | publisher = CBS Interactive}}</ref>
+
+=== Neotraditionalist movement ===
+{{Main|Neotraditionalist country}}
+During the mid-1980s, a group of new artists began to emerge who rejected the more polished country-pop sound that had been prominent on radio and the charts, in favor of more, traditional, "back-to-basics" production.  Led by [[Randy Travis]], whose 1986 debut album ''[[Storms of Life]]'', sold four million copies and was Billboard's year-end top country album of 1987, many of the artists during the latter half of the '80s drew on traditional honky tonk, bluegrass, folk and western swing.  Artists who typified this sound included [[Travis Tritt]], [[Ricky Skaggs]], [[Kathy Mattea]], [[George Strait]] and [[The Judds]].
+
+== 1990s ==
+[[File:GarthBrooks.jpg|thumb|right|upright|[[Garth Brooks]]]]
+
+With his debut on the national country music scene in 1989, singer and songwriter [[Clint Black]] would usher in a new sound that would define much of country music for the 1990s and beyond.{{Citation needed|date=May 2009}}
+
+In the 1990s, country music became a worldwide phenomenon thanks to [[Billy Ray Cyrus]] and [[Garth Brooks]].<ref name="Country Worldwide">{{cite web |url=http://news.google.com/newspapers?id=0LYxAAAAIBAJ&sjid=_OIFAAAAIBAJ&pg=1510,3298161&dq=billy+ray+cyrus+country+worldwide&hl=en |title=Country is No. 1 musical style |date=1992-08-19 |publisher=Reading Eagle |accessdate=2010-07-26}}</ref><ref name="Country Worldwide2">{{cite web |url=http://news.google.com/newspapers?id=TjQfAAAAIBAJ&sjid=B88EAAAAIBAJ&pg=4760,3698051&dq=billy+ray+cyrus+country+worldwide&hl=en |title=Country music reflects the time |date=1992-09-27 |publisher=Herald-Journal |accessdate=2010-07-26}}</ref><ref name="Country Worldwide3">{{cite news |url=http://pqasb.pqarchiver.com/thestar/access/504338431.html?dids=504338431:504338431&FMT=ABS&FMTS=ABS:FT&type=current&date=Nov+25%2C+1993&author=Jack+Hurst&pub=The+Record&desc=Country+music+is+making+waves+across+the+seas&pqatl=google |title=Country music is making waves across the seas |date=1993-11-25 |publisher=thestar.com |accessdate=2010-07-26 | first=Jack | last=Hurst}}</ref> The latter enjoyed one of the most successful careers in popular music history, breaking records for both sales and concert attendance throughout the decade. The [[RIAA]] has certified his recordings at a combined (128× [[RIAA certification|platinum]]), denoting roughly 113 million U.S. shipments.<ref>{{cite web|url=http://www.riaa.com/goldandplatinumdata.php?table=SEARCH_RESULTS |title=RIAA.com |publisher=RIAA.com |date= |accessdate=2011-02-01}}</ref>
+
+In the mid 1990s, country western music was influenced by the popularity of [[line dancing]]. This influence was so great that [[Chet Atkins]] was quoted as saying "The music has gotten pretty bad, I think. It's all that damn line dancing."<ref>The Roots of Country Music" Collectors Edition by Life September 1, 1994</ref> By the end of the decade, however, at least one line dance choreographer complained that good country line dance music was no longer being released.
+
+=== Alternative country ===
+{{Main|Alternative country}}
+In the 1990s, alternative country came to refer to a diverse group of musicians and singers operating outside the traditions and industry of mainstream country music. In general, they eschewed the high production values and pop outlook of the Nashville-dominated industry, to produce music with a [[lo-fi]] sound, frequently infused with a strong [[punk rock|punk]] and [[alternative rock|alternative]] aesthetic, bending the traditional rules of country music. Lyrics were often bleak, gothic or socially aware. Other initiators include [[Old 97's]], [[Lyle Lovett]], [[Steve Earle]], [[Uncle Tupelo]], [[Son Volt]], [[Ryan Adams]], [[My Morning Jacket]], [[Blitzen Trapper]], [[Or, The Whale]] and [[Drive-By Truckers]].
+
+== 2000s ==
+[[File:Cu2.jpg|thumb|right|upright|[[Carrie Underwood]]]]
+
+Several rock and pop stars have ventured into country music. In 2000, [[Richard Marx]] made a brief cross-over with his ''[[Days In Avalon (album)|Days In Avalon]]'' album, which features five country songs and several singers and musicians. [[Alison Krauss]] sang background vocals to Marx's single "Straight From My Heart." Also, [[Bon Jovi]] had a hit single, "[[Who Says You Can't Go Home]]", with [[Jennifer Nettles]] of [[Sugarland]]. Other rock stars who featured a country song on their albums were [[Don Henley]] and [[Poison (band)|Poison]].
+
+One infrequent, but consistent theme in modern country music is that of proud, stubborn [[individualism]]. "Country Boy Can Survive" and "[[Copperhead Road]]"<ref>{{cite web|url=http://steveearle.net/lyrics/ly-coppe.php |title=Steveearle.net |publisher=Steveearle.net |date=2001-02-19 |accessdate=2011-02-01}}</ref> are two of the more serious songs along those lines; while "Some Girls Do"<ref>{{cite web|url=http://www.cowboylyrics.com/lyrics/sawyer-brown/some-girls-do-15017.html |title=Cowboylyrics.com |publisher=Cowboylyrics.com |date= |accessdate=2011-02-01}}</ref> and "[[Redneck Woman]]"<ref>{{cite web|url=http://www.lyricstop.com/r/redneckwoman-gretchenwilson.html |title=Lyricstop.com |publisher=Lyricstop.com |date= |accessdate=2011-02-01}}</ref> are more light-hearted variations on the theme.
+
+In 2005, country singer [[Carrie Underwood]] rose to fame as the winner of the fourth season of ''[[American Idol]]'' and became a multi-platinum selling recording artist and multiple Grammy Award winner. Underwood also made history by becoming the seventh woman to win Entertainer Of The Year for the [[Academy of Country Music Awards]], and the first woman in history to win Entertainer of the Year for the [[Academy of Country Music Awards]] twice, as well as twice consecutively. Underwood's debut album, "[[Some Hearts (Carrie Underwood album)|Some Hearts]]", was not only the fastest-selling debut album by any country artist in history, but was ranked by [[Billboard.com]] as the #1 Country Album of the 2000-2009 decade.
+
+In 2008, [[Taylor Swift]] rose as a major country-pop artist, with her single "[[Love Story (Taylor Swift song)|Love Story]]" becoming the first country song to reach No. 1 one on the Nielsen BDS CHR/Top 40 chart. Another of her singles, "[[You Belong with Me]]", also reached No. 1, making Swift the only country artist to have two No. 1 singles atop the chart. Both "Love Story" and "You Belong with Me" became the best-selling country song of all time, with "Love Story" in the first position with a domestic total of 4.4 million digital copies sold, and "You Belong with Me" in the second with 3.4 million sales, respectively. In 2010, Swift's sophomore album "[[Fearless (Taylor Swift album)|Fearless]]" was awarded the [[Grammy Award for Album of the Year]], becoming the first album in history to win the [[American Music Award]] (AMA), [[Academy of Country Music Award]] (ACM), [[Country Music Association Award]] (CMA), and the [[Grammy Award for Album of the Year]] in the same year.
+
+In the same year, [[Hootie & the Blowfish]] vocalist [[Darius Rucker]] released his second solo album and country music debut, ''[[Learn to Live]]''. The first three singles from that album all debuted at No. 1, making Rucker the first solo artist to debut with three No. 1 hits in over a decade. He is also the first [[African American]] with a No. 1 country hit since [[Charley Pride]] in 1983.
+
+In 2009, [[George Strait]] was named Artist of the Decade by the Academy of Country Music.
+
+== Country music outside the United States ==
+=== Canada ===
+{{Unreferenced section|date=July 2008}}
+{{Main|Canadian Country Music Association|Canadian Country Music Hall of Fame}}
+
+Outside of the US, Canada has the largest country music fan and artist base. Mainstream country music is culturally ingrained in the [[Maritimes]] and the [[Canadian Prairies|prairie provinces]]: areas with large numbers of rural residents. Canadian country music originated in Atlantic Canada in the form of British and Irish folk music popular amongst Irish and Scottish immigrants to Canada's Maritime Provinces (Nova Scotia, New Brunswick, and Prince Edward Island). Like the southern United States and Appalachia, all three regions are of heavy British Isles stock and rural; as such, The development of country music in the Maritimes mirrored the development of country music in the US south and Appalachia.  
+
+[[Don Messer's Jubilee]] was a Halifax, Nova Scotia based country/folk variety television show that was broadcast nationally from 1957 to 1969. It out drew the Ed Sullivan Show from the United States and became the #1 rated television show in Canada throughout much of the 1960s.  Don Messer's Jubilee followed a consistent format throughout its years, beginning with a tune named "Goin' to the Barndance Tonight", followed by fiddle tunes by Messer, songs from some of his "Islanders" including singers Marg Osburne and Charlie Chamberlain, the featured guest performance, and a closing hymn. It ended with "Till We Meet Again".
+
+The guest performance slot gave national exposure to numerous Canadian folk musicians, including Stompin' Tom Connors and Catherine McKinnon.  Some Maritime country performers went on to further fame beyond Canada.  Hank Snow, Wilf Carter (also known as Montana Slim), and Anne Murray are the three most notable.
+  
+The cancellation of the show by the public broadcaster in 1969 caused a nationwide protest, including the raising of questions in the Canadian parliament.
+
+Despite country's roots in the Maritimes, many traditional country artists are present in Eastern and Western Canada.  They make common use of fiddle and pedal steel guitar styles. Some notable Canadian country artists include: [[Shania Twain]], [[Blue Rodeo]], [[Marg Osburne]], [[Hank Snow]], [[Johnny Mooring]], [[Don Messer]], [[Doc Walker]], [[Emerson Drive]], [[Paul Brandt]], [[The Wilkinsons]], [[Wilf Carter]], [[Michelle Wright]], [[Corb Lund and the Hurtin' Albertans]], [[Stompin' Tom Connors]], [[Terri Clark]], [[Crystal Shawanda]], [[Shane Yellowbird]], [[The Road Hammers]], and [[Anne Murray]].
+
+=== Australia ===
+{{Main|Australian country music}}
+
+[[File:Olivia Newton-John Sydney 2008.jpg|150px|thumb|left|[[Olivia Newton-John]] singing in Sydney in 2008.]]
+
+
+[[Australian country music]] has a long tradition. Influenced by American country music it has developed a distinct style, shaped by British and Irish folk ballads and Australian [[bush ballad]]eers like [[Henry Lawson]] and [[Banjo Paterson]]. Country instruments, including the [[guitar]], [[banjo]], [[fiddle]] and [[harmonica]] create the distinctive sound of country music in Australia and accompany songs with strong storyline and memorable chorus. 
+
+Folk songs sung in Australia between the 1780s and 1920s based around such themes as the struggle against government [[tyranny]], or the lives of [[bushrangers]], [[swagmen]], [[Drover (Australian)|drovers]], [[stockmen]] and [[shearer]]s continue to influence the genre. This strain of Australian country, with lyrics focusing on Australian subjects, is generally known as "bush music" or "[[bush band]] music". [[Waltzing Matilda]], often regarded as Australia's unofficial [[National anthem]], is a quintessential Australian country song, influenced more by British and Irish folk ballads than by American Country and Western music. The lyrics were composed by the poet [[Banjo Paterson]] in 1895. Other popular songs from this tradition include [[The Wild Colonial Boy]], [[Click Go The Shears]], [[The Queensland Drover]] and [[The Dying Stockman]]. Later themes which endure to the present include the experiences of war, of droughts and flooding rains, of [[Australian Aborigines|Aboriginality]] and of the railways and trucking routes which link Australia's vast distances.<ref>{{cite web|url=http://www.cultureandrecreation.gov.au/articles/music/bush/ |title=Bush songs and music - Australia's Culture Portal |publisher=Cultureandrecreation.gov.au |date= |accessdate=2011-02-01}}</ref><ref>{{cite web|url=http://www.cultureandrecreation.gov.au/articles/music/country/ |title=Australian country music - Australia's Culture Portal |publisher=Cultureandrecreation.gov.au |date=2006-11-24 |accessdate=2011-02-01}}</ref>
+
+Pioneers of a more Americanised popular country music in Australia included [[Tex Morton]] (known as ''The Father of Australian Country Music'') in the 1930s and other early stars like [[Buddy Williams (country musician)|Buddy Williams]], [[Shirley Thoms]] and [[Smoky Dawson]]. In 1952, Dawson  began a radio show, and went on to national stardom as a singing cowboy of radio, TV and film.
+
+[[Slim Dusty]] (1927–2003) was known as the ''King of Australian Country Music'', and helped to popularise the Australian [[bush ballad]]. His successful career spanned almost six decades and his 1957 hit "[[A Pub With No Beer]]" was the biggest-selling record by an Australian to that time, and with over seven million record sales in Australia he is the most successful artist in Australian musical history<ref name=""Guardian-obit">Dave" Laing, [http://www.guardian.co.uk/news/2003/sep/20/guardianobituaries.artsobituaries "Slim Dusty: Country singer famous for A Pub With No Beer"], ''The Guardian (UK)'', 20 September 2003</ref> Dusty recorded and released his one-hundredth album in the year 2000 and was given the honour of singing ''[[Waltzing Matilda]]'' in the closing ceremony of the [[2000 Summer Olympics|Sydney 2000 Olympic Games]]. Dusty's wife [[Joy McKean]] penned several of his most popular songs.
+
+[[Chad Morgan]], who began recording in the 1950s has represented a vaudeville style of comic Australian country; [[Frank Ifield]] achieved considerable success in the early 1960s, especially in the UK Singles Charts and [[Reg Lindsay]] was one of the first Australians to perform at  [[Nashville]]'s [[Grand Ole Opry]] in 1974.<ref>{{cite web|last=Duncan |first=Jamie |url=http://www.canberratimes.com.au/news/local/news/general/reg-lindsay-country-great-takes-final-bow/1236107.aspx |title=Reg Lindsay, country great, takes final bow - Local News - News - General |publisher=The Canberra Times |date=2008-08-06 |accessdate=2011-02-01}}</ref> [[Eric Bogle]]'s 1972 folk lament to the [[Gallipoli campaign]] "[[And The Band Played Waltzing Matilda]]" recalled the British and Irish origins of Australian folk-country. Singer-songwriter [[Paul Kelly (musician)|Paul Kelly]] whose music style straddles folk, rock, and country is often described as the ''poet laureate'' of Australian music.<ref>{{cite web|url=http://www.civicsandcitizenship.edu.au/cce/default.asp?id=15390 |title=Civics &#124; Paul Kelly (1955–) |publisher=Civicsandcitizenship.edu.au |date= |accessdate=2011-02-01}}</ref> 
+
+By the 1990s, Country music had attained cross-over success in the pop charts with artists like [[James Blundell]] and [[James Reyne]] singing "[[Way Out West]]", and country star [[Kasey Chambers]] winning the [[ARIA Music Awards|ARIA]] for Best Female Artist in 2003. The cross-over influence of Australian country  is also evident in the music of successful contemporary bands [[The Waifs]] and [[The John Butler Trio]]. [[Nick Cave]] has been heavily influenced by the country artist [[Johnny Cash]]. In 2000, Cash, covered Cave's "[[The Mercy Seat (song)|The Mercy Seat]]" on the album ''American III: Solitary Man'', seemingly repaying Cave for the compliment he paid by covering Cash's "The Singer" (originally "The Folk Singer") on his ''Kicking Against the Pricks'' album.  Subsequently, Cave cut a duet with Cash on a version of [[Hank Williams]]' "[[I'm So Lonesome I Could Cry]]" for Cash's ''[[American IV: The Man Comes Around]]'' album (2002).<ref>{{cite web|author=Nick Cave |url=http://www.guardian.co.uk/world/2003/sep/13/arts.artsnews1 |title=Nick Cave on Johnny Cash &#124; Music |publisher=The Guardian |date= |accessdate=2011-02-01}}</ref>
+[[File:Keith Urban in PoAH.JPG|thumb|[[Keith Urban]].]]
+Popular contemporary performers of Australian country music include: [[John Williamson (singer)|John Williamson]] (who wrote the iconic "[[True Blue (John Williamson song)|True Blue]]"), [[Lee Kernaghan]] (whose hits include "[[Boys From the Bush]]" and "[[the Outback Club]]"), [[Gina Jeffreys]] and [[Sara Storer]].  In the USA, [[Olivia Newton John]], [[Sherrié Austin]] and [[Keith Urban]] have attained great success. 
+
+[[File:Ruby Hunter and Archie Roach1.jpg|thumb|Ruby Hunter and [[Archie Roach]] at the 2009 [[Tamworth Country Music Festival]]. Country music has been a particularly popular form of musical and political expression among [[Indigenous Australians]].]] 
+
+Country music has also been a particularly popular form of musical expression among [[Indigenous Australians]]. [[Troy Cassar-Daley]] is among Australia's successful contemporary indigenous performers Aboriginal artists and [[Kev Carmody]] and [[Archie Roach]] employ a combination of folk-rock and country music to sing about Aboriginal rights issues.<ref>{{cite web|url=http://www.cultureandrecreation.gov.au/articles/music/folk/ |title=Australian folk music - Australia's Culture Portal |publisher=Cultureandrecreation.gov.au |date= |accessdate=2011-02-01}}</ref>
+
+The [[Tamworth Country Music Festival]] began in 1973 and now attracts up to a 100,000 visitors annually. Held in [[Tamworth, New South Wales]] (Country music capital of Australia), it celebrates the culture and heritage of Australian country music. During the festival the [[Country Music Association of Australia|CMAA]] holds the [[Country Music Awards of Australia]] ceremony awarding the [[Golden Guitar]] trophies.
+
+Other significant country music festivals include the Whittlesea Country Music Festival (near [[Melbourne]]) and Boyup Brook Country Music Festival ([[Western Australia]]) in February; the Bamera Country Music Festival in June ([[South Australia]]), the National Country Muster held in [[Gympie]] during August, [[Mildura Country Music Festival]] for "independent" performers during October and the [[Canberra Country Music Festival]] held in the national capital during November. Some festivals are quite unique in their location:  Grabine State Park in [[New South Wales]] promotes Australian country through the Grabine Music Muster Festival;  Marilyns Country Music Festival is a unique event held in South Australia's Smoky Bay in September and is the only music festival in the world using an oyster barge as a stage.
+
+''Country HQ'' showcases new talent on the rise in the country music scene [[downunder]]. CMC (the [[Country Music Channel]]), a 24 hour music channel dedicated to non-stop country music, can be viewed on [[pay tv]] and features once a year the Golden Guitar Awards, CMAs and CCMAs alongside international shows such as The Wilkinsons, The Road Hammers, and Country Music Across America.
+
+=== Other international country music ===
+Tom Roland, from the [[Country Music Association]] International, explains Country Music’s global popularity: “In this respect, at least, Country Music listeners around the globe have something in common with those in the United States. In Germany, for instance, Rohrbach identifies three general groups that gravitate to the genre: people intrigued with the American cowboy icon, middle-aged fans who seek an alternative to harder rock music and younger listeners drawn to the pop-influenced sound that underscores many current Country hits.”<ref name=int/>
+
+One of the first Americans to perform country music abroad was [[George Hamilton IV]]. He was the first country musician to perform in the Soviet Union; he also toured in Australia and the Middle East. He was deemed the "International Ambassador of Country Music" for his contributions to the globalization of country music.<ref>[http://www.lib.unc.edu/spotlight/hamilton_loudermilk.html Lib.unc.edu] ''“Country Music Figures Donate Papers, Give Concert”''</ref> Johnny Cash, Emmylou Harris, Keith Urban, and Dwight Yoakam have also made numerous international tours.<ref name=int>[http://www.cmaworld.com/international/default.asp CMAworld.com]{{dead link|date=February 2011}}</ref>
+
+The [[Country Music Association]] undertakes various initiatives to promote country music internationally.<ref name=int/>
+
+In the United Kingdom, a country-derived genre known as [[skiffle]] peaked in the 1950s thanks to the efforts of [[Lonnie Donegan]]; though the genre as a whole was very short-lived, most of the bands involved with the [[British Invasion]] began their careers as skiffle musicians.
+
+In South America, on the last weekend of September, the yearly "San Pedro Country Music Festival"<ref>{{cite web|url=http://www.country2.com |title=Country2.com |publisher=Country2.com |date= |accessdate=2011-02-01}}</ref> takes places in the town of [[San Pedro, Buenos Aires|San Pedro, Argentina]]. The festival features bands from different places of [[Argentina]], as well as international artist from [[Brazil]], [[Uruguay]], [[Chile]], [[Peru]] and the [[United States]].
+
+In Ireland [[TG4]] began a quest for Ireland's next country star called ''[[Glór Tíre]]'', translated as Country Voice, it is now in its 6th season and is one of TG4 most watched TV shows.
+A recent success in the Irish arena has been [[Crystal Swing]].
+
+In [[Sweden]] there was a group called [[Rednex]] which combined country music with electro-pop. Rednex had a worldwide hit with their version of the traditional Southern tune "[[Cotton-Eyed Joe]]".
+
+[[Rhodesia]] during the 1970s had an active country and western music scene. Many songs combined country ballads with patriotic or military inspired lyrics.  For example, [[Clem Tholet]]'s ''Rhodesians Never Die'' rose to the top of the Rhodesian pop charts.
+
+== Performers and shows ==
+{{Main|List of country music performers|List of country performers by era|List of country television and radio shows}}
+
+=== US cable television ===
+Four U.S. cable networks are at least partly devoted to the genre:  [[Country Music Television|CMT]] and [[CMT Pure Country]] (both owned by [[Viacom]]), [[RFD-TV|Rural Free Delivery TV]] (owned by Rural Media Group) and [[Great American Country|GAC]] (owned by [[E. W. Scripps Company|The E. W. Scripps Company]]). The first American country music video cable channel was [[The Nashville Network]], launched in the early 1980s. In 2000, the channel was renamed and reformatted as The ''National'' Network, a general-interest network, and eventually became [[Spike TV]].
+
+=== Canadian television ===
+Only one television channel is currently dedicated to country music in Canada and that is [[CMT (Canada)]] owned by [[Corus Entertainment]] (90%) and Viacom (10%). But in the past the show Don Messer's Jubilee had great impact on country music in Canada in fact it is the program that launched Anne Murray's career.    
+
+=== Australian cable television ===
+The only network dedicated to Country Music in Australia is the [[Country Music Channel]] owned by [[XYZnetworks]].
+
+== See also ==
+{{Portal|Country music}}
+* [[Academy of Country Music]]
+* [[Australian country music]]
+* [[Canadian Country Music Association]]
+* [[Country and Western dance]]
+* [[Country Music Association]]
+* [[Country Music Hall of Fame]]
+* [[Country and Irish]]
+* [[Grand Ole Opry]]
+* [[Great American Country]]
+* [[List of Billboard Hot Country Songs chart achievements]]
+* [[List of country genres]]
+* [[Música sertaneja]]
+* [[Culture of the Southern United States|Southern Culture]]
+* [[Tejano music|Tejano]]: country music performed in Spanish to a [[polka]] beat
+* [[Western Music Association]]
+* [[Western music (North America)]]
+* [[WSM Radio]]
+
+== Notes ==
+<!--See [[Wikipedia:Footnotes]] for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
+{{Reflist|30em}}
+
+== Further reading ==
+{{refbegin|2}}
+* ''In The Country of Country: A Journey to the Roots of American Music'',<br />Nicholas Dawidoff, Vintage Books, 1998, ISBN 0-375-70082-X
+* ''Are You Ready for the Country: Elvis, Dylan, Parsons and the Roots of Country Rock'',<br />Peter Dogget, Penguin Books, 2001, ISBN 0-14-026108-7
+* ''Roadkill on the Three-Chord Highway'',<br />Colin Escott, Routledge, 2002, ISBN 0-415-93783-3
+* ''Guitars & Cadillacs'',<br />Sabine Keevil, Thinking Dog Publishing, 2002, ISBN 0-9689973-0-9
+* ''Proud to Be an Okie: Cultural Politics, Country Music, and Migration to Southern California'',<br />Peter La Chapelle, University of California Press, 2007, ISBN 0-52-024889-9
+* ''Creating Country Music: Fabricating Authenticity'',<br />Richard A. Peterson, University of Chicago Press, 1999, ISBN 0226662853
+* ''The Best of Country: The Official CD Guide'',<br />Stacy Harris, CollinsPublishers, 1993, ISBN 0-00-255335-X
+* ''Country Music USA'',<br />Bill C. Malone, [[University of Texas Press]], 1985, ISBN 0-292-71096-8, second Rev ed, 2002, ISBN 0-292-75262-8
+* ''Don't Get Above Your Raisin': Country Music and the Southern Working Class (Music in American Life)'',<br />Bill C. Malone, [[University of Illinois Press]], 2002, ISBN 0-252-02678-0
+* {{cite book|title=It All Happened In Renfro Valley|first=Pete|last=Stamper|publisher=[[University of Kentucky Press]]|year=1999|isbn=978-0813109756}}
+{{refend}}
+
+== External links ==
+<!-- Please do not add any links to this list without suggesting them on the talk page first. -->
+{{Commons cat|Country music}}
+* [http://www.cmaworld.com The Country Music Association - Nashville, Tennessee(CMA)]
+* [http://www.westernmusic.com/ Western Music Association (WMA)]
+* [http://www.countryradiotoolbar.com/ Country Internet Radio]
+* [http://www.countrymusichalloffame.com/ Country Music Hall of Fame and Museum - Nashville, Tennessee]
+* [http://www.carthagetexas.com/HallofFame/index.html Texas Country Music Hall of Fame & Tex Ritter Museum - Carthage, Texas]
+* [http://www.hillbillyhits.com/ Heart of Texas Country Music Association - Brady, Texas]
+* [http://www.countrychart.com/ Country Chart Music Reviews]
+* [http://www.opry.com/ Grand Ole Opry - Nashville, Tennessee]
+* [http://www.nashvillesongwritersfoundation.com/ Nashville Songwriters Hall of Fame Foundation]
+* [http://www.time.com/time/archive/collections/0,21428,c_country_music,00.shtml/ TIME Archive] of country music's progression
+* [http://xroads.virginia.edu/~MA98/molinaro/alt.country/thesis-cover.html Xroad.virginia.edu], alt country from American Studies at the University of Virginia
+* [http://www.countryfm.org/ Country Online Radio]
+
+{{americanrootsmusic}}
+{{countrymusic}}
+{{Traditional beliefs}}
+{{United States topics}}
+
+{{DEFAULTSORT:Country Music}}
+[[Category:Country music| ]]
+[[Category:Culture of the Southern United States]]
+[[Category:Radio formats]]
+[[Category:Western (genre)]]
+[[Category:African American music]]
+[[Category:American styles of music]]
+
+[[ar:موسيقى الريف]]
+[[bs:Country]]
+[[bg:Кънтри]]
+[[ca:Country]]
+[[cs:Country]]
+[[cy:Canu gwlad]]
+[[da:Country]]
+[[de:Country-Musik]]
+[[et:Kantrimuusika]]
+[[es:Country]]
+[[eo:Kontreo]]
+[[eu:Country]]
+[[fa:موسیقی کانتری]]
+[[fo:Countrytónleikur]]
+[[fr:Musique country]]
+[[fy:Country]]
+[[gd:Tuath-Cheòl]]
+[[gl:Música country]]
+[[ko:컨트리 음악]]
+[[hi:देशी संगीत (कंट्री म्यूजिक)]]
+[[hr:Country]]
+[[id:Musik country]]
+[[is:Kántrítónlist]]
+[[it:Country]]
+[[he:קאנטרי]]
+[[kn:ಹಳ್ಳಿಗಾಡಿನ ಸಂಗೀತ]]
+[[ka:ქანთრი]]
+[[sw:Muziki wa country]]
+[[lv:Kantrī mūzika]]
+[[lt:Kantri muzika]]
+[[hu:Country]]
+[[nl:Countrymuziek]]
+[[ja:カントリー・ミュージック]]
+[[no:Country]]
+[[nn:Country]]
+[[pl:Muzyka country]]
+[[pt:Música country]]
+[[ro:Muzică country]]
+[[ru:Кантри]]
+[[scn:Country (mùsica)]]
+[[simple:Country music]]
+[[sk:Country]]
+[[sl:Country]]
+[[sr:Кантри музика]]
+[[sh:Country]]
+[[fi:Kantrimusiikki]]
+[[sv:Countrymusik]]
+[[tl:Tugtuging-nayon]]
+[[ta:நாட்டிசை]]
+[[th:คันทรี (แนวดนตรี)]]
+[[tr:Country]]
+[[udm:Кантри]]
+[[uk:Кантрі]]
+[[vi:Nhạc đồng quê]]
+[[zh:乡村音乐]]

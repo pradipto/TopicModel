@@ -1,0 +1,819 @@
+{{Use dmy dates|date=January 2011}}
+{{About|the country}}
+{{pp-move-indef}}
+{{Infobox Country
+|native_name = <span style="line-height:1.33em;">''Kongeriget Danmark''</span>
+|conventional_long_name = <span style="line-height:1.33em;">Kingdom of Denmark</span>
+|common_name = Denmark
+|image_flag = Flag of Denmark.svg
+|image_coat = National Coat of arms of Denmark.svg
+|national_motto = none<br />([[Royal mottos of Danish monarchs|Royal motto]]: ''Guds hjælp, Folkets kærlighed, Danmarks styrke''<ref>{{cite web | url = http://www.kongehuset.dk/publish.php?dogtag=k_dk_familien_dronningen | title = Kongehuset | accessdate = 29 November 2010 | language = Danish}}</ref><br /><small>"God's Help, the People's Love, Denmark's Strength"</small>)
+|image_map = EU-Denmark.svg
+|map_caption = {{map caption|location_color=dark green|region=[[Europe]]|region_color=dark grey|subregion=the [[European Union]]|subregion_color=green|legend=EU-Denmark.svg}}
+|national_anthem = ''[[Der er et yndigt land]]''&nbsp;<small>(national)</small>
+|royal_anthem = ''[[Kong Kristian stod ved højen mast|Kong Christian stod ved højen mast]]''&nbsp;<small>(royal and national)</small>
+|official_languages = [[Danish language|Danish]]<sup>1</sup>
+|ethnic_groups = 90.1% [[Danes|Danish]]<br>9.9% other (2010)<ref name="DSTimm">{{cite web|url=http://www.dst.dk/HomeUK/Statistics/focus_on/focus_on_show.aspx?sci=565 |title=Immigrants and their descendants and foreign nationals|work=Statistics Denmark |publisher=Dst.dk |date=12 May 2010 |accessdate=31 July 2010}}</ref>
+|demonym = [[Danes|Danish]] or Dane(s)
+|capital = [[Copenhagen]]
+|latd=55 |latm=43 |latNS=N |longd=12 |longm=34 |longEW=E
+|largest_city = capital
+|government_type = [[Unitary state|Unitary]] [[parliamentary system|parliamentary democracy]] and [[constitutional monarchy]]
+|leader_title1 = [[List of Danish monarchs|Queen]]
+|leader_name1 = [[Margrethe II of Denmark|Margrethe II]]
+|leader_title2 = [[Prime Minister of Denmark|Prime Minister]]
+|leader_name2 = [[Lars Løkke Rasmussen]]
+|leader_title3 = [[Folketing#List of Speakers of the Folketing|Folketing Speaker]]
+|leader_name3 = [[Thor Pedersen]]
+|leader_title4 = [[Danish parliamentary election, 2007|Current coalition]]
+|leader_name4 = [[Cabinet of Lars Løkke Rasmussen|VK Coalition]]
+|legislature=[[Folketing]]
+|accessionEUdate = 1 January 1973 (7<sup>th</sup>)
+|area_km2 = 43,098.31
+|area_sq_mi = 16,640 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank = 132nd
+|area_magnitude = 1 E10
+|percent_water = 1.64
+|population_estimate = 5,557,709<ref>{{cite web|title=Population by region and time|url=http://www.dst.dk/HomeUK/Statistics/Key_indicators/Population/pop.aspx|publisher=Statistics Denmark|accessdate=11 November 2010|date=1 October 2010}}</ref>
+|population_estimate_year = 1 October 2010 
+|population_estimate_rank = 110th
+|population_density_km2 = 129
+|population_density_sq_mi = 334 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 78th
+|GDP_PPP_year = 2010
+|GDP_PPP = $200.796&nbsp;billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=128&s=NGDPD,NGDPDPC,PPPGDP,PPPPC,LP&grp=0&a=&pr.x=39&pr.y=4
+|title=Denmark|publisher=International Monetary Fund|accessdate=31 July 2010}}</ref>
+|GDP_PPP_rank = 50th
+|GDP_PPP_per_capita = US$36,336<ref name=imf2/>
+|GDP_PPP_per_capita_rank = 16th
+|GDP_nominal = US$313.825&nbsp;billion<ref name=imf2/>
+|GDP_nominal_rank = 31st
+|GDP_nominal_year = 2010
+|GDP_nominal_per_capita = US$56,790<ref name=imf2/>
+|GDP_nominal_per_capita_rank = 5th
+|Gini = 24.7
+|Gini_year = 2009
+|Gini_Relations = Canadians of Europe
+|Gini_rank = 1st
+|Gini_category = <span style="color:#090;">low</span>
+|HDI_year = 2010
+|HDI = {{decrease}} 0.866<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010}}</ref>
+|HDI_rank = 19th
+|HDI_category = <span style="color:#090;">very&nbsp;high</span>
+|sovereignty_type = Consolidation
+|sovereignty_note = 8th century
+|currency = [[Danish krone]]
+|currency_code = DKK
+|time_zone = [[Central European Time|CET]]
+|utc_offset = +1
+|time_zone_DST = [[Central European Summer Time|CEST]]
+|utc_offset_DST = +2
+|drives_on = right
+|cctld = [[.dk]]<sup>2,3</sup>
+|calling_code = [[Telephone numbers in Denmark|45]]<sup>4</sup>
+|footnotes = <sup>1</sup> Co-official with [[Faroese language|Faroese]] in the [[Faroe Islands]]. [[German language|German]] is recognised as a protected minority language in the South Jutland (Sønderjylland) area of Denmark. Danish is recognised as a protected minority language in the [[Schleswig-Holstein]] region of [[Germany]].<br /> <sup>2</sup>For Denmark excluding the Faroe Islands and [[Greenland]].<br /><sup>3</sup> The TLD [[.eu]] is shared with other [[European Union]] countries.<br /><sup>4</sup> The [[Faroe Islands]] use +298 and [[Greenland]] uses +299.
+}}
+
+'''Denmark''' ({{IPAc-en|en-us-Denmark.ogg|ˈ|d|ɛ|n|m|ɑr|k}}; {{lang-da|Danmark}}, {{IPA-da|ˈdænmɑɡ|pron|DA-Danmark.ogg}}) is a [[Scandinavian countries|Scandinavian country]] in [[Northern Europe]]. The country of Denmark, together with [[Greenland]] and the [[Faroe Islands]], comprises  the [[Kingdom of Denmark]] ([[Danish language|Danish]]: {{Audio|Kongeriget Danmark.ogg|''Kongeriget Danmark''}}; {{lang-fo|Kongsríki Danmarkar}}; {{lang-de|Königreich Dänemark}}).  It is the southernmost of the [[Nordic countries]], southwest of [[Sweden]] and south of [[Norway]], and bordered to the south by [[Germany]]. Denmark borders both the [[Baltic Sea|Baltic]] and the [[North Sea]]. The country consists of a large peninsula, [[Jutland]] (Jylland) and many islands, most notably [[Zealand (Denmark)|Zealand]] (Sjælland), [[Funen]] (Fyn), [[North Jutlandic Island|Vendsyssel-Thy]] (commonly considered a part of Jutland), [[Lolland]], [[Falster]] and [[Bornholm]], as well as hundreds of minor islands often referred to as the Danish Archipelago. Denmark has long controlled the approach to the [[Baltic Sea]]; before the digging of the [[Kiel Canal]], water passage to the Baltic Sea was possible only through the three channels known as the "[[Danish straits]]".
+
+Denmark is a [[constitutional monarchy]] with a [[parliamentary system]] of government. Denmark has a state-level government and [[local government]]s in 98 [[List of municipalities of Denmark|municipalities]]. Denmark has been a member of the [[European Union]] since 1973, although it has not joined the [[Eurozone]]. Denmark is a founding member of [[NATO]] and the [[Organisation for Economic Co-operation and Development|OECD]]. Denmark is also a member of the [[Organisation for Security and Cooperation in Europe]] (OSCE).
+
+Denmark, with a [[mixed economy|mixed market]] [[capitalism|capitalist economy]] and a large [[welfare state]],<ref name="Esping-Andersen">Esping-Andersen, G. (1990). ''The three worlds of welfare capitalism''. Princeton, NJ: [[Princeton University Press]].</ref> ranks as having the world's highest level of [[List of countries by income equality|income equality]]{{cite web|url=http://www.visionofhumanity.org/gpi-data/#/2010/GINI|title=Gini Coefficient|Publisher=Vision of Humanity.org|accessdate=01-23-11}}. Denmark has the best business climate in the world, according to the U.S. business magazine [[Forbes]].<ref name="busclimate">{{cite web|url=http://www.copcap.com/composite-665.htm|title=Forbes: Denmark has the best business climate in the world|work=Copenhagen Capacity|publisher=www.copcap.com|accessdate=3 August 2009}}</ref> From 2006 to 2008, surveys<ref>{{cite web|url=http://abcnews.go.com/2020/story?id=4086092&page=1 |title=ABC News: Great Danes: The Geography of Happiness |publisher=Abcnews.go.com |accessdate=5 May 2009}}</ref> ranked Denmark as "the happiest place in the world", based on standards of health, welfare and education. The 2009 [[Global Peace Index]] survey ranks Denmark as the second most peaceful country in the world, after [[New Zealand]].<ref>[http://www.visionofhumanity.org/gpi/results/rankings/2008/ Global Peace Index Rankings 2008]. Vision of Humanity.</ref> In 2009, Denmark was ranked as one of the least corrupt countries in the world according to the [[Corruption Perceptions Index]], ranking second only to [[New Zealand]].<ref>{{cite web|url=http://www.transparency.org/policy_research/surveys_indices/cpi/2009/cpi_2009_table |title=Corruption Perceptions Index 2009 |publisher=[[Transparency International]]|year= 2009|accessdate=1 June 2010}}</ref> In 2010, [[Transparency International]] ranked it as the least corrupt country in the world, in a three-way tie with New Zealand and [[Singapore]].<ref>[http://www.transparency.org/policy_research/surveys_indices/cpi/2010/results Transparency International: "Corruption Perceptions Index 2010 Results"]</ref>
+
+The [[national language]], [[Danish language|Danish]], is closely related to [[Swedish language|Swedish]] and [[Norwegian language|Norwegian]], with which it shares strong cultural and historical ties. 80.9% of the inhabitants of Denmark are members of the [[Lutheranism|Lutheran]] state church.<ref>[http://www.km.dk/folkekirken/statistik-og-oekonomi/kirkestatistik.html Kirkeministeriet/Folkekirken/Kirkestatistik]. Km.dk. Retrieved on 11 January 2011.</ref>  As of 2010, 548,000 persons (9.9% of the Danish population) were either immigrants or descendants of recent immigrants. Most of these (54%) have their origins in Scandinavia or elsewhere in [[Europe]], while the remainder originate mainly from [[Middle East]]ern and [[Africa]]n countries.
+
+==History==
+{{Main|History of Denmark}}
+[[File:Johan Thomas Lundbye 001.jpg|thumb|''Hankehøj'', by [[Johan Lundbye]]. A Danish down. Note the glacial character of the terrain and the burial mound of an early chief in the centre.]]
+
+===Etymology===
+The etymology of the word Denmark, and especially the relationship between Danes and Denmark and the unifying of Denmark as a single kingdom, is a subject which attracts some debate.<ref>Kristian Andersen Nyrup, Middelalderstudier [http://www.nyrups.dk/Historie/MiddelalderIndex.htm Bog IX. Kong Gorms Saga]</ref><ref>''Indvandrerne i Danmarks historie'', Bent Østergaard, Syddansk Universitetsforlag 2007, ISBN 978-87-7674-204-1, pp. 19–24</ref> The debate is centred primarily around the prefix ''"Dan"'' and whether it refers to the [[Danes (Germanic tribe)|Dani]] or a historical person [[Dan (king)|Dan]] and the exact meaning of the -''"mark"'' ending. The issue is further complicated by a number of references to various Dani people in Scandinavia or other places in Europe in [[Ancient Greece|Greek]] and [[Ancient Rome|Roman]] accounts (like [[Ptolemy]], [[Jordanes]], and [[Gregory of Tours]]), as well as some [[mediaeval literature]] (like [[Adam of Bremen]], [[Beowulf]], [[Widsith]] and [[Poetic Edda]]).
+
+Most handbooks derive<ref>[[Jan de Vries (linguist)|J. de Vries]], ''Altnordisches etymologisches Wörterbuch'', 1962, 73; [[Niels Åge Nielsen|N. Å. Nielsen]], ''Dansk etymologisk ordbog'', 1989, 85–96.</ref> the first part of the word, and the name of the people, from a word meaning "flat land", related to [[German language|German]] ''Tenne'' "threshing floor", [[English language|English]] ''den'' "cave", [[Sanskrit]] ''dhánuṣ-'' (धनुस्; "desert"). The ''-mark'' is believed to mean woodland or borderland (see [[march (territory)|marches]]), with probable references to the border forests in south [[Duchy of Schleswig|Schleswig]],<ref>Navneforskning, Københavns Universitet [http://navneforskning.ku.dk/stednavne.doc/betydninger.doc Udvalgte stednavnes betydning].</ref> maybe similar to [[Finnmark#Etymology|Finnmark]], [[Hedmark]], [[Telemark#The name|Telemark]] or [[Dithmarschen]].{{citation needed|date=December 2010}}
+
+In [[Norse language|Norse]], the land was called ''Danmǫrk''.<ref>{{cite web | url = http://ordnet.dk/ods/ordbog?query=Danmark | title = Danmark – Ordbog – ODS – ordnet.dk | accessdate = 29 November 2010 | language = Danish | quote = oldn. Danmǫrk}}</ref>
+
+Some of the earliest descriptions of the origin of the word 'Denmark', describing a territory, are found in the ''[[Chronicon Lethrense]]'' (12th century), [[Sven Aggesen|Svend Aagesen]] (late 12th century), [[Saxo Grammaticus]] (early 13th century) and the [[Ballad of Eric]] (mid 15th century). There are, however, many more Danish annuals and yearbooks containing various other details, similar tales in other variations, other names or spelling variations.
+
+[[File:Jelling gr kl Stein.JPG|thumb|left|The [[Jelling stones|Jelling Stones]], commonly referred to as Denmark's "[[birth certificate]]", seen from the north with "[[Gorm the Old|Gorm's]] Mound" in the background]]
+
+The ''Chronicon Lethrense'' explains that when the [[Roman Emperor]] [[Augustus]] went against Denmark in the time of David,<ref>The 'David' referred to here appears to be [[David]], the [[Kingdom of Israel (united monarchy)|ancient king of the Israelites]]: of course this is wildly [[anachronism|anachronistic]], but it is fairly typical of such sources, which commonly sought to push national or dynastic origins as far back as possible.</ref> Denmark consisted of seven territories [[Jutland]], [[Funen]], [[Zealand (Denmark)|Zealand]], [[Møn]], [[Falster]], [[Lolland]] and [[Scania|Skåne]] which were governed by King Ypper of [[Uppsala]]. He had three sons, Nori, Østen and [[Dan (king)|Dan]]. Dan was sent to govern Zealand, Møn, Falster, and Lolland, which became known jointly as Videslev. When the [[Jutes]] were fighting Emperor Augustus they called upon Dan to help them. Upon victory, they made him king of Jutland, Funen, Videslev and Skåne. A council decided to call this new united land ''Danmark'' (Dania) (English: Denmark) after their new king, Dan. [[Saxo Grammaticus|Saxo]] relates that it is the legendary Danish King [[Dan I of Denmark|Dan]], son of Humbli, who gave the name to the Danish people, though he does not expressly state that he is also the origin of the word "Denmark". Rather he tells that [[England]] ultimately derives its name from Dan’s brother [[Angles|Angel]].
+
+The earliest mention of a territory called "Denmark" is found in King [[Alfred the Great]]'s modified translation into [[Old English]] of [[Paulus Orosius|Paulus Orosius']] ''Seven Books of History Against The Pagans'' ("Historiarum adversum Paganos Libri Septem"), written by Alfred when king of [[Wessex]] in the years 871–899. In a passage introduced to the text by Alfred, we read about [[Ohthere of Hålogaland]]’s travels in the Nordic region, during which 'Denmark [''Denamearc''] was on his [[port (nautical)|port]] side... And then for two days he had on his (port side) the islands which belong to Denmark'.<ref>Thorpe, B., ''The Life of Alfred The Great Translated From The German of Dr. R. Pauli To Which Is Appended Alfred's Anglo-Saxon Version of Orosius'', Bell, 1900, p. 253.</ref>
+
+The first recorded use of the word "Denmark" within Denmark itself is found on the two [[Jelling stones]], which are [[Runestone|rune stones]] believed to have been erected by [[Gorm the Old]] (c. 955) and [[Harald I of Denmark|Harald Bluetooth]] (c. 965). The larger stone of the two is often cited as Denmark's birth certificate, though both use the word "Denmark", in the form of [[accusative case|accusative]] {{runic|ᛏᛅᚾᛘᛅᚢᚱᚴ}} "tanmaurk" ({{IPA|[danmɒrk]}}) on the large stone, and [[genitive case|genitive]] "tanmarkar" (pronounced {{IPA|[danmarkaɽ]}}) on the small stone.<ref>The [[dative case|dative]] form ''tąnmarku'' (pronounced {{IPA|[danmarkʊ]}}) is found on the contemporaneous [[Skivum stone]].</ref> The inhabitants of Denmark are there called "tani" ({{IPA|[danɪ]}}), or "Danes", in the accusative.  In the Song of Roland, estimated to have been written between 1040 and 1115, the first mention of the legendary Danish hero Holger Danske appears; he is mentioned several times as "Holger of Denmark" (Ogier de Denemarche).
+
+===Prehistory===
+The earliest [[Archaeology of Denmark|archaeological findings in Denmark]] date back to the [[Eemian|Eem interglacial period]] from 130,000–110,000 BC.<ref>Michaelsen (2002), p. 19.</ref> Denmark has been inhabited since around 12,500 BC and [[agriculture]] has been evident since 3900 BC.<ref name="foreign ministry">{{cite web| last =Nielsen| first =Poul Otto|month=May | year=2003| url = http://www.um.dk/Publikationer/UM/English/Denmark/kap6/6-1.asp| title =Denmark: History, Prehistory| publisher =Royal Danish Ministry of Foreign Affairs| accessdate =1 May 2006 |archiveurl = http://web.archive.org/web/20051122020555/http://www.um.dk/Publikationer/UM/English/Denmark/kap6/6-1.asp <!-- Bot retrieved archive --> |archivedate = 22 November 2005}}</ref> The [[Nordic Bronze Age]] (1800–600 BC) in Denmark was marked by [[Tumulus|burial mound]]s, which left an abundance of findings including [[lur]]s and the [[Trundholm sun chariot|Sun Chariot]].
+
+During the [[Pre-Roman Iron Age]] (500 BC&nbsp; – 1 AD), native groups began migrating south, although<ref name="foreign ministry" /> the first Danish people came to the country between the Pre-Roman and the [[Germanic Iron Age]],<ref>Busck and Poulsen (ed.) (2002), p. 20.</ref> in the [[Roman Iron Age]] (1–400 AD). The [[Roman province]]s maintained [[trade route]]s and relations with native tribes in Denmark, and [[Roman currency|Roman coins]] have been found in Denmark. Evidence of strong Celtic cultural influence dates from this period in Denmark and much of [[North-West Europe|North West Europe]] and is among other things reflected in the finding of the [[Gundestrup cauldron]].
+
+[[File:Solvogn.jpg|thumb|left|The gilded side of the [[Trundholm sun chariot]]]]
+
+Historians believe that before the arrival of the precursors to the Danes, who came from the east [[List of islands of Denmark|Danish islands]] ([[Zealand (Denmark)|Zealand]]) and [[Scania|Skåne]] and spoke an early form of [[North Germanic languages|North Germanic]], most of [[Jutland]] and some islands were settled by [[Jutes]]. They were later invited to [[Great Britain]] as mercenaries by [[Brythonic languages|Brythonic]] King [[Vortigern]] and were granted the southeastern territories of [[Kent]], the [[Isle of Wight]] among other areas, where they settled. They were later absorbed or [[ethnic cleansing|ethnically cleansed]] by the invading [[Angles]] and [[Saxons]], who formed the [[Anglo-Saxons]]. The remaining population in Jutland assimilated in with the [[Danes (Germanic tribe)|Danes]].
+
+A short note<ref>{{cite web|author = Jordanes| coauthors = translated by [[Charles C. Mierow]]|date=22 April 1997| url = http://www.acs.ucalgary.ca/~vandersp/Courses/texts/jordgeti.html#III | title =The Origin and Deeds of the Goths, chapter III|  accessdate = 1 May 2006}}</ref> about the ''Dani'' in "[[Getica]]" by historian [[Jordanes]] is believed by some to be an early mention of the Danes,<ref>Busck and Poulsen (ed.) (2002), p. 19.</ref> one of the [[ethnic group]]s from whom the modern [[Danes|Danish people]] are descended. The [[Danevirke]] defence structures were built in phases from the 3rd century forward,<ref name="danevirke">Michaelsen (2002), pp. 122–23.</ref> and the sheer size of the construction efforts in 737 are attributed to the emergence of a Danish king.<ref name="danevirke"/> The [[Younger Futhark|new runic alphabet]] was first used around the same time, and [[Ribe]], the oldest town of Denmark, was founded about 700.
+
+===Viking Age===
+{{Main|Viking Age}}
+[[File:Ladbyskibet.jpg|thumb|right|The [[Ladby ship]], the largest ship burial found in Denmark]]
+The Danish people were amongst those known as the [[Viking]]s during the 8th–11th centuries. Viking explorers first discovered and settled in [[Iceland]] in the 9th century, on their way from the [[Faroe Islands]]. From there, [[Greenland]] and [[Vinland]] (probably [[Newfoundland and Labrador|Newfoundland]]) were also settled. Utilising their great skills in shipbuilding they raided and conquered parts of [[France]] and the [[British Isles]]. But they also excelled in trading along the coasts and rivers of Europe, running trade routes from Greenland in the north to [[Constantinople]] in the south via [[Russia]]n rivers. The Danish Vikings were most active in Britain, [[Ireland]] and France and they raided, conquered and settled parts of England (their earliest settlements included sites in the [[Danelaw]], [[Ireland]] and [[Normandy]]).
+
+In the early 9th century, [[Charlemagne]]'s Christian empire had expanded to the southern border of the Danes, and Frankish sources (e.g. [[Notker the Stammerer|Notker of St Gall]]) provide the earliest historical evidence of the Danes. These report a King [[Gudfred]], who appeared in present day [[Holstein]] with a navy in 804 where diplomacy took place with the [[Franks]]; In 808, King Gudfred attacked the [[Obotrites|Obotrite]] and conquered the city of [[Reric]] whose population was displaced or abducted to [[Hedeby]]. In 809, King Godfred and emissaries of Charlemagne failed to negotiate peace, and the next year King Godfred attacked the [[Frisians]] with 200 ships.
+
+The oldest parts of the defensive works of Danevirke near [[Hedeby]] at least date from the summer of 755 and were expanded with large works in the 10th century. The size and amount of troops needed to man it indicates a quite powerful ruler in the area, which might be consistent with the kings of the Frankish sources. In 815 AD, Emperor [[Louis the Pious]] attacked Jutland apparently in support of a contender to the throne, perhaps [[Harald Klak]], but was turned back by the sons of Godfred, who most likely were the sons of the above mentioned Godfred. At the same time [[Ansgar|St. Ansgar]] travelled to Hedeby and started the Catholic [[Christianisation of Scandinavia]].
+[[File:Dannevirke.english.png|thumb|left|Map showing [[Danevirke]] and [[Hærvejen]]]]
+
+The Danes were united and officially Christianised in 965 AD by [[Harald I of Denmark|Harald Blåtand]], the story of which is recorded on the [[Jelling stones]]. The extent of Harald's Danish Kingdom is unknown, although it is reasonable to believe that it stretched from the defensive line of Dannevirke, including the Viking city of Hedeby, across Jutland, the Danish isles and into southern present day [[Sweden]]; [[Scania]] and perhaps [[Halland]] and [[Blekinge]]. Furthermore, the Jelling stones attest that Harald had also "won" [[Norway]]. In retaliation for the [[St. Brice's Day massacre]] of Danes in England, the son of Harald, [[Sweyn Forkbeard]] mounted a series of wars of conquest against England, which was completed by Svend's son [[Cnut the Great|Canute the Great]] by the middle of the 11th century.<ref>Staff. [http://www.britannica.com/eb/topic-516876/Saint-Brices-Day-massacre Saint Brices Day massacre], [[Encyclopædia Britannica]]. Retrieved 26 December 2007.</ref>
+
+Following the death of Canute the Great, Denmark and England were divided. Sweyn Estridsen's son, [[Canute IV of Denmark|Canute IV]], raided England for the last time in 1085. He planned another invasion to take the [[List of English monarchs|throne of England]] from an aging [[William I of England|William I]]. He called up a fleet of 1,000 Danish ships, 60 Norwegian [[Longship|long boats]], with plans to meet with another 600 ships under [[Robert I, Count of Flanders|Duke Robert of Flanders]] in the summer of 1086. Canute, however, was beginning to realise that the imposition of the tithe on Danish peasants and nobles to fund the expansion of monasteries and churches and a new [[Poll tax|head tax]] (Danish:nefgjald) had brought his people to the verge of rebellion. Canute took weeks to arrive at Struer where the fleet had assembled, but he found only the [[Norway|Norwegians]] still there.
+
+Canute thanked the Norwegians for their patience and then went from assembly to assembly (Danish:landsting) outlawing any sailor, captain or soldier who refused to pay a fine which amounted to more than a years harvest for most farmers. Canute and his housecarls fled south with a growing army of rebels on his heels. Canute fled to the royal property outside the town of Odense on Funen with his two brothers. After several attempts to break in and then bloody hand to hand fighting in the church, Benedict was cut down and Canute struck in the head by a large stone and then speared from the front. He died at the base of the main altar 10 July 1086, where he was buried by the Benedictines. When Queen Edele came to take Canute's body to Flanders, a light allegedly shone around the church and it was taken as a sign that Canute should remain where he was.
+
+The death of St. Canute marks the end of the Viking Age. Never again would massive flotillas of [[Scandinavia]]ns meet each year to ravage the rest of Christian Europe.
+
+===Medieval Denmark===
+From the Viking age towards the end of the 13th century, the kingdom of Denmark consisted of Jutland, north from the [[Eider (river)|Eider River]] and the islands of Zealand, [[Funen]], [[Bornholm]], [[Scania|Skåne]], [[Halland]] and [[Blekinge]]. The lands between the Eider and the [[Kongeå]]en were separated from the kingdom as two vassal [[duchy|duchies]] of [[Duchy of Schleswig|Schleswig]] and [[Holstein]].
+
+Following the end of the 11th century, Denmark underwent a transition from a patchwork of regional chiefs (Danish:jarls) with a weak and semi-elected royal institution, into a realm which more reflected European [[feudalism]], with a powerful king ruling through an influential nobility. The period is marked by internal strife and the generally weak geopolitical position of the realm, which for long stretches fell under German influence. The period also featured the first of large stone buildings (mostly churches), a deep penetration by the Christian religion, the appearance of [[monasticism|monastic orders]] in Denmark and the first written historical works such as the ''[[Gesta Danorum]]'' ("Deeds of the Danes"). German political as well as religious influence firmly ended in the last decades of the 12th century under the rule of King [[Valdemar I of Denmark|Valdemar the Great]] and his foster brother [[Absalon]] [[Hvide]], Archbishop of [[Lund]]; through successful wars against [[Wends|Wend]] peoples of northeast Germany and the [[Holy Roman Empire]].
+[[File:Roskilde Margrethe1 grave.jpg|thumb|The tomb of Margaret I in [[Roskilde Cathedral]]]]
+
+A high point was reached during the reign of [[Valdemar II of Denmark|Valdemar II]], who led the formation of a Danish "Baltic Sea Empire", which by 1221 extended control from [[Estonia]] in the east to Norway in the north. In this period several of the "regional" law codes were given; notably the [[Codex Holmiensis|Code of Jutland]] from 1241, which asserted several modern concepts like [[Ownership|right of property]]; "that the king cannot rule without and beyond the law"; "and that all men are equal to the law". Following the death of Valdemar II in 1241 and to the ascension of [[Valdemar IV of Denmark|Valdemar IV]] in 1340, the kingdom was in general decline because of internal strife and the rise of the [[Hanseatic League]]. The competition between the sons of Valdemar II had the longterm result that the southern parts of Jutland were separated from the kingdom of Denmark and became semi-independent vassal duchies/counties.
+
+===Kalmar Union===
+During the reign of Valdemar IV and his daughter [[Margaret I of Denmark|Margaret I]], the realm was re-invigorated; following the [[Falköping|Battle of Falköping]], Margaret I had her sister's son, [[Eric of Pomerania]], crowned King of Denmark, Norway and Sweden after the signing of the [[Kalmar Union|union charter of Kalmar]], Trinity Sunday 1397.<ref>Palle Lauring, ''A History of the Kingdom of Denmark'' (Host & Son Co.: Copenhagen, 1960) p. 108.</ref> United under a single crown it was thought that the new kingdom would create a great power in the north.<ref name="Lauring">Lauring</ref> The three countries were to be treated as equals in the union. However, even from the start Margaret may not have been so idealistic—treating Denmark as the clear "senior" partner of the union.<ref name="Lauring"/> Thus, much of the next 125 years of [[History of Scandinavia|Scandinavian history]] revolves around this union, with Sweden breaking off and being re-conquered repeatedly. The issue was for practical purposes resolved on 17 June 1523, as [[List of Swedish monarchs|Swedish King]] [[Gustav I of Sweden|Gustav Vasa]] conquered the city of [[Stockholm]]. [[Denmark-Norway|Denmark and Norway]], however, remained in a [[personal union]] until the [[Congress of Vienna]] in 1814.
+
+===Protestant Reformation===
+{{Main|Reformation in Denmark-Norway and Holstein}}
+
+The [[Protestant Reformation]] came to Scandinavia in the 1520s. On [[Easter|Easter Sunday]] 1525, [[Hans Tausen]], a monk in the Order of St John's Hospitalers, proclaimed aloud the need for [[Martin Luther]]'s reforms in the [[Catholic Church]]. His sermon was the beginning of a ten year struggle which would change Denmark forever. Tausen was hustled off to a monastery in [[Viborg, Denmark|Viborg]] in northern Jutland where he would be isolated and away from [[Copenhagen]] and the court. Tausen simply preached through the window of his locked chamber. At first curious Danes came to hear the strange new ideas that Tausen was preaching. Within weeks Tausen was freed by his loyal followers, and then a Franciscan abbey church was broken open so Viborgers could hear God's word under a roof. Luther's ideas were accepted so rapidly that the local bishop and other churchmen in Viborg were unable to cope. In many churches the mass was celebrated alongside Lutheran sermons, and then Tausen's version of Luther's teachings began to spread to other parts of Jutland. Within a year Tausen was the personal chaplain of King [[Frederick I of Denmark|Frederick I]]. Frederick tried to balance the old and new ideas insisting that they coexist; it lasted only as long as the king did.
+
+A mob stormed Our Lady Church in Copenhagen in 1531 tearing down statues, destroying side altars, artwork and relics that had accumulated through its long history. Similar events happened through the country, although for the most part the change was peaceful. The majority of common people saw the reduced influence and wealth of the church as a liberating thing, but their new found influence did not last long.
+
+At the death of Frederick I in 1533, two claimants to the throne – one backed by Protestant Lübeck and the other by Catholic nobles – caused a [[civil war]] known as the [[Count's Feud]] (Danish: Grevens Fejde) (1534–1536).<ref>Lauring, pp. 139–141.</ref> The massacre of [[Skipper Clement]]'s peasant army at [[Aalborg]] in December 1534 brought an end to the war and left the pro-Lutheran party firmly in charge.<ref>Lauring, pp. 140–141.</ref> Denmark became [[Reformation in Denmark-Norway and Holstein|officially Lutheran]] in 1536. Denmark's Catholic bishops were arrested and imprisoned. Abbeys, nunneries, monasteries and other church properties were confiscated by local nobility and the crown. Monks, nuns and clergy lost their livelihood. The bishops who agreed to marry and not stir up trouble were given former church lands as personal estates.<ref>Lauring, pp. 142–143.</ref>
+
+Catholic influence remained longest in [[Viborg, Denmark|Viborg]] and the nearby area, where change permeated slowly, although the reformation originally began there.<ref>[[Catholic Encyclopedia]], 1913, Wikisource {{cquote|Though the Danish Reformation began at Viborg, certain Catholic usages were kept up in its cathedral longer than anywhere else in Denmark. The [[shrine]]s of St. Kjeld and St. Willehad were removed to the choir of the cathedral in 1538, but Lutheran ministers continued to recite daily the Office of the Dead for the soul of King Eric Glipping (d 1286) from 1560 to 1630. The protestant Bishop Hans Wandal shortened and protestantised the service and entrusted its performance to the senior curate of the cathedral and twelve of the school boys. These all benefited by the endowment, and continued the service until 1684. Of the 12th century cathedral nothing remains but the crypt. The upper church built in 1876 contains splendid frescoes by [[Joachim Skovgaard]] begun in 1895 and a seven-branched candlestick from 1494. The abbey church of [[Grinderslev]], the church of St Botolph, at Aalborg, and numerous village churches are memorials of the catholic past. At Karup there was a pilgrimage to Our Lady's Well. The chapter of the cathedral of St Mary and St Kjeld was secularised in 1440, after which it consisted of a dean, an archdeacon, a precentor and twelve secular canons. There were also at Viborg the Benedictine nunnery of St Botolph, a Franciscan friary from 1235, and a Dominican friary from 1246, as well as the hospitals of St Michael and of the Holy Ghost. At Aalborg there were a Benedictine nunnery and a Franciscan friary. The Cistercian Abbey of Vidskild (Vitae Scola) founded in 1158, the Augustinian abbey at Grinderslev founded before 1176 and the Augustinian nunnery of Asmild were all situated in the diocese, as were also the Benedictine (?) nunnery of Sibber, and the hospitals at Tesdrup and Karup. In 1523, there were 236 churches in the Diocese of Viborg. Now (1912) the Camillians have a church and hospital at Aalborg, while Viborg is one of their out-stations.}}</ref>
+
+===Modern history===
+For most of its history the attention of Denmark had been directed to the south. The Germans in the form of either the [[Hanseatic League]] or in the form of the rebellious minority population of the province of Slesvig had been demanding all the attention of the Danish Kingdom for centuries. However, by 1500, the Hanseatic League was in considerable decline.<ref>Robert S. Hoyt & Stanley Chodorow, ''Europe in the Middle Ages'' (Harcourt, Brace & Jovanovich, Inc.: New York, 1976) p. 643.</ref> The rise of the Dutch nation as a sea power and its unrestricted trade with Scandinavia broke the monopoly of the Hansa.<ref>Hoyt</ref> By 1614, 60% of all shipping passing through the sound between Denmark and [[Sweden]] was [[Netherlands|Dutch]] shipping.<ref>''Thirty Year's War'' edited by Geoffrey Parker (Routledge Pub.: London, 1997) p. 65.</ref> The problem of Slesvig was not so much resolved as it was over-shadowed by a larger problem, the rising power of Sweden.<ref>Lauring, p. 106.</ref>
+
+Indeed, the religious [[Peace of Augsburg]] in 1555 served as a watershed in the history of Denmark.<ref>Parker, p. 64.</ref> Instead of looking south to [[Germany]] as a threat, Denmark began to look to the north—toward Sweden as a worse threat. Like Denmark, most of [[Northern Germany]] began to be deeply concerned about the military threat posed by a strong Sweden. Thus, the various German states began to worry less about supporting the German minority population in Slesvig and began to concentrate on the Swedish threat. Accordingly, Denmark was free to turn her attentions to Sweden as well.
+
+After Sweden permanently broke away from the Kalmar Union in 1523, Denmark tried on two occasions to reassert control over Sweden. The first was in the [[Northern Seven Years War]] which lasted from 1563 until 1570. The second occasion was the [[Kalmar War]] when King [[Christian IV of Denmark|Christian IV]] attacked Sweden in 1611 but failed to accomplish his main objective of forcing Sweden to return to the union with Denmark. The war led to no territorial changes, but Sweden was forced to pay a [[war reparations|war indemnity]] of 1&nbsp;million [[silver]] [[Swedish riksdaler|riksdaler]] to Denmark, an amount known as the ''[[Treaty of Stettin (1570)|Älvsborg ransom]]''.<ref>{{cite web|url=http://www.smb.nu/svenskakrig/1611.asp|archiveurl=http://web.archive.org/web/20071011111014/http://smb.nu/svenskakrig/1611.asp|archivedate=11 October 2007 |title=Kalmarkriget 1611–1613 |accessdate=4 May 2007 |publisher=[[Svenskt Militärhistoriskt Bibliotek]]}}</ref>
+
+King Christian used this money to found several towns and fortresses, most notably [[Glückstadt]] (founded as a rival to [[Hamburg]]), [[Oslo|Christiania]] (following a fire destroying the original city of [[Oslo]]), [[Christianshavn]], [[Kristianstad|Christianstad]] and [[Kristiansand|Christiansand]]. Christian also constructed a number of buildings, most notably [[Børsen]], [[Rundetårn]], [[Nyboder]], [[Rosenborg Castle|Rosenborg]], a [[Kongsberg|silver mine]] and a [[Kupfermühle|copper mill]].<!--less important were Christianspris (near Kiel) and Christianopel (near Brømsebro in Blekinge) --> Inspired by the [[Dutch East India Company]], he founded a similar [[Danish East India Company|Danish company]] and planned to claim [[Sri Lanka|Ceylon]] as a colony, but the company only managed to acquire [[Tharangambadi|Tranquebar]] on [[India]]'s [[Coromandel Coast]].
+
+In the [[Thirty Years' War]], Christian tried to become the leader of the [[Lutheranism|Lutheran]] [[States of Germany|states in Germany]] but suffered a crushing defeat at the [[Battle of Lutter]].<ref>Parker, pp. 69–70.</ref> The result was that the Catholic army under [[Albrecht von Wallenstein]] was able to invade, occupy and pillage Jutland,<ref>Parker, p. 70.</ref> forcing Denmark [[Treaty of Lübeck|to withdraw from the war]]. Denmark managed to avoid territorial concessions, but [[Gustavus Adolphus of Sweden|Gustavus Adolphus]]' intervention in Germany was seen as a sign that the military power of Sweden was on the rise while Denmark's influence in the region was declining. Swedish armies [[Torstenson War|invaded Jutland]] in 1643 and claimed Skåne in 1644.
+
+In the 1645 [[Second Treaty of Brömsebro (1645)|Treaty of Brømsebro]], Denmark surrendered Halland, [[Gotland]], the last parts of [[Danish Estonia]], and several provinces in Norway. In 1657, King [[Frederick III of Denmark|Frederick III]] [[Declaration of war|declared war]] on Sweden and marched on [[Bremen-Verden]]. This led to a massive Danish defeat, and the armies of King [[Charles X Gustav of Sweden]] conquered Jutland, Funen and much of Zealand before signing the [[Treaty of Roskilde|Peace of Roskilde]] in February 1658 which gave Sweden control of Skåne, [[Blekinge]], [[Trøndelag]] and the island of [[Bornholm]]. Charles X Gustav quickly regretted not having destroyed Denmark completely; in August 1658 he began a two-year long siege of [[Copenhagen]] but failed to take the capital. In the following peace settlement, Denmark managed to maintain its independence and regain control of Trøndelag and Bornholm.
+
+[[File:Grundlovgivende rigsforsamling - Constantin Hansen.jpg|thumb|''Den Grundlovsgivende Rigsforsamling'' (The Constitutional Assembly. The Assembly created The [[Constitution of Denmark|Danish constitution]]), 1860–1864 painting by [[Constantin Hansen]]]]
+Denmark tried to regain control of [[Scania]] in the [[Scanian War]] (1675–79), but it [[Peace of Lund|ended in failure]]. Following the [[Great Northern War]] (1700–21), Denmark [[Treaty of Frederiksborg|managed to restore]] control of the parts of [[Duchy of Schleswig|Schleswig]] and [[Holstein]] ruled by the house of [[Dukes of Holstein-Gottorp|Holstein-Gottorp]] in 1721 and 1773, respectively. Denmark prospered greatly in the last decades of the 18th century because its neutral status allowed it to trade with both sides in the many contemporary wars. In the [[Napoleonic Wars]], Denmark originally tried to pursue a policy of neutrality to continue the lucrative trade with both [[France]] and [[United Kingdom|Great Britain]] and joined the [[Second League of Armed Neutrality|League of Armed Neutrality]] with [[Russian Empire|Russia]], Sweden and [[Kingdom of Prussia|Prussia]].
+
+The [[United Kingdom of Great Britain and Ireland|British]] considered this a hostile act and attacked Copenhagen in both [[Battle of Copenhagen (1801)|1801]] and [[Battle of Copenhagen (1807)|1807]], in one case carrying off the [[Royal Danish Navy|Danish fleet]] and burning large parts of the Danish capital. These events mark the end of the prosperous ''Florissant Age''<!--Danish: den "florissante periode"--> and resulted in the Dano-British [[Gunboat War]]. British control over the waterways between Denmark and Norway proved disastrous to the union's economy; in 1813 [[Denmark–Norway|Denmark-Norway]] went [[bankruptcy|bankrupt]].
+
+The post-Napoleonic [[Congress of Vienna]] demanded the dissolution of the Dano-Norwegian union, and this was confirmed by the [[Treaty of Kiel]] in 1814. Denmark-Norway had briefly hoped to restore the Scandinavian union in 1809, but these hopes were dashed when the [[estates of the realm|estates]] of Sweden rejected a proposal to let [[Frederick VI of Denmark]] succeed the deposed [[Gustav IV Adolf of Sweden|Gustav IV Adolf]] and instead gave the crown to [[Charles XIII of Sweden|Charles XIII]]. Norway entered a new union with Sweden which lasted until 1905. Denmark kept the colonies of [[Iceland]], the [[Faroe Islands]] and [[Greenland]]. Apart from the Nordic colonies, Denmark ruled over [[Danish India]] from 1620 to 1869, the [[Danish Gold Coast]] from 1658 to 1850, and the [[Danish West Indies]] from 1671 to 1917.
+
+The Danish liberal and national movement gained momentum in the 1830s, and after the European [[Revolutions of 1848]] Denmark peacefully became a [[constitutional monarchy]] on 5 June 1849. After the [[Second Schleswig War|Second War of Schleswig]] (Danish: ''Slesvig'') in 1864, Denmark was forced to cede [[Province of Schleswig-Holstein|Schleswig and Holstein]] to [[Prussia]], in a defeat that left deep marks on the Danish national identity. After these events, Denmark returned to its traditional policy of neutrality, also keeping Denmark neutral in [[World War I]].
+
+===20th and 21st centuries===
+[[File:Tratado de Lisboa 13 12 2007 (081).jpg|thumb|Denmark became a founding member of the [[European Union]] in 1993 and signed the [[Lisbon Treaty]] in 2007.]] 
+
+Following the defeat of [[Germany]], the [[Treaty of Versailles|Versailles powers]] offered to return the region of Schleswig-Holstein to Denmark. Fearing German [[irredentism]], Denmark refused to consider the return of the area and insisted on a [[Referendum|plebiscite]] concerning the return of Schleswig. The two [[Schleswig Plebiscites]] took place on 10 February and 14 March 1920, respectively. On 10 July 1920 after the plebiscite and the king's signature (6 July) on the reunion document, King [[Christian X of Denmark|Christian X]] rode across the old border on a white horse, and [[South Jutland County|Northern Schleswig]] (Sønderjylland) was recovered by Denmark, thereby adding 163,600 inhabitants and 3,984&nbsp;km². The reunion day (Genforeningsdag) is celebrated every year on Valdemarsdag, 15 June.
+
+Germany's invasion of Denmark on 9 April 1940 – code named [[Operation Weserübung]] – met only two hours of military resistance before the Danish government surrendered. Economic co-operation between Germany and Denmark continued until 1943, when the Danish government refused further co-operation and [[Royal Danish Navy|its navy]] sank most of its ships and sent as many of their officers as they could to neutral Sweden. During the war, the government was helpful towards the Danish Jewish minority, and the Danish resistance performed a [[Rescue of the Danish Jews|rescue operation]] that managed to get most of them to Sweden and safety shortly before the Germans planned to round up the [[Danish Jews]]. Denmark led many "inside operations" or sabotage against the German facilities. Iceland severed ties to Denmark and became an independent republic, and in 1948, the [[Faroe Islands]] gained [[home rule]].
+
+After the war, Denmark became one of the founding members of the [[United Nations]] and [[NATO]], and in 1973, along with [[UK|Britain]] and [[Republic of Ireland|Ireland]], joined the [[European Economic Community]] (now the [[European Union]]) after a [[Danish European Communities membership referendum, 1972|public referendum]]. The [[Maastricht Treaty|Maastricht treaty]] was ratified after a further referendum in 1993 and the subsequent addition of concessions for Denmark under the [[Edinburgh Agreement]].
+[[Greenland]] gained [[home rule]] in 1979 and was awarded [[self-determination]] in 2009. Neither Greenland nor the Faroe Islands are members of the European Union, the Faroese declining membership in EEC from 1973 and Greenland from 1986, in both cases because of fisheries policies. [[Anders Fogh Rasmussen]], the former Prime Minister of Denmark, became Secretary General of NATO in 2009.
+
+Despite its modest size, Denmark has been participating in major military and humanitarian operations, most notably the UN and NATO led operations on [[Cyprus dispute|Cyprus]], [[Bosnian War|Bosnia and Herzegovina]], [[Korean War|Korea]], [[Suez Crisis|Egypt]], [[Croatian War of Independence|Croatia]], [[Kosovo War|Kosovo]], [[Ethiopia]], [[Iraq War|Iraq]], [[War in Afghanistan (2001–present)|Afghanistan]] and [[Somali Civil War|Somalia]].
+
+==Geography==
+{{Main|Geography of Denmark}}
+
+[[File:Da-map.png|right|thumb|Map of Denmark]]
+Denmark shares a border of 68 kilometres with [[Germany]] to the south and is otherwise surrounded by 7,314 kilometres of coastline. It occupies 43,094 square kilometres. Since 2000 Denmark has been connected by the [[Oresund Bridge|Øresund Bridge]] to southern Sweden.
+
+Denmark's northernmost point is [[Skagen]]s point (the north beach of the Skaw) at 57° 45' 7" northern latitude; the southernmost is [[Gedser]] point (the southern tip of [[Falster]]) at 54° 33' 35" northern latitude; the westernmost point is [[Blåvandshuk]] at 8° 4' 22" eastern longitude; and the easternmost point is [[Østerskær]] at 15° 11' 55" eastern longitude. This is in the archipelago [[Ertholmene]] 18&nbsp;kilometres northeast of [[Bornholm]]. The distance from east to west is {{convert|452|km|mi|0}}, from north to south {{convert|368|km|mi|0}}.
+
+Denmark consists of the [[List of peninsulas|peninsula]] of [[Jutland]] ''(Jylland)'' and 443 named [[island]]s (1,419 islands above 100&nbsp;m² in total).<ref>{{cite web|url=http://www2.kms.dk/C1256AED004EA666/(AllDocsByDocId)/1D7EE8822587E667C1256AEF0030ABF6?open&page=strste&omr=KORT_DK_I_TAL |title=Landet i tal&nbsp; – Største øer |accessdate=14 July 2007 |date=23 September 2003 |publisher=[[National Survey and Cadastre of Denmark]] }}</ref> Of these, 72 are inhabited,<ref>Statistikbanken.dk/bef4</ref> with the largest being [[Zealand (Denmark)|Zealand]] ''(Sjælland)'' and [[Funen]] ''(Fyn)''. The island of [[Bornholm]] is located east of the rest of the country, in the [[Baltic Sea]]. Many of the larger islands are connected by bridges; the [[Oresund Bridge|Øresund Bridge]] connects Zealand with Sweden; the [[Great Belt Fixed Link|Great Belt Bridge]] connects Funen with Zealand; and the [[Little Belt Bridge (1970)|Little Belt Bridge]] connects Jutland with Funen. [[Ferry|Ferries]] or [[small aircraft]] connect to the smaller islands. Main cities are the capital [[Copenhagen]] on Zealand; [[Aarhus|Århus]], [[Aalborg]] and [[Esbjerg]] in Jutland; and [[Odense]] on Funen.
+
+
+The country is flat with little elevation; having an average height [[above mean sea level|above sea level]] of {{convert|31|m|ft|0}}. The highest natural point is [[Møllehøj]], at {{convert|170.86|m|ft|2}}. Other hills in the same area southwest of [[Århus]] are [[Yding Skovhøj]] at {{convert|170.77|m|ft|2}} and [[Ejer Bavnehøj]] at {{convert|170.35|m|ft|2}}.<ref>{{cite journal|title=Danmarks nye top|journal=Aktuel Naturvidenskab |  first=Jørgen | last=Dahlgaard | volume=2005|issue=1|page=2|url = http://www.aktuelnat.au.dk/pdf05_1/an1top.pdf |archiveurl = http://web.archive.org/web/20080307040437/http://www.aktuelnat.au.dk/pdf05_1/an1top.pdf |archivedate = 7 March 2008|format=PDF|accessdate=3 February 2007|ref=harv}}</ref> The area of inland water is: (eastern Denmark) {{convert|210|km2|sqmi|0|abbr=on}}; (western D.) {{convert|490|km2|sqmi|0|abbr=on}}.
+
+[[File:Yding skovhøj burial mound.JPG|thumb|upright|A forest burial ground in [[Yding Skovhøj]], one of Denmark's highest points]]
+Denmark's coastline is, {{convert|7314|km|mi|0|abbr=on}}.<ref name='Nature&Environment'>{{cite web|url=http://denmark.dk/portal/page?_pageid=374,520337&_dad=portal&_schema=PORTAL|archiveurl=http://web.archive.org/web/20070403235436/http://denmark.dk/portal/page?_pageid=374,520337&_dad=portal&_schema=PORTAL|archivedate=3 April 2007 |title=Nature & Environment |accessdate=3 February 2007 |work=Denmark.dk }}</ref> No location in Denmark is further from the coast than {{convert|52|km|mi|0|abbr=on}}. The size of the land area of Denmark cannot be stated exactly since the ocean constantly erodes and adds material to the coastline, and because of human [[land reclamation]] projects (to counter erosion). On the southwest coast of Jutland, the tide is between {{convert|1|and|2|m|ft|2|abbr=on}}, and the tideline moves outward and inward on a {{convert|10|km|mi|1|abbr=on}} stretch.<ref>Nationalencyklopedin, (1990)</ref>
+
+[[Phytogeography|Phytogeographically]], Denmark (including Greenland and the Faroe Islands) belongs to the [[Boreal Kingdom]] and is shared between the [[Arctic]], Atlantic European and [[Central Europe]]an provinces of the [[Circumboreal Region]]. According to the [[World Wide Fund for Nature]], the territory of Denmark can be subdivided into two [[ecoregion]]s: the Atlantic mixed forests and Baltic mixed forests. The Faroe Islands are covered by the Faroe Islands boreal grasslands, while Greenland hosts the ecoregions of Kalaallit Nunaat high arctic tundra and Kalaallit Nunaat low arctic tundra.
+
+===Climate===
+[[File:138687main image feature 458 northeurope.jpg|left|thumb|Denmark seen from space]]
+The climate is in the [[Temperateness|temperate zone]]. The winters are not particularly cold, with mean temperatures in January and February of 0.0&nbsp;°C, and the summers are cool, with a mean temperature in August of 15.7&nbsp;°C.<ref name="Denmark climate">{{cite web | url=http://www.dmi.dk/dmi/index/danmark/oversigter/klimanormaler.htm | title=Climate Normals for Denmark | accessdate=28 October 2008 | work=[[Danish Meteorological Institute]]}} Figures, labeled in Danish: First plot is the whole country; Nedbør=Precipitation, Nedbørdage=Precipitation days (>1 mm), (Dag/Middel/Nat)temp.=(Daytime/Average/Nighttime) temperature, Solskinstimer=Hours of sunshine.</ref> Denmark has an average of 121 days per year with precipitation, on average receiving a total of 712&nbsp;mm per year; autumn is the wettest season and spring the driest.<ref name="Denmark climate" />
+
+[[File:Skagen aka the skaw northmost point of denmark 6th_may_2006.jpg|thumb|[[Grenen]] near [[Skagen]], Denmark's northmost point]]
+Because of Denmark's northern location, the length of the day with [[sunlight]] varies greatly. There are short days during the winter with sunrise coming around 9:00&nbsp;am and sunset 4:30&nbsp;pm, as well as long summer days with sunrise at 4:00&nbsp;am and sunset at 10&nbsp;pm<ref name="sunrise sunset">{{cite web| url =http://www.gaisma.com/en/location/kobenhavn.html| title =Copenhagen, Denmark&nbsp; – Sunrise, sunset, dawn and dusk times for the whole year| work =Gaisma| accessdate =2 May 2006}}</ref> The shortest and longest days of the year have traditionally been celebrated. The celebration for the [[Winter solstice|shortest day]] corresponds roughly with [[Christmas]] (Danish: ''jul''), and modern celebrations concentrate on [[Christmas Eve]], 24 December. The Norse word ''jól'' is a plural, indicating that pre-Christian society celebrated a season with multiple feasts.<ref>Store Danske Encyklopædi (2004), CD-ROM edition, entry ''Jul''.</ref> Christianity introduced the celebration of Christmas, resulting in the use of the Norse name also for the Christian celebration. Efforts by the Catholic Church to replace this name with ''kristmesse'' were unsuccessful. The celebration for the longest day is [[Midsummer|Midsummer Day]], which is known in Denmark as ''sankthansaften'' (''St. [[John the Baptist|John's]] evening'')<!--Don't change the link. Sankt Hans = Johannes Døberen = Saint John the Baptist. The name "Hans" is a former Danish practice of shortening foreign names-->.<ref>Store Danske Encyklopædi (2004), CD-ROM edition, entry ''Sankthansaften''</ref> Celebrations of Midsummer have taken place since pre-Christian times.<ref>Store Danske Encyklopædi (2004), CD-ROM edition, entry ''Majskikke''.</ref>
+
+===Environment===
+Denmark has historically taken a progressive stance on [[environmental preservation]]; in 1971 Denmark established a Ministry of Environment and was the first country in the world to implement an [[environmental law]] in 1973.
+
+To mitigate environmental degradation and [[global warming]] the Danish Government has signed the following international agreements:
+Antarctic Treaty; [[Kyoto Protocol|Climate Change-Kyoto Protocol]]; [[Endangered Species Act]]<ref name="factbook">{{cite web| date =23 January 2008| url =https://www.cia.gov/library/publications/the-world-factbook/geos/da.html|title=Denmark| work =The World Factbook| publisher =CIA| accessdate=3 February 2007}}</ref> These agreements have helped in the reduction in CO<sub>2</sub> emissions by Denmark.
+
+Denmark was ranked as the 10th best country in the world for "Living Green" by a 2007 [[Readers Digest]] survey.,<ref>{{cite web|last=Kahn |first=Matthew E. |url=http://www.rd.com/your-america-inspiring-people-and-stories/best-places-to-live-green/article45734.html |title=Living Green: Full Country and City Rankings: Countries Overall &#124; Your America &#124; Reader's Digest |publisher=Rd.com |accessdate=5 May 2009}}</ref> and [[Copenhagen]] is recognised as one of the most [[environmentally friendly]] cities in the world.<ref>{{cite web|url=http://www.grist.org/article/cities3/|title=15 green cities|publisher=grist|accessdate=5 January 2009}}</ref> Much of the city's success can be attributed to a strong municipal policy combined with a sound [[National Policy|national policy]], in 2006 Copenhagen Municipality received the ''European Environmental Management Award''.<ref>{{cite web|url=http://www.dhigroup.com/News/NewsArchive/2006/CopenhagenReceivesEuropeanEnvironmentalAward.aspx|title=Copenhagen Receives European Environmental Award|publisher=grist|accessdate=5 January 2009}}</ref> The award was given for long-term holistic [[environmental planning]]. Recently many of Denmarks smaller Municipalities such as [[Lolland]] and [[Bornholm]] have also become environmental leaders. Denmark is home to five of the world's ten largest [[central solar heating]] plants (CSHP). The world's largest CSHP is situated in the small community of Marstal on the island of [[Ærø]].
+
+Copenhagen is the spearhead of the [[bright green environmentalism|bright green]] [[environmental movement]] in Denmark. In 2008, Copenhagen was mentioned by [[Clean Edge]] as one of the key [[cleantech]] clusters to watch in the book ''The Cleantech Revolution''. The city is the focal point for more than half of Denmark's 700 cleantech companies and draws on some 46 research institutions. The cluster employs more than 60,000 people and is characterised by a close collaboration between universities, business and governing institutions. The capital's most important cleantech research institutions are the [[University of Copenhagen]], [[Copenhagen Business School]],<ref>{{cite web | title = The win-win ways of Cleantech business | publisher = CBS Observer | date = 26 March 2009 | url = http://cbsobserver.dk/win-win-ways-cleantech-business | accessdate = 24 July 2009}}</ref> [[Risø DTU National Laboratory for Sustainable Energy]] and the [[Technical University of Denmark]] which Risø is now part of. Leading up to the [[2009 United Nations Climate Change Conference]] the University of Copenhagen held the [[Climate Change: Global Risks, Challenges and Decisions]] conference where the need for comprehensive action to mitigate [[climate change]] was stressed by the international [[scientific community]]. Notable figures such as [[Rajendra K. Pachauri]], Chairman of the IPCC, Professor [[Nicholas Stern, Baron Stern of Brentford|Nicholas Stern]], author of the [[Stern Review|Stern Report]] and Professor [[Daniel Kammen]] all emphasised the good example set by Copenhagen and Denmark in capitalising on cleantech and achieving [[economic growth]] while stabilising [[Greenhouse gas|carbon emissions]].
+
+Denmark's green house gas emissions per dollar of value produced has been for the most part unstable since 1990, seeing sudden growths and falls. Overall though, there has been a reduction in gas emissions per dollar value added to its market.<ref>{{cite web|url=http://www02.wolframalpha.com/input/?i=denmark+green+house+gas+emission+per+denmark+gdp |title=Denmark – Wolfram Alpha |publisher=2.wolframalpha.com |accessdate=20 August 2009}}</ref> It is comparable to countries such as Germany,<ref>{{cite web|url=http://www02.wolframalpha.com/input/?i=Germany+green+house+gas+emission+per+Germany+gdp |title=Germany – Wolfram Alpha |publisher=2.wolframalpha.com |accessdate=20 August 2009}}</ref> but lagging behind other Scandinavian countries such as Norway<ref>{{cite web|url=http://www03.wolframalpha.com/input/?i=norway+green+house+gas+emission+per+norway+GDP |title=Norway – Wolfram Alpha |publisher=3.wolframalpha.com |accessdate=20 August 2009}}</ref> and Sweden.<ref>{{cite web|url=http://www03.wolframalpha.com/input/?i=Sweden+green+house+gas+emission+per+Sweden+GDP |title=Sweden – Wolfram Alpha |publisher=3.wolframalpha.com |accessdate=8 July 2009}}</ref>
+
+===Administrative divisions===
+{{Main|Regions of Denmark|Municipalities of Denmark}}
+:''For the administrative divisions used until 2006, see [[Counties of Denmark]].''
+
+Denmark is divided into five [[regions of Denmark|regions]] ({{lang-da|regioner}}, singular: ''region'') and a total of 98 [[List of municipalities of Denmark|municipalities]]. The regions were created on 1 January 2007 as part of the 2007 Danish Municipal Reform to replace the country's traditional thirteen [[Counties of Denmark|counties]] (''[[amt (administrative division)|amter]]''). At the same time, smaller municipalities (''[[Township|kommuner]]'') were merged into larger units, cutting the number of municipalities from 270 to 98. The most important area of responsibility for the new regions is the national health service. Unlike the former counties, the regions are not allowed to levy taxes, and the [[health care|health service]] is primarily financed by a national 8% (''sundhedsbidrag'') tax combined with funds from both government and municipalities. Each Regional Council consists of 41 elected politicians elected as part of the 2005 Danish municipal elections.
+
+Most of the new municipalities have a population of at least 20,000 people, although a few exceptions were made to this rule.
+
+The [[Ertholmene]] [[archipelago]] (96 inhabitants (2008)) is neither part of a municipality nor a region but belongs to the [[Ministry of Defence (Denmark)|Ministry of Defence]].<ref>{{cite news | first=Jonas | last=Michael Kjær | title=Christiansø betaler ikke sundhedsbidrag | date=15 November 2006 | url =http://www.dr.dk/Regioner/Bornholm/Nyheder/Christiansoe/2006/11/15160130.htm | work =dr.dk | accessdate = 12 August 2007}}{{da icon}}</ref>
+
+Greenland and the Faroe Islands have autonomous status and are largely [[Self-governance|self-governing]]; each is represented by two seats in the parliament.
+
+{| class="wikitable sortable"
+|- style="background:#ececec;"
+! Country
+! Population
+! Area<br />(km²)
+! Density<br />(pop per km²)
+|-
+|{{flagicon|Denmark}} Denmark
+| align=right | 5,557,709
+| align=right | 43,098
+| align=right | 129
+|-
+|{{flagicon|Faroe Islands}} [[Faroe Islands]]
+| align=right | 48,797
+| align=right | 1,399
+| align=right | 35
+|-
+|{{flagicon|Greenland}} [[Greenland]]
+| align=right | 57,564
+| align=right | 2,175,600
+| align=right | 0.026
+|-
+|{{flagicon|Denmark}} [[Kingdom of Denmark]]
+| align=right | 5,664,070
+| align=right | 2,220,097
+| align=right | 2.6
+|}
+
+==Politics==
+{{Main|Politics of Denmark|Government of Denmark}}
+[[File:The Danish Commonwealth.gif|thumb|Denmark and its dependencies ([[Greenland]] and the [[Faroe Islands]])]]
+The Kingdom of Denmark is a [[constitutional monarchy]]. As stipulated in the [[Constitution of Denmark|Danish Constitution]], the monarch is not answerable for their actions, and their person is sacrosanct. The monarch formally appoints and dismisses the [[prime minister]] and other ministers. The prime minister is customarily chosen through negotiation between the parliament party leaders.
+
+Before being validated through [[Royal Assent|royal assent]], all bills and important government measures must be discussed in [[Danish Council of State|''Statsrådet'']], a [[privy council]] headed by the monarch. The Danish privy council's protocols are secret. Although the monarch is ''formally'' given [[executive (government)|executive power]] this power is strictly ceremonial. The monarch is expected to be entirely apolitical and refrain from influencing the government.<ref>{{harvnb|Gammelgaard|Sørensen|1998|p=36.}}</ref> For example, members of the royal family do not cast their votes in elections and referendums even though they have the right.
+
+Legislative authority is vested in the executive (prime minister) and the Danish parliament conjointly. Judicial authority lies with the courts of justice.<ref>{{harvnb|Gammelgaard|Sørensen|1998|p=18.}}</ref>
+
+[[File:Monarchy Of Denmark April 2010.jpg|thumb|left|The royal family of Denmark]]
+Executive authority is exercised on behalf of the monarch by the [[Prime Minister of Denmark|prime minister]] and other [[Cabinet of Anders Fogh Rasmussen II|cabinet ministers]] who head departments. The cabinet, prime minister and other ministers collectively make up the government. These ministers are responsible to [[Folketing]]et (the Danish Parliament), the [[legislature|legislative body]], which is traditionally considered to be supreme (that is, able to legislate on any matter and not bound by decisions of its predecessors).
+
+The ''Folketing'' is the national legislature. It has the ultimate legislative authority according to the doctrine of [[parliamentary sovereignty]], however questions over [[sovereignty]] have been brought forward because of Denmark’s entry into the [[European Union]]. In theory the doctrine prevails. Parliament consists of 175 members elected by proportional majority, plus two members each from Greenland and Faroe Islands.<ref>{{harvnb|Jørgensen|1995|p=16.}}</ref> Parliamentary elections are held at least every four years, but it is within the powers of the prime minister to ask the monarch to call for an election before the term has elapsed. On a [[Motion of no confidence|vote of no confidence]], the parliament may force a single minister or the entire government to resign.
+
+The Danish political system has traditionally generated coalitions. Most Danish post-war governments have been minority coalitions ruling with the support of non-government parties.<ref>{{cite web|url=http://www.berlingske.dk/article/20070617/dineord/106171178/|title=Radikale ved historisk skillevej|publisher=[[Berlingske Tidende]]|date=17 June 2007|accessdate=17 August 2007}}</ref>
+
+[[File:Lars Løkke Rasmussen foran Amalienborg 7_april_2009.JPG|thumb|upright|[[Prime Minister of Denmark]], [[Lars Løkke Rasmussen]].]]
+[[Anders Fogh Rasmussen]] from the [[Venstre (Denmark)|Venstre]] party, a [[Centre-right|center-right]] liberal party was prime minister from November 2001 to April 2009. His government was a coalition consisting of Venstre and the [[Conservative People's Party (Denmark)|Conservative People's Party]], with parliamentary support from the national-conservative [[Danish People's Party]] (Dansk Folkeparti). The three parties obtained a parliamentary majority in the [[Danish parliamentary election, 2001|2001 election]] and maintained it virtually unchanged in the [[Danish parliamentary election, 2005|2005 election]]. On 24 October 2007, an early [[Danish parliamentary election, 2007|election]] was called by the Prime Minister for 13 November. Following the election the Danish People's Party was strengthened while Anders Fogh Rasmussen's Venstre lost 6 seats and the Conservative People's Party retained the same number of seats in Parliament as prior to the election. The result ensured that Anders Fogh Rasmussen could continue as prime minister for a third term.
+
+From the autumn of 2008 rumours persisted that Anders Fogh Rasmussen aspired to head [[NATO]]. On 4 April 2009, during a NATO summit in [[Strasbourg]], Rasmussen confirmed these speculations. Opposition within NATO, especially from [[Turkey]], was overcome, and Rasmussen was appointed [[Secretary General of NATO]].
+
+On 5 April 2009, Rasmussen resigned, leaving [[finance minister|minister of finance]] and vice president of Venstre [[Lars Løkke Rasmussen]] to be the new prime minister.
+
+===Military===
+{{Main|Danish Defence|Military history of Denmark}}
+[[File:Absalon.jpg|thumb|right|[[HDMS Absalon (L16)|HMDS Absalon]].]]
+Denmark's [[armed forces]] are known as the Danish Defence ({{lang-da|Forsvaret}}). During peacetime, the [[Ministry of Defence (Denmark)|Ministry of Defence in Denmark]] employs around 33,000 in total. The main military branches employ almost 27,000: 15,460 in the [[Danish Army|Royal Danish Army]], 5,300 in the [[Royal Danish Navy]] and 6,050 in the [[Royal Danish Air Force]] (all including conscripts).
+
+The [[Danish Emergency Management Agency]] ({{lang-da|Beredskabsstyrelsen}}) employs 2,000 (including conscripts), and about 4,000 are in non-branch-specific services like the [[Defence Command (Denmark)|Danish Defence Command]], the [[Danish Defence Research Establishment]] and the [[Danish Defence Intelligence Service]]. Furthermore around 55,000 serve as volunteers in the [[Home Guard (Denmark)|Danish Home Guard]] ({{lang-da|Hjemmeværnet}}).
+
+The Danish Defence has around 1,400<ref>{{cite web|url=http://forsvaret.dk/FMN/Verdenskort/ |archiveurl=http://web.archive.org/web/20071227125607/http://forsvaret.dk/FMN/Verdenskort/ |archivedate=27 December 2007 |title=Forsvarsministerens Verdenskort |publisher=Web.archive.org |date=27 December 2007 |accessdate=20 August 2009}}</ref> staff in international missions, not including standing contributions to [[Standing NRF Mine Countermeasures Group 1|NATO SNMCMG1]]. The three largest contributions are in [[Afghanistan]] ([[International Security Assistance Force|ISAF]]), [[Kosovo]] ([[Kosovo Force|KFOR]]) and [[Lebanon]] ([[United Nations Interim Force in Lebanon|UNIFIL]]). Between 2003 and 2007, there were approximately 450 Danish soldiers in [[Iraq]].<ref>{{cite web|url=http://english.aljazeera.net/news/middleeast/2007/02/200852514261678446.html |title=Denmark follows UK Iraq pullout |publisher=Al Jazeera English |date=21 February 2007 |accessdate=20 August 2009}}</ref>
+
+==Economy==
+{{Main|Economy of Denmark}}
+
+Denmark's [[mixed economy]] features above average European [[standard of living|living standards]]<ref>[http://hdr.undp.org/en/media/hdr_20072008_en_complete.pdf UNDP.org] Human Development Report 2007/2008</ref><ref>[[List of countries by Human Development Index]]List of countries by Human Development Index</ref> and high amount of free trade. Denmark ranks 16th in the world in terms of [[List of countries by GDP (PPP) per capita|GDP (PPP) per capita]] and ranks 5th in [[List of countries by GDP (nominal) per capita|nominal GDP per capita]].
+
+According to [[World Bank Group]], Denmark has the most flexible [[labour economics|labour market]] in Europe; the policy is called [[flexicurity]]. It is easy to hire, fire and find a job. Denmark has a [[labour force]] of about 2.9&nbsp;million. Denmark has the fourth highest ratio of [[tertiary education|tertiary degree]] holders in the world.<ref>[http://www.uis.unesco.org/template/pdf/ged/2009/GED_2009_EN.pdf UNESCO 2009 Global Education Digest], Shared fourth with Finland at a 30.3% ratio. Graph on p28, table on p194.</ref> [[List of countries by GDP (PPP) per hour worked|GDP per hour worked]] was the 13th highest in 2009. Denmark has [[List of countries by income equality|the world's lowest level of income inequality]], according to the UN, and [[List of minimum wages by country|the world's highest minimum wage]], according to the IMF. As of June 2010 the unemployment rate is at 6.6%, which is below the EU average of 9.6%.<ref>[http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&language=en&pcode=teilm020&tableSelection=1&plugin=1 Harmonised unemployment rate by gender Totals] Eurostat</ref>
+
+Denmark is one of the most competitive economies in the world according to [[World Economic Forum]] 2008 report, IMD and [[The Economist]].<ref>{{cite web|url=http://www.investindk.com/visArtikel.asp?artikelID=14338 |title=In the Media |publisher=Investindk.com |accessdate=5 May 2009}}</ref> According to rankings by OECD, Denmark has the most free [[financial market]]s in EU-15 and also one of the most free [[product market]]s.
+
+[[File:Euro accession.svg|thumb|Denmark is part of the Schengen Area and the EU single market.]]
+
+Denmark has a [[Corporate tax|company tax]] rate of 25% and a special time limited tax regime for expatriates.<ref>[http://www.investindk.com/visArtikel.asp?artikelID=9015 Business Environment], Invest in Denmark</ref> The Danish taxation system is both broad based (25% VAT, not including excise, duty and tax) and has the world's highest [[income tax]].
+
+Denmark's national currency, the ''[[Danish krone|krone]]'' (plural: kroner), is [[de facto]] linked to the [[Euro]] through the [[European Exchange Rate Mechanism|ERM]].<ref name=denmarkandtheeuro>{{cite web|url=http://www.nationalbanken.dk/DNUK/Euro.nsf/side/Denmark_and_the_euro!OpenDocument |title=Denmark and the euro |accessdate=3 February 2007 |date=17 November 2006 |publisher=[[Danmarks Nationalbank]] }}</ref> The exchange rate is [[Fixed exchange rate|pegged]] at approximately 7.46 kroner per euro. While Denmark in a [[Danish euro referendum, 2000|September 2000 referendum]] rejected replacing the Danish kroner with the euro, the country in practice follows the policies set forth in the [[Economic and Monetary Union of the European Union]] (EMU) and meets the economic [[Euro convergence criteria|convergence criteria]] for participating in the third phase (the Euro) of the EMU. The majority of the political parties in the parliament are for the Euro, but as yet a new referendum has not been held, despite plans;<ref>{{cite news | title= Denmark to have second referendum on euro | date=22 November 2007 | url=http://euobserver.com/9/25202| accessdate = 22 November 2007}}</ref> skepticism of the EU among Danish voters has historically been strong.
+
+Denmark is known from the [[Danish cooperative movement]] within among others farming, the [[food industry]] ([[Danish Crown AmbA|Danish Crown]]), dairy production ([[Arla Foods]]), retailing ([[Brugsen]]), [[Community wind energy|wind turbine cooperative]]s and co-housing associations.
+
+Support for [[free trade]] is high – in a 2007 poll 76% responded that globalisation is a good thing.<ref>[http://www.time.com/time/magazine/article/0,9171,1684528,00.html Why Denmark Loves Globalisation], Time Magazine</ref> 70% of trade flows are inside the European Union. Denmark has the 9th highest [[List of countries by exports per capita|export per capita in the world]]. Main exports include: machinery, animals and foodstuff, chemicals and oil and gas.<ref>{{cite web|author=Danish Exporters |url=http://www.danishexporters.dk/scripts/danishexporters/export.asp |title=Danish Export-Import – Denmark’s International Trade and Main Export Markets |publisher=Danish Exporters |year=2008 |accessdate=29 October 2009}}</ref> Denmark is a net exporter of food and energy and has for a number of years had a [[balance of payments]] surplus while battling an equivalent of approximately 39% of GNP [[External debt|foreign debt]] or more than 300&nbsp;billion DKK.<ref>{{cite web|url=http://www.dSt.dk/aarbogstabel/407|title=Statens Gæld og Låntagning |publisher=Statistics Denmark}}</ref> Also of importance is the sea territory of more than 105,000&nbsp;km² (40,000+ sq mi).
+
+Denmark has ranked as the world's 11th most free economy, of 162 countries, in an index created by the [[Wall Street Journal]] and [[The Heritage Foundation|Heritage Foundation]], the [[Index of Economic Freedom]] 2008. The Index has been categorised as using inappropriately weighted indicators for [[economic freedom]], leading to wealthy and/or conservative countries with [[trade barrier|barriers to trade]] placing high on the list, while poor and/or [[List of socialist countries|socialist countries]] with fewer restrictions on trade place low.<ref>{{cite web|last=Miller |first=John |url=http://www.dollarsandsense.org/archives/2005/0305miller.html |title=John Miller, at Dollars & Sense |publisher=Dollarsandsense.org |date=4 January 2005 |accessdate=20 August 2009}}</ref> The Index has only a 10% [[correlation and dependence|statistical correlation]] with a standard measure of economic growth at [[Gross domestic product|GDP per capita]].<ref>{{cite web|url=http://www.leftbusinessobserver.com/FreedomIndex.html |title=Comparisons of Index of Economic Freedom with GDP/capita |publisher=Leftbusinessobserver.com |date=26 March 2005 |accessdate=20 August 2009}}</ref> Neither does the Index account for the actions of governments to nurture business<ref>{{cite web|last=Miller |first=John |url=http://www.dollarsandsense.org/archives/2005/0305miller.html |title=John Miller at Dollars & Sense |publisher=Dollarsandsense.org |date=4 January 2005 |accessdate=20 August 2009}}</ref> in the manner of the Japanese [[Zaibatsu]]s during the late 20th century that helped lead to the [[Japanese post-war economic miracle|Japanese economic miracle]].
+
+[[StatBank]] is the name of a large statistical database maintained by the central authority of statistics in Denmark. Online distribution of statistics has been a part of the dissemination strategy in Denmark since 1985. By this service, Denmark is a leading country in the world regarding electronic dissemination of statistics. There are about 2&nbsp;million hits every year.
+
+===Energy===
+[[File:DanishWindTurbines.jpg|thumb|Offshore wind turbines near [[Copenhagen]]]]
+{{See also|Nordic energy market|Coal power in Denmark|Wind power in Denmark}}
+
+Denmark has considerable sources of oil and [[natural gas]] in the [[North Sea]] and ranks as number 32 in the world among net exporters of [[Petroleum|crude oil]].<ref>{{cite web|url=http://tonto.eia.doe.gov/country/country_energy_data.cfm?fips=DA |title=EIA – International Energy Data and Analysis for Denmark |publisher=Tonto.eia.doe.gov |date=15 May 2009 |accessdate=29 May 2009}}</ref> Most electricity is produced from coal, but Denmark also has a share of windpower. Wind turbines produce 16–19% of electricity demand.<ref name="ens.dk">from www.ens.dk</ref> Denmark is connected by transmission lines to other European countries.
+
+To encourage investment in [[wind power]], families were offered a [[tax exemption]] for generating their own electricity within their own or an adjoining commune. While this could involve purchasing a turbine outright, more often families purchased shares in [[wind turbine]] cooperatives which in turn invested in community wind turbines. By 2004 over 150,000 Danes were either members of cooperatives or owned turbines, and about 5,500 turbines had been installed, although with greater private sector involvement the proportion owned by cooperatives had fallen to 75%.
+
+Because of energy taxes, Denmark has the highest household electricity prices in the world,<ref>[http://www.eia.doe.gov/emeu/international/elecprih.html Electricity Prices for Households] Energy information administration</ref> while industries pay just below EU average.<ref name="ens.dk"/>
+
+===Transport===
+{{Main|Transport in Denmark}}
+[[File:Oeresund Bridge.jpg|thumb|left|[[Oresund Bridge]] from Denmark to Sweden. On the right is the artificial island [[Peberholm]] and on the left [[Saltholm]].]]
+
+Significant investment has been made in building road and rail links between [[Copenhagen]] and [[Malmö]], [[Sweden]] (the [[Oresund Bridge|Øresund Bridge]]), and between [[Zealand (Denmark)|Zealand]] and [[Funen]] (the [[Great Belt Fixed Link]]). The [[Copenhagen Malmö Port]] was also formed between the two cities as the common port for the cities of both nations.
+
+The main [[railway]] operator is [[DSB (railway company)|Danske Statsbaner]] (Danish State Railways) for passenger services and [[DB Schenker Rail]] for goods trains. The [[railway tracks]] are maintained by [[Banedanmark]]. Copenhagen has a small Metro system, the [[Copenhagen Metro]] and the greater Copenhagen area has an extensive electrified suburban railway network, the [[S-train]].
+
+[[File:Copenhagen-Central-Station-Kobenhavn-H.JPG|thumb|right|Copenhagen Central Station with S-Trains]]
+
+Denmark's [[Flag carrier|national airline]] (together with Norway and Sweden) is [[Scandinavian Airlines]] (SAS), and [[Copenhagen Airport]] is the country's largest airport and also the [[List of the largest airports in the Nordic countries|biggest hub]] in Scandinavia.
+
+A ferry link to the [[Faroe Islands]] is maintained by [[Smyril Line]]. Other international ferry services are mainly operated by [[DFDS]] (to Norway and the UK). [[Scandlines]] (to Germany and Sweden), [[Stena Line]] (to Norway and Sweden), Color Line (to Norway) and FjordLine (to Norway).
+
+Private vehicles are increasingly used as a [[Mode of transport|means of transport]]. Because of the high registration tax (180%) and VAT (25%), and the world's highest income tax rate, new cars are very expensive. The purpose of the tax is to discourage car ownership. Whether a smaller fleet of aging cars is better than a larger fleet of modern cars is a matter for debate, however as the car fleet has increased by 45% over the last 30 years the effect of high taxation on the fleet size seems small.
+
+In 2007, an attempt was made by the government to favour environmentally friendly cars by slightly reducing taxes on high mileage vehicles. However, this has had little effect, and in 2008 Denmark experienced an increase in the import of fuel inefficient old cars (mostly older than 10 years),<ref>{{cite news | title = Tyske miljøzoner sender gamle biler til Danmark | date = 9 January 2009 | url = http://politiken.dk/indland/ECE626918/tyske-miljoezoner-sender-gamle-biler-til-danmark/ | work = Politiken.dk | accessdate = 29 November 2010 | language = Danish}}</ref> primarily from Germany as their costs including taxes keeps these cars within the budget of many Danes.
+
+Denmark is in a strong position in terms of integrating fluctuating and unpredictable energy sources such as wind power in the grid. It is this knowledge that Denmark now aims to exploit in the transport sector by focusing on intelligent battery systems ([[Vehicle-to-grid|V2G]]) and [[Electric vehicle|plug-in vehicles]].<ref>{{cite web|url=http://www.energymap.dk/Technology-Areas/Intelligent-Energy/Plug-in-and-Electrical-Vehicles |title=Plug-in and Electrical Vehicles |publisher=EnergyMap.dk |accessdate=10 October 2009}}</ref><ref>{{cite web|url=http://www.energymap.dk/Profiles/Department-of-Energy-Technology-Aalborg-University/Projects/The-Future-High-Efficiency-Electric-Car--Integrate |title=The Future High-Efficiency Electric Car, Integrated into the Electricity Supply Network |publisher=EnergyMap.dk |accessdate=10 October 2009}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+===Public policy===
+{{See also|Nordic model|Flexicurity}}
+
+After deregulating the labour market in the 1990s, Denmark has one of the most free labour markets in European countries. According to World Bank labour market rankings, the labour market flexibility is at the same levels as the [[United States]]. Around 80% of employees belong to unions and the unemployment funds that are attached to them, but the percentage is falling. Labour market policies is mainly determined in negotiations between the workers' unions and employers' unions, and the government only interferes if labour strikes extend for too long.
+
+Despite the success of the [[trade union]]s, a growing number of people make contracts individually rather than collectively, and many (four out of ten employees) are contemplating dropping especially unemployment fund but occasionally even union membership altogether. The average employee receives a benefit at 47% of their [[wage|wage level]] if they have to claim benefits when unemployed. With low unemployment, very few expect to be claiming benefits at all. The only reason then to pay the earmarked money to the unemployment fund would be to retire early and receive [[retirement|early retirement]] pay (''efterløn''), which is possible from the age of 60 provided an additional earmarked contribution is paid to the unemployment fund.<ref>{{cite web|url=http://www.ugebreveta4.dk/2008/200826/Baggrundoganalyse/LoenmodtagereKlarTilNyeDagpengeregler.aspx |title=LO's ugebrev/2008 |publisher=Ugebreveta4.dk |accessdate=20 August 2009}}</ref>
+
+The [[unemployment|unemployment rate]] for December 2007 was 2.7%, for a total of 74,900 persons, a reduction by 112,800 persons—2,400 per month—or 60% since December 2003.<ref>{{cite web|url=http://www.dst.dk/pukora/epub/Nyt/2008/NR031.pdf|title=Ledigheden faldt til 2,7 pct. |publisher=Statistics Denmark|format=PDF|accessdate=24 July 2009}}</ref> The [[Eurostat]] unemployment number for August 2008 is 2.9%. This has been achieved by employing more than 38% (800,000 people)<ref>[http://www.dst.dk/Statistik/seneste/Arbejdsmarked/ATP.aspx DST.dk], Beskæftigelsesindikator på grundlag af ATP-indbetalinger. In June 2008 unemployment hit a new low of only 1.6%. This rate has been dropping continuously since December 2003, when 170,700 were unemployed.</ref> of the total workforce <!--(calculated on a full time basis;total hours actually worked in public sector much lower(paid lunch alone is 130 hours yearly(=3.5 weeks full-time work in the private sector)))--> in public sector jobs. Another measure of the situation on the labour market is the [[employment rate]], that is the percentage of people aged 15 to 64 in employment out of the total number of people aged 15 to 64. The employment rate for Denmark in 2007 was 77.1% according to Eurostat. Of all countries in the world, only [[Switzerland]] with 78.% and [[Iceland]] with 85.1% had a higher employment rate.
+
+In December 2008, [[Statistics Denmark]] reported that 100,000 Danes were affected by unemployment in the third quarter of 2008. Of these, 62% received a job within two months, and 6% had been unemployed for two years or more.
+
+The number of unemployed is forecast to be 65,000 in 2015. The number of people in the [[Legal working age|working age]] group, less disability pensioners etc., will grow by 10,000 to 2,860,000, and jobs by 70,000 to 2,790,000;<ref>{{cite book |last=Madsen |first=Bjarne |coauthors=Svend Lundtorp |title=Arbejdsmarkedet på Sjælland og øerne i 2015 |page = 10|year=2006 |publisher=Akf forlaget | url = http://www.akf.dk/udgivelser/2006/pdf/arbejdsmarkedet_sjaelland_oeer.pdf/ |accessdate= 3 February 2007|isbn=87-7509-801-6}}</ref> [[Part-time|part time]] jobs are included.<ref>Statistikbanken.dk, tables AB513+ BESK11+12+13.</ref> Because of the present high demand and short supply of skilled labour, for instance for factory and service jobs, including hospital nurses and physicians, the annual average [[working time|working hours]] have risen, especially compared with the [[recession]] 1987–1993.<ref name='"BusinessDK"'>{{cite news | first=Jens | last=Nüchel | coauthors= Lars Erik Skovgaard | title=Danskere arbejder mere og mere | date=13 December 2006 | publisher=[[Berlingske Tidende]] | url =http://www.business.dk/karriere/artikel:aid=2014652 | archiveurl =http://web.archive.org/web/20071011104002/http://www.business.dk/karriere/artikel:aid=2014652 | archivedate =11 October 2007 | work =Business.dk | accessdate = 3 February 2007}}</ref> Increasingly, service workers of all kinds are in demand, i.e. in the [[Mail|postal services]] and as bus drivers, and academics.<ref name=autogenerated1>{{cite news | first=Annette | last=Bonde | title= Virksomheder foretrækker tysk arbejdskraft | date=24 September 2007 | publisher=[[Berlingske Tidende]] | url =http://www.business.dk/article/20070923/karriere/109231065/ | work=Business.dk | accessdate = 23 September 2007}}</ref> In the fall of 2007, more than 250,000 foreigners are working in the country, of which 23,000 still reside in Germany or Sweden.<ref>{{cite web|url=http://politiken.dk/erhverv/article441694.ece |title=Udlændinge passer hvert 10. job |language={{da icon}} |publisher=Politiken.dk |date=19 June 2009 |accessdate=20 August 2009}}</ref> According to a sampling survey of over 14,000 enterprises from December 2007 to April 2008 39,000 jobs were not filled, a number much lower than earlier surveys, confirming a downturn in the [[Business cycle|economic cycle]].<ref>{{cite web|author=Af Eva Jung |url=http://www.business.dk/article/20080811/brancher/80811082/ |title=Arbejdsmarkedets most wanted (11. August 2008) |publisher=Business.dk |accessdate=29 April 2010}}</ref>
+
+The level of unemployment benefits is dependent on former employment (the maximum benefit is at 90% of the wage) and at times also on membership of an unemployment fund, which is almost always—but need not be—administered by a trade union, and the previous payment of contributions. However, the largest share of the financing is still carried by the [[central government]] and is financed by general taxation, and only to a minor degree from earmarked contributions. There is no taxation, however, on proceeds gained from selling one´s home (provided there ''was'' any [[home equity]] (da:''friværdi'')), as the marginal tax rate on capital income from housing savings is around 0%.<ref>{{cite web|url=http://www.dors.dk/sw5855.asp |title=Danish Economic Council Spring Report 2008 English Summary,p. 11 |publisher=Dors.dk |accessdate=20 August 2009}}</ref>
+
+The Danish welfare model is accompanied by a taxation system that is both broad based (25% VAT, not including excise, duty and tax) and with a [[progressive tax|progressive income tax]] model, meaning the more money that is earned, the higher income tax percentage that gets paid (minimum tax rate for adults is 42% scaling to over 60%, except for the residents of [[Ertholmene]] that escape the otherwise ubiquitous 8% healthcare tax fraction of the income taxes<ref>{{cite web|url=http://www.skat.dk/SKAT.aspx?oId=133800 |title=Skattesatser; bundgrænser, procenter og fradrag |publisher=Skat.dk |accessdate=29 April 2010}}</ref><ref>{{cite web|url=http://www.skm.dk/tal_statistik/kommuneskatter/procenter/?year=2009 |title=Kommuneskatter 2007, 2008 og 2009 |publisher=Skm.dk |accessdate=29 April 2010}}</ref>). Other taxes include the registration tax on private vehicles, at a rate of 180%, on top of VAT. Lately (July 2007) this has been changed slightly in an attempt to favour more [[fuel efficiency|fuel efficient]] cars but maintaining the average taxation level more or less unchanged.<ref>{{cite web|url=http://www.skm.dk/foreign/english/taxindenmark2007/5344/#104|archiveurl=http://web.archive.org/web/20070927035651/http://www.skm.dk/foreign/english/taxindenmark2007/5344/#104|archivedate=27 September 2007 |title=Registration tax for cars |date=24 March 2008 |publisher=Skatteministeriet}}</ref>
+
+==Demographics==
+{{Main|Demographics of Denmark|Languages of Denmark}}
+According to figures from Statistics Denmark, in 2009, 90.5% of Denmark’s population of over 5.4&nbsp;million was of [[Danes|Danish]] descent.<ref name="DSTimm"/> Many of the remaining 9.5% were immigrants, or descendants of recent immigrants, from [[Bosnia and Herzegovina]], neighbouring countries, [[South Asia]] and [[Western Asia]], many having arrived since an "Alien law" (''Udlændingeloven'') was enacted in 1983 allowing the immigration of family members of those who had already arrived. There are also small groups of [[Inuit]] from Greenland and [[Faroese people|Faroese]]. There is racial tension between a national counterpart to the motorcycle gang, the [[Hells Angels]], [[AK81]], and local immigrants, over the illegal, lucrative [[hashish]] trade. During recent years, anti-mass immigration sentiment has resulted in some of the toughest [[Nationality law|immigration laws]] in the European Union.<ref>{{cite web|url=http://www.npr.org/templates/story/story.php?storyId=6505809|title=Danes' Anti-Immigrant Backlash Marks Radical Shift|accessdate=28 January 2007}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/2/hi/europe/1679235.stm|title=Denmark gets tough on immigrants | work=BBC News | date=27 November 2001 | accessdate=2 January 2010}}</ref> Nevertheless, the number of residence permits granted related to labour and to people from within the [[European Union|EU]]/[[European Economic Area|EEA]] has increased since implementation of new immigration laws in 2001. However, the number of immigrants allowed into Denmark for family reunification decreased 70% between 2001 and 2006 to 4,198. During the same period the number of asylum permits granted has decreased by 82.5% to 1,095, reflecting a 84% decrease in [[Right of asylum|asylum seekers]] to 1,960.<ref>{{cite web|url=http://www.nyidanmark.dk/NR/rdonlyres/01D113D6-EA0D-4DB6-B2F9-DA47A6706EFF/0/tal_og_fakta_2006.pdf |title=Tal og fakta på udlændingeområdet |format=PDF |accessdate=20 August 2009}}</ref>
+
+Denmark’s population is 5,475,791, giving Denmark a population density of 129.16 inhabitants per km<sup>2</sup> (334.53 inh/sq mi).<ref>{{da icon}} [http://www.dst.dk/nytudg/11083 Nyt fra Danmarks Statistik]</ref> As in most countries, the population is not distributed evenly. Although the land area east of the [[Great Belt]] only makes up 9,622&nbsp;km² (3,715 sq mi), 22.7% of Denmark's land area, it has 45% (2,465,348) of the population. The average population density of this area is 256.2 inhabitants per km² (663.6 per sq mi). The average density in the west of the country (32,772&nbsp;km²/12,653 sq mi) is 91.86/km² (237.91 per sq mi) (3,010,443 people) (2008).
+
+The [[median]] age is 39.8 years with 0.98 males per female. 98.2% of the population is literate (age 15 and up). The [[birth rate]] is 1.74 children born per woman (2006 est.), which will be reflected in a drop in the ratio of workers to pensioners. Despite the low birth rate, the population is still growing at an average annual rate of 0.33%.<ref name="factbook" /> International studies show that the population of Denmark is the happiest of any country in the world.<ref>{{cite news|url=http://www.independent.co.uk/news/world/europe/denmark-is-the-worlds-happiest-country--official-410075.html |title=Denmark is the world's happiest country – official – Europe, World |publisher=The Independent |date=1 August 2006 |accessdate=5 May 2009 | location=London | first=Jerome | last=Taylor}}</ref>
+
+[[Danish language|Danish]] is the [[official language]] and is spoken throughout the country. [[English language|English]] and [[German language|German]] are the most widely spoken foreign languages.
+
+A total of 1,516,126 Americans reported [[Danish American|Danish]] ancestry in the 2006 American Community Survey.<ref>{{cite web | url = http://factfinder.census.gov/servlet/ADPTable?_bm=y&-geo_id=01000US&-ds_name=ACS_2006_EST_G00_&-_lang=en&-_caller=geoselect&-format= | title = U.S. Census | publisher = U.S. Census Bureau}}</ref> According to the 2006 Census, there were 200,035 Canadians with [[Canadians of Danish descent|Danish]] background.<ref>{{cite web|url=http://www12.statcan.ca/english/census06/data/highlights/ethnic/pages/Page.cfm?Lang=E&Geo=PR&Code=01&Data=Count&Table=2&StartRec=1&Sort=3&Display=All&CSDFilter=5000 |title=Ethnocultural Portrait of Canada Highlight Tables, 2006 Census |publisher=2.statcan.ca |date=2 April 2008 |accessdate=20 August 2009}}</ref>
+
+===Religion===
+{{Main|Religion in Denmark}}
+{| cellpadding="3" cellspacing="0" rules="all" style="width:250px; float:right; margin:1em; background:#fff; border:2px solid #aaa; font-size:100%;"
+|- style="background:#ddd;"
+| colspan="4" style="text-align:center;"| '''Church of Denmark'''
+|- style="background:#f0f0f0; text-align:center;"
+! year!! population!! members!! percentage
+|- style="text-align:center;"
+| 1984 || 5,113,500 || 4,684,060 || 91.6%
+|- style="text-align:center;"
+| 1990 || 5,135,409 || 4,584,450 || 89.3%
+|- style="text-align:center;"
+| 2000 || 5,330,500 || 4,536,422 || 85.1%
+|- style="text-align:center;"
+| 2005 || 5,413,600 || 4,498,703 || 83.3%
+|- style="text-align:center;"
+| 2007 || 5,447,100 || 4,499,343 || 82.6%
+|- style="text-align:center;"
+| 2008 || 5,475,791 || 4,494,589 || 82.1%
+|- style="text-align:center;"
+| 2009 || 5,511,451 || 4,492,121 || 81.5%
+|- style="text-align:center;"
+| 2010 || 5,534,738 || 4,479,214 || 80.9%
+|-
+| colspan=4 |<small>statistical data 1984–2002,<ref>{{da}}[http://www.dst.dk/pukora/epub/Nyt/2002/NR226.pdf Statistics 1984 – 2002] by the Kirkeministeriet</ref> 1990–2009<ref>{{da}}[http://www.km.dk/folkekirken/statistik-og-oekonomi/kirkestatistik/folkekirkens-medlemstal.html Statistics 1990 – 2009] Kirkeministeriet</ref> and 2010<ref>{{da}} [http://www.km.dk/folkekirken/statistik-og-oekonomi/kirkestatistik.html Statistics 2010 ]</ref> Source Kirkeministeriet</small>
+|}
+
+According to official statistics from January 2010, 80.9%<ref>{{da icon}} [http://www.km.dk/folkekirken/statistik-og-oekonomi/kirkestatistik.html Membership Lutheran state church]</ref> of the population of Denmark are members of the [[Danish National Church]] ({{lang|da|''Den Danske Folkekirke''}}), a [[Lutheranism|Lutheran]] church that was made the official state religion by the [[Constitution of Denmark]]. This is down 0.6% compared to the year earlier and 1.2% down compared to two years earlier. Article 6 of the Constitution states that the [[Danish Royal Family|Royal Family]] must belong to this Church, though the rest of the population is free to adhere to other faiths. About 15% of the Danes do not belong to any denomination.
+
+Denmark's [[Islam in Denmark|Muslims]] make up less than 4% of the population and is the country's second largest religious community. As per an overview of various religions and denominations by the Danish Foreign Ministry, other groups comprise less than 1% of the population individually and approximately 2% when taken all together.<ref>[http://www.um.dk/Publikationer/UM/English/Denmark/kap1/1-14.asp Religion in Denmark] – From the [[Danish Foreign Ministry]].</ref>
+
+According to the most recent [[Eurobarometer|Eurobarometer Poll]] 2005,<ref name=EUROBAROMETER>{{cite web|url=http://ec.europa.eu/public_opinion/archives/ebs/ebs_225_report_en.pdf|title=Eurobarometer on Social Values, Science and technology 2005 – page 11|accessdate=5 May 2007|format=PDF}}</ref> 31% of Danish citizens responded that "they believe there is a God", whereas 49% answered that "they believe there is some sort of spirit or life force" and 19% that "they do not believe there is any sort of spirit, God or life force". According to a 2005 study by Zuckerman, Denmark has the third highest proportion of [[atheist]]s and agnostics in the world, estimated to be between 43% and 80%.<ref>{{cite web
+|url = http://www.adherents.com/largecom/com_atheist.html
+|title = The Largest Atheist / Agnostic Populations
+|last = Zuckerman | first = Phil
+}}</ref><ref>{{cite book
+|chapter = Atheism: Contemporary Rates and Patterns
+|title = The Cambridge Companion to Atheism
+|first = Michael | last = Martin (ed.)
+|publisher = Cambridge University Press | location = Cambridge
+|year = 2005
+}}</ref>
+
+For more than a hundred years after the Reformation, Lutheranism was the only legal religion in Denmark, but in 1682 the state recognised three other faiths: [[Roman Catholicism in Denmark|Roman Catholicism]], [[Reformed Synod of Denmark|the Reformed Church]] and [[History of the Jews in Denmark|Judaism]]. Until the recent immigration of Muslims, these three were practically the only non-Lutheran religions practiced in Denmark. As of 2005, 19 Muslim communities have been officially recognised. [[Germanic Neopaganism#Forn Siðr|Forn Siðr]] (English: Old Custom), based on the much older, native pagan religion, gained official recognition in November 2003.<ref>{{cite web|author=Torben Sørensen|url=http://www.fornsidr.dk/dk/17 |title=Forn Siðr – the Asa and Vane faith religious community in Denmark – Forn Siðr |publisher=Fornsidr.dk |date=19 April 2007 |accessdate=5 May 2009}}</ref>
+
+Religious societies and churches do not need to be state-recognised in Denmark and can be granted the right to perform weddings and other ceremonies without this recognition.
+
+===Education===
+{{Main|Education in Denmark}}
+[[File:Copenhagen Rundetårn street left.jpg|thumb|left|upright|[[Rundetårn]] (Round Tower), an old observatory in the [[University of Copenhagen]], Denmark's oldest and largest university]]
+
+The Danish [[education]] system provides access to [[Danish Folkeskole Education|primary school]], [[Secondary education in Denmark|secondary school]] and most kinds of [[higher education]]. Attendance at "[[Danish Folkeskole Education|Folkeskole]]" or equivalent education is compulsory for a minimum of 9 years. Equivalent education could be in private schools or classes attended at home. About 99% of students attend [[Primary education|primary school]], 86% attend [[secondary school]], and 41% pursue [[further education]]. All college education in Denmark is free; there are no tuition fees to enroll in courses. Students in secondary school or higher may apply for student support which provides fixed financial support, disbursed monthly.
+
+Primary school in Denmark is called "[[Danish Folkeskole Education|den Danske Folkeskole]]" ("Danish Public School"). It runs from the introductory "kindergarten class"/0'th grade ("børnehaveklasse"/ "0. Klasse") to [[Tenth grade|10th grade]], though 10th grade is optional. Pupils can alternatively attend "free schools" ("Friskole"), or [[private school]]s ("Privatskole"), i.e. schools that are not under the administration of the [[List of municipalities of Denmark|municipalities]], such as [[Christian school]]s or [[Waldorf education|Waldorf schools]]. The [[Programme for International Student Assessment]], coordinated by the [[Organisation for Economic Co-operation and Development|OECD]], ranked Denmark's education as the 24th best in the world in 2006, being neither significantly higher nor lower than the OECD average.<ref>{{cite journal|url=http://www.oecd.org/dataoecd/42/8/39700724.pdf |title=Range of rank on the PISA 2006 science scale |publisher=[www.oecd.org OECD] |accessdate=22 January 2010|ref=harv}}</ref>
+
+Following graduation from ''Folkeskolen'', there are several other educational opportunities, including ''[[Gymnasium (Denmark)|Gymnasium]]'' (academically oriented upper [[secondary education]]), [[Higher Preparatory Examination (HF)]] (similar to ''Gymnasium'', but one year shorter), [[Higher Technical Examination Programme (HTX)]] (with focus on [[mathematics]] and [[engineering]]), and [[Higher Commercial Examination Programme]] (HHX) (with a focus on trade and business), as well as [[Vocational secondary education in Denmark|vocational education]], training young people for work in specific [[trade (occupation)|trades]] by a combination of teaching and [[apprenticeship]].
+
+''Gymnasium''(STX), HF, HTX and HHX aim at qualifying pupils for [[higher education]] in universities and [[college]]s.
+
+Denmark has several [[List of universities in Denmark|universities]]; the largest and oldest are the [[University of Copenhagen]] (founded 1479) and [[Aarhus University]] (founded 1928).
+
+[[Folk high school|''Folkehøjskolerne'']], ("Folk high schools") introduced by politician, clergyman and poet [[Nikolaj Frederik Severin Grundtvig|N.F.S. Grundtvig]] in the 19th century, are social, informal education structures without tests or grades but emphasising communal learning, self-discovery, enlightenment and learning how to think.<ref>{{cite web|url=http://www.scandinavica.com/culture/education/hojskole.htm|title=www.scandinavica.com/culture/education/hojskole.htm | title=The Danish Folkehøjskole |accessdate=28 January 2007 |work=www.scandinavica.com}}</ref>
+
+==Culture==
+{{Main|Culture of Denmark}}
+{{See also|List of Danes}}
+[[File:Ærøskøbing 1.jpg|thumb|[[Ærøskøbing]], a traditional Danish town]]
+[[Hans Christian Andersen]] is known beyond Denmark for his [[fairy tale]]s, such as ''[[The Emperor's New Clothes]]'', ''[[The Little Mermaid]]'' and ''[[The Ugly Duckling]]''. [[Karen Blixen]] (pen name: ''[[Karen Blixen|Isak Dinesen]]''), Nobel laureate author [[Henrik Pontoppidan]], [[List of Nobel laureates|Nobel laureate]] physicist [[Niels Bohr]], comedy pianist [[Victor Borge]] and philosopher [[Søren Kierkegaard]] have also made a name for themselves outside Denmark.
+
+Copenhagen is home to many famous sites and attractions, including [[Tivoli Gardens]], [[Amalienborg Palace]] (home of the Danish monarchy), [[Christiansborg Palace]], [[Church of Our Lady (Copenhagen)|Copenhagen Cathedral]], [[Rosenborg Castle]], [[Copenhagen Opera House|Opera House]], [[Frederik's Church]] (Marble Church), [[Thorvaldsens Museum]], [[Rundetårn]], [[Nyhavn]] and [[The Little Mermaid (statue)|the Little Mermaid]] sculpture.<ref>{{cite web|url=http://www.copenhagen-walkingtours.dk/ |title=Copenhagen Walking Tours |date=25 May 2007 |accessdate=25 May 2007}}</ref> Copenhagen was ranked the most liveable city in the world by ''Monocle'' magazine.<ref>[[Financial Times]], A league table of liveable cities</ref>
+
+The second largest city in Denmark is [[Aarhus]]. Aarhus is an old Viking Age city and one of the [[List of cities by time of continuous habitation|oldest cities]] in the country. The largest [[cathedral]] in Denmark and the second largest cathedral in [[Northern Europe]] is [[Aarhus Cathedral]].
+
+Historically, Denmark, like its Scandinavian neighbours, has been one of the most socially progressive cultures in the world. For example, in 1969, Denmark was the first country to legalise pornography.<ref>{{cite web|url=http://www.um.dk/publikationer/um/english/factsheetdenmark/denmarkanoverview/html/chapter05.htm |title=Denmark&nbsp; – An Overview |date=22 September 2007 |accessdate=22 September 2007| archiveurl = http://web.archive.org/web/20080122084309/http://www.um.dk/publikationer/um/english/factsheetdenmark/denmarkanoverview/html/chapter05.htm| archivedate = 22 January 2008}}</ref> And in 1989, Denmark enacted a [[Registered partnership in Denmark|registered partnership]] law, becoming the first country in the world to grant [[Same-sex marriage|same-sex couples]] nearly all of the rights and responsibilities of marriage.<ref>{{cite web|url=http://marriage.about.com/cs/samesexmarriage/a/samesex.htm |title=Same-Sex Marriage FAQ |publisher=Marriage.about.com |date=17 June 2003 |accessdate=5 May 2009}}</ref>
+
+===Cinema===
+{{Main|Cinema of Denmark}}
+
+The three big internationally important waves of [[Cinema of Denmark|Danish cinema]] have been:
+* The erotic [[melodrama]] of the [[silent film|silent era]].
+* The increasingly explicit sex films of the 1960s and 1970s.
+* The [[Dogme 95|Dogme95]]-movement of the late 1990s.
+
+Danish filmmakers of note include:
+* [[Carl Theodor Dreyer|Carl Th. Dreyer]] (1889–1968), one of the most acclaimed directors in the history of cinema.
+* [[Erik Balling]], [[Academy Award|Oscar]]-nominated creator of ''[[Olsen Gang|Olsen-banden]]'' (1968).
+* [[Gabriel Axel]], [[Academy Award|Oscar]]-winner for ''[[Babette's Feast]]'' (1987).
+* [[Bille August]], [[Academy Award|Oscar]]-, [[Palme d'Or]]- and [[Golden Globe Award|Golden Globe]]-winner for ''[[Pelle the Conqueror]]'' (1987).
+* [[Lars von Trier]], [[Academy Award|Oscar]]-nominated for ''[[Dancer in the Dark]]'' (2000), co-creator of [[Dogme 95|Dogme95]] and of [[Zentropa]].
+
+A locally popular [[film genre]] is the charmingly good-natured "folkekomedie" (folk comedy), which originated in the 1930s and gained widespread dominance from the 1950s until the 1970s, usually scorned by critics and loved by the audience. Notable folkekomedie-films include ''Barken Margrethe'' (1934), ''[[The Red Horses|De røde heste]]'' (1950), ''[[Father of Four|Far til fire]]'' (1953) and ''[[Olsen Gang|Olsen-banden]]'' (1968).
+
+Since the 1980s, Danish filmmaking has been important to changing governments. The [[National Film School of Denmark]] has educated a generation of new award-winning directors. The funds for film project has been administrated by the [[Danish Film Institute]], but their focus on movies that would achieve high tickets sales locally has been criticised for being both too populist and too narrow-minded, by directors wishing to be artistic or international.
+
+In recent years, Danish cinema has suffered a crisis of limited innovation resulting in very few box office hits, yet Danish films continue to receive many awards at major international film festivals<!-- See references in main article -->.
+
+===Literature===
+{{Main|Danish literature}}
+[[File:HCAndersen.jpeg|thumb|upright|[[Hans Christian Andersen]]]]
+The first known [[Danish literature]] is myths and folk stories from the 10th and 11th century. [[Saxo Grammaticus]], normally considered the first Danish writer, worked for bishop [[Absalon]] on a chronicle of [[History of Denmark|Danish history]] ([[Gesta Danorum]]). Very little is known of other Danish literature from the [[Middle Ages]]. With the [[Age of Enlightenment]] came [[Ludvig Holberg]] whose comedy plays are still being performed.
+
+[[Romanticism]] influenced world famous writer [[Hans Christian Andersen]] known for his stories and [[fairy tale]]s and contemporary philosopher [[Søren Kierkegaard]] greatly influenced [[existentialism]]. In the late 19th century, literature was seen as a way to influence society. Known as the [[Modern Breakthrough]], this movement was championed by [[Georg Brandes]], [[Henrik Pontoppidan]] (awarded the [[Nobel Prize in Literature]]) and [[Jens Peter Jacobsen|J.&nbsp;P. Jacobsen]]. In recent history [[Johannes Vilhelm Jensen]] was also awarded the [[Nobel Prize for Literature]]. [[Karen Blixen]] is famous for her novels and [[short story|short stories]]. Other Danish writers of importance are [[Nikolaj Frederik Severin Grundtvig|Grundtvig]], [[Gustav Wied]], [[William Heinesen]], [[Martin Andersen Nexø]], [[Hans Scherfig]], [[Tom Kristensen (poet)|Tom Kristensen]], [[Dan Turèll|Dan Turéll]], [[Tove Ditlevsen]], [[Inger Christensen]] and [[Peter Høeg]].
+
+===Sports===
+{{Main|Sports in Denmark}}
+The most popular sport in Denmark is [[Association football|football]]. [[Sailing]] and other [[List of water sports|water sports]] are popular, as are [[golf]], tennis, [[cycling]] and indoor sports such as [[badminton]], [[team handball|handball]] and various forms of gymnastics. There is also a small group of people doing motorsport and with some success. The most successful driver on the [[24 Hours of Le Mans]] race ever, with eight 1st places is [[Tom Kristensen]]; in [[motorcycle speedway|speedway racing]] Denmark has won several world championships.
+[[File:US Open 2009 4th round 156.jpg|thumb|left|upright|[[Caroline Wozniacki]]]]
+Other notable Danish sportspeople include [[American football]]'s [[National Football League]] all-time leading scorer [[Morten Andersen]]; 12 times [[windsurfing]] world champion [[Björn Dunkerbeck]]; sailors [[Jesper Bank]] and [[Paul Elvstrøm]] one of only four persons ever to win four consecutive individual Olympic gold medals; cyclists [[Bjarne Riis]] winner of the [[1996 Tour de France]], [[Rolf Sørensen]] with 53 career wins, [[Jesper Skibby]], [[Brian Holm]], [[Ole Ritter]], [[Henrik Djernis]] and [[Michael Rasmussen]]; [[Motorcycle speedway|speedway]] riders [[Ole Olsen (speedway rider)|Ole Olsen]], [[Nicki Pedersen]] and [[Erik Gundersen]]; [[badminton]] players [[Morten Frost]], [[Erland Kops]], [[Peter Gade]], [[Poul-Erik Høyer Larsen]], [[Flemming Delfs]], [[Camilla Martin]] and [[Lene Køppen]]; [[table tennis]]-player [[Michael Maze]]; [[Team handball|handball]] player [[Anja Andersen]]; [[poker]] Hall of Fame player [[Gus Hansen]] and [[Peter Eastgate]]; snowboarder [[Julie Wendel Lundholdt]]; [[Association football|football]] players [[Michael Laudrup|Michael]] and [[Brian Laudrup]], [[Preben Elkjær Larsen]] winner of the [[1984–85 Serie A]] with [[Hellas Verona F.C.]] the club's first and only [[Scudetto]], [[Allan Simonsen]] winner of the 1977 [[Ballon d'Or]], [[Johnny Hansen (footballer born 1943)|Johnny Hansen]] [[European Cup]] winner in 1974, 1975 and 1976 with [[FC Bayern Munich]] and [[Peter Schmeichel]] winner of the [[Manchester United F.C. season 1998-99|1999 treble]] with [[Manchester United]]; track and field athlete [[Wilson Kipketer]] who held the men's 800 metres world record until 22 August 2010;<ref>{{cite news| url=http://in.reuters.com/article/idINIndia-50996520100822 | work=Reuters | title=Kenyan Rudisha breaks men's 800m world record | date=22 August 2010}}</ref> and tennis player [[Caroline Wozniacki]] who on 11 October 2010 claimed the top spot in the [[Women's Tennis Association|WTA]] Singles Rankings. Denmark is also the home and birthplace of former [[World Boxing Council|WBC]] [[Super middleweight]] boxing champion, [[Mikkel Kessler]] and European tour [[golf]]er [[Thomas Bjørn]] who has won several international events.
+
+In 1992, the [[Denmark national football team|national football team]] won the [[UEFA Euro 1992|European champions]]. Remarkably, the team had finished second in their qualifying group behind [[Yugoslavia national football team|Yugoslavia]] and as a result had failed to qualify for the final tournament. They gained their place in the tournament at the last moment when the [[Yugoslavia]] national team and local clubs were banned from all international/continental competitions because of the ongoing [[Yugoslav Wars]]. The Danes won the final by defeating reigning [[1990 FIFA World Cup]] champions [[Germany national football team|Germany]] 2-0 on goals by [[John Jensen]] and [[Kim Vilfort]].
+
+A number of smaller sports are also played in Denmark. E.g. the Danish Australian Football League is commonly known as the largest Australian Rules Football League outside the English-speaking world. The national team; the Danish Vikings, became second in the first ever European Championship, losing the final to Ireland. Denmark was also co-hosts of the competition alongside Sweden.
+
+===Music===
+{{Main|Music of Denmark}}
+
+Denmark has long been a center of cultural innovation. Copenhagen and its multiple outlying islands have a wide range of folk traditions. The [[Royal Danish Orchestra]] is among the world's oldest orchestras. [[Carl Nielsen]], with his six imposing symphonies, was the first Danish composer to gain international recognition, while an extensive [[Music industry|recording industry]] has produced pop stars and a host of performers from a multitude of genres. Internationally only a few artists have gained significant success. [[Lars Ulrich]] from [[Metallica]] is from Denmark, along with [[D-A-D]], [[Volbeat (band)|Volbeat]], [[Mercyful Fate]], [[King Diamond]], [[Goodiepal]], [[Whigfield]], [[Michael Learns to Rock]], [[Alphabeat]], [[Infernal (band)|Infernal]], the 1990s pop band [[Aqua (band)|Aqua]] and the alternative rock bands [[Kashmir (band)|Kashmir]] and [[Mew (band)|Mew]]. In recent years, the best selling Danish artist abroad has been [[Rune RK]] with the number 1 [[itunes]] hit<ref>[http://www.enurmusic.com/number-1-on-itunes-2008/ Number one on itunes 2008]</ref> [[Calabria (song)|Calabria]]
+
+===Media===
+
+Danish media is dominated by a few large corporations. In printed media [[JP/Politikens Hus]] and [[Berlingske Media]], between them, control the largest news papers [[Politiken]], [[Berlingske Tidende]] and [[Jyllands Posten]] and major tabloids [[BT (tabloid)|BT]] and [[Ekstrabladet]]. In television publicly owned stations [[DR (broadcaster)|Danmarks Radio]] (DR) and [[TV 2 (Denmark)|TV2]] has large shares of the viewers. In radio DR has a near monopoly, currently broadcasting on all 4 nationally available [[FM broadcasting|FM]] channels, competing only with local stations. The share of Danish people that go online for news and entertainment is growing, here also the newspapers and TV stations are dominating.
+
+===Cuisine===
+{{Main|Danish cuisine}}
+[[File:Smørrebrød 4.jpg|thumb|right|Danish open sandwich ([[smørrebrød]]) on dark rye bread]]
+
+The [[cuisine]] of Denmark, like that in the other Nordic countries as well as that of [[Northern Germany]], consists mainly of meat and fish. This stems from the country's agricultural past, as well as its geography and climate of long, cold winters.
+
+Danish food includes a variety of open [[rugbrød]] (Rye-bread) sandwiches or [[smørrebrød]] traditionally served for the mid-day meal or ''frokost'' (lunch). An ordinary ''frokost'' consists just of 2 to 6 pieces of simple smørrebrød prepared during breakfast and packed in a [[lunch box]]. A luxury ''frokost'' usually starts with fish such as pickled [[herring]], smoked [[eel]] or hot fried plaice. Then come meat sandwiches such as cold roast beef with [[remoulade]] and fried onions, roast pork and [[Pork rind|crackling]] with [[Red Cabbage|red cabbage]], hot [[filet mignon|veal medallions]], Danish meat balls (''[[frikadeller]]'') or [[leverpostej|liver paté]] with bacon and mushrooms.
+
+Some typically Danish items are ''[[Sol over Gudhjem]]'', literally "sun over God's home" ([[Gudhjem]] is a town on Bornholm where a lot of herring is landed and smoked), consisting of smoked herring, chives and with raw [[egg yolk]] (the "sun") on top; or ''Dyrlægens natmad'', 'vet's late-night bite', with [[leverpostej|liver paté]], saltmeat (corned veal), onions and jellied [[consommé]]. Finally cheese is served with crackers, radishes, nuts or grapes. [[Lager]] beer accompanied by small glasses of ''snaps'' or [[akvavit|aquavit]] are the preferred drinks for a Danish frokost.
+
+[[File:Aebleskiver.jpg|thumb|left|[[Æbleskiver]], Small Danish dessert dumplings cooked in a special pan, mostly served during the Christmas season.]]
+
+The large hot meal of the day is called ''middag'' and is usually served in the evening. It normally consists of meat (pork, beef, lamb or fish) with gravy and a source of starch (non-sugar carbohydrates) such as boiled potatoes, rice or pasta, sometimes supplemented by salad and/or cabbage. This may be followed by a [[dessert]] such as [[ice cream]], [[mousse]] or [[rødgrød]]. The meal may be preceded by soup or hot porridge. 
+
+Popular meat dishes include pork steak with crispy skin, [[frikadeller]] (fried pork and veal meatballs), fried meat patties made from minced beef, [[beef tenderloin]], "million-beef" (minced beef in gravy), karbonader/krebinetter (breaded and fried [[Beef mince|minced meat]], typically pork), all kinds of [[roasting|roast]] etc. Popular combined meat and starch dishes include [[Bolognese sauce|Spaghetti alla Bolognese]], [[hash (food)|hash]] etc.
+
+Fish is traditionally more widely eaten on the west coast of [[Jutland]], where fishing is a major industry. [[Smoked fish]] dishes ([[herring]], [[mackerel]], [[eel]]) from local [[smoking (cooking)|smoking houses]] or ''røgerier'', especially on the island of [[Bornholm]], are increasingly popular.
+
+In recent years, Copenhagen restaurants like Noma, Geranium and MR has played an important role in re-inventing the Danish and Nordic cuisine, making Copenhagen a centre of gourmet dining with a Nordic twist.
+
+==See also ==
+{{Portal box|Denmark|European Union}}
+{{Main|Outline of Denmark|Index of Denmark-related articles}}
+{{Denmark topics}}
+{{Template group
+|title = <!-- [[File:Nuvola filesystems www.png|23px]] -->&nbsp;Geographic locale
+|list =
+{{Sovereign states of Europe}}
+{{Countries bordering the Baltic Sea}}
+}}
+{{Template group
+|title = International organisations
+|list =
+{{Monarchies}}
+{{Denmark ties}}
+{{EU members}}
+{{Council of Europe members}}
+{{Nordic Council}}
+{{North Atlantic Treaty Organisation (NATO)}}
+{{United Nations}}
+{{WTO}}
+}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+;Bibliography
+* {{da icon}} Busck, Steen and Poulsen, Henning (ed.), "Danmarks historie&nbsp; – i grundtræk", Aarhus Universitetsforlag, 2002, ISBN 87-7288-941-1
+* {{da icon}} {{Cite book|last1= Gammelgaard |first1= Frederik |last2=Sørensen |first2=Niels
+|year= 1998
+|title= Danmark – en demokratisk stat
+|publisher= Alinea
+|isbn= 87-23-00280-8|ref= harv|postscript= <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}} 
+* {{da icon}} {{Cite book|last= Jørgensen |first= Gitte
+|year= 1995
+|title= Sådan styres Danmark
+|publisher= Flachs
+|isbn= 87-7826-031-0|ref= harv|postscript= <!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->{{inconsistent citations}}}}
+* {{da icon}} Michaelsen, Karsten Kjer, "Politikens bog om Danmarks oldtid", Politikens Forlag (1. bogklubudgave), 2002, ISBN 87-00-69328-6
+* {{swe icon}} Nationalencyklopedin, vol. 4, Bokförlaget Bra Böcker, 2000, ISBN 91-7024-619-X.
+
+==External links==
+{{Sister project links|Denmark}}
+{{osmrelation|50046}}
+
+;Government
+* [http://denmark.dk/ Official Portal of Denmark]
+* {{CIA World Factbook link|da|Denmark}}
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-d/denmark.html Chief of State and Cabinet Members]
+
+;General information
+* [http://www.denmark.net/business List of Danish Companies]
+* [http://www.denmark.net/denmark-guide/danish-culture.html Danish Culture]
+* [http://copenhagenet.dk/CPH-Denmark.htm Facts about Denmark and a brief tour through the country]
+* [http://danishheritage.dk/ DanishHeritage.dk] exists to protect and promote Denmark's historic environment and ensure that its past is researched and understood
+* [http://www.britannica.com/EBchecked/topic/157748/Denmark Denmark] entry at ''[[Encyclopædia Britannica]]''
+* [http://ucblibraries.colorado.edu/govpubs/for/denmark.htm Denmark] at ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Europe/Denmark}}
+* {{wikiatlas|Denmark}}
+* {{Wikitravel}}
+; News and media
+* [http://news.google.com/news?hl=en&ned=us&ie=UTF-8&q=denmark%2F&btnG=Search Google news Denmark]
+* [http://eudocs.lib.byu.edu/index.php/History_of_Denmark:_Primary_Documents History of Denmark: Primary Documents]
+* [http://kort.krak.dk/borgerdk.kortsoegning/imapDKbig.asp Krak printable mapsearch] {{da icon}}
+* [http://www2.kms.dk/C1256AED004EA666/(AllDocsByDocld)/B825612735012CB1C1256AEF002C0B2C Ministry of the Environment National Survey and Cadastre] {{sv icon}} {{en icon}}
+* [http://web.archive.org/web/20060208174808/http://olddenmark.dk/ Old Denmark in Cyberspace – Information about Denmark – the Danes]
+* [http://earthobservatory.nasa.gov/IOTD/view.php?id=3389 Satellite image of Denmark] at the [[NASA Earth Observatory]]
+* [http://www.danmarksstatistik.dk/HomeUK.aspx Statistics Denmark Statistics free of charge]
+* [http://statistikbanken.dk/statbank5a/SelectVarVal/Define.asp?Maintable=HISB3&PLanguage=1 Summary vital statistics about Denmark covering 1901 and forwards from Statistics Denmark]
+* [http://www.dst.dk/HomeUK.aspx Newest releases from Statistics Denmark] {{da icon}} {{en icon}}
+* [http://www.statistikbanken.dk/statbank5a/SelectTable/Omrade0.asp?PLanguage=1 Various statistics from Statistics Denmark statistikbanken.dk]
+;Other
+* [http://www.vifanord.de/index.php?id=1&L=1&rd=243343734 Vifanord.de] – a digital library that provides scientific information on the Nordic and Baltic countries as well as the Baltic region as a whole
+
+{{Coord|56|N|10|E|type:country_scale:3000000_region:DK|display=title}}
+
+[[Category:Denmark| ]]
+[[Category:European countries]]
+[[Category:Nordic countries]]
+[[Category:Member states of the European Union]]
+[[Category:Countries bordering the Atlantic Ocean]]
+[[Category:Countries bordering the Baltic Sea]]
+[[Category:Scandinavia]]
+[[Category:Northern Europe]]
+[[Category:NUTS 2 statistical regions of the European Union]]
+[[Category:Danish-speaking countries]]
+[[Category:Constitutional monarchies]]
+[[Category:Liberal democracies]]
+[[Category:States and territories established in 1814]]
+[[Category:Member states of the Union for the Mediterranean]]
+[[Category:Members of the North Atlantic Treaty Organization]]
+
+{{Link FA|be-x-old}}
+{{Link FA|no}}
+{{Link FA|vi}}
+
+[[ace:Denmark]]
+[[af:Denemarke]]
+[[als:Dänemark]]
+[[am:ዴንማርክ]]
+[[ang:Denemearc]]
+[[ar:الدنمارك]]
+[[an:Dinamarca]]
+[[arc:ܕܢܡܪܩ]]
+[[roa-rup:Danimarca]]
+[[frp:Danemârc]]
+[[ast:Dinamarca]]
+[[gn:Ndinamayka]]
+[[az:Danimarka]]
+[[bn:ডেনমার্ক]]
+[[zh-min-nan:Dan-kok]]
+[[be:Данія]]
+[[be-x-old:Данія]]
+[[bcl:Denmark]]
+[[bi:Denmark]]
+[[bar:Dänemark]]
+[[bo:དན་མྲག]]
+[[bs:Danska]]
+[[br:Danmark]]
+[[bg:Дания]]
+[[ca:Dinamarca]]
+[[cv:Дани]]
+[[ceb:Denmark]]
+[[cs:Dánsko]]
+[[co:Danimarca]]
+[[cy:Denmarc]]
+[[da:Danmark]]
+[[pdc:Denemarrick]]
+[[de:Dänemark]]
+[[dv:ޑެންމާކު]]
+[[nv:Déinish Dineʼé Bikéyah]]
+[[dsb:Dańska]]
+[[dz:ཌེན་མཱཀ་]]
+[[et:Taani]]
+[[el:Δανία]]
+[[es:Dinamarca]]
+[[eo:Danio]]
+[[ext:Dinamarca]]
+[[eu:Danimarka]]
+[[ee:Denmark]]
+[[fa:دانمارک]]
+[[hif:Denmark]]
+[[fo:Danmark]]
+[[fr:Danemark]]
+[[fy:Denemark]]
+[[fur:Danimarcje]]
+[[ga:An Danmhairg]]
+[[gv:Yn Danvarg]]
+[[gag:Daniya]]
+[[gd:An Danmhairg]]
+[[gl:Dinamarca - Danmark]]
+[[gan:丹麥]]
+[[gu:ડેનમાર્ક]]
+[[got:𐌳𐌰𐌽𐌰𐌼𐌰𐍂𐌺𐍃]]
+[[hak:Tan-ma̍k]]
+[[xal:Данскгин Нутг]]
+[[ko:덴마크]]
+[[haw:Kenemaka]]
+[[hy:Դանիա]]
+[[hi:डेनमार्क]]
+[[hsb:Danska]]
+[[hr:Danska]]
+[[io:Dania]]
+[[ilo:Denmark]]
+[[bpy:ডেনমার্ক]]
+[[id:Denmark]]
+[[ia:Danmark]]
+[[ie:Dania]]
+[[os:Дани]]
+[[zu:IDenimaki]]
+[[is:Danmörk]]
+[[it:Danimarca]]
+[[he:דנמרק]]
+[[jv:Denmark]]
+[[kl:Danmarki]]
+[[kn:ಡೆನ್ಮಾರ್ಕ್‌]]
+[[pam:Denmark]]
+[[krc:Дания]]
+[[ka:დანია]]
+[[ks:डेनमार्क]]
+[[csb:Dëńskô]]
+[[kk:Дания]]
+[[kw:Danmark]]
+[[rw:Danimarike]]
+[[ky:Дания]]
+[[rn:Danemarke]]
+[[sw:Denmark]]
+[[koi:Данмарк]]
+[[kv:Дания]]
+[[kg:Danemark]]
+[[ht:Danmak]]
+[[ku:Danîmarka]]
+[[lad:Danimarka]]
+[[la:Dania]]
+[[lv:Dānija]]
+[[lb:Dänemark]]
+[[lt:Danija]]
+[[lij:Danemarca]]
+[[li:Denemarke]]
+[[jbo:danmark]]
+[[lg:Denimaaka]]
+[[lmo:Danimarca]]
+[[hu:Dánia]]
+[[mk:Данска]]
+[[mg:Danmarka]]
+[[ml:ഡെന്മാർക്ക്]]
+[[mt:Danimarka]]
+[[mi:Tenemāka]]
+[[mr:डेन्मार्क]]
+[[arz:دنمارك]]
+[[ms:Denmark]]
+[[mdf:Данмастор]]
+[[mn:Дани]]
+[[my:ဒိန်းမတ်နိုင်ငံ]]
+[[nah:Dinamarca]]
+[[na:Denmark]]
+[[nl:Denemarken]]
+[[nds-nl:Denmaark]]
+[[ne:डेनमार्क]]
+[[ja:デンマーク]]
+[[nap:Danemarca]]
+[[frr:Dånmark]]
+[[pih:Denmark]]
+[[no:Danmark]]
+[[nn:Danmark]]
+[[nrm:Dannemar]]
+[[nov:Dania]]
+[[oc:Danemarc]]
+[[uz:Daniya]]
+[[pnb:ڈنمارک]]
+[[pap:Dinamarka]]
+[[ps:ډېنمارک]]
+[[pms:Danimarca]]
+[[tpi:Denmak]]
+[[nds:Däänmark]]
+[[pl:Dania]]
+[[pnt:Δανία]]
+[[pt:Dinamarca]]
+[[kaa:Daniya]]
+[[crh:Danimarka]]
+[[ksh:Dänemarrək]]
+[[ro:Danemarca]]
+[[rmy:Danemarka]]
+[[rm:Danemarc]]
+[[qu:Dansuyu]]
+[[ru:Дания]]
+[[rue:Даньско]]
+[[sah:Дания]]
+[[se:Dánmárku]]
+[[sa:डेनमार्क]]
+[[sc:Danimarca]]
+[[sco:Denmark]]
+[[stq:Dänemark]]
+[[st:Denmark]]
+[[sq:Danimarka]]
+[[scn:Danimarca]]
+[[simple:Denmark]]
+[[ss:IDenimakhi]]
+[[sk:Dánsko]]
+[[cu:Дані́ꙗ]]
+[[sl:Danska]]
+[[szl:Dańijo]]
+[[so:Denmark]]
+[[ckb:دانمارک]]
+[[sr:Данска]]
+[[sh:Danska]]
+[[fi:Tanska]]
+[[sv:Danmark]]
+[[tl:Dinamarka]]
+[[ta:டென்மார்க்]]
+[[tt:Дания]]
+[[te:డెన్మార్క్]]
+[[tet:Dinamarka]]
+[[th:ประเทศเดนมาร์ก]]
+[[tg:Дания]]
+[[tr:Danimarka]]
+[[udm:Дания]]
+[[uk:Данія]]
+[[ur:ڈنمارک]]
+[[ug:دانىيە]]
+[[vec:Danimarca]]
+[[vi:Đan Mạch]]
+[[vo:Danän]]
+[[fiu-vro:Taani]]
+[[zh-classical:丹麥]]
+[[vls:Denemarkn]]
+[[war:Dinamarka]]
+[[wo:Danmaark]]
+[[wuu:丹麦]]
+[[yi:דענמארק]]
+[[yo:Dẹ́nmárkì]]
+[[zh-yue:丹麥]]
+[[diq:Danimarka]]
+[[zea:Denemarken]]
+[[bat-smg:Danėjė]]
+[[zh:丹麦]]

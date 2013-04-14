@@ -1,0 +1,778 @@
+{{Redirect|ROK}}
+{{pp-move-indef}}
+{{Infobox country
+|native_name={{lang|ko|대한민국}} <br />{{lang|ko|大韓民國}} <br />''Daehanminguk''
+|conventional_long_name=Republic of Korea
+|common_name=South Korea
+|image_flag=Flag of South Korea.svg
+|image_coat=Coat of arms of South Korea.svg
+|symbol_type = Emblem
+|image_map=<!--Do not change without discussing at the Talk page-->Locator map of South Korea2.svg<!--Do not change without discussing at the Talk page-->
+|mapsize=220px
+|motto={{lang|ko|홍익인간/ 弘益人間}} <br/>''Benefit all mankind'' (Unofficial motto)
+|national_anthem= <center>[[File:Aegukga instrumental.ogg]]</center><br />''[[Aegukga]]'' {{lang|ko|(애국가/ 愛國歌)}} <br>(<small>"The Patriotic Song"</small>)
+|official_languages=[[Korean language|Korean]]
+|languages_type=[[Official script]]s
+|languages=[[Hangul]]
+|demonym=[[South Korean]], [[Koreans|Korean]]
+|ethnic_groups=
+|capital=[[Seoul]]
+|latd=37
+|latm=35
+|latNS=N
+|longd=127
+|longm=0
+|longEW=E
+|government_type=[[Presidential]] [[republic]]
+|leader_title1=[[President of South Korea|President]]
+|leader_title2=[[Prime Minister of South Korea|Prime Minister]]
+|leader_name1=[[Lee Myung-bak]]
+|leader_name2=[[Kim Hwang-sik]]
+|legislature=[[National Assembly of South Korea|National Assembly]]
+|largest_city=[[Seoul]]
+|area_rank=108th
+|area_magnitude=1 E11
+|area_km2=10
+|area_sq_mi=38,691 <!--Do not remove per [[WP:MOSNUM]]-->
+|percent_water=0.3
+|population_estimate= 48,875,000<ref>{{cite web|url=http://www.index.go.kr/egams/stts/jsp/potal/stts/PO_STTS_IdxMain.jsp?idx_cd=1009&bbs=INDX_001 |title=총인구, 인구성장률 : 지표상세화면 |publisher=Index.go.kr |date= |accessdate=2010-10-29}}</ref>
+|population_estimate_year=2010
+|population_estimate_rank=24th
+|population_density_km2=491
+|population_density_sq_mi=1,271 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank=21st
+|GDP_nominal=$1,056.262 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?sy=2010&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=542&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC&grp=0&a=&pr.x=50&pr.y=14|title=South Korea|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_nominal_rank=14th
+|GDP_nominal_year=2011
+|GDP_nominal_per_capita=$21,529<ref name=imf2/>
+|GDP_nominal_per_capita_rank=34th
+|GDP_PPP=$1,540.740 billion<ref name=imf2/>
+|GDP_PPP_rank=12th
+|GDP_PPP_year=2011
+|GDP_PPP_per_capita=$31,404<ref name=imf2/>
+|GDP_PPP_per_capita_rank=26th
+|sovereignty_type=[[History of South Korea|Establishment]]
+|established_event3=[[Gojoseon|National Foundation Day]]
+|established_event4=[[March 1st Movement|Independence declared]]
+|established_event5=[[Provisional Government of the Republic of Korea|Provisional Government]]
+|established_event6=[[Division of Korea|Liberation]]
+|established_event7=[[Constitution of the Republic of Korea|Constitution]]
+|established_event8=[[History of South Korea#First Republic|Government proclaimed]]
+|established_date3=October 3, 2333 BCE
+|established_date4=March 1, 1919
+|established_date5=April 13, 1919
+|established_date6=August 15, 1945
+|established_date7=July 17, 1948
+|established_date8=August 15, 1948
+|HDI_year=2010
+|HDI={{increase}} 0.877<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010}}</ref>
+|HDI_rank=12th
+|HDI_year=2010
+|HDI_category=<span style="color:#090;">very high</span>
+|Gini=31.3<ref name=ciagini>[https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html Gini index] CIA World Fact Book</ref>
+|Gini_year=2007
+|Gini_category=
+|currency=[[South Korean won]] (₩)
+|currency_code=KRW
+|country_code=KOR
+|time_zone=[[Korea Standard Time]]
+|utc_offset=+9
+|time_zone_DST=''not observed''
+|utc_offset_DST=+9
+|date_format=yyyy년 mm월 dd일<br />yyyy/mm/dd ([[Common Era|CE]])
+|drives_on=right
+|ac_outlet=220V/60Hz
+|cctld=[[.kr]]
+|calling_code=[[Telephone numbers in South Korea|82]]
+|footnote1=Mobile phone system CDMA, WCDMA, HSDPA and WiBro
+|footnote2=Domestic power supply 220V/60 Hz, CEE 7/7 sockets
+}}
+'''South Korea''' ({{IPAc-en|En-us-South Korea.ogg|ˈ|s|aʊ|θ|_|k|ə|ˌ|r|i|ə}}), officially the '''Republic of Korea''' ('''ROK''', [[Hangul]]: {{lang|ko|대한민국}}, [[Hanja]]: {{lang|ko|大韓民國}}, {{IPA-ko|tɛːhanminɡuk̚|pron|Ko-Daehan_Minguk.ogg}}) and the '''[[Sixth Republic of South Korea]]''', is a [[country]] in [[East Asia]], located on the southern portion of the [[Korean Peninsula]]. It is neighbored by the [[People's Republic of China|China]] to the west, [[Japan]] to the east, and [[North Korea]] to the north. Its capital is [[Seoul]], which is also its largest city. South Korea lies in a [[temperate climate]] region with a predominantly mountainous terrain. Its territory covers a total area of 99,392 square kilometers<ref name="kgeography">{{cite web|http://www.asianinfo.org/asianinfo/korea/geography.htm#TERRITORY|title=Korea's Geography|publisher=Asianinfo.org|date=2010-02-01|accessdate=2010-07-13}}</ref> and has a population of {{Nowrap|50 million}}.
+
+Archaeological findings show that the Korean Peninsula was occupied by the [[Lower Paleolithic|Lower Paleolithic period]].<ref>{{cite web|url=http://www.rom.on.ca/news/releases/public.php?mediakey=sg1yebpnv8 |title=Ancient civilizations |publisher=Rom.on.ca |date= |accessdate=2010-04-25}}</ref><ref>[http://www.opm.go.kr/warp/webapp/content/view?meta_id=english&id=35 OPM.go.kr]</ref> [[Korean history]] begins with the founding of [[Gojoseon]] in 2333 [[Before Christ|BC]] by the legendary [[Dan-gun]]. Following the unification of the [[Three Kingdoms of Korea]] under [[Silla]] 668&nbsp;AD, [[Korea]] went through the [[Goryeo Dynasty]] and [[Joseon Dynasty]] as one nation until the end of the [[Korean Empire]] in 1910, when Korea was annexed by Japan. After [[Division of Korea|liberation and occupation]] by Soviet and U.S. forces at the end of [[World War II]], the nation was divided into North and South Korea. The latter was established in 1948 as a [[democracy]], though [[History_of_South_Korea#First Republic|political turmoil]], and periods of military rule and martial law, were to characterize much of the period until the foundation of the [[History_of_South_Korea#Sixth Republic|Sixth Republic]] in 1987.
+
+After the invasion of South Korea by forces from the North on {{Nowrap|25 June 1950}}, the resulting [[Korean War|war]] between the two Koreas ended with an [[s:Korean Armistice Agreement|Armistice Agreement]], but the border between the two nations is the most heavily fortified in the world.<ref name=border/> After the war, the [[Economy of South Korea|South Korean economy]] grew significantly and the country was eventually transformed into its present-day status as a [[G-20 major economies|major economy]]<ref>{{cite web|url=http://www.britannica.com/EBchecked/topic/322280/South-Korea/34997/Economic-and-social-developments|title=South Korea :: Economic and social developments|work=[[Encyclopædia Britannica]]|date=|accessdate=2010-02-18}}</ref> and a [[Democracy Index|full democracy]].
+
+South Korea is a [[presidential system|presidential]] [[republic]] consisting of sixteen [[Administrative divisions of South Korea|administrative divisions]] and is a [[developed country]] with a very high [[List of countries by Human Development Index|standard of living]]. It is Asia's fourth largest economy and the world's [[List of countries by GDP (nominal)|14th]] ([[Gross domestic product|nominal]]) or [[List of countries by GDP (PPP)|12th]] ([[purchasing power parity]]) largest economy.<ref>http://www.imf.org/external/pubs/ft/weo/2010/02/weodata/weorept.aspx?sy=2011&ey=2011&ssd=1&sort=country&ds=.&br=1&pr1.x=70&pr1.y=5&c=512,941,914,446,612,666,614,668,311,672,213,946,911,137,193,962,122,674,912,676,313,548,419,556,513,678,316,181,913,682,124,684,339,273,638,921,514,948,218,943,963,686,616,688,223,518,516,728,918,558,748,138,618,196,522,278,622,692,156,694,624,142,626,449,628,564,228,283,924,853,233,288,632,293,636,566,634,964,238,182,662,453,960,968,423,922,935,714,128,862,611,716,321,456,243,722,248,942,469,718,253,724,642,576,643,936,939,961,644,813,819,199,172,184,132,524,646,361,648,362,915,364,134,732,652,366,174,734,328,144,258,146,656,463,654,528,336,923,263,738,268,578,532,537,944,742,176,866,534,369,536,744,429,186,433,925,178,746,436,926,136,466,343,112,158,111,439,298,916,927,664,846,826,299,542,582,967,474,443,754,917,698,544&s=NGDPD&grp=0&a=</ref> The economy is export-driven, with production focusing on [[electronics]], [[Automotive industry|automobile]]s, [[Shipbuilding|ship]]s, [[machinery]], [[petrochemical]]s and [[robotics]]. South Korea is a member of the [[United Nations]], [[WTO]], [[OECD]] and [[G-20 major economies]]. It is also a founding member of [[APEC]] and the [[East Asia Summit]].
+
+==History==
+===Before the division===
+{{Main|History of Korea}}
+[[Image:SelectedTeachingsofBuddhistSagesandSonMasters1377.jpg|thumb|left|''[[Jikji]]'', the first known book printed with movable metal type in 1377. Bibliothèque Nationale de Paris.]]
+Korean history begins with the founding of Jo-seon (often known as "[[Gojoseon]]" to prevent confusion with another dynasty founded in the 14th century; the prefix Go- means 'old' or 'earlier') in 2333&nbsp;BC by [[Dangun]], according to Korean foundation mythology.<ref name=koreashistory>{{cite web|url=http://www.asianinfo.org/asianinfo/korea/history.htm|title=Korea's History|publisher=Asian Shravan|accessdate=2009-02-17}}</ref> Gojoseon expanded until it controlled northern Korean Peninsula and some parts of [[Manchuria]]. After many conflicts with the Chinese [[Han Dynasty]], Gojoseon disintegrated, leading to the [[Proto-Three Kingdoms of Korea]] period.
+
+In the early centuries of the Common Era, [[Buyeo Kingdom|Buyeo]], [[Okjeo]], [[Dongye]], and the [[Samhan]] confederacy occupied the peninsula and southern Manchuria. Of the various small states, [[Goguryeo]], [[Baekje]], and [[Silla]] grew to control the peninsula as [[Three Kingdoms of Korea]]. The unification of the Three Kingdoms by [[Unified Silla|Silla]] in 676 led to the [[North South States Period]], in which much of the Korean Peninsula was controlled by [[Unified Silla]], while [[Balhae]] succeeded the northern parts of Goguryeo. In [[Unified Silla]], poetry and art was encouraged, and Buddhist culture thrived. Relationships between Korea and China remained relatively peaceful during this time. However, Unified Silla weakened under internal strife, and surrendered to [[Goryeo]] in 935. [[Balhae]], Silla's neighbor to the north, was formed as a successor state to Goguryeo. During its height, Balhae controlled most of Manchuria and parts of Russia. It fell to the [[History of the Khitans|Khitan]] in 926.
+
+[[File:Gyeongbok Palace main attraction.png|thumb|right|[[Gyeongbokgung|Gyeongbok Palace]] is the largest of the [[Five Grand Palaces]] built during the [[Joseon Dynasty]].]]
+
+The peninsula was united by [[Taejo of Goryeo|Emperor Taejo]] of [[Goryeo]] in 936. Like Silla, Goryeo was a highly cultural state and created the [[Jikji]] in 1377, using the world's oldest movable metal type [[printing press]].<ref>{{cite web|url=http://www.digitaljikji.net/digital_jikji/main.asp|title=Digital Jikji|publisher=Digital Jikji|date=|accessdate=2010-04-25}}</ref> The [[Mongol invasions of Korea|Mongol invasions]] in the 13th century greatly weakened Goryeo. After nearly 30 years of war, Goryeo continued to rule Korea, though as a tributary ally to the Mongols. After the [[Mongolian Empire]] collapsed, severe political strife followed and the Goryeo Dynasty was replaced by the [[Joseon Dynasty]] in 1388 following a rebellion by General [[Taejo of Joseon|Yi Seong-gye]].
+
+King Taejo declared the new name of Korea as "Joseon" in reference to [[Gojoseon]], and moved the capital to [[Seoul]]. The first 200 years of the Joseon Dynasty were marked by relative peace and saw the creation of [[Hangul]] by [[Sejong the Great of Joseon|King Sejong the Great]] in the 14th century and the rise in influence of [[Confucianism]] in the country.
+
+Between 1592 and 1598, the [[Japanese invasions of Korea|Japanese invaded Korea]]. [[Toyotomi Hideyoshi]] led the forces and tried to invade the Asian continent through Korea, but was eventually repelled by the [[Righteous army]] and assistance from [[Ming Dynasty]] China. This war also saw the rise of Admiral [[Yi Sun-sin]] and his renowned "[[turtle ship]]". In the 1620s and 1630s, Joseon suffered from [[Manchu invasion of Korea|invasions by the Manchu]] who eventually conquered all of China.
+
+[[File:Gangnam-gu, Seoul, South Korea - February 2009.jpg|thumb|left|View of [[Seoul]]'s [[Gangnam-gu|Gangnam]] district today]]
+
+After another series of [[Second Manchu invasion of Korea|wars against Manchuria]], Joseon experienced a nearly 200-year period of peace. [[Yeongjo of Joseon|King Yeongjo]] and [[Jeongjo of Joseon|King Jeongjo]] particularly led a new renaissance of the Joseon Dynasty.
+
+However, the latter years of the Joseon Dynasty were marked by a dependence on China for external affairs and isolation from the outside world. During the 19th century, Korea's isolationist policy earned it the name the "[[Hermit Kingdom]]". The Joseon Dynasty tried to protect itself against Western [[imperialism]], but was eventually forced to open trade. After the [[Sino-Japanese War]] and the [[Russo-Japanese War]], Korea was [[Korea under Japanese rule|occupied by Japan]] (1910–1945). At the end of World War&nbsp;II, the Japanese surrendered to Soviet and U.S. forces who occupied the northern and southern halves of Korea, respectively.
+
+===After the division===
+{{Main|History of South Korea}}
+Despite the initial plan of a unified Korea in the 1943 [[Cairo Declaration]], escalating [[Cold War]] antagonism between the [[Soviet Union]] and the United States eventually led to the establishment of separate governments, each with its own [[ideology]], leading to [[division of Korea|Korea's division]] into two political entities in 1948: [[North Korea]] and South Korea. In the North, a former anti-Japanese guerrilla and communist activist, [[Kim Il-sung]] gained power through Soviet support, and in the South, an exiled and right-wing Korean political leader, [[Syngman Rhee]], was installed as president.
+
+[[File:Seoul.Olympic.Stadium.01 copy.jpg|thumb|right|The [[Seoul Olympic Stadium]], seen from the [[Han River (Korea)|Han River]], hosted the [[1988 Summer Olympics]].]]
+
+On 25 June 1950, [[North Korea]] invaded South Korea, sparking the [[Korean War]], the Cold War's first major conflict. At the time, the [[Soviet Union]] had boycotted the [[United Nations]] (UN), thus forfeiting their veto rights. This allowed the UN to intervene in a civil war when it became apparent that the superior North Korean forces would unify the entire country. The Soviet Union and China backed North Korea, with the later participation of millions of [[People's Liberation Army|Chinese troops]]. After huge advances on both sides, and massive losses among Korean civilians in both the north and the south, the war eventually reached a stalemate. The 1953 armistice, never signed by South Korea, split the peninsula along the [[Korean Demilitarized Zone|demilitarized zone]] near the original demarcation line. No peace treaty was ever signed, resulting in the two countries remaining technically at war. At least {{Nowrap|2.5 million}} people died during the Korean War.<ref>[http://www.britannica.com/EBchecked/topic/322419/Korean-War Korean War (1950–53)]. Britannica Online Encyclopedia.</ref>
+
+In 1960, [[April Revolution|a student uprising]] (the "4.19 Revolution") led to the resignation of the autocratic President [[Syngman Rhee]]. A period of political instability followed, broken by General [[Park Chung-hee]]'s [[Supreme Council for National Reconstruction|military coup]] (the "5.16 ''coup d'état''") against the weak and ineffectual government the next year. Park took over as president until [[Assassination of Park Chung-hee|his assassination]] in 1979, overseeing rapid [[Export-oriented industrialization|export-led economic growth]] as well as severe political repression. Park was heavily criticised as a ruthless military dictator, although the Korean economy developed significantly during his tenure.
+
+The years after Park's assassination were marked again by political turmoil, as the previously repressed opposition leaders all campaigned to run for president in the sudden political void. In 1979 there was [[Coup d'état of December Twelfth]] by General [[Chun Doo-hwan]]. After the Coup d'état, Chun Doo-hwan planned to rise to power with several measures. On May 17, Chun Doo-hwan forced the Cabinet to expand martial law to the whole nation, which had previously not applied to Jeju-do. The expanded martial law closed universities, banned political activities and further curtailed the press. Chun assumed the presidency by the event of May 17, triggering nationwide protests demanding [[democracy]], in particular in the city of [[Gwangju]], where Chun sent special forces to violently suppress the [[Gwangju Democratization Movement]].<ref>[http://news.bbc.co.uk/2/hi/asia-pacific/752055.stm Flashback: The Kwangju massacre], 2000-05-17.</ref>
+
+Chun subsequently created the National Defense Emergency Policy Committee and took the presidency according to his political plan. Chun and his government held Korea under a despotic rule until 1987, when a [[Seoul National University]] student was tortured to death.<ref>[http://english.hani.co.kr/arti/english_edition/e_national/184219.html 20 years later, father still seeks truth in son's death], The Hankyoreh, 2007-01-15. Retrieved 2010-07-15.</ref> On {{Nowrap|10 June}}, the [[Catholic Priests Association for Justice]] revealed the incident, igniting huge demonstrations around the country. Eventually, Chun's party, the [[Democratic Justice Party]], and its leader, [[Roh Tae-woo]] announced the June 29th Declaration, which included the direct election of the president. Roh went on to win the election by a narrow margin against the two main opposition leaders, [[Kim Dae-Jung]] and [[Kim Young-Sam]].
+
+In 1988, Seoul hosted the [[1988 Summer Olympics]]. It became a member of the [[Organization for Economic Co-operation and Development]] (OECD) in 1996.<ref>[http://www.oecd.org/about/0,3347,en_33873108_33873555_1_1_1_1_1,00.html About Korea], OECD</ref> It was adversely affected by the [[1997 Asian Financial Crisis]]. However, the country was able to recover and continue its economic growth, albeit at a slower pace.
+
+In June 2000, as part of president Kim Dae-Jung's "[[Sunshine Policy]]" of engagement, a [[Inter-Korean Summit|North–South summit]] took place in [[Pyongyang]], the capital of North Korea. Later that year, Kim received the [[Nobel Peace Prize]] "for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular."<ref>{{cite web|url=http://nobelprize.org/nobel_prizes/peace/laureates/2000/index.html|title=The Nobel Peace Prize 2000|publisher=The Nobel Foundation|year=2000|accessdate=2009-02-17}}</ref>
+
+In 2002, South Korea and Japan jointly co-hosted the [[2002 FIFA World Cup]], however [[Japan–Korea relations|South Korean and Japanese relations]] later [[Japan–Korea disputes|soured]] due to conflicting claims of [[sovereignty]] over the [[Liancourt Rocks]] (referred to as Dokdo in Korea, and Takeshima in Japan), in what became known as the [[Liancourt Rocks dispute]].
+
+==Government==
+{{Main|Government of South Korea}}
+[[File:Seoul-National.Assembly-02.jpg|thumb|left|The [[National Assembly of South Korea]]]]
+Like many democracies,<ref>{{cite web|url=http://a330.g.akamai.net/7/330/25828/20081021185552/graphics.eiu.com/PDF/Democracy%20Index%202008.pdf|title=The Economist Intelligence Unit's Index of Democracy 2008|format=PDF|date=|accessdate=2010-04-25}}</ref> South Korea's government is divided into three branches: [[executive (government)|executive]], [[judiciary|judicial]], and [[legislature|legislative]]. The executive and legislative branches operate primarily at the national level, although various ministries in the executive branch also carry out local functions. Local governments are semi-autonomous, and contain executive and [[legislative bodies]] of their own. The judicial branch operates at both the national and local levels. South Korea is a constitutional democracy.
+
+The South Korean government's structure is determined by the [[Constitution of the Republic of Korea]]. This document has been revised several times since its first promulgation in 1948 at independence. However, it has retained many broad characteristics and with the exception of the short-lived [[Second Republic of South Korea]], the country has always had a presidential system with an independent chief executive.<ref>{{cite web|url=http://www.servat.unibe.ch/icl/ks00000_.html|title=South Korea - Constitution|publisher=International Constitutional Law|accessdate=2009-02-16}}</ref> The first direct [[Elections in South Korea|election]] was also held in 1948. Although South Korea experienced a series of military dictatorships since the 1960s up until the 1980s, it has since developed into a successful [[liberal democracy]]. Today, the [[The World Factbook|CIA World Factbook]] describes South Korea's democracy as a "fully functioning modern democracy".<ref name=ciawfb>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ks.html|title=Korea, South|publisher=[[Central Intelligence Agency]]|work=[[The World Factbook]]|date=10 February 2009|accessdate=2009-02-16}}</ref>
+
+==Administrative divisions==
+{{Main|Administrative divisions of South Korea}}
+:''See also [[Special cities of Korea]] and [[Provinces of Korea]]''
+[[File:Provinces of South Korea.svg|thumb|Principal divisions of South Korea]]
+The major administrative divisions in South Korea are '''provinces''', '''metropolitan cities''' (self-governing cities that are not part of any province), and one '''special city'''.
+{|class="wikitable"
+|-
+! !!Name<sup>a</sup>!![[hangul]]!![[hanja]]!![[population]]
+|-
+!colspan="5"|Special city (''Teukbyeolsi'')<sup>a</sup>
+|-
+|1||[[Seoul|Seoul (Special City)]]||서울특별시||漢城特別市||10,421,782
+|-
+!colspan="32"|Metropolitan cities (''Gwangyeoksi'')<sup>a</sup>
+|-
+|2||[[Busan]]||부산광역시||釜山廣域市||3,635,389
+|-
+|3||[[Daegu]]||대구광역시||大邱廣域市||2,512,604
+|-
+|4||[[Incheon]]||인천광역시||仁川廣域市||2,628,000
+|-
+|6||[[Daejeon]]||대전광역시||大田廣域市||1,442,857
+|-
+|5||[[Gwangju]]||광주광역시||光州廣域市||1,415,953
+|-
+|7||[[Ulsan]]||울산광역시||蔚山廣域市||1,087,958
+|-
+!colspan="5"|Provinces (''Do'')<sup>a</sup>
+|-
+|8||[[Gyeonggi-do]]||경기도||京畿道||10,415,399
+|-
+|9||[[Gangwon-do (South Korea)|Gangwon-do]]||강원도||江原道||1,592,000
+|-
+|10||[[Chungcheongbuk-do]] (Northern Chungcheong)||충청북도||忠淸北道||1,462,621
+|-
+|11||[[Chungcheongnam-do]] (Southern Chungcheong)||충청남도||忠淸南道||1,840,410
+|-
+|12||[[Jeollabuk-do]] (Northern Jeolla)||전라북도||全羅北道||1,890,669
+|-
+|13||[[Jeollanam-do]] (Southern Jeolla)||전라남도||全羅南道||1,994,287
+|-
+|14||[[Gyeongsangbuk-do]] (Northern Gyeongsang)||경상북도||慶尙北道||2,775,890
+|-
+|15||[[Gyeongsangnam-do]] (Southern Gyeongsang)||경상남도||慶尙南道||2,970,929
+|-
+!colspan="5"|Special self-governing province (''Teukbyeoljachi-do'')<sup>a</sup>
+|-
+|16||[[Jeju-do|Jeju-teukbyeoljachido]] (Jeju-do)||제주특별자치도||濟州特別自治道||560,000
+|}
+{{Smaller|<sup>a</sup> [[Revised Romanisation of Korean|Revised Romanisation]].}}
+
+==Foreign relations==
+{{Main|Foreign relations of South Korea}}
+South Korea maintains diplomatic relations with more than 188 countries. The country has also been a member of the [[United Nations]] since 1991, when it became a member state at the same time as North Korea. On January 1, 2007, South Korean Foreign Minister [[Ban Ki-moon]] assumed the post of [[United Nations Secretary-General|UN Secretary-General]]. It has also developed links with the [[Association of Southeast Asian Nations]] as both a member of ''ASEAN Plus three,'' a body of observers, and the [[East Asia Summit]] (EAS).
+
+In 2010, South Korea and the [[European Union]] concluded a [[European Union-Korea Free Trade Agreement|free trade agreement]] (FTA) to reduce trade barriers. South Korea is also negotiating a Free Trade Agreement with Canada,<ref>{{cite web|url=http://www.international.gc.ca/trade-agreements-accords-commerciaux/agr-acc/korea-coree/index.aspx?lang=en|title=Canada-Korea – Free Trade Agreement Negotiations|publisher=Foreign Affairs and International Trade Canada|date=5 January 2009|accessdate=2009-03-05}}</ref> and another with [[New Zealand]].<ref>{{cite web|url=http://news.xinhuanet.com/english/2009-03/03/content_10933684.htm|title=South Korea, New Zealand launch FTA negotiations English Xinhua|publisher=News.xinhuanet.com|date=2009-03-03|accessdate=2010-02-18}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> In November 2009 South Korea joined the OECD [[Development Assistance Committee]], marking the first time a former aid recipient country joined the group as a donor member. South Korea hosted the G-20 Summit in Seoul in November 2010.
+
+===China===
+{{main|People's Republic of China-South Korea relations|Republic of China-South Korea relations}}
+Historically, Korea has had close relations with China. Before the formation of South Korea, Korean independence fighters worked with Chinese soldiers during the Japanese occupation. However, after [[World War&nbsp;II]], the People's Republic of China embraced [[Maoism]] while South Korea sought close relations with the United States. The PRC assisted North Korea with manpower and supplies during the [[Korean War]], and in its aftermath the diplomatic relationship between South Korea and the PRC almost completely ceased. Relations thawed gradually and South Korea and the PRC re-established formal diplomatic relations on August 24, 1992. The two countries sought to improve bilateral relations and lifted the forty-year old trade embargo, and<ref name="autogenerated2">{{cite web|url=http://www.atimes.com/atimes/Korea/FI11Dg03.html |title=Asia Times&nbsp;– News and analysis from Korea; North and South |publisher=Atimes.com |date=2004-09-11 |accessdate=2010-04-25}}</ref> South Korean–Chinese relations have improved steadily since 1992.<ref name="autogenerated2" /> The Republic of Korea broke off official relations with the [[Republic of China]] upon gaining official relations with the People's Republic of China.<ref>[http://www.nytimes.com/1992/08/24/world/chinese-and-south-koreans-formally-establish-relations.html NYtimes.com], published 1992-08-24</ref>
+
+===European Union===
+
+The [[European Union]] (EU) and South Korea are important trading partners, having negotiated a [[free trade agreement]] for many years since South Korea was designated as a priority FTA partner in 2006. The free trade agreement has been approved in September 2010, following [[Italy]]'s conditional withdrawal of its veto of the free trade agreement.<ref>{{cite news|url=http://www.google.com/hostednews/afp/article/ALeqM5hjiU353BrLQrVT2oZEu5HPb40ugA|publisher=AFP|title=EU agrees free trade deal with S.Korea|date=2009-09-16}}</ref> The compromise made by Italy was that free trade agreement would take provisional effect on July 1, 2011. South Korea is the EU's eighth largest trade partner, and the EU has become South Korea's second largest export destination. EU trade with South Korea exceeded €65 billion in 2008 and has enjoyed an annual average growth rate of 7.5% between 2004 and 2008.<ref name=EU>{{cite news|url=http://ec.europa.eu/trade/creating-opportunities/bilateral-relations/countries/korea/|publisher=European Commission|title=Bilateral Relations: Korea}}</ref>
+
+The EU has been the single largest foreign investor in South Korea since 1962, and accounted for almost 45% of all FDI inflows into Korea in 2006. Nevertheless, EU companies have significant problems accessing and operating in the South Korean market due to stringent standards and testing requirements for products and services often creating barriers to trade. Both in its regular bilateral contacts with South Korea and through its FTA with Korea, the EU is seeking to improve this situation.<ref name=EU />
+
+===Japan===
+{{main|Japan-Korea relations}}
+[[File:Dokdo 20080628-panorama.jpg|thumb|[[Dokdo]] has become an issue known as the [[Liancourt Rocks dispute]]]]
+Although there were no formal diplomatic ties between South Korea and Japan after the end of World War&nbsp;II, South Korea and Japan signed the [[Treaty on Basic Relations between Japan and the Republic of Korea]] in 1965 to establish diplomatic ties. There is heavy [[Anti-Japanese sentiment in Korea|anti-Japanese sentiment in South Korea]] due to a number of unsettled [[Japanese-Korean disputes]], many of which stem from the period of [[Korea under Japanese rule|Japanese occupation]] after the [[Japan–Korea Treaty of 1910|Japanese annexation of Korea]]. During [[World War&nbsp;II]], more than 100,000 Koreans were forced to serve in the [[Imperial Japanese Army]].<ref>A Brief History of the US-Korea Relations Prior to 1945. "While less than 100 Koreans in America enlisted in the US military during World War&nbsp;II, more than 100,000 Koreans served in the Japanese army as officers and soldiers. There were two Korean Lt. Generals in the Japanese Army: a Chosun prince, whose rank was honorary and who commanded no troops; and Lt. Gen. Hong Sa-Ik, who was a professional military man from the old Chosun army."</ref><ref>{{cite web|url=http://www.gangje.go.kr/admin_view0305.asp?idx=711&page=1|title=Truth Commission on Forced Mobilization under the japanese Imperialism Republic of Korea.|accessdate=18/03/9}}{{dead link|date=October 2010}}</ref> Korean women were forced to the war front to serve the Imperial Japanese Army as sexual slaves, called [[comfort women]].<ref>{{cite web|url=http://www.jpri.org/publications/workingpapers/wp77.html|title=Japan's Responsibility Toward Comfort Women Survivors.|accessdate=27/09/9}}</ref><ref>{{cite web|url=http://www.comfort-women.org/index.php|title=Washington Coalition for Comfort Women Issues Inc|publisher=Comfort-women.org|date=|accessdate=2010-02-18}}</ref>
+
+Longstanding issues such as [[Japanese war crimes]] against Korean civilians, the visits by Japanese politicians to the [[Yasukuni Shrine]] honoring Japanese soldiers killed at war (including some class A war criminals), the re-writing of [[Japanese history textbook controversies|Japanese textbooks]] related to Japanese acts during World War&nbsp;II, and the territorial disputes over [[Dokdo]] (Unofficial name: Liancourt Rocks)<ref>{{cite web|url=http://www.dynamic-korea.com/news/view_news.php?main=KTD&sub=&uid=200800220395&keyword= |title=Dynamic-korea.com |publisher=Dynamic-korea.com |date= |accessdate=2010-10-29}}</ref> continue to trouble Korean-Japanese relations. Although Dokdo is claimed by both Korea and Japan, the islets are administered by South Korea, which has its [[Korean Coast Guard]] stationed there.<ref name="globalsecurity">[http://www.globalsecurity.org/military/world/war/liancourt.htm "Liancourt Rocks / Takeshima / Dokdo / Tokto"], ''[[Globalsecurity]]''</ref>
+
+In response to then-[[Prime Minister of Japan|Prime Minister]] [[Junichiro Koizumi]]'s repeated visits to the Yasukuni Shrine, former [[President of South Korea|President]] Roh Moo-hyun suspended all summit talks between South Korea and Japan.<ref>{{cite news|url=http://www.voanews.com/Korean/archive/2006-03/2006-03-17-voa12.cfm|archiveurl=http://web.archive.org/web/20080507103851/http://www.voanews.com/Korean/archive/2006-03/2006-03-17-voa12.cfm|archivedate=2008-05-07|title=President Roh Moo-hyun will not hold a summit with Japanese Prime Minister Junichiro Koizumi until Koizumi stops visits to Japan's Yasukuni shrine|publisher=[[Voice of America]]|date=17 March 2006|accessdate=2009-02-15}}</ref>
+
+===North Korea===
+Both [[North Korea|North]] and South Korea continue to officially claim sovereignty over the entire peninsula and any outlying islands. With longstanding animosity following the [[Korean War]] from 1950 to 1953, North Korea and South Korea signed an agreement to pursue peace.<ref name="autogenerated4">{{cite news|url=http://uk.reuters.com/article/worldNews/idUKSEO16392220071004|title=FACTBOX&nbsp;– North, South Korea pledge peace, prosperity |accessdate=2007-10-04|publisher=Thomson Reuters|agency=Reuters|date=4 October 2007|accessdate=2009-02-17}}</ref> On October 4, 2007, Roh Moo-Hyun and North Korean leader [[Kim Jong-il]] signed an eight-point agreement on issues of permanent peace, high-level talks, economic cooperation, renewal of train services, highway and air travel, and a joint Olympic cheering squad.<ref name="autogenerated4" />
+
+Despite the Sunshine Policy and efforts at reconciliation, the progress was complicated by [[North Korean missile tests]] in [[1993 North Korean missile test|1993]], [[1998 North Korean missile test|1998]], [[2006 North Korean nuclear test|2006]] and [[2009 North Korean nuclear test|2009]]. {{As of|2009|May|alt=As of early 2009}}, relationships between North and South Korea were very tense; North Korea had been reported to have deployed missiles,<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/7905361.stm|title=North Korea deploying more missiles|publisher=BBC News|date=23 February 2009}}</ref> ended its former agreements with South Korea,<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/7859671.stm|title=North Korea tears up agreements|publisher=BBC News|date=30 January 2009|accessdate=2009-03-08}}</ref> and threatened South Korea and the United States not to interfere with a satellite launch it had planned.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/7931670.stm|publisher=BBC News|date=3 March 2009|accessdate=2009-03-08|title=North Korea warning over satellite}}</ref>
+North and South Korea are still technically at war (having never signed a peace treaty after the Korean War) and share the world's most heavily fortified border.<ref name=border>{{cite news|url=http://edition.cnn.com/2004/WORLD/asiapcf/06/03/koreas.agree/index.html|title= Koreas agree to military hotline - Jun 4, 2004|publisher=Edition.cnn.com|date=2004-06-04|accessdate=2010-02-18}}</ref> On May 27, 2009, North Korean media declared that the Armistice is no longer valid due to the South Korean government's pledge to "definitely join" the [[Proliferation Security Initiative]].{{Citation needed|date=November 2010}} To further complicate and intensify strains between the two nations, the [[ROKS Cheonan sinking|sinking of the South Korean warship Cheonan]] in March 2010, is affirmed by the South Korean government<ref>{{cite news|url=http://www.koreatimes.co.kr/www/news/nation/2010/09/205_72997.html|publisher=Korea Times|title=Seoul reaffirms N. Korea’s torpedo attack in final report|date=2010-09-13}}</ref> to have been caused by a North Korean torpedo, which the North denies. President Lee Myung-bak declared in May 2010 that Seoul would cut all trade with North Korea as part of measures primarily aimed at striking back at North Korea diplomatically and financially, except for the joint Kaesong Industrial Project, and humanitarian aid.<ref name=kaesong>{{cite news|url=http://english.chosun.com/site/data/html_dir/2010/05/25/2010052501206.html|publisher=Chosun Ilbo|title=Seoul Decides to Continue Kaesong Project, Humanitarian Aid|date=2010-05-25}}</ref> North Korea initially threatened to sever all ties, to completely abrogate the previous pact of non-aggression, and to expel all South Koreans from [[Kaesong Industrial Region|a joint industrial zone in Kaesong]], but backtracked on its threats and decided to continue its ties with South Korea. But despite the continuing ties, Kaesong industrial zone has seen a large decrease in investment and manpower as a result of this military conflict.
+
+Timeline for 2010<ref name=kaesong />
+*26 March: South Korean [[ROKS Cheonan sinking|warship Cheonan sinks]], killing 46 sailors
+*20 May: Panel says a North Korean torpedo sank the ship; Pyongyang denies involvement
+*July–September: South Korea and US hold military exercises; US places more sanctions on Pyongyang
+*29 September: North holds rare party congress seen as part of father-to-son succession move
+*29 October: Troops from North and South Korea exchange fire across the land border
+*12 November: North Korea shows US scientist new - undeclared - uranium enrichment facility
+*23 November: North [[Bombardment of Yeonpyeong|shells island of Yeonpyeong]], killing four South Koreans
+
+===United States===
+The United States engaged in the decolonization of Korea (mainly in the South, with the Soviet Union engaged in North Korea) from Japan after World War&nbsp;II. After three years of military administration by the United States, the South Korean government was established. Upon the onset of the Korean War, U.S. forces were sent to defend South Korea against invasion by North Korea and later China. Following the Armistice, South Korea and the U.S. agreed to a "Mutual Defense Treaty", under which an attack on either party in the [[Pacific]] area would summon a response from both.<ref>{{cite news|url=http://avalon.law.yale.edu/20th_century/kor001.asp|publisher=Yale Law School|title=Mutual Defense Treaty Between the United States and the Republic of Korea; October 1, 1953}}</ref> In 1967, South Korea obliged the mutual defense treaty, by sending a large combat troop contingent to support the United States in the [[Vietnam War]]. The [[US Eighth Army|U.S. Eighth Army]], [[Seventh Air Force]], and [[Commander Naval Forces Korea|U.S. Naval Forces Korea]] are stationed in South Korea. The two nations have strong economic, diplomatic, and military ties, although they have at times disagreed with regard to policies towards North Korea, and with regard to some of South Korea's industrial activities that involve usage of rocket or nuclear technology. There had also been strong anti-American sentiment during certain periods, which has largely moderated in the modern day.<ref>{{cite news|url=http://journals.cambridge.org/action/displayFulltext?type=1&fid=7819663&jid=PSC&volumeId=43&issueId=03&aid=7819661|publisher=Cambridge University Press|title=South Korean Attitudes toward the ROK–U.S. Alliance: Group Analysis|author=Haesook Chae|year=2010}}</ref> In 2007, a free trade agreement known as the [[South Korea – United States Free Trade Agreement|Republic of Korea-United States Free Trade Agreement]] (KORUS FTA) was reportedly signed between South Korea and the United States, but its formal implementation has been repeatedly delayed, pending further approval by the legislative bodies of the two countries.
+
+==Military==
+{{Main|Republic of Korea Armed Forces}}
+
+A long history of invasions by neighbors and the unresolved tension with North Korea have prompted South Korea to allocate 2.6% of its GDP and 15% of all government spending to its military (Government share of GDP: 14.967%), while maintaining compulsory conscription for men.<ref>{{cite web|author=John Pike |url=http://www.globalsecurity.org/military/world/rok/budget.htm |title=Defense Budget - South Korea |publisher=Globalsecurity.org |date= |accessdate=2010-10-29}}</ref> Consequently, South Korea has the world's sixth largest number of [[List of countries by number of total troops|active troops]],<ref name="South Korea">{{cite news|title=South Korea's Armed Forces, CSIS (Page 24)|date=2006-07-25|url=http://www.csis.org/media/csis/pubs/060626_asia_balance_powers.pdf}}</ref> the world's second-largest number of [[List of countries by size of armed forces|reserve troops]]<ref name="South Korea"/> and the eleventh largest [[List of countries by military expenditures|defense budget]]. The Republic of Korea, with a regular military force numbering {{Nowrap|3.7 million}} regular personnel among a total national population of {{Nowrap|50 million}} people, has the second highest number of soldiers per capita in the world,<ref name="South Korea"/> after the Democratic People's Republic of Korea.<ref>Bermudez (2001), pg 1.</ref>
+
+[[File:US Navy 100730-N-8539M-181 The Republic of Korea Navy guided-missile destroyer ROKS Sejong the Great (DDG 991) returns to Joint Base Pearl Harbor-Hickam after participating in Rim of the Pacific (RIMPAC) 2010 exercises.jpg|thumb|[[Republic of Korea Navy|ROKN]] Sejong the Great (DDG 991), a [[King Sejong the Great class destroyer|''King Sejong the Great'']] -class [[guided-missile destroyer]]]]
+
+The South Korean military consists of the [[Republic of Korea Army|Army]] (ROKA), the [[Republic of Korea Navy|Navy]] (ROKN), the [[Republic of Korea Air Force|Air Force]] (ROKAF), and the [[Republic of Korea Marine Corps|Marine Corps]] (ROKMC), and reserve forces.<ref>GlobalSecurity on Military of Republic of Korea, [http://www.globalsecurity.org/military/world/rok/index.html Globalsecurity.org]</ref> Many of these forces are concentrated near the [[Korean Demilitarized Zone]]. All South Korean males are constitutionally required to serve in the military, typically for a period of two years. Previously, Koreans of mixed race were exempt from military duty if they "look distinctively biracial", but such policy is potentially up for abolition pending further review by the Ministry of Defence.<ref>{{cite web|url=http://koreatimes.co.kr/www/news/nation/2009/10/116_52759.html|title=Military Duty Exemption for Biracial Koreans Will Be Scrapped|publisher=Koreatimes.co.kr|date=2009-09-30|accessdate=2010-02-18}}</ref>
+
+In addition to male conscription in South Korea's sovereign military, 1000 Korean males are selected every year to serve two years in the [[KATUSA]] Program to further augment the USFK.<ref>
+{{cite web|url=http://www.globalsecurity.org/military/agency/army/8army.htm|title=Eighth United States Army (EUSA)|date=27 December 2005|accessdate=February 6, 2010|publisher=[[GlobalSecurity.org]]|quote=The KATUSA Program is significant not only because of the military manpower and monetary savings that it provides to the U.S. Army, but also because it represents ROK/U.S. cooperation and commitment to deter war. The KATUSA Program is symbolic of ROK/U.S. friendship and mutual support.}}</ref> In 2010, South Korea was spending ₩1.68 trillion in a cost-sharing agreement with the US to provide budgetary support to the US forces in Korea, on top the ₩29.6 trillion budget for its own military.
+
+The [[South Korean army]] has 2,500 [[tank]]s in operation, including the [[K1A1]] and [[K2 Black Panther]], which form the backbone of the South Korean army's mechanized armor and infantry forces. A sizable arsenal of many artillery systems, including 1,700 self-propelled [[M109 howitzer|K55]] and [[K9 Thunder]] howitzers, and 680 helicopters and UAVs of numerous types, are assembled to provide additional fire, reconnaissance, and logistics support. South Korea's smaller but more advanced artillery force and wide range of airborne reconnaissance platforms are pivotal in the [[Counter-battery fire|counter-battery suppression]] of North Korea's over-sized artillery force, which operates more than 13,000 artillery systems deployed in various state of fortification and mobility.<ref name="South Korea"/><ref>
+{{cite web|url=http://www.globalsecurity.org/military/ops/oplan-5027.htm|title=OPLAN 5027 Major Theater War - West}}</ref>
+
+The [[Republic of Korea Navy|South Korean navy]] has made its first major transformation into a blue-water navy through the formation of the Strategic Mobile Fleet, which includes a battle group of [[Chungmugong Yi Sun-sin class destroyer]]s, [[Dokdo class amphibious assault ship]], [[Air-independent propulsion|AIP-driven]] [[Type 214 submarine]]s, and [[King Sejong the Great class destroyer]]s, which is equipped with the latest baseline of [[Aegis combat system|Aegis fleet-defense]] system that allows the ships to track and destroy multiple cruise missiles and ballistic missiles simultaneously, forming an integral part of South Korea's indigenous missile defense umbrella against the North Korean military's missile threat.<ref>{{cite web|title=South Korea Beefs Up Anti-Air Defenses as North Blusters|url=http://www.defenseindustrydaily.com/South-Korea-Beefs-Up-Anti-Air-Defenses-as-North-Blusters-05465/}}</ref>
+
+The [[Republic of Korea Air Force|South Korean air force]] operates 840 aircrafts, making it world's ninth largest air force, including several types of advanced fighters like [[F-15K]], heavily modified [[F-16 Fighting Falcon variants#KF-16|KF-16C/D]],<ref>{{cite web|url=http://www.f-16.net/f-16_users_article18.html |title=F-16.net |publisher=F-16.net |date= |accessdate=2010-10-29}}</ref> and the indigenous [[T-50 Golden Eagle|F/A-50]],<ref>{{cite web|url=http://img638.imageshack.us/img638/3158/a50sidewinder.jpg |title=Imageshack.us |date= |accessdate=2010-10-29}}</ref><ref>{{cite web|url=http://img132.imageshack.us/img132/9165/a50popeye.jpg |title=Imageshack.us |date= |accessdate=2010-10-29}}</ref>  supported by well-maintained fleets of older fighters such as [[McDonnell Douglas F-4 Phantom II|F-4E]] and [[Northrop F-5|KF-5E/F]] that still effectively serve the air force alongside the more modern aircraft. In an attempt to gain strength in terms of not just numbers but also modernity, the commissioning of four [[Boeing&nbsp;737 AEW&C]] aircraft, under Project Peace Eye for [[C4ISTAR|centralized intelligence gathering and analysis]] on a modern battlefield, will enhance the fighters' and other support aircraft's ability to perform their missions with awareness and precision.
+
+[[File:F-15Ks ROKAF with USAF F-16C 2009.jpg|thumb|right|[[Republic of Korea Air Force|ROKAF]] [[F-15K]] [[strike fighter]]s]]
+
+From time to time, South Korea has sent its troops overseas to assist American forces. It has participated in most major conflicts that the United States has been involved in the past 50 years. South Korea dispatched 325,517 troops to fight alongside American, Australian, [[Philippines|Filipino]], [[New Zealand]] and [[South Vietnam]]ese soldiers in the [[Vietnam War]], with a peak strength of 50,000. In 2004, South Korea sent 3,300 troops of the [[Zaytun Division]] to help re-building in northern [[Iraq]], and was the third largest contributor in the [[Multinational force in Iraq|coalition forces]] after only the US and Britain.<ref>{{cite web|url=http://www.army.mil.kr:7081/zaytun2/english/index.jsp|title=Zaytun Division official website|publisher=|date=|accessdate=2009-02-17}}{{Dead link|date=February 2009}}</ref> Beginning in 2001, South Korea had so far deployed 24,000 troops in the Middle East region to support the [[War on Terrorism]]. A further 1,800 were deployed since 2007 to reinforce UN peacekeeping forces in [[Lebanon]].
+
+The United States have stationed a substantial contingent of [[troop]]s in South Korea since the [[Korean War]] to defend South Korea in case of [[East Asia]]n military crises. There are approximately 28,500 [[United States Forces Korea|U.S. Military personnel stationed in Korea]],<ref>{{cite web|url=http://www.newsweek.com/id/68465|title=America's Unsinkable Fleet|publisher=Newsweek|date=26 Feb 2007|accessdate=2009-02-17}}</ref> most of them serving one year of unaccompanied tours. The American troops, which primarily are assigned to the [[Eighth United States Army]] are stationed in installations at [[Osan]], Yongsan, [[Dongducheon]], Sungbuk, and [[Daegu]]. A still functioning [[United Nations Command (Korea)|UN Command]] is technically the top of the [[chain of command]] of all forces in South Korea, including the US forces and the entire South Korean military – if a sudden escalation of war between North and South Korea were to occur the United States would assume control of the South Korean armed forces in all military and paramilitary moves. However, in September 2006, the Presidents of the United States and the Republic of Korea agreed that South Korea should assume the lead for its own defense. In early 2007, the U.S. Secretary of Defense and ROK Minister of National Defense determined that South Korea will assume wartime operational control of its forces on April 17, 2012. U.S. Forces Korea will transform into a new joint-warfighting command, provisionally described as Korea Command (KORCOM).<ref>{{cite web|url=http://www.globalsecurity.org/military/world/rok/doctrine.htm|title=South Korean Military Doctrine|publisher=Global Security|date=2 March 2009|accessdate=2009-06-07}}</ref>
+
+==Geography, climate and environment==
+{{Main|Geography of South Korea|National parks of South Korea}}
+
+=== Geography ===
+
+[[File:South Korea Topography.png|thumb|left|[[Topography]] of South Korea]]
+[[File:Korea-Boseong-Green.tea-09.jpg|thumb|[[Boseong]] tea field]]
+
+{{Location map National parks of South Korea|width=286|float=right}}
+
+South Korea occupies the southern portion of the [[Korean Peninsula]], which extends some 680 miles (1,100&nbsp;km) from the Asian mainland. This mountainous peninsula is flanked by the [[Yellow Sea]] to the west, and [[Sea of Japan]] ([[Sea of Japan naming dispute|East Sea]])<!--Please do not change the naming here without first discussing it at the Talk page.--> to the east. Its southern tip lies on the [[Korea Strait]] and the [[East China Sea]].
+
+The country, including all its islands, lies between latitudes [[33rd parallel north|33°]] and [[39th parallel north|39°N]], and longitudes [[124th meridian east|124°]] and [[130th meridian east|130°E]]. Its total area is {{convert|38622.57|sqmi|km2|2}}.<ref>The estimated area rises steadily from year to year, possibly due to land reclamation. {{cite web|url=http://kosis.nso.go.kr/cgi-bin/sws_999.cgi?ID=DT_1A1&IDTYPE=3&A_LANG=1&FPUB=3&SELITEM=|work=Korea Statistical Information Service|title=행정구역(구시군)별 국토적|accessdate=2006-03-27}}</ref>
+
+South Korea can be divided into four general regions: an eastern region of high mountain ranges and narrow [[coastal plains]]; a western region of broad coastal plains, [[drainage basin|river basins]], and rolling hills; a southwestern region of mountains and valleys; and a southeastern region dominated by the broad basin of the [[Nakdong River]].<ref name="korea geo">[http://www.asianinfo.org/asianinfo/korea/geography.htm#LAND Geography of Korea], Asia Info Organization</ref>
+
+South Korea's terrain is mostly mountainous, most of which is not [[arable land|arable]]. [[Lowland]]s, located primarily in the west and southeast, make up only 30% of the total land area.
+
+About three thousand islands, mostly small and uninhabited, lie off the western and southern coasts of South Korea. [[Jeju-do]] is located about 100 kilometers (about 60&nbsp;mi) off the southern coast of South Korea. It is the country's largest island, with an area of 1,845 square kilometres (712 sq mi). Jeju is also the site of South Korea's highest point: [[Hallasan]], an extinct [[volcano]], reaches 1,950 meters (6,398&nbsp;ft) above sea level. The most eastern islands of South Korea include [[Ulleungdo]] and [[Liancourt Rocks]] (Dokdo), while [[Marado]] and [[Socotra Rock]] are the southernmost islands of South Korea.<ref name="korea geo"/>
+
+South Korea has [[National parks of South Korea|20 national parks]] and popular nature places like the [[Boseong|Boseong Tea Fields]], [[Suncheon Ecological Park|Suncheon Bay Ecological Park]], and the first national park of [[Jirisan]].<ref>{{cite web|url=http://english.knps.or.kr/ |title=Korea Nationa Park Service official site |publisher=English.knps.or.kr |date= |accessdate=2010-10-29}}</ref>
+
+===Climate===
+{{Main|Climate of South Korea}}
+{{climate chart
+| Seoul
+| -6.1 |  1.6 |  22
+| -4.1 |  4.1 |  24
+|  1.1 | 10.2 |  46
+|  7.3 | 17.6 |  77
+| 12.6 | 22.8 | 102
+| 17.8 | 26.9 | 133
+| 21.8 | 28.8 | 328
+| 22.1 | 29.5 | 348
+| 16.7 | 25.6 | 138
+|  9.8 | 19.7 |  49
+|  2.9 | 11.5 |  53
+| -3.4 |  4.2 |  25
+| source = <ref>[http://www.kma.go.kr/weather/climate/average_30years.jsp?yy_st=2001&stn=108&norm=M Climate data in seoul, 1971 ~ 2000]{{Language icon|ko}}, Korea Meteorological Administration.</ref>
+| float=right}}
+
+South Korea tends to have a [[humid continental climate]] and a [[humid subtropical climate]], and is affected by the [[East Asian monsoon]], with [[precipitation (meteorology)|precipitation]] heavier in summer during a short rainy season called ''[[East Asian rainy season|jangma]]'' ([[:ko:장마|장마]]), which begins end of June through the end of July. Winters can be extremely cold with the minimum temperature dropping below −20&nbsp;°C in the inland region of the country: in Seoul, the average January temperature range is −7&nbsp;°[[Celsius|C]] to 1&nbsp;°C (19&nbsp;°[[Fahrenheit|F]] to 33&nbsp;°F), and the average August temperature range is 22&nbsp;°C to 30&nbsp;°C (71&nbsp;°F to 86&nbsp;°F). Winter temperatures are higher along the southern coast and considerably lower in the mountainous interior.<ref>[http://countrystudies.us/south-korea/31.htm South Korea climate], U.S. Library of Congress, Country studies</ref> Summer can be uncomfortably hot and humid, with temperatures exceeding 30 °C in most parts of the country.
+South Korea has four distinct seasons; spring, summer, autumn and winter. Spring usually lasts from late-March to early- May, summer from mid-May to early-September, autumn from mid-September to early-November, and winter from mid-November to mid-March. 
+
+Rainfall is concentrated in the summer months of June through September. The southern coast is subject to late summer [[tropical cyclone|typhoons]] that bring strong winds and heavy rains. The average annual [[precipitation (meteorology)|precipitation]] varies from 1,370 millimeters (54 [[inch]]es) in Seoul to 1,470 millimeters (58&nbsp;inches) in [[Busan]]. There are occasional typhoons that bring high winds and floods.
+
+===Environment===
+{{Main|Environment of South Korea}}
+[[File:Korea-Seoul-Cheonggyecheon-2008-01.jpg|thumb|left|[[Cheonggyecheon]], a stream running through downtown Seoul, was restored after being paved over for a motorway.]]
+During the first 20 years of South Korea's growth surge, little effort was made to preserve the environment.<ref name="74.125.155.132">{{cite web|url=http://74.125.155.132/search?q=cache:h-TUQm6gWTMJ:www.american.edu/TED/KORPOLL.htm+pollution+korea&cd=1&hl=en&ct=clnk&client=firefox-a|title=Korea Air Pollution Problems|publisher=74.125.155.132|date=|accessdate=2010-02-18}}</ref> Unchecked industrialization and urban development have resulted in deforestation and the ongoing destruction of wetlands such as the Songdo Tidal Flat.<ref>{{cite web|url=http://english.hani.co.kr/arti/english_edition/e_opinion/373552.html|title=[Column&#93; Letter to Lee administration: Save the Songdo Tidal Flat: Opinion: Home|language=Korean|publisher=English.hani.co.kr|date=|accessdate=2010-02-18}}</ref> However, there have been recent efforts to balance these problems, including a government run {{Nowrap|$84 billion}} five-year [[green growth]] project that aims to boost energy efficiency and green technology.<ref name="uk.news.yahoo.com">[http://uk.news.yahoo.com/18/20090820/tsc-un-praises-south-korea-s-green-growt-f86fa4c.html UK.news.yahoo.com]{{Dead link|date=February 2010}}</ref><ref>[http://www.greentechmedia.com/articles/south-korea-to-boost-renewable-energy-investments-by-60-1191.html Greentechmedia.com]{{Dead link|date=February 2010}}</ref>
+
+The green-based economic strategy is a comprehensive overhaul of South Korea's economy, utilizing nearly two percent of the national GDP.<ref name="uk.news.yahoo.com"/> The greening initiative includes such efforts as a nation wide bike network, solar and wind energy, lowering oil dependent vehicles, backing daylight savings and extensive usage of environmentally friendly technologies such as LEDs in electronics and lighting.<ref name="South Korea's green new deal">{{cite news|url=http://edition.cnn.com/video/#/video/international/2009/10/18/eok.lah.greening.korea.cnn?iref=videosearch|title=South Korea’s green new deal|publisher=CNN|date=October 18, 2009|accessdate=2009-10-21}}</ref> The country – already the world's most wired – plans to build a nationwide next-generation network which will be 10 times faster than broadband facilities in order to reduce energy usage.<ref name="South Korea's green new deal"/>
+
+Seoul's [[tap water]] recently became safe to drink, with city officials branding it "Arisu" in a bid to convince the public.<ref>{{cite web|url= http://www.newsworld.co.kr/cont/0609/42.htm|title=Seoul City holds 2nd Arisu Festival to show tap water is safe to drink|publisher=Newsworld}}</ref> Efforts have also been made with [[afforestation]] projects. Another multi-billion dollar project was the restoration of [[Cheonggyecheon]], a stream running through downtown Seoul that had earlier been paved over by a motorway.<ref>[http://english.seoul.go.kr/gover/initiatives/inti_02cheon.htm Seoul Metropolitan Government – "A Clean, Attractive & Global City, Seoul!"]{{Dead link|date=April 2010}}</ref>
+One major challenge is air quality, with acid rain, sulfur oxides, and annual yellow dust storms being particular problems.<ref name="74.125.155.132"/> It is acknowledged that many of these difficulties are a result of South Korea's proximity to China, which is a major air polluter.<ref name="74.125.155.132"/>
+
+South Korea is a member of the [[Protocol on Environmental Protection to the Antarctic Treaty|Antarctic-Environmental Protocol]], [[Antarctic Treaty System|Antarctic Treaty]], [[Convention on Biological Diversity|Biodiversity Treaty]], [[Kyoto Protocol]] (forming the  Environmental Integrity Group (EIG), regarding [[UNFCCC]],<ref>{{cite web|url=http://unfccc.int/parties_and_observers/parties/negotiating_groups/items/2714.php|title=Party Groupings|publisher=Unfccc.int|date=2007-11-28|accessdate=2010-02-18}}</ref> with [[Mexico]] and [[Switzerland]]),  [[United Nations Convention to Combat Desertification|Desertification]], [[CITES|Endangered Species]], [[Environmental Modification Convention|Environmental Modification]], [[Basel Convention|Hazardous Wastes]], [[United Nations Convention on the Law of the Sea|Law of the Sea]], [[Convention for the Prevention of Marine Pollution by Dumping from Ships and Aircraft|Marine Dumping]], [[Comprehensive Nuclear-Test-Ban Treaty|Nuclear Test Ban]], [[Montreal Protocol|Ozone Layer Protection]], [[MARPOL 73/78|Ship Pollution]], [[International Tropical Timber Agreement, 1983|Tropical Timber 83]], [[International Tropical Timber Agreement, 1994|Tropical Timber 94]], [[Ramsar Convention|Wetlands]], and [[International Convention for the Regulation of Whaling|Whaling]].<ref>{{CIA World Factbook}}</ref>
+
+==Economy==
+{{Main|Economy of South Korea}}
+
+South Korea has a [[market economy]] which ranks [[List of countries by GDP (nominal)|14th]] in the world by nominal GDP and [[List of countries by GDP (PPP)|12th]] by [[purchasing power parity]] (PPP), identifying it as one of the [[G-20 major economies]]. It is a [[High-income economies|high-income]] [[developed country]] and is a member of [[OECD]]. South Korea is one of the [[Four Asian Tigers|Asian Tigers]], and is the only developed country so far to have been included in the group of [[Next Eleven]] countries. South Korea had one of the world's fastest growing economies from the early 1960s to the late 1990s, and South Korea is still one of the fastest growing developed countries in the 2000s, along with Hong Kong, Singapore, and Taiwan, the other three members of Asian Tigers.<ref>{{cite book|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2008&ey=2015&scsm=1&ssd=1&sort=country&ds=.&br=1&pr1.x=18&pr1.y=5&c=193%2C542%2C122%2C137%2C124%2C181%2C156%2C138%2C423%2C196%2C935%2C142%2C128%2C182%2C172%2C576%2C132%2C936%2C134%2C961%2C174%2C184%2C532%2C144%2C176%2C146%2C178%2C528%2C436%2C112%2C136%2C111%2C158&s=NGDP_RPCH&grp=0&a=|title=Economic Growth Rates of Advanced Economies|publisher=International Monetary Fund|accessdate=2010-09-08}}</ref> South Koreans refer to this growth as the [[Miracle on the Han River]].<ref>{{cite book|url=http://books.google.com/?id=nTCC2ZheFu0C&pg=PA254&lpg=PA254&dq=han+river+miracle&q=han%20river%20miracle|title=Korea, A Century of Change|isbn=9789810246570|author1=Kleiner, JüRgen|year=2001}}</ref> The South Korean economy is heavily dependent on international trade, and in 2010, South Korea was the [[List of countries by exports|sixth largest exporter]] and [[List of countries by imports|tenth largest importer]] in the world.
+
+South Korea hosted the fifth [[G20 summit]] in its capital city Seoul, from November 11, 2010 to November 12, 2010. The two-day summit is expected to boost Korea's economy by 31 trillion won, or 4% of Korea's 2010 GDP, in economic effects, and create over 160,000 jobs in Korea. It may also help improve the country's sovereign [[credit rating]].<ref>{{cite web|url=http://www.koreaherald.com/business/Detail.jsp?newsMLId=20101007000806 |title=G20 to boost Korean economy by W31.3tr |language={{ko icon}} |publisher=Koreaherald.com |date=2010-10-11 |accessdate=2010-10-29}}</ref>
+
+Despite the South Korean economy's high growth potential and apparent structural stability, South Korea suffers perpetual damage to its credit rating in the stock market due to the belligerence of [[North Korea]] in times of deep military crises, which has an adverse effect on the financial markets of the South Korean economy.<ref name=kcredit>{{cite web|url=http://english.chosun.com/site/data/html_dir/2010/08/02/2010080201090.html|title=Moody's Raises Korea's Credit Range|publisher=Chosun Ilbo|date=2010-08-02|accessdate=2010-08-14}}</ref><ref>{{cite web|url=http://www.hani.co.kr/arti/english_edition/e_business/422572.html|title=Financial markets unstable in S.Korea following Cheonan sinking|publisher=Hankyeoreh|date=2010-05-26|accessdate=2010-08-14}}</ref> However, renowned financial organizations, such as the [[International Monetary Fund]], also compliment the resilience of the South Korean economy against various economic crises, citing low state debt, and high fiscal reserves that can quickly be mobilized to address any expected financial emergencies.<ref>{{cite web|url=http://news.xinhuanet.com/english2010/business/2010-09/07/c_13482842.htm|title=S Korea stands among world's highest-level fiscal reserve holders: IMF|publisher=Xinhua|date=2010-09-07|accessdate=2010-09-08}}</ref> South Korea was one of the few developed countries that were able to avoid a [[recession]] during the [[global financial crisis]],<ref>{{cite web|url=http://www.newsweek.com/blogs/wealth-of-nations/2010/05/10/south-korea-survived-recession-with-ceo-tactics.html|title=South Korea Survived Recession With CEO Tactics|publisher=Newsweek|date=2010-05-10|accessdate=2010-09-08}}</ref> and its economic growth rate will reach 6.1% in 2010,<ref>{{cite web|url=http://english.chosun.com/site/data/html_dir/2010/09/02/2010090200971.html|title=IMF Raises Growth Forecast for Korea to 6.1%|publisher=Chosun Ilbo|date=2010-09-02|accessdate=2010-09-08}}</ref> a sharp recovery from economic growth rates of 2.3% in 2008 and 0.2% in 2009 when the global financial crisis hit.  The unemployment rate in South Korea also remained low in 2009 at 3.6%<ref>http://www.state.gov/r/pa/ei/bgn/2800.htm</ref>
+
+===Transportation and energy===
+
+{{Main|Transport in South Korea|Nuclear power in South Korea}}
+
+[[File:KTX-II South Korean High-Speed Train.jpg|thumb|left|The [[KTX-II]] [[High-speed rail|high-speed train]] can travel at {{convert|350|km/h|abbr=on}}.]]
+
+South Korea has a [[market economy|market-oriented economy]] with technologically advanced transportation network consisting of high-speed railways, highways, bus routes, ferry services, and air routes that criss-cross the country. [[Korea Expressway Corporation]] operates the toll highways and service amenities en route.
+
+[[Korail]] provides frequent train service to all major South Korean cities. Two rail lines, [[Gyeongui Line|Gyeongui]] and [[Donghae Bukbu Line]], to [[North Korea]] are now being reconnected. The Korean [[high-speed rail]] system, [[Korea Train Express|KTX]], provides high-speed service along [[Gyeongbu Line|Gyeongbu]] and [[Honam Line]]. Major cities including [[Seoul]], [[Busan]], [[Incheon]], [[Daegu]], [[Daejeon]] and [[Gwangju]] have subway systems.<ref>[http://www.visitkorea.or.kr/ena/TR/TR_EN_5_1_4.jsp Subway], Korea Tourism Organization; [http://www.incheonmetro.co.kr/eng/index.asp Incheon Metro]</ref> Express bus terminals are available in most cities.<ref>[http://www.kobus.co.kr/web/eng/01_guide/guide02.jsp Express bus terminal guide], Korea Express Bus Lines Association</ref>
+
+Construction of South Korea's largest airport, [[Incheon International Airport]], was completed in 2001. By 2007, the airport was serving {{Nowrap|30 million}} passengers a year.<ref>{{cite web|url=http://www.airport.kr/notice/NoticeView.iia?functioncode=46&bulletinid=5049|title=Incheon International Airport celebrates its eighth year|publisher=Incheon International Airport Corp|accessdate=2005-05-20}}</ref> Other international airports include [[Gimpo International Airport|Gimpo]], [[Gimhae International Airport|Busan]] and [[Jeju International Airport|Jeju]]. There are also seven domestic airports, and a large number of [[heliports]].<ref>{{cite web|url=http://www.nationmaster.com/graph/tra_hel-transportation-heliports|title=Transportation Statistics > Heliports (most recent) by country|publisher=NationMaster|year=2008|accessdate=2009-02-21}}</ref>
+
+[[File:Rainbow fountain Seoul.JPG|thumb|[[Banpo Bridge]] connects the southern and northern parts of Seoul that are separated by the Han River.]]
+
+[[Korean Air]], founded in 1962, served 21,640,000 passengers, including 12,490,000 international passengers in 2008.<ref>{{cite web|url=http://www.koreanair.com/local/kr/gd/eng/au/ci/eng_au_ci_ov.htm|title=Company Info / Overview|publisher=Korean Air|accessdate=2005-05-19}}</ref> A second carrier, [[Asiana Airlines]], established in 1988, also serves domestic and international traffic. Combined, South Korean airlines serve 297 international routes.<ref>{{cite web|url=http://english.mltm.go.kr/USR/WPGE0201/m_19549/DTL.jsp|title=International Aviation Policy|publisher=Ministry of Land, Transportation and Maritime Affairs|accessdate=2005-05-19}}</ref> Smaller airliners, such as [[Jeju Air]], provide domestic service with lower fares.<ref>[http://joongangdaily.joins.com/article/view.asp?aid=2922592 If you're looking for a ticket to Jeju, leave late], Joongang Daily, 2010-07-02. Retrieved 2010-07-15.</ref>
+
+South Korea is the world's fifth largest [[nuclear power]] producer and the second-largest in Asia as of 2010.<ref name=koreanuke>{{cite web|url=http://the-diplomat.com/2010/07/19/another-korean-nuclear-issue/|title=Another Korean Nuclear Issue|publisher=The Diplomat|date=2010-07-19|accessdate=2010-08-14}}</ref> [[Nuclear power in South Korea]] supplies 45% of electricity production and research is very active with investigation into a variety of advanced reactors, including a small modular reactor, a liquid-metal fast/[[nuclear transmutation#Transmutation of nuclear wastes|transmutation]] reactor and a high-temperature [[hydrogen]] generation design. Fuel production and waste handling technologies have also been developed locally. It is also a member of the [[ITER]] project.<ref>{{cite web|url=http://www.iter.org/ |title=ITER official site |publisher=Iter.org |date= |accessdate=2010-10-29}}</ref>
+
+South Korea is an emerging exporter of [[nuclear reactors]], having concluded agreements with the [[UAE]] to build and maintain four advanced nuclear reactors,<ref>{{cite news|url=http://www.reuters.com/article/idUSLDE5BQ05O20091227|title=South Korea wins landmark Gulf nuclear power deal|publisher=Reuters|date=2009-12-29}}</ref> with [[Jordan]] for a research nuclear reactor,<ref>{{cite web|url=http://www.upi.com/Science_News/Resource-Wars/2010/03/31/South-Korea-Jordan-sign-130M-nuclear-deal/UPI-16251270062075/|title=All systems go for Jordan's first nuclear reactor |publisher=UPI.com|date=2010-03-31}}</ref><ref>{{cite web|url=http://www.world-nuclear-news.org/NN-All_systems_go_for_Jordans_first_nuclear_reactor-2707107.html|title=South Korea-Jordan sign $130M nuclear deal|publisher=World Nuclear News|date=2010-07-27}}</ref> and with [[Argentina]] for construction and repair of heavy-water nuclear reactors.<ref>{{cite web|url=http://english.chosun.com/site/data/html_dir/2010/09/17/2010091700995.html|title=Korea, Argentina Sign MOU for Nuclear Plant Project|publisher=Chosun Ilbo|date=2010-09-18
+}}</ref><ref name=argentinanuke>{{cite web|url=http://www.upi.com/Top_News/Special/2010/09/17/Argentina-eyes-nuclear-role-in-S-America/UPI-72711284755722/|title=Argentina eyes nuclear role in S. America|publisher=UPI.com|date=2010-09-17}}</ref> As of 2010, South Korea and [[Turkey]] are in negotiations regarding construction of two nuclear reactors.<ref>
+{{cite web|url=http://www.koreatimes.co.kr/www/news/biz/2010/08/123_67686.html|title=Korea nearing Turkey nuclear plant contract|publisher=Korea Times|date=2010-06-15}}</ref> South Korea is also preparing to bid on construction of a light-water nuclear reactor for Argentina.<ref name=argentinanuke />
+
+[[File:Incheon International Airpot (interesting architecture).jpg|thumb|left|[[Incheon International Airport]] is the largest airport in South Korea.]]
+
+South Korea is not allowed to [[enriched uranium|enrich uranium]] or develop traditional uranium enrichment technology on its own due to US political pressure<ref>{{cite news| url=http://www.nytimes.com/2010/07/14/world/asia/14seoul.html | work=The New York Times | title=U.S. Wary of South Korea's Plan to Reuse Nuclear Fuel | first=Choe | last=Sang-Hun | date=2010-07-13}}</ref>, unlike most major nuclear powers such as Japan, Germany, and France, competitors of South Korea in the international nuclear market, providing a noticeable impediment to South Korea's indigenous nuclear industrial undertaking that has sparked occasional diplomatic rows between the two allies. While South Korea is successful in exporting its electricity-generating nuclear technology and nuclear reactors, it cannot capitalize on the [[Uranium market|market for nuclear enrichment facilities and refineries]], preventing Korea from further expanding its export niche. South Korea has sought unique technologies such as [[Nuclear reprocessing#Pyroprocessing|pyroprocessing]] technology to circumvent these obstacles and seek a more advantageous competition.<ref>{{cite web|url=http://www.armscontrol.org/act/2009_07-08/SouthKorea |title=S. Korean Pyroprocessing Awaits U.S. Decision &#124; Arms Control Association |publisher=Armscontrol.org |date=2010-10-06 |accessdate=2010-10-29}}</ref>  The US has recently been wary of South Korea's burgeoning nuclear program which South Korea insists will only be for civilian use.<ref name=koreanuke />
+
+==Science and technology==
+{{Main|Science and technology in Korea}}
+
+===Aerospace research===
+{{Main|Korea Aerospace Research Institute}}
+South Korea has sent up 10 satellites from 1992, all using foreign rockets and overseas launch pads, notably [[Arirang-1]] in 1999, and [[Arirang-2]] in 2006 as part of its space partnership with Russia.<ref>{{cite news|url=http://korea.net/news/news/newsView.asp?serial_no=20070703031∂=107|title=Korea, Russia enter full-fledged space partnership|publisher=Korean Culture and Information Service|date=3 July 2007|accessdate=2009-03-01}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> Arirang-1 was lost in space in 2008, after nine years in service.<ref>[http://www.spacedaily.com/reports/South_Korea_Confirms_Contact_With_Satellite_Lost_999.html South Korea Confirms Contact With Satellite Lost], Space Daily, 2008-01-07. Retrieved 2010-07-15.</ref>
+
+In April 2008, [[Yi So-yeon]] became the first Korean to fly in space, aboard the Russian [[Soyuz TMA-12]].<ref>[http://www.timesonline.co.uk/tol/news/world/asia/article3708907.ece Scientist Yi So Yeon becomes first Korean astronaut], The Times, 2008-04-09.; [http://news.bbc.co.uk/2/hi/7335874.stm First S Korean astronaut launches], BBC News, 2008-04-08. Retrieved 2010-07-15.</ref>
+
+In June 2009, the first [[spaceport]] of South Korea, [[Naro Space Center]], was completed at [[Goheung]], [[Jeollanam-do]].<ref>[http://www.koreatimes.co.kr/www/news/nation/2009/09/113_46562.html S. Korea Completes Work on Naro Space Center], Korea Times, 2009-06-10. Retrieved 2010-07-15.</ref> The launch of [[Naro-1]] in August 2009 resulted in a failure.<ref>[http://english.yonhapnews.co.kr/techscience/2009/08/26/15/0601000000AEN20090826005500320F.HTML S. Korean satellite lost shortly after launch], Yonhap News, 2009-08-26. Retrieved 2010-07-15.</ref> The second attempt in June 2010 was also unsuccessful.<ref>[http://www.worldpoliticsreview.com/trend-lines/5924/global-insider-south-koreas-space-program Global Insider: South Korea's Space Program], World Politics Review, 2010-06-29. Retrieved 2010-07-15.</ref> The government plans to investigate the problems and develop Naro-2 by 2018.<ref>[http://joongangdaily.joins.com/article/view.asp?aid=2921704 Naro-1 explodes after takeoff], Joongang Daily, 2010-06-11. Retrieved 2010-07-15.</ref>
+
+South Korea's efforts to build an indigenous space launch vehicle is marred due to persistent political pressure of the [[United States]], who had for many decades hindered South Korea's indigenous rocket and missile development programs<ref>{{cite news | title = South Korea's first rocket ready - at last | url = http://www.atimes.com/atimes/Korea/KH11Dg01.html | publisher = Asia Times | date = August 11, 2009 | accessdate = Aug. 21, 2010}}</ref> in fear of their possible connection to clandestine military ballistic missile programs, which Korea many times insisted did not violate the [[research and development]] guidelines stipulated by US-Korea agreements on restriction of South Korean rocket technology research and development.<ref>{{cite news | title = S. Korea DAPA commissioner confirms 500 km-range ballistic missile development research | url = http://english.hani.co.kr/arti/english_edition/e_international/381039.html | publisher = The Hankyeoreh | date = October 9, 2009 | accessdate = Aug. 21, 2010}}</ref> South Korea has sought the assistance of foreign countries such as [[Russia]] through [[MTCR]] commitments to supplement its restricted domestic rocket technology. The two failed KSLV-I [[launch vehicle]]s were based on the [[Common Core Booster#Universal Rocket Module|Universal Rocket Module]], the first stage of the Russian [[Angara rocket]], combined with a solid-fueled second stage built by South Korea.
+
+===Robotics===
+
+[[File:Ever3 skorea android.jpg|thumb|left|170px|alt=South Korean android EveR3 in a traditional ''hanbok'' |Gynecoid EveR3 in a traditional ''[[hanbok]]'']]
+
+[[Image:Einstein-Hubo.jpg|thumb|upright|right|Albert HUBO, developed by [[KAIST]], can make expressive gestures with its five separate fingers.]]
+
+[[Robotics]] has been included in the list of main national R&D projects in Korea since 2003.<ref>[http://www.mke.go.kr/language/eng/news/news_view.jsp?seq=7&srchType=1&srchWord=&tableNm=E_01_02&pageNo=1 Special Report: [Business Opportunities&#93; R&D]. [[Ministry of Knowledge Economy]], 2007-09-03. Retrieved 2009-07-15.</ref> In 2009, the government announced plans to build robot-themed parks in [[Incheon Free Economic Zone|Incheon]] and [[Masan]] with a mix of public and private funding.<ref>[http://joongangdaily.joins.com/article/view.asp?aid=2900986 "Robot parks, a world first"]. ''[[JoongAng Daily]]'', 2009-02-13. Retrieved 2009-07-15.</ref>
+
+In 2005, [[Korea Advanced Institute of Science and Technology]] (KAIST) developed the world's second walking [[humanoid robot]], [[HUBO]]. A team in the Korea Institute of Industrial Technology developed the first Korean [[android (robot)|android]], [[EveR-1]] in May 2006.<ref>[http://www.livescience.com/technology/060508_android.html Android Has Human-Like Skin and Expressions], Live Science, 2006-05-08. Retrieved 2009-07-15.</ref>
+EveR-1 has been succeeded by more complex models with improved movement and vision.<ref>[http://news.nationalgeographic.com/news/2006/05/android-korea-1.html Female Android Debuts in S. Korea] National Geographic,2006-05-15. Retrieved 2009-07-15;{{ko}} [http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0002618693 EveR-3], Yonhap News, 2009-04-20. Retrieved 2009-07-15.</ref>
+Next models are scheduled to be completed by 2010.
+
+Plans of creating English-teaching robot assistants to compensate the shortage of teachers were announced in February 2010, with the robots being deployed to most preschools and kindergartens by 2013.<ref>[http://www.popsci.com/technology/article/2010-02/south-korea-gives-go-robot-english-teachers-classrooms South Korean Robot English Teachers Are Go], Popular Science, 2010-02-24. Retrieved 2010-07-15.</ref> Robotics are also incorporated in the entertainment sector as well; the ''Korean Robot Game Festival'' has been held every year since 2004 to promote science and robot technology.<ref>[http://www.robotwar.or.kr/ Korean Robot Game Festival], Official Site</ref>
+
+===Biotechnology===
+
+Since the 1980s, the Korean government has actively invested in the development of a domestic [[biotechnology]] industry, and the sector is projected to grow to {{Nowrap|$6.5 billion}} by 2010.<ref>{{cite web|url=http://www.bio2008.org/siteobjects/published/ec046034f6d7506aa06582be6902d018/af4810817445624b5dbc9d45f79c348b/file/Korea%20Country%20Profile.pdf |title=Bio International Convention Korea Country Profile |publisher=Bio2008.org |date= |accessdate=2010-10-29}} {{Dead link|date=November 2010|bot=H3llBot}}</ref> The medical sector accounts for a large part of the production, including production of [[Hepatitis A vaccine|hepatitis vaccines]] and [[antibiotic]]s.
+
+Recently, research and development in [[genetics]] and [[cloning]] has received increasing attention, with the first successful cloning of a dog, [[Snuppy]], and the cloning of two females of an endangered species of wolves by the [[Seoul National University]] in 2007.<ref>{{cite web|author=AFP|url=http://dsc.discovery.com/news/2007/03/26/clonedwolf_ani.html|title=Discovery Channel :: News – Animals :: Endangered Wolf Cloned in South Korea|publisher=Dsc.discovery.com|date=|accessdate=2010-04-25}}</ref>
+
+The rapid growth of the industry has resulted in significant voids in regulation of ethics, as was highlighted by the [[Hwang Woo-Suk#Controversies|scientific misconduct]] case involving [[Hwang Woo-Suk]].<ref>{{cite web|url=http://www.philau.edu/schools/liberalarts/news/documents/AbdulhaqqSSH.pdf|title=Biotechnology|format=PDF|date=|accessdate=2010-04-25}}</ref>
+
+==Education==
+{{Main|Education in South Korea}}
+Education in South Korea is regarded as being crucial to one's success, and competition is consequently very heated and fierce. In the 2006 results of the [[OECD]] [[Programme for International Student Assessment]], South Korea came first in [[problem solving]], third in [[mathematics]] and seventh in [[science]].<ref>{{cite web|url=http://www.pisa.oecd.org/|title=Organisation for Economic Co-operation and Development|publisher=Pisa.oecd.org|date=|accessdate=2010-02-18}}</ref> South Korea's education system is technologically advanced and it is the world's first country to bring high-speed [[fibre-optic]] [[broadband]] internet access to every primary and secondary school nation-wide. Using this infrastructure, the country has developed the first [[Digital Textbook]]s in the world, which will be distributed for free to every primary and secondary school nation-wide by 2013.<ref>{{cite web|url=http://www.itu.int/ITU-D/ict/cs/korea/material/CS_KOR.pdf|title=Broadband Korea: Internet Case Study|format=PDF|date=|accessdate=2010-02-18}}</ref>
+
+A centralised administration in South Korea oversees the process for the education of children from kindergarten to the third and final year of high school. South Korea has adopted a new educational program to increase the number of their foreign students through 2010. According to Ministry of Education, Science and Technology estimate, by that time, the number of scholarships for foreign students in South Korea will be doubled, and the number of foreign students will reach 100,000.<ref>{{cite web|url=http://www.education-blog.net/2008/08/28/south-korea-now-open-for-foreign-students/|title=South Korea Now Open For Foreign Students|publisher=Education-blog.net|date=2008-08-28|accessdate=2010-04-25}}</ref>
+The school year is divided into two semesters, the first of which begins in the beginning of March and ends in mid-July, the second of which begins in late August and ends in mid-February. The schedules are not uniformly standardized and vary from school to school.
+Most South Korean middle schools and high schools have school uniforms, modeled on western-style uniforms. Boys' uniforms usually consists of trousers and white shirts, and girls wear skirts and white shirts.
+
+==Demographics==
+{{Main|Demographics of South Korea|Koreans}}
+South Korea is noted for its population density, which at 487 per square kilometer is more than 10 times the global average. Most South Koreans live in urban areas, due to rapid migration from the countryside during the country's quick economic expansion in the 1970s, 1980s and 1990s.<ref>{{cite web|url=http://countrystudies.us/south-korea/33.htm|title=South Korea|work=CIA Country Studies|accessdate=2006-04-22}}</ref> The capital city of [[Seoul]] is also the country's largest city and chief industrial center. According to the 2005 census, Seoul had a population of {{Nowrap|9.8 million}} inhabitants. The [[Seoul National Capital Area]] has {{Nowrap|24.5 million}} inhabitants making it the world's second largest metropolitan area and easily the most densely populated city in the OECD. Other major cities include [[Busan]] ({{Nowrap|3.5 million}}), [[Incheon]] ({{Nowrap|2.5 million}}), [[Daegu]] ({{Nowrap|2.5 million}}), [[Daejeon]] ({{Nowrap|1.4 million}}), [[Gwangju]] ({{Nowrap|1.4 million}}) and [[Ulsan]] ({{Nowrap|1 million}}).<ref>Populations for all cities as of 2005, {{cite web|url=http://www.kosis.kr/eng/e_stat_OLAP.jsp?tbl_id=DT_1IN0001&org_id=101&vwcd=MT_ETITLE&path=&oper_YN=Y&lang_mode=eng|title=Summary of Census Population (by administrative district/sex/age)|work=NSO Database|accessdate=2009-05-11}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+The population has also been shaped by international migration. Following the [[Division of Korea|division of the Korean Peninsula]] after World War&nbsp;II, about four million people from North Korea crossed the border to South Korea. This trend of net entry reversed over the next forty years due to emigration, especially to the United States and Canada. South Korea's total population in 1960 was {{Nowrap|25 million}}.<ref>[http://esa.un.org/unpp/p2k0data.asp World Population Prospects: The 2006 Revision]. Source: ''Population Division of the Department of Economic and Social Affairs of the United Nations Secretariat.''</ref> The population of South Korea is roughly 50,062,000.<ref name="chosun1">{{cite web|url=http://english.chosun.com/site/data/html_dir/2010/02/01/2010020100263.html|title=Korea's Population Tops {{Nowrap|50 Million}} |publisher=English.chosun.com|date=2010-02-01|accessdate=2010-04-25}}</ref>
+
+South Korea is ethnically one of the most homogeneous societies in the world with more than 99 per cent of inhabitants having [[Koreans|Korean]] ethnicity.<ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/ks.html#People South Korea]. CIA – The World Factbook.</ref> Koreans describe their ethnic homogeneous society using the word 단일민족국가 (''Dan-il minjok guk ga'', which literally means the single race society).
+
+In terms of the foreign nationals, although small, the percentage has been increasing.<ref>"[http://www.nytimes.com/2009/11/02/world/asia/02race.html?_r=3 South Koreans Struggle With Race]". The New York Times. November 1, 2009.</ref> {{As of|2009}}, South Korea had 1,106,884 foreign residents. This number covers approximately 2 percent of the entire population of South Korea; however, more than half of the foreign nationals have Korean ethnicity with a foreign citizenship. For example, [[Chinese people in South Korea|Migrants from the People's Republic of China (PRC)]] make up 56.5% of the total, but approximately 70 percent of the Chinese citizens in Korea are ''[[Koreans in China|Joseonjok (조선족 in Korean)]]'', PRC citizens of Korean ethnicity.<ref name="ChosunIlbo20090806">{{Cite news|periodical=Chosun Ilbo|date=2009-08-06|accessdate=2009-10-18|title=More Than {{Nowrap|1 Million}} Foreigners Live in Korea (According to the article, approximately 443,566 people are considered to be Chinese residents in South Korea with Korean ethnicity (조선족) |url=http://english.chosun.com/site/data/html_dir/2009/08/06/2009080600243.html|postscript=<!--None-->}}</ref>
+Regardless of the ethnicity, the Korea National Statistical Office<ref>[http://kostat.go.kr/ Kostat.go.kr], 대한민국 통계청</ref> counts that there are 28,500 [[United States Forces Korea|US military]] personnel serving in South Korea for one year of unaccompanied tour.<ref>{{cite web|url=http://www.koreatimes.co.kr/www/news/nation/2009/11/205_54885.html|title=US Soldiers in Korea Negative About Rotation to Middle East|publisher=Koreatimes.co.kr|date=|accessdate=2010-04-25}}</ref> In addition, about 43,000 English teachers from [[Anglosphere|English-speaking countries]] temporarily reside in Korea.<ref>{{cite web|url=http://www.koreatimes.co.kr/www/news/nation/2009/11/117_56212.html|title=Foreign Teachers Unenthusiastic Over Culture Course|publisher=Koreatimes.co.kr|date=2009-11-26|accessdate=2010-02-18}}</ref>
+
+South Korea's birthrate is the world's lowest.<ref>{{cite web|url=http://www.koreatimes.co.kr/www/news/nation/2009/05/113_45496.html |title=South Korea's birthrate world’s lowest |publisher=koreatimes.co.kr |date=2009-05-22 |accessdate=2010-04-25}}</ref> If this continues, its population is expected to decrease by 13 percent to {{Nowrap|42.3 million}} in 2050,<ref>{{cite web|url=http://www.lifesitenews.com/ldn/2006/aug/06082802.html |title=South Korea: Lowest Birthrate in the World|publisher=LifeSiteNews.com|date=2006-08-28|accessdate=2010-04-25}}</ref> South Korea's annual birthrate is approximately 9 births per 1000 people.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/KS.htm|title=South Korea|work=[[CIA World Factbook]]|date=26 June 2009|accessdate=4 July 2009}}{{dead link|date=October 2010}}</ref> The average [[life expectancy]] in 2008 was 79.10 years,<ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2102.html CIA – The World Factbook 2008] – Rank Order – Life expectancy at birth</ref> which is 34th in the world.<ref>[https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html CIA.gov]</ref>
+
+===Cities of South Korea===
+
+{{Main|List of cities in South Korea}}
+{{See also|Eight Provinces of Korea|List of regions of Korea}}
+The table below lists the twenty largest cities within administrative city limits.
+{{Largest cities of South Korea}}
+{{-}}
+
+===Religion===
+{{Main|Religion in South Korea}}
+{{South Korea religiosity}}
+
+[[File:Seokguram Buddha.JPG|left|upright|thumb| [[Seokguram]] [[Grotto]] in [[Bulguksa]] temple, [[UNESCO World Heritage Site]]]]
+
+As of 2005, just under half of the South Korean population expressed [[Irreligion|no religious]] preference.<ref name=koreastats>According to figures compiled by the South Korean [[National Statistical Office]]. {{cite web|url=http://kosis.nso.go.kr:7001/ups/chapterRetrieve.jsp?pubcode=MA&seq=292&pub=3|accessdate=2006-08-23|work=NSO online KOSIS database|title=인구,가구/시도별 종교인구/시도별 종교인구 (2005년 인구총조사)}}</ref>  Of the rest, most are [[Korean Buddhism|Buddhist]] or  [[Christianity|Christian]]. According to the 2007 census, 29.2% of the population at that time was Christian (18.3% professed to being Protestants and 10.9% Catholics), and 22.8% were Buddhist.<ref name="korea.net">{{cite web|url=http://www.korea.net/korea/kor_loca.asp?code=U05|title=Korea.net: The official website of the Republic of Korea – Religion}}{{dead link|date=October 2010}}</ref><ref>{{cite web|url=http://2001-2009.state.gov/g/drl/rls/irf/2008/108411.htm|work=U.S. Department of State|publisher=Bureau of Democracy, Human Rights, and Labor|title=International Religious Freedom Report 2008 – Korea, Republic of|date=2009-01-22|accessdate=2010-01-31}}</ref> Other religions include [[Islam in Korea|Islam]] and various [[new religious movement]]s such as [[Jeungism]], [[Cheondoism]] and [[Wonbuddhism]]. The earliest religion practiced was [[Korean shamanism]].<ref>[http://www.asianinfo.org/asianinfo/korea/rel/overview1.htm Religion in Korea], Asia Info Organization</ref> Today, [[freedom of religion]] is guaranteed by the constitution, and there is no [[state religion]].<ref>{{cite web|url=http://www.ccourt.go.kr/home/english/welcome/republic.jsp|archiveurl=http://web.archive.org/web/20080323052835/http://www.ccourt.go.kr/home/english/welcome/republic.jsp|archivedate=2008-03-23|accessdate=2009-06-26|title=Constitution of the Republic of Korea|publisher=Constitutional Court of Korea}}</ref>
+
+Christianity is South Korea's largest religion, accounting for more than half of all South Korean religious adherents.
+There are approximately 13.7 million Christians<ref name="AFP religion">{{cite web|url=http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_267202.html|author=[[Agence France-Presse]]|title=S. Korea president faces protests from Buddhists|work=[[The Straits Times]]|accessdate=2009-01-31|date=2009-01-31}}</ref> in South Korea today, with almost two-thirds of Christians belonging to Protestant churches, while about 37% belong to the Catholic Church. Roman Catholicism has been the fastest growing denomination in South Korea since the late 1980s.<ref>{{cite news|url=http://findarticles.com/p/articles/mi_m2096/is_2000_Spring-Summer/ai_63300897|title=Christianity, Shamanism, and Modernization in South Korea|last=Kim|first=Andrew Eungi|publisher=CBS Interactive|year=2000|accessdate=2009-02-13}}</ref> South Korea is also the second-largest missionary-sending nation.<ref>{{cite web|url=http://www.christianitytoday.com/ct/2006/003/16.28.html|title=Missions Incredible|last=Moll|first=Rob|publisher=Christianity Today International|work=Christianity Today|date=2009-03-01|accessdate=2009-02-17}}</ref>
+
+Buddhism was introduced to Korea in the year 372.<ref>{{cite web|url=http://www.buddhismtoday.com/english/world/country/027-korea.htm|title=Buddhism in Korea|publisher=Korean Buddhism Magazine, Seoul|year=1997|accessdate=2009-02-17}}</ref> According to the national census as of 2005, South Korea has over {{Nowrap|10.7 million}} Buddhists.<ref name="AFP religion"/><ref>{{cite web|url=http://2001-2009.state.gov/g/drl/rls/irf/2008/108411.htm|title=International Religious Freedom Report 2008 - Korea, Republic of|publisher=[[United States Department of State]]|date=2009-09-19|accessdate=2009-02-17}}</ref> Today, about 90% of Korean Buddhists belong to [[Jogye Order]]. Most of the [[National Treasures of South Korea]] are Buddhist artifacts. Along with [[Neo-Confucianism]], Buddhism was not being practiced during the periods from [[Three Kingdoms of Korea]] to [[Goryeo]] before suppression under the Joseon Dynasty.<ref>{{cite web|url=http://www.bbc.co.uk/religion/religions/buddhism/subdivisions/koreanzen.shtml|title=BBC – Korean Zen Buddhism|publisher=Bbc.co.uk|date=2002-10-02|accessdate=2010-04-25}}</ref>
+
+[[Islam in South Korea]] has an estimated less than 30,000 native followers, in addition to some 100,000 resident foreign workers from Muslim countries,<ref>{{cite web|url=http://www.islamawareness.net/Asia/KoreaSouth/ks_news002.html|title=Islam takes root and blooms|publisher=Islamawareness.net|date=2002-11-22|accessdate=2010-04-25}}</ref> particularly [[Bangladesh]] and [[Pakistan]].<ref>{{cite web|title=Korea’s Muslims Mark Ramadan|publisher=[[The Chosun Ilbo]]|date=September 11, 2008|url=http://english.chosun.com/w21data/html/news/200809/200809110016.html|accessdate=2008-10-09}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+==Public health and safety==
+Although [[life expectancy]] has increased significantly since 1950, South Korea faces a number of important health-care issues. Foremost is the impact of [[environmental pollution]] on an increasingly urbanized population. According to the Ministry of Health and Welfare, chronic diseases account for the majority of diseases in South Korea, a condition exacerbated by the health care system's focus on treatment rather than prevention. The incidence of chronic disease in South Korea hovers around 24 percent. Approximately 33 percent of all adults [[Smoking|smoke]]. The [[human immunodeficiency virus]] (HIV) rate of prevalence at the end of 2003 was less than 0.1 percent. In 2001 central government expenditures on health care accounted for about 6 percent of [[gross domestic product]] (GDP).<ref name=cp>[http://lcweb2.loc.gov/frd/cs/profiles/South_Korea.pdf South Korea country profile]. [[Library of Congress]] [[Federal Research Division]] (May 2005). ''This article incorporates text from this source, which is in the [[public domain]].''</ref> The [[Suicide in South Korea|suicide rate in the nation]] was 26 per 100,000 in 2008, the highest in the industrialized world.<ref>[http://oberon.sourceoecd.org/vl=9354525/cl=26/nw=1/rpsv/societyataglance2009/08/04/index.htm Suicide rate 2009], OECD; {{Cite news|first=Blaine|last=Harden|title=A troubling trend in a prosperous society|url=|work=|publisher=Washington Post|location=Washington, DC|pages=A10|date=18 April 2010|id=|accessdate=}}; [http://www.economist.com/node/16542639?story_id=16542639 Suicide in South Korea], The Economist, 2010-07-08. Retrieved 2010-07-15.</ref>
+
+==Culture==
+{{Main|Culture of Korea|South Korean culture}}
+South Korea shares its traditional culture with [[North Korea]], but the two Koreas have developed distinct contemporary forms of culture since the peninsula was divided in 1945. Historically, while the culture of Korea has been heavily influenced by that of neighbouring China, it has nevertheless managed to develop a unique and distinct cultural identity from its larger neighbour.<ref name="Fairbank et al.">{{cite book|author=John K. Fairbank, Edwin O. Reischauer and Albert M. Craig|title=East Asia: Tradition & Transformation|publisher=Houghton Mifflin Company, Boston|year=1978|isbn=039525812X}}</ref> The South Korean [[Ministry of Culture and Tourism (South Korea)|Ministry of Culture, Sports and Tourism]] actively encourages the traditional arts, as well as modern forms, through funding and education programs.<ref>{{cite web|url=http://www.mct.go.kr/english/section/bureau/cultural_1.jsp|work=MCT Website|title=Associated Organisations|accessdate=2006-04-11 |archiveurl = http://web.archive.org/web/20051224163415/http://www.mct.go.kr/english/section/bureau/cultural_1.jsp <!-- Bot retrieved archive --> |archivedate = 2005-12-24}} See also {{cite web|url=http://www.kcaf.or.kr/ehome3/mission.htm|title=Mission and Goal|work=Korea Cultural Administration website|accessdate=2006-04-11}}</ref>
+
+The industrialization and urbanization of South Korea have brought many changes to the way [[Korean people]] live. Changing economics and lifestyles have led to a concentration of population in major cities, especially the capital Seoul, with multi-generational households separating into [[nuclear family]] living arrangements.
+
+===Art===
+{{Main|Korean art}}
+
+[[File:Goryeo Celadon .jpg|thumb|upright|right|Celadon from the [[Goryeo]] Dynasty]]
+
+Korean art has been highly influenced by [[Buddhism in Korea|Buddhism]] and [[Korean Confucianism|Confucianism]], which can be seen in the many traditional paintings, sculptures, ceramics and the performing arts.<ref>[http://www.asia-art.net/korean_paint.html Korean painting], Asia Art</ref> [[Korean pottery and porcelain]], such as [[Joseon]]'s ''[[Joseon white porcelain|baekja]]'' and [[buncheong]], and [[Goryeo]]'s [[celadon]] are well known throughout the world.<ref>[http://www.armkor.com/korea-info3.htm Korean Pottery and Celadon], Asian Relocation Management Korea</ref> The [[Korean tea ceremony]], [[pansori]], [[talchum]] and [[buchaechum]] are also notable Korean performing arts.
+
+Post-war modern Korean art started to flourish in the 1960s and 1970s, when South Korean Artists took interest in geometrical shapes and intangible subjects. Establishing a harmony between man and nature was also a favorite of this time. Due to social instability, social issues appeared as main subjects in the 1980s. Art was influenced by various international events and exhibits in Korea, and with it brought more diversity.<ref>[http://www.apexart.org/conference/lee.htm Contemporary Korean Art in 1990s], apexart, 1999</ref> The [[Olympic Park, Seoul|Olympic Sculpture Garden]] in 1988, the transposition of the 1993 edition of the [[Whitney Biennial]] to Seoul,<ref>{{ko}} [http://www.seoul.co.kr/news/newsView.php?id=20100326020003 Whitney Biennal to come to Seoul again], Seoul News, 2010-03-26. Retrieved 2010-07-13.</ref> the creation of the [[Gwangju Biennale]]<ref>{{cite web|url=http://gb.or.kr/?mid=main_eng |title=Gwangju Biennale |publisher=Gb.or.kr |date= |accessdate=2010-10-29}}</ref> and the Korean Pavilion at the [[Venice Biennale]] in 1995<ref>[http://www.korean-pavilion.or.kr/07pavilion/kpEN.html Korean Pavilion], La Biennale di Venezia</ref> were notable events.
+
+===Architecture===
+
+{{Main|Architecture of South Korea|Korean architecture}}
+
+[[File:Deoksugungpalacefromthebuilding.jpg|thumb|left|Modern skyline of [[Seoul]] and the [[Deoksugung]] palace]]
+
+Due to South Korea's tumultuous history, construction and destruction has been repeated endlessly, resulting in an interesting melange of architectural styles and designs.<ref>[http://www.asianinfo.org/asianinfo/korea/arc/modern_period.htm Korean architecture], Asian Info Organization</ref>
+
+Korean traditional architecture is characterized by its harmony with nature. Ancient architects adopted the [[Bracket (architecture)|bracket system]] and is characterized by thatched roofs and heated floors called ''[[ondol]]''.<ref>[http://www.koreatimes.co.kr/www/news/art/2010/03/148_63378.html Exhibit Focuses on Traditional Architecture], Korea Times, 2010-03-31; [http://park.org/Korea/Pavilions/PublicPavilions/KoreaImage/e-information/life/tradi-03.html Photos of traditional Korean shelters]</ref> People of the upper classes built bigger houses with elegantly curved tiled roofs with lifting eaves. Traditional architecture can be seen in the palaces and temples, preserved old houses called ''[[hanok]]'',<ref>[http://ata.hannam.ac.kr/korea/k-house1.htm List of traditional Korean houses], Asian Tradition in Architecture</ref> and special sites like [[Hahoe Folk Village]], [[Yangdong Village of Gyeongju]] and [[Korean Folk Village]]. Traditional architecture may also be seen at the nine [[UNESCO World Heritage Sites]] in South Korea.<ref>{{cite web|url=http://whc.unesco.org/en/statesparties/kr |title=UNESCO World Heritage: Republic of Korea |publisher=Whc.unesco.org |date= |accessdate=2010-10-29}}</ref>
+
+Western architecture was first introduced to Korea at the end of the 19th century. Churches, offices for foreign legislation, schools and university buildings were built in new styles. With [[Korea under Japanese rule|annexation of Korea by Japan in 1910]] the colonial regime intervened in Korea's architectural heritage and Japanese-style modern architecture was imposed. The anti-Japanese sentiment, and the [[Korean War]], led to the destruction of most buildings constructed during that time.<ref>[http://nongae.gsnu.ac.kr/~mirkoh/cob1.html Brief Review of Korea Modern Architecture], Prof. Park Kil-ryong (Kukmin University), modified by Architectural Design Lab, GSNU.</ref>
+
+[[File:Paldalmn.jpg|thumb|right|[[Hwaseong Fortress]], a [[UNESCO World Heritage Site]]]]
+
+Korean architecture entered a new phase of development during the post-Korean War reconstruction, incorporating modern architectural trends and styles. Stimulated by the economic growth in the 1970s and 1980s, active redevelopment saw new horizons in architectural design. In the aftermath of the 1988 Seoul Olympics, South Korea has witnessed a wide variation of styles in its architectural landscape due, in large part, to the opening up of the market to foreign architects.<ref>[http://www.asianinfo.org/asianinfo/korea/arc/contemporary_architecture.htm Contemporary Korean architecture], Asian Info Organization</ref> Contemporary architectural efforts have been constantly trying to balance the traditional philosophy of "harmony with nature" and the fast-paced urbanization that the country has been going through in recent years.<ref>[http://www.asianewsnet.net/news.php?id=9605&sec=10 Korean buildings that captivate world], Asia News, 2010-01-15; [http://joongangdaily.joins.com/article/view.asp?aid=2903625 Still, slow waters of Korean architecture], Joongang Daily, 2009-04-16. Retrieved 2010-07-10.</ref>
+
+===Cuisine===
+{{Main|Korean cuisine}}
+Korean cuisine, ''hanguk yori'' (한국요리; 韓國料理), or ''hansik'' (한식; 韓食), has evolved through centuries of social and political change. Ingredients and dishes vary by province. There are many significant regional dishes that have proliferated in different variations across the country in the present day. The [[Korean royal court cuisine]] once brought all of the unique regional specialties together for the royal family. Meals consumed both by the royal family and ordinary Korean citizens have been regulated by a unique culture of etiquette.
+
+Korean cuisine is largely based on [[rice]], [[noodle]]s, [[tofu]], vegetables, fish and meats. Traditional Korean meals are noted for the number of side dishes, ''[[banchan]]'' (반찬), which accompany steam-cooked short-grain rice.  Every meal is accompanied by numerous banchan. [[Kimchi]], a fermented, usually spicy vegetable dish is commonly served at every meal and is one of the best known Korean dishes. Korean cuisine usually involves heavy seasoning with [[sesame oil]], ''[[doenjang]]'' (된장), a type of [[fermented bean paste|fermented soybean paste]], [[Korean soy sauce|soy sauce]], salt, garlic, ginger, and ''[[gochujang]]'' (고추장), a hot pepper paste.
+
+Soups are also a common part of a Korean meal and are served as part of the main course rather than at the beginning or the end of the meal. Soups known as ''[[guk]]'' (국) are often made with meats, shellfish and vegetables. Similar to guk, ''tang'' (탕) has less water, and is more often served in restaurants. Another type is ''[[jjigae]]'' (찌개), a [[stew]] that is typically heavily seasoned with chili pepper and served boiling hot.
+
+<gallery perrow="5">
+File:Banchans.jpg|Various ''banchan''
+File:Gimchi.jpg|''Baechu'' (napa cabbage) [[kimchi]]
+File:Korean barbeque-Bulgogi-16.jpg|Barbecued beef [[bulgogi]]
+File:Korean stew-Sundubu jjigae-08.jpg|''Sundubu jjigae'', a Korean uncurdled tofu stew
+File:Korean fruit punch-Sujeonggwa-02.jpg|[[Sujeonggwa]], a traditional Korean fruit punch, garnished with pine nuts
+</gallery>
+
+===Contemporary music, film and television===
+{{See also|Korean Wave}}
+In addition to domestic consumption, South Korean mainstream culture, including televised drama, films, and popular music, also generates significant exports to various parts of the world. This phenomenon, often called "[[Hallyu]]" or the "Korean Wave", has swept many countries in Asia and other parts of the world.<ref name=Kwave>{{cite news|url=http://news.bbc.co.uk/2/hi/business/1646903.stm|title='Korean Wave' piracy hits music industry|publisher=bbc.com|date=2001-11-09|accessdate=2010-06-25}}</ref>
+
+Until the 1990s, [[trot (music)|trot]] and [[ballad]]s dominated Korean popular music. The emergence of the rap group [[Seo Taiji and Boys]] in 1992 marked a turning point for Korean popular music, also known as [[K-Pop]], as the group incorporated elements of popular musical genres of [[rap music|rap]], [[rock music|rock]], and [[techno]] into its music.<ref>[http://rki.kbs.co.kr/english/entertainment/enter_artists_detail.htm?No=10058 Seo Taiji], KBS World</ref> Hip hop, dance and ballad oriented acts have become dominant in the Korean popular music scene, though trot is still popular among older Koreans. Many K-Pop stars and groups are also well known abroad, especially in Asia.<!--Do not add a list of groups here without first suggesting it at the Talk page.-->
+
+Since the success of the film ''[[Shiri (film)|Shiri]]'' in 1999, [[Korean film]] has begun to gain recognition internationally. Domestic film has a dominant share of the market, partly due to the existence of [[screen quotas]] requiring cinemas to show Korean films at least 73 days a year.<ref>[http://rki.kbs.co.kr/english/news/news_Ec_detail.htm?No=74142 S.Korea's Screen Quota Hinders Market Access], KBS World, 2010-07-16.</ref>
+
+[[Korean drama|Korean television shows]], especially the short form dramatic mini-series called "dramas", have also become popular outside of Korea, becoming another driving trend for wider recognition. The trend has caused some Korean actors to become better known abroad. The dramas are popular mostly in Asia. The stories have tended to have a romance focus, such as [[You're Beautiful]], [[My Name is Kim Sam Soon]], [[Boys over Flowers]], [[Winter Sonata]], [[Autumn Fairy Tale]], [[Full House (2004 TV series)|Full House]], [[All About Eve (TV series)|All About Eve]]. Historical/fantasy dramas have included [[Dae Jang Geum]], [[The Legend (TV series)|The Legend]], [[Goong]], and [[Sungkyunkwan Scandal]].<ref>{{cite web|url=http://www.koreandrama.org/ |title=List of Korean dramas |publisher=Koreandrama.org |date=2007-06-04 |accessdate=2010-10-29}}</ref>
+
+===Technology culture===
+
+[[File:DMB Korea.JPG|left|thumb|[[Digital Multimedia Broadcasting]] (DMB) on a mobile phone]]
+
+South Korean corporations [[Samsung]] and [[LG]] were ranked second and third largest mobile phone companies in the world in the first quarter of 2010, respectively.<ref>[http://www.idc.com/getdoc.jsp?containerId=prUS22322210 Top Five Mobile Phone Vendors], International Data Corporation, 2010-01-29. Retrieved 2010-07-07.</ref> An estimated 90% of South Koreans own a [[mobile phone]].<ref>[http://joongangdaily.joins.com/article/view.asp?aid=2900275 Koreans love their mobile phones], Joongang Daily, 2009-01-28. Retrieved 2010-07-07.</ref> Aside from placing/receiving calls and text messaging, mobile phones in the country are widely used for watching [[Digital Multimedia Broadcasting]] (DMB) or viewing websites.<ref>[http://www.asiamedia.ucla.edu/article-eastasia.asp?parentid=38998 KOREA: Terrestrial-DMB adds color to Korean lifestyle], Asia Media, 2006-02-12; [http://edition.cnn.com/2007/WORLD/asiapcf/10/16/digital.korea/ Facts from 'Digital Korea'], CNN Asia, 2007-10-16. Retrieved 2010-07-07.</ref> Over one million DMB phones have been sold and the three major wireless communications providers [[SK Telecom]], [[KT (telecommunication company)|KT]], and [[LG Telecom]] provide coverage in all major cities and other areas.
+
+[[File:Korean.culture-PC.bang-01.jpg|thumb|[[PC bang]]s are popular [[LAN gaming center]]s in South Korea.]]
+
+Wide access to broadband has let [[Video game culture|online games]] become a significant part of Korean culture in recent years. ''[[StarCraft]]'', a [[Real-time strategy|real-time strategy game]], is by far the most popular televised computer game in South Korea.<ref>[http://www.gamespot.com/news/6141627.html Spot On: Tuning in to what's on in South Korea], Gamespot, 2006-01-20.</ref> [[StarCraft professional competition|Game tournaments]], recorded in places like the [[COEX Mall]] are often broadcast live on TV stations such as [[MBCGame]] and [[Ongamenet]]. Professional ''StarCraft'' players can command considerable salaries in South Korea as members of pro-gaming teams that are sponsored primarily by cell phone providers.<ref>[http://www.theaustralian.com.au/news/world/south-korea-in-a-frenzy-over-starcraft-sequel/story-e6frg6so-1225885273217 South Korea in a frenzy over StarCraft sequel ], The Australian, 2010-06-28. Retrieved 2010-07-07.</ref> PC games are usually played in [[PC bang]]s which are basically internet cafes dedicated to online games such as ''[[Aion: The Tower of Eternity|Aion]]'', ''[[Lineage&nbsp;II]]'', ''[[Sudden Attack]]'', ''[[Kart Rider]]'', ''[[Maple Story]]'', ''[[Mabinogi (video game)|Mabinogi]]'', ''[[World of WarCraft]]'', and ''[[StarCraft 2]]'' (the long awaited sequel to the original starcraft which sold over 4.5 million copies in South Korea).
+
+==Sports==
+{{Main|Sport in South Korea}}
+[[File:Exhibicion dollyo chagui con apoyo.jpg|thumb|A [[taekwondo]] practitioner demonstrating ''dollyo chagi'' technique.]]
+
+The [[martial arts|martial art]] [[taekwondo]] originated in Korea. In the 1950s and 1960s, modern rules were standardised and taekwondo became an official [[Olympic Games|Olympic sport]] in 2000.<ref>[http://www.wtf.org/wtf_eng/site/about_taekwondo/present_day.html Taekwondo], World Taekwondo Federation]</ref> Other Korean martial arts include [[taekkyeon]], [[hapkido]], [[tang soo do]], [[kuk sool won]], [[kumdo]] and [[subak]].<ref>{{ko}} [http://www.kmaf.kr/ Korea Martial Arts Federation]</ref>
+
+[[Football]] has traditionally been regarded as the most popular spectator sport in Korea.<ref>{{cite web|url=http://www.ebn.co.kr/news/n_view.html?id=396070 |title=the most popular spectator sport is football in Korea |publisher=Ebn.co.kr |date=2009-08-19 |accessdate=2010-10-29}}</ref> Recent polling indicates that a majority, 56.7%, of South Korean sports fans continue to self-identify as football fans, with [[baseball]] ranked second at 19.1% of respondents. However, the polling did not indicate the extent to which respondents follow both sports.<ref>{{cite web|url=http://www.gallup.co.kr/gallupdb/reportContent.asp?seqNo=211&pagePos=1&selectYear=0&search=0&searchKeyword=%BD%BA%C6%F7%C3%F7 |title=research about the most popular spectator sport in Korea |publisher=Gallup.co.kr |date=2009-05-20 |accessdate=2010-10-29}}</ref> Regular season [[K-league]] football matches televised nationally average 35% share of the television-watching audience. European football leagues are also televised and widely followed.{{Citation needed|date=November 2010}} The [[Korea Republic national football team|national football team]] became the first team in the [[Asian Football Confederation]] to reach the [[World Cup]] semi-finals in the [[2002 FIFA World Cup]], which was jointly hosted by South Korea and Japan. The Korean Republic team (as it is known) has qualified for every World Cup since [[1986 FIFA World Cup|Mexico 1986]], and has broken out of the group stage twice: first in 2002, and again in [[2010 FIFA World Cup|2010]], when it was defeated by [[Uruguay national football team|Uruguay]] in the Round of 16.
+
+[[Baseball]] was first introduced to Korea in 1905 and has since become an increasingly popular spectator sport, with some sources claiming it has surpassed football as the most popular sport in the country.<ref>KOIS (2003), p.632.</ref><ref>Trading Markets.com. "S.Korean Game Developer NCsoft Interested in Pro Baseball." December 21, 2010.  Accessed December 26, 2010. http://www.tradingmarkets.com/news/stock-alert/ncscf_s-korean-game-developer-ncsoft-interested-in-pro-baseball-1382602.html</ref> The [[Korea Professional Baseball]] league, an 8 team circuit, was established in 1982. The [[South Korea national baseball team|South Korean national team]] finished third in the [[2006 World Baseball Classic]] and second in the [[2009 World Baseball Classic|2009 tournament]]. The team's 2009 final game against Japan was widely watched in Korea, with a large screen at [[Gwanghwamun]] crossing in Seoul broadcasting the game live.<ref>Wakabayashi, Daisuke and Park, Sungha. "Japan beats South Korea to be Baseball Champions." The Wall Street Journal. March 24, 2009. November 20, 2010. http://online.wsj.com/article/SB123786547697822121.html</ref> In the [[2008 Summer Olympics]], South Korea won the gold medal in baseball.<ref>[http://latimesblogs.latimes.com/olympics_blog/2008/08/south-korea-tak.html South Korea takes Olympics baseball gold], L.A. Times, 2008-08-23. Retrieved 2010-07-07.</ref> Also in 1982, at the Baseball Worldcup, Korea won the gold medal. At the Guangzhou Asian Games, the Korean National Baseball team won the gold medal.
+
+[[File:World Peace Gate, Olympic Park, Seoul.jpg|thumb|left|World Peace Gate at [[Olympic Park, Seoul]].]]
+
+South Korea hosted the [[Asian Games]] in 1986 ([[Seoul]]), 2002 ([[Busan]]), and will host again in 2014 ([[Incheon]]). It also hosted the Winter [[Universiade]] in 1997, the [[Asian Winter Games]] in 1999  and the Summer Universiade in 2003. In 1988, South Korea hosted the [[1988 Summer Olympics|Summer Olympics in Seoul]], coming fourth with 12 gold medals, 10 silver medals and 11 bronze medals. South Korea regularly performs well in [[archery]], [[shooting]], [[table tennis]], [[badminton]], [[short track speed skating]], [[team handball|handball]], [[hockey]], [[freestyle wrestling]], [[Greco-Roman wrestling]], [[baseball]], [[judo]], [[taekwondo]], [[speed skating]], [[figure Skating]], and [[Olympic weightlifting|weightlifting]]. The [[Seoul Olympic Museum]] is a museum in [[Seoul]], South Korea, dedicated to the 1988 Summer Olympics.
+
+South Korean athletes have shown skill in the [[Winter Olympics]] as well; after the [[2010 Winter Olympics]], South Korea, has won a total of 45 medals (23 gold, 14 silver, and 8 bronze). South Korea is especially strong in [[short track speed skating]], however, ice hockey is emerging as [[Anyang Halla]] won their first ever [[ALIH|Asia League Ice Hockey]] title in March 2010.<ref>{{cite web|url=http://www.alhockey.com/ |title=ALIH Official site |publisher=Alhockey.com |date= |accessdate=2010-10-29}}</ref>
+
+Seoul hosted a professional [[triathlon]] race, which is part of the [[International Triathlon Union]] (ITU) World Championship Series in May 2010.<ref>{{cite web|title=Dextro Energy International Triathlon Union World championship Series Seoul|url=http://seoul.triathlon.org/|accessdate=2010-06-26}}</ref>
+
+In October 2010, South Korea hosted its first [[Formula One]] race at the [[Korean International Circuit]] in [[Yeongam]], about {{convert|400|km|mi|-1}} south of Seoul. In 2011, the South Korean city of Daegu will host the [[2011 World Championships in Athletics|2011 IAAF World Championships in Athletics]].<ref>{{cite web|url=http://www.formula1.com/races/in_detail/korea_840/ |title=Formula 1 Official Site |publisher=Formula1.com |date= |accessdate=2010-10-29}}</ref>
+
+South Korea has three [[horse racing]] tracks of which [[Seoul Race Park]] in [[Gwacheon]], [[Gyeonggi-do]] is the biggest.<ref>[http://eng.gg.go.kr/entry/south-Korea-Gyeonggi-Do-Seoul-Horse-Racing-Park Seoul Horse Racing Park]{{dead link|date=October 2010}}, Gyeonggi-do Overseas PR Official Blog</ref>
+
+Gaming forums around the world commonly refer to the computer game [[Starcraft]] as the national "sport" of South Korea, due to the fact it is televised more than any other sport in South Korea.{{fact|date=January 2011}}
+
+==See also==
+{{Portal|Korea}}
+{{Main|Outline of South Korea}}
+*[[Four emerging markets]]
+*[[History of South Korea]]
+*[[Index of South Korea-related articles]]
+*[[International rankings of South Korea]]
+
+==References==
+===Footnotes===
+<!--Please DO ''not'' use a scroll template/form/table for the reflink, please read warning on the scroll template page. Thank you.-->
+{{Reflist|colwidth=30em}}
+
+===Bibliography===
+{{Refbegin}}
+*{{Cite book|title=Korea's place in the sun|author=Cumings, Bruce|year=1997|location=New York|publisher=W.W. Norton|isbn=0-393-31681-5}}
+*{{Cite book|title=Handbook of Korea, 11th ed|author=KOIS ([[Korea Overseas Information Service]])|location=Seoul|publisher=[[Hollym (publishing house)|Hollym]]|year=2003|isbn=1-56591-212-8}}
+*{{Cite book|title=Korea: A history of the Korean people (2nd ed.)|author=Nahm, Andrew C.|year=1996|location=Seoul|publisher=Hollym|isbn=1-56591-070-2}}
+*{{Cite book|title=The North and South Korean political systems: A comparative analysis (rev. ed.)|author=Yang, Sung Chul|year=1999|location=Seoul|publisher=Hollym|isbn=1-56591-105-9}}
+*{{Cite book|title=Korea Annual 2004|author=Yonhap News Agency|year=2004|location=Seoul|publisher=Author|isbn=89-7433-070-9}}
+*{{Cite book|title=From Tradition to Consumption: Constructing a Capitalist Culture in South Korea|author=Dennis Hart|year=2003|location=Seoul|publisher=Author|isbn=89-88095-44-8}}
+*{{Cite book|title=[[The Koreans (book)|The Koreans: Who They Are, What They Want, Where Their Future Lies]]|author=[[Michael Breen (author)|Michael Breen]]|year=2004|location=|publisher=St. Martin's Griffin|isbn=0312326092}}
+{{Refend}}
+
+==External links==
+{{Sister project links}}
+*[http://www.korea.net/ The official website of the Republic of Korea (Korea.net)]
+*[http://www.visitkorea.or.kr/intro.html The Official Korea Tourism Guide Site]
+*[http://www.nso.go.kr/eng2006/emain/index.html Korea National Statistical Office]
+*{{CIA World Factbook link|ks|South Korea}}
+*[http://lcweb2.loc.gov/frd/cs/krtoc.html A Country Study: South Korea] in the [[Library of Congress]]
+*{{dmoz|Regional/Asia/South_Korea/}}
+*{{yahoo directory|Regional/Countries/Korea__South/|South Korea}}
+*[http://www.turbomaps.com.ar/english/southkorea.php Main cities of South Korea], satellite views and geographical coordinates
+*[https://www.warmemo.or.kr/eng/intro/message/message.jsp The War Memorial of Korea]
+*[http://www.geoje-island.com/ Expat tourism guide to Geoje Island, South Korea]
+*[http://www.zuidkorea.be/ Dutch information about South Korea]
+
+{{Korea topics}}
+{{Navboxes
+|title=Geography and administration
+|list=
+{{Regions and administrative divisions of South Korea}}
+{{Countries and territories of East Asia}}
+{{Countries of Asia}}
+}}
+{{Navboxes
+|title=International membership
+|list=
+{{G20}}
+{{Major non-NATO ally}}
+{{East Asia Summit}}
+{{Community of Democracies}}
+{{Four Asian Tigers}}
+}}
+
+{{DEFAULTSORT:Korea, South}}
+[[Category:South Korea]]
+[[Category:Divided regions]]
+[[Category:East Asian countries]]
+[[Category:G20 nations]]
+[[Category:Liberal democracies]]
+[[Category:Republics]]
+[[Category:States and territories established in 1948]]
+
+{{Link GA|de}}
+{{Link GA|pt}}
+{{Link FA|es}}
+{{Link FA|uz}}
+<!--Other languages-->
+
+[[ace:Korèa Tunong]]
+[[af:Suid-Korea]]
+[[als:Südkorea]]
+[[am:ደቡብ ኮርያ]]
+[[ang:Sūþcorēa]]
+[[ar:كوريا الجنوبية]]
+[[an:Coreya d'o Sud]]
+[[frp:Corê du Sud]]
+[[ast:Corea del Sur]]
+[[gn:Yvykorea]]
+[[az:Cənubi Koreya]]
+[[bn:দক্ষিণ কোরিয়া]]
+[[zh-min-nan:Hân-kok]]
+[[be:Паўднёвая Карэя]]
+[[be-x-old:Рэспубліка Карэя]]
+[[bcl:Sur nin Korea]]
+[[bar:Südkorea]]
+[[bo:ལྷོ་ཀོ་རི་ཡ།]]
+[[bs:Južna Koreja]]
+[[br:Republik Korea]]
+[[bg:Южна Корея]]
+[[ca:Corea del Sud]]
+[[ceb:Habagatang Korea]]
+[[cs:Jižní Korea]]
+[[cy:De Corea]]
+[[da:Sydkorea]]
+[[de:Südkorea]]
+[[dv:ދެކުނު ކޮރެއާ]]
+[[nv:Kolíya Bikéyah Shádiʼááhjí Siʼánígíí]]
+[[dsb:Pódpołdnjowa Koreja]]
+[[dz:ལྷོ་ཀོ་རི་ཡ་]]
+[[et:Lõuna-Korea]]
+[[el:Νότια Κορέα]]
+[[es:Corea del Sur]]
+[[eo:Sud-Koreio]]
+[[ext:Corea el Sul]]
+[[eu:Hego Korea]]
+[[ee:South Korea]]
+[[fa:کره جنوبی]]
+[[hif:South Korea]]
+[[fo:Suðurkorea]]
+[[fr:Corée du Sud]]
+[[fy:Súd-Korea]]
+[[ga:An Chóiré Theas]]
+[[gv:Yn Chorea Yiass]]
+[[gag:Üülen Koreya]]
+[[gd:Coirea a Deas]]
+[[gl:Corea do Sur - 한국]]
+[[gan:韓國]]
+[[gu:દક્ષિણ કોરિયા]]
+[[hak:Thai-hôn Mìn-koet]]
+[[ko:대한민국]]
+[[hy:Կորեայի Հանրապետություն]]
+[[hi:दक्षिण कोरिया]]
+[[hsb:Južna Koreja]]
+[[hr:Južna Koreja]]
+[[io:Sud-Korea]]
+[[ilo:Abagatan a Korea]]
+[[bpy:খা কোরিয়া]]
+[[id:Korea Selatan]]
+[[ia:Corea del Sud]]
+[[ie:Sud-Korea]]
+[[os:Республикæ Корей]]
+[[is:Suður-Kórea]]
+[[it:Corea del Sud]]
+[[he:קוריאה הדרומית]]
+[[jv:Koréa Kidul]]
+[[kl:Korea Kujalleq]]
+[[kn:ದಕ್ಷಿಣ ಕೊರಿಯಾ]]
+[[pam:Mauling Korea]]
+[[krc:Корея Республика]]
+[[ka:სამხრეთი კორეა]]
+[[ks:दक्षिण कोरिया]]
+[[csb:Repùblika Kòreji]]
+[[kk:Оңтүстік Корея]]
+[[kw:Korea Dhyhow]]
+[[rw:Koreya y’Amajyepfo]]
+[[sw:Korea Kusini]]
+[[kv:Корея Республика]]
+[[ht:Kore disid]]
+[[ku:Komara Korêyê]]
+[[la:Respublica Coreana]]
+[[lv:Dienvidkoreja]]
+[[lb:Republik Korea]]
+[[lt:Pietų Korėja]]
+[[lij:Corea do Sud]]
+[[li:Zuud-Korea]]
+[[ln:Kore ya Sidi]]
+[[jbo:snanu zei .xanguk]]
+[[lmo:Curea del Süd]]
+[[hu:Dél-Korea]]
+[[mk:Република Кореја]]
+[[mg:Korea Atsimo]]
+[[ml:ദക്ഷിണ കൊറിയ]]
+[[mt:Korea t'Isfel]]
+[[mr:दक्षिण कोरिया]]
+[[arz:كوريا الجنوبيه]]
+[[ms:Korea Selatan]]
+[[cdo:Hàng-guók]]
+[[mn:Өмнөд Солонгос]]
+[[my:ကိုရီးယားသမ္မတနိုင်ငံ]]
+[[nah:Corea Huitztlāmpa]]
+[[na:South Korea]]
+[[nl:Zuid-Korea]]
+[[ne:दक्षिण कोरिया]]
+[[ja:大韓民国]]
+[[nap:Corea d%27%27o Sud]]
+[[pih:Sowth Koriya]]
+[[no:Sør-Korea]]
+[[nn:Sør-Korea]]
+[[nrm:Corée du Sud]]
+[[nov:Sud Korea]]
+[[oc:Corèa del Sud]]
+[[mhr:Кечывалвел Корей]]
+[[uz:Koreya Respublikasi]]
+[[pnb:دکھنی کوریا]]
+[[pap:Sur Korea]]
+[[ps:سوېلي کوريا]]
+[[km:កូរ៉េខាងត្បូង]]
+[[pms:Coréa dël Sud]]
+[[tpi:Saut Koria]]
+[[nds:Süüdkorea]]
+[[pl:Korea Południowa]]
+[[pt:Coreia do Sul]]
+[[crh:Cenübiy Koreya]]
+[[ro:Coreea de Sud]]
+[[rm:Corea dal Sid]]
+[[qu:Urin Kuriya]]
+[[ru:Республика Корея]]
+[[rue:Южна Корея]]
+[[sah:Соҕуруу Кэриэйэ]]
+[[se:Mátta-Korea]]
+[[sm:Kolea i Saute]]
+[[sa:दक्षिण कोरिया]]
+[[sco:Republic o Korea]]
+[[sq:Koreja e Jugut]]
+[[scn:Corea dû Sud]]
+[[si:දකුණු කොරියාව]]
+[[simple:South Korea]]
+[[ss:IKhoriya leseNingizimu]]
+[[sk:Kórejská republika]]
+[[sl:Južna Koreja]]
+[[szl:Połedńowo Koryjo]]
+[[so:Koonfur Kuuriya]]
+[[ckb:کۆریای باشوور]]
+[[sr:Јужна Кореја]]
+[[sh:Južna Koreja]]
+[[su:Koréa Kidul]]
+[[fi:Korean tasavalta]]
+[[sv:Sydkorea]]
+[[tl:Timog Korea]]
+[[ta:தென் கொரியா]]
+[[te:దక్షిణ కొరియా]]
+[[tet:Koreia Súl]]
+[[th:ประเทศเกาหลีใต้]]
+[[chr:ᎤᎦᎾᏭ ᎢᏗᎵ ᎪᎴᎠ]]
+[[tr:Güney Kore]]
+[[tk:Koreýa Respublikasy]]
+[[udm:Республика Корея]]
+[[uk:Південна Корея]]
+[[ur:جنوبی کوریا]]
+[[ug:جەنۇبىي چاۋشيەن]]
+[[vec:Corea del Sud]]
+[[vi:Hàn Quốc]]
+[[vo:Sulüda-Koreyän]]
+[[fiu-vro:Lõunõ-Korea]]
+[[zh-classical:大韓民國]]
+[[war:Salatan nga Korea]]
+[[wo:Kore gu Bëj-saalum]]
+[[wuu:大韩民国]]
+[[yi:דרום קארעע]]
+[[yo:Kòréà Gúúsù]]
+[[zh-yue:大韓民國]]
+[[diq:Korya Veroci]]
+[[bat-smg:Pėitū Kuoriejė]]
+[[zh:大韩民国]]

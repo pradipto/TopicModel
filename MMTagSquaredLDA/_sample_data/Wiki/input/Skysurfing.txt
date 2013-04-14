@@ -1,0 +1,45 @@
+{{refimprove|date=February 2008}}
+[[File:Skydiving in Central London!!.jpg|right|thumb|200px|Skysurfing simulator.]]
+'''Sky surfing''' is a type of [[skydiving]] in which the skydiver wears a board attached to his or her feet and performs [[surfing]]-style [[aerobatics]] during [[freefall]].
+
+The boards used are generally smaller than actual [[surfboard]]s, and look more like [[snowboard]]s or large [[skateboard]]s. The attachment to the feet is normally made removable, so that if the skydiver loses control or has difficulty opening their parachute, the board can be jettisoned.
+
+Skysurfing is a skill requiring considerable practice. The simplest skysurfing technique is to stand upright on the board during freefall, and tilt the nose of the board down to generate forward movement. However even this basic technique is a balancing act which experienced skydivers find tricky to learn. The extra drag of the board tends to upset the balance and make the skydiver flip over. The jumper must also learn to control the board and their body position so as to open the parachute in a stable configuration. More advanced aerobatics such as loops, rolls and helicopter spins, are more difficult still and are tackled once the basics have been mastered.
+
+Because of the possibility of dropping the board, not every skydiving club permits skysurfing, and only a minority of skydivers have attempted this recent specialisation in the sport.
+
+When a skysurfer is filmed by another skydiver falling alongside them, the resulting film gives the appearance that the skysurfer is riding on the air in the same way a surfer rides on a wave. The downward motion is not very apparent and this creates the illusion that a skysurfer is gliding on air currents like a sailplane or hang glider. In fact a skysurfer always falls at a high speed comparable to any other freefalling parachutist.  The competitive discipline of skysurfing is a team sport consisting of a skysurfer and a camera flyer with a video camera.
+
+The Sky Surf was invented by two French skydivers, Dominique Jacquet and Jean-Pascal Oron in 1986 but it became popular and gained recognition during the 1990s thanks to the efforts of the first few exponents to master the more complex aerobatics, such as the late [[Patrick de Gayardon]]. The rise of skysurfing coincided with other new-age disciplines in skydiving, such as freestyle and freeflying. Freestyle skydiving is a balletic, mostly individual style which seeks to extend the sport beyond the traditional belly-to-earth flat position used by most skydivers who make formations with their bodies. 
+
+Freeflying is also a form of skydiving using a variety of body positions, such as head-down or feet-to-earth, while still building formations with others. These evolutions in skydiving have taken the sport further away from the traditional image of a daredevil stunt.
+
+Skysurfing reached its peak in popularity in the late 1990s.  Skysurfers were featured in prime time television commercials for major brands like Pepsi, AT&T and others. Competitive team skysurfing was featured as part of the ESPN X Games from 1995 to 2000.  In 1996 and 1997, the SSI Pro Tour staged eight X-Trials qualifying events in both North America and Europe.  During this six year period, pro skysurf teams received a total of $392,000 in cash winnings and the discipline garnered over 100+ hours of global TV exposure without incident.  After ESPN decided not to renew the sport for the seventh season, skysurfing has become relatively rare among the skydiving community.  Reasons for the decline include the rise in popularity of freeflying and wingsuit flying, the hazards associated with flying and releasing the board, and the dwindling number of experienced skysurfers to train new pilots. 
+
+=="Mountain Dew" Incident==
+An accident during the filming of the [[Mountain Dew]] "007" commercial directed by [[David Kellogg]] and lensed by [[Janusz Kamiński]] resulted in the death of noted skysurfer Rob Harris.  The incident was not directly attributed to skysurfing, but rather an error made during an attempt to film an "intentional cutaway" (where a skydiver intentionally releases, and falls away from his primary parachute).  Harris was wearing a modern sport parachute harness containing two parachutes (a "main" and a "reserve") which was modified so that a third parachute could be externally attached to the risers of his main parachute and be released in-flight via an extra "cutaway" release handle (attached to his harness near the standard main parachute release handle).  It was the intention of the stunt to film Harris releasing his open "main" parachute, dropping into freefall, and deploying his "reserve" parachute (which would have actually been his real main parachute -- the one he intended to land -- while still having a reserve parachute in case it was required.  Skydivers are required by law to always jump with one more parachute than they intend to deploy on any given jump -- and it is good common sense.  Since Harris planned to deploy two parachutes on this jump, he required a third.
+
+It was decided the third parachute would be attached to the risers of his main parachute; (risers are the webbing which connects a parachute's suspension lines to a jumper's harness and are exposed on a jumper's shoulders while the actual canopy fabric and lines are packed securely in the container on the jumpers back).  In sport parachuting, a jumper typically has just two handles on his chest (in addition to a third handle which deploys the main parachute and is located elsewhere).  Usually on one's right side is the main parachute release handle (or "cutaway").  On the left is the reserve parachute ripcord, which deploys the emergency parachute.  Due to the special nature of Harris' jump, a second release handle was attached to his harness  near the usual one.  Harris was to jump and immediately deploy the third parachute, and then be filmed releasing that parachute, entering freefall, and deploying his normal main parachute (completing his skydive in the usual manner).
+
+Due to either an operator or rigging error, the wrong parachute was released when Harris attempted to cutaway.  The parachute that was disconnected was the main parachute still packed on his back (which he had intended to deploy and land after the cutaway).  Since the third parachute was connected to the risers of the main parachute (which had just been released) and not any part of Harris' harness, it began to quickly extract the main parachute from its container in a disorderly, out-of-sequence manner.  Neither parachute could now be used to land Harris safely, and unfortunately Harris was unable to disentangle himself from the two partially open parachutes.  Lacking clean air to deploy his reserve parachute, he was eventually forced to risk deploying it with the others still attached, but the reserve also entangled.  His resulting fall-rate was not survivable.
+
+The advertisement was aired, with the consent of his family, though the final jump was not included; Harris's appearance in the commercial uses film shot several days prior to his death. [http://www.snopes.com/radiotv/tv/harris.htm]
+
+==Notable skysurf teams==
+*Rob Harris-Joe Jennings: Gold 1995 Extreme Games,
+*Bob Greiner-Clif Burch: Gold 1996 X Games,
+*Troy Hartman-Vic Pappadato: Gold 1997 X Games,
+*Valery Rozov-Clif Burch: Gold 1998 X Games,
+*Eric Fradet-Alex Iodice: Gold 1999 X Games,
+*Stefan Klaus-Brian Rogers: Gold 2000 X Games.
+
+==See also==
+{{Extreme Sports}}
+
+[[Category:Parachuting]]
+
+[[es:Surfeo aéreo]]
+[[it:Skysurf]]
+[[pl:Akrobacje powietrzne na desce]]
+[[pt:Skysurf]]
+[[ru:Скайсёрфинг]]

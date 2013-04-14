@@ -1,0 +1,494 @@
+{{redirect10|Sings|Singer|Vocals}}
+[[Image:Harry Belafonte singing 1954.jpg|thumb|right|[[Harry Belafonte]] 1954]]
+
+'''Singing''' is the act of producing [[music]]al sounds with the [[human voice|voice]], and augments regular [[speech]] by the use of both [[tonality]] and [[rhythm]]. A person who sings is called a '''singer''' or '''vocalist'''. Singers perform [[music]] known as [[songs]] that can either be sung ''[[a cappella]]'' (without [[accompaniment]]) or accompanied by [[musicians]] and [[Musical instrument|instruments]] ranging from a single instrumentalist to a full [[symphony orchestra]] or [[big band]]. Singing is often done in a group of other musicians, such as in a [[choir]] of singers with different voice ranges, or in an ensemble with instrumentalists, such as a [[rock group]] or [[Baroque orchestra|baroque ensemble]]. Nearly anyone who can speak can sing, since in many respects singing is a form of sustained [[speech]].
+
+Singing can be informal and done for pleasure; for example, [[singing in the shower]] or [[karaoke]]; or it can be very formal, as in the case of singing during a religious ritual such as a [[Mass (liturgy)|Mass]] or professional singing typically done on stage or in a [[recording studio]].  Singing at a high amateur or professional level usually requires instruction, and regular [[practice (learning method)|practice]].<ref name="Musicguides">
+{{cite book
+ |pages=26
+ |series=[[Yehudi Menuhin]] music guides
+ |title=Voice
+ |editor-last=Falkner |editor-first=Keith
+ |location=London
+ |publisher=MacDonald Young
+ |year=1983
+ |isbn=035609099X
+ |oclc=10418423
+
+}}</ref> Professional singers usually build their [[careers]] around one specific [[musical genre]], such as Classical or rock, and they typically take [[vocal pedagogy|voice training]] provided by a voice teacher or [[vocal coach]] throughout their career.
+
+==The human voice== 
+{{Main|Human voice}}
+[[Image:Gray1204.png|right|300x300px|thumb|A labeled anatomical diagram of the [[vocal folds]] or cords.]]
+In its physical aspect, singing has a well-defined technique that depends on the use of the [[lungs]], which act as an air supply, or bellows; on the [[larynx]], which acts as a reed or vibrator; on the [[chest]] and [[head]] cavities, which have the function of an amplifier, as the tube in a [[wind instrument]]; and on the [[tongue]], which together with the [[palate]], [[teeth]], and [[lip]]s articulate and impose [[consonants]] and [[vowels]] on the amplified sound. Though these four mechanisms function independently, they are nevertheless coordinated in the establishment of a [[vocal technique]] and are made to interact upon one another.<ref>
+{{cite web
+ |url=http://www.britannica.com/EBchecked/topic/545880/singing
+ |title=Singing
+ |work=Britannica Online Encyclopedia
+}}</ref> During passive breathing, air is inhaled with the [[diaphragm (anatomy)|diaphragm]] while exhalation occurs without any effort. Exhalation may be aided by the [[abdominal]], [[internal intercostal]] and [[pelvis|lower pelvic muscles]]. Inhalation is aided by use of [[external intercostals]], [[scalenes]] and [[sternocleidomastoid muscles]]. The [[pitch (music)|pitch]] is altered with the [[vocal cords]]. With the lips closed, this is called [[Hum (sound)|humming]].
+
+The sound of each individual's singing voice is entirely unique not only because of the actual shape and size of an individual's [[vocal cords]] but also due to the size and shape of the rest of that person's body. Humans have vocal folds which can loosen, tighten, or change their thickness, and over which breath can be transferred at varying pressures. The shape of the [[chest]] and [[neck]], the position of the [[tongue]], and the tightness of otherwise unrelated muscles can be altered. Any one of these actions results in a change in [[Pitch (music)|pitch]], [[volume]], [[timbre]], or tone of the sound produced. Sound also resonates within different parts of the body, and an individual's size and bone structure can affect the sound produced by an individual.
+
+Singers can also learn to project sound in certain ways so that it resonates better within their vocal tract. This is known as [[vocal resonation]]. Another major influence on vocal sound and production is the function of the larynx which people can manipulate in different ways to produce different sounds. These different kinds of laryngeal function are described as different kinds of [[vocal registers]].<ref name="Vennard">
+{{cite book
+ |title=Singing: the mechanism and the technic
+ |last=Vennard |first=William
+ |year=1967
+ |location=New York
+ |publisher=Carl Fischer
+ |isbn=978-0825800559
+ |oclc=248006248
+}}</ref> The primary method for singers to accomplish this is through the use of the [[formant|Singer's Formant]]; which has been shown to match particularly well to the most sensitive part of the [[ear|ear's]] frequency range.<ref>
+{{cite journal
+ |url=http://web.ku.edu/~cmed/923/Hunter1.pdf
+ |format=PDF
+ |last1=Hunter |first1=Eric J |last2=Titze |first2=Ingo R
+ |title=Overlap of hearing and voicing ranges in singing.
+ |journal=J Singing
+ |volume=61
+ |issue=4
+ |year=2004
+ |pages=387–392
+}}</ref><ref>
+{{cite journal
+ |last1=Hunter |first1=Eric J |last2=Švec |first2=Jan G |last3=Titze |first3=Ingo R
+ |title=Comparison of the produced and perceived voice range profiles in untrained and trained classical singers
+ |journal=J Voice
+ |year=2006 | month=December
+ |volume=20
+ |issue=4
+ |pages=513–526
+ |pmid=16325373
+ |doi=10.1016/j.jvoice.2005.08.009
+}}</ref>
+
+===Vocal registration===
+{{Main|Vocal registration}}
+{{Vocal registration}}
+'''Vocal registration''' refers to the system of vocal registers within the human voice. A register in the human voice is a particular series of tones, produced in the same vibratory pattern of the [[vocal fold]]s, and possessing the same quality. Registers originate in [[larynx|laryngeal]] function. They occur because the vocal folds are capable of producing several different vibratory patterns. Each of these vibratory patterns appears within a particular [[Vocal range|range]] of [[Pitch (music)|pitches]] and produces certain characteristic sounds.<ref name="Large">
+{{Cite journal
+ |last=Large |first=John W
+ |date=February/March 1972
+ |title=Towards an integrated physiologic-acoustic theory of vocal registers
+ |journal=The NATS Bulletin
+ |issn=0884-8106
+ |oclc=16072337
+ |volume=28
+ |pages=30–35
+}}</ref> The term "register" can be somewhat confusing as it encompasses several aspects of the human voice. The term register can be used to refer to any of the following:<ref name="McKinney1994">
+{{cite book
+ |title= The diagnosis and correction of vocal faults
+ |last=McKinney |first=James C
+ |year=1994
+ |publisher=Genovex Music Group
+ |location=Nashville, Tennessee
+ |pages=213
+ |isbn=1565939409
+ |oclc=30786430
+}}</ref>
+
+* A particular part of the [[vocal range]] such as the upper, middle, or lower registers.
+* A [[resonance]] area such as [[chest voice]] or [[head voice]].
+* A [[phonation|phonatory]] process (phonation is the process of producing vocal sound by the vibration of the vocal folds that is in turn modified by the resonance of the vocal tract)
+* A certain vocal [[timbre]] or vocal "colour"
+* A region of the voice which is defined or delimited by vocal breaks.
+
+In [[linguistics]], a '''register language''' is a language which combines [[tone (linguistics)|tone]] and vowel [[phonation]] into a single [[phonology|phonological]] system. Within [[speech pathology]] the term vocal register has three constituent elements: a certain vibratory pattern of the vocal folds, a certain series of pitches, and a certain type of sound. Speech pathologists identify four vocal registers based on the physiology of laryngeal function: the [[vocal fry register]], the [[modal register]], the [[falsetto register]], and the [[whistle register]]. This view is also adopted by many vocal pedagogists.<ref name="McKinney1994" />
+
+===Vocal resonation===
+{{Main|Vocal resonation}}
+[[Image:Illu01 head neck.jpg|thumb|200px|right|]]
+'''Vocal resonation''' is the process by which the basic product of phonation is enhanced in timbre and/or intensity by the air-filled cavities through which it passes on its way to the outside air. Various terms related to the resonation process include amplification, enrichment, enlargement, improvement, intensification, and prolongation, although in strictly scientific usage acoustic authorities would question most of them. The main point to be drawn from these terms by a singer or speaker is that the end result of resonation is, or should be, to make a better sound.<ref name="McKinney1994" /> There are seven areas that may be listed as possible vocal resonators. In sequence from the lowest within the body to the highest, these areas are the [[chest]], the [[Vertebrate trachea|tracheal tree]], the [[larynx]] itself, the [[pharynx]], the [[oral cavity]], the [[nasal cavity]], and the [[sinuses]].<ref name="Greene2001">
+
+{{cite book
+ |title= The voice and its disorders
+ |last1=Greene |first1=Margaret |last2=Mathieson |first2=Lesley
+ |year= 2001
+ |publisher= John Wiley & Sons
+ |edition=6th
+ |isbn=1861561961
+ |oclc=47831173
+}}</ref>
+
+===Chest voice and head voice===
+{{Main|Chest voice|Head voice}}
+'''Chest voice''' and '''head voice''' are terms used within [[vocal music]]. The use of these terms varies widely within vocal pedagogical circles and there is currently no one consistent opinion among vocal music professionals in regards to these terms. Chest voice can be used in relation to a particular part of the [[vocal range]] or type of [[vocal register]]; a [[vocal resonance]] area; or a specific [[vocal timbre]].<ref name="McKinney1994"/> Head voice can be used in relation to a particular part of the [[vocal range]] or type of [[vocal register]] or a [[vocal resonance]] area.<ref name="McKinney1994"/>
+
+====History and development====
+The first recorded mention of the terms chest voice and head voice was around the 13th century, when it was distinguished from the "throat voice" (pectoris, guttoris, capitis — at this time it is likely that head voice referred to the [[falsetto register]]) by the writers [[Johannes de Garlandia (music theorist)|Johannes de Garlandia]] and [[Jerome of Moravia]].<ref name="groveONE">
+{{cite book
+ |title=The new Grove dictionary of music & musicians
+ |editor1-last=Grove |editor1-first=George
+ |editor2-last=Sadie |editor2-first=Stanley
+ |volume=6
+ |volume-title=Edmund to Fryklund
+ |isbn=1561591742
+ |oclc=191123244
+ |publisher=Macmillan
+ |year=1980
+}}</ref> The terms were later adopted within [[bel canto]], the Italian opera singing method, where chest voice was identified as the lowest and head voice the highest of three vocal registers: the chest, [[passagio]] and head registers.<ref name=Stark/> This approach is still taught by some vocal pedagogists today. Another current popular approach that is based on the bel canto model is to divide both men and women's voices into three registers. Men's voices are divided into "chest register", "head register", and "falsetto register" and woman's voices into "chest register", "middle register", and "head register". Such pedagogists teach that the head register is a [[vocal]] technique used in singing to describe the resonance felt in the singer's head.<ref name="Headv">
+{{cite book
+ |last=Clippinger |first=David Alva
+ |title=The head voice and other problems: Practical talks on singing
+ |publisher=Oliver Ditson
+ |year=1917
+ |page=12
+ |isbn =
+}}{{Gutenberg|no=19493|name=Singing}}</ref>
+
+However as knowledge of human physiology has increased over the past two hundred years, so has the understanding of the physical process of singing and vocal production. As a result, many vocal pedagogists, such as Ralph Appelman at [[Indiana University]] and [[William Vennard]] at the [[University of Southern California]], have redefined or even abandoned the use of the terms chest voice and head voice.<ref name=Stark /> In particular, the use of the terms ''chest register'' and ''head register'' have become controversial since [[vocal registration]] is more commonly seen today as a product of [[Larynx|laryngeal]] function that is unrelated to the physiology of the chest, lungs, and head. For this reason, many vocal pedagogists argue that it is meaningless to speak of registers being produced in the chest or head. They argue that the vibratory sensations which are felt in these areas are resonance phenomena and should be described in terms related to [[vocal resonance]], not to registers. These vocal pedagogists prefer the terms ''chest voice'' and ''head voice'' over the term register. This view believes that the problems which people identify as register problems are really problems of resonance adjustment. This view is also in alignment with the views of other academic fields that study vocal registration including: [[speech pathology]], [[phonetics]], and [[linguistics]]. Although both methods are still in use, current vocal pedagogical practice tends to adopt the newer more scientific view. Also, some vocal pedagogists take ideas from both viewpoints.<ref name="McKinney1994" />
+
+The contemporary use of the term chest voice often refers to a specific kind of vocal coloration or vocal timbre. In classical singing, its use is limited entirely to the lower part of the [[modal register]] or normal voice. Within other forms of singing, chest voice is often applied throughout the [[modal register]]. Chest timbre can add a wonderful array of sounds to a singer's vocal interpretive palette.<ref name="Miller">
+{{cite book
+ |title= Solutions for singers
+ |last=Miller |first=Richard
+ |year=2004
+ |location=Oxford
+ |publisher=[[Oxford University Press]]
+ |pages=286
+ |isbn=0195160053
+ |oclc=51258100
+}}</ref>
+However, the use of overly strong chest voice in the higher registers in an attempt to hit higher notes in the chest can lead to forcing. Forcing can lead consequently to vocal deterioration.<ref name="oxfordDictOperaOne">
+{{cite book
+ |title=The Oxford dictionary of opera
+ |last1=Warrack |first1=John Hamilton |last2=West |first2=Ewan
+ |year=1992
+ |location=Oxford
+ |publisher=Oxford University Press
+ |isbn=0198691645
+ |oclc=25409395
+}}</ref>
+
+===Classifying singing voices===
+{{Main|Voice type|Voice classification in non-classical music}}
+{{Vocal range}}
+In [[European classical music]] and [[opera]], voices are treated like [[musical instrument]]s. [[Composers]] who write vocal music must have an understanding of the skills, talents, and vocal properties of singers. '''Voice classification''' is the process by which human singing voices are evaluated and are thereby designated into [[voice types]]. These qualities include but are not limited to: [[vocal range]], [[vocal weight]], [[vocal tessitura]], vocal [[timbre]], and [[vocal transition points]] such as breaks and lifts within the voice. Other considerations are physical characteristics, speech level, scientific testing, and [[vocal registration]].<ref name="Shewan">
+{{Cite journal
+ |last=Shewan |first=Robert
+ |date=January/February 1979
+ |title=Voice classification: An examination of methodology
+ |journal=The NATS Bulletin
+ |volume=35
+ |issue=3
+ |pages=17–27
+ |issn=0884-8106
+ |oclc=16072337
+}}</ref> The science behind voice classification developed within European [[classical music]] has been slow in adapting to more modern forms of singing. Voice classification is often used within [[opera]] to associate possible roles with potential voices. There are currently several different systems in use within classical music including: the German ''[[Fach]]'' system and the choral music system among many others. No system is universally applied or accepted.<ref name="Stark">
+{{cite book
+ |title=Bel Canto: A history of vocal pedagogy
+ |last=Stark |first=James
+ |year=2003
+ |location=Toronto
+ |publisher=[[University of Toronto Press]]
+ |isbn=978-0802086143
+ |oclc=53795639
+}}</ref>
+
+However, most classical music systems acknowledge seven different major voice categories. Women are typically divided into three groups: [[soprano]], [[mezzo-soprano]], and [[contralto]]. Men are usually divided into four groups: [[countertenor]], [[tenor]], [[baritone]], and [[Bass (vocal range)|bass]]. When considering voices of pre-pubescent children an eighth term, [[Boy soprano|treble]], can be applied. Within each of these major categories there are several sub-categories that identify specific vocal qualities like [[coloratura]] facility and [[vocal weight]] to differentiate between voices.<ref name="McKinney1994" />
+
+It should be noted that within [[choral music]], singers' voices are divided solely on the basis of [[vocal range]]. Choral music most commonly divides vocal parts into high and low voices within each sex (SATB, or soprano, alto, tenor, and bass). As a result, the typical choral situation affords many opportunities for misclassification to occur.<ref name="McKinney1994" /> Since most people have medium voices, they must be assigned to a part that is either too high or too low for them; the mezzo-soprano must sing soprano or alto and the baritone must sing tenor or bass. Either option can present problems for the singer, but for most singers there are fewer dangers in singing too low than in singing too high.<ref name="Smith">
+{{cite book
+ |title=Choral pedagogy
+ |last1=Smith |first1=Brenda
+ |last2=Sataloff |first2=Robert Thayer
+ |year=2005
+ |location=San Diego, California
+ |publisher=Plural Publishing
+ |isbn=1597560436
+ |oclc=64198260
+}}</ref>
+
+Within contemporary forms of music (sometimes referred to as [[Contemporary Commercial Music]]), singers are classified by the [[music style|style of music]] they sing, such as jazz, pop, blues, soul, country, folk, and rock styles. There is currently no authoritative voice classification system within non-classical music. Attempts have been made to adopt classical voice type terms to other forms of singing but such attempts have been met with controversy.<ref>
+{{cite book
+ |last=Peckham |first=Anne
+ |year=2005
+ |title=Vocal workouts for the contemporary singer
+ |location=Boston
+ |publisher=Berklee Press
+ |pages=117
+ |isbn=0876390475
+ |oclc=60826564
+}}</ref> The development of voice categorizations were made with the understanding that the singer would be using classical vocal technique within a specified range using unamplified (no microphones) vocal production. Since contemporary musicians use different vocal techniques, microphones, and are not forced to fit into a specific vocal role, applying such terms as soprano, tenor, baritone, etc. can be misleading or even inaccurate.<ref name="Appelman">
+{{cite book
+ |title= The science of vocal pedagogy: theory and application
+ |last=Appelman |first=Dudley Ralph
+ |year=1986
+ |location=Bloomington, Indiana
+ |publisher=Indiana University Press
+ |pages=434
+ |isbn=0253351103
+ |oclc=13083085
+}}</ref>
+
+==Vocal pedagogy==
+{{Main|Vocal pedagogy}}
+[[Image:Ercole de' Roberti 003.jpg|thumb|200px|right|[[Ercole de' Roberti]]: Concert, c. 1490]]
+'''Vocal pedagogy''' is the study of the teaching of singing. The art and science of vocal pedagogy has a long history that began in [[Ancient Greece]]{{Citation needed|date=January 2010}} and continues to develop and change today. Professions that practice the art and science of vocal pedagogy include [[vocal coaches]], [[choral music|choral directors]], [[Music education|vocal music educators]], [[List of opera directors|opera directors]], and other teachers of singing.
+
+Vocal pedagogy concepts are a part of developing proper [[vocal technique]]. Typical areas of study include the following:<ref name="Titze2008">
+{{cite journal
+ |author=Titze Ingo R
+ |year=2008
+ |title=The human instrument
+ |journal=Scientific American
+ |volume=298
+ |issue=1
+ |pages=94–101
+ |pmid=18225701
+ |doi=10.1038/scientificamerican0108-94
+}}</ref><ref name="Titze1994">
+{{cite book
+ |author=Titze Ingo R
+ |year=1994
+ |title=Principles of voice production
+ |publisher=[[Prentice Hall]]
+ |pages=354
+ |url=http://ncvs.org/bookshop/index.html
+ |isbn=013717893X
+}}</ref>
+
+* [[Human anatomy]] and [[Human physiology|physiology]] as it relates to the physical process of singing
+**Vocal health and [[voice disorders]] related to singing
+**Breathing and air support for singing
+**[[Phonation]]
+** [[Vocal resonation]] or [[Voice projection]]
+**[[Vocal registration]]: a particular series of tones, produced in the same vibratory pattern of the vocal folds, and possessing the same quality, which originate in laryngeal function, because each of these vibratory patterns appears within a particular range of pitches and produces certain characteristic sounds.
+** [[Voice classification]]
+
+* Vocal styles: for Classical singers, this includes styles ranging from [[Lieder]] to [[opera]]; for pop singers, styles can include [[belt (music)|"belted out"]] a blues ballads; for jazz singers, styles can include Swing ballads and scatting.
+** Techniques used in styles such as [[sostenuto]] and [[legato]], range extension, tone quality, [[vibrato]], and [[coloratura]]
+
+===Vocal technique===
+Singing when done with proper vocal technique is an integrated and coordinated act that effectively coordinates the physical processes of singing. There are four physical processes involved in producing vocal sound: [[Breathing|respiration]], [[phonation]], [[vocal resonation|resonation]], and [[Place of articulation|articulation]]. These processes occur in the following sequence:
+#Breath is taken
+#Sound is initiated in the [[larynx]]
+#The vocal resonators receive the sound and influence it
+#The articulators shape the sound into recognizable units
+Although these four processes are often considered separately when studied, in actual practice they merge into one coordinated function. With an effective singer or speaker, one should rarely be reminded of the process involved as their mind and body are so coordinated that one only perceives the resulting unified function. Many vocal problems result from a lack of coordination within this process.<ref name="Appelman">
+{{cite book
+ |title= The science of vocal pedagogy: theory and application
+ |last=Appelman |first=Dudley Ralph
+ |year=1986
+ |location=Bloomington, Indiana
+ |publisher=[[Indiana University Press]]
+ |pages=434
+ |isbn=0253351103
+ |oclc=13083085
+}}</ref>
+
+Since singing is a coordinated act, it is difficult to discuss any of the individual technical areas and processes without relating them to the others. For example, phonation only comes into perspective when it is connected with respiration; the articulators affect resonance; the resonators affect the vocal folds; the vocal folds affect breath control; and so forth. Vocal problems are often a result of a breakdown in one part of this coordinated process which causes voice teachers to frequently focus in intensively on one area of the process with their student until that issue is resolved. However, some areas of the art of singing are so much the result of coordinated functions that it is hard to discuss them under a traditional heading like phonation, resonation, articulation, or respiration.
+
+Once the voice student has become aware of the physical processes that make up the act of singing and of how those processes function, the student begins the task of trying to coordinate them. Inevitably, students and teachers will become more concerned with one area of the technique than another. The various processes may progress at different rates, with a resulting imbalance or lack of coordination. The areas of vocal technique which seem to depend most strongly on the student's ability to coordinate various functions are:<ref name="McKinney1994" />
+:
+#Extending the [[vocal range]] to its maximum potential
+#Developing consistent vocal production with a consistent tone quality
+#Developing flexibility and agility
+#Achieving a balanced [[vibrato]]
+
+====Developing the singing voice====
+Singing is a skill that requires highly developed muscle reflexes. Singing does not require much muscle strength but it does require a high degree of muscle coordination. Individuals can develop their voices further through the careful and systematic practice of both songs and vocal exercises. Vocal pedagogists instruct their students to exercise their voices in an intelligent manner. Singers should be thinking constantly about the kind of sound they are making and the kind of sensations they are feeling while they are singing.<ref name="Appelman"/> Vocal exercises have several purposes, including<ref name="McKinney1994" /> warming up the voice; extending the vocal range; "lining up" the voice horizontally and vertically; and acquiring vocal techniques such as legato, staccato, control of dynamics, rapid figurations, learning to sing wide intervals comfortably, singing trills, singing melismas and correcting vocal faults.
+
+=====Extending vocal range=====
+An important goal of vocal development is to learn to sing to the natural limits of one's vocal range without any obvious or distracting changes of quality or technique. Vocal pedagogists teach that a singer can only achieve this goal when all of the physical processes involved in singing (such as laryngeal action, breath support, resonance adjustment, and articulatory movement) are effectively working together. Most vocal pedagogists believe in coordinating these processes by (1) establishing good vocal habits in the most comfortable tessitura of the voice, and then (2) slowly expanding the range.<ref name=Vennard/>
+
+There are three factors that significantly affect the ability to sing higher or lower:
+
+# The ''energy'' factor — "energy" has several connotations. It refers to the total response of the body to the making of sound; to a dynamic relationship between the breathing-in muscles and the breathing-out muscles known as the breath support mechanism; to the amount of breath pressure delivered to the vocal folds and their resistance to that pressure; and to the dynamic level of the sound.
+# The ''space'' factor — "space" refers to the size of the inside of the mouth and the position of the palate and larynx. Generally speaking, a singer's mouth should be opened wider the higher he or she sings. The internal space or position of the soft palate and larynx can be widened by relaxing the throat. Vocal pedagogists describe this as feeling like the "beginning of a yawn".
+# The ''depth'' factor — "depth" has two connotations. It refers to the actual physical sensations of depth in the body and vocal mechanism, and to mental concepts of depth that are related to tone quality.
+
+McKinney says, "These three factors can be expressed in three basic rules: (1) As you sing higher, you must use more energy; as you sing lower, you must use less. (2) As you sing higher, you must use more space; as you sing lower, you must use less. (3) As you sing higher, you must use more depth; as you sing lower, you must use less."<ref name="McKinney1994" />
+
+=====Posture=====
+The singing process functions best when certain physical conditions of the body exist. The ability to move air in and out of the body freely and to obtain the needed quantity of air can be seriously affected by the posture of the various parts of the breathing mechanism. A sunken chest position will limit the capacity of the lungs, and a tense abdominal wall will inhibit the downward travel of the diaphragm. Good posture allows the breathing mechanism to fulfill its basic function efficiently without any undue expenditure of energy. Good posture also makes it easier to initiate phonation and to tune the resonators as proper alignment prevents unnecessary tension in the body. Vocal pedagogists have also noted that when singers assume good posture it often provides them with a greater sense of self assurance and poise while performing. Audiences also tend to respond better to singers with good posture. Habitual good posture also ultimately improves the overall health of the body by enabling better blood circulation and preventing fatigue and stress on the body.<ref name="Vennard"/>
+
+There are eight components of the ideal singing posture:
+
+# Feet slightly apart
+# Legs straight but knees unlocked
+# Hips facing straight forward
+# Spine aligned
+# Abdomen flat
+# Chest comfortably forward
+# Shoulders down and back
+# Head facing straight forward
+
+=====Breathing and breath support=====
+Natural breathing has three stages: a breathing-in period, a breathing out period, and a resting or recovery period; these stages are not usually consciously controlled. Within singing there are four stages of breathing: a breathing-in period (inhalation); a setting up controls period (suspension);a controlled exhalation period (phonation); and a recovery period.
+
+These stages must be under conscious control by the singer until they become conditioned reflexes. Many singers abandon conscious controls before their reflexes are fully conditioned which ultimately leads to chronic vocal problems.<ref name=Sundberg>
+{{Cite journal
+ |author=Sundberg Johan
+ |date=January/February 1993
+ |title= Breathing behavior during singing
+ |journal=The NATS Journal
+ |issn=0884-8106
+ |oclc=16072337
+ |volume=49
+ |pages=2–9, 49–51
+}}</ref>
+
+=====Vibrato=====
+[[Vibrato]] is used by singers (and many instrumentalists; for instance, [[string instruments]] that are played with a bow can produce vibrato tones) in which a sustained note wavers very quickly and consistently between a higher and a lower pitch, giving the note a slight quaver. Vibrato is the pulse or wave in a sustained tone. Vibrato occurs naturally, and is the result of proper breath support and a relaxed vocal apparatus.{{Citation needed|date=November 2010}} Some singers use vibrato as a means of expression. Many successful artists have built a career on deep, rich vibrato.
+
+==Vocal music==
+{{Main|Vocal music}}
+'''Vocal music''' is [[music]] performed by one or more singers, with or without [[musical instruments|instrumental]] accompaniment, in which singing provides the main focus of the piece. Vocal music is probably the oldest form of music, since it does not require any instrument besides the [[human voice]]. All musical [[culture]]s have some form of vocal music and there are many long standing singing traditions throughout the world's cultures.
+
+Music which employs singing but does not feature it prominently is generally considered as instrumental music. For example, some [[blues rock]] songs may have a simple call-and-response chorus, but the emphasis in the song is on the instrumental melodies and improvisation. Vocal music typically features sung words called [[lyrics]], although there are notable examples of vocal music that are performed using non-linguistic syllables or noises, sometimes as musical [[onomatopoeia]]. A short piece of vocal music with lyrics is broadly termed a [[song]].
+
+===Genres of vocal music===
+[[Image:Gillan11.jpg|thumb|200px|right|[[rock music|Rock singer]] [[Ian Gillan]] performing live with [[Deep Purple]] in 2006.]]
+{{Main|Music genre}}
+Vocal music is written in many different forms and styles which are often labeled within a particular genre of music. These genres include: [[Art music]], [[Popular music]], [[Traditional music]], regional and national music, and [[Fusion genre|fusions]] of those genres. Within these larger genres are many sub-genres. For example, popular music would encompass [[blues]], [[jazz]], [[country music]], [[easy listening]], [[hip hop]], [[rock music]], and several other genres. There may also be a sub-genre within a sub-genre such as [[vocalese]] and [[scat singing]] in jazz.
+
+====Popular and traditional music====
+In many modern pop [[musical group]]s, a lead singer performs the primary vocals or [[melody]] of a [[song]], as opposed to a [[Backing vocalist|backing singer]] who sings backup vocals or the [[harmony]] of a song. Backing vocalists sing some, but usually not all, parts of the song often singing only in a song's refrain or [[Hum (sound)|humming]] in the background. An exception is five-part [[Gospel music|gospel]] [[a cappella]] music, where the lead is the highest of the five voices and sings a [[descant]], and not the [[melody]]. Some artists may sing both the lead and backing vocals on audio recordings by overlapping recorded vocal tracks.
+
+Popular music includes a range of vocal styles. [[Hip-hop]] uses [[rapping]], the [[rhythm]]ic delivery of [[rhyme]]s in a rhythmic speech over a [[beats (music)|beat]] or without accompaniment. Some types of rapping consist mostly or entirely of speech and chanting, like the Jamaican "[[Deejaying|toasting]]". In some types of rapping, the performers may interpolate short sung or half-sung passages. [[Blues]] singing is based on the use of the [[blue note]]s–notes sung at a slightly lower pitch than that of the major scale for expressive purposes. In [[heavy metal music|heavy metal]] and [[hardcore punk]] subgenres, vocal styles can include techniques such as screams, shouts, and unusual sounds such as the "[[death growl]]".
+
+[[Image:Busta rhymes breaks it down for the mobile geeks.jpg|thumb|right|Rapper [[Busta Rhymes]] performs in Las Vegas.]]
+
+One difference between live performances in the popular and Classical genres is that whereas Classical performers often sing without amplification in small- to mid-size halls, in popular music, a [[microphone]] and [[PA system]] (amplifier and speakers) are used in almost all performance venues, even a small coffee house. The use of the microphone has had several impacts on popular music. For one, it facilitated the development of intimate, expressive singing styles such as "[[crooning]]" which would not have enough projection and volume if done without a microphone. As well, pop singers who use microphones can do a range of other vocal styles that would not project without amplification, such as making whispering sounds, humming, and mixing half-sung and sung tones. As well, some performers use the microphone's response patterns to create effects, such as bringing the mic very close to the mouth to get an enhanced bass response, or, in the case of hip-hop [[beatboxer]]s, doing plosive "p" and "b" sounds into the mic to create percussive effects.
+
+While some bands use backup singers who only sing when they are onstage, it is common for backup singers in popular music to have other roles. In many [[Rock music|rock]] and [[Heavy metal music|metal]] bands, the musicians doing backup vocals also play instruments, such as [[rhythm guitar]], electric bass, or drums. In [[latin (music)|Latin]] or [[Afro-Cuban]] groups, backup singers may play percussion instruments or shakers while singing. In some pop and [[hip-hop]] groups and in [[musical theater]], the backup singers may be required to perform elaborately choreographed dance routines while they sing through headset microphones.
+
+==Careers in singing==
+
+The salaries and working conditions for vocalists vary a great deal. While jobs in other music fields such as music education tend to be based on full-time, salaried positions, singing jobs tend to be based on contracts for individual shows or performances, or for a sequence of shows (e.g., a two-week series of performances of an opera or musical theater show).  Since income from singing jobs can be unsteady, singers often supplement their performing income with other singing-related jobs, such as vocal coaching, voice lessons, or as working as a choral director in a church. Due to the large number of aspiring vocalists, it can be very competitive to get jobs in singing.
+[[File:CallasAmsterdam1973a.jpg|thumb|right|300px| Maria Callas during her final tour in Amsterdam in 1973.]]
+Church choir soloists can make from $30 to $500 per performance (all figures in US dollars). Performers in a community choral group can earn from $200–$3,000 yearly; members of a professional concert choral group can make $80 and up per performance. Singers who perform on radio or TV shows can make $75 and up per show on a local station and $125 and up per national network show (e.g., CBS or NBC). Jazz or pop singers who perform with dance bands or nightclub show groups can make $225 and up per week. Professional opera chorus singers can make from $350–$750 per week. Opera soloists, for which the number of job openings is very limited, can make from $350 to $20,000 per performance for the most elite performers. Classical concert soloists, for which the number of job openings is very limited, have approximate earnings of $350 per performance and up.<ref name="careers">Music Educators' National Committee "Careers in Music" (2001), [http://www.menc.org MENC.org]</ref>
+
+Aspiring singers and vocalists must have musical talent and skill, an excellent voice, the ability to work with people, and a sense of showmanship and drama.  Additionally, singers need to have the ambition and drive to continually study and improve,<ref name="careers" />  because the process of studying singing does not end after an initial diploma or degree is finished-even decades after finishing their initial training, professional singers continue to seek out [[vocal coach]]ing to hone their skills, extend their range, and learn new styles. As well, aspiring singers need to gain specialized skills in the vocal techniques used to interpret songs, learn about the vocal literature from their chosen style of music, and gain skills in choral music techniques, [[sight singing]] and memorizing songs, and basic skills at the piano, to aid in learning new songs and in ear training or vocal exercises. In Classical singing and in some other genres, a knowledge of foreign languages such as French, Italian, German, or other languages, is needed. Prior to college or university training, aspiring singers should learn to read music, study basic piano, and gain experience with singing, both in choirs and in solo settings.
+
+College or university degrees are "not always required but the equivalent training is usually necessary".<ref name="careers" /> Post-secondary training in singing is available for both Classical and non-Classical singers. In the Classical stream, singing can be studied at conservatories and university music programs; credentials that are available range from diplomas and Bachelor's degrees to Master's degrees and the [[Doctor of Musical Arts]]. In popular and jazz styles, college and university degrees are also available, though there are fewer programs.
+
+Once aspiring vocalists have completed their professional training, they must then take steps to market themselves to buyers of vocal talent, by doing [[audition]]s in front of an opera director, choirmaster, or conductor. Depending on the style of vocal music that a person has trained in, the "talent buyers" that they seek out may be record company A&R representatives, opera or musical theater directors, choir directors, nightclub managers, or concert promoters. In addition preparing a resume or CV listing their training and performance experience, singers typically prepare a promotional kit that includes professionally taken photographs ([[head shot]]s); a CD or DVD with excerpts of vocal performances; and copies of reviews from music critics or journalists. Some singers hire an agent or manager to help them to seek out engagements and other performance opportunities; the agent or manager is often paid by receiving a percentage of the fees that the singer gets from performing onstage.
+
+==Health benefits==
+Scientific studies suggest that singing can have positive effects on people's health.  A preliminary study based on self-reported data from a survey of students participating in choral singing found perceived benefits including increased lung capacity, improved mood, stress reduction, as well as perceived social and spiritual benefits.<ref name="Clift2001">
+{{cite journal
+ |last1=Clift |first1=SM |last2=Hancox |first2=G
+ |title=The perceived benefits of singing
+ |journal=The Journal of the Royal Society for the Promotion of Health
+ |volume=121
+ |issue=4
+ |pages=248–256
+ |year=2001
+ |doi=10.1177/146642400112100409
+ |pmid=11811096
+}}</ref>  However, one much older study of lung capacity compared those with professional vocal training to those without, and failed to back up the claims of increased lung capacity.<ref name="Heller1960">
+{{cite journal
+ |last1=Heller |first1=Stanley S |last2=Hicks |first2=William R |last3=Root |first3=Walter S
+ |title=Lung volumes of singers
+ |journal=J Appl Physiol
+ |volume=15
+ |issue=1
+ |pages=40–42
+ |year=1960
+ |pmid=14400875
+}}</ref> Singing may positively influence the [[immune system]] through the reduction of [[stress (medicine)|stress]].  One study found that both singing and listening to choral music reduces the level of stress hormones and increases immune function.<ref name="Kreutz2004">
+{{Cite journal |last1= Kreutz |first1=Gunter |last2=Bongard |first2=Stephan |last3=Rohrmann |first3=Sonja |last4=Hodapp |first4=Volker |last5=Grebe |first5=Dorothee |title=Effects of choir singing or listening on secretory immunoglobulin A, cortisol, and emotional state
+ |journal=Journal of Behavioral Medicine
+ |volume=27 |issue=6 |pages=623–635 |date=December 2004|doi=10.1007/s10865-004-0006-9 |pmid= 15669447
+}}</ref> A multinational collaboration to study the connection between singing and health was established in 2009, called ''Advancing Interdisciplinary Research in Singing'' (AIRS).<ref name="AIRS">{{cite news |url=http://www.theglobeandmail.com/life/health/doctors-prescription-2-arias-a-chorus/article1186101/ |publisher=[[The Globe and Mail]] |title=Doctor's prescription: 2 arias + a chorus |last=Mick |first=Hayley |date=19 June 2009 }}</ref>
+
+== Singing in non-human species ==
+
+Scholars agree that singing is strongly present in many non-human species.<ref>Marler, Peter (1970). Birdsong and speech development: Could there be parallels? American Scientist 58:669-73</ref><ref>Wallin, Nils, Bjorn Merker, Steven Brown. (Editors) (2000). The origins of music. Cambridge, MA: [[MIT]]</ref> Wide dispersal of singing behavior among very different animal species (like [[bird]]s, [[gibbon]]s, [[whale]]s, and [[human]]s) strongly suggests that singing appeared independently in different species. Currently there are about 5400 species of animals that can sing. At least some singing species demonstrate the ability to [[learn]] their songs, to [[improvise]] and even to [[Composer|compose]] new melodies.<ref>Payne, Katherine (2000). “The progressively changing songs of humpback whales: a window on the creative process in a wild animal.” In The Origins of Music. Edited by N. L. Wallin, B. Merker and S. Brown, pp. 135-150. Cambridge, MA:MIT</ref>  In some animal species singing is a group activity (see, for example, singing in [[gibbon]] families<ref>Geissmann, Thomas. 2000. “Gibbon songs and human music from an evolutionary perspective.” In The origins of Music. Edited by N. Wallin, B. Merker and S. Brown, pp. 103-124. Cambridge, MA:MIT</ref>), although humans are the only singing species which has the sense of rhythm and can be rhythmically precisely united.
+
+== Singing in different natural environments ==
+
+[[Joseph Jordania]] suggested that singing behavior is very unevenly distributed among animal species, living in different environments (on the ground, in the water, in trees).<ref>{{cite book | title = [[Who Asked the First Question?]] The Origins of Human Choral Singing, Intelligence, Language and Speech | author = Joseph Jordania | isbn = 99940-31-81-3 |year = 2006 | publisher = Logos | location = Tbilisi}}</ref> Most of the singing species live on the trees (like many [[bird]] species, or [[gibbons]]), some live in the water ([[whale]]s, [[dolphin]]s, [[Pinniped|seal]]s, [[sea lion]]s), and there are no animal species who live on the ground and sing<ref>Jordania, Joseph (2009). “Times to fight and times to relax: Singing and humming at the beginning of Human evolutionary history”. Kadmos 1, 2009: 272-277</ref> except for [[human]]s. This uneven distribution of singing can be crucial for our understanding of the origins of the singing behavior in animals and humans. [[Jordania]] explains this fact as the result of the pressure from [[natural selection]]. Singing is a very costly behavior, not only because of the energy to produce sounds, but primarily for the [[security]] reasons, as all the possible predators can easily learn the whereabouts of a singing animal. Singing species that live on the trees are in a much more favourable situation, as trees allow different species to live according to their body weight. So different animals with different body weight live on different "levels" of the tree branches. For example, a 50 kilo leopard can see and hear the sounds produced by a 15 kilo monkey, but as a lighter monkey can live much higher on the tree branches, it is out of reach of a heavier leopard. Therefore tree living (or [[arboreal]]) species feel quite secure to sing or to communicate with a wide range of vocal signals. On the other hand, all the ground living (or [[Terrestrial animal|terrestrial]]) animal species, despite the huge weight differences between them (ranging from [[rabbit]]s to [[lion]]s and [[elephant]]s) live on the same "ground level", and maintaining silence is crucially important for them. Even most of the birds, the most ardent singers, stop singing and producing other sounds when they sit on the ground.<ref>Catchpole, Clive K., and Peter J. B. Slater (1995). ''Bird Song: Biological Themes and Variations''. [[Cambridge University Press]].</ref>  Therefore, predator threat might be a primary reason why tree living species are generally much noisier than ground living species.<ref>Jordania, 2009:272-273</ref>
+
+==See also: art music==
+{{Col-begin}}
+{{Col-1-of-3}}
+* [[A cappella]]
+* [[Aria]]
+* [[Bel canto]]
+* [[Chanson]]
+* [[Chiaroscuro (music)]]
+* [[Choral music]]
+{{Col-2-of-3}}
+* [[Fach]]
+* [[Group singing]]
+* [[Human voice]]
+* [[Opera]]
+* [[Overtone singing]]
+* [[Recitative]]
+* [[Singer–songwriter]]
+{{Col-3-of-3}}
+* [[Sprechgesang]]
+* [[Throat singing (disambiguation)|Throat singing]]
+* [[Voice pedagogy]]
+* [[Voice projection]]
+* [[Voice type]]
+* [[Yodeling]]
+* [[Winsingad]]
+{{col-end}}
+
+==See also: popular music==
+
+* [[Beat boxing]]
+* [[Belt (music)]]
+* [[Death growl]]
+* [[Hum (sound)|Humming]]
+* [[Lead vocalist]]
+* [[Rapping]]
+* [[Screaming (music)]]
+* [[Vocoder]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wiktionary|vocal|singing}}
+{{Wiktionary|singing}}
+{{Wikibooks}}
+*[http://www.lawrence.edu/fast/koopmajo/brief.html A Brief History of Singing]
+{{Use dmy dates|date=October 2010}}
+
+[[Category:Occupations in music]]
+[[Category:Singing|*]]
+
+[[ar:غناء]]
+[[arc:ܙܡܪܐ]]
+[[bs:Pjevanje]]
+[[br:Kanañ]]
+[[ca:Cant]]
+[[cs:Zpěv]]
+[[da:Vokalist]]
+[[de:Gesang]]
+[[es:Canto]]
+[[eo:Kantado]]
+[[fa:آواز]]
+[[fr:Chant]]
+[[gan:唱歌]]
+[[ko:가창]]
+[[hr:Pjevanje]]
+[[is:Söngur]]
+[[it:Canto (musica)]]
+[[he:זמרה]]
+[[ka:ვოკალისტი]]
+[[lo:ການຂັບລຳ]]
+[[jbo:sanga]]
+[[hu:Éneklés]]
+[[mk:Пеење]]
+[[ms:Nyanyian]]
+[[nl:Zangkunst]]
+[[ja:歌唱]]
+[[no:Vokalist]]
+[[nn:Vokalist]]
+[[pl:Śpiew]]
+[[qu:Taki]]
+[[ru:Пение]]
+[[scn:Cantu]]
+[[sh:Pjevanje]]
+[[fi:Laulu]]
+[[tl:Pag-awit]]
+[[th:การร้องเพลง]]
+[[uk:Спів]]
+[[yi:געזאנג]]
+[[zh:歌唱]]

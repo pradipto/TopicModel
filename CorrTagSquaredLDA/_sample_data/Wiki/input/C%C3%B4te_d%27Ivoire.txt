@@ -1,0 +1,629 @@
+{{Redirect|Ivory Coast|the drug|Ivory Wave}}
+{{pp-move-dispute|small=yes}}
+{{Infobox Country
+|native_name =''République de Côte d'Ivoire''
+|conventional_long_name =Republic of Côte d'Ivoire
+|common_name =Ivory Coast
+|image_flag =Flag of Cote d'Ivoire.svg
+|image_coat =Coat of Arms of Côte d'Ivoire.svg
+|national_motto ={{lang|fr|''Union&nbsp;– Discipline&nbsp;– Travail''}}<br>({{lang-fr|Unity&nbsp;– Discipline&nbsp;– Labour}})
+|image_map =LocationCotedIvoire.svg
+|image_map2 =Côte d'Ivoire map.png
+|national_anthem =''[[L'Abidjanaise]]''
+|demonym =Ivorian/Ivoirian
+|official_languages =[[French language|French]]
+|languages_type = [[Vernacular|Vernacular languages]]
+|languages = [[Baoulé language|Baoulé]], [[Dioula language|Dioula]], [[Dan language|Dan]], [[Anyin language|Anyin]] and [[Senari languages|Cebaara Senufo]] among others
+|capital =[[Yamoussoukro]]
+|latd=6 |latm=51 |latNS=N |longd=5 |longm=18 |longEW=W
+|government_type =[[Semi-presidential system|Semi-presidential]] [[Republic]]
+|leader_title1 =[[President of Côte d'Ivoire|President]]
+|leader_title2 =[[Prime Minister of Côte d'Ivoire|Prime Minister]]
+|leader_name1 =<!-- PLEASE SEE TALK PAGE BEFORE CHANGING --><small>''[[Ivorian presidential election, 2010|(disputed)]]''</small>
+|leader_name2 =<!-- PLEASE SEE TALK PAGE BEFORE CHANGING --><small>''[[Ivorian presidential election, 2010|(disputed)]]''</small>
+|largest_city =[[Abidjan]]
+|area_km2 =322,460
+|area_sq_mi =124,502 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank =68th
+|area_magnitude =1 E11
+|percent_water =1.4<ref name="CIA"/>
+|population_estimate = 20,617,068<ref name="CIA"/>
+|population_estimate_year = 2009
+|population_estimate_rank = 56th
+|population_census = 15,366,672
+|population_census_year = 1998
+|population_density_km2 = 63.9
+|population_density_sq_mi = 165.6 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_density_rank = 139th
+|GDP_PPP_year = 2010
+|GDP_PPP = $37.123 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=662&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=73&pr.y=3 |title=Côte d'Ivoire|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_per_capita = $1,685<ref name=imf2/>
+|GDP_nominal = $23.635 billion<ref name=imf2/>
+|GDP_nominal_year = 2010
+|GDP_nominal_per_capita = $1,073<ref name=imf2/>
+|HDI_year =2007
+|HDI ={{increase}} 0.484<ref name="UN">{{cite web|url=http://hdr.undp.org/en/media/HDR_2009_EN_Complete.pdf|title=Human Development Report 2009. Human development index trends: Table G|format=PDF|publisher=The United Nations|accessdate=2009-10-17}}</ref>
+|HDI_rank =163rd
+|HDI_category =<span style="color:#e0584e;">low</span>
+|Gini =44.6
+|Gini_year =2002
+|Gini_category =<span style="color:#fc0;">medium</span>
+|FSI =107.3 {{decrease}} 1.9
+|FSI_year =2007
+|FSI_rank =6th
+|FSI_category =<span style="color:#f00;">Alert</span>
+|sovereignty_type =[[Independence]]
+|sovereignty_note =from [[France]]
+|established_event1 =Date
+|established_date1 =7 August 1960
+|currency =[[West African CFA franc]]
+|currency_code =XOF
+|time_zone =[[Greenwich Mean Time|GMT]]
+|utc_offset =+0
+|time_zone_DST =''not observed''
+|utc_offset_DST =+0
+|drives_on = right
+|cctld =[[.ci]]
+|calling_code =225
+|Flag Sample = {{Flag|Ivory Coast}}
+|footnotes =<sup>a</sup> Estimates for this country take into account the effects of excess mortality due to [[AIDS]]; this can result in lower population than would otherwise be expected.}}
+The '''Republic of {{lang|fr|Côte d'Ivoire}}''' ({{IPAc-en|En-us-Côte d&#39;Ivoire.ogg|ˌ|k|oʊ|t|_|d|ɪ|ˈ|v|w|ɑr}}; {{IPA-fr|kot diˈvwaʁ|lang}}), commonly known in English as '''Ivory Coast'''<ref>Its government officially discourages this usage, preferring the French name ''{{lang|fr|Côte d'Ivoire}}'' to be used in all languages.</ref><ref>Ivory Coast is the name used by the BBC, e.g. [http://www.bbc.co.uk/news/world-africa-12100340 Laurent Gbagbo exit 'could worsen Ivory Coast crisis']. Retrieved 2011-01-01.</ref> ({{IPAc-en|En-us-Ivory Coast.ogg|ˌ|aɪ|v|ər|i|_|ˈ|k|oʊ|s|t}}), is a country in [[West Africa]]. It has an area of 322,462&nbsp;km<sup>2</sup>, and borders the countries of [[Liberia]], [[Guinea]], [[Mali]], [[Burkina Faso]] and [[Ghana]]; its southern boundary is along the [[Gulf of Guinea]]. The country's population was 15,366,672 in 1998,<ref>{{fr}} {{citation|url=|title=Premiers résultats définitifs du RGPH-98 (Recensement Général de la Population et de l’Habitation de 1998)|publisher={{lang|fr|Institut National de la Statistique, Bureau Technique Permanent du Recensement}}|location=Abidjan|year=2002}}.</ref> and was estimated to be 20,617,068 in 2009.<ref name="CIA">{{citation |url=https://www.cia.gov/library/publications/the-world-factbook/geos/iv.html |chapter={{lang|fr|Côte d'Ivoire}} |title=[[The World Factbook]]|publisher=[[Central Intelligence Agency|CIA]] Directorate of Intelligence |accessdate=8 August 2008|date=24 July 2008 }}.</ref>
+
+Prior to its colonization by Europeans, Côte d'Ivoire was home to several states, including [[Gyaaman]], the [[Kong Empire]], and [[Baoulé]]. There were two [[Anyi people|Anyi]] kingdoms, ''Indénié'' and ''Sanwi'', which attempted to retain their separate identity through the French colonial period and after Côte d'Ivoire's independence.<ref>{{citation |url=http://lcweb2.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+ci0013) |title=Library of Congress Country Studies|publisher=[[Library of Congress]] |accessdate=11 April 2009|date=November 1988}}</ref> An 1843–1844 treaty made {{lang|fr|Côte d'Ivoire}} a "[[protectorate]]" of France and in 1893, it became a French colony as part of the European [[scramble for Africa]].
+
+Côte d'Ivoire became independent on 7 August 1960. From 1960 to 1993, the country was led by {{lang|fr|[[Félix Houphouët-Boigny]]}}. It maintained close political and economic association with its West African neighbours, while at the same time maintaining close ties to the [[Western world|West]], especially to France. Since the end of Houphouët-Boigny's rule, Côte d'Ivoire has experienced one {{lang|fr|[[coup d’état]]}}, in 1999, and a [[Ivorian Civil War|civil war]], which broke out in 2002.<ref>{{fr}} {{citation|title={{lang|fr|Loi n° 2000-513 du 1er août 2000 portant Constitution de la République de Côte d’Ivoire}}|url=http://www.jfaconseil.com/jorci/2000/RCI%20JO%202000-30.pdf|journal={{lang|fr|Journal Officiel de la République de Côte d’Ivoire}}|volume=42|pages=529–538|date=3 August 2000|accessdate=7 August 2008|issue=30}}.</ref> A political agreement between the government and the rebels brought a return to peace.<ref>{{fr}} {{citation|title=Accord politique de Ouagadougou|url=http://www.cotedivoire-pr.ci/?action=show_page&id_page=570|publisher=Presidency of the Republic of Côte d'Ivoire|date=4 March 2007|accessdate=7 August 2008}}</ref> Côte d'Ivoire is a [[republic]] with a strong executive power invested in the [[President of Côte d'Ivoire|President]]. Its ''[[de jure]]'' capital is [[Yamoussoukro]] and the biggest city is the port city of [[Abidjan]]. The country is divided into [[Regions of Côte d'Ivoire|19 regions]] and [[Departments of Côte d'Ivoire|81 departments]]. It is a member of the [[Organisation of the Islamic Conference]], [[African Union]], [[La Francophonie]], [[Latin Union]], [[Economic Community of West African States]] and [[South Atlantic Peace and Cooperation Zone]].
+
+The [[official language]] is French, although many of the local languages are widely used, including [[Baoulé language|Baoulé]], [[Dioula language|Dioula]], [[Dan language|Dan]], [[Anyin language|Anyin]] and [[Senari languages|Cebaara Senufo]]. The main religions are [[Islam]], [[Christianity]] (primarily [[Roman Catholic]]) and various [[indigenous]] religions.
+
+Through production of [[coffee]] and [[cocoa bean|cocoa]], the country was an economic powerhouse during the 1960s and 1970s in West Africa. However, Côte d'Ivoire went through an economic crisis in the 1980s, leading to the country's period of political and social turmoil. The 21st century Ivoirian economy is largely market-based and relies heavily on [[agriculture]], with smallholder cash crop production being dominant.<ref name=CIA/>
+
+==Name==
+The region, and then the country, was originally known in English as "Ivory Coast". In October 1985, the government officially changed the name of the country to {{lang|fr|Côte d'Ivoire}}.<ref>{{Harvnb|Jessup|1998|p=351}}</ref>
+
+===Usage in English===
+Despite the Ivorian government's request, the English translation "Ivory Coast" (sometimes "the Ivory Coast") is still frequently used in English.  The [[BBC]] usually uses "Ivory Coast" both in news reports and on its page about the country.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/world/africa/country_profiles/1043014.stm |work=BBC News |title=Country profile: Ivory Coast |date=2010-02-24 |accessdate=2010-04-30}}</ref> ''[[The Guardian]]'' newspaper's Style Guide says: "Ivory Coast, not 'The Ivory Coast' or '{{lang|fr|Côte D'Ivoire}}'; its nationals are Ivorians".<ref>{{cite news |title= International Atomic Energy Agency |author=Iannucci, Armando |newspaper= [[The Guardian]] |date=2008-12-19 |url=http://www.guardian.co.uk/styleguide/page/0,5817,184827,00.html |accessdate=2010-04-30}}</ref> [[ABC News (USA)]], ''[[The Times]]'', ''[[The New York Times]]'', and the [[South African Broadcasting Corporation]] all use "Ivory Coast" either exclusively or predominantly.
+
+Many governments use "{{lang|fr|Côte d'Ivoire}}" for diplomatic reasons. The English country name registered with the [[United Nations member states|United Nations]] and used by [[ISO 3166]] is "Côte d'Ivoire". Other organizations that use "Côte d'Ivoire" include the [[United States Department of State]] (which uses "{{lang|fr|Côte d'Ivoire}}" in formal documents, but uses "Ivory Coast" in many general references, speeches and briefing documents),<ref>{{cite web
+|url=http://web.archive.org/web/20071212234425/http://www.state.gov/p/af/rls/rm/2005/43552.htm
+|title=Living in a World of Limited Resources
+|publisher=U.S. State Department
+|author=Michael Ranneberger, Principal Deputy Assistant Secretary for African Affairs
+|date=March 15, 2005
+|accessdate=2011-01-13}}</ref>
+[[FIFA]] and the [[International Olympic Committee|IOC]] (referring to their [[Côte d'Ivoire national football team|national football]] and [[Olympic Games|Olympic]] teams in international games and in official broadcasts), ''[[The Economist]]'' newsmagazine,<ref>{{cite news|url=http://www.economist.com/research/styleGuide/index.cfm?page=805717 |title=Research Tools |publisher=Economist.com |date= |accessdate=2010-06-20}}</ref> ''[[Encyclopædia Britannica]]'',<ref>{{cite web|url=http://www.britannica.com/nations/Cote-D'Ivoire |title=Cote d'Ivoire&nbsp;– Encyclopedia&nbsp;– Britannica Online Encyclopedia |publisher=Britannica.com |date= |accessdate=2010-06-20}}</ref> and ''[[National Geographic Society]]''.<ref>{{cite web|url=http://www3.nationalgeographic.com/places/directory.html |title=Places Directory&nbsp;– Facts, Travel Videos, Flags, Photos&nbsp;– National Geographic |publisher=nationalgeographic.com |date=2008-06-25 |accessdate=2010-06-20}}</ref>
+
+==History==
+{{Main|History of Côte d'Ivoire}}
+
+===Land migration===
+[[File:Cistones.jpg|thumb|left|Prehistoric polished stone [[celt (tool)|celt]] from [[Boundiali]] in northern {{lang|fr|Côte d'Ivoire}}. Photo taken at the [[IFAN Museum of African Arts]] in [[Dakar]], [[Senegal]].]]
+
+The first human presence in {{lang|fr|Côte d'Ivoire}} has been difficult to determine because human remains have not been well-preserved in the country's humid climate. However, the presence of newly found weapon and tool fragments (specifically, polished axes cut through [[shale]] and remnants of cooking and fishing) has been interpreted as a possible indication of a large human presence during the [[Upper Paleolithic]] period (15,000 to 10,000 BC),<ref>{{citation|last={{lang|fr|Guédé}}|first={{lang|fr|François Yiodé}}|title={{lang|fr|Contribution à l'étude du paléolithique de la Côte d'Ivoire : État des connaissances}}|year=1995|journal={{lang|fr|Journal des africanistes}}|volume=65|issue=2|pages=79–91|issn=0399-0346|doi=10.3406/jafr.1995.2432}}.</ref> or at the minimum, the [[Neolithic]] period.<ref>{{Harvnb|Rougerie|1978|p=246}}.</ref>
+
+The earliest known inhabitants of {{lang|fr|Côte d'Ivoire}} have left traces scattered throughout the territory. Historians believe that they were all either displaced or absorbed by the ancestors of the present indigenous inhabitants, who migrated south into the area before the 16th century.  Such groups included the Ehotilé ([[Aboisso]]), Kotrowou ([[Fresco (Côte d'Ivoire)|Fresco]]), Zéhiri ([[Grand Lahou]]), Ega and Diès ([[Divo, Côte d'Ivoire|Divo]]).<ref>{{Harvnb|Kipré|1992|pp=15–16}}.</ref>
+
+===Pre-Islamic and Islamic periods===
+The first recorded history is found in the chronicles of North African ([[Berber people|Berber]]) traders, who, from early [[Roman times]], conducted a [[caravan (travellers)|caravan]] trade across the [[Sahara]] in [[salt]], [[slaves]], [[gold]], and other goods. The southern terminals of the [[trans-Saharan trade]] routes were located on the edge of the desert, and from there supplemental trade extended as far south as the edge of the [[rain forest]]. The more important terminals—[[Djenné]], [[Gao]], and [[Timbuctu]]—grew into major commercial centers around which the great [[Sudanic]] empires developed.
+
+By controlling the trade routes with their powerful military forces, these empires were able to dominate neighboring states. The Sudanic empires also became centers of [[Islamic studies|Islamic education]]. Islam had been introduced in the western Sudan (today's [[Mali]]) by Muslim Berber traders from [[North Africa]]; it spread rapidly after the conversion of many important rulers. From the eleventh century, by which time the rulers of the Sudanic empires had embraced Islam, it spread south into the northern areas of contemporary Côte d'Ivoire.
+
+The [[Ghana empire]], the earliest of the Sudanic empires, flourished in present-day eastern [[Mauritania]] from the fourth to the thirteenth century. At the peak of its power in the eleventh century, its realms extended from the Atlantic Ocean to Timbuctu. After the decline of Ghana, the [[Mali Empire]] grew into a powerful Muslim state, which reached its apogee in the early part of the fourteenth century. The territory of the Mali Empire in Côte d'Ivoire was limited to the northwest corner around [[Odienné]].
+
+Its slow decline starting at the end of the fourteenth century followed internal discord and revolts by vassal states, one of which, [[Songhai Empire|Songhai]], flourished as an empire between the fourteenth and sixteenth centuries. Songhai was also weakened by internal discord, which led to factional warfare. This discord spurred most of the migrations of peoples southward toward the forest belt. The dense rain forest, covering the southern half of the country, created barriers to the large-scale political organizations that had arisen in the north. Inhabitants lived in villages or clusters of villages; their contacts with the outside world were filtered through long-distance traders. Villagers subsisted on agriculture and hunting.
+
+Five important states flourished in Côte d'Ivoire in the pre-European era. The [[Muslim]] [[Kong Empire]] was established by the [[Juula]] in the early eighteenth century in the north-central region inhabited by the [[Sénoufo]], who had fled [[Islamization]] under the [[Mali Empire]]. Although Kong became a prosperous center of agriculture, trade, and crafts, ethnic diversity and religious discord gradually weakened the kingdom. The city of Kong was destroyed in 1895 by [[Samori Ture]].
+
+The [[Abron]] kingdom of [[Gyaaman]] was established in the seventeenth century by an [[Akan people|Akan]] group, the Abron, who had fled the developing [[Ashanti]] [[confederation]] of [[Asanteman]] in what is present-day Ghana. From their settlement south of [[Bondoukou]], the Abron gradually extended their hegemony over the [[Dyula people]] in Bondoukou, who were recent émigrés from the market city of [[Begho]]. Bondoukou developed into a major center of commerce and Islam. The kingdom's [[Quran]]ic scholars attracted students from all parts of West Africa. In the mid-seventeenth century in east-central Côte d'Ivoire, other Akan groups' fleeing the Asante established a [[Baoulé]] kingdom at [[Sakasso]] and two [[Anyi people|Agni]] kingdoms, Indénié and Sanwi.
+
+The Baoulé, like the Ashanti, elaborated a highly centralized political and administrative structure under three successive rulers.  It finally split into smaller chiefdoms. Despite the breakup of their kingdom, the Baoulé strongly resisted French subjugation. The descendants of the rulers of the Agni kingdoms tried to retain their separate identity long after Côte d'Ivoire's independence; as late as 1969, the Sanwi of Krinjabo attempted to break away from Côte d'Ivoire and form an independent kingdom.<ref name="Library of Congress"/>
+
+===Establishment of French rule===
+Compared to neighboring Ghana, Côte d'Ivoire suffered little from the [[slave trade]], as European slaving and merchant ships preferred other areas along the coast with better harbors.
+The earliest recorded European voyage to West Africa was made by the Portuguese and took place in 1482. The first West African French settlement, [[Saint Louis, Senegal|Saint Louis]], was founded in the mid-seventeenth century in [[Senegal]] while, at about the same time, the [[Netherlands|Dutch]] ceded to the French a settlement at [[Gorée|Goree Island]] off [[Dakar]]. A French [[missionary|mission]] was established in 1637 [[Assinie]] near the border with the [[Gold Coast (British colony)|Gold Coast]] (now Ghana).
+
+Assinie's survival was precarious, however. It was not until the mid-nineteenth century that the French were firmly established in Côte d'Ivoire. In 1843–1844, French admiral [[Louis Edouard Bouët-Willaumez|Bouët-Willaumez]] signed treaties with the kings of the [[Grand Bassam]] and Assinie regions, placing their territories under a French [[protectorate]]. French [[Exploration|explorers]], [[missionaries]], trading companies, and soldiers gradually extended the area under French control inland from the lagoon region. Pacification was not accomplished until 1915.
+
+Activity along the coast stimulated European interest in the interior, especially along the two great rivers, the [[Senegal River|Senegal]] and the [[Niger River|Niger]]. Concerted French exploration of West Africa began in the mid-nineteenth century but moved slowly, based more on individual initiative than on government policy. In the 1840s, the French concluded a series of treaties with local West African rulers that enabled the French to build fortified posts along the Gulf of Guinea to serve as permanent trading centers.
+
+The first posts in Côte d'Ivoire included one at Assinie and another at [[Grand Bassam]], which became the colony's first capital. The treaties provided for French sovereignty within the posts, and for trading privileges in exchange for fees or ''[[coutume]]s'' paid annually to the local rulers for the use of the land. The arrangement was not entirely satisfactory to the French, because trade was limited and misunderstandings over treaty obligations often arose. Nevertheless, the French government maintained the treaties, hoping to expand trade.
+
+France also wanted to maintain a presence in the region to stem the increasing influence of the British along the Gulf of Guinea coast. The French built naval bases to keep out non-French traders and began a systematic conquest of the interior. (They accomplished this only after a long war in the 1890s against [[Mandinka people|Mandinka]] forces, mostly from [[Gambia]]. [[Guerrilla warfare]] by the Baoulé and other eastern groups continued until 1917).{{Citation needed|date=July 2008}}
+
+The defeat of France in the [[Franco-Prussian War]] in 1871 and the subsequent annexation by Germany of the French province of [[Alsace Lorraine]] caused the French government to abandon its colonial ambitions and withdraw its military garrisons from its French West African trading posts, leaving them in the care of resident merchants. The trading post at Grand Bassam in Côte d'Ivoire was left in the care of a shipper from [[Marseille]], Arthur Verdier, who in 1878 was named [[Resident (title)|Resident]] of the Establishment of Côte d'Ivoire.<ref name="Library of Congress">{{citation |url=http://lcweb2.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+ci0014) |title=Library of Congress Country Studies|publisher=Library of Congress |accessdate=11 April 2009|date=November 1988}}</ref>
+
+In 1886, to support its claims of effective occupation, France again assumed direct control of its West African coastal trading posts and embarked on an accelerated program of exploration in the interior. In 1887 Lieutenant [[Louis Gustave Binger]] began a two-year journey that traversed parts of Côte d'Ivoire's interior. By the end of the journey, he had concluded four treaties establishing French protectorates in Côte d'Ivoire. Also in 1887, Verdier's agent, [[Marcel Treich-Laplène]], negotiated five additional agreements that extended French influence from the headwaters of the Niger River Basin through Côte d'Ivoire.
+
+===French colonial era===
+By the end of the 1880s, France had established what passed for effective control over the coastal regions of Côte d'Ivoire, and in 1889 Britain recognized French sovereignty in the area. That same year, France named Treich-Laplène titular governor of the territory. In 1893 Côte d'Ivoire was made a French colony, and then Captain Binger was appointed governor. Agreements with [[Liberia]] in 1892 and with Britain in 1893 determined the eastern and western boundaries of the colony, but the northern boundary was not fixed until 1947 because of efforts by the French government to attach parts of Upper Volta (present-day [[Burkina Faso]]) and [[French Sudan]] (present-day Mali) to Côte d'Ivoire for economic and administrative reasons.
+
+France's main goal was to stimulate the production of [[export]]s. Coffee, cocoa and palm oil crops were soon planted along the coast. {{lang|fr|Côte d'Ivoire}} stood out as the only West African country with a sizeable population of settlers; elsewhere in West and Central Africa, the French and [[British people|British]] were largely bureaucrats.{{Citation needed|date=July 2008}} As a result, French citizens owned one third of the cocoa, [[coffee]] and [[banana]] [[plantation]]s and adopted a forced-labour system.
+
+Throughout the early years of French rule, French military contingents were sent inland to establish new posts. The African population resisted French penetration and settlement. Among those offering greatest resistance was [[Samori Ture]], who in the 1880s and 1890s was establishing the [[Wassoulou Empire]], which extended over large parts of present-day [[Guinea]], Mali, Burkina Faso, and Côte d'Ivoire. Samori Ture's large, well-equipped army, which could manufacture and repair its own [[firearm]]s, attracted strong support throughout the region. The French responded to Samori Ture's expansion of regional control with military pressure. French campaigns against Samori Ture, which were met with fierce resistance, intensified in the mid-1890s until he was captured in 1898.
+
+France's imposition of a [[head tax]] in 1900 to support the colony in a [[public works]] program, provoked a number of revolts. Ivoirians viewed the tax as a violation of the terms of the protectorate treaties, because they thought that France was demanding the equivalent of a ''[[coutume]]'' from the local kings, rather than the reverse. Much of the population, especially in the interior, considered the tax a humiliating symbol of submission.<ref name=autogenerated1>{{citation |url=http://lcweb2.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+ci0016) |title=Library of Congress Country Studies|publisher=Library of Congress |accessdate=11 April 2009|date=November 1988}}</ref>
+
+From 1904 to 1958, Côte d'Ivoire was a constituent unit of the [[Federation of French West Africa]]. It was a [[colony]] and an overseas territory under the [[French Third Republic|Third Republic]]. Until the period following [[World War II]], governmental affairs in French West Africa were administered from Paris. France's policy in West Africa was reflected mainly in its philosophy of "association", meaning that all Africans in Côte d'Ivoire were officially French "subjects", but without rights to representation in Africa or France.
+
+[[French colonial empires#Second French colonial empire|French colonial policy]] incorporated concepts of [[cultural assimilation|assimilation]] and association. Based on an assumption of the superiority of [[French culture]] over all others, in practice the assimilation policy  meant extension of the French language, institutions, laws, and customs in the colonies. The policy of association also affirmed the superiority of the French in the colonies, but it entailed different institutions and systems of laws for the colonizer and the colonized. Under this policy, the Africans in Côte d'Ivoire were allowed to preserve their own customs insofar as they were compatible with French interests.
+
+An indigenous [[elite]] trained in French administrative practice formed an intermediary group between the French and the Africans. Assimilation was practiced in Côte d'Ivoire to the extent that after 1930, a small number of Westernized Ivoirians were granted the right to apply for French citizenship. Most Ivoirians, however, were classified as French subjects and were governed under the principle of association.<ref name=autogenerated2>{{citation |url=http://lcweb2.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+ci0018) |title=Library of Congress Country Studies|publisher=Library of Congress |accessdate=11 April 2009|date=November 1988}}</ref> As subjects of France, they had no political rights. They were drafted for work in mines, on plantations, as porters, and on public projects as part of their tax responsibility. They were expected to serve in the military and were subject to the ''[[indigénat]]'', a separate system of law.<ref name=autogenerated3>{{citation |url=http://lcweb2.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+ci0019) |title=Library of Congress Country Studies|publisher=Library of Congress |accessdate=11 April 2009|date=November 1988}}</ref>
+
+In World War II, the [[Vichy regime]] remained in control until 1943, when members of Gen. [[Charles de Gaulle]]'s provisional government assumed control of all French West Africa. The [[Brazzaville Conference of 1944]], the first Constituent Assembly of the [[French Fourth Republic|Fourth Republic]] in 1946, and France's gratitude for African loyalty during World War II led to far-reaching governmental reforms in 1946. French citizenship was granted to all African "subjects," the right to organize politically was recognized, and various forms of forced labor were abolished.
+
+Until 1958, governors appointed in Paris administered the colony of Côte d'Ivoire, using a system of direct, centralized administration that left little room for Ivoirian participation in policy making. Whereas British colonial administration adopted divide-and-rule policies elsewhere, applying ideas of assimilation only to the educated elite, the French were interested in ensuring that the small but influential elite was sufficiently satisfied with the status quo to refrain from any anti-French sentiment. Although strongly opposed to the practices of association, educated Ivoirians believed that they would achieve equality with their French peers through assimilation rather than through complete independence from France, a change that would eliminate the enormous economic advantages of remaining a French possession. But, after the assimilation doctrine was implemented entirely through the postwar reforms, Ivoirian leaders realized that even assimilation implied the superiority of the French over the Ivoirians, and that [[discrimination]] and political inequality would end only with independence.<ref name=autogenerated4>{{citation |url=http://lcweb2.loc.gov/cgi-bin/query2/r?frd/cstdy:@field(DOCID+ci0017) |title=Library of Congress Country Studies|publisher=Library of Congress |accessdate=11 April 2009|date=November 1988}}</ref>
+
+===Independence===
+[[File:Notre dame de la paix yamoussoukro by felix krohn retouched.jpg|thumb|250px|[[Basilica of Our Lady of Peace of Yamoussoukro]]]]
+The son of a {{lang|fr|Baoulé}} chief, {{lang|fr|[[Félix Houphouët-Boigny]]}}, was to become {{lang|fr|Côte d'Ivoire}}'s father of independence. In 1944 he formed the country's first agricultural [[trade union]] for African cocoa farmers like him. Angered that colonial policy favoured French plantation owners, they united to recruit migrant workers for their own farms. {{lang|fr|Houphouët-Boigny}} soon rose to prominence and within a year was elected to the French Parliament in Paris. A year later the French abolished forced labour. {{lang|fr|Houphouët-Boigny}} established a strong relationship with the French government, expressing a belief that the country would benefit from it, which it did for many years. France appointed him as the first African to become a minister in a European government.
+
+A turning point in relations with France was reached with the 1956 Overseas Reform Act (''[[Loi Cadre]]'' ), which transferred a number of powers from Paris to elected territorial governments in [[French West Africa]] and also removed remaining voting inequalities. In 1958, {{lang|fr|Côte d'Ivoire}} became an autonomous member of the French Community (which replaced the [[French Union]]).
+
+At the time of {{lang|fr|Côte d'Ivoire}}'s independence (1960), the country was easily [[French West Africa]]'s most prosperous, contributing over 40% of the region's total exports. When {{lang|fr|Houphouët-Boigny}} became the first president, his government gave farmers good prices for their products to further stimulate production. Coffee production increased significantly, catapulting {{lang|fr|Côte d'Ivoire}} into third place in world output (behind [[Brazil]] and [[Colombia]]). By 1979 the country was the world's leading producer of cocoa.
+
+It also became Africa's leading exporter of [[pineapples]] and [[palm oil]]. French technicians contributed to the 'Ivoirian miracle'. In other African nations, the people drove out the Europeans following independence; but in {{lang|fr|Côte d'Ivoire}}, they poured in. The [[French people|French]] community grew from only 30,000 prior to independence to 60,000 in 1980, most of them teachers, managers and advisors.<ref>[http://countrystudies.us/ivory-coast/41.htm Ivory Coast&nbsp;– The Economy], ''U.S. Library of Congress''</ref> For 20 years, the economy maintained an annual growth rate of nearly 10%—the highest of Africa's non-oil-exporting countries.
+
+===Houphouët-Boigny administration===
+[[File:27BCA Cote dIvoire 2004 110322471058610464.jpg|230px|thumb|[[Ivorian Civil War]]]]
+Politically, Houphouët-Boigny ruled with a firmness some called an "iron hand"; others characterized his rule more mildly as "paternal." The press was not free and only one political party existed, although some accepted this as a consequence of {{lang|fr|Houphouët-Boigny}}'s broad appeal to the population that continually elected him.{{Citation needed|date=April 2007}} He was also criticized for his emphasis on developing large scale projects. Many felt the millions of dollars spent transforming his home village, [[Yamoussoukro]], into the new capital that it became, were wasted; others support his vision to develop a center for peace, education and religion in the heart of the country. But in the early 1980s, the world recession and a local drought sent shock waves through the Ivoirian economy. Due to the overcutting of [[timber]] and collapsing [[sugar]] prices, the country's external debt increased threefold. Crime rose dramatically in Abidjan.{{Citation needed|date=August 2010}}
+
+In 1990, hundreds of civil servants went on strike, joined by students protesting institutional corruption. The unrest forced the government to support multi-party democracy. {{lang|fr|Houphouët-Boigny}} became increasingly feeble and died in 1993. He favoured {{lang|fr|[[Henri Konan Bédié]]}} as his successor.
+
+==={{lang|fr|Bédié}} administration===
+In October 1995, {{lang|fr|Bédié}} overwhelmingly won re-election against a fragmented and disorganised opposition. He tightened his hold over political life, jailing several hundred opposition supporters. In contrast, the economic outlook improved, at least superficially, with decreasing inflation and an attempt to remove foreign debt.
+[[File:Coted'Ivoire Elections2002.png|thumb|right|220px|Election results of 2002 in {{lang|fr|Côte d'Ivoire}}]]
+Unlike {{lang|fr|Houphouët-Boigny}}, who was very careful in avoiding any ethnic conflict and left access to administrative positions open to immigrants from neighbouring countries, {{lang|fr|Bedié}} emphasized the concept of "Ivority" ({{lang-fr|[[Ivoirité]]}}) to exclude his rival [[Alassane Ouattara]], who had two northern Ivorian parents, from running for future presidential election. As people originating from foreign countries are a large part of the Ivoirian population, this policy excluded many people from Ivoirian nationality, and the relationship between various ethnic groups became strained.
+
+===1999 coup===
+Similarly, {{lang|fr|Bédié}} excluded many potential opponents from the army. In late 1999, a group of dissatisfied officers staged a military [[1999 Ivorian coup d'état|coup]], putting General {{lang|fr|[[Robert Guéï]]}} in power. {{lang|fr|Bédié}} fled into exile in France. The new leadership reduced crime and corruption, and the generals pressed for austerity and openly campaigned in the streets for a less wasteful society.
+
+===Gbagbo administration===
+A presidential election was held in October 2000 in which [[Laurent Gbagbo]] vied with {{lang|fr|Guéï}}, but it was peaceful. The lead-up to the election was marked by military and civil unrest. Following a public uprising that resulted in around 180 deaths, {{lang|fr|Guéï}} was swiftly replaced by Gbagbo. [[Alassane Ouattara]] was disqualified by the country's Supreme Court, due to his alleged {{lang|fr|Burkinabé}} nationality. The existing and later reformed constitution [under {{lang|fr|Guéï}}] did not allow non-citizens to run for presidency. This sparked violent protests in which his supporters, mainly from the country's north, battled riot police in the capital, Yamoussoukro.
+
+===Ivorian Civil War===
+{{Main|Ivorian Civil War}}
+In the early hours of September 19, 2002, while the President was in Italy, there was an armed uprising. Troops who were to be demobilised mutinied, launching attacks in several cities. The battle for the main gendarmerie barracks in Abidjan lasted until mid-morning, but by lunchtime the government forces had secured the main city, Abidjan. They had lost control of the north of the country, and the rebel forces made their strong-hold in the northern city of Bouake. The rebels threatened to move on Abidjan again and France deployed troops from its base in the country to stop any rebel advance. The French said they were protecting their own citizens from danger, but their deployment also aided the government forces. It was not established as a fact that the French were helping either side but each side accused them of being on the opposite side. It is disputed as to whether the French actions improved or worsened the situation in the long term.
+
+What exactly happened that night is disputed. The government said that former president {{lang|fr|Robert Guéï}} had led a coup attempt, and state TV showed pictures of his dead body in the street; counter-claims said that he and fifteen others had been murdered at his home and his body had been moved to the streets to incriminate him. Alassane Ouattara took refuge in the French embassy; his home burned down.
+
+President [[Gbagbo]] cut short his trip to Italy and on his return stated, in a television address, that some of the rebels were hiding in the shanty towns where foreign migrant workers lived. Gendarmes and vigilantes bulldozed and burned homes by the thousands, attacking the residents.
+[[File:Child-soldier-afrika.jpg|thumb|"[[Child soldier]] in the Ivory Coast." (drawing by [[Gilbert G. Groud]])]]
+An early ceasefire with the rebels, who had the backing of much of the northern populace, proved short-lived, and fighting over the prime cocoa-growing areas resumed. France sent in troops to maintain the cease-fire boundaries,<ref>{{cite web|url=http://www.kepi.cncplusplus.com/Ivory_Coast/Ivory_Coast.htm |title=Ivory Coast&nbsp;– Heart of Darkness |publisher=Kepi.cncplusplus.com |date= |accessdate=2010-06-20}}</ref> and militias, including warlords and fighters from [[Liberia]] and [[Sierra Leone]], took advantage of the crisis to seize parts of the west.
+
+====2002 unity government====
+In January 2003, Gbagbo and rebel leaders signed accords creating a "government of national unity". Curfews were lifted and French troops patrolled the western border of the country. Since then, the unity government has proven unstable and the central problems remain with neither side achieving its goals. In March 2004, 120 people were killed in an opposition rally, and subsequent mob violence led to foreign nationals being evacuated. A later report concluded the killings were planned.
+
+Though UN peacekeepers were deployed to maintain a ''Zone of Confidence'', relations between Gbagbo and the opposition continued to deteriorate.
+
+Early in November 2004, after the peace agreement had effectively collapsed following the rebels' refusal to disarm, Gbagbo ordered airstrikes against the rebels. During [[2004 French–Ivorian clashes|one of these airstrikes]] in [[Bouaké]], on November 6, 2004, French soldiers were hit and nine were killed; the Ivorian government has said it was a mistake, but the French have claimed it was deliberate. They responded by destroying most Ivoirian military aircraft (2 Su-25 planes and 5 helicopters), and violent retaliatory riots against the French broke out in Abidjan.<ref>"[http://www.cbsnews.com/stories/2004/11/15/opinion/fenton/main655762.shtml France's 'Little Iraq']". CBS News. November 15, 2004.</ref>
+
+Gbagbo's original mandate as president expired on October 30, 2005, but due to the lack of disarmament it was deemed impossible to hold an election, and therefore his term in office was extended for a maximum of one year, according to a plan worked out by the [[African Union]]; this plan was endorsed by the [[United Nations Security Council]].<ref>[http://www.irinnews.org/report.asp?ReportID=49576&SelectRegion=West_Africa&SelectCountry=COTE_D_IVOIRE "UN endorses plan to leave president in office beyond mandate"], IRIN, October 14, 2005.</ref> With the late October deadline approaching in 2006, it was regarded as very unlikely that the election would be held by that point, and the opposition and the rebels rejected the possibility of another term extension for Gbagbo.<ref>Joe Bavier, [http://web.archive.org/web/20070312061303rn_1/www.voanews.com/english/archive/2006-08/2006-08-18-voa13.cfm?CFID=121056525&CFTOKEN=68059362 "Ivory Coast Opposition, Rebels Say No to Term Extension for President"], VOA News, August 18, 2006.</ref> The U. N. Security Council endorsed another one-year extension of Gbagbo's term on November 1, 2006; however, the resolution provided for the strengthening of Prime Minister [[Charles Konan Banny]]'s powers. Gbagbo said the next day that elements of the resolution deemed to be constitutional violations would not be applied.<ref>[http://www.irinnews.org/report.asp?ReportID=56232&SelectRegion=West_Africa&SelectCountry=COTE_D_IVOIRE "Partial rejection of UN peace plan"], IRIN, November 2, 2006.</ref>
+
+A peace accord between the government and the rebels, or [[Forces Nouvelles de Côte d'Ivoire|New Forces]], was signed on March 4, 2007, and subsequently [[Guillaume Soro]], leader of the New Forces, became prime minister. These events have been seen by some observers as substantially strengthening Gbagbo's position.<ref>[http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20070412095335190C984275 "New Ivory Coast govt 'a boost for Gbagbo'"], AFP (''IOL''), April 12, 2007.</ref>
+
+===2010 election===
+{{main|Ivorian presidential election, 2010}}
+The presidential elections that should have been organized in 2005 were postponed until November 2010. The preliminary results announced by the Electoral Commission showed a loss for Gbagbo in favour of his rival, former prime minister [[Alassane Ouattara]]. The ruling FPI contested the results before the Constitutional Council, charging massive fraud in the northern departments controlled by the rebels of the [[Forces Nouvelles de Côte d'Ivoire]] (FNCI). These charges were contradicted by international observers. The report of the results led to severe tension and violent incidents. The Constitutional Council, which consists of Gbagbo supporters, declared the results of seven northern departments unlawful and that Gbagbo had won the elections with 51% of the vote (instead of Ouattara winning with 54%, as reported by the Electoral Commission). After the inauguration of Gbagbo, Ouattara, recognized as the winner by most countries and the United Nations, organized an alternative inauguration. These events raised fears of a resurgence of the civil war; thousands of refugees have fled the country.<ref>{{cite web|url=http://www.bbc.co.uk/news/world-africa-12079552|accessdate=2010-12-26|title=BBC News - Thousands flee Ivory Coast for Liberia amid poll crisis|date=2010-12-26}}</ref> The [[African Union]] sent [[Thabo Mbeki]], former President of South Africa, to mediate the conflict. The U.N. [[Security Council]] adopted a common resolution recognising Alassane Ouattara as winner of the elections,  based on the position of [[ECOWAS]] (Economic Community of West Africa States). ECOWAS suspended Côte d'Ivoire from all its decision-making bodies<ref>[http://news.ecowas.int/presseshow.php?nb=188&lang=en&annee=2010 "FINAL COMMUNIQUE ON THE EXTRAORDINARY SESSION OF THE AUTHORITY OF HEADS OF STATE AND GOVERNMENT ON COTE D’IVOIRE "], ECOWAS, December 7, 2010.</ref> while the African Union also suspended the country's membership.<ref>[http://www.africa-union.org/root/au/Conferences/2010/december/Communiqu%C3%A9%20of%20the%20252nd.pdf "COMMUNIQUE OF THE 252ND MEETING OF THE PEACE AND SECURITY COUNCIL "], African Union, December 9, 2010.</ref>
+
+==Regions and departments==
+{{Main|Regions of Côte d'Ivoire|Departments of Côte d'Ivoire}}
+[[File:Cote d'Ivoire.png|thumb|right|300px|Regions of {{lang|fr|Côte d'Ivoire}}]]
+{{lang|fr|Côte d'Ivoire}} is divided into nineteen [[region]]s (''régions''):
+
+{|
+|-
+| <ol>
+<li>{{lang|fr|[[Agnéby]]}}
+<li>[[Bafing (region)|Bafing]]
+<li>[[Bas-Sassandra]]
+<li>{{lang|fr|[[Denguélé]]}}
+<li>{{lang|fr|[[Dix-Huit Montagnes]]}}
+<li>[[Fromager]]
+<li>{{lang|fr|[[Haut-Sassandra]]}}
+<li>[[Lacs]]
+<li>[[Lagunes]]
+<li>{{lang|fr|[[Marahoué]]}}
+</ol><ol start=11>
+<li>{{lang|fr|[[Moyen-Cavally]]}}
+<li>{{lang|fr|[[Moyen-Comoé]]}}
+<li>[[N'zi-Comoé]]
+<li>[[Savanes (Côte d'Ivoire)|Savanes]]
+<li>[[Sud-Bandama]]
+<li>[[Sud-Comoé]]
+<li>{{lang|fr|[[Vallée du Bandama]]}}
+<li>[[Worodougou]]
+<li>[[Zanzan]]
+</ol>
+|}
+
+The regions are further divided into 81 [[Departments of Côte d'Ivoire|departments]].
+
+===Population of major cities===
+The official capital of {{lang|fr|Côte d'Ivoire}} is [[Yamoussoukro]] (295,500), the fourth most populous city. [[Abidjan]], with a population of 3,310,500, is the largest city and serves as the commercial and banking center of {{lang|fr|Côte d'Ivoire}} as well as the [[de facto]] capital. It is also the most populous city in French-speaking [[Western Africa]].
+{|class="wikitable"
+|-
+!City!!Population
+|-
+|[[Abidjan]] ||3,310,500
+|-
+|[[Bouaké]] ||775,300
+|-
+|[[Daloa]] ||489,100
+|-
+|[[Yamoussoukro]] ||295,500
+|-
+|[[Korhogo]] ||163,400
+|-
+|[[San Pédro]] ||151,600
+|-
+|[[Divo, Côte d'Ivoire|Divo]] ||134,200
+|}
+
+==Politics==
+{{Main|Politics of Côte d'Ivoire}}<!--Please add new information into relevant articles of the series-->
+{{See also|Civil war in Côte d'Ivoire}}
+
+Since 1983, {{lang|fr|Côte d'Ivoire}}'s official capital has been [[Yamoussoukro]]; [[Abidjan]], however, remains the administrative center. Most countries maintain their embassies in Abidjan, although some (including the United Kingdom) have closed their missions because of the continuing violence and attacks on Europeans. The Ivoirian population continues to suffer because of an ongoing civil war (''See the History section above''). International human rights organizations have noted problems with the treatment of captive non-combatants by both sides and the re-emergence of child slavery among workers in cocoa production.
+
+Although most of the fighting ended by late 2004, the country remained split in two, with the north controlled by the ''New Forces'' (FN). A new presidential election was expected to be held in October 2005, and an agreement was reached among the rival parties in March 2007 to proceed with this, but it has since then been postponed numerous times due to delays in its preparation.
+
+Elections were finally held in 2010. The first round of elections were held peacefully, and widely hailed as free and fair. Runoffs were held November 28, 2010, after being delayed one week from the original date of November 21. [[Laurent Gbagbo]] as president ran against former Prime Minister [[Alassane Ouattara]].<ref>{{cite news |url=http://www.cnn.com/2010/WORLD/africa/11/10/ivory.coast.runoff/ |title=Ivory Coast postpones presidential runoff vote |author=Eric Agnero |date=10 November 2010 |work=CNN |accessdate=11 November 2010}}</ref>
+
+On 2 December, the Electoral Commission declared that Ouattara had won the election by a margin off 54% to 46%. In response, the Gbagbo-aligned Constitutional Council rejected the declaration, and the government announced that country's borders had been sealed. An Ivorian military spokesman said, "The air, land and sea border of the country are closed to all movement of people and goods."<ref>{{cite web |url=http://www.bbc.co.uk/news/world-africa-11905971|title=Ivory Coast election: Army says it has sealed borders |date=3 December 2010 |work=BBC |accessdate=3 November 2010}}</ref>
+
+==Geography==
+[[File:Côte d'Ivoire Map.jpg|thumb|190px|right|Map of {{lang|fr|Côte d'Ivoire}}]]
+{{Main|Geography of Côte d'Ivoire}}
+Côte d'Ivoire is a country of western [[sub-Saharan Africa]]. It borders [[Liberia]] and [[Guinea]] in the west, [[Mali]] and [[Burkina Faso]] in the north, [[Ghana]] in the east, and the [[Gulf of Guinea]] (Atlantic Ocean) in the south. The country lies between latitudes [[4th parallel north|4°]] and [[11th parallel north|11°N]], and longitudes [[2nd meridian west|2°]] and [[9th meridian west|9°W]].
+
+==Economy==
+{{Main|Economy of Côte d'Ivoire}}
+Côte d’Ivoire has for the region a relatively high income per capita (USD 960 in 2007) and plays a key role in transit trade for neighboring  landlocked countries. The country is the largest economy in the [[West African Economic and Monetary Union]], constituting 40 percent of the monetary union’s total GDP. The country is the world's largest exporter of cocoa, and the fourth largest exporter of goods in sub-Saharan Africa (following South Africa, Nigeria and Angola).<ref>{{cite web|url=http://www.mfw4a.org/cote-d-ivoire/cote-d-ivoire-financial-sector-profile.html |title=MFW4A |publisher=MFW4A |date= |accessdate=2010-12-06}}</ref> 
+
+The maintenance of close ties to France since independence in 1960, diversification of agriculture for export, and encouragement of foreign investment, have been factors in the economic growth of {{lang|fr|Côte d'Ivoire}}. In recent years {{lang|fr|Côte d'Ivoire}} has been subject to greater competition and falling prices in the global marketplace for its primary agricultural crops: coffee and cocoa. That, compounded with high internal corruption, makes life difficult for the grower and those exporting into foreign markets.
+
+Côte d'Ivoire is a member of the [[Organization for the Harmonization of Business Law in Africa]] ([[OHADA]]).<ref name="ohada.com">{{fr icon}}
+{{Citation
+ | title = OHADA.com: The business law portal in Africa
+ | url = http://www.ohada.com/index.php
+ | accessdate = 2009-03-22}}
+</ref>
+
+==Environment==
+{{Main|Environment of Côte d'Ivoire}}
+
+==Demographics==
+{{Main|Demographics of Côte d'Ivoire}}
+[[File:Ivorian woman.jpg|thumb|left|130px|Ivoirian woman in a [[head tie]].]]
+77% of the population are considered Ivoirians. They represent several different peoples and language groups. An estimated 65 languages are spoken in the country. One of the most common is [[Dioula language|Dyula]], which acts as a trade language as well as a language commonly spoken by the Muslim population.
+
+French, the official language, is taught in schools and serves as a [[lingua franca]] in the country.
+The native born population is roughly split into three groups of [[Muslim]], [[Christian]] (primarily [[Roman Catholic]]) and [[animist]].<ref name="CIA"/> Since Côte d'Ivoire has established itself as one of the most successful West African nations, about 20% of the population (about 3.4 million) consists of workers from neighbouring Liberia, Burkina Faso and Guinea. 
+
+4% of the population is of non-African ancestry. Many are French,<ref>{{cite web|url=http://countrystudies.us/ivory-coast/41.htm |title=Ivory Coast&nbsp;– The Economy |publisher=Countrystudies.us |date= |accessdate=2010-06-20}}</ref> [[Lebanon|Lebanese]],<ref>{{cite web|url=http://countrystudies.us/ivory-coast/72.htm |title=Ivory Coast&nbsp;– The Levantine Community |publisher=Countrystudies.us |date= |accessdate=2010-06-20}}</ref> [[Vietnam]]ese and Spanish citizens, as well as Protestant missionaries from the United States and Canada. In November 2004, around 10,000 French and other foreign nationals evacuated Côte d'Ivoire due to [[2004 French–Ivorian clashes|attacks]] from pro-government youth militias.<ref>"[http://www.worldpress.org/Africa/1986.cfm Rwanda Syndrome on the Ivory Coast]"</ref> Aside from French nationals, there are native-born descendants of French settlers who arrived during the country's colonial period.
+
+===Religion===
+{{See|Religion in Côte d'Ivoire}}
+Religion in Côte d'Ivoire remains very [[Heterogeneity|heterogeneous]], with [[Islam]] (almost all [[Sunni Islam|Sunni Muslims]]) and [[Christianity]] (mostly [[Roman Catholic]]) being the major religions. In 2008, 38.6% of Côte d'Ivoire is Muslim, followed by 32.8% Christian, 11.9% practicing indigenous religions and 16.7% with no religion.<ref name="CIA"/> Côte d'Ivoire's capital, Yamoussoukro, is also home to the largest "church"<ref>It is actually a basilica, but is listed in the ''Guiness World Records'' as the largest "church" in the world</ref> in the world, the [[Basilica of Our Lady of Peace of Yamoussoukro]].
+
+{{bar box
+|title=Religion in Côte d'Ivoire (Ivory Coast)
+|titlebar=#ddd
+|left1=Religion
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|Islam|green|38.6}}
+{{bar percent|Christianity|blue|32.8}}
+{{bar percent|African Indigenous|yellow|11.9}}
+{{bar percent|None|gray|16.7}}
+}}
+
+===Health===
+{{Main|Health in Côte d'Ivoire}}
+[[Life expectancy]] at birth was 41 for males in 2004; for females it was 47.<ref name="afro.who.int">{{cite web|url=http://www.afro.who.int/home/countries/fact_sheets/cotedivoire.pdf |title=WHO Country Offices in the WHO African Region&nbsp;— WHO &#124; Regional Office for Africa |publisher=Afro.who.int |date= |accessdate=2010-06-20}}</ref> [[Infant mortality]] was 118 of 1000 live births.<ref name="afro.who.int"/> There are 12 physicians per 100,000 people.<ref name="afro.who.int"/> About a quarter of the population lives below the international poverty line of US$1.25 a day.<ref>[http://hdr.undp.org/en/media/HDI_2008_EN_Tables.pdf ''Human Development Indices''], Table 3: Human and income poverty, p. 35. Retrieved on 1 June 2009</ref>
+
+===Education===
+{{Main|Education in Côte d'Ivoire}}
+A large part of the adult population, in particular women, are [[illiterate]]. Many children between 6 and 10 years are not enrolled in school.
+<ref>{{cite web|url=http://earthtrends.wri.org/pdf_library/country_profiles/pop_cou_384.pdf |title=Earthtrends.wri.org |format=PDF |date= |accessdate=2010-12-06}}</ref> The majority of students in secondary education are male.<ref name="education.stateuniversity.com">{{cite web|url=http://education.stateuniversity.com/pages/310/C-te-d-Ivoire-SECONDARY-EDUCATION.html |title=Côte d'Ivoire&nbsp;– Secondary Education |publisher=Education.stateuniversity.com |date= |accessdate=2010-06-20}}</ref> At the end of secondary education, students can sit the Baccalauréat examination.<ref name="education.stateuniversity.com"/> The country has universities in Abidjan ([[Université de Cocody]]) and Bouaké, ([[Université de Bouaké]]).
+
+==Culture==
+{{Main|Culture of Côte d'Ivoire}}
+[[File:Maske.JPG|thumb|[[Mask]] from Côte d'Ivoire]]
+
+===Music===
+{{Main|Music of Côte d'Ivoire}}
+
+Each of the ethnic groups in Côte d'Ivoire has its own music genres, most showing strong vocal [[polyphony]]. [[Talking drum]]s are also common, especially among the [[Nzema|Appolo]], and [[polyrhythm]]s, another African characteristic, are found throughout Côte d'Ivoire and are especially common in the southwest.
+
+Popular music genres from Côte d'Ivoire include [[zoblazo]], [[zouglou]] and [[Coupé-Décalé]].
+
+===Sport===
+{{See also|Côte d'Ivoire at the Olympics|Côte d'Ivoire national football team}}
+Côte d'Ivoire won an Olympic silver medal for men's 400 metres.
+The Côte d'Ivoire football team has played in the World Cup finals twice.
+
+==See also==
+{{Portal|Côte d'Ivoire}}
+{{Main|Outline of Côte d'Ivoire|Index of Côte d'Ivoire-related articles}}
+* [[African art#Côte d'Ivoire|Art of Côte d'Ivoire]]
+* [[Civil war in Côte d'Ivoire]]
+* [[Communications in Côte d'Ivoire]]
+* {{lang|fr|[[Fédération Ivoirienne du Scoutisme]]}}
+* [[Foreign relations of Côte d'Ivoire]]
+* [[Ivoirian diplomatic missions]]
+* [[Labor exploitation in the chocolate industry]]
+* [[List of cities in Côte d'Ivoire]]
+* [[List of Ivoirians]]
+* [[List of African writers (by country)#Côte d'Ivoire|List of writers from Côte d'Ivoire]]
+* [[National Armed Forces of Côte d'Ivoire|Military of Côte d'Ivoire]]
+* [[Operation Licorne]]
+* [[Transport in Côte d'Ivoire]]
+
+==Notes==
+{{Reflist|colwidth=30em}}
+* {{LoC Country Studies
+|url=http://lcweb2.loc.gov/frd/cs/citoc.html#ci0079
+|title=LoC Country Studies: Côte d'Ivoire}}
+* {{CIA World Factbook}}
+* {{StateDept}}
+
+==References==
+{{Refbegin|colwidth=30em}}
+* {{fr}} {{citation|last=Amin|first=Samir|coauthors=Bernard Nantet|chapter=Côte-d’Ivoire|title=[[Encyclopædia Universalis]]|publisher={{lang|fr|Encyclopædia Universalis}}|location=Paris|year=1999|isbn=|oclc=}}.
+* {{fr}} {{citation|last=Amondji|first=Marcel|authorlink=Marcel Amondji|title={{lang|fr|Côte-d'Ivoire. Le P.D.C.I. et la vie politique de 1945 à 1985}}|publisher=Harmattan|location=Paris| year=1986|isbn=2-85802-631-9|oclc=}}.
+* {{fr}} {{citation|editor1-last=Appiah|editor1-first=Kwame Anthony|editor1-link=Kwame Anthony Appiah|editor2-last=Gates|editor2-first=Henry Louis, Jr.|editor2-link=Henry Louis Gates, Jr.|year=1999|title=[[Encyclopedia Africana|Africana: The Encyclopedia of the African and African American Experience]]|publisher=[[Basic Books]]|location=New York|isbn=0-465-00071-1|oclc=41649745}}.
+* {{fr}} {{citation|last1=Asselain|first1=Jean Charles|last2=Mougel|first2=François|last3=Delfaud|first3=Pierre|last4=Guillaume|first4=Pierre|
+last5=Guillaume|first5=Sylvie|last6=Kinta|first6=Jean Pierre
+|title={{lang|fr|Précis d'histoire européenne: XIX<sup>e</sup>–XX<sup>e</sup> siècle}}|publisher=[[Armand Colin]]|location=Paris|year=2000|isbn=2-200-26086-5|oclc=35145674}}.
+* {{fr}} {{citation|last=Baulin|first=Jacques|title={{lang|fr|La Politique intérieure d'Houphouet-Boigny}}|publisher=Eurafor Press|location=Paris|year=1982|isbn=|oclc=9982529}}.
+* {{fr}} {{citation|last1=Bédié|first1=Henri Konan|author1-link=Henri Konan Bédié|last2=Laurent|first=Éric|title={{lang|fr|Les chemins de ma vie: entretiens avec Éric Laurent}}|publisher=Plon|location=Paris|year=1999|isbn=2-259-19060-X|oclc=43895424}}.
+* {{fr}} {{citation|last=Boahen|first=A. Adu|authorlink=Albert Adu Boahen|title={{lang|fr|Histoire générale de l'Afrique: Volume 7, l'Afrique sous domination coloniale 1880–1935}}|publisher={{lang|fr|[[Présence Africaine]]}}, [[UNESCO]]|location=Paris|year=1989|isbn=2-7087-0519-9}}.
+* {{fr}} {{citation|last=Borremans|first=Raymond|title={{lang|fr|Le grand dictionnaire encyclopédique de la Côte d’Ivoire}}|publisher={{lang|fr|Nouvelles Editions africaines}}|location= Abidjan|year=1986–2004|volume=VI|isbn=27236073-3X}}.
+* {{fr}} {{citation|last1=Diabaté|first1=Henriette|last2=Kodjo|first2=Léonard|last3= Bamba|first=Sékou|title={{lang|fr|Les chemins de ma vie: entretiens avec Éric Laurent}}|publisher={{lang|fr|Ivoire Média}}|location=Abidjan|year=1991|isbn=|oclc=29185113}}.
+* {{fr}} {{citation|last=Dégni-Ségui|first=René|title={{lang|fr|Droit administratif général: l'organisation administrative}}|publisher=CEDA|location=Abidjan|year=2002|edition=3rd|isbn=2-86394-475-4|oclc=53482423}}.
+* {{fr}} {{citation|last1=Désalmand|first1=Paul|last2=Konan-Dauré|first2=N'Guessan|title={{lang|fr|Histoire de l'éducation en Côte d’Ivoire: de la Conférence de Brazzaville à 1984}}|publisher=CERAP|location=Abidjan|year=2005|isbn=291535201X|oclc=10724568}}.
+* {{fr}} {{citation|last=Diégou|first=Bailly|title={{lang|fr|La Réinstauration du multipartisme en Côte d’Ivoire: ou la double mort d’Houphouët-Boigny}}|publisher=Harmattan|location=Paris|year=2000|isbn=2-73842-349-3|oclc=}}.
+* {{fr}} {{citation|last=Ekanza|first=Simon Pierre|title={{lang|fr|L’Afrique au temps des Blancs (1880–1935)}}|publisher=CERAP|location=Abidjan|year=2005|isbn=2-915352-08-7}}.
+* {{fr}} {{citation|last=Ekanza|first=Simon Pierre|title={{lang|fr|Côte d’Ivoire: Terre de convergence et d’accueil (XV<sup>e</sup>–XIX<sup>e</sup> siècles)}}|publisher={{lang|fr|Éditions CERAP}}|location=Abidjan|year=2006|isbn=2-915352-22-4|oclc=70242387}}.
+* {{fr}} {{citation|last=Ellenbogen|first=Alice|title={{lang|fr|La succession d'Houphouët-Boigny: entre tribalisme et démocratie}}|publisher=Harmattan|location=Paris|year=2002|isbn=2-7475-2950-9|oclc=62407712}}.
+* {{fr}} {{citation|last=Garrier|first=Claude|title={{lang|fr|Forêt et institutions ivoiriennes: la forêt miroir des politiques}}|publisher=Harmattan|location=Paris|year=2006|isbn=2296026559|oclc=85336182}}.
+* {{fr}} {{citation|last=Garrier|first=Claude|title={{lang|fr|L'exploitation coloniale des forêts de Côte d’Ivoire: une spoliation institutionnalisée}}|publisher=Harmattan|location=Paris|year=2006|isbn=2-7475-9866-7}}.
+* {{fr}} {{citation|last=Garrier|first=Claude|title={{lang|fr|Côte d’Ivoire et zone OHADA: gestion immobilière et droit foncier urbain}}|publisher=Harmattan|location=Paris|year=2007|isbn=2296041698|oclc=191732681}}.
+* {{fr}} {{citation|last=Gbagbo|first=Laurent|authorlink=Laurent Gbagbo|title={{lang|fr|Côte-d'Ivoire: pour une alternative démocratique}}|publisher=Harmattan|location=Paris|year=1983|isbn=2-858-02303-4|oclc=11345813}}.
+* {{fr}} {{citation|last=Gnahoua|first=Ange Ralph|title={{lang|fr|La crise du système ivoirien: aspects politiques et juridiques}}|publisher=Harmattan|location=Paris|year=2006|isbn=2-296-00425-3|oclc=67609894}}.
+* {{fr}} {{citation|last=Goba|first=Arsène Ouegui|title={{lang|fr|Côte d'Ivoire: Quelle issue pour la transition?}}|publisher=Harmattan|location=Paris|year=2000|isbn=2-7384-9483-8|oclc=216694298|url=http://books.google.com/?id=q17BbTGXGe4C&pg=PA15}}.
+* {{fr}} {{citation|last1=Gonnin|first1=Gilbert|last2=Allou|first=René Kouamé|title={{lang|fr|Initiation à l'économie des pays en voie de développement}}|publisher=CERAP|location=Abidjan|year=2006|isbn= 2-915352-30-5|oclc=144686149}}.
+* {{citation|last=Handloff|first=Robert Earl (ed.)|url=http://lcweb2.loc.gov/frd/cs/citoc.html|title=Ivory Coast: A Country Study|series=[[Library of Congress Country Studies]]|publisher=[[United States Government Printing Office|U.S. GPO]]|location=Washington|year=1991|isbn=0160309786|oclc=21336559}}.
+* {{fr}} {{citation|last=Hauhouot|first=Antoine Asseypo|title={{lang|fr|Développement, amenagement, régionalisation en Côte d'Ivoire}}|publisher={{lang|fr|Editions universitaires de Côte d'Ivoire}}|location=Abidjan|year=2002|isbn=2-84515-020-2|oclc=56179194}}.
+* {{citation|last=Jessup|first=John E.|title=An Encyclopedic Dictionary of Conflict and Conflict Resolution, 1945–1996|url=http://books.google.com/?id=jh3Q5F7BaB8C&printsec=frontcover&dq=October+1985+name+C%C3%B4te+d%27Ivoire|year=1998|publisher=[[Greenwood Publishing Group]]|location=[[Westport, Connecticut|Westport]], [[Connecticut]]|isbn=0-313-28112-2|oclc=37742322}}.
+* {{fr}} {{citation|last=Kipré|first=Pierre|title={{lang|fr|Histoire de la Côte d'Ivoire}}|publisher=Editions AMI|location=Abidjan|year=1992|oclc=33233462}}.
+* {{fr}} {{citation|last=Koné|first=Amadou|title={{lang|fr|Houphouët-Boigny et la crise ivoirienne}}|publisher=Karthala|location=Paris|year=2003|isbn=2-8458-6368-3|oclc=52772495}}.
+* {{fr}} {{citation|last=Koulibaly|first=Mamadou|title={{lang|fr|La guerre de la France contre la Côte d'Ivoire}}|publisher=Harmattan|location=Paris|year=2003|isbn=2-7475-5367-1|oclc=53961576|url=http://books.google.com/books/harmattan?hl=fr&vid=isbn2-7475-5367-1&printsec=frontcover#PPA15,M1}}.
+* {{fr}} {{citation|last=Lisette|first=Gabriel|authorlink=Gabriel Lisette|title={{lang|fr|Le Combat du Rassemblement Démocratique Africain pour la décolonisation pacifique de l'Afrique Noire}}|publisher={{lang|fr|[[Présence Africaine]]}}|location=Paris|year=1983|isbn=2-708-70421-4|oclc=10765611}}.
+* {{fr}} {{citation|last={{lang|fr|Loucou}}|first={{lang|fr|Jean Noël}}|title={{lang|fr|Côte d’Ivoire: les résistances à la conquête coloniale}}|publisher=CERAP|location=Abidjan|year=2007|isbn=2-915352-31-3|oclc=234202640}}.
+* {{fr}} {{citation|author=Ministry of Economy and Finances of the Republic of Côte d'Ivoire|title={{lang|fr|La Côte d'Ivoire en chiffres}}|publisher=Dialogue Production|location=Abidjan|year=2007|oclc=173763995}}.
+* {{fr}} {{citation|last=Miran|first=Marie|title={{lang|fr|Islam, histoire et modernité en Côte d’Ivoire}}|publisher=Karthala|location=Paris|year=2006|isbn=2-84586-776-X|oclc=70712775}}.
+* {{citation|last=Mundt|first=Robert J.|editor=John F. Clark and David Gardinier|year=1997|chapter={{lang|fr|Côte d'Ivoire}}: Continuity and Change in a Semi-Democracy|title=Political Reform in Francophone Africa|publisher=[[Westview Press]]|location=[[Boulder, Colorado|Boulder]]|isbn=0-8133-2785-7|oclc=35318507}}.
+* {{fr}} {{citation|last=Rougerie|first=Gabriel|title={{lang|fr|L'Encyclopédie générale de la Côte d'Ivoire}}|publisher={{lang|fr|Nouvelles publishers africaines}}|location=Abidjan| year=1978|isbn=2-7236-0542-6|oclc=5727980}}.
+* {{fr}} {{citation|last=Sauvy|first=Jean|title={{lang|fr|Initiation à l'économie des pays en voie de développement}}|publisher={{lang|fr|Institut international d'Administration publique}}|location=Paris|year=1968|isbn=2-84515-020-2|oclc=4502227}}.
+* {{fr}} {{citation|last=Thomas|first=Yves|chapter={{lang|fr|Pays du monde: Côte-d’Ivoire: 1990–1994}}|title={{lang|fr|Mémoires du XXe siècle: Dictionnaire de France}}|publisher={{lang|fr|Société générale d'édition et de diffusion}}|location=Paris|year=1995|isbn=2842480414|oclc=41524503}}.
+* {{fr}} {{citation|last=Garrier|first=Claude|title={{lang|fr|Le millefeuille ivoirien: un héritage de contraintes}}|publisher=Harmattan|location=Paris|year=2005|isbn=2-7475-9866-7|oclc=62895346}}.
+* {{fr}} {{citation|last=Touré|first=Saliou|title={{lang|fr|L'ivoirité ou l'esprit du nouveau contrat social du Président Henri Konan Bédié}}|publisher={{lang|fr|Presses Universitaires de Côte d'Ivoire}}|location=Abidjan|year=1996|isbn=2716603928|oclc=40641392}}.
+* {{fr}} {{citation|last=Wodié|first=Francis|title={{lang|fr|Institutions politiques et droit constitutionnel en Côte d’Ivoire}}|publisher={{lang|fr|Presses Universitaires de Côte d'Ivoire}}|location=Abidjan|year=1996|isbn=2-7166-0389-8|oclc=37979208}}.
+{{Refend}}
+
+==External links==
+{{Toomanylinks|date=October 2010}}
+{{Sister project links|Côte d'Ivoire}}
+
+;Government
+* {{fr icon}} [http://www.gouv.ci/ Official Portal of the Government of Côte d'Ivoire]
+* {{fr icon}} [http://www.cotedivoirepr.ci/ {{lang|fr|Présidence de la République de Côte d'Ivoire}}] Official Site of the Ivoirian President
+* [http://www.isa-africa.com/ambaci-jp/ Embassy of {{lang|fr|Côte d'Ivoire}} in Japan]{{dead link|date=August 2010}} government information and links
+* [http://www.ambacotedivoire.org/ Embassy of {{lang|fr|Côte d'Ivoire}} in Scandinavia]
+* [http://www.ivorycoastconsulate-losangeles.org/ Consulate of {{lang|fr|Côte d'Ivoire}} in Los Angeles]
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-c/cote-divoire.html Chief of State and Cabinet Members]
+
+;General information
+* [http://news.bbc.co.uk/1/hi/world/africa/country_profiles/1043014.stm Country Profile] from [[BBC News]]
+* [http://www.britannica.com/nations/Cote-D'Ivoire Cote-D'Ivoire] from the [[Encyclopaedia Britannica]]
+* {{CIA World Factbook link|iv|Cote d'Ivoire}}
+* [http://ucblibraries.colorado.edu/govpubs/for/cotedivoire.htm Cote d'Ivoire] from ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Africa/Côte_d'Ivoire}}
+* {{wikiatlas|Côte d'Ivoire}}
+
+;News
+* [http://allafrica.com/cotedivoire/ allAfrica&nbsp;– {{lang|fr|Côte d'Ivoire}}] news headline links
+* [http://www.abidjan.net/ Abidjan.Net] news forum links
+
+;Tourism
+* {{Wikitravel}}
+
+;Other
+* [http://www.arts.uwa.edu.au/AFLIT/CountryCoteDIvoireEN.html#clien Cote D'Ivoire literature]
+* [http://www.izf.net/izf/documentation/cartes/Pays/supercartes/cotedivoire.htm Map of {{lang|fr|Côte d'Ivoire}}]{{dead link|date=August 2010}}
+* [http://ivorycoast.site.voila.fr/ Akwaba in Ivory Coast]
+* [http://www.kepi.cncplusplus.com/Ivory_Coast/Ivory_Coast.htm French intervention in Ivory Coast 2002–2003]
+* [http://members.alertnet.org/db/crisisprofiles/CI_UNR.htm?v=in_detail Crisis briefing on Ivory Coast's recovery from war] from [[Reuters AlertNet]]
+* {{PDFlink|[http://www.saferaccess.org/documents/Precis%20of%20the%20Historical%20Security%20Context%20of%20Cote%20d'Ivoire..pdf Safer Access&nbsp;– A Precis of the Historical Security Context in {{lang|fr|Cote d'Ivoire}}]|193&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 198258 bytes -->}}
+
+{{Côte d'Ivoire topics}}
+{{Countries of Africa}}
+{{Template group
+| title=International membership
+| list=
+{{Member states of the African Union}}
+{{South Atlantic Peace and Cooperation Zone}}
+{{La Francophonie}}
+{{Latinunion}}
+}}
+{{Niger-Congo-speaking}}
+
+{{DEFAULTSORT:Cote Divoire}}
+[[Category:Côte d'Ivoire| ]]
+[[Category:African countries]]
+[[Category:African Union member states]]
+[[Category:Countries bordering the Atlantic Ocean]]
+[[Category:Member states of La Francophonie]]
+[[Category:Economic Community of West African States]]
+[[Category:French-speaking countries]]
+[[Category:Extractive Industries Transparency Initiative]]
+[[Category:States and territories established in 1960]]
+[[Category:Organisation of the Islamic Conference members]]
+[[Category:West Africa]]
+[[Category:Blood diamonds]]
+
+{{Link GA|de}}
+{{Link FA|fr}}
+
+[[ace:Panté Gadéng]]
+[[af:Ivoorkus]]
+[[ak:Côte d'Ivoire]]
+[[als:Elfenbeinküste]]
+[[am:ኮት ዲቯር]]
+[[ang:Elpendbānrīma]]
+[[ar:كوت ديفوار]]
+[[an:Costa de Vori]]
+[[roa-rup:Côte d'Ivoire]]
+[[frp:Couta d’Ivouèro]]
+[[ast:Costa de Marfil]]
+[[az:Kot-d’Ivuar]]
+[[bm:Côte d'Ivoire]]
+[[bjn:Pantai Gading]]
+[[bn:কোত দিভোয়ার]]
+[[zh-min-nan:Côte d'Ivoire]]
+[[be:Кот д'Івуар]]
+[[be-x-old:Кот д'Івуар]]
+[[bo:ཀོ་ཊི་ཌི་ཨའི་བོ་རི།]]
+[[bs:Obala Slonovače]]
+[[br:Aod an Olifant]]
+[[bg:Кот д'Ивоар]]
+[[ca:Costa d'Ivori]]
+[[ceb:Côte d'Ivoire]]
+[[cs:Pobřeží slonoviny]]
+[[cy:Côte d'Ivoire]]
+[[da:Elfenbenskysten]]
+[[de:Elfenbeinküste]]
+[[dv:އައިވަރީ ކޯސްޓު]]
+[[nv:Chį́į́h Yee Adilohii Bideeʼ Tónteel Bibąąh]]
+[[et:Elevandiluurannik]]
+[[el:Ακτή Ελεφαντοστού]]
+[[es:Costa de Marfil]]
+[[eo:Ebur-Bordo]]
+[[ext:Costa de Marfil]]
+[[eu:Boli Kosta]]
+[[ee:Côte d'Ivoire]]
+[[fa:ساحل عاج]]
+[[hif:Côte d'Ivoire]]
+[[fr:Côte d'Ivoire]]
+[[fy:Ivoarkust]]
+[[ff:Kodduwaar]]
+[[ga:An Cósta Eabhair]]
+[[gv:Yn Clyst Iuaagagh]]
+[[gag:Fildişi Kıyısı]]
+[[gd:Costa Ìbhri]]
+[[gl:Costa do Marfil - Côte d'Ivoire]]
+[[xal:Котдивугармудин Орн]]
+[[ko:코트디부아르]]
+[[hy:Կոտ դ'Իվուար]]
+[[hi:कोत द'ईवोआर]]
+[[hr:Obala Bjelokosti]]
+[[io:Ivora Rivo]]
+[[ilo:Costa Ivoria]]
+[[bpy:কটে ডি'আইভরি]]
+[[id:Pantai Gading]]
+[[ia:Costa de Ebore]]
+[[os:Кот-д’Ивуар]]
+[[is:Fílabeinsströndin]]
+[[it:Costa d'Avorio]]
+[[he:חוף השנהב]]
+[[jv:Panté Gadhing]]
+[[kn:ಕೋತ್ ದ್'ಇವಾರ್]]
+[[pam:Côte d'Ivoire]]
+[[ka:კოტ-დ'ივუარი]]
+[[kk:Кот-д-Ивуар]]
+[[kw:Côte d'Ivoire]]
+[[rw:Kote Divuwari]]
+[[sw:Cote d'Ivoire]]
+[[kg:Côte d'Ivoire]]
+[[ht:Kòt divwa]]
+[[ku:Peravê Diranfîl]]
+[[la:Litus Eburneum]]
+[[lv:Kotdivuāra]]
+[[lb:Elfebeeküst]]
+[[lt:Dramblio Kaulo Krantas]]
+[[lij:Còsta d'Avòïo]]
+[[li:Ivoorkös]]
+[[ln:Kotdivuar]]
+[[lmo:Costa d'Avori]]
+[[hu:Elefántcsontpart]]
+[[mk:Брег на Слоновата Коска]]
+[[mg:Côte d'Ivoire]]
+[[ml:ഐവറി കോസ്റ്റ്]]
+[[mr:कोत द'ईवोआर]]
+[[arz:كوت ديفوار]]
+[[ms:Côte d'Ivoire]]
+[[mn:Кот д'Ивуар]]
+[[my:အိုင်ဗရီကို့စ်ထ်]]
+[[nah:Côte d'Ivoire]]
+[[na:Aibori Kot]]
+[[nl:Ivoorkust]]
+[[ja:コートジボワール]]
+[[no:Elfenbenskysten]]
+[[nn:Elfenbeinskysten]]
+[[nrm:Côte d'Iviéthe]]
+[[nov:Côte d'Ivoire]]
+[[oc:Còsta d'Evòri]]
+[[uz:Fil Suyak Sohili]]
+[[pnb:آئیوری کوسٹ]]
+[[ps:عاج ساحل]]
+[[pms:Còsta d'Avòri]]
+[[nds:Elfenbeenküst]]
+[[pl:Wybrzeże Kości Słoniowej]]
+[[pt:Costa do Marfim]]
+[[crh:Filtiş Yalısı]]
+[[ro:Côte d'Ivoire]]
+[[qu:Marphil Chala]]
+[[ru:Кот-д’Ивуар]]
+[[sah:Кот д'Ивуар]]
+[[se:Elfenbenariddu]]
+[[sc:Costa de Avòriu]]
+[[sco:Côte d'Ivoire]]
+[[stq:Älfenbeenkuste]]
+[[sq:Bregu i Fildishtë]]
+[[scn:Côte d'Ivoire]]
+[[simple:Côte d'Ivoire]]
+[[ss:Lugu Lwempondvondlovu]]
+[[sk:Pobrežie Slonoviny]]
+[[sl:Slonokoščena obala]]
+[[szl:Wybrzeże Elefantowych Gnatůw]]
+[[so:Xeebta Foolmaroodi]]
+[[sr:Обала Слоноваче]]
+[[sh:Obala Slonovače]]
+[[fi:Norsunluurannikko]]
+[[sv:Elfenbenskusten]]
+[[tl:Baybaying Garing]]
+[[ta:கோட் டிவார்]]
+[[te:కోటె డి ఐవొరి]]
+[[th:ประเทศโกตดิวัวร์]]
+[[tg:Кот-д'Ивуар]]
+[[tr:Fildişi Sahili]]
+[[tk:Kot d'Iwuar]]
+[[uk:Кот-д'Івуар]]
+[[ur:کوت داوواغ]]
+[[ug:پىل چىشى قىرغىغى]]
+[[vec:Costa d'Avorio]]
+[[vi:Bờ Biển Ngà]]
+[[vo:Viorajolän]]
+[[fiu-vro:Elevandiluurand]]
+[[war:Côte d'Ivoire]]
+[[wo:Kodiwaar]]
+[[wuu:科特迪瓦]]
+[[ts:Côte d'Ivoire]]
+[[yo:Côte d'Ivoire]]
+[[zh-yue:象牙海岸]]
+[[diq:Sahilê Dındanê Fili]]
+[[bat-smg:Dramblė Kaula Kronts]]
+[[zh:科特迪瓦]]

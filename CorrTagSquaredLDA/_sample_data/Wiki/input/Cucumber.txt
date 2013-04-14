@@ -1,0 +1,230 @@
+{{About|the fruit}}
+{{lead|date=December 2010}}
+{{pp-move-indef}}
+{{taxobox
+|name = Cucumber
+|image = ARS_cucumber.jpg
+|image_caption = Cucumbers grow on vines
+|regnum = [[Plant]]ae
+|unranked_divisio = [[Angiosperms]]
+|unranked_classis = [[Eudicots]]
+|unranked_ordo = [[Rosids]]
+|ordo = [[Cucurbitales]]
+|familia = [[Cucurbitaceae]]
+|genus = ''[[Cucumis]]''
+|species = '''''C. sativus'''''
+|binomial = ''Cucumis sativus''
+|binomial_authority = [[Carolus Linnaeus|L.]]
+|}}
+
+The '''cucumber''' (''Cucumis sativus'') is a widely cultivated plant in the [[gourd]] family [[Cucurbitaceae]], which includes [[squash (fruit)|squash]], and in the same [[genus]] as the [[muskmelon]].
+
+{{nutritionalvalue | name=Cucumber, with peel, raw | kJ=65 | protein=0.65 g | fat=0.11 g | carbs=3.63 g | fiber=0.5 g | | sugars=1.67 g | iron_mg=0.28 | calcium_mg=16 | magnesium_mg=13 | phosphorus_mg=24 | potassium_mg=147 | zinc_mg=0.20 | vitC_mg=2.8 | pantothenic_mg=0.259 | vitB6_mg=0.040 | folate_ug=7 | thiamin_mg=0.027 | riboflavin_mg=0.033 | niacin_mg=0.098 | right=1 | source_usda=1 }}
+
+
+== Botany ==
+The cucumber is a creeping vine that roots in the ground and grows up [[Trellis (agriculture)|trellises]] or other supporting frames, wrapping around ribbing with thin, spiraling tendrils.  The plant has large leaves that form a canopy over the fruit.
+
+The cucumber is roughly [[cylinder (geometry)|cylindrical]], elongated with tapered ends, and may be as large as 60&nbsp;cm long and 10&nbsp;cm in diameter. Cucumbers are grown to be eaten fresh (called ''slicers''). Those intended for [[pickling]] (called ''picklers'') have a similar appearance. Cucumbers are mainly eaten in the unripe green form. The ripe yellow form normally becomes too bitter and sour. Cucumbers are usually more than 90% water.
+
+Having an enclosed seed and developing from a flower, botanically speaking, cucumbers are classified as [[fruit]]s.  However, much like tomatoes and squash they are usually perceived, prepared and eaten as [[vegetable]]s.<ref>{{cite web|url=http://www.dailymail.co.uk/news/article-1022304/The-c-cucumbers-skin-encumber-them.html |title=Daily Mail |publisher=Daily Mail |date=2008-05-28 |accessdate=2011-01-04}}</ref>
+
+[[File:Cucumber and cross section.jpg|thumb|left|400px|Cucumber and cross section]]{{clear-left}}
+=== Flowering and pollination ===
+A few varieties of cucumber are [[parthenocarpic]], the blossoms creating seedless fruit without [[pollination]]. Pollination for these varieties degrades the quality. In the US, these are usually grown in [[greenhouse]]s, where bees are excluded. In Europe, they are grown outdoors in some regions, and bees are excluded from these areas. Most cucumber varieties, however, are seeded and require pollination. Thousands of hives of [[honey bee]]s are annually carried to cucumber fields just before bloom for this purpose. Cucumbers may also be pollinated by [[bumblebee]]s and several other bee species.
+
+Symptoms of inadequate pollination include fruit abortion and misshapen fruit. Partially pollinated flowers may develop fruit which are green and develop normally near the stem end, but pale yellow and withered at the blossom end.
+
+Traditional varieties produce male blossoms first, then female, in about equivalent numbers. New [[gynoecious]] hybrid [[cultivar]]s produce almost all female blossoms. However, since these varieties do not provide [[pollen]], they must have interplanted a [[pollenizer|pollenizer variety]] and the number of beehives per unit area is increased. [[Insecticide]] applications for insect pests must be done very carefully to avoid killing off the insect [[pollinator]]s.
+
+=== Cucumber genome ===
+In 2009, an international team of researchers announced they had sequenced the cucumber genome (Chinese long' 9930).<ref>{{cite doi|10.1038/ng.475}}</ref>
+
+== Storage ==
+Cucumbers can best be stored sealed in shrink foil. Sealing a cucumber increases its shelf life considerably.
+
+== Taste ==
+{{Unreferenced section|date=April 2008}}
+[[Image:PicklingCucumbers.jpg|thumb|250px|right|Pickling cucumbers]]
+
+There appears to be variability in the human olfactory response to cucumbers, with the majority of people reporting a mild, almost watery flavor or a light melon taste, while a small but vocal minority report
+a highly repugnant taste, some say almost perfume-like.
+
+Various practices have arisen with regard to how bitterness may be removed from cucumbers. Among these a very common practice popular in India includes slicing off the ends of a cucumber, sprinkling some salt, and rubbing the now-exposed ends of said cucumber with the sliced-off ends until it appears to froth. Another such [[urban legend]] states that one ought to peel a cucumber away from the end that was once attached to a vine, otherwise one risked spreading the bitterness throughout the cucumber.<ref>{{cite web|author=Randal W. Oulton |url=http://www.practicallyedible.com/edible.nsf/pages/cucumber |title=www.practicallyedible.com |publisher=www.practicallyedible.com |date= |accessdate=2011-01-04}}</ref>
+
+=== Pickling ===
+{{Main|Pickled cucumber}}
+Cucumbers can be [[Pickled cucumber|pickled]] for flavor and longer [[shelf-life]].  As compared to eating cucumbers, pickling cucumbers tend to be shorter, thicker, less regularly-shaped, and have bumpy skin with tiny white- or black-dotted spines.  They are never waxed.  Color can vary from creamy yellow to pale or dark green.  Pickling cucumbers are sometimes sold fresh as “Kirby” or “Liberty” cucumbers.  The pickling process removes or degrades much of the nutrient content, especially that of [[vitamin C]]. Pickled cucumbers are soaked in [[brine]] or a combination of [[vinegar]] and brine, although not vinegar alone, often along with various [[spices]]. Pickled cucumbers are often referred to simply as "pickles" in the U.S. or "Gherkins" or "Wallies" in the U.K, the latter name being more common in the north of England where it refers to the large vinegar-pickled cucumbers commonly sold in [[fish & chips|fish & chip]] shops. (Although the [[gherkin]] is of the same species as the cucumber it is of a completely different [[cultivar]].)
+
+== Varieties ==
+[[Image:GNTdosakai.jpg|right|250px|thumb|'''Dosakai''' is a round, yellow, cucumber seen here at a market in [[Guntur]], [[India]].]]
+
+*English cucumbers can grow as long as {{convert|2|ft|m}}. They are nearly seedless, have a delicate skin which is pleasant to eat, and are sometimes marketed as “Burpless”, because the seeds and skin of other varieties of cucumbers are said to give some people gas{{Citation needed|date=June 2008}}.  Most commonly grown in greenhouses, these [[parthenocarpic]] cucumbers are often found in grocery markets shrink-wrapped in plastic.
+*East Asian cucumbers are mild, slender, deep green, and have a bumpy, ridged skin.  They can be used for slicing, salads, pickling, etc., and are available year-round.  They are usually burpless as well.
+*Lebanese cucumbers are small, smooth-skinned and mild.  Like the English cucumber, Lebanese cucumbers are nearly seedless.
+*'[[Armenian cucumber]]s' (also known as yard long) has very long ribbed fruit with a thin skin that does not require peeling, but are actually an immature melon. This is the variety sold in middle-eastern markets as "pickled wild cucumber".<ref>[http://articles.sfgate.com/2004-10-16/home-and-garden/17447866_1_cucumber-cucumis-melon articles.sfgate.com] Wild cucumbers got you in a pickle?</ref> In [[North America]], the term “wild cucumber” refers to [[manroot]].
+*Persian Cucumber, better known as Mini seedless cucumbers, available from Canada during the summer, and all year-round from the Dominican. Increasing its popularity 30 to 40% a year. Easy to cut on average 5-8 in. long.  Vines are [[parthenocarpic]], requiring no pollinators for fruit set.
+*Beit Alpha cucumbers are small, sweet [[parthenocarpic]] cucumbers adapted to the dry climate of the Middle East
+*Apple cucumbers are a short, round cucumber grown in [[New Zealand]] and parts of Europe, known for their light yellow-green colour and mildly sweet flavor. When mature, the fruit may grow tiny spines, and contains numerous edible green seeds. The fruit is usually eaten raw, with skin.<ref>[http://www.wefs.co.nz/cucumber-apple/] Apple Cucumber</ref>
+*Pickling cucumbers - Although any cucumber can be pickled, commercial pickles are made from cucumbers specially bred for uniformity of length-to-diameter ratio and lack of voids in the flesh.
+*Slicers grown commercially for the North American market are generally longer, smoother, more uniform in color, and have a much tougher skin. Slicers in other countries are smaller and have a thinner, more delicate skin.
+*''Dosakai'' is a yellow cucumber available in parts of [[India]]. These fruits are generally spherical in shape. It is commonly cooked as curry, added in [[Sambar (dish)|Sambar]]/Soup, [[Daal]] and also in making Dosa-[[Aavakaaya]] ([[Indian Pickle]]) and [[Chutney]].
+*''Kekiri'' is a smooth skinned cucumber relatively hard and not used for salads. It is cooked as spicy curry. It is found in dry zone of Sri Lanka. It becomes orange colored when the fruit is matured.
+*In May 2008, [[United Kingdom|British]] supermarket chain [[Sainsbury's]] unveiled the 'c-thru- cumber', a thin-skinned variety which reportedly does not require peeling.<ref>[http://www.dailymail.co.uk/news/article-1022304/The-c-cucumbers-skin-encumber-them.html Daily Mail] - The 'c-thru' cucumbers with no skin to encumber them</ref>
+
+== History ==
+Cucumbers originated in India.<ref>cucumber, Encyclopaedia Britannica Incorporated, 2008.</ref><ref name=Doijode/> Large genetic variety of cucumber has been observed in different parts of India.<ref name=Doijode>Doijode 2001: 281</ref> It has been cultivated for at least 3,000 years in Western [[Asia]], and was probably introduced to other parts of Europe by the Romans. Records of cucumber cultivation appear in [[France]] in the 9th century, England in the 14th century, and in North America by the mid-16th century.
+
+=== Earliest cultivation ===
+Evidence indicates that the cucumber has been cultivated in Western Asia for 3,000 years.  The cucumber is also listed among the foods of ancient [[Ur]] and the legend of [[Gilgamesh]] describes people eating cucumbers.  Some sources also state that it was produced in ancient [[Thrace]], and it is certainly part of modern cuisine in [[Bulgaria]] and [[Turkey]], parts of which make up that ancient state.  From India, it spread to [[Greece]] (where it was called “σίκυον”, ''síkyon'') and [[Italy]] (where the [[Ancient Rome|Romans]] were especially fond of the crop), and later into [[China]].
+
+According to [[Pliny the Elder]] (The Natural History, Book XIX, Chapter 23), the Ancient Greeks grew cucumbers, and there were different varieties in Italy, Africa, and modern-day Serbia.
+
+=== Roman Empire ===
+According to The Natural History of Pliny, by [[Pliny the Elder]] (Book XIX, Chapter 23), the [[Roman Empire|Roman]] Emperor [[Tiberius]] had the cucumber on his table daily during summer and winter.  The Romans reportedly used artificial methods (similar to the greenhouse system) of growing to have it available for his table every day of the year.  To quote Pliny; "Indeed, he was never without it; for he had raised beds made in frames upon wheels, by means of which the cucumbers were moved and exposed to the full heat of the sun; while, in winter, they were withdrawn, and placed under the protection of frames glazed with mirrorstone.  Reportedly, they were also cultivated in cucumber houses glazed with oiled cloth known as “[[Greenhouse|specularia]]”.
+
+[[Pliny the Elder]] describes the Italian fruit as very small, probably like a [[gherkin]], describing it as a wild cucumber considerably smaller than the cultivated one.  Pliny also describes the preparation of a medication known as “elaterium”, though some scholars believe that he refers to ''Cucumis silvestris asininus'', a species different from the common cucumber.<ref>Pliny the Elder, Book XX. Remedies Derived from the Garden Plants Chapter 2. (1.) -- The Wild Cucumber; Twenty-Six Remedies.</ref>  Pliny also writes about several other varieties of cucumber, including the Cultivated Cucumber,<ref>[[Pliny the Elder]], Book XX, chap. 5, the "Anguine or Erratic Cucumber" (Book XX, Chap 4. (2.))</ref> and remedies from the different types (9 from the cultivated, 5 from the "anguine", and 26 from the "wild").  The Romans are reported to have used cucumbers to treat scorpion bites, bad eyesight, and to scare away mice.  Wives wishing for children wore them around their waists.  They were also carried by the midwives, and thrown away when the child was born.
+
+=== Middle Ages ===
+Charlemagne had cucumbers grown in his gardens in ninth-century France.  They were reportedly introduced into England in the early 14th century, lost, then reintroduced approximately 250 years later.
+The [[Spaniards]] (in the person of [[Christopher Columbus]]) brought cucumbers to [[Haiti]] in 1494.  In 1535, [[Jacques Cartier]], a French explorer, found “very great cucumbers” grown on the site of what is now [[Montreal]].
+
+=== Post-Enlightenment ===
+{{Unreferenced section|date=June 2008}}
+Throughout the 16th century, European trappers, traders, [[bison]] hunters, and explorers bartered for the products of American Indian [[agriculture]].  The tribes of the [[Great Plains]] and the [[Rocky Mountains]] learned from the Spanish how to grow European crops.  The best farmers on the Great Plain were the [[Mandan Indians]] in what is now [[North Dakota|North]] and [[South Dakota]].  They obtained cucumbers and [[watermelons]] from the Spanish, and added them to the crops they were already growing, including several varieties of [[Maize|corn]] and [[beans]], [[pumpkins]], [[Squash (fruit)|squash]], and [[gourd]] plants.  The [[Iroquois]] were also growing them when the first Europeans visited them.
+
+In 1630, the Reverend [[Francis Higginson]] produced a book called, “New England’s Plantation”, in which, describing a garden on Conant’s Island in Boston Harbor known as “The Governor’s Garden”, he states: “The countrie aboundeth naturally with store of roots of great varietie and good to eat.  Our turnips, parsnips, and carrots are here both bigger and sweeter than is ordinary to be found in England.  Here are store of pompions, cowcumbers, and other things of that nature which I know not...”
+
+William Wood also published in 1633’s New England Prospect (published in England) observations he made in 1629 in America: “The ground affords very good kitchin gardens, for Turneps, Parsnips, Carrots, Radishes, and Pompions, Muskmillons, Isquoter-squashes, coucumbars, Onyons, and whatever grows well in England grows as well there, many things being better and larger.”
+
+In the later 17th century, a prejudice developed against uncooked vegetables and fruits.  A number of articles in contemporary health publications state that uncooked plants brought on summer diseases and should be forbidden to children.  The cucumber kept this vile reputation for an inordinate period of time:  “fit only for consumption by cows”, which some believe is why it gained the name, “cowcumber”.
+
+A copper etching made by Maddalena Bouchard  between 1772 and 1793 shows this plant to have smaller, almost bean-shaped fruits, and small yellow flowers. The small form of the cucumber is figured in Herbals of the 16th century, but states, ‘if hung in a tube while in blossom, the Cucumber will grow to a most surprising length.’
+
+[[Samuel Pepys]] wrote in his diary on September 22, 1663:  “this day Sir W. Batten tells me that Mr. Newhouse is dead of eating cowcumbers, of which the other day I heard of another, I think.”
+
+[[Fredric Hasselquist]], in his travels in [[Asia Minor]], [[Egypt]], [[Cyprus]] and [[Palestine]] in the 18th century, came across the Egyptian or hairy cucumber, ''Cucumis chate''.  It is said by Hasselquist to be the “queen of cucumbers, refreshing, sweet, solid, and wholesome.”  He also states that “they still form a great part of the food of the lower-class people in Egypt serving them for meat, drink and physic.”  George E. Post, in [[Hastings' Dictionary of the Bible]], states, “It is longer and more slender than the common cucumber, being often more than a foot long, and sometimes less than an inch thick, and pointed at both ends.”
+
+== Industry ==
+[[Image:Cucumber and gherkin.JPG|thumb|right|300px|Cucumber and [[gherkin]] output in 2005]]According to FAO, China produced at least 60% of the global output of cucumber and gherkin in 2005, followed at a distance by Turkey, Russia, Iran and the United States.{{Facts|date=June 2009}}
+
+=== Cultivation studies ===
+The usual commercial method of cultivating cucumbers involves the use of mineral (manufactured) [[fertiliser]].
+
+== References ==
+=== Notes ===
+{{refs|2}}
+=== Reference sources ===
+{| valign=top style="font-size:95%;"|-
+|width=200 valign=top|
+*[http://www.lpl.arizona.edu/~bcohen/cucumbers/history.html A very brief history of the cucumber in America]
+*[http://www.whfoods.com/genpage.php?tname=foodspice&dbid=42 Cucumber as health food]
+*[http://aggie-horticulture.tamu.edu/archives/parsons/publications/vegetabletravelers/cucumber.html A brief article on cucumber history]
+* [http://www.hort.purdue.edu/newcrop/history/lecture19/r_19-5.html Several plants listed from a work by Pliny the Elder]
+* [http://www.adbio.com/science/agri-history.htm Source noting cucumbers in Ur in 3000 BC]
+|width=200 valign=top|
+* Doijode, S. D. (2001). ''Seed storage of horticultural crops''. Haworth Press. ISBN 1-56022-901-2
+* The Complete Cucumber by Caroline Francis
+* Cucumbers by Bob Adams Publishers
+|width=200 valign=top|
+* Selected Themes and Icons from Medieval Spanish Literature: of Berards, Shoes, Cucumbers and Leprosy by John R. Burt
+|width=200 valign=top|
+* Origin of Cultivated Plants by Alphonse de Candolle
+* The Natural History of Pliny (Book XX primarily, with a reference to Tiberius eating them in Book XIX, Chapter 23)
+* Bioresource Technology, Volume 98, Issue 1, January 2007, Pages 214-217
+|}
+
+== External links ==
+{{Commons}}
+* {{ITIS |taxon = Cucumis sativus |id = 22364 |accessdate = January 30, 2006}}
+* [http://plants.usda.gov/java/profile?symbol=CUSA4 Plant profile at the Plants Database] - shows classification and distribution by US state.
+*[http://www.gutenberg.org/ebooks/27548 ''The Art of Promoting the Growth of the Cucumber and Melon''] by Thomas Watkins
+*[http://www.calobonga.com/calorieCounter/food/11205/2/calorie-counter.lz Cucumber Nutrition Information] from USDA SR22 database
+
+[[Category:Cucurbitaceae]]
+[[Category:Fruit vegetables]]
+[[Category:Plants and pollinators]]
+[[Category:Sequenced genomes]]
+
+[[ar:خيار]]
+[[az:Xiyar]]
+[[bjn:Bilungka]]
+[[bn:শসা]]
+[[zh-min-nan:Chhì-koe]]
+[[bi:Kukamba]]
+[[bar:Gugumma]]
+[[bo:རྡོ་ཀུབ།]]
+[[bg:Краставица]]
+[[ca:Cogombre]]
+[[cs:Okurka setá]]
+[[co:Cucumaru]]
+[[cy:Ciwcymbr]]
+[[da:Almindelig Agurk]]
+[[de:Gurke]]
+[[el:Αγγούρι]]
+[[myv:Куяр]]
+[[es:Cucumis sativus]]
+[[eo:Kukumo]]
+[[eu:Luzoker]]
+[[fa:خیار]]
+[[fr:Concombre]]
+[[gv:Cucowr]]
+[[ko:오이]]
+[[hi:खीरा]]
+[[hsb:Kórka]]
+[[hr:Krastavac]]
+[[io:Kukombro]]
+[[id:Mentimun]]
+[[it:Cucumis sativus]]
+[[he:מלפפון]]
+[[kn:ಸೌತೆಕಾಯಿ]]
+[[pam:Pipinu]]
+[[ka:კიტრი]]
+[[csb:Gùrka]]
+[[kk:Қияр]]
+[[ht:Konkonm]]
+[[ku:Xiyar]]
+[[la:Cucumis sativus]]
+[[lv:Gurķis]]
+[[lb:Kornischong]]
+[[lt:Paprastasis agurkas]]
+[[lij:Chigheummao]]
+[[hu:Uborka]]
+[[mk:Краставица]]
+[[ml:വെള്ളരി]]
+[[mr:काकडी]]
+[[ms:Timun]]
+[[mdf:Куяр]]
+[[mn:Өргөст хэмх]]
+[[nl:Komkommer]]
+[[ne:गोल काँक्रो]]
+[[ja:キュウリ]]
+[[no:Agurk]]
+[[nn:Agurk]]
+[[pnb:کھیرا]]
+[[pcd:Conconbe]]
+[[pl:Ogórek siewny]]
+[[pt:Pepino]]
+[[ksh:Jurk]]
+[[ro:Castravete]]
+[[qu:Kachun]]
+[[ru:Огурец обыкновенный]]
+[[simple:Cucumber]]
+[[sl:Navadna kumara]]
+[[sr:Краставац]]
+[[fi:Kurkku]]
+[[sv:Gurka]]
+[[ta:வெள்ளரிக்காய்]]
+[[te:దోసకాయలు]]
+[[th:แตงกวา]]
+[[to:Kiukamipā]]
+[[tr:Hıyar]]
+[[udm:Кияр]]
+[[uk:Огірок звичайний]]
+[[ur:کھیرا]]
+[[vi:Dưa chuột]]
+[[wuu:黄瓜]]
+[[yi:אוגערקע]]
+[[zh-yue:黃瓜]]
+[[bat-smg:Agorks]]
+[[zh:黄瓜]]

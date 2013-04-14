@@ -1,0 +1,727 @@
+{{About|the country}}
+{{pp-semi|small=yes}}
+{{pp-move-indef}}
+{{Infobox country
+|native_name = <span style="line-height:1.33em;">{{lang|pt|''República Federativa do Brasil''}} {{pt icon}}</span>
+|conventional_long_name = <span style="line-height:1.33em;">Federative Republic of Brazil</span>
+|common_name = Brazil
+|image_flag = Flag of Brazil.svg
+|image_coat = Coat of arms of Brazil.svg
+|symbol_type = Coat of arms
+|national_motto = ''"Ordem e Progresso"''<br /><small>{{pt icon}}<br />"Order and Progress"</small>
+|national_anthem = [[Brazilian National Anthem|Hino Nacional Brasileiro]]<br /><small>{{pt icon}}<br />"Brazilian National Anthem"</small>
+|other_symbol_type = [[Seal (emblem)|National seal]]
+|other_symbol = [[National Seal of Brazil|Selo Nacional do Brasil]] [[File:National Seal of Brazil (color).svg|15px]]<br /><small>{{pt icon}}<br />"National Seal of Brazil"</small>
+|image_map = Brazil (orthographic projection).svg
+|map_width = 220px
+|capital = [[Brasília]]
+|latd=15 |latm=45 |latNS=S
+|longd=47 |longm=57 |longEW=W
+|largest_city = [[São Paulo]]
+|official_languages = [[Portuguese language|Portuguese]]
+|ethnic_groups = 48.43% [[White Brazilian|White]]<br>43.80% [[Pardo|Brown]] ([[Multiracial#Brazil|Multiracial]])<br>6.84% [[Black Brazilian|Black]]<br>0.58% [[Asian Brazilian|Asian]]<br>0.28% [[Indigenous peoples in Brazil|Amerindian]]
+|ethnic_groups_year = 2008 <small><br /><ref name="PNADIBGE" /> </small>
+|demonym = Brazilian
+|government_type = [[Federalism|Federal]] [[Presidential system|presidential]] [[constitutional republic]] 
+|leader_title1 = [[President of Brazil|President]]
+|leader_name1 = [[Dilma Rousseff]] ([[Partido dos Trabalhadores|PT]])
+|leader_title2 = [[Vice-President of Brazil|Vice President]]
+|leader_name2 = [[Michel Temer]] ([[Brazilian Democratic Movement Party|PMDB]])
+|leader_title3 = [[List of Presidents of the Chamber of Deputies of Brazil|President of the Chamber of Deputies]]
+|leader_name3 = [[Marco Maia]] (PT)
+|leader_title4 = [[President of the Senate of Brazil|President of the Senate]]
+|leader_name4 = [[José Sarney]] (PMDB)
+|leader_title5 = [[Supreme Federal Court (Brazil)#Chief Justice|Chief Justice]]
+|leader_name5 = [[Cezar Peluso]]
+|legislature = [[National Congress of Brazil|National Congress]]
+|upper_house = [[Senate of Brazil|Federal Senate]]
+|lower_house = [[Chamber of Deputies of Brazil|Chamber of Deputies]]
+|sovereignty_type = [[Brazilian Declaration of Independence|Independence]]
+|sovereignty_note = from [[Kingdom of Portugal]]
+|established_event1 = [[Empire of Brazil|Declared]]
+|established_date1 = 7 September 1822
+|established_event2 = [[Empire of Brazil|Recognized]]
+|established_date2 = 29 August 1825
+|established_event3 = [[República Velha|Republic]]
+|established_date3 = 15 November 1889
+|established_event4 = [[Constitution of Brazil|Current constitution]]
+|established_date4 = 5 October 1988
+|area_rank = 5th
+|area_magnitude = 1 E12
+|area_km2 = 8514877
+|area_sq_mi = 3287597
+|percent_water = 0.65
+|area_label = Total
+|population_census = 190,732,694 <ref>IBGE. [http://www.ibge.gov.br/home/presidencia/noticias/noticia_visualiza.php?id_noticia=1766&id_pagina=1 Censo 2010: população do Brasil é de 190.732.694 pessoas].</ref>
+|population_census_rank = 5th
+|population_census_year = 2010
+|population_density_km2 = 22
+|population_density_sq_mi = 57
+|population_density_rank = 182nd
+|EPI = 82.7
+|EPI_rank = 34
+|EPI_year = 2008
+|GDP_PPP = $2.013 trillion<ref name=imf>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=223&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=83&pr.y=18 |title=Brazil|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank =
+|GDP_PPP_year = 2009
+|GDP_PPP_per_capita = $10,513<ref name=imf/>
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $1.574 trillion<ref name=imf/>
+|GDP_nominal_rank =
+|GDP_nominal_year = 2009
+|GDP_nominal_per_capita = $8,220<ref name=imf/>
+|GDP_nominal_per_capita_rank =
+|Gini = 49.3<ref>{{cite web|url=http://www.rumosustentavel.com.br/desigualdade-e-pobreza-continuaram-caindo-no-brasil-mesmo-com-crise-revela-ipea/ |title=  Instituto de Pesquisa Econômica Aplicada (Ipea) |publisher=Ipea |date= |accessdate=2010-12-15}}</ref>
+|Gini_year = 2009
+|Gini_category =
+|HDI = 0.699<ref name=HDI10>{{cite web|title=Table H: Human development index 2010 and its components|url=http://hdr.undp.org/en/media/HDR_2010_EN_Complete.pdf|format=PDF|accessdate=2010-11-02|publisher=UNDP| author=UNDP Human Development Report 2010}}</ref>
+|HDI_rank = 73th
+|HDI_year = 2010
+|HDI_category = <span style="color:#090;">high</span>
+|currency = [[Brazilian real|Real]] (R$)
+|currency_code = BRL
+|time_zone = [[Time in Brazil|BRT]]<ref name="timezones" />
+|utc_offset = [[UTC−02|-2]] to [[UTC−04|-4]]<ref name="timezones" />
+|time_zone_DST = [[Time in Brazil#Summer time|BRST]]
+|utc_offset_DST = [[UTC−02|-2]] to [[UTC−04|-4]]
+|date_format = dd/mm/yyyy ([[Common Era|CE]])
+|drives_on = right
+|cctld = [[.br]]
+|calling_code = [[Telephone numbers in Brazil|+55]]
+}}
+
+'''Brazil''' ({{pron-en|brəˈzɪl|en-us-Brazil.ogg}}; {{lang-pt|Brasil}}, {{IPA-pt|bɾaˈziw|IPA}}), officially the '''Federative Republic of Brazil'''<ref>As on for example the [http://www.brasil.gov.br/?set_language=en national website].</ref><ref name="Mugnier">{{cite journal|last=Mugnier|first=Clifford|date=January 2009|title=Grids & Datums – Federative Republic of Brazil|url=http://www.asprs.org/resources/GRIDS/01-2009-brazil.pdf}}</ref> ({{lang-pt|República Federativa do Brasil}}, {{Audio|Pt-br-República Federativa do Brasil.ogg|listen}}), is the largest country in [[South America]]. It is the world's fifth largest country, both by [[list of countries and outlying territories by total area|geographical area]] and [[list of countries by population|by population]].<ref name="CIA Geo"/><ref name="CIA People">{{cite web | title = People of Brazil | booktitle = The World Factbook | publisher = Central Intelligence Agency | year = 2008 | url = https://www.cia.gov/library/publications/the-world-factbook/geos/br.html | accessdate = 2008-06-03 }}</ref> It is the only [[Community of Portuguese Language Countries|Portuguese-speaking country]] in the [[Americas]] and the largest [[lusophone]] country in the world.<ref name="CIA Geo">{{cite web | title = Geography of Brazil | booktitle = The World Factbook | publisher = Central Intelligence Agency | year = 2008 | url = https://www.cia.gov/library/publications/the-world-factbook/geos/br.html | accessdate = 2008-06-03 }}</ref>
+
+Bounded by the [[Atlantic Ocean]] on the east, Brazil has a coastline of over {{km to mi|7491|abbrev=yes|precision=0}}.<ref name="CIA Geo"/> It is bordered on the north by [[Venezuela]], [[Guyana]], [[Suriname]] and the [[France|French]] overseas department of [[French Guiana]]; on the northwest by [[Colombia]]; on the west by [[Bolivia]] and [[Peru]]; on the southwest by [[Argentina]] and [[Paraguay]] and on the south by [[Uruguay]]. Numerous [[archipelago]]s form part of Brazilian territory, such as [[Fernando de Noronha]], [[Rocas Atoll]], [[Saint Peter and Saint Paul Archipelago|Saint Peter and Paul Rocks]], and [[Trindade and Martim Vaz]].<ref name="CIA Geo"/> It has borders with all other South American countries apart from [[Ecuador]] and [[Chile]].
+
+Brazil was a colony of [[Portugal]] from the landing of [[Pedro Álvares Cabral]] in 1500 until 1815, when it was elevated to United Kingdom with Portugal and Algarves. The colonial bond was in fact broken in 1808, when the capital of the Portuguese Kingdom was transferred from Lisbon to Rio de Janeiro, after Napoleon invaded Portugal.<ref name="CIA Intro">{{cite web | title = Introduction of Brazil | booktitle = The World Factbook | publisher = Central Intelligence Agency | year = 2008 | url = https://www.cia.gov/library/publications/the-world-factbook/geos/br.html | accessdate = 2008-06-03 }}</ref> The independence from Portugal was achieved in 1822. Initially independent as the [[Empire of Brazil]], the country has been a [[republic]] since 1889, although the [[bicameralism|bicameral]] legislature, now called [[National Congress of Brazil|Congress]], dates back to 1824, when the first constitution was ratified.<ref name="CIA Intro"/> Its current [[Constitution of Brazil|Constitution]] defines Brazil as a [[Federal republic|Federal Republic]].<ref name="Constituição">{{cite web | title = Brazilian Federal Constitution | publisher = Presidency of the Republic | year = 1988 | url = http://www.planalto.gov.br/ccivil_03/Constituicao/Constituiçao.htm | language = Portuguese | accessdate = 2008-06-03 }} {{cite web | title = Brazilian Federal Constitution | publisher = v-brazil.com | year = 2007 | url = http://www.v-brazil.com/government/laws/titleI.html | quote = Unofficial translate | accessdate = 2008-06-03 }}</ref> The Federation is formed by the union of the [[Brazilian Federal District|Federal District]], the 26 [[States of Brazil|States]], and the 5,564 [[Municipalities of Brazil|Municipalities]].<ref name="Constituição"/><ref>{{cite web | title = Territorial units of the municipality level | publisher = Brazilian Institute of Geography and Statistics | year = 2008 | url = http://www.sidra.ibge.gov.br/bda/territorio/tabunit.asp?n=6&t=2&z=t&o=4 | language = Portuguese | accessdate = 2008-06-03 }}</ref>
+
+The [[Economy of Brazil|Brazilian economy]] is the world's [[List of countries by GDP (nominal)|eighth largest]] economy by nominal [[Gross domestic product|GDP]]<ref name="siteresources.worldbank.org">"[http://siteresources.worldbank.org/DATASTATISTICS/Resources/GDP.pdf World Development Indicators database]" (PDF file), World Bank, 7 October 2009.</ref> and the [[List of countries by GDP (PPP)|seventh largest]] by [[purchasing power parity]].<ref>{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2001rank.html |title=CIA – The World Factbook – Country Comparisons – GDP (purchasing power parity) |publisher=Cia.gov |date= |accessdate=25 January 2011}}</ref> Brazil is one of the world's [[Economic growth|fastest growing]] major economies. Economic reforms have given the country new international recognition.<ref>{{cite news | last = Clendenning | first = Alan | title = Booming Brazil could be world power soon | page = 2 | publisher = [[USA Today]] – The Associated Press | date = 2008-04-17 | url = http://www.usatoday.com/money/economy/2008-04-17-310212789_x.htm | accessdate = 2008-12-12 }}</ref> Brazil is a founding member of the [[United Nations]], the [[G-20 major economies|G20]], [[CPLP]], [[Latin Union]], the [[Organization of Ibero-American States]], [[Mercosur|Mercosul]] and the [[Union of South American Nations]], and is one of the [[BRIC]] Countries. Brazil is also home to a diversity of [[Wildlife of Brazil|wildlife]], [[natural environment]]s, and extensive [[natural resource]]s in a variety of [[protected areas of Brazil|protected habitats]].<ref name="CIA Geo"/>
+
+==History==
+{{Main|History of Brazil}}
+
+===Etymology===
+{{Main|Name of Brazil}}
+The [[etymology]] of Brazil remains unclear. Traditionally, the word "Brazil" comes from the [[brazilwood]], a timber tree which many sailors traded from Brazilian regions to [[Europe]] in the 16th century.<ref name="BuenoTrintaSeis">{{Pt}} Eduardo Bueno, ''Brasil: uma História'' (São Paulo: Ática, 2003; ISBN 8508082134), p.36.</ref> In Portuguese brazilwood is called ''pau-brasil'', with the word ''brasil'' commonly given the etymology "red like an ember", formed from [[Latin]] ''brasa'' ("ember") and the suffix ''-il'' (from ''-iculum'' or ''-ilium'').<ref>[http://www.cnrtl.fr/etymologie/brésil CNRTL] - Centre National de Ressources Textuelles et Lexicales {{fr}}</ref><ref>[http://michaelis.uol.com.br/moderno/portugues/index.php?lingua=portugues-portugues&palavra=brasil Michaelis] - Moderno Dicionário da Língua Portuguesa {{pt}}</ref><ref>[http://aulete.uol.com.br/site.php?mdl=aulete_digital&op=loadVerbete&pesquisa=1&palavra=brasil iDicionário Aulete] {{pt}}</ref> This theory is taught as official in schools of Brazil and [[Portugal]], but some{{who|date=November 2010}} Brazilian scholars have postulated that the word is older, being found in the language of ancient [[Phoenicians]] though some think it has [[Celts|Celtic]] origins.<ref>{{Pt}} "[http://www.enciclopedia.com.pt/articles.php?article_id=486 República Federativa do Brasil]". Consulted on October 9, 2010.</ref> These people kept the trade of a red dye extracted from a mineral which operated mines in [[Iberia]] to [[Ireland]]. In fact, the [[Irish mythology|legendary Irish]] island of [[Hy-Brazil]] is seen by some{{who|date=November 2010}} (and was also to 16th century scholars) as one of the most likely etymological sources for "Brazil".<ref name="BuenoTrintaSeis" /> In the [[Guarani language]], an official language of [[Paraguay]], Brazil is called "[[Pindorama]]" — it was the name the [[Indigenous peoples in Brazil|natives]] gave to the region, meaning "land of the palm trees."
+
+===Portuguese colonization and territorial expansion===
+{{Main|Colonial Brazil}}
+{{See also|Indigenous peoples in Brazil|Slavery in Brazil}}
+The land now called Brazil was claimed by Portugal in April 1500, on the arrival of the Portuguese fleet commanded by [[Pedro Álvares Cabral]].<ref name="Boxer, p. 98">Boxer, p.&nbsp;98.</ref> The Portuguese encountered [[Stone Age|stone age]] natives divided into several tribes, most of whom shared the same [[Tupi-Guarani]] linguistic family, and fought among themselves.<ref name="Boxer, p.&nbsp;100">Boxer, p. 100.</ref>
+
+Colonization was effectively begun in 1534—though the first settlement was founded in 1532—, when [[Don (honorific)|Dom]] [[John III of Portugal|João III]] divided the territory into twelve hereditary captaincies,<ref>Boxer, pp.&nbsp;100–101.</ref><ref name="Skidmore, p.&nbsp;27">Skidmore, p.&nbsp;27.</ref> but this arrangement proved problematic and in 1549 the king assigned a [[Governor-General]] to administer the entire colony.<ref name="Skidmore, p.&nbsp;27"/><ref>Boxer, p.&nbsp;101.</ref> The Portuguese assimilated some of the native tribes<ref>Boxer, p.&nbsp;108</ref> while others were enslaved or exterminated in long wars or by European diseases to which they had no immunity.<ref name="Boxer, p.&nbsp;102">Boxer, p.&nbsp;102.</ref><ref>Skidmore, pp.&nbsp;30, 32.</ref> By the mid-16th century, sugar had become Brazil's most important export<ref name="Boxer, p.&nbsp;100"/><ref>Skidmore, p.&nbsp;36.</ref> and the Portuguese imported African slaves<ref>Boxer, p.&nbsp;110</ref><ref>Skidmore, p.&nbsp;34.</ref> to cope with the increasing international [[demand (economics)|demand]].<ref name="Boxer, p.&nbsp;102"/><ref>Skidmore, pp.&nbsp;32–33.</ref>
+[[File:Meirelles-primeiramissa2.jpg|thumb|left|The first Christian mass in Brazil, 1500.]]
+Through wars against the French, the Portuguese slowly expanded their territory to the southeast, taking [[Rio de Janeiro]] in 1567, and to the northwest, taking [[São Luís, Maranhão|São Luís]] in 1615.<ref>Bueno, pp.&nbsp;80–81.</ref> They sent military expeditions to the [[Amazon Rainforest|Amazon rainforest]] and conquered British and Dutch strongholds,<ref>[http://www.s4ulanguages.com/wic.html Facsimiles of multiple original documents] relating about the events in Brazil in the 17th century that led to a Dutch influence and their final defeat</ref> founding villages and forts from 1669.<ref>Calmon, p.&nbsp;294.</ref> In 1680 they reached the far south and founded [[Colonia del Sacramento|Sacramento]] on the bank of the [[Río de la Plata|Rio de la Plata]], in the Eastern Strip region (present-day [[Uruguay]]).<ref>Bueno, p.&nbsp;86.</ref>
+
+At the end of the 17th century, sugar exports started to decline<ref>Boxer, p.&nbsp;164.</ref> but beginning in the 1690s, the discovery of gold by [[Bandeirantes|explorers]] in the region that would later be called [[Minas Gerais]] (General Mines) in current [[Mato Grosso]] and [[Goiás]], saved the colony from imminent collapse.<ref>Boxer, pp.&nbsp;168, 170.</ref> From all over Brazil, as well as from Portugal, thousands of immigrants came to the mines.<ref>Boxer, p.&nbsp;169.</ref>
+
+The Spanish tried to prevent Portuguese expansion into the territory that belonged to them according to the [[Treaty of Tordesillas|1494 Treaty of Tordesillas]], and succeeded in conquering the [[Banda Oriental|Eastern Strip]] in 1777. However, this was in vain as the [[First Treaty of San Ildefonso|Treaty of San Ildefonso]], signed in the same year, confirmed Portuguese sovereignty over all lands proceeding from its territorial expansion, thus creating most of the current Brazilian borders.<ref>Boxer, p.&nbsp;207.</ref>
+
+In 1808, the Portuguese royal family, fleeing the troops of the French Emperor [[Napoleon I]] that were invading Portugal and most of Central Europe, [[Transfer of the Portuguese Court to Brazil|established themselves]] in the city of Rio de Janeiro, which thus became the seat of the entire [[Portuguese Empire]].<ref name="Boxer, p.&nbsp;213">Boxer, p.&nbsp;213.</ref> In 1815 [[John VI of Portugal|Dom João VI]], then regent on behalf of his incapacitated mother, elevated Brazil from colony to sovereign [[United Kingdom of Portugal, Brazil and the Algarves|Kingdom united with Portugal]].<ref name="Boxer, p.&nbsp;213"/> In 1809 the Portuguese invaded [[French Guiana]] (which was returned to France in 1817)<ref>Bueno, p.&nbsp;145.</ref> and in 1816 the Eastern Strip, subsequently renamed [[Cisplatina]]<ref>Calmon (2002), p.&nbsp;191.</ref> (but Brazil [[Argentina-Brazil War|lost it in 1828]] when it became an independent nation known as [[Uruguay]]).<ref>Barman (1999), pp.18, 27</ref>
+
+===Independence and empire===
+{{Main|Brazilian Independence|Empire of Brazil}}
+King [[John VI of Portugal|João VI]] returned to Europe on 26 April 1821, leaving his elder son Prince [[Pedro I of Brazil|Pedro de Alcântara]] as regent to rule Brazil.<ref>Lustosa, pp.&nbsp;109–110</ref> The Portuguese government attempted to turn Brazil into a colony once again, thus depriving it of its achievements since 1808.<ref>Lustosa, pp.&nbsp;117–119</ref> The Brazilians refused to yield and Prince Pedro stood by them declaring the country's independence from Portugal on 7 September 1822.<ref>Lustosa, pp.&nbsp;150–153</ref> On 12 October 1822, Pedro was declared the first Emperor of Brazil and crowned [[Pedro I of Brazil|Dom Pedro I]] on 1 December 1822.<ref>Vianna, p.&nbsp;418</ref>
+[[File:Independência ou Morte.jpg|thumb|300px|left|Declaration of the [[Brazilian Declaration of Independence|Brazilian independence]] by Emperor [[Pedro I of Brazil|Pedro I]] on 7 September 1822.]]
+
+At that time almost all Brazilians were in favor of a monarchy and [[republicanism]] had little support.<ref>Hendrik Kraay ''apud'' Lorenzo Aldé, ''Revista de História da Biblioteca Nacional,'' issue 50, year 5 (Rio de Janeiro: SABIN, 2009), p.&nbsp;20</ref><ref>Sérgio Buarque de Holanda, ''O Brasil Monárquico: o processo de emancipação'', 4th ed. (São Paulo: Difusão Européia do Livro, 1976), p.&nbsp;403</ref> The subsequent [[Brazilian Declaration of Independence|Brazilian War of Independence]] spread through almost the entire territory, with battles in the northern, northeastern, and southern regions.<ref>Diégues 2004, pp.&nbsp;168, 164, 178</ref> The last Portuguese soldiers surrendered on 8 March 1824<ref>Diégues 2004, pp.&nbsp;179–180</ref> and independence was recognized by Portugal on 29 August 1825.<ref>Lustosa, p.&nbsp;208</ref>
+
+The first Brazilian constitution was promulgated on 25 March 1824, after its acceptance by the municipal councils across the country.<ref>Vianna, p.&nbsp;140</ref><ref>José Murilo de Carvalho, ''A Monarquia brasileira'' (Rio de Janeiro: Ao Livro Técnico, 1993), p.&nbsp;23</ref><ref>Calmon (2002), p.&nbsp;189</ref><ref name="Vainfas, p.&nbsp;170">Vainfas, p.&nbsp;170</ref> Pedro I abdicated on 7 April 1831 and went to Europe to [[Liberal Wars|reclaim his daughter’s crown]], leaving behind his five year old son and heir, who was to become [[Pedro II of Brazil|Dom Pedro II]].<ref>Lyra (v.1), p.&nbsp;17</ref> As the new emperor could not exert his constitutional prerogatives until he reached maturity, a [[regent|regency]] was created.<ref>Carvalho 2007, p.&nbsp;21</ref>
+
+Disputes between political factions led to rebellions and an unstable, almost anarchical, regency.<ref>Miriam Dohlnikoff, ''Pacto imperial: origens do federalismo no Brasil do século XIX'' (São Paulo: Globo, 2005), p.&nbsp;206</ref> The rebellious factions, however, were not in revolt against the monarchy,<ref name="Carvalho 2007, p.&nbsp;43">Carvalho (2007), p.&nbsp;43</ref><ref>Souza, p.&nbsp;326</ref> even though some declared the secession of the provinces as independent republics, but only so long as Pedro II was a minor.<ref>Janotti, pp.&nbsp;171–172</ref> Because of this, Pedro II was prematurely declared of age and "Brazil was to enjoy nearly half a century of internal peace and rapid material progress."<ref>Munro, p.&nbsp;273</ref>
+[[File:Americo-avaí.jpg|thumb|300px|right|Brazilian forces (in blue uniform) engage the Paraguayan army (some in red uniform and other shirtless) during the [[War of the Triple Alliance]].]]
+
+Brazil won three international wars during the 58-year reign of Pedro II (the [[Platine War]], the [[Uruguayan War]] and the [[War of the Triple Alliance]])<ref>Lyra (v.1), pp.&nbsp;164, 225, 272</ref> and witnessed the consolidation of [[representative democracy]], mainly due to successive [[election]]s and unrestricted [[freedom of the press]].<ref>Carvalho (2007), pp.&nbsp;9, 222</ref> Most importantly, slavery was extinguished after a slow but steady process that began with the end of the international traffic in slaves in 1850<ref>Lyra (v.1), p.&nbsp;166</ref> and ended with the complete abolition of slavery in 1888.<ref>Lyra (v.3), p.&nbsp;62</ref> The slave population had been in decline since Brazil's independence: in 1823, 29% of the Brazilian population were slaves but by 1887 this had fallen to 5%.<ref>Vainfas, p.&nbsp;18</ref>
+
+When the monarchy was overthrown on 15 November 1889<ref name="Munro, p.&nbsp;280"/> there was little desire in Brazil to change the [[form of government]]<ref>George Ermakoff, ''Rio de Janeiro – 1840–1900 – Uma crônica fotográfica'' (Rio de Janeiro: G. Ermakoff Casa Editorial, 2006), p.&nbsp;189</ref> and Pedro II was at the height of his popularity among his subjects.<ref>Schwarcz, p.&nbsp;444</ref><ref>Vainfas, p.&nbsp;201</ref> However, he "bore prime, perhaps sole, responsibility for his own overthrow."<ref>Barman (1999), p.&nbsp;399</ref> After the death of his two sons, Pedro believed that "the imperial regime was destined to end with him."<ref>Barman (1999), p.&nbsp;130</ref> He cared little for the regime's fate<ref>Lyra (v.3), p.&nbsp;126</ref><ref>Barman (1999), p.&nbsp;361</ref> and so neither did anything, nor allowed anyone else to do anything, to prevent the military coup, backed by former slave owners who resented the abolition of slavery.<ref>Ricardo Salles, ''Nostalgia Imperial'' (Rio de Janeiro: Topbooks, 1996), p.&nbsp;194 – However, the monarchist reaction after the fall of the empire and the subsequent exile of the Imperial Family "was not small and even less was its repression".</ref><ref>Lyra (v.3), p.&nbsp;99</ref><ref>Schwarcz, pp.&nbsp;450, 457</ref>
+
+===Old republic and Vargas era===
+{{Main|República Velha|Estado Novo (Brazil)|Brazilian Second Republic}}
+
+[[File:Revolução de 1930.jpg|thumb|The Brazilian coup d'état of 1930 raised [[Getúlio Vargas]] (center with military uniform but no hat) to power. He would rule the country [[Estado Novo (Brazil)|for fifteen years]].]]
+
+The "early republican government was little more than a military dictatorship. The army dominated affairs both at Rio de Janeiro and in the states. Freedom of the press disappeared and elections were controlled by those in power".<ref name="Munro, p.&nbsp;280">Munro, p.&nbsp;280</ref> In 1894 the republican civilians rose to power, opening a "prolonged cycle of civil war, financial disaster, and government incompetence."<ref name="Barman 1999, p.&nbsp;403">Barman (1999), p.&nbsp;403</ref> By 1902, the government began a return to the policies pursued during the Empire, policies that promised peace and order at home and a restoration of Brazil's prestige abroad.<ref name="Barman 1999, p.&nbsp;403"/> and was successful in negotiating several treaties that expanded (with the purchase of [[Acre (state)|Acre]]) and secured the Brazilian boundaries.<ref>Barman (1999), p.&nbsp;404</ref>
+
+After the [[History_of_Brazil_(1889–1930)#Brazil_in_World_War_I|events that during the 1910s]] marked the Brazilian political life, including [[Brazil during World War I|the small role during World War I]],<ref>Scheina, Robert L. ''Latin America's Wars Volume II: The Age of the Professional Soldier, 1900-2001''. Potomac Books, 2003 ISBN 1574884522 '''Part 4; Chapter 5 - World War I and Brazil, 1917-18'''.</ref> in the 1920s the country was plagued by [[Tenente revolts|several rebellions]] caused by young military officers.<ref>Skidmore, p.&nbsp;153</ref><ref>Bueno, pp.&nbsp;296–301</ref> By 1930, the regime was weakened and demoralized, which allowed the defeated presidential candidate [[Getúlio Vargas]] to lead a [[Brazilian Revolution of 1930|coup d'état]] and assume the presidency.<ref>Skidmore, p.&nbsp;154</ref> Vargas was supposed to assume the presidency temporarily but instead, he closed the National Congress, extinguished the Constitution, ruled with [[State of emergency|emergency powers]] and replaced the states' governors with his supporters.<ref>Skidmore, pp.&nbsp;155–156</ref><ref>Bueno, pp.&nbsp;328 and 331</ref>
+
+In 1935 [[Communism|Communists]] rebelled across the country and made an unsuccessful bid for power.<ref>Fausto (2005), p.&nbsp;249</ref> The communist threat, however, served as an excuse for Vargas to launch another coup d'état in 1937 and Brazil became [[Estado Novo (Brazil)|a full dictatorship]].<ref>Fausto (2005), p.&nbsp;267</ref><ref>Skidmore, p.&nbsp;162</ref> The repression of the opposition was brutal with more than 20,000 people imprisoned, [[Internment#Internment camps|internment camps]] created for political prisoners in distant regions of the country, widespread torture by the government agents of repression, and censorship of the press.<ref>Bueno, p.&nbsp;336</ref><ref>Skidmore, p.&nbsp;164</ref>
+
+Brazil remained neutral during the early years of [[World War II]] until the government declared war against the [[Axis powers]] in 1942.<ref>Fausto (2005), p.&nbsp;272</ref> Vargas then forced [[German Brazilian|German]], [[Japanese Brazilian|Japanese]] and [[Italian Brazilian|Italian]] immigrants into [[Concentration camps|concentration camp]]s,<ref>Dietrich, Ana Maria in ''História Viva'' magazine, issue 67, year VI, 2009, p.&nbsp;61</ref> and, in 1944, [[Brazilian Expeditionary Force|sent troops to the battlefields in Italy]].<ref>Bueno, pp.&nbsp;343–344</ref><ref>Skidmore, p.&nbsp;173</ref> With the allied victory in 1945 and the end of the Nazi-fascist regimes in Europe, Vargas's position became unsustainable and he was swiftly overthrown in a military coup.<ref>Fausto (2005), p.&nbsp;281</ref> Democracy [[Brazilian Second Republic|was reinstated]] and General [[Eurico Gaspar Dutra]] was elected president and took office in 1946.<ref>Skidmore, pp.&nbsp;182–183</ref> Vargas returned to power in 1951, this time democratically elected, but he was incapable of either governing under a democracy or of dealing with an active opposition, and he committed suicide in 1954.<ref>Bueno, pp.&nbsp;346–347</ref><ref>Skidmore, pp.&nbsp;188–194</ref>
+
+===Military regime and contemporary era===
+{{Main|Military dictatorship (Brazil)|History of Brazil since 1985}}
+Several brief interim governments succeeded after Vargas's suicide.<ref>Skidmore, p.&nbsp;201</ref> [[Juscelino Kubitschek de Oliveira|Juscelino Kubitscheck]] became president in 1956 and assumed a conciliatory posture towards the political opposition that allowed him to govern without major crises.<ref>Skidmore, pp.&nbsp;202–203</ref> The economy and industrial sector grew remarkably,<ref>Skidmore, p.&nbsp;204</ref> but his greatest achievement was the construction of the new capital city of [[Brasília]], inaugurated in 1960.<ref>Skidmore, pp.&nbsp;204–205</ref> His successor was [[Jânio Quadros]], who resigned in 1961 less than a year after taking office.<ref>Skidmore, pp.&nbsp;209–210</ref> His vice-president, [[João Goulart]], assumed the presidency, but aroused strong political opposition<ref>Skidmore, p.&nbsp;210</ref> and was [[1964 Brazilian coup d'état|deposed in April 1964 by a coup]] that resulted in a [[Brazilian military government|military regime]].<ref>Fausto (2005), p.&nbsp;397</ref>
+
+The new regime was intended to be transitory<ref>Gaspari, ''A Ditadura Envergonhada'', pp.&nbsp;141–142.</ref> but it gradually closed in on itself and became a full dictatorship with the promulgation of the Fifth Institutional Act in 1968.<ref name="Gaspari p.35">Gaspari, ''A Ditadura Envergonhada'', p.&nbsp;35.</ref> The repression of the dictatorship's opponents, including urban guerrillas,<ref>Elio Gaspari, ''A ditadura escancarada'' (São Paulo: Companhia das Letras, 2002), p.&nbsp;193.</ref> was harsh, but not as brutal as in other Latin American countries.<ref>Skidmore, p.&nbsp;239</ref> Due to the extraordinary economic growth, known as an "economic miracle", the regime reached its highest level of popularity in the years of repression.<ref>Fausto (2005), p.&nbsp;422</ref>
+
+[[File:Inauguration of Luiz Inácio Lula da Silva in 2003.jpeg|thumb|left|The transition from [[Fernando Henrique Cardoso]] to [[Luiz Inácio Lula da Silva|Luís Inácio Lula da Silva]] revealed that Brazil had finally succeeded in achieving its long-sought political stability.]]
+
+General [[Ernesto Geisel]] became president in 1974 and began his project of re-democratization through a process that he said would be "slow, gradual and safe."<ref>Bueno, p.&nbsp;379.</ref><ref>Fausto (2005), p.&nbsp;455.</ref> Geisel ended the military indiscipline that had plagued the country since 1889,<ref>Gaspari, ''A Ditadura Envergonhada'', pp.&nbsp;34–35.</ref> as well as the torture of political prisoners, censorship of the press,<ref>Gaspari, ''A Ditadura Envergonhada'', pp.&nbsp;35–36.</ref> and finally, the dictatorship itself, after he extinguished the Fifth Institutional Act.<ref name="Gaspari p.35"/> However, the military regime continued, under his chosen successor General [[João Baptista de Oliveira Figueiredo|João Figueiredo]], to complete the transition to full democracy.<ref>Bueno, p.&nbsp;382.</ref>
+
+The civilians fully returned to power in 1985 when [[José Sarney]] assumed the presidency<ref>Fausto (2005), p.&nbsp;460.</ref> but, by the end of his term, he had become extremely unpopular due to the uncontrollable economic crisis and unusually high inflation.<ref>Fausto (2005), pp.&nbsp;464–465.</ref> Sarney's unsuccessful government allowed the election in 1989 of the almost unknown [[Fernando Collor de Mello|Fernando Collor]], who was subsequently impeached by the National Congress in 1992.<ref>Fausto (2005), pp.&nbsp;465, 475.</ref> Collor was succeeded by his Vice-President [[Itamar Franco]], who appointed [[Fernando Henrique Cardoso]] as Minister of Finance.
+
+Cardoso produced a highly successful [[Plano Real]] (Royal or Real Plan)<ref>The name of the current Brazilian currency came both from the Real Unity of Value (a transition currency) and from an [[Brazilian real#First real, 1690-1942|older currency that existed until 1942]]. In Portuguese it is called "Real", meaning "royal", as it originated in Portugal, then a monarchy (Skidmore, p.&nbsp;311).</ref> that granted stability to the Brazilian economy<ref>Fausto (2005), p.&nbsp;482.</ref> and he was elected as president in 1994 and again in 1998.<ref>Fausto (2005), p.&nbsp;474.</ref> The peaceful transition of power to [[Luiz Inácio Lula da Silva|Luís Inácio Lula da Silva]], who was elected in 2002 and re-elected in 2006, proved that Brazil had finally succeeded in achieving its long-sought political stability.<ref>Fausto (2005), p.&nbsp;502.</ref>
+
+==Geography==
+{{Main|Geography of Brazil}}
+{{See also|List of countries and outlying territories by total area}}
+[[File:Brazil topo.jpg|thumb|left|Topography map of Brazil.]]
+Brazil occupies a large area along the eastern coast of South America and includes much of the continent's interior,<ref name="Encarta 6">{{cite encyclopedia | title = Land and Resources | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342/Brazil.html#s1 | accessdate = 2008-06-11 |archiveurl=http://www.webcitation.org/5kwQHrh6l|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref> sharing land borders with [[Uruguay]] to the south; [[Argentina]] and [[Paraguay]] to the southwest; [[Bolivia]] and [[Peru]] to the west; [[Colombia]] to the northwest; and [[Venezuela]], [[Suriname]], [[Guyana]] and the [[France|French]] overseas department of [[French Guiana]] to the north. It shares a border with every country in South America except for [[Ecuador]] and [[Chile]]. It also encompasses a number of oceanic [[archipelago]]s, such as [[Fernando de Noronha]], [[Rocas Atoll]], [[Saint Peter and Saint Paul Archipelago|Saint Peter and Paul Rocks]], and [[Trindade and Martim Vaz]].<ref name="CIA Geo"/> Its size, relief, climate, and natural resources make Brazil geographically diverse.<ref name="Encarta 6"/> Including its [[Altantic Ocean|Atlantic]] islands, Brazil lies between latitudes [[6th parallel north|6°N]] and [[34th parallel south|34°S]], and longitudes [[28th meridian west|28°]] and [[74th meridian west|74°W]].
+
+Brazil is the [[List of countries and outlying territories by total area|fifth largest]] country in the world, after [[Russia]], [[Canada]], [[People's Republic of China|China]] and the [[United States]], and third largest in the Americas; with a total area of {{km2 to mi2|8514876.599|abbrev=yes|precision=0}},<ref name = "Official Area">[http://www.ibge.gov.br/home/geociencias/cartografia/default_territ_area.shtm Official Area (In Portuguese)] IBGE: Instituto Brasileiro de Geografia e Estatística. Retrieved 2010-01-08.</ref> including {{km2 to mi2|55455|abbrev=yes|precision=0}} of water.<ref name="CIA Geo"/> It spans three [[time zone]]s; from [[UTC−04|UTC-4]] in the western states, to [[UTC−03|UTC-3]] in the eastern states (and the official time of Brazil) and [[UTC−02|UTC-2]] in the [[List of islands of Brazil|Atlantic islands]].<ref name="timezones">{{cite web | title = Hora Legal Brasileira | publisher = Observatório Nacional | url = http://pcdsh01.on.br/Fusbr.htm | accessdate = 2009-02-21 }}</ref>
+
+Brazilian topography is also diverse and includes [[hill]]s, [[mountain]]s, [[plain]]s, [[highland (geography)|highlands]], and [[Shrubland|scrubland]]s. Much of the terrain lies between {{convert|200|m}} and {{convert|800|m}} in elevation.<ref name="Encarta 7">{{cite encyclopedia | title = Natural Regions | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342/Brazil.html#s1 | accessdate = 2008-06-11 |archiveurl=http://www.webcitation.org/5kwQHrh6l|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref> The main upland area occupies most of the southern half of the country.<ref name="Encarta 7"/> The northwestern parts of the plateau consist of broad, rolling terrain broken by low, rounded hills.<ref name="Encarta 7"/>
+
+The southeastern section is more rugged, with a complex mass of ridges and [[mountain range]]s reaching elevations of up to {{convert|1200|m}}.<ref name="Encarta 7"/> These ranges include the [[Mantiqueira Mountains|Mantiqueira]] and [[Espinhaço Mountains|Espinhaço]] mountains and the [[Serra do Mar]].<ref name="Encarta 7"/> In the north, the [[Guiana Shield|Guiana Highlands]] form a major [[drainage divide]], separating rivers that flow south into the [[Amazon Basin]] from rivers that empty into the [[Orinoco|Orinoco River]] system, in Venezuela, to the north. The highest point in Brazil is the [[Pico da Neblina]] at {{convert|2994|m}}, and the lowest is the Atlantic Ocean.<ref name="CIA Geo"/>
+
+Brazil has a dense and complex system of rivers, one of the world's most extensive, with eight major drainage basins, all of which drain into the Atlantic.<ref name="Encarta 8">{{cite encyclopedia | title = Rivers and Lakes | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342/Brazil.html | accessdate = 2008-06-11 |archiveurl=http://www.webcitation.org/5kwQHBKyV|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref> Major rivers include the [[Amazon River|Amazon]] (the world's second-longest river and the largest in terms of volume of water), the [[Paraná River|Paraná]] and its major tributary the [[Iguazu River|Iguaçu]] (which includes the [[Iguazu Falls]]), the [[Rio Negro (Amazon)|Negro]], [[São Francisco River|São Francisco]], [[Xingu River|Xingu]], [[Madeira River|Madeira]] and [[Tapajós]] rivers.<ref name="Encarta 8"/>
+
+===Climate===
+{{Main|Climate of Brazil}}
+{{double image|right|1988b.jpg|183|Cabedelo-pb.JPG|170|[[Snow]] in [[São Joaquim]], [[Santa Catarina (state)|Santa Catarina]] (South) and [[tropical climate]] in [[Cabedelo]], [[Paraíba|Paraiba]] (Northeast).}}
+
+The climate of Brazil comprises a wide range of weather conditions across a large area and varied topography, but most of the country is tropical.<ref name="CIA Geo"/> According to the [[Köppen climate classification|Köppen system]], Brazil hosts five major climatic subtypes: [[Tropical rainforest climate|equatorial]], [[tropical climate|tropical]], [[Semi-arid climate|semiarid]], [[tropical climate|highland tropical]], [[Temperateness|temperate]], and [[Subtropics|subtropical]]. The different climatic conditions produce environments ranging from [[Tropical and subtropical moist broadleaf forests|equatorial rainforest]]s in the north and semiarid deserts in the northeast, to [[temperate coniferous forest]]s in the south and [[tropical and subtropical grasslands, savannas, and shrublands|tropical savannas]] in central Brazil.<ref name="BBC Weather">{{cite web | title = Brazil | work = Country Guide | publisher = BBC Weather | url = http://www.bbc.co.uk/weather/world/country_guides/results.shtml?tt=TT005220 | accessdate = 2008-06-11 }}</ref> Many regions have starkly different [[microclimate]]s.<ref name="Encarta 9">{{cite encyclopedia | title = Natural Regions | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_2/Brazil.html | accessdate = 2008-06-11 |archiveurl=http://www.webcitation.org/5kwQIOd3Z|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref><ref name="BT">{{cite web | title = Temperature in Brazil | publisher = Brazil Travel | url = http://www.v-brazil.com/information/geography/temperature-graphs.html | accessdate = 2008-06-11 }}</ref>
+
+An equatorial climate characterizes much of northern Brazil. There is no real [[dry season]], but there are some variations in the period of the year when most rain falls.<ref name="BBC Weather"/> Temperatures average {{convert|25|°C}},<ref name="BT"/> with more significant temperature variation between night and day than between seasons.<ref name="Encarta 9"/>
+
+Over central Brazil rainfall is more seasonal, characteristic of a savanna climate.<ref name="Encarta 9"/> This region is as extensive as the Amazon basin but has a very different climate as it lies farther south at a higher altitude.<ref name="BBC Weather"/> In the interior northeast, seasonal rainfall is even more extreme. The semiarid climatic region generally receives less than {{convert|800|mm|1}} of rain,<ref>{{cite web|url=http://www.cpatsa.embrapa.br/servicos/dadosmet/cem-anual.html|archiveurl=http://web.archive.org/web/20070820215606/http://www.cpatsa.embrapa.br/servicos/dadosmet/cem-anual.html|archivedate=2007-08-20|title=Annual averages of Mandacaru Agro-meteorological station|author=[[Empresa Brasileira de Pesquisa Agropecuária|Embrapa]]|language=Portuguese|accessdate=2008-10-21}}</ref> most of which generally falls in a period of three to five months of the year<ref>{{cite web|url=http://botany.si.edu/projects/cpd/sa/sa19.htm |title=CPD: South America, Site SA19, Caatinga of North-eastern Brazil, Brazil |publisher=Botany.si.edu |date= |accessdate=2009-10-29}}</ref> and occasionally less than this, creating long periods of drought.<ref name="Encarta 9"/> Brazil's 1877–78 ''Grande Seca'' (Great Drought), the most severe ever recorded in Brazil,<ref>"[http://origin.cdc.gov/eid/content/15/6/916.htm Drought, Smallpox, and Emergence of Leishmania braziliensis in Northeastern Brazil]". Centers for Disease Control and Prevention (CDC).</ref> caused approximately half a million deaths.<ref>"[http://press.princeton.edu/chapters/s8857.html Ó Gráda, C.: Famine: A Short History]". Princeton University Press.</ref>  The one from 1915 was devastating too.<ref>"[http://www.fao.org/DOCREP/005/W8514E/W8514E29.htm Inland fishery enhancements]". FAO.</ref>
+
+South of Bahia, near São Paulo, the distribution of rainfall changes, with rain falling throughout the year .<ref name="BBC Weather"/> The south enjoys [[Temperateness|temperate conditions]], with cool winters and average annual temperatures not exceeding {{convert|18|°C|1}};<ref name="BT"/> winter frosts are quite common, with occasional snowfall in the higher areas.<ref name="BBC Weather"/><ref name="Encarta 9"/>
+
+===Biodiversity===
+{{Main|Wildlife of Brazil|Deforestation in Brazil}}
+{{double image|right|Ara ararauna -Blue-and-gold Macaw -head and neck.jpg|200|Amazonie.jpg|200|The [[Blue-and-yellow Macaw|Macaw]] is a typical animal of Brazil. The country has one of the world's most diverse [[List of birds of Brazil|populations of birds]] and [[List of amphibians in Brazil|amphibians]]. In the right the [[Amazon Rainforest]], the largest tropical forest in the world..}}
+Brazil's large territory comprises different ecosystems, such as the [[Amazon Rainforest]], recognized as having the greatest [[Biodiversity|biological diversity]] in the world,<ref name="WWF">{{cite web | title = One fifth of the world's freshwater | work = Amazon | publisher = World Wide Fund for Nature | date = 2007-08-06 | url = http://www.panda.org/about_our_earth/about_freshwater/rivers/amazon/ | accessdate = 2008-06-12 }}</ref> with the [[Atlantic Forest]] and the [[Cerrado]], sustaining the greatest biodiversity.<ref name="Encarta 10">{{cite encyclopedia | title = Plant and Animal Life | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_2/Brazil.html | accessdate = 2008-06-12 |archiveurl=http://www.webcitation.org/5kwQIOd3Z|archivedate=2009-10-31|deadurl=yes}}  {{Dubious|date=January 2010}}<!-- tertiary source --></ref> In the south, the [[Araucaria]] [[Temperate coniferous forest|pine forest]] grows under temperate conditions.<ref name="Encarta 10"/>
+
+The rich wildlife of Brazil reflects the variety of natural habitats. Much of it, however, remains largely undocumented, and new species are regularly found.{{Citation needed|date=January 2010}}<!-- The footnote previously here linked to http://web.archive.org/web/20080124100830/http://www.panda.org/about_wwf/what_we_do/forests/about_forests/importance/habitats/index.cfm , which does not say this. --> Scientists estimate that the total number of [[Wildlife of Brazil|plant]] and [[Wildlife of Brazil|animal species]] in Brazil could approach four million.<ref name="Encarta 10"/>
+
+Larger mammals include [[Cougar|pumas]], [[jaguar]]s, [[ocelot]]s, rare [[Bush Dog|bush dog]]s, and [[fox]]es; [[peccary|peccaries]], [[tapir]]s, [[anteater]]s, [[sloth]]s, [[opossum]]s, and [[armadillo]]s are abundant. [[Deer]] are plentiful in the south, and many species of [[New World monkey]]s are found in the northern [[Rainforest|rain forests]].<ref name="Encarta 10"/><ref>{{cite news | title = Atlantic Forest, Brazil | work = Map: Biodiversity hotspots | publisher = BBC News | date = 2004-10-01 | url = http://news.bbc.co.uk/2/hi/science/nature/3707888.stm#brazil | accessdate = 2008-06-12 }}</ref> Concern for the environment has grown in response to global interest in [[List of environmental issues|environmental issues]].<ref name="Encarta 11">{{cite encyclopedia | title = Environmental Issues | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_2/Brazil.html | accessdate = 2008-06-12 |archiveurl=http://www.webcitation.org/5kwQIOd3Z|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref>
+
+===Environment===
+The natural heritage of Brazil is severely threatened by cattle ranching and agriculture, logging, mining, resettlement, oil and gas extraction, over-fishing, wildlife trade, dams and infrastructure, [[water pollution|water contamination]], [[climate change]], fire, and [[invasive species]].<ref name="WWF"/> In many areas of the country, the natural environment is threatened by development.<ref>{{cite web | title = Under threat | publisher = Greenpeace | url = http://www.greenpeace.org/international/campaigns/forests/south-america/under-threat | accessdate = 2008-06-12 }}</ref> Construction of highways has opened up previously remote areas for agriculture and settlement; dams have flooded valleys and inundated wildlife habitats; and mines have scarred and polluted the landscape.<ref name="Encarta 11"/><ref>{{cite web | title = Amazon destruction: six football fields a minute | publisher = Greenpeace | url = http://www.greenpeace.org/international/news/amazon-destruction | archiveurl = http://web.archive.org/web/20080405192352/http://www.greenpeace.org/international/news/amazon-destruction | archivedate = 2008-04-05 | accessdate = 2008-06-12 }}</ref> At least 70 dams are said to be planned for the Amazon region, including controversial [[Belo Monte Dam|Belo Monte]] hydroelectric dam.<ref>"[http://news.bbc.co.uk/2/hi/americas/8492577.stm Brazil grants environmental licence for Belo Monte dam]". ''BBC News''. February 2, 2010.</ref>
+
+==Politics==
+{{Main|Politics of Brazil}}
+[[File:Congresso Nacional.jpg|right|thumb|The [[National Congress of Brazil|National Congress]] in [[Brasília]], the [[Capital city|capital]] of Brazil.]]
+The Brazilian Federation is the "indissoluble union" of three distinct political entities: the States, the Municipalities and the Federal District.<ref name="Constituição"/> The Union, the states and the Federal District, and the municipalities, are the "spheres of government". The Federation is set on five fundamental principles:<ref name="Constituição"/> [[sovereignty]], [[citizenship]], [[dignity]] of human beings, the social values of labour and freedom of enterprise, and [[Pluralism (political philosophy)|political pluralism]]. The classic tripartite branches of government ([[executive (government)|executive]], [[legislature|legislative]], and [[judiciary|judicial]] under the [[Separation of powers|checks and balances]] system), is formally established by the Constitution.<ref name="Constituição"/> The executive and legislative are organized independently in all three spheres of government, while the judiciary is organized only at the federal and state/Federal District spheres.
+
+All members of the executive and legislative branches are directly elected.<ref name=embassy>{{cite web |url=http://www.brasembottawa.org/en/brazil_in_brief/political_institution.html |title=Embassy of Brazil&nbsp;— Ottawa |date= |quote=Political Institutions&nbsp;— The Executive |accessdate=2007-07-19}}</ref><ref>{{cite web |url=http://www.citymayors.com/government/brazil_government.html |title=City Mayors |date= |quote=Brazil federal, state and local government |accessdate=2007-07-19}}</ref><ref>{{cite web |url=http://links.jstor.org/sici?sici=0024-7413(196424)1%3A2%3C29%3ABP%3E2.0.CO%3B2-W |title=JSTOR |date= |quote=Brazilian Politics |accessdate=2007-07-19}}</ref> Judges and other judicial officials are appointed after passing entry exams.<ref name=embassy/> Brazil has a [[multi-party system]] for most of its history. Voting is compulsory for the literate between 18 and 70 years old and optional for illiterates and those between 16 and 18 or beyond 70.<ref name="Constituição"/> Together with several smaller parties, four political parties stand out: [[Workers' Party (Brazil)|Workers' Party]] (PT), [[Brazilian Social Democratic Party|Brazilian Social Democracy Party]] (PSDB), [[Brazilian Democratic Movement Party]] (PMDB), and [[Democrats (Brazil)|Democrats]] (DEM). Almost all governmental and administrative functions are exercised by authorities and agencies affiliated to the Executive.
+
+The form of government is that of a [[democracy|democratic]] republic, with a [[presidential system]].<ref name="Constituição"/> The president is both [[head of state]] and [[head of government]] of the Union and is [[elected]] for a four-year term,<ref name="Constituição"/> with the possibility of re-election for a second successive term. The current president is [[Dilma Rousseff]] who was inaugurated on January 1, 2011.<ref>[http://news.bbc.co.uk/2/hi/americas/2367025.stm "Leftist Lula wins Brazil election"] BBC News. Accessed 17 May 2007</ref>  The President appoints the [[Minister of State|Ministers of State]], who assist in government.<ref name="Constituição"/> Legislative houses in each political entity are the main source of law in Brazil. The [[National Congress of Brazil|National Congress]] is the Federation's bicameral legislature, consisting of the [[Chamber of Deputies of Brazil|Chamber of Deputies]] and the [[Senate of Brazil|Federal Senate]]. Judiciary authorities exercise jurisdictional duties almost exclusively.
+
+Fifteen political parties are represented in Congress. It is common for politicians to switch parties, and thus the proportion of congressional seats held by particular parties changes regularly. The largest political parties are the [[Workers' Party (Brazil)|Workers' Party]] (PT), Democrats (DEM), Brazilian Democratic Movement Party (PMDB-center), [[Brazilian Social Democratic Party]] (PSDB), Progressive Party (PP), Brazilian Labor Party (PTB), Liberal Party (PL), Brazilian Socialist Party (PSB), Popular Socialist Party (PPS), Democratic Labor Party (PDT), and the Communist Party of Brazil (PCdoB).<ref>{{cite web|url=http://www.southtravels.com/america/brazil/government.html |title=Government – Brazil |publisher=Southtravels.com |date=1988-10-05 |accessdate=2010-03-17}}</ref>
+
+===Law===
+{{Main|Law of Brazil|Crime in Brazil}}
+[[File:Supreme Federal Court of Brazil.jpg|thumb|right|[[Supreme Federal Court (Brazil)|Supreme Federal Tribunal]].]]
+Brazilian law is based on [[Roman law|Roman]]-[[Germania|Germanic]] traditions<ref>[http://www.oas.org/juridico/mla/en/bra/en_bra-int-des-ordrjur.html "The Brazilian Legal System"], Organization of American States. Accessed 17 May 2007.</ref> and [[civil law (legal system)|civil law]] concepts prevail over common law practice. Most of Brazilian law is codified, although non-codified statutes also represent a substantial part, playing a complementary role. Court decisions set out interpretive guidelines; however, they are seldom binding on other specific cases. Doctrinal works and the works of academic jurists have strong influence in law creation and in law cases.
+
+The legal system is based on the Federal Constitution, which was promulgated on 5 October 1988, and is the fundamental law of Brazil. All other legislation and court decisions must conform to its rules.<ref>José Afonso da Silva, ''Curso de Direito Constitucional Positivo'' (Malheiros, 2004; ISBN 85-7420-559-1), p.&nbsp; 46.</ref> As of April 2007, there have been 53 amendments. States have their own constitutions, which must not contradict the Federal Constitution.<ref>Silva, ''Curso de Direito Constitucional Positivo'', p.&nbsp; 592.</ref> Municipalities and the Federal District have "organic laws" ({{lang|pt|''leis orgânicas''}}) which act in a similar way to constitutions.<ref name="Constituição"/><ref>[http://www.brasil.gov.br/ingles/about_brazil/government_structure/loren/ "Government structure"]{{dead link|date=October 2010}} Brazilian Government. Accessed 17 May 2007.</ref> Legislative entities are the main source of [[statute]]s, although in certain matters judiciary and executive bodies may enact legal norms.<ref name="Constituição"/> Jurisdiction is administered by the judiciary entities, although in rare situations the [[Constitution of Brazil|Federal Constitution]] allows the Federal Senate to pass on legal judgments.<ref name="Constituição"/> There are also specialized military, labor, and electoral courts.<ref name="Constituição"/> The highest court is the [[Supreme Federal Court (Brazil)|Supreme Federal Tribunal]].
+
+This system has been criticised over the last few decades for the slow pace at which final decisions are issued. Lawsuits on appeal may take several years to resolve, and in some cases more than a decade elapses before definitive rulings are made.<ref>Miguel Glugoski and Odete Medauar, "[http://www.usp.br/jorusp/arquivo/2003/jusp667/pag0304.htm Nossos direitos nas suas mãos]", [[University of São Paulo|USP]] Journal, 24–30 November 2003. Retrieved 17 May 2007.</ref> Nevertheless, the Supreme Federal Tribunal was the first [[court]] in the world to transmit its sessions on [[television]], and also via [[YouTube|Youtube]].<ref>Diego Abreu, "[http://g1.globo.com/Noticias/Brasil/0,,MUL1326475-5598,00.html Primeira Corte do mundo a ter canal de vídeo no YouTube é o STF]", [http://g1.globo.com/ G1]. {{pt}} Accessed October 12, 2009.</ref><ref>"[http://esma.tjpb.jus.br/index.php?option=com_content&view=article&id=109:stf-primeira-corte-no-mundo-no-youtube&catid=1:noticias&Itemid=20 STF: Primeira corte do mundo no Youtube]". [http://esma.tjpb.jus.br/ ESMA-PB]. {{pt}} Accessed October 12, 2009.</ref> More recently, in December 2009, the Supreme Court adopted [[Twitter]] to display items on the [[Personal organizer|day planner]] of the ministers, to inform the daily actions of the Court and the most important decisions made by them.<ref>"[http://www.stf.jus.br/portal/cms/verNoticiaDetalhe.asp?idConteudo=117153 Página do STF no Twitter está no ar]" (12/01/009). [http://www.stf.jus.br/ STF Official Website]. {{pt}} Consulted on December 5, 2009.</ref>
+
+Brazil continues to have high crime rates in a number of statistics, despite recent improvements. More than 500,000 people have been killed by firearms in Brazil between 1979 and 2003, according to a new report by the [[United Nations]].<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/americas/4628813.stm | work=BBC News | title=UN highlights Brazil gun crisis | date=2005-06-27 | accessdate=2010-04-30 | first=Steve | last=Kingstone}}</ref> In 2010, there were 473,600 people incarcerated in Brazilian prisons and jails.<ref>[http://g1.globo.com/Noticias/Brasil/0,,MUL1500012-5598,00-GOVERNO+LANCA+ESTRATEGIA+PARA+DESARTICULAR+ORGANIZACOES+CRIMINOSAS.html Number of people incarcerated in Brazil - 2010]</ref>
+
+===Foreign relations ===
+{{Main|Foreign relations of Brazil}}
+[[File:Diplomatic missions of Brazil.png|thumb|left|States hosting a [[List of diplomatic missions of Brazil|diplomatic mission of Brazil]].]]
+
+Brazil is a political and economic leader in Latin America.<ref>Maria Regina Soares de Lima and Mônica Hirst, "[http://www3.interscience.wiley.com/journal/118726907/abstract?CRETRY=1&SRETRY=0 Brazil as a regional power: Action, choice and responsibilities]", ''International Affairs'' 82 (2006) 21–40. Retrieved June 22, 2007.</ref><ref>Luiz Alberto Moniz Bandeira, "[http://lap.sagepub.com/cgi/content/abstract/33/3/12 Brazil as a regional power]", Sage Journals Online. Retrieved June 22, 2007.</ref> However, social and economic problems prevent it from becoming an effective global power.<ref>Raúl Zibechi, "[http://www.fntg.org/fntg/docs/BrazilMultilateralism.pdf Difficult Path]" Funder's Network on Trade and Globalization. Retrieved June 22, 2007.</ref> Between [[World War II]] and 1990, both democratic and [[military government]]s sought to expand Brazil's influence in the world by pursuing a state-led industrial policy and an independent [[foreign policy]]. More recently, the country has aimed to strengthen ties with other [[South America]]n countries, and engage in multilateral diplomacy through the [[United Nations]] and the [[Organization of American States]].<ref>Universia Knowledge at Wharton website, "[http://www.wharton.universia.net/index.cfm?fa=viewfeature&id=1087&language=english Can Brazil Play a Leadership Role in the Current Round of Global Trade Talks?]" Wharton School, Pennsylvania. Retrieved June 22, 2007.</ref>
+
+Brazil's current foreign policy is based on the country's position as: a [[regional power]] in [[Latin America]], a leader among [[developing country|developing countries]], and an emerging [[Great power|world power]].<ref>Clare Ribando, "[http://www.wilsoncenter.org/news/docs/RL33456.pdf US-Brazil relations]", [[Congressional Research Service]]. Retrieved on August 16, 2007.</ref> In general, current Brazilian foreign policy reflects [[multilateralism]], peaceful dispute settlement, and nonintervention in the affairs of other countries.<ref>Georges D. Landau, "The Decisionmaking Process in Foreign Policy: The Case of Brazil," Center for Strategic and International Studies: Washington DC: March 2003.</ref> The Brazilian Constitution also determines that the country shall seek the [[economy|economic]], [[Politics|political]], [[social]] and [[culture|cultural]] [[economic integration|integration]] of the nations of Latin America.<ref name="Constituição"/><ref>[[Raúl Zibechi]], "[http://www.fntg.org/fntg/docs/BrazilMultilateralism.pdf Brazil and the Difficult Path to Multilateralism]". IRC Americas. Retrieved on August 16, 2007.</ref><ref>Maria Regina Soares De Lima and Monica Hirst, "[http://www.blackwell-synergy.com/doi/abs/10.1111/j.1468-2346.2006.00513.x Brazil as an intermediate state and regional power: action, choice and responsibilities]", ''International Affairs'' 82 (1), 21–40. Retrieved on August 16, 2007.</ref><ref>Luiz Alberto Moniz Bandeira, "[http://lap.sagepub.com/cgi/content/abstract/33/3/12 Brazil as a Regional Power and Its Relations with the United States]", [[Universidade de Brasília|University of Brasília]]. Retrieved on August 16, 2007.</ref> 
+
+An increasingly well-developed tool of Brazil's foreign policy is providing [[aid]] as a donor to other [[developing countries]].<ref name="ODI1">Cabral and Weinstock 2010. [http://www.odi.org.uk/resources/details.asp?id=5120&title=brazil-election-emerging-donor-aid Brazil: an emerging aid player]. London: [[Overseas Development Institute]]</ref> Brazil does not just use its growing economic strength to provide financial aid, but it also provides high levels of expertise and most importantly of all, a quiet non-confrontational diplomacy to improve governance levels.<ref name="ODI1"/>  Total aid is estimated to be around $1 billion per year that includes<ref name="ODI1"/>:
+* technical cooperation of around $480 million ($30 million in 2010 provided directly by the Brazilian Cooperation Agency (ABC))
+* an estimated $450 million for in-kind expertise provided by Brazilian institutions specialising in technical cooperation
+In addition, Brazil manages a peacekeeping mission in [[Haiti Earthquake|Haiti]] ($350 million) and makes in-kind contributions to the [[World Food Programme]] ($300 million).<ref name="ODI1"/> This is in addition to humanitarian assistance and contributions to multilateral development agencies. The scale of this aid places it on par with China and India and ahead of many western donors.<ref name=ODI1/> The Brazilian South-South aid has been described as a "global model in waiting".<ref>Cabral, Lidia 2010. [http://blogs.odi.org.uk/blogs/main/archive/2010/07/22/brazil_south_south_cooperation.aspx Brazil’s development cooperation with the South: a global model in waiting]. London: [[Overseas Development Institute]]</ref>
+
+===Military===
+{{Main|Brazilian Armed Forces}}
+[[File:Sao Paulo carrier.jpg|thumb|Aircraft carrier [[Brazilian aircraft carrier São Paulo (A12)|NAE São Paulo]] of the Brazilian Navy.]]
+The armed forces of Brazil consist of the [[Brazilian Army]], the [[Brazilian Navy]], and the [[Brazilian Air Force]]. With a total of 371,199 active personnel,<ref name="g1.globo.com">{{cite web|url=http://g1.globo.com/jornaldaglobo/0,,MUL1412734-16021,00-PESQUISA+MOSTRA+QUE+BRASIL+INVESTE+POUCO+EM+ESTRATEGIA+NA+FAB.html|title=Pesquisa mostra que Brasil investe pouco em estratégia na FAB|published=G1.com.br|language=Portuguese|accessdate=2010-10-02}}</ref> they comprise the largest armed force in Latin America.<ref>{{cite web|url=http://www.globalsecurity.org/military/world/brazil/intro.htm|title=Brazil: Military: Introduction|published=GlobalSecurity.org|accessdate=2010-10-02}}</ref> The Army is responsible for land-based military operations and has 235,978 active personnel.<ref>{{cite web|url=http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Decreto/D5670.htm|title=Decreto Nº 5.670 de 10 de Janeiro de 2006|published=Presidência da República|language=Portuguese|accessdate=2010-10-02}}</ref> 
+
+The [[Military Police (Brazil)|Military Police]] (States' Military Police) is described as an ancillary force of the Army by the constitution, but is under the control of each state's governor.<ref name="Constituição"/> The Navy is responsible for naval operations and for guarding Brazilian territorial waters. It is the oldest of the Brazilian armed forces and the only navy in Latin America to operate an aircraft carrier, the [[Brazilian aircraft carrier São Paulo (A12)|NAe São Paulo]] (formerly [[French aircraft carrier Foch (R99)|FS ''Foch'']] of the [[French Navy]]).<ref>{{cite web|url=https://www.mar.mil.br/menu_v/ccsm/perguntas/perguntas_mais_frequentes.htm#44.44|title=Perguntas|published=Marinha do Brasil|language=Portuguese|accessdate=2007-08-16}}</ref> The Air Force is the aerial warfare branch of the Brazilian armed forces, and the largest air force in Latin America, with about 700 manned aircraft in service.<ref>{{cite web|url=http://www.fab.mil.br/portal/imprensa/fab_numeros.php|title=Sala de imprensa – FAB em números|published= Força Aérea Brasileira|language=Portuguese|accessdate=2007-12-12}}</ref>
+
+===Administrative divisions===
+{{Main|States of Brazil|Municipalities of Brazil}}
+{{See also|Regions of Brazil}}
+{| class="infobox"
+|{{Brazil Labelled Map}}
+|}
+
+Brazil is a federation composed of twenty-six [[Federated state|States]], one [[Brazilian Federal District|federal district]] (which contains the capital city, [[Brasília]]) and municipalities.<ref name="Constituição"/> States have autonomous administrations, collect their own taxes and receive a share of taxes collected by the Federal government. They have a governor and a unicameral legislative body elected directly by their voters. They also have independent Courts of Law for common justice. Despite this, states have much less autonomy to create their own laws than in the [[United States]]. For example, criminal and civil laws can only be voted by the federal bicameral Congress and are uniform throughout the country.<ref name="Constituição"/>
+
+The states and the federal district may be grouped into regions: [[Northern Region, Brazil|Northern]], [[Northeast Region, Brazil|Northeast]], [[Central-West Region, Brazil|Central-West]], [[Southeast Region, Brazil|Southeast]] and [[Southern Region, Brazil|Southern]]. The Brazilian regions are merely geographical, not political or administrative divisions, and they do not have any specific form of government. Although defined by law, Brazilian regions are useful mainly for statistical purposes, and also to define the application of federal funds in development projects.
+
+Municipalities, as the states, have autonomous administrations, collect their own taxes and receive a share of taxes collected by the Union and state government.<ref name="Constituição"/> Each has a mayor and an elected legislative body, but no separate Court of Law. Indeed, a Court of Law organized by the state can encompass many municipalities in a single justice administrative division called ''[[comarca]]'' (county).
+
+==Economy==
+{{Main|Economy of Brazil}}
+[[File:Continental Embraer 135.jpg|thumb|right|An [[Embraer|Embraer ERJ-135]] commercial jet. Brazil is the world's third largest aircraft producer.]]
+Brazil is the largest national economy in [[Latin America]], the [[List of countries by GDP (nominal)|world's eighth largest economy]] at market exchange rates and the [[List of countries by GDP (PPP)|ninth largest]] in [[purchasing power parity]] (PPP), according to the [[International Monetary Fund]] and the [[World Bank]]. Brazil has a [[Market economy|free market economy]] with abundant natural resources. The Brazilian economy has been predicted to become one of the five largest in the world in the decades to come, the GDP per capita following and growing.<ref>{{cite journal|url=http://www.chicagobooth.edu/alumni/clubs/pakistan/docs/next11dream-march%20'07-goldmansachs.pdf |title=The N-11: More Than an Acronym |publisher=Goldman Sachs |date= |accessdate=2010-03-17}}</ref> Its current GDP (PPP) per capita is $10,200, putting Brazil in the 64th position according to [[World Bank]] data. It has large and developed [[agriculture|agricultural]], [[mining]], [[manufacturing]] and [[Tertiary sector of the economy|service sector]]s, as well as a large labor pool.<ref name="CIA Econ">{{cite web | title = Economy of Brazil | booktitle = The World Factbook | publisher = Central Intelligence Agency | year = 2008 | url = https://www.cia.gov/library/publications/the-world-factbook/geos/br.html | accessdate = 2008-06-03 }}</ref>
+
+Brazilian exports are booming, creating a new generation of tycoons.<ref name="The Guardian">{{cite news | last = Phillips | first = Tom | title = The country of the future finally arrives | work = The Guardian | date = 2008-05-10 | url = http://www.guardian.co.uk/world/2008/may/10/brazil.oil | accessdate = 2008-06-06 | location=London}}</ref> Major export products include [[Fixed-wing aircraft|aircraft]], [[electrical equipment]], [[automobile]]s, [[ethanol fuel|ethanol]], [[textile]]s, [[footwear]], [[iron ore]], [[steel]], [[coffee]], [[orange juice]], [[soybean]]s and [[corned beef]].<ref>{{cite news | title = The economy of heat | publisher = The Economist | date = 2007-04-12 | url = http://www.economist.com/surveys/displaystory.cfm?story_id=8952496 | accessdate = 2008-06-06 }}</ref> The country has been expanding its presence in international financial and [[commodity market|commodities market]]s, and is one of a group of four emerging economies called the [[BRIC|BRIC countries]].<ref>{{cite web | last = O'Neill | first = Jim | authorlink = Jim O'Neill (economist) | title = BRICs | publisher = Goldman Sachs | url = http://www2.goldmansachs.com/ideas/brics/index.html | accessdate = 2008-06-06 }}</ref>
+
+Brazil pegged its currency, the [[Brazilian real|real]], to the U.S. dollar in 1994. However, after the [[1997 Asian Financial Crisis|East Asian financial crisis]], the [[1998 Russian financial crisis|Russian default]] in 1998<ref>{{cite conference | first = Taimur | last = Baig | first2 = Ilan | last2 = Goldfajn | title = The Russian default and the contagion to Brazil | booktitle = IMF Working Paper | publisher = International Monetary Fund | year = 2000 | url = http://www.imf.org/external/pubs/ft/wp/2000/wp00160.pdf |format=PDF| accessdate = 2008-06-06 }}</ref> and the series of adverse financial events that followed it, the [[Central Bank of Brazil]] temporarily changed its [[monetary policy]] to a managed-float scheme while undergoing a [[currency crisis]], until definitively changing the exchange regime to free-float in January 1999.<ref>{{cite conference | first = Arminio | last = Fraga | title = Monetary Policy During the Transition to a Floating Exchange Rate: Brazil's Recent Experience | publisher = International Monetary Fund | year = 2000 | url = http://www.imf.org/external/pubs/ft/fandd/2000/03/fraga.htm | accessdate = 2008-06-06 }}</ref>
+
+Brazil received an International Monetary Fund rescue package in mid-2002 of $30.4&nbsp;billion,<ref>{{cite news | last = Wheatley | first = Jonathan | title = Brazil: When an IMF Bailout Is Not Enough | publisher = Business Week | date = 2002-09-02 | url = http://www.businessweek.com/magazine/content/02_35/b3797071.htm | accessdate = 2008-06-06 }}</ref> then a record sum.  Brazil's central bank paid back the IMF loan in 2005, although it was not due to be repaid until 2006.<ref>{{cite news  | title = Brazil to pay off IMF debts early | publisher = BBC News | date = 2005-12-14 | url = http://news.bbc.co.uk/2/hi/business/4527438.stm | accessdate = 2008-06-06 }}</ref> One of the issues the Central Bank of Brazil recently dealt with was an excess of speculative short-term capital inflows to the country, which may have contributed to a fall in the value of the U.S. dollar against the real during that period.<ref>{{cite conference | title = Economic Quarterly | pages = 171 | publisher = Institute of Applied Economic Research | date = 2007-03-01 | url = http://www.ipea.gov.br/sites/000/2/publicacoes/eqb/ieq11.pdf | format = PDF | accessdate = 2008-06-06 }}</ref> Nonetheless, [[foreign direct investment]] (FDI), related to long-term, less speculative investment in production, is estimated to be $193.8&nbsp;billion for 2007.<ref>{{cite press release | title = Capital Flows to Emerging Markets Set at Close to Record Levels  | publisher = The Institute of International Finance | date = 2007-05-31 | url = http://www.iif.com/press/press+32.php | accessdate = 2008-06-06 }}</ref> Inflation monitoring and control currently plays a major part in the Central bank's role of setting out short-term [[interest rate]]s as a monetary policy measure.<ref>{{cite conference | title = IPCA, IPC-FIPE and IPC-BR: Methodological and Empirical Differences | publisher = Central Bank of Brazil | year = 2004 | url = http://www.bcb.gov.br/htms/relinf/ing/2004/06/ri200406b2i.pdf | format = PDF | accessdate = 2008-06-06 }}</ref>
+
+===Components and energy===
+{{Main|Agriculture in Brazil|Industry in Brazil|Energy policy of Brazil}}
+
+[[File:Itaipu noche.JPG|left|thumb|[[Itaipu Dam]], the world's largest [[hydroelectricity|hydroelectric plant]] by energy generation and second-largest by installed capacity.]]
+
+Brazil's economy is diverse,<ref>{{cite news | title = Brazil's shares at all-time high | publisher = BBC News | date = 2008-04-30 | url = http://news.bbc.co.uk/2/hi/business/7376539.stm | accessdate = 2008-06-09 }}</ref> encompassing [[agriculture]], [[industry]], and many services.<ref name="The Guardian"/><ref>{{cite news | last = Alves | first = Fabio | last2 = Caminada | first2 = Carlos | title = Brazilian Debt Raised to Investment Grade by S&P | publisher = Reuters | date = 2008-04-30 | url = http://www.bloomberg.com/apps/news?pid=20601086&sid=a86v4f6_W2Jg | accessdate = 2008-06-09 }}</ref><ref name="Independent Jeremy">{{cite news | last = Warner | first = Jeremy | title = Jeremy Warner's Outlook: Brazil secures investment grade | publisher = The Independent | date = 2008-05-02 | url = http://www.independent.co.uk/news/business/comment/jeremy-warner/jeremy-warners-outlook-brazil-secures-investment-grade-819744.html | accessdate = 2008-06-09 | location=London}}</ref><ref name="Reuters 1">{{cite news | last = Colitt | first = Raymond | title = Sleeping giant Brazil wakes, but could stumble | publisher = Reuters | date = 2008-05-13 | url = http://www.reuters.com/article/managerViews/idUSNOA33289320080513 | accessdate = 2008-06-09 }}</ref> The recent economic strength has been due in part to a global boom in [[commodity|commodities]] prices with exports from [[beef]] to [[soybean]]s soaring.<ref name="Independent Jeremy"/><ref name="Reuters 1"/> [[Agriculture in Brazil|Agriculture]] and allied sectors like [[forestry]], [[logging]] and [[fishing]] accounted for 5.1% of the [[gross domestic product]] in 2007,<ref name="CIA GDP">{{cite web | title = Field Listing – GDP – composition by sector | booktitle = The World Factbook | publisher = Central Intelligence Agency | year = 2008 | url = https://www.cia.gov/library/publications/the-world-factbook/fields/2012.html | accessdate = 2008-06-09 }}</ref> a performance that puts [[agribusiness]] in a position of distinction in terms of Brazil's [[Balance of trade|trade balance]], in spite of [[trade barrier]]s and subsidizing policies adopted by the [[developed country|developed countries]].{{Vague|date=January 2010}}<!-- Eh? Where's the verb? --><ref>{{cite web | title = Agriculture and Cattle-raising  | work = Brazil by Topics | publisher = Brazilian Government official website | url = http://www.brasil.gov.br/ingles/about_brazil/brasil_topics/ | accessdate = 2008-06-09 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref><ref>{{cite encyclopedia | title = Agriculture | url = http://encarta.msn.com/encyclopedia_761554342_6/Brazil.html | encyclopedia = Encarta | publisher = MSN | accessdate = 2008-06-09 |archiveurl=http://www.webcitation.org/5kwQKc5zk|archivedate=2009-10-31|deadurl=yes}}  {{Dubious|date=January 2010}}<!-- tertiary source --></ref>
+
+The [[Industry in Brazil|industry]]&nbsp;— from [[automobile]]s, [[steel]] and [[petrochemical]]s to [[computer]]s, [[aircraft]], and [[durable good|consumer durables]]— accounted for 30.8% of the gross domestic product.<ref name="CIA GDP"/> Industry, which is often technologically advanced, is highly concentrated in metropolitan São Paulo, Rio de Janeiro, [[Campinas]], [[Porto Alegre]], and [[Belo Horizonte]].<ref>{{cite encyclopedia | title = Manufacturing | url = http://encarta.msn.com/encyclopedia_761554342_6/Brazil.html | encyclopedia = Encarta | publisher = MSN | accessdate = 2008-06-09 |archiveurl=http://www.webcitation.org/5kwQKc5zk|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref>
+
+Brazil is the world's [[List of countries by electricity consumption|tenth largest]] energy consumer with much of its energy coming from [[Renewable energy|renewable source]]s, particularly [[hydroelectricity]] and [[ethanol]]; nonrenewable energy is mainly produced from oil and [[natural gas]].<ref>{{cite encyclopedia | title = Energy | url = http://encarta.msn.com/encyclopedia_761554342_7/Brazil.html | encyclopedia = Encarta | publisher = MSN | accessdate = 2008-06-09 |archiveurl=http://www.webcitation.org/5kwQLDx9v|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref> A global power in agriculture and natural resources, Brazil experienced tremendous economic growth over the past three decades.<ref>{{cite news | title = Brazil Joins Front Rank Of New Economic Powers | publisher = The Wall Street Journal | url = http://online.wsj.com/article/SB121063846832986909.html | accessdate = 2008-06-09 | first=Matt | last=Moffett | date=2008-05-13}}</ref> It is expected to become a major oil producer and exporter, having recently made huge oil discoveries.<ref>{{cite news | title = An economic superpower, and now oil too | publisher = The Economist | date = 2008-04-17 | url = http://www.economist.com/opinion/displaystory.cfm?story_id=11052873 | accessdate = 2008-06-09 }}</ref><ref>{{cite news | last = Schneyer | first = Joshua | title = Brazil, the New Oil Superpower | publisher = Business Week | date = 2007-11-09 | url = http://www.businessweek.com/bwdaily/dnflash/content/nov2007/db20071115_045316.htm?chan=top+news_top+news+index_businessweek+exclusives | accessdate = 2008-06-09 }}</ref><ref>{{cite news | title = More bounty | publisher = The Economist | date = 2008-04-17 | url = http://www.economist.com/displaystory.cfm?story_id=11049391 | accessdate = 2008-06-09 }}</ref> The governmental agencies responsible for the energy policy are the Ministry of Mines and Energy, the National Council for Energy Policy, the [[National Agency of Petroleum, Natural Gas and Biofuels (Brazil)|National Agency of Petroleum, Natural Gas and Biofuels]], and the [[Brazilian Electricity Regulatory Agency|National Agency of Electricity]].<ref>{{cite web | title = Focus on Brazil | work = World Energy Outlook | publisher = [[International Energy Agency]] | year = 2006 | url = http://www.worldenergyoutlook.org/docs/weo2006/brazil.pdf | format = PDF | accessdate = 2008-12-14}}</ref><ref>{{cite web | publisher=  |url= http://www.ctgas.com.br/conteudo/img_upload/Project_cloling_report_Narrative_Mar_20_05.pdf | title = Project Closing Report. Natural Gas Centre of Excellence Project. Narrative | format = PDF | date = March 20, 2005 | accessdate=2007-05-12 |archiveurl = http://web.archive.org/web/20070927192628/http://www.ctgas.com.br/conteudo/img_upload/Project_cloling_report_Narrative_Mar_20_05.pdf |archivedate = 2007-09-27}}</ref>
+
+===Science and technology===
+{{Main|Brazilian science and technology}}
+[[File:Lnls.jpg|thumb|[[Laboratório Nacional de Luz Síncrotron|Brazilian National Laboratory of Synchrotron Light]] in [[Campinas]].]]
+Technological research in Brazil is largely carried out in public universities and research institutes. But more than 73% of funding for basic research still comes from government sources.<ref>{{cite web |title=Skills training for growth |url=http://www.brasil.gov.br/ingles/about_brazil/brasil_topics/science/categoria_view |author=Brazilian Government |accessdate=2007-08-10 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref> Some of Brazil's most notable technological hubs are the [[Fundação Oswaldo Cruz|Oswaldo Cruz Institute]], the [[Instituto Butantan|Butantan Institute]], the Air Force's [[Brazilian General Command for Aerospace Technology|Aerospace Technical Center]], the [[Empresa Brasileira de Pesquisa Agropecuária|Brazilian Agricultural Research Corporation]] and the [[National Institute for Space Research|INPE]]. The [[Brazilian Space Agency]] has the most advanced space program in Latin America, with significant capabilities{{Vague|date=January 2010}}<!-- Please explain the significance. Can it launch them, or can't it? --> in launch vehicles, launch sites and satellite manufacturing.<ref>{{cite web |url=http://www.country-data.com/cgi-bin/query/r-1826.html |title=Brazil&nbsp;— The Space Program |accessdate=2008-05-24 |year=1997 |month=April |work=country-data.com }}</ref>
+
+[[Uranium]] is enriched at the [[Resende Nuclear Fuel Factory]] to fuel the country's energy demands and plans are underway to build the country's first nuclear submarine.<ref>{{cite news|title=Confirmed: Agreement with France Includes the Brazilian Nuclear Submarine |url=http://npsglobal.org/eng/index.php/highlight/13-news/351-confirmed-agreement-with-france-includes-the-brazilian-nuclear-submarine|work=[[Nonproliferation for Global Security Foundation]] |date=2008-12-23 |accessdate=2008-12-23 }}</ref> Brazil is one of the three countries in Latin America<ref>{{cite web|url=http://www-elsa.physik.uni-bonn.de/accelerator_list.html |title=Rheinische Friedrich-Wilhelms-Universität |publisher=Elsa.physik.uni-bonn.de |date=2008-08-18 |accessdate=2010-10-30}}</ref> with an operational [[Synchrotron]] Laboratory, a research facility on physics, chemistry, material science and life sciences.
+
+===Transport===
+{{Main|Transport in Brazil}}
+[[File:BR116 Viaduto em Fortaleza.jpg|thumb|right|BR-116 highway in the outskirts of [[Fortaleza]].]]
+Brazil has a large and diverse transport network. [[Road]]s are the primary carriers of freight and passenger traffic. The road system totaled 1.98 million km (1.23 million mi) in 2002. The total of paved roads increased from 35,496&nbsp;km (22,056&nbsp;mi) in 1967 to 184,140&nbsp;km (114,425&nbsp;mi) in 2002.<ref>{{cite web|url=http://www.nationsencyclopedia.com/Americas/Brazil-TRANSPORTATION.html |title=Road system in Brazil |publisher=Nationsencyclopedia.com |date= |accessdate=2010-10-30}}</ref>
+
+[[File:Aeroporto do recife.jpg|thumb|left|[[Recife Airport]].]]
+Brazil's [[Rail transport|railway]] [[system]] has been declining since 1945, when emphasis shifted to [[highway]] [[construction]]. The total length of railway track was 30,875&nbsp;km (19,186&nbsp;mi) in 2002, as compared with 31,848&nbsp;km (19,789&nbsp;mi) in 1970. Most of the railway system belongs to the Federal Railroad Corp., with a majority government interest; there are also seven lines which the government privatized in 1997.<ref>"[http://www.nationsencyclopedia.com/Americas/Brazil-TRANSPORTATION.html Brazil – Transportation]", Encyclopedia of the Nations (nationsencyclopedia.com).{{Dubious|date=January 2010}}<!-- How is this anonymously written, source-less, advertising-heavy website itself a credible source? --></ref> The [[São Paulo Metro]] was the first underground transit system in Brazil. The other metro systems are in [[Rio de Janeiro]], [[Porto Alegre]], [[Recife]], [[Belo Horizonte]], [[Brasília]], [[Teresina]], [[Fortaleza]], and [[Salvador, Bahia|Salvador]].
+
+There are about 2,500 [[airport]]s in Brazil, including landing fields: the second largest number in the world, after the United States.<ref>"[http://g1.globo.com/Noticias/Brasil/0,,MUL86760-5598,00.html Ociosidade atinge 70% dos principais aeroportos]", globo.com, 12 August 2007. {{pt icon}}</ref> [[São Paulo-Guarulhos International Airport]], near São Paulo, is the largest and busiest airport, handling the vast majority of popular and commercial traffic of the country and connecting the city with virtually all major cities across the world.<ref>"[http://www.infraero.gov.br/aero_prev_home.php?ai=43 Aeroporto Internacional de São Paulo/Guarulhos-Governador André Franco Montoro]{{dead link|date=October 2010}}", infraaero.gov.br. {{pt icon}}</ref>
+
+Coastal shipping links widely separated parts of the country. Bolivia and Paraguay have been given free [[port]]s at [[Santos, São Paulo|Santos]]. Of the 36 deep-water ports, Santos, Itajaí, Rio Grande, Paranaguá, Rio de Janeiro, Sepetiba, Vitória, Suape, Manaus and São Francisco do Sul are some of the most important.{{Vague|date=January 2010}}<!-- Where's the verb? --><ref>"[http://www.mzweb.com.br/santosbrasil/web/conteudo_pt.asp?idioma=0&tipo=3958&conta=28 Mercado Brasileiro Terminais de Contêineres]{{dead link|date=October 2010}}", Santos Brasil. {{pt icon}}</ref>
+{{-}}
+
+==Demographics==
+{{Main|Demographics of Brazil|Brazilian people}}
+{{See also|Immigration to Brazil|Municipalities of Brazil}}
+<div style="font-size: 90%">
+{| class="wikitable" style="border:1px black; float:right; margin-left:1em;"
+|-
+! style="background:#f99;" colspan="2"|Colour/Race (2008)
+|-
+|[[White Brazilian|White]]||48.43%
+|-
+|[[Pardo|Brown]] ([[Multiracial#Brazil|Multiracial]])||43.80%
+|-
+|[[Black Brazilian|Black]]||6.84%
+|-
+|[[Asian Brazilian|Asian]]||0.58%
+|-
+|[[Indigenous peoples in Brazil|Amerindian]]||0.28%
+|}
+</div>
+The population of Brazil, as recorded by the 2008 PNAD, was approximately 190 million<ref>2008 PNAD, IBGE. "[http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=261&i=P&nome=on&notarodape=on&tab=261&unit=0&pov=1&opc1=1&poc2=1&OpcTipoNivt=1&opn1=2&nivt=0&poc1=1&sec58=0&orp=6&qtu3=27&opv=1&sec1=0&opc2=1&pop=1&opn2=2&orv=2&orc2=4&opc58=1&qtu2=5&sev=93&sec2=0&opp=1&opn3=0&orc1=3&poc58=1&qtu1=1&cabec=on&orc58=5&opn7=0&decm=99&ascendente=on&sep=43343&orn=1&qtu7=9&pon=2&OpcCara=44&proc=1 População residente por situação, sexo e grupos de idade]"</ref> (22.31 inhabitants per square kilometer), with a ratio of men to women. of 0.95:1<ref>2008 PNAD, IBGE. "[http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=261&i=P&nome=on&notarodape=on&tab=261&unit=0&pov=1&opc1=1&poc2=3&OpcTipoNivt=1&opn1=2&nivt=0&poc1=1&sec58=0&orp=6&qtu3=27&opv=1&sec1=0&opc2=1&pop=1&opn2=2&orv=2&orc2=4&opc58=1&qtu2=5&sev=93&sec2=0&sec2=92956&sec2=92957&opp=1&opn3=0&orc1=3&poc58=1&qtu1=1&cabec=on&orc58=5&opn7=0&decm=99&ascendente=on&sep=43343&orn=1&qtu7=9&pon=2&OpcCara=44&proc=1 População residente por situação, sexo e grupos de idade]"</ref> and 83.75% of the population defined as urban.<ref>2008 PNAD, IBGE. "[http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=261&i=P&nome=on&notarodape=on&tab=261&unit=0&pov=3&opc1=1&poc2=1&OpcTipoNivt=1&opn1=2&nivt=0&poc1=2&sec58=0&orp=6&qtu3=27&opv=1&sec1=0&sec1=1&sec1=2&opc2=1&pop=1&opn2=2&orv=2&orc2=4&opc58=1&qtu2=5&sev=93&sev=1000093&sec2=0&opp=1&opn3=0&orc1=3&poc58=1&qtu1=1&cabec=on&orc58=5&opn7=0&decm=99&ascendente=on&sep=43343&orn=1&qtu7=9&pon=2&OpcCara=44&proc=1 População residente por situação, sexo e grupos de idade]."</ref> The population is heavily concentrated in the Southeastern (79.8 million inhabitants) and Northeastern (53.5 million inhabitants) regions, while the two most extensive regions, the Center-West and the North, which together make up 64.12% of the Brazilian territory, have a total of only 29.1 million inhabitants.
+
+Brazil's population increased significantly between 1940 and 1970, due to a decline in the [[mortality rate]], even though the [[birth rate]] underwent a slight decline. In the 1940s the annual [[Population growth|population growth rate]] was 2.4%, rising to 3.0% in the 1950s and remaining at 2.9% in the 1960s, as life expectancy rose from 44 to 54 years<ref>José Alberto Magno de Carvalho, "[http://www.observasaude.sp.gov.br/BibliotecaPortal/Acervo/Estrutura_Demogr%C3%A1fica_Brasil.pdf Crescimento populacional e estrutura demográfica no Brasil]{{dead link|date=October 2010}}" Belo Horizonte: UFMG/Cedeplar, 2004 (PDF file), p.&nbsp; 5.</ref> and to 72.6 years in 2007.<ref>{{cite web|url=http://www.ibge.gov.br/home/presidencia/noticias/noticia_visualiza.php?id_noticia=1275&id_pagina=1 |title=Instituto Brasileiro de Geografia e Estatística |publisher=IBGE |date=1999-11-29 |accessdate=2010-01-25}}</ref>
+It has been steadily falling since the 1960s, from 3.04% per year between 1950–1960 to 1.05% in 2008 and is expected to fall to a negative value of&nbsp;–0.29% by 2050 <ref>{{cite web|url=http://www.ibge.gov.br/home/presidencia/noticias/noticia_impressao.php?id_noticia=1272 |title=Projeусo da Populaусo do Brasil |publisher=IBGE |date= |accessdate=2010-01-25}}</ref> thus completing the [[demographic transition]].<ref>Magno de Carvalho, "[http://www.observasaude.sp.gov.br/BibliotecaPortal/Acervo/Estrutura_Demogr%C3%A1fica_Brasil.pdf Crescimento populacional e estrutura demográfica no Brasil]{{dead link|date=October 2010}}", pp.&nbsp;7–8.</ref>
+
+According to the [[Brazilian Institute of Geography and Statistics|National Research by Household Sample]] (PNAD) of 2008, 48.43% of the population (about 92 million) described themselves as [[White Brazilian|White]]; 43.80% (about 83 million) as [[Brown people#Pardos in Brazil|Brown]] ([[Multiracial#Brazil|Multiracial]]), 6.84% (about 13 million) as [[Black Brazilian|Black]]; 0.58% (about 1.1 million) as [[Asian Brazilian|Asian]]; and 0.28% (about 536 thousand) as [[Indigenous peoples in Brazil|Amerindian]], while 0.07% (about 130 thousand) did not declare their race.<ref name="PNADIBGE">2008 PNAD, IBGE. "[http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=262&i=P&nome=on&notarodape=on&tab=262&unit=0&pov=3&opc1=1&poc2=1&OpcTipoNivt=1&opn1=2&nivt=0&orc86=3&poc1=1&orp=6&qtu3=27&opv=1&poc86=2&sec1=0&opc2=1&pop=1&opn2=0&orv=2&orc2=5&qtu2=5&sev=93&sev=1000093&opc86=1&sec2=0&opp=1&opn3=0&sec86=0&sec86=2776&sec86=2777&sec86=2779&sec86=2778&sec86=2780&sec86=2781&ascendente=on&sep=43344&orn=1&qtu7=9&orc1=4&qtu1=1&cabec=on&pon=1&OpcCara=44&proc=1&opn7=0&decm=99 População residente por cor ou raça, situação e sexo]".</ref>
+
+In 2007, the [[Fundação Nacional do Índio|National Indian Foundation]] reported the existence of 67 different uncontacted tribes, up from 40 in 2005. Brazil is believed to have the largest number of [[uncontacted people]]s in the world.<ref>"[http://www.washingtonpost.com/wp-dyn/content/article/2007/07/07/AR2007070701312.html In Amazonia, Defending the Hidden Tribes]", ''The Washington Post,'' 8 July 2007.</ref>
+
+Most Brazilians descend from the country's [[indigenous peoples]], [[Portuguese Brazilian|Portuguese]] settlers, and [[Slavery in Brazil|African slaves]].<ref name="Enciclopédia Barsa v.4, p.&nbsp;230">''Enciclopédia Barsa'' vol. 4, p.&nbsp;230.</ref> Since the arrival of the Portuguese in 1500, considerable intermarriage between these three groups has taken place. The brown population (as multiracial Brazilians are officially called; ''[[pardo]]'' in Portuguese)<ref name="Coelho 1996, p.&nbsp;268">Coelho (1996), p.&nbsp;268.</ref><ref name="Vesentini 1988, p.&nbsp;117">Vesentini (1988), p.&nbsp;117.</ref> is a broad category that includes [[Caboclo]]s (descendants of Whites and Indians), [[Mulatto]]es (descendants of Whites and Blacks) and [[Zambo|Cafuzo]]s (descendants of Blacks and Indians).<ref name="Enciclopédia Barsa v.4, p.&nbsp;230"/><ref name="Coelho 1996, p.&nbsp;268"/><ref name="Vesentini 1988, p.&nbsp;117"/><ref>Adas, Melhem. ''Panorama geográfico do Brasil'', 4th ed (São Paulo: Moderna, 2004), p.&nbsp;268</ref><ref>Azevedo (1971), pp.&nbsp;2–3.</ref><ref name="Moreira 1981, p.&nbsp;108">Moreira (1981), p.&nbsp;108.</ref> Caboclos form the majority of the population in the Northern, Northeastern and Central-Western regions.<ref>''Enciclopédia Barsa,'' vol. 4, pp.&nbsp;254–55, 258, 265.</ref> A large Mulatto population can be found in the eastern coast of the northeastern region from Bahia to Paraíba<ref name="Moreira 1981, p.&nbsp;108"/><ref>Azevedo (1971), pp.&nbsp;74–75.</ref> and also in northern Maranhão,<ref>''Enciclopédia Barsa'', vol. 10 (Rio de Janeiro: Encyclopaedia Britannica do Brasil, 1987), p.&nbsp;355.</ref><ref>Azevedo (1971), p.&nbsp;74.</ref> southern Minas Gerais<ref name="Azevedo 1971, p.&nbsp;161">Azevedo (1971), p.&nbsp;161.</ref> and in eastern Rio de Janeiro.<ref name="Moreira 1981, p.&nbsp;108"/><ref name="Azevedo 1971, p.&nbsp;161"/> From the 19th century, Brazil opened its borders to [[Immigration to Brazil|immigration]]. About five million people from over 60 countries migrated to Brazil between 1808 and 1972, most of them from [[Portugal]], [[Italy]], [[Spain]], [[Germany]], [[Japan]] and the [[Middle East|Middle-East]].<ref>Maria Stella Ferreira-Levy, "O papel da migração internacional na evolução da população brasileira (1872 a 1972), ''Revista de Saúde Pública''{{Vague|date=January 2010}}<!-- as read from the PDF file. What is this short for? Let's spell it out. --> Volume 8, suplemento. June 1974. <!-- Again, as read from the PDF. What would this mean: "supplementary volume"? -->) (1974). Table 2, p.&nbsp; 74. {{pt icon}} Available here [http://www.scielo.br/pdf/rsp/v8s0/03.pdf] at scielo.br as a PDF file.</ref>
+
+In 2008, the illiteracy rate was 11.48%<ref>PNAD 2008, IBGE.  "[http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=271&i=P&sec59=93024&sec59=1023&sec59=1024&nome=on&notarodape=on&tab=271&unit=0&pov=3&opc1=1&poc2=1&orc59=5&OpcTipoNivt=1&opn1=2&nivt=0&poc1=1&sec58=0&orp=7&qtu3=27&opv=1&sec1=0&opc2=1&pop=1&opn2=0&orv=2&orc2=4&opc58=1&qtu2=5&sev=121&sev=1000121&sec2=0&poc59=2&opp=1&opn3=0&orc1=3&poc58=1&qtu1=1&cabec=on&opc59=1&ascendente=on&sep=43345&orn=1&qtu7=9&orc58=6&opn7=0&decm=99&pon=1&OpcCara=44&proc=1 Pessoas de 5 anos ou mais de idade por situação, sexo, alfabetização e grupos de idade e grupos de idade]".</ref> and among the youth (ages 15–19) 1.74%. It was highest (20.30%) in the Northeast, which had a large proportion of rural poor.<ref>PNAD 2008, IBGE. "[http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=271&i=P&sec59=93024&sec59=1023&sec59=1024&nome=on&notarodape=on&tab=271&unit=0&pov=3&opc1=1&poc2=1&orc59=5&OpcTipoNivt=1&opn1=2&nivt=0&poc1=1&sec58=0&orp=7&qtu3=27&opv=1&sec1=0&opc2=1&pop=1&opn2=2&orv=2&orc2=4&opc58=1&qtu2=5&sev=121&sev=1000121&sec2=0&poc59=3&opp=1&opn3=0&orc1=3&poc58=1&qtu1=1&cabec=on&opc59=1&ascendente=on&sep=43345&orn=1&qtu7=9&orc58=6&opn7=0&decm=99&pon=2&OpcCara=44&proc=1 Pessoas de 5 anos ou mais de idade por situação, sexo, alfabetização e grupos de idade]".</ref> Illiteracy was high (24.18%) among the rural population and lower (9.05%) among the urban population.<ref>PNAD 2008, IBGE. "[http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=2858&i=P&sec59=0&sec59=1023&sec59=1024&sec59=3318&nome=on&notarodape=on&tab=2858&unit=0&pov=1&opc1=1&poc2=1&orc59=5&OpcTipoNivt=1&opn1=2&nivt=0&poc1=2&orp=6&qtu3=27&opv=1&sec1=0&sec1=1&sec1=2&opc2=1&pop=1&opn2=0&orv=2&orc2=4&qtu2=5&sev=121&sec2=0&poc59=3&opp=1&opn3=0&orc1=3&qtu1=1&cabec=on&opc59=1&ascendente=on&sep=43435&orn=1&qtu7=9&pon=1&OpcCara=44&proc=1&opn7=0&decm=99 Pessoas de 5 anos ou mais de idade por situação, sexo e alfabetização]".</ref>
+
+===Religion===
+{{Main|Religion in Brazil}}
+{{bar box
+|title=[[Religion in Brazil]] <small>(2000 Census)<ref name="Censo2000Religiao"/><small>
+|width=285px
+|titlebar=#ddd
+|left1=Religion
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|[[Roman Catholicism]]|blue|73.8}}
+{{bar percent|[[Protestantism]]|lightblue|15.4}}
+{{bar percent|[[No religion]]|gray|7.4}}
+{{bar percent|[[Spiritism]]|yellow|1.3}}
+{{bar percent|Others|black|2.1}}
+}}
+[[Catholic Church|Roman Catholicism]] is the country's predominant faith. Brazil has the world's largest Catholic population.<ref name="USDS">{{cite conference | title = Brazil | booktitle = International Religious Freedom Report  | publisher = U.S. Department of State | date = 2005-11-08 | url = http://www.state.gov/g/drl/rls/irf/2005/51629.htm | accessdate = 2008-06-08 }}</ref> According to the 2000 Demographic Census (the PNAD survey does not inquire about religion), 73.57% of the population followed [[Roman Catholicism in Brazil|Roman Catholicism]]; 15.41% [[Protestantism in Brazil|Protestantism]]; 1.33% [[Spiritism|Kardecist spiritism]]; 1.22% other Christian denominations; 0.31% Afro-Brazilian religions; 0.13% [[Buddhism]]; 0.05% [[Judaism]]; 0.02% [[Islam in Brazil|Islam]]; 0.01% Amerindian religions; 0.59% other religions, undeclared or undetermined; while 7.35% have no religion.<ref name="Censo2000Religiao">IBGE, ''[http://www.ibge.gov.br/home/estatistica/populacao/censo2000/populacao/religiao_Censo2000.pdf População residente, por sexo e situação do domicílio, segundo a religião]'', Censo Demográfico 2000. Acessado em 13 de dezembro de 2007</ref>
+
+However, in the last ten years [[Protestantism in Brazil|Protestantism]], particularly Pentecostal Protestantism, is gaining more followers, while the proportion of [[Roman Catholicism in Brazil|Catholics]] has dropped sharply.
+
+===Urbanization===
+The [[List of largest cities in Brazil|largest metropolitan areas in Brazil]] are São Paulo, Rio de Janeiro, and Belo Horizonte&nbsp;— all in the Southeastern Region&nbsp;— with 19.5, 11.5, and 5.1&nbsp;million inhabitants respectively.<ref>2008 PNAD, IBGE. "[http://www.sidra.ibge.gov.br/bda/tabela/protabl.asp?c=261&i=P&nome=on&notarodape=on&tab=261&unit=0&pov=1&opc1=1&poc2=1&opn1=2&OpcTipoNivt=2&nivt=0&poc1=1&sec58=0&orp=6&qtu3=27&opv=1&sec1=0&opc2=1&pop=1&opn2=0&orv=2&orc2=4&opc58=1&qtu2=5&sev=93&sec2=0&opp=1&opn3=0&orc1=3&poc58=1&qtu1=1&cabec=on&orc58=5&opn7=0&decm=99&ascendente=on&sep=43343&orn=1&qtu7=9&pon=2&OpcCara=43&proc=1 População residente por situação, sexo e grupos de idade]".</ref> Almost all of the state capitals are the largest cities in their states, except for [[Vitória, Brazil|Vitória]], the capital of [[Espírito Santo]], and [[Florianópolis]], the capital of Santa Catarina. There are also non-capital metropolitan areas in the states of São Paulo ([[Campinas]], [[Santos, São Paulo|Santos]] and the [[Paraíba Valley]]), [[Minas Gerais]] ([[Vale do Aço metropolitan area|Steel Valley]]), Rio Grande do Sul ([[Porto Alegre|Sinos Valley]]), and Santa Catarina ([[Vale do Itajaí|Itajaí Valley]]).<ref>{{cite encyclopedia | title = Principal Cities | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_3/Brazil.html | accessdate = 2008-06-10 |archiveurl=http://www.webcitation.org/5kwQIvYDr|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref>
+
+{{Largest cities of Brazil}}
+
+===Language===
+{{Main|Languages of Brazil|Portuguese language|Brazilian Portuguese}}
+[[File:Museu da Língua Portuguesa.jpg|left|thumb|[[Museum of the Portuguese Language]] in [[São Paulo]], the first language museum in the world.]]
+
+The official language of Brazil is Portuguese<ref name="CIA People"/> which is spoken by almost all of the population and is virtually the only language used in newspapers, radio, television, and for business and administrative purposes. The exception to this is in the municipality of [[São Gabriel da Cachoeira]] where [[Nheengatu]], an indigenous language of [[South America]], has been granted co-official status with Portuguese.<ref name="nyt-language">{{cite news|url=http://www.nytimes.com/2005/08/28/international/americas/28amazon.html?ex=1282881600&en=2dbb31357d010164&ei=5090|title=Language Born of Colonialism Thrives Again in Amazon|publisher=New York Times|accessdate=2008-07-14 | first=Larry | last=Rohter | date=2005-08-28}}</ref> Brazil is the only Portuguese-speaking nation in the [[Americas]], making the language an important part of Brazilian national identity and giving it a national culture distinct from those of its Spanish-speaking neighbors.<ref name="language2">{{cite web|url=http://countrystudies.us/brazil/39.htm|title=Portuguese language and the Brazilian singularity}}</ref>
+
+[[Brazilian Portuguese]] has had its own development, influenced by the [[Indigenous languages of the Americas|Amerindian]] and [[Languages of Africa|African languages]].<ref name="Portuguese"/> As a result, the language is somewhat different, mostly in phonology, from the language of [[Portugal]] and other Portuguese-speaking countries. These differences are comparable to those between [[American English|American]] and [[British English]].<ref name="Portuguese">{{cite web | title = Languages of Brazil | publisher = Ethnologue | url = http://www.ethnologue.com/show_country.asp?name=br | accessdate = 2008-06-09 }}</ref>
+
+In 2008, the [[Community of Portuguese Language Countries]] (CPLP), which included representatives from all countries with Portuguese as the official language, reached an agreement on the reform of Portuguese into one international language, as opposed to two diverged dialects of the same language. All CPLP countries were given from 2009 until 2014 to adjust to the necessary changes.<ref>{{cite news | last = Nash | first = Elizabeth | title = Portugal pays lip service to Brazil's supremacy | publisher = The Independent | date = 2008-05-02 | url = http://www.independent.co.uk/news/world/europe/portugal-pays-lip-service-to-brazils-supremacy-819728.html | accessdate = 2008-06-09 | location=London}}</ref>
+
+Minority languages are spoken throughout the nation. One hundred and eighty [[Indigenous languages of the Americas|Amerindian language]]s are spoken in remote areas and a number of other languages are spoken by immigrants and their descendants.<ref name="Portuguese" /> There are significant communities of [[German language|German]] (mostly the [[Hunsrückisch]], a [[German language|High German language]] dialect) and [[Italian language|Italian]] (mostly the [[Talian dialect]], of [[Venetian language|Venetian]] origin) speakers in the south of the country, both of which are influenced by the Portuguese language.<ref>{{cite web|url=http://www.dw-world.de/dw/article/0,,1174391,00.html|title=O alemão lusitano do Sul do Brasil|publisher=DW-World.de}}</ref><ref>{{cite web|url=http://www.labeurb.unicamp.br/elb/europeias/talian.htm|title=O talian}}</ref> Brazil is the first country in South America to offer [[Esperanto]] to High School students.<ref>{{cite web|url=http://www.pagef30.com/2009/09/15-september-2009-esperanto-approved-by.html |title=Esperanto approved by Brazilian government as optional high school subject, mandatory if justified by demand |publisher=Page F30 |date=2009-09-19 |accessdate=2010-10-30}}</ref>
+{{-}}
+
+==Culture==
+{{Main|Culture of Brazil}}
+The core culture of Brazil is derived from [[Culture of Portugal|Portuguese culture]], because of its strong colonial ties with the [[Portuguese Empire|Portuguese empire]]. Among other influences, the Portuguese introduced the [[Portuguese language]], [[Catholic Church|Roman Catholicism]] and [[Manueline|colonial architectural styles]].<ref>{{cite web | title = 15th–16th Century | work = History | publisher = Brazilian Government official website | url = http://www.brasil.gov.br/ingles/about_brazil/history/xvi_cent/ | accessdate = 2008-06-08 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref> The culture was, however, also strongly influenced by [[African people|African]], [[Indigenous peoples in Brazil|indigenous]] and non-Portuguese European cultures and traditions.<ref name="Encarta">{{cite encyclopedia | title = People and Society | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_3/Brazil.html | accessdate = 2008-06-10 |archiveurl=http://www.webcitation.org/5kwQIvYDr|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref>{{Citation broken|date=August 2010}} Some aspects of Brazilian culture were influenced by the contributions of [[Italian Brazilian|Italian]], [[German Brazilian|German]] and other European immigrants who arrived in large numbers in the South and Southeast of Brazil.<ref name="Encarta 2">{{cite encyclopedia | title = Population | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_3/Brazil.html | accessdate = 2008-06-10 |archiveurl=http://www.webcitation.org/5kwQIvYDr|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref>{{Citation broken|date=August 2010}} The indigenous Amerindians influenced Brazil's language and [[Brazilian cuisine|cuisine]]; and the [[African people|Africans]] influenced language, cuisine, [[Music of Brazil|music]], dance and religion.<ref>{{cite news  | last = Freyre | first = Gilberto | title = The Afro-Brazilian experiment: African influence on Brazilian culture | publisher = UNESCO | year = 1986 | url = http://findarticles.com/p/articles/mi_m1310/is_1986_May-June/ai_4375022 | accessdate = 2008-06-08 }}</ref>
+
+[[File:Machado-450.jpg|thumb|upright|right|[[Machado de Assis]], poet and novelist whose work extends for almost all [[literary genre]], is widely regarded as the greatest Brazilian writer.<ref>[[Antonio Candido|Candido; Antonio.]] (1970) ''Vários escritos.'' São Paulo: Duas Cidades. p.18</ref>]]
+
+[[Brazilian art]] has developed since the 16th century into different styles that range from [[Baroque in Brazil|Baroque]] (the dominant style in Brazil until the early 19th century)<ref>Leandro Karnal, ''Teatro da fé: Formas de representação religiosa no Brasil e no México do século XVI'' (São Paulo, Editora Hucitec, 1998; available here [http://www.fflch.usp.br/dh/ceveh/public_html/biblioteca/livros/teatro_fe/index.htm].</ref><ref name="itaucultural.org.br">"[http://www.itaucultural.org.br/aplicExternas/enciclopedia_IC/index.cfm?fuseaction=termos_texto_ing&cd_verbete=3738&lst_palavras=&cd_idioma=28556&cd_item=8 The Brazilian Baroque]", ''Encyclopaedia Itaú Cultural''</ref> to [[Academic art in Brazil|Romanticism]], [[Modern art|Modernism]], [[Expressionism]], [[Cubism]], [[Surrealism]] and [[Abstract art|Abstractionism]].
+
+[[Cinema of Brazil|Brazilian cinema]] dates back to the birth of the medium in the late 19th century and has gained a new level of international acclaim in recent years.<ref>{{cite encyclopedia | title = Theater and Film | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_5/Brazil.html | accessdate = 2008-06-08 |archiveurl=http://www.webcitation.org/5kwQK47Yx|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref>{{Citation broken|date=August 2010}}
+
+[[Music of Brazil|Brazilian music]] encompasses various regional styles influenced by African, European and Amerindian forms. It developed distinctive styles, among them [[samba]], [[Música Popular Brasileira|música popular Brasileira]], [[choro]], [[música sertaneja|sertanejo]], [[brega (music)|brega]], [[forró]], [[frevo]], [[maracatu]], [[bossa nova]], [[Brazilian rock]], and [[Axé music|axé]].
+
+===Literature===
+
+[[Brazilian literature]] dates back to the 16th century, to the writings of the first Portuguese explorers in Brazil, such as [[Pêro Vaz de Caminha]], filled with descriptions of [[fauna]], [[flora]] and [[Indigenous peoples|natives]] that amazed Europeans that arrived in Brazil.<ref>{{cite encyclopedia | title = Literature | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_5/Brazil.html | accessdate = 2008-06-08 |archiveurl=http://www.webcitation.org/5kwQK47Yx|archivedate=2009-10-31|deadurl=yes}}</ref>{{Citation broken|date=August 2010}} Brazil produced significant works in [[Romanticism]] — novelists like [[Joaquim Manuel de Macedo]] and [[José de Alencar]] wrote novels about love and pain. Alencar, in his long career, also treated Indigenous people as heroes in the Indigenist novels ''[[O Guarany]]'', ''[[Iracema]]'', ''[[Ubirajara]]''.<ref>"[http://www.brasembottawa.org/en/culture_academic/literature.html Brazilian Literature: An Introduction]". [http://www.brasembottawa.org/ Embassy of Brasil - Ottawa]. Visited on November 2, 2009.</ref>
+
+===Cuisine===
+
+[[Brazilian cuisine]] varies greatly by region, reflecting the country's mix of native and immigrant populations. This has created a national cuisine marked by the preservation of regional differences.<ref name="Encarta 4">{{cite encyclopedia | title = Way of Life | encyclopedia = Encarta | publisher = MSN | url = http://encarta.msn.com/encyclopedia_761554342_4/Brazil.html | accessdate = 2008-06-08 |archiveurl=http://www.webcitation.org/5kwQJT42w|archivedate=2009-10-31|deadurl=yes}} {{Dubious|date=January 2010}}<!-- tertiary source --></ref>{{Citation broken|date=August 2010}} Examples are [[Feijoada]], considered the country's national dish;<ref>Roger, "[http://www.braziltravelguide.com/feijoada-the-brazilian-national-dish.html Feijoada: The Brazilian national dish]" braziltravelguide.com.{{Dubious|date=January 2010}}<!-- hardly seems a reliable source --></ref><ref>"[http://www.brazilmax.com/news.cfm/tborigem/fe_fooddrink/id/11 Brazil National Dish: Feijoada Recipe and Restaurants]". Visited on November 8, 2009.{{Dubious|date=January 2010}}<!-- another dubious looking source --></ref> and regional foods such as [[vatapá]], [[moqueca]], [[polenta]] and [[acarajé]]. Brazil has a variety of candies such as [[brigadeiro]]s ("brigadiers") and [[beijinho]]s ("kissies"). The national beverage is [[coffee]] and [[cachaça]] is Brazil's native [[Distilled beverage|liquor]]. Cachaça is distilled from [[Sugarcane|sugar cane]] and is the main ingredient in the national cocktail, [[Caipirinha]].
+
+===Sports===
+[[File:Barnetta061115-01.jpg|thumb|left|[[Association football|Football]] (soccer) is the most popular sport in Brazil.<ref>[http://www.jusbrasil.com.br/noticias/74894/futebol-o-esporte-mais-popular-do-brasil-e-destaque-no-via-legal Futebol, o esporte mais popular do Brasil, é destaque no Via Legal :: Notícias JusBrasil<!-- Bot generated title -->]</ref>]] 
+The most popular sport in Brazil is [[Association football|football (soccer)]]. The [[Brazil national football team|Brazilian national football team]] is ranked among the best in the world according to the [[FIFA World Rankings]], and has won the [[FIFA World Cup|World Cup]] tournament a record five times.<ref>{{cite web | title = Football in Brazil | work = Goal Programme | publisher = International Federation of Association Football | date = 2008-04-15 | url = http://www.fifa.com/associations/association=bra/goalprogramme/index.html | accessdate = 2008-06-06 }}</ref> [[Basketball]], [[volleyball]], [[auto racing]], and [[martial arts]] also attract large audiences. [[Brazil men's national volleyball team]], for example, currently hold the titles of the [[FIVB World League|World League]], [[Volleyball World Grand Champions Cup|World Grand Champions Cup]], [[Volleyball World Championship|World Championship]] and the [[Volleyball World Cup|World Cup]]. Others sports practiced in Brazil are [[tennis]], [[team handball]], [[swimming (sport)|swimming]], and [[gymnastics]] that have found a growing number of enthusiasts over the last decades. Some sport variations have their origins in Brazil: [[beach soccer|beach football]],<ref>{{cite web | title = Beach Soccer | publisher = International Federation of Association Football | url = http://www.fifa.com/aboutfifa/developing/beachsoccer/index.html | accessdate = 2008-06-06 }}</ref> [[futsal]] (indoor football)<ref>{{cite web | title = Futsal | publisher = International Federation of Association Football | url = http://www.fifa.com/aboutfifa/developing/futsal/index.html | accessdate = 2008-06-06 }}</ref> and [[footvolley]] emerged in Brazil as variations of football. In martial arts, Brazilians developed [[Capoeira]],<ref>{{cite web | title = The art of capoeira | publisher = BBC | date = 2006-09-20 | url = http://www.bbc.co.uk/northyorkshire/content/articles/2005/09/13/capoeira_feature.shtml | accessdate = 2008-06-06 }}</ref> [[Vale tudo]],<ref>{{cite web | title = Brazilian Vale Tudo | publisher = I.V.C | url = http://valetudo.com.br/ | accessdate = 2008-06-06 }}</ref> and [[Brazilian Jiu-Jitsu]].<ref>{{cite web | title = Brazilian Jiu-Jitsu Official Website | publisher = International Brazilian Jiu-Jitsu Federation | url = http://www.ibjjf.org/index.htm | accessdate = 2008-06-06 }}</ref> In auto racing, three Brazilian drivers have won the [[Formula One]] world championship eight times.<ref>{{cite web | last = Donaldson | first = Gerald | title = Emerson Fittipaldi | work = Hall of Fame | publisher = The Official Formula 1 Website | url = http://www.formula1.com/teams_and_drivers/hall_of_fame/282/ | accessdate = 2008-06-06 }}</ref><ref>{{cite web | last = Donaldson | first = Gerald | title = Nelson Piquet | work = Hall of Fame | publisher = The Official Formula 1 Website | url = http://www.formula1.com/teams_and_drivers/hall_of_fame/181/ | accessdate = 2008-06-06 }}</ref><ref>{{cite web | last = Donaldson | first = Gerald | title = Ayrton Senna | work = Hall of Fame | publisher = The Official Formula 1 Website | url = http://www.formula1.com/teams_and_drivers/hall_of_fame/45/ | accessdate = 2008-06-06 }}</ref>
+
+Brazil has hosted several high-profile international sporting events, including the [[1950 FIFA World Cup]]<ref>{{cite web | title = 1950 FIFA World Cup Brazil | work = Previous FIFA World Cups | publisher = International Federation of Association Football | url = http://www.fifa.com/worldcup/archive/edition=7/index.html | accessdate = 2008-06-06 }}</ref> and has been chosen to host the [[2014 FIFA World Cup]].<ref>{{cite web | title = 2014 FIFA World Cup Brazil | publisher = International Federation of Association Football | url = http://www.fifa.com/worldcup/brazil2014/index.html | accessdate = 2008-06-06 }}</ref> The [[São Paulo]] circuit, [[Autódromo José Carlos Pace]], hosts the annual [[Brazilian Grand Prix|Grand Prix of Brazil]].<ref>{{cite web | title = Formula 1 Grande Premio do Brasil 2008 | publisher = The Official Formula 1 Website | url = http://www.formula1.com/races/in_detail/brazil_804/circuit_diagram.html | accessdate = 2008-06-06 }}</ref> São Paulo organized the [[1963 Pan American Games|IV Pan American Games]] in 1963,<ref name="PASO">{{cite web | title = Chronological list of Pan American Games | publisher = Pan American Sports Organization | url = http://odepapaso.org/paso/chrono.html | accessdate = 2008-06-06 }} {{Dead link|date=September 2010|bot=H3llBot}}</ref> and Rio de Janeiro hosted the [[2007 Pan American Games|XV Pan American Games]] in 2007.<ref name="PASO"/> On 2 October 2009, Brazil was selected to host the [[2016 Summer Olympics|2016 Olympic Games]], the first to be held in South America.<ref name="guardian_olympics">"[http://www.guardian.co.uk/sport/2009/oct/02/olympics-2016-games-rio-pele Olympics 2016: Tearful Pele and weeping Lula greet historic win for Rio]", ''[[The Guardian]],'' 2 October 2009.</ref>
+
+In May 2010 Brazil launched [[TV Brasil Internacional]], an international [[television station]], initially broadcasting to 49 countries. [[Luiz Inácio Lula da Silva]], President of Brazil, described its aim as "presenting Brazil to the world".<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/world/latin_america/10152301.stm |title=Brazil launches international TV station for Africa |publisher=BBC News |date=2010-05-25 |accessdate=2010-10-30}}</ref>
+
+==See also==
+{{Portal|Brazil}}
+* [[Index of Brazil-related articles]]
+* [[Outline of Brazil]]
+{{Clear}}
+<!--Please place links to all topics directly related to Brazil in the [[List of Brazil-related topics]]-->
+
+== References ==
+{{reflist|colwidth=30em}}
+
+===Bibliographic===
+{{Refbegin}}
+* Azevedo, Aroldo. ''O Brasil e suas regiões''. São Paulo: Companhia Editora Nacional, 1971. {{pt icon}}
+* Barman, Roderick J. ''Citizen Emperor: Pedro II and the Making of Brazil, 1825–1891.'' Stanford: Stanford University Press, 1999. ISBN 0-8047-3510-7 {{en icon}}
+* [[C. R. Boxer|Boxer, Charles R.]]. ''O império marítimo português 1415–1825''. São Paulo: Companhia das Letras, 2002. ISBN  8535902929 {{pt icon}}
+* Bueno, Eduardo. ''Brasil: uma História''. São Paulo: Ática, 2003. {{pt icon}} ISBN 8508082134
+* Calmon, Pedro. ''História da Civilização Brasileira''. Brasília: Senado Federal, 2002. {{pt icon}}
+* Carvalho, José Murilo de. ''D. Pedro II''. São Paulo: Companhia das Letras, 2007. {{pt icon}}
+* Coelho, Marcos Amorim. ''Geografia do Brasil''. 4th ed. São Paulo: Moderna, 1996. {{pt icon}}
+* Diégues, Fernando. ''A revolução brasílica''. Rio de Janeiro: Objetiva, 2004. {{pt icon}}
+*''[[Barsa (encyclopedia)|Enciclopédia Barsa]]''. Volume 4: Batráquio – Camarão, Filipe. Rio de Janeiro: Encyclopædia Britannica do Brasil, 1987. {{pt icon}}
+* Fausto, Boris and Devoto, Fernando J. ''Brasil e Argentina: Um ensaio de história comparada (1850–2002)'', 2nd ed. São Paulo: Editoria 34, 2005. ISBN 8573263083{{pt icon}}
+* [[Elio Gaspari|Gaspari, Elio]]. ''A ditadura envergonhada''. São Paulo: Companhia das Letras, 2002. ISBN 8535902775 {{pt icon}}
+* Janotti, Aldo. ''O Marquês de Paraná: inícios de uma carreira política num momento crítico da história da nacionalidade''. Belo Horizonte: Itatiaia, 1990. {{pt icon}}
+* Lyra, Heitor. ''História de Dom Pedro II (1825–1891): Ascenção (1825–1870). v.1''. Belo Horizonte: Itatiaia, 1977. {{pt icon}}
+* Lyra, Heitor. ''História de Dom Pedro II (1825–1891): Declínio (1880–1891). v.3''. Belo Horizonte: Itatiaia, 1977. {{pt icon}}
+* Lustosa, Isabel. ''D. Pedro I: um herói sem nenhum caráter''. São Paulo: Companhia das letras, 2006. ISBN 8535908072 {{pt icon}}
+* Moreira, Igor A. G. ''O Espaço Geográfico, geografia geral e do Brasil''. 18. Ed. São Paulo: Ática, 1981. {{pt icon}}
+* Munro, Dana Gardner. ''The Latin American Republics; A History''. New York: D. Appleton, 1942. {{en icon}}
+* Schwarcz, Lilia Moritz. ''As barbas do Imperador: D. Pedro II, um monarca nos trópicos''.  2nd ed. São Paulo: Companhia das Letras, 1998. ISBN 8571648379 {{pt icon}}
+* [[Thomas Skidmore|Skidmore, Thomas E]]. ''Uma História do Brasil''. 4th ed. São Paulo: Paz e Terra, 2003. {{pt icon}} ISBN 8521903138
+* Souza, Adriana Barreto de. ''Duque de Caxias: o homem por trás do monumento''. Rio de Janeiro: Civilização Brasileira, 2008. {{pt icon}} ISBN 9788520008645
+* Vainfas, Ronaldo. ''Dicionário do Brasil Imperial''. Rio de Janeiro: Objetiva, 2002. ISBN 8573024410 {{pt icon}}
+* Vesentini, José William. ''Brasil, sociedade e espaço – Geografia do Brasil''. 7th Ed. São Paulo: Ática, 1988. {{pt icon}}
+* Vianna, Hélio. ''História do Brasil: período colonial, monarquia e república'', 15th ed. São Paulo: Melhoramentos, 1994. {{pt icon}}
+{{Refend}}
+
+==Further reading==
+{{Refbegin}}
+* {{cite book |author=Alves, Maria Helena Moreira |title=State and Opposition in Military Brazil |location=Austin, TX |publisher=University of Texas Press |year=1985}}
+* {{cite book |author=Amann, Edmund |title=The Illusion of Stability: The Brazilian Economy under Cardoso |publisher=World Development (pp.&nbsp;1805–1819) |year=1990}}
+* {{cite web |title=Background Note: Brazil |publisher= US Department of State |url=http://www.state.gov/r/pa/ei/bgn/35640.htm}}
+* {{cite book |author=Bellos, Alex |title=Futebol: The Brazilian Way of Life |location=London |publisher=Bloomsbury Publishing plc |year=2003}}
+* {{cite book |author=Bethell, Leslie |title=Colonial Brazil |location=Cambridge |publisher=CUP |year=1991}}
+* {{cite book |author=Costa, João Cruz |title=A History of Ideas in Brazil |location=Los Angeles, CA |publisher=University of California Press |year=1964}}
+* {{cite book |author=Fausto, Boris |title=A Concise History of Brazil |location=Cambridge |publisher=CUP |year=1999}}
+* {{cite book |author=Furtado, Celso |title=The Economic Growth of Brazil: A Survey from Colonial to Modern Times |location=Berkeley, CA |publisher=University of California Press}}
+* {{cite book |author=Leal, Victor Nunes |title=Coronelismo: The Municipality and Representative Government in Brazil |location=Cambridge |publisher=CUP |year=1977}}
+* {{cite book |author=Malathronas, John |title=Brazil: Life, Blood, Soul |location=Chichester |publisher=Summersdale |year=2003}}
+* {{cite book |author=Martinez-Lara, Javier |title=Building Democracy in Brazil: The Politics of Constitutional Change |publisher=Macmillan |year=1995}}
+* {{cite book |author=Prado Júnior, Caio |title=The Colonial Background of Modern Brazil |location=Los Angeles, CA |publisher=University of California Press |year=1967}}
+* {{cite book |author=Schneider, Ronald |title=Brazil: Culture and Politics in a New Economic Powerhouse |publisher=Boulder Westview |year=1995}}
+* {{cite book |author=Skidmore, Thomas E. |title=Black Into White: Race and Nationality in Brazilian Thought |location=Oxford |publisher=Oxford University Press |year=1974}}
+* {{cite book |author=Wagley, Charles |title=An Introduction to Brazil |location=New York, New York |publisher=Columbia University Press |year=1963}}
+* {{cite book |title=The World Almanac and Book of Facts: Brazil |location=New York, NY |publisher=World Almanac Books |year=2006}}
+{{Refend}}
+
+==External links==
+{{Sister project links}}
+{{Wikisource|CIA World Fact Book, 2004/Brazil}}
+* [http://www.obamonteverde.com.br/ Tourist Guide of Brazil]
+* [http://www.brasil.gov.br/?set_language=en Brazilian Federal Government]
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-b/brazil.html Chief of State and Cabinet Members]
+* [http://www.ibge.gov.br/english/ Brazilian Institute of Geography and Statistics]
+* [http://www.ptbrazil.com/ Information and Pictures Tourism of Brazil]
+* {{CIA World Factbook link|br|Brazil}}
+* [http://ucblibraries.colorado.edu/govpubs/for/brazil.htm Brazil] at ''UCB Libraries GovPubs''
+* {{dmoz|Regional/South_America/Brazil}}
+* [http://lcweb2.loc.gov/frd/cs/brtoc.html Country Profile] from the U.S. [[Library of Congress]] (1997)
+* {{Wikitravel}}
+
+{{navboxes| list  = 
+{{Brazil topics|state=expanded}}
+{{navboxes|title=[[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale| list  = 
+'''[[Geographic coordinate system|Lat. <small>and</small> Long.]] {{Coord|15|45|S|47|57|W|display=inline}} <span style="color:darkblue;">(Brasilia)</span>'''
+{{Geographic Location (8-way)
+ | Northwest = {{Flag|Colombia}}
+ | North = {{Flag|Venezuela}} • {{Flag|Suriname}} <br/> {{Flag|Guyana}} • {{Flag|French Guiana}}
+ | Northeast = ''[[Atlantic Ocean]]''
+ | West = {{Flag|Bolivia}} • {{Flag|Peru}}
+ | Centre = {{Flagicon|Brazil}} [[Outline of Brazil|Brazil]]
+ | East = ''[[Atlantic Ocean]]''
+ | Southwest = {{Flag|Argentina}} • {{Flag|Paraguay}}
+ | South =  {{Flag|Uruguay}} • ''[[Atlantic Ocean]]''
+ | Southeast = ''[[Atlantic Ocean]]''}}
+{{Countries of South America}}
+}}
+{{navboxes|title=International membership| list  = 
+{{Latin Union}}
+{{Community of Portuguese Language Countries (CPLP)|state=collapsed}}
+{{Union of South American Nations (Unasur\Unasul)}}
+{{Mercosur\Mercosul (Southern Common Market)}}
+{{Organization of American States}}
+{{G8+5}}
+{{G-20}}
+{{G15 nations}}
+{{BRIC}}
+{{South Atlantic Peace and Cooperation Zone}}
+}}
+{{Portuguese overseas empire}}
+}}
+
+[[Category:Brazil| ]]
+[[Category:Countries bordering the Atlantic Ocean]]
+[[Category:Federal countries]]
+[[Category:Former Portuguese colonies]]
+[[Category:G15 nations]]
+[[Category:G20 nations]]
+[[Category:Latin American countries]]
+[[Category:Liberal democracies]]
+[[Category:Portuguese-speaking countries]]
+[[Category:South American countries]]
+[[Category:States and territories established in 1822]]
+
+{{Link GA|de}}
+{{Link FA|af}}
+{{Link FA|he}}
+{{Link FA|kn}}
+{{Link FA|pt}}
+{{Link FA|ro}}
+{{Link FA|uk}}
+{{Link FA|vi}}
+[[ace:Brasil]]
+[[af:Brasilië]]
+[[als:Brasilien]]
+[[am:ብራዚል]]
+[[ang:Brasil]]
+[[ar:البرازيل]]
+[[an:Brasil]]
+[[arc:ܒܪܐܙܝܠ]]
+[[roa-rup:Brazilia]]
+[[frp:Brèsil]]
+[[ast:Brasil]]
+[[gn:Pindorama]]
+[[ay:Wrasil]]
+[[az:Braziliya]]
+[[bm:Brazil]]
+[[bn:ব্রাজিল]]
+[[zh-min-nan:Pa-se]]
+[[ba:Бразилия]]
+[[be:Бразілія]]
+[[be-x-old:Бразылія]]
+[[bcl:Brasil]]
+[[bi:Brazil]]
+[[bar:Brasilien]]
+[[bo:པུ་རུ་ཟིལ།]]
+[[bs:Brazil]]
+[[br:Brazil]]
+[[bg:Бразилия]]
+[[ca:Brasil]]
+[[cv:Бразили]]
+[[ceb:Brasil]]
+[[cs:Brazílie]]
+[[cbk-zam:Brasil]]
+[[co:Brasile]]
+[[cy:Brasil]]
+[[da:Brasilien]]
+[[pdc:Brasilien]]
+[[de:Brasilien]]
+[[dv:ބުރެޒިލް]]
+[[nv:Bwazííl]]
+[[dsb:Brazilska]]
+[[dz:བཱརཱ་ཛིལ་]]
+[[et:Brasiilia]]
+[[el:Βραζιλία]]
+[[eml:Brasil]]
+[[es:Brasil]]
+[[eo:Brazilo]]
+[[ext:Brasil]]
+[[eu:Brasil]]
+[[ee:Brazil]]
+[[fa:برزیل]]
+[[hif:Brazil]]
+[[fo:Brasil]]
+[[fr:Brésil]]
+[[fy:Brazylje]]
+[[fur:Brasîl]]
+[[ga:An Bhrasaíl]]
+[[gv:Yn Vrasseel]]
+[[gd:Braisil]]
+[[gl:Brasil]]
+[[gan:巴西]]
+[[gag:Braziliya]]
+[[gu:બ્રાઝિલ]]
+[[got:𐌱𐍂𐌰𐌶𐌹𐌻]]
+[[hak:Pâ-sî]]
+[[xal:Ниицәтә Бразилмудин Орн]]
+[[ko:브라질]]
+[[haw:Palakila]]
+[[hy:Բրազիլիա]]
+[[hi:ब्राज़ील]]
+[[hsb:Brazilska]]
+[[hr:Brazil]]
+[[io:Brazilia]]
+[[ig:Brazil]]
+[[ilo:Brazil]]
+[[bpy:ব্রাজিল]]
+[[id:Brasil]]
+[[ia:Brasil]]
+[[ie:Brasil]]
+[[os:Бразили]]
+[[xh:Brasil]]
+[[is:Brasilía]]
+[[it:Brasile]]
+[[he:ברזיל]]
+[[jv:Brasil]]
+[[kl:Brazil]]
+[[kn:ಬ್ರೆಜಿಲ್]]
+[[pam:Brazil]]
+[[ka:ბრაზილია]]
+[[ks:ब्रासील]]
+[[csb:Brazylskô]]
+[[kk:Бразилия]]
+[[kw:Brasil]]
+[[rw:Burezile]]
+[[ky:Бразилия]]
+[[sw:Brazil]]
+[[kv:Бразилия]]
+[[ht:Brezil]]
+[[ku:Brazîl]]
+[[lad:Brasil]]
+[[krc:Бразилия]]
+[[la:Brasilia]]
+[[lv:Brazīlija]]
+[[lb:Brasilien]]
+[[lt:Brazilija]]
+[[lij:Brasî]]
+[[li:Braziel]]
+[[ln:Brazil]]
+[[jbo:razgu'e]]
+[[lmo:Brasil]]
+[[hu:Brazília]]
+[[mk:Бразил]]
+[[mg:Brazila]]
+[[ml:ബ്രസീൽ]]
+[[mt:Brażil]]
+[[mr:ब्राझिल]]
+[[arz:البرازيل]]
+[[mzn:برزیل]]
+[[ms:Brazil]]
+[[mwl:Brasil]]
+[[mn:Бразил]]
+[[my:ဘရာဇီးနိုင်ငံ]]
+[[nah:Brasil]]
+[[na:Brazil]]
+[[nl:Brazilië]]
+[[nds-nl:Brazilië]]
+[[ne:ब्राजिल]]
+[[new:ब्राजिल]]
+[[ja:ブラジル]]
+[[nap:Brasile]]
+[[ce:Бразилия]]
+[[pih:Bresel]]
+[[no:Brasil]]
+[[nn:Brasil]]
+[[nrm:Brési]]
+[[nov:Brasilia]]
+[[oc:Brasil]]
+[[mhr:Бразилий]]
+[[uz:Braziliya]]
+[[pag:Brazil]]
+[[pnb:برازیل]]
+[[pap:Brazil]]
+[[ps:برازيل]]
+[[pcd:Brésil]]
+[[pms:Brasil]]
+[[nds:Brasilien]]
+[[pl:Brazylia]]
+[[pt:Brasil]]
+[[kaa:Braziliya]]
+[[crh:Brazil]]
+[[ty:Brazil]]
+[[ksh:Brasillėje]]
+[[ro:Brazilia]]
+[[rm:Brasilia]]
+[[qu:Brasil]]
+[[ru:Бразилия]]
+[[rue:Бразілія]]
+[[sah:Бразилия]]
+[[se:Brasilia]]
+[[sa:ब्रासील]]
+[[sc:Brasile]]
+[[sco:Brazil]]
+[[stq:Brasilien]]
+[[sq:Brazili]]
+[[scn:Brasili]]
+[[simple:Brazil]]
+[[sk:Brazília]]
+[[cu:Браꙁїлі́ꙗ]]
+[[sl:Brazilija]]
+[[szl:Brazylijo]]
+[[so:Barasiil]]
+[[ckb:بەڕازیل]]
+[[srn:Brasilkondre]]
+[[sr:Бразил]]
+[[sh:Brazil]]
+[[fi:Brasilia]]
+[[sv:Brasilien]]
+[[tl:Brasil]]
+[[ta:பிரேசில்]]
+[[kab:Brazil]]
+[[tt:Бразилия]]
+[[te:బ్రెజిల్]]
+[[tet:Brazíl]]
+[[th:ประเทศบราซิล]]
+[[tg:Бразилия]]
+[[tr:Brezilya]]
+[[tk:Braziliýa]]
+[[uk:Бразилія]]
+[[ur:برازیل]]
+[[ug:برازىلىيە]]
+[[za:Bahsih]]
+[[vec:Braxil]]
+[[vi:Brasil]]
+[[vo:Brasilän]]
+[[fiu-vro:Brasiilia]]
+[[wa:Braezi]]
+[[zh-classical:巴西]]
+[[vls:Brazilië]]
+[[war:Brasil]]
+[[wo:Breesil]]
+[[wuu:巴西]]
+[[yi:בראזיל]]
+[[yo:Brasil]]
+[[zh-yue:巴西]]
+[[diq:Brezilya]]
+[[zea:Brezilië]]
+[[bat-smg:Brazilėjė]]
+[[zh:巴西]]

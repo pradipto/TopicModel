@@ -1,0 +1,20 @@
+input file: _sample_data/synthetic/index/model.input
+
+#data input mode: grouped - not needed
+#TODO: support for space saving sequential format is not available yet
+
+input dict file: _sample_data/synthetic/index/term_to_id.txt
+num topics: 2
+
+# Number of iterations 
+# -------------------- # 
+em iter: 50
+em var iter: 50
+
+# the model root directory where the training model will be stored
+# ---------------------------------------------------------------- #
+model root dir: _sample_data/synthetic/lda_store/train/2
+
+# the symmetric dirichlet prior for topic proportions
+# --------------------------------------------------- #
+topic proportion prior : 0.5

@@ -1,0 +1,10 @@
+unhappy/annoyed=0
+unsatisfactory=1
+melancholic=2
+despair/bored=3
+maybe/hopeful=4
+contended=5
+satisfied=6
+pleased=7
+happy/very happy=8
+untagged=9

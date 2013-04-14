@@ -1,0 +1,55 @@
+1) I use common sense. 
+
+2) I generally don't trust email.
+
+3) I use Mozilla Firefox as my web browser, it's much more secure than Internet Explorer - (http://www.malwaresolutions.com/tools_br… - Firefox is Free so there is no excuse!
+
+4) When accessing secure websites (ie: banking sites) I always check to make sure that the url shows a secure connection (ie: begins with https:// or you see a locked pad lock)
+
+5) When I have doubts about a website I do a Google search - chances are that if I should not be on that site someone else has figured it out and posted comments about it online
+
+6) I have a firewall that helps protect my computer from inbound and outbound traffic (ie: Zone Alarm - it's Free for home users - you can find it here - http://www.malwaresolutions.com/tools_fi… )
+
+7) I use anti-virus software, again, everybody should have anti-virus software - for home users there are plenty of free versions out there - my personal favorite is AVG but here is a whole list of free anti-virus products - http://www.malwaresolutions.com/tools_an…
+
+8) I use anti-spyware software - again - Free - try SpyBot Search & Destroy, AdAware and Windows Defender (if you are running Windows XP or Vista you can run Defender) - here is a whole list of free anti-spyware products - http://www.malwaresolutions.com/tools_sp…
+
+9) I always make sure my anti-virus/spyware software and Windows operating system are up-to-date.
+
+10) I use common sense! oh, did I mention that already? Yes I did, why? Because it's the most important way to protect yourself! Be suspicious! Be Aware and you should be fine!
+
+Here is a little document I wrote up some time ago:
+
+Tips For Online Safety:
+
+# In the bottom right-hand corner of the Internet Explorer browser there should be a small lock (using Mozilla Firefox I see a small green key) indicating that the site is secured. For example, see this link. If you double-click on this lock (or key) it should produce a certificate verifying that the site is secure (in the example above, the you will see the site is verified by VeriSign Trust Network). Check whether the certificate corresponds to the website you are visiting.
+
+# Never do your online banking on public computers or from internet cafes.
+
+# Follow the same rules of normal banking when you are banking online.
+
+# Stay away from pornographic sites: Spyware, adware, and viruses often reside there.
+
+# Type in the website's address or bookmark it. Do not follow a link, especially one sent via email, link urls can be disguised.
+
+# Report and delete emails that ask for usernames, passwords, PINS, debit and credit card information. Your bank will never send an email asking for this type of information. Use this link to check out our Virus Hoaxes page.
+
+# Check that you are indeed on your bank's website by checking the address (look in the address bar at the top of your browswer window).
+
+# Use anti-virus, anti-spyware software and a firewall at all times.
+
+# Install, update and run a personal firewall on your PC.
+
+# Find out if your bank offers any extra security measures and register for it/them.
+
+# Check your bank statements often for any unusual or suspicious activity.
+
+# Never save your password on your desktop as it may allow others to access your personal information without your permission.
+
+# Avoid making passwords too personal, or too easy to guess. Use combinations of letters and numbers with no specific meaning.
+
+# Change your password often and do not use obvious passwords like your birth date, or cat's name.
+
+http://www.malwaresolutions.com/online_s…
+
+I hope this helps!

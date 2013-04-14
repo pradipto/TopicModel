@@ -1,0 +1,5 @@
+model alpha: 0.1
+model num topics: 10
+model num terms: 5001
+model use asym alpha: 1
+model asym alpha file: _sample_data/YA09/lda_store/test/10/model.asymalpha

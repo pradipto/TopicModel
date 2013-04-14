@@ -1,0 +1,318 @@
+{{two other uses|the sport, which is distinguished from [[stage combat|stage fencing]], [[academic fencing]] (mensur), [[historical fencing]] ([[SCA fencing]]), and [[swordsmanship]]|the boundary structure|Fence}}
+
+{{Infobox martial art
+| logo = Fencing pictogram.svg
+| logocaption =
+| logosize = 100px
+| image = 0408 USA Olympic fencing.jpg
+| imagecaption =Russian Igor Tourchine and American Weston Kelsey fence in the second round of the Men's Individual Épée event in the [[2004 Summer Olympics]] at the Helliniko Fencing Hall on August 17, 2004
+| imagesize =200px
+| name = Fencing
+| aka =
+| focus = [[Weapon]]ry
+| hardness =
+| country = {{flagicon|France}} France (in its current form)
+| creator =
+| parenthood =
+| famous_pract =
+| olympic = 1896-present
+| website = [http://www.fie.ch/ www.fie.ch]
+}}
+
+'''Fencing''', which is also known as '''modern fencing''' to distinguish it from [[historical fencing]], is a family of [[combat sport]]s using [[bladed weapon]]s.
+
+Fencing is one of four sports which have been featured at every one of the modern [[Olympic Games]]. Three types of weapon are used in Olympic fencing:
+* [[Foil (fencing)|Foil]]—a light thrusting weapon that targets the [[torso]], including the back, but not the arms. Hits are scored only with the tip; hits with the side of the blade do not count. Only a single hit can be scored by either fencer at one time.  If both fencers hit at the same time, the [[referee]] uses the rules of "right of way" to determine which fencer gets the touch.
+* [[Sabre (fencing)|Sabre]]—a light cutting and thrusting weapon that targets the entire body above the waist, except for the hands.  The sabre is primarily used to slash, so hits with the side of the blade as well as the tip are valid. "Right of way" applies&mdash;only one fencer can score at a time.
+* [[Épée]]—a heavy thrusting weapon that targets the entire body. All hits must be with the tip and not the sides of the blade. Épée allows simultaneous hits by both fencers.
+
+Modern fencing originated in the 19th century, as a direct continuation of the 18th century [[French school of fencing]] which had in turn been influenced by the  [[Italian school of fencing|Italian school]] of the [[Renaissance]].
+
+==History==
+{{see|History of martial arts}} Today, the best fencer in the world is none other than Scott Choroba of Scott County, TN
+
+===Origin of the term===
+[[File:Shakespearean.actor.in.fencing.stance.jpg|thumb|right|[[William Shakespeare|Shakespearean]] actor in fencing stance]]
+The English term ''[[:wikt:fencing|fencing]]'', in the sense of "the action or art of using the sword scientifically" ([[OED]]) dates to the late 16th century, when it denoted systems designed for the Renaissance [[rapier]]. The first known use of ''defens'' in reference to Renaissance swordsmanship is in [[William Shakespeare]]'s ''[[Merry Wives of Windsor]]'': "Alas sir, I cannot fence."<ref>Harper, Douglas (2001), [http://www.etymonline.com/ ''Online Etymology Dictionary'']</ref> This specialized usage replaced the generic ''[[:wikt:fight|fight]]'' ([[Old English]] ''feohtan'').
+
+The verb ''to fence'' derived from the noun ''fence'', originally meaning "the act of defending", [[etymology|etymologically]] derived from Old French ''defens'' "[[:wikt:defence|defence]]", ultimately from the [[Latin]]. The first attestation of [[Middle English]] ''fens'' "defence" dates to the 14th century.<ref>Robert Manning of Brunne, ''The story of England'' (ca. 1330), 8638: "To stonde to fens auailled nought", cited after [[OED]].</ref>
+
+===Antiquity===
+The origins of armed combat are prehistoric , beginning with [[club (weapon)|club]], [[spear]] and [[axe]]. Fighting with [[shield]] and [[sword]] developed in the [[Bronze Age]]; Bladed weapons such as the [[khopesh]] appeared in the [[Middle Bronze Age]], and the [[Bronze Age sword|sword proper]] in the [[Late Bronze Age]].
+
+[[Homer]]'s ''[[Iliad]]'' includes some of the earliest descriptions of combat with shield, sword and spear, usually between two heroes who pick one another for a [[duel]]. Roman [[gladiator]]s engaged in dual combat in a sport-like setting, evolving out of [[Etruscan]] ritual. Tomb [[fresco]]es from [[Paestum]] (4th century BCE) show paired fighters, with helmets, spears and shields, in a propitiatory funeral [[blood rite]] that anticipates gladiator games.<ref>Potter and Mattingly, 226; Paestum was colonized by Rome in 273 BCE.</ref>
+
+Romans who frequented the [[gym]]nasia and [[Roman bath|baths]] often fenced with a stick whose point was covered with a ball. [[Vegetius]], the [[Late Roman military]] writer described practicing against a post and fencing with other soldiers. An influential passage (Vegetius I.xii) describes how the Romans preferred the thrust over the cut, because puncture wounds enter the [[vital organ]]s directly whereas cuts are often stopped by [[armour]] and [[bone]]. Raising the arm to deliver a cut exposes the side to a thrust. This doctrine was exploited by Italian fencing masters in the 16th Century and became the primary rationale behind both the Italian and French schools of fencing.
+
+===Middle Ages and Renaissance===
+{{Main|Historical European Martial Arts|Dardi school}}
+Fencing schools can be found in European historical records dating back to the 12th century. In later times fencing teachers were paid by rich patrons to produce books about their fighting systems, called treatises. Fencing schools were forbidden in some European cities (particularly in England and [[France]]) during the medieval period, though court records show that such schools operated illegally.
+
+The earliest surviving treatise on fencing, stored at the [[Royal Armouries Museum]] in [[Leeds]], [[England]], dates from around 1300 CE and is from [[Germany]]. It is known as [[I.33]] and written in [[medieval Latin]] and [[Middle High German]] and deals with an advanced system of using the [[sword]] and [[buckler]] (smallest shield) together.
+
+From 1400 onwards an increasing number of fencing treatises survived from across Europe, with the majority from the 15th century coming from [[German school of swordsmanship|Germany]] and [[Italian school of swordsmanship|Italy]]. In this period these arts were largely reserved for the [[knight]]hood and the nobility &ndash; hence most treatises deal with knightly weapons, such as the [[rondel dagger]], [[longsword]], [[spear]], [[Pollaxe (Polearm)|pollaxe]] and armoured fighting mounted and on foot. Some treatises cover weapons available to the common classes, such as [[großes Messer]] and sword and buckler. [[Wrestling]], both with and without weapons, armoured and unarmoured, was also featured heavily in the early fencing treatises.
+
+By the 16th century, with the widespread adoption of the [[printing press]], the increase in the urban population and other social changes, the number of treatises increased dramatically. After around 1500 carrying swords became more acceptable in most parts of Europe. The growing middle classes meant that more men could afford to carry swords, learn fencing and be seen as gentlemen. By the middle of the 16th century many European cities contained great numbers of fencing schools, often clustered together, such as in [[London]] at "Hanging Sword Lane". Italian fencing masters were particularly popular and set up schools in many foreign cities. The Italians brought concepts of science to the art, appealing to the Renaissance mindset.{{Citation needed|date=January 2011}}
+
+In 16th century Germany compendia of older ''Fechtbücher'' techniques were produced, some of them printed, notably by [[Paulus Hector Mair]] (in the 1540s) and by [[Joachim Meyer]] (in the 1570s), based on 14th century teachings of the [[Johannes Liechtenauer|Liechtenauer]] tradition. In this period German fencing developed sportive tendencies.<!-- what is a sportive tendency?-->
+
+The [[rapier]]'s popularity peaked in the 16th and 17th centuries. The [[Dardi school]] of the 1530s, as exemplified by [[Achille Marozzo]], still taught the two-handed [[spadone]], but preferred the single&ndash;handed sword. The success of Italian masters such as Marozzo and [[Salvator Fabris|Fabris]] outside of Italy shaped a new European mainstream of fencing.
+
+The ''Ecole Française d’Escrime'' founded in 1567 under [[Charles IX of France|Charles IX]] produced masters such as [[Henry de Sainct-Didier]] who introduced the French [[fencing terminology]] that remains in use today.
+
+===Early modern period===
+{{See|French school of fencing|Rapier fencing|Destreza|Joseph Swetnam}}
+Strictly, the [[European dueling sword]] is a [[Basket-hilted sword|basket]] and cage [[hilt]]ed weapon specifically used in [[duel]]s from the late 17th to the 19th century. It developed through several forms of the [[rapier]] to the [[smallsword]]—reflecting the changes from a cutting style of swordplay to a thrusting style ('foining'). This was a result of increasing specialization in their use on the dueling field, and the social stigma attached to carrying and using swords too obviously adapted to the actual "work" of warfare. The smallsword, and the last version of the rapier, were made possible only by [[Metallurgy|metallurgical]] advances in the 17th century as high [[toughness]] [[steel]]s became more readily available.{{Citation needed|date=February 2007}}
+
+In [[England]], it was not uncommon for fencing masters to duel other masters, often to the death, stopping to dress wounds. Such spectacles were generally held in [[beargarden]]s, particularly in the [[Southwark]] neighborhood near [[London]].<ref>[http://books.google.co.uk/books?ct=result&id=6-E8AAAAIAAJ&jtp=495 ''A Description of England and Ireland, in the 17th Century'', by Mons. Jorevin], section reprinted in: ''The Every-day Book and Table Book; or, Everlasting Calendar of Popular Amusements, Sports, Pastimes, Ceremonies, Manners, Customs, and Events, Each of the Three Hundred and Sixty-Five Days, in Past and Present Times; Forming a Complete History of the Year, Months, and Seasons, and a Perpetual Key to the Almanac, Including Accounts of the Weather, Rules for Health and Conduct, Remarkable and Important Anecdotes, Facts, and Notices, in Chronology, Antiquities, Topography, Biography, Natural History, Art, Science, and General Literature; Derived from the Most Authentic Sources, and Valuable Original Communication, with Poetical Elucidations, for Daily Use and Diversion. Vol III.'', ed. William Hone, (London: 1838) p. 495. Retrieved on 2008-06-20.</ref>
+
+The [[Foil (fencing)|foil]] was invented in [[France]] as a training technique in the middle of the 18th century; it enabled fast and elegant thrust fencing with a smaller and safer weapon than a dueling sword. Fencers blunted (or "foiled") its point by wrapping a foil around the blade or fastening a knob on the point ("blossom", [[French language|French]] ''fleuret''). Some fencers took away the protection and used the sharp foil for duels. [[Germany|German]] students took up that practice and developed the ''[[Paris]]er'' ("Parisian") thrusting small sword for the ''Stoßmensur'' ("thrusting mensur").
+[[File:Pariser.jpg|thumb|300px|"Pariser" small sword, derived from the French [[foil (fencing)|foil]]]]
+
+After the dress sword was abolished, the ''Pariser'' became the only weapon for thrust fencing in German colleges and universities. Many students died from pierced [[lung]]s (''Lungenfuchser''). A countering movement started in Göttingen in the 1750s, with the invention of the ''Göttinger Hieber'', a predecessor of the modern ''Korbschläger'', a weapon for cut fencing. In the following years, the ''Glockenschläger'' was invented in an Eastern Germany university, also for cut fencing.{{Citation needed|date=January 2011}}
+
+===1800 to 1918===
+{{See|Classical fencing|Academic fencing}}
+
+Thrust fencing (using the ''Pariser''), and cut fencing (using ''Korbschläger'' or ''Glockenschläger''), existed in parallel in Germany during the first decades of the 19th century, according to local preferences. Thrust fencing was especially popular in [[Jena]], [[Erlangen]], [[Würzburg]] and [[Ingolstadt]]/[[Landshut]], two towns where the predecessors of [[Ludwig Maximilian University of Munich|Munich University]] were located. The last thrust ''Mensur'' is recorded to have taken place in Würzburg in 1860.
+
+Until the first half of the 19th century all types of academic fencing can be seen as [[duel]]s, since fencing with sharp weapons was about honour. No combat with sharp blades took place without a formal insult. For duels involving non-students, e.g. military officers, the ''academic sabre'' became usual, apparently derived from the military sabre. It was then a heavy weapon with a curved blade and a hilt similar to the ''Korbschläger''.
+
+''[[Classical fencing]]'' derives most directly from the 19th and early&ndash;20th century national fencing schools, especially in [[Italy]] and [[France]], although other pre&ndash;[[World War II]] styles such as [[Russia]]n and [[Hungary|Hungarian]] are also considered classical. Masters and legendary fencing figures such as [[Giuseppe Radaelli]], Louis Rondelle, Masaniello Parise, the Greco brothers, [[Aldo Nadi]] and his rival Lucien Gaudin were typical practitioners of this period. 
+
+Fencing was part of the first [[Olympics Games]] in the [[1896 Summer Olympics|summer of 1896]]. Épée and Sabre events have been held at every [[Summer Olympics]]; foil events have been held at every Summer Olympics except 1908.
+
+Four judges determined whether a touch had been made. Two side judges stood behind and beside each fencer, watching for hits made by that fencer. A director observed from several feet away. At the end of each action, after calling "Halt!", the director described the action, and then polled the judges. If the judges differed, or abstained, the director could overrule. However, while the director had 1 1/2 votes, and the judges only 1 each, 2 judges in agreement could overrule the director.
+
+This method had serious limitations, though it was universally used. As described in the London newspaper, the ''[[Daily Telegraph & Courier]]'', on June 25, 1896: "Every one who has watched a bout with the foils knows that the task of judging the hits is with a pair of amateurs difficult enough, and with a well-matched pair of maîtres d’escrime well&ndash;nigh impossible." There also were problems with bias: well&ndash;known fencers were often given the benefit of mistakes (so&ndash;called "reputation touches"), and in some cases there was outright cheating. [[Aldo Nadi]] complained about this in his autobiography ''[[The Living Sword]]'' in regard to his famous match with [[Lucien Gaudin]]. The ''Daily Courier'' article described a new invention, the electrical scoring machine, that would revolutionize fencing.
+
+===1918 to present===
+Dueling went into sharp decline after [[World War I]]. After [[World War II]], dueling went out of use in [[Europe]] except for very rare exceptions. Training for duels, once fashionable for males of [[Aristocracy (class)|aristocratic]] backgrounds (although fencing masters such as Hope suggest that many people considered themselves trained from taking only one or two lessons), all but disappeared, along with the classes themselves. Fencing continued as a sport, with tournaments and championships. However, the need to actually prepare for a duel with "sharps" vanished, changing both training and technique.
+
+Starting with [[épée]] in 1936, side judges were replaced by an electrical scoring apparatus,<ref>Alaux, Michel. ''Modern Fencing: Foil, Epee, and Sabre''. Scribner's, 1975, p. 83.</ref> with an audible tone and a red or green light indicating when a touch landed. [[Foil (fencing)|Foil]] was automated in 1956, [[Sabre (fencing)|sabre]] in 1988. The scoring box reduced the bias in judging, and permitted more accurate scoring of faster actions, lighter touches, and more touches to the back and flank than before.{{Citation needed|date=September 2009}}
+
+==Forms of fencing==
+'''Olympic fencing''' (or simply "fencing") refers to the fencing seen in most current competitions, including the Olympic Games and the [[Fencing World Cup|World Cup]]. Competitions are conducted according to rules laid down by the [[Fédération Internationale d'Escrime]] (FIE), the international [[Sport governing body|governing body]]. These rules evolved from a set of conventions developed in [[Europe]] between mid-17th and early 20th century. The three Olympic weapons are [[foil (sword)|foil]], [[épée]], and [[sabre (fencing)|sabre]]. In competition, the validity of touches is determined by the electronic scoring apparatus and a set of rules called right of way, to eliminate referee error and bias. In the United States, athletes compete at local and national levels. Locally, athletes register for tournaments in their division via a website called "Askfred.net."<ref>[Askfred.net]Ask Fencing Results and Results Database</ref> Nationally, athletes compete in tournaments called "North American Cups", or NAC's for short.<ref>[http://www.usfencing.org/content/index/3793] National Competitions, United States Fencing Association</ref> At these tournaments, competitors divide by age group and division. Age groups include Y12 (Youth 12, or 12 or younger), Y14, Junior (20 or younger), and Cadet (17 or younger). 
+
+Ratings range from A through E (A being the highest and E the lowest) or U (unrated) for new fencers. Some competitions require competitors to meet the rating criteria. Division I fencing requires ratings of C through A. Division II requires a rating of C or lower. Division III requires fencers to have a rating D or lower. In the most common format, fencers first fence 4 to 6 others (a "pool") in 5-touch bouts. Depending on how the fencer does within their pool, the fencer is "seeded" versus the other fencers. Fencers then fence in a single-elimination bout, usually 15 touches. Higher seeds typically do not face each other early in the DE rounds. In a NAC setting, only the top 80% of fencers move from pools to DE. 
+
+Competitions for younger participants (i.e. Y10), usually adopt double elimination. This phase is called "Direct Elimination", or DE for short.
+
+'''[[Wheelchair]] fencing''', an original [[Paralympic Games|Paralympic]] sport, was developed in post-World War II England. Minor modifications to the FIE rules allow [[disabled]] fencers to fence all three weapons. The most apparent change is that each fencer sits in a wheelchair fastened to a frame. Footwork is replaced by [[torso]] or arm movement, depending on the fencer's disability. The proximity of the two fencers tends to increase the pace of bouts. The fencers use standard Olympic weapons.
+
+'''Other variants''' include ''one-hit épée'' (one of the five events which constitute [[modern pentathlon]]) and the various types of competitive fencing, whose rules are similar to FIE rules. One example of this is the [[American Fencing League]] (distinct from the [[United States Fencing Association]]): the format of competitions is different and the priority rules are interpreted in a different way. In a number of countries, school and university matches deviate slightly from the FIE format.
+
+==Weapons==
+Three weapons survive in modern competitive fencing: foil, épée, and sabre. The [[spadroon]] and the heavy [[cavalry]]-style sabre, both popular in the 19th century, fell into disfavour in the early 20th century, replaced by lighter and faster weapons. The [[singlestick]] was featured in the 1904 Olympic Games, but it was already declining in popularity. [[Bayonet]] fencing experienced a somewhat slower decline, with competitions organized by some armed forces as late as the 1940s and 1950s.
+
+While the weapons differ in shape and use, their basic construction is similar across the disciplines. Every weapon has a ''blade'' and a ''hilt''. The tip of the blade is generally referred to as ''the point,'' the top third of the blade as the flexible ''foible'' ('weak'' in French), while the base of the blade is referred to as "the forté" (or ''strong'' part). The hilt consists of a ''guard'' and a ''[[grip (sport fencing)|grip]]''. The guard (also known as the ''coquille'', the ''bell'', or the ''bellguard'') is a metal shell designed to protect the fingers. The grip is the weapon's handle. In foil and épée the more traditional French grip is approximately straight and usually terminates with a ''[[Hilt|pommel]]'' (a heavy nut intended to act as a counterweight for the blade and to hold the handle on the weapon).  Some modern French grip designs do not use a heavy pommel nut, in an effort to reduce weight.
+
+The Italian grip, dating from a similar period, has fallen out of general favor. It features a straight handle and a crossbar beneath the guard that the fencer can use to manipulate the blade. The crossbar is known for causing injury, as the fencer's fingers can become stuck if the blade is turned unexpectedly. It is the only [[ambidextrous]] fencing grip, and many fencers with arm trouble use it so they can freely switch without having to carry twice as many blades. The Italian is banned in some regions, and is mistakenly believed to be banned in others, necessitating that users often carry explicit rulings to show judges to prove it is allowed.
+
+The straight grips have been entirely replaced in higher level foil fencing, and partially replaced in épée fencing, by [[ergonomic]] designs, called pistol grips or orthopaedic grips. Among the many designs, the most popular are the [[Visconti]], [[Belgian]], and [[Russia|Russian grips]], often called 'standard'. Grips produced by [[Zivkovic fencing]] are also popular, and are the most commonly seen 'non-standard' grips.
+
+Modern competitive weapons have electrical wiring which allows them to register a touch on the opponent.
+
+===Foil===
+{{Main|Foil (fencing)}}
+[[File:Foilfence.ogg|thumb|Short clip of foil fencing]]
+[[File:Fencing foil valid surfaces 2009.svg|thumb|International valid foil target - the torso, and the portion of the bib 1.5-2cm below chin level. Note that the USFA does not use the bib target in the United States.]]
+
+The [[Foil (fencing)|foil]] is light and flexible, originally developed in the mid-17th century as a training weapon for the Pariser [[small sword]], a light one-handed sword designed almost exclusively for thrusting.
+
+Competitive foils have a [[push-button]] on the point of the blade, which allows hits to be registered by an electronic scoring apparatus. In order to register, the button must be depressed with a force of at least 4.90 [[newton (unit)|newton]]s (500 [[kilogram-force|grams-force]]) for at least 15 [[milliseconds]]. Foil and [[ Sabre (fencing)|Sabre]] fencers wear conductive jackets ([[Lamé (fencing)|lamé]]) covering their target area, which allow the scoring apparatus to differentiate between on- and off-target hits.
+
+The target area is restricted to the torso, including the front and back. When fencing with electrical equipment, the area around each armpit is not covered by the [[Lamé (fencing)|lamé]], and is thus not legal.
+
+A modification in FIE rules from 1 January 2009 includes that part of the bib<!-- what's a bib--> below a straight line drawn between the shoulders; prior to this, the bib of the mask <!--what mask?-->was not a valid target. The wisdom of this rule is currently widely disputed. The prevailing attitude in the US is that the rule will lead to more risk due to hits to the throat, while forcing fencers to replace or upgrade their equipment. The European opinion is that the change will help prevent fencers from using the bib to block otherwise legitimate hits. This rule has not been implemented uniformly in all National fencing organizations. European fencing organizations have generally decided on September 1, 2009 as the date for all competitions to use the new rule. {{Citation needed|date=September 2009}}
+
+As of September 1, 2009, the USFA had decided not to implement the bib as target for foil. Few hits were actually scored under the new rules in European contests. Domestic competitions in the US do not require the bib target. International events such as Junior or Senior World Cup Events require the bib target.
+
+Foil fencing is conducted using rules of ''right of way'' or ''priority'', which determine which fencer's hit will prevail when both fencers touch. The basic principle is that the fencer who begins an offensive action first prevail over his/her opponent's hit, unless the initial action fails. A fencer's action fails when it falls short of his/her opponent, when it misses, or when it is [[Parry (fencing)|parried]]. When one fencer's action fails, the other's offensive action gains priority. 
+
+"Fencing time" limits this priority. A unit of fencing time is the time taken to perform one action at the current tempo of the exchange. The defender must touch within fencing time to avoid losing priority. If priority cannot be determined when both fencers have hit each other, no point is awarded. The original idea behind the rules of foil fencing was to encourage fencers to defend and attack vital areas, and to fight in a methodical way with initiative passing back and forth between the combatants, thus minimizing the risk of a double death.
+
+The target must be hit with the tip of the foil; a touch with any other part of the foil has no effect whatsoever and fencing continues uninterrupted. A touch on an off-target area halts the action, but does not score a point.
+
+When an exchange ends in a hit, the referee will call "halt", and fencing will cease. The referee will then analyze the exchange and phrase it in official terminology. An example of this terminology would be "Attack from the left, no. Riposte from the right, yes. Point right."
+
+The first offensive action is called the attack. All defensive actions successfully deflecting an opponent's blade are called [[Parry (fencing)|parries]]. An offensive action of a parrying fencer directly following the parry is called a [[riposte]]. An offensive action of a fencer, who attacks a second time without first withdrawing the arm after an unsuccessful first attack, is called a [[Remise (fencing)|remise]]. An offensive action of a fencer from the on-guard position, after being parried and then returning to the on-guard position, is called a reprise. An offensive action of a fencer after his/her opponent has lost the right to riposte via inaction is called a redouble. An offensive action begun by a fencer who is being attacked by his/her opponent is called a counter-attack.
+
+===Épée===
+{{Main|Épée}}
+[[File:Epeefence.ogg|thumb|Short clip of épée fencing]]
+[[File:Fencing epee valid surfaces.svg|thumb|Valid target area at Épée (the entire body).]]
+
+The modern sportng Épée was invented in the second half of the 19th century by a group of French students, who felt that the conventions of foil were too restrictive, and the weapon itself too light; they wanted an experience closer to that of an actual duel. The concept was to create an exact copy of a [[small sword]] but without the needle-sharp point. Instead, the blade terminated in a point d'arrêt, a three-pronged tip which would snag on the clothing without penetrating the flesh.
+
+The épée is a thrusting weapon: to score a valid hit, the fencer must fix the point of his weapon on his opponent's target. The épée target area is the entire body. No rules control the timing of hits. When fencing electronically, fencers do not wear conductive lamé jackets as they do when fencing foil and sabre. In the event of both fencers making a touch within 40 milliseconds of each other, both are awarded a point (a ''double hit''). When the score is equal and the point would mean the win for both, such as in [[modern pentathlon]]'s one-hit épée, neither receives a point. Otherwise, the first to hit always receives the point, regardless of what happened earlier in the phase. The épée is the typically heaviest of the sporting weapons, although some épée blades weigh only {{convert|150|g}}. An épée is composed of a blade, a point, a bell guard, and a handle or grip (French or pistol grip).
+
+The 'electric' épée, used in modern competitive fencing, terminates in a push-button. A hit m toust arrive with a [[force]] of at least {{convert|7.35|N}} and the push-button must remain fully depressed for 1 [[millisecond]]. All hits register as valid, unless they land on a [[ground (electricity)|grounded]] metal surface, such as a part of the opponent's weapon, in which case they do not register. At large events, grounded conductive [[Piste (fencing)|pistes]] covert the floor to prevent the registration of hits against it. At smaller events and in club fencing, the referee is responsible for noticing floor hits. These often happen by accident, when an épéeist aims at the opponent's foot and misses. Deliberate floor hits are treated as "dishonest fencing," and penalized accordingly.
+
+Épée has less restrictive rules for footwork and physical contact than the other two weapons. In Épée, a corps-à-corps (collision between fencers) is not penalized unless initialized with intent to harm or is excessively violent. There are no restrictions on crossing of the feet or use of the flèche attack in épée; if the fencers pass each other, the attacking fencer may score until he passes his opponent. The defending fencer has the right to one continuous [[riposte]], and may still score after the attacker has passed.
+
+The counterattack is very important in épée; direct, unprepared attacks are vulnerable to counterattacks to the hand or arm, or to the body of a taller opponent. High level épée is often a game of provocation, with each player trying to lure the other into an attack. Maintaining the appropriate distance is more important than in the other two genres.
+
+===Sabre===
+{{Main|Sabre (fencing)}}
+[[File:Fencing saber valid surfaces.svg|thumb|right|120px|Valid target at [[Sabre (fencing)|sabre]] (everything above the waist, excepting the hands and the back of the head).]]
+
+Sabre is the 'cutting' weapon: points may be scored with edges and sides of the blade, as well as the point. Although the modern design with a light and flexible blade (marginally stiffer than a foil blade which bends easily up and down while a sabre blade bends easier side to side) appeared around the turn of the 19th and 20th century, similar sporting weapons with more substantial blades had been used throughout the [[Victorian era]].
+
+There is some debate as to whether the modern fencing sabre is descended from the [[cavalry]] [[sabre]]s of [[Turkic peoples|Turkic]] origin, which became popular in Central and Western Europe around the time of [[Napoleonic Wars]], or one of Europe's indigenous edged dueling weapons, such as the cutting rapier. In practice, it is likely to be a hybrid of the two. Most of the conventions and vocabulary of modern sabre fencing were developed by late 19th century and early 20th century masters from Italy and Hungary, perhaps most notable among them being [[Italo Santelli]] (1866–1945).
+
+The sabre target covers everything above the waist, except the hands (wrists are included) and the back of the head. Any contact between any part of the blade and any part of the target counts as a valid touch.  Earlier conventions stipulated that a valid touch must be made with the point or either the front or back cutting edge, and that a point attack must not merely graze the target and slip along (pass) the opponent's body. These requirements had to be abandoned, because of technical difficulties, shortly after electronic scoring was introduced into sabre fencing in late 1980s.
+
+Sabre is subject to ''right of way'' rules and specific definitions of a correctly executed [[Attack (fencing)|attack]] and [[Parry (fencing)|parry]]. These differences, together with a much greater scoring surface (the whole of the blade, rather than the point alone), make sabre parries difficult to execute effectively. As a result, sabre tactics rely much more heavily on footwork with blade contact kept to a minimum. Play is not halted by an off-target (hands/below the waist) hit in sabre. To prevent both fencers from immediately charging each other at the beginning of fencing action, crossing of the feet is not allowed, which also prohibits use of the [[Flèche (fencing)|flèche]]. Violations result in a penalty against the offending fencer (a warning, followed by a penalty touch if the offense is repeated). A 'flunge' is sometimes used as a replacement for the outlawed flèche: the fencer leaps at the opponent, being sure to keep his rear foot behind his front as long as possible. Safely landing following this move requires crossing the feet, thus the hit must be scored while airborne. Sabre matches are often decided more quickly than the other weapons.
+
+==Protective clothing==
+[[Image:Chest protector.jpg|thumb|100 px|right|Chest protector (women's)]]
+[[File:Fencing jacket.jpg|thumb|left|Jacket]]
+[[File:Fencing glove.jpg|thumb|100 px|right|Glove]]
+[[File:Fencing plastron.jpg|thumb|100px|left|Plastron]]
+[[File:Fencing knickers.jpg|thumb|100px|left|Breeches/Knickers]]
+[[File:Fencingmask.jpg|thumb|right|100px|Mask]]
+Fencing outfits are made of tough [[cotton]] or [[nylon]]. [[Kevlar]] was added to top level uniform pieces (jacket, breeches, underarm protector, lamé, and the bib of the mask) following the [[Vladimir Viktorovich Smirnov|Smirnov]] incident at the 1982 World Championships in [[Rome]]. However, kevlar breaks down in [[chlorine]] and [[Ultraviolet|UV]] light, complicating the cleaning process.
+
+In recent years other ballistic fabrics such as [[Dyneema]] have been developed that [[puncture resistance|resist puncture]] and which do not have kevlar's issues. FIE rules state that the tournament outfits must be made of fabric that resists a force of {{convert|800|N}} and that the mask bib must resist double that amount.
+
+The complete fencing kit includes:
+*Form-fitting jacket covering [[groin]] with strap (''croissard'') which goes between the legs. In sabre fencing, jackets that are cut along the waist and exclude the groin padding are sometimes used. A small [[gorget]] of folded fabric is sewn in around the collar to prevent the blade from slipping upwards towards the neck.
+*[[Plastron]] , an underarm protector, which goes underneath the jacket and provides double protection on the sword arm side and upper arm. The armpit cannot have a seam, which would line up with the jacket seam and provide a weak spot.
+*One [[glove]] for the sword arm with a gauntlet that prevents blades from going up the sleeve and causing injury, as well as protecting the hand and providing a good grip
+*[[Breeches]] or [[Knickerbockers (clothing)|knickers]] which are a pair of short trousers. The legs grip just below the knee.
+*Knee-length or thigh high [[sock]]s which cover knee and thighs
+*[[Shoes]] with flat soles and reinforcement on the inside of the back foot and heel of front foot, to prevent wear from lunging
+*[[Mask]], including a bib which protects the neck. The mask can usually support {{kg to lb|12}} on the metal mesh {{convert|350|N}} of penetration resistance on the bib. FIE regulations dictate that masks must withstand {{kg to lb|25}} on the mesh and {{convert|1600|N}} on the bib. Some modern masks have a see-through visor in the front of the mask. These can be used at high level competitions (World Championships etc.), currently, however, FIE bans them. Many countries ban them for foil and epee, due to a catastrophic failure of a visor.
+*Plastic chest protector, mandatory for females. While male versions of the chest protector are also available, they were, until recently, primarily worn by instructors, who are hit far more often during training than their students. These are increasingly popular in foil, as the hard surface increases the likelihood that a hit fails to register. The chest protector must be worn next to the skin.
+*Lamé is a layer of electrically conductive material worn over the fencing jacket that entirely covers the valid target area. In foil the lamé is sleeveless, and in sabre the lamé has sleeves and ends in a straight line across the waist. A [[body cord]] is necessary to register scoring: it attaches to the weapon and runs inside the jacket sleeve, then down the back and out to the scoring box. In sabre and foil the body cord connects to the lamé in order to create a circuit to the scoring box.
+*Fencing Masters often choose a heavier protective jacket, usually reinforced by plastic foam to cushion the numerous hits an instructor has to endure. Sometimes in practice, masters wear a protective sleeve or a leg leather to protect their fencing arm or leg.
+
+Traditionally, the fencers' uniform is white (black for instructors). This may be due to the occasional pre-electric practice of covering the point of the weapon in dye, soot, or colored chalk in order to make it easier for the referee to determine the placing of the touches. Recently the FIE rules have been relaxed to allow colored uniforms (save black). The guidelines also limit the permitted size and positioning of sponsorship logos.
+
+==Practice and techniques==
+{{Main|Fencing practice and techniques}}
+
+===Competition formats===
+[[File:Fencingtournament.jpg|thumb|left|250 px|Fencing Tournament. (Note the grounded conductive strips on the floor.)]]
+Fencing tournaments vary in format, and include individual and team competitions. A tournament may include all three weapons, both individual and team, or as in an Épée Challenge, individual épée only. Men and women compete separately in high-level tournaments. Mixed-gender tournaments are commonplace at lower levels, especially those held by individual fencing clubs. An individual event consists of two parts: pools and direct eliminations.
+
+Each fencer is assigned to a pool, typically with 6 others. Every fencer fences everyone else in the pool. If the number of fencers competing is not a multiple of seven, one or more pools adjust to six or eight members. After the pools are finished, the fencers are given a ranking, or "seed," versus other fencers in the tournament, based primarily on their winning percentage, and secondarily on the difference between touches made and received. Once seeding completes, direct elimination starts. Fencers are sorted in a table. High seeds typically receive a bye, while lower seeded players fight for the right to compete against them. 
+
+
+For example, if a tournament has 31 entrants, the fighters compete in pools of 7, 7, 8 and 8. The top player gets a bye in the first round, while the other players compete. After the first round, the 15 winners advance and the top seed joins the fray. Typically the losers of the semi-final round both finish "third".
+
+Team competition involves teams of three fencers. A fourth fencer acts as an alternate, but only one substitution is allowed. The modern team competition is similar to the pool round of the individual competition. Each fencer plays each member of the opposing team, totaling nine matches. Matches are three minutes long, or to 5 points. Points carry into the next bout, thus making it a forty-five touch bout fought by six fencers. Unlike individual tournaments, team tournaments almost always fence for third.
+
+==Universities and schools==
+{{See also|Collegiate Fencing| High School Fencing}}
+
+Fencing has a long history with universities and schools. At least one style of fencing,  [[Academic fencing|Mensur]] in Germany is practiced only within universities. University students compete internationally at the [[Universiade|World University Games]]. The United States holds two national level university tournaments including the [[National Collegiate Athletic Association|NCAA]] championship and the USACFC National Championships<ref>[http://usacfc.org]</ref> (*[[USACFC]]) tournaments in the USA and the [[British Universities & Colleges Sport|BUCS]] fencing championships in the United Kingdom.
+
+Equipment costs and the relatively small scale of the sport limits university fencing to a small number of schools. National fencing organizations have set up programs to encourage more students to fence. Examples include the Regional Youth Circuit program<ref>US Fencing Youth Development Website, [http://www.usfaryc.org/Welcome.html Regional Youth Circuit].</ref> or the Leon Paul Youth Development series in the UK.
+
+The UK hosts two national competitions in which schools compete against each other directly; the [[Public School (UK)|Public Schools]] Fencing Championship, a competition only open to Independent Schools,<ref>[http://www.publicschoolsfencingchampionships.com/home.htm Home :: Public Schools Fencing Championships<!-- Bot generated title -->].</ref> and the Scottish Secondary Schools Championships, open to all secondary schools in Scotland. It contains both teams and individual events and is highly anticipated. Schools organise matches directly against one another and school age pupils can compete individually in the British Youth Championships.
+
+==See also==
+{{portal|Fencing}}
+{|
+|- valign="top"
+|
+*[[Fencing terms]]
+*[[Fencing at the Summer Olympics]]
+*[[World Fencing Championships]]
+*[[Historical European martial arts]]
+*[[Intercollegiate Fencing Association]]
+*[[List of American epee fencers]]
+*[[List of American foil fencers]]
+|
+*[[List of American sabreurs]]
+*[[List of NCAA fencing schools]]
+*[[List of notable fencers]]
+*[[List of Olympic medalists in fencing (men)]]
+*[[List of Olympic medalists in fencing (women)]]
+*[[USFA Hall of Fame]]
+*[[Commonwealth Fencing Championships]]
+|}
+
+==Notes==
+{{Reflist|2}}
+
+
+==References==
+* Evangelista, Nick (1996). ''The Art and Science of Fencing''. Indianapolis: Masters Press. ISBN 1-57028-075-4.
+* Evangelista, Nick (2000). ''The Inner Game of Fencing: Excellence in Form, Technique, Strategy, and Spirit''. Chicago: Masters Press. ISBN 1-57028-230-7.
+* United States Fencing Association (September, 2005). ''[http://www.usfencing.org/do/filePreview?id=663 United States Fencing Association Rules for Competition]''. Official document. Retrieved 1 December 2005.
+* Amberger, Johann Christoph (1999). ''The Secret History of the Sword''. Burbank: Multi-Media. ISBN 1-892515-04-0
+* British Fencing (September, 2008). ''[http://www.britishfencing.com/British_Fencing.asp?PageID=183 FIE Competition Rules (English) ]''. Official document. Retrieved 16 December 2008.
+
+==External links==
+{{Wiktionary|fencing}}
+{{Commons category|fencing}}
+
+<!-- ATTENTION! Please do not add links without discussion and consensus on the talk page. Undiscussed links will be removed. -->
+*{{dmoz|Sports/Fencing|Fencing}}
+*[http://www.faqs.org/faqs/by-newsgroup/rec/rec.sport.fencing.html Fencing FAQ] from rec.sport.fencing
+
+{{Martial arts}}
+{{Olympic sports}}
+
+[[Category:Fencing|*]]
+[[Category:Modern fencing|*]]
+[[Category:Olympic sports]]
+[[Category:Combat sports]]
+[[Category:Articles containing video clips]]
+
+[[af:Skermsport]]
+[[ar:مبارزة سيف الشيش]]
+[[ast:Esgrima]]
+[[bg:Фехтовка]]
+[[ca:Esgrima]]
+[[cs:Šerm]]
+[[cy:Cleddyfa]]
+[[da:Fægtning]]
+[[de:Fechten]]
+[[et:Vehklemine]]
+[[el:Ξιφασκία]]
+[[es:Esgrima]]
+[[eo:Skermo]]
+[[eu:Eskrima]]
+[[hif:Fencing]]
+[[fr:Escrime]]
+[[fy:Skermjen]]
+[[ga:Pionsóireacht]]
+[[gl:Esgrima]]
+[[ko:펜싱]]
+[[hi:असिक्रीड़ा]]
+[[hr:Mačevanje]]
+[[id:Anggar]]
+[[is:Skylmingar]]
+[[it:Scherma]]
+[[he:סיף]]
+[[jv:Anggar]]
+[[ka:ფარიკაობა]]
+[[lt:Fechtavimas]]
+[[hu:Vívás]]
+[[mt:Skerma]]
+[[nl:Schermen]]
+[[ja:フェンシング]]
+[[no:Fekting]]
+[[pl:Szermierka]]
+[[pt:Esgrima]]
+[[ro:Scrimă]]
+[[rm:Scrima]]
+[[ru:Фехтование]]
+[[simple:Fencing]]
+[[sl:Mečevanje]]
+[[sr:Мачевање]]
+[[sh:Mačevanje]]
+[[fi:Miekkailu]]
+[[sv:Fäktning]]
+[[ta:வாள்வீச்சு (விளையாட்டு)]]
+[[tr:Eskrim]]
+[[uk:Фехтування]]
+[[vec:Scherma]]
+[[fiu-vro:Vehklemine]]
+[[war:Iskrima]]
+[[zh-yue:劍擊]]
+[[zh:击剑]]

@@ -1,0 +1,19 @@
+I am not expert, but I'll share what I know:
+
+1. I don't use my admin account for my daily use. I have a user account that I use on daily basis. This account wont allow me or any application to install itself without my knowledge (Ironically most people use admin account to do their daily tasks, which make them exposed to the world all the time)
+
+2. I don't open unknown email. Anything you are not familiar with would most likely junk or email with virus attachment. If you MUST to read it, have another email account DEDICATED for subscriptions, etc. Have work email for work only, and have private email for private groups only
+
+3. Turn off your wireless if you are on wired network (this applies to your bluetooth devices as well). Turn it on when you need it
+
+4. Only provide your personal id to well known & secure websites (look for the url https or lock icon on the explorer window)
+
+5. Always Logging off or signing out from a site when you are done, not close it or browse to other site. That would leave your session open for awhile
+
+6. Banks, Paypal, or similar services NEVER send out request for changing their customers info via emails. That would be a SCAM
+
+7. Finally, the most important tool to protect your system is....
+
+YOUR COMMON SENSE & HOW MUCH YOU ARE WILLING TO SECURE YOUR SYSTEM...
+
+Hope it helps...

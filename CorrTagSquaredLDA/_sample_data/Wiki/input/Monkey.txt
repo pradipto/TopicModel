@@ -1,0 +1,216 @@
+{{Other uses}}
+{{pp-semi-protected|small=yes}}
+{{Taxobox
+| name = Monkeys
+| fossil_range = {{Fossilrange|Oligocene|Present|latest=0}}
+| image = Cebus albifrons edit.jpg
+| image_caption = A young male [[White-fronted Capuchin]] (''Cebus albifrons'').
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Primate]]s <small>in part</small>
+| subdivision_ranks = Sub Groups
+| subdivision =
+*See "[[#Classification|Classification]]"
+| range_map = Monkeysdistributionmap.gif
+| range_map_caption = Range of monkeys: Old World monkeys (red)<br>New World monkeys (orange)
+}}
+
+A '''monkey''' is any cercopithecoid ([[Old World monkey]]) or platyrrhine ([[New World monkey]]) primate. All [[primate]]s that are not [[prosimian]]s or [[ape]]s are monkeys. The 264 known extant monkey species represent two of the three groupings of [[simian]] primates (the third group being the 22 species of apes). Monkeys are generally considered to be intelligent and, unlike apes, monkeys usually have tails.
+
+The New World monkeys are classified within the [[Order_(biology)#Hierarchy_of_ranks|parvorder]] [[New World monkey|Platyrrhini]], whereas the Old World monkeys (superfamily [[Old World monkey|Cercopithecoidea]]) form part of the parvorder [[Catarrhini]], which also includes the apes. Thus, scientifically speaking, monkeys are [[paraphyly|paraphyletic]] (not a single coherent group) and Old World monkeys are actually more closely related to the apes than they are to the New World monkeys.
+
+==Etymology==
+[[Image:Nelliampathi-Monkey.jpg|thumb|left|upright|[[Bonnet Macaque]] in [[Nelliampathi]] mountains, [[Kerala]], [[South India]].]]
+According to the [[Oxford English Dictionary]], the word "monkey" may originate in a [[German language|German]] version of the ''[[Reynard|Reynard the Fox]]'' fable, published circa 1580. In this version of the fable, a character named Moneke is the son of Martin the Ape. The word Moneke may have been derived from the [[Italian language|Italian]] ''monna'', which means "a female ape".<ref>{{cite web |url=http://www.etymonline.com/index.php?term=monkey |title=Monkey |author= |date= |work= |publisher= |accessdate=}}</ref>
+
+The term 'monkey' is an artificial grouping; it is not a "good" [[taxon]], but instead it is a [[Paraphyly|paraphyletic group]], like "[[fish]]". A "good" taxon, as most modern biologists consider it, is a monophyletic group, that is, a group consisting of all the evolutionary descendants of a single ancestor species. The term 'monkey' covers all [[New World monkey|platyrrhines]] (flat, broad noses) and some [[Catarrhini|catarrhines]] (nostrils-downwards), but excludes the [[ape]]s.<ref>{{Cite book|title=The ancestor's tale: a pilgrimage to the dawn of evolution|last=Dawkins|first=Richard|publisher=Houghton Mifflin Harcourt|year=2004|isbn=9780618005833|page=140|url=http://books.google.com/?id=Tub-X6wydKgC&pg=PA140&dq=dawkins+monkey+paraphyletic&q=|accessdate=2008-08-24|postscript=.}}</ref>
+
+Due to its size (up to {{convert|1|m|ft|0|disp=s|abbr=on}}) the [[Mandrill]] is often thought to be an ape, but it is actually an Old World monkey. Also, a few monkey species deceptively have the word "ape" in their common name, such as the [[Barbary Macaque|Barbary Ape]].
+
+A group of monkeys may be referred to as a ''mission'' or a ''tribe''.
+
+==Characteristics==
+Monkeys range in size from the [[Pygmy Marmoset]], at 140 to 160 millimetres (5–6&nbsp;in) long (plus tail) and 120 to 140&nbsp;grams (4–5&nbsp;oz) in weight, to the male [[Mandrill]], almost {{convert|1|m|ft}} long and weighing {{convert|35|kg|lb}}. Some are [[arboreal locomotion|arboreal]] (living in trees) while others live on the [[savanna]]; diets differ among the various species but may contain any of the following: fruit, leaves, seeds, nuts, flowers, eggs and small animals (including insects and spiders).
+
+Some characteristics are shared among the groups; most New World monkeys have [[prehensile tail]]s while Old World monkeys have non-prehensile tails or no visible tail at all. Some have [[trichromacy|trichromat]]ic [[color vision]] like that of humans, others are [[dichromacy|dichromat]]s or [[monochromacy|monochromat]]s. Although both the New and Old World monkeys, like the apes, have forward facing eyes, the faces of Old World and New World monkeys look very different, though again, each group shares some features such as the types of noses, cheeks and rumps.
+
+==Classification==
+[[Image:Saimiri sciureus-1 Luc Viatour.jpg|right|thumb|[[Common Squirrel Monkey]].]]
+[[Image:Macaca fascicularis in Lopburi.JPG|right|thumb|[[Crab-eating Macaque]] in [[Thailand]].]]
+The following list shows where the various monkey families (bolded) are placed in the Primate classification.
+
+* ORDER [[primate|PRIMATES]]
+** Suborder [[Strepsirrhini]]: non-tarsier prosimians
+** Suborder [[Haplorrhini]]: tarsiers, monkeys and apes
+*** Infraorder [[tarsier|Tarsiiformes]]
+**** Family [[tarsier|Tarsiidae]]: tarsiers
+*** Infraorder [[Simian|Simiiformes]]: simians
+**** '''Parvorder [[New World monkey|Platyrrhini]]''': New World monkeys
+***** '''Family [[Cebidae]]''': marmosets, tamarins, capuchins and squirrel monkeys (56 species)
+***** '''Family [[night monkey|Aotidae]]''': night monkeys (8 species)
+***** '''Family [[Pitheciidae]]''': titis, sakis and uakaris (41 species)
+***** '''Family [[Atelidae]]''': howler, spider and woolly monkeys (24 species)
+**** Parvorder [[Catarrhini]]
+***** '''Superfamily [[Old World monkey|Cercopithecoidea]]'''
+****** '''Family [[Old World monkey|Cercopithecidae]]''': Old World monkeys (135 species)
+***** Superfamily [[Ape|Hominoidea]]: apes
+****** Family [[Gibbon|Hylobatidae]]: gibbons ("lesser apes") (13 species)
+****** Family [[Hominidae]]: great apes including humans (7 species)
+
+Note that the smallest grouping that contains them all is the [[Simian|Simiiformes]], the simians, which also contains the apes. Calling apes "monkeys" is considered scientifically incorrect as apes are distinctly defined as different from monkeys.<ref>{{cite web|url=http://www.primates.com/faq/index.html#5|title=How do Apes Differ From Monkeys}}</ref> Apes were included in earlier use of the term, predating modern classifications.<ref>[http://www.merriam-webster.com/dictionary/monkey Definition of Monkey in Merriam Webster's Online Dictionary]</ref> Including some or all apes (other than humans) remained the common usage in the early 20th century<ref>[[Encyclopaedia Britannica 1911]]: [http://www.1911encyclopedia.org/Monkey Monkey]</ref> and is still in colloquial use.<ref>Webster's New World College Dictionary, 4th Ed: [http://www.yourdictionary.com/monkey Monkey]</ref> Calling either a simian is correct.
+
+==Relationship with humans==
+The many species of monkey have varied relationships with humans. Some are [[Pet monkey|kept as pets]], others used as [[model organism]]s in laboratories or in space missions. They may be killed in [[monkey drive]]s when they threatened agriculture, or used as [[service animal]]s for the disabled.
+
+In some areas, some species of monkey are considered agricultural [[Pest (organism)|pest]]s, and can cause extensive damage to commercial and subsistence crops.<ref>{{cite journal|last=Hill|first=Catherine|year=2000|title=Conflict of Interest Between People and Baboons: Crop Raiding in Uganda |journal=International Journal of Primatology|volume=21|issue=2|pages=299–315 |doi = 10.1023/A:1005481605637|postscript=.}}</ref> This can have important implications for the conservation of endangered species, which may be subject to persecution. In some instances farmers' perceptions of the damage may exceed the actual damage.<ref>{{cite journal|doi=10.1046/j.1365-2664.1999.00455.x|last=Siex|first=Kirsten|coauthors=Thomas T. Struhsaker|year=1999|title=Colobus Monkeys and Coconuts: A Study of Perceived Human-Wildlife Conflicts |journal=Journal of Applied Ecology|volume=36|issue=6|pages=1009–1020|postscript=. }}</ref> Monkeys that have become habituated to human presence in tourist locations may also be considered pests, attacking tourists.<ref>{{cite journal|last=Brennan|first=E|coauthors=Else, J; Altmann, J|year=1985|title=Ecology and behaviour of a pest primate: vervet monkeys in a tourist-lodge habitat|journal=African Journal of Ecology|volume=23|issue=1|pages=35–44 | doi = 10.1111/j.1365-2028.1985.tb00710.x|postscript=.}}</ref>
+
+In religion and culture, the monkey often represents quick-wittedness and mischief.
+
+===As service animals for the disabled===
+Some organizations train [[capuchin monkey]]s as [[monkey helper]]s to assist quadriplegics and other people with severe spinal cord injuries or mobility impairments. After being socialized in a human home as infants, the monkeys undergo extensive training before being placed with a quadriplegic. Around the house, the monkeys help out by doing tasks including microwaving food, washing the quadriplegic's face and opening drink bottles.
+
+===In experiments===
+[[Image:AnimaltestingMonkeyCovance2.jpg|left|thumb|upright|[[Covance]] primate-testing lab, [[Vienna, Virginia]], 2004–05<ref name=covance>[http://www.covancecruelty.com/photos.asp "Covance Cruelty"], People for the Ethical Treatment of Animals.</ref>]]
+[[Macaque]]s, especially the [[Rhesus Macaque]], and African [[Green Monkey]]s are widely [[Animal testing on non-human primates|used]] in [[animal testing]] facilities, either wild-caught or purpose-bred.<ref>[http://www.ebra.org/ebrabulletin-the-supply-and-use-of-primates-in-the-eu_17.htm "The supply and use of primates in the EU"], European Biomedical Research Association.</ref> They are used primarily because of their relative ease of handling, their fast reproductive cycle (compared to apes) and their psychological and physical similarity to [[human]]s. In the [[United States]], around 50,000 non-human [[primate]]s, most of them monkeys, have been used in experiments every year since 1973; 10,000 monkeys were used in the [[European Union]] in 2004.{{Citation needed|date=August 2009}}
+[[Image:B60-00036.jpg|right|thumb|upright|Sam, a [[rhesus macaque]], was flown to a height of {{convert|55|mi|km}} by [[NASA]] in 1959.]]
+
+The use of monkeys in laboratories is controversial. [[Animal rights]] activists claim that their use is cruel and produces little information of value, and there have been many protests, vandalism to testing facilities and threats to workers.{{Citation needed|date=August 2009}} Others claim that it has led to many important medical breakthroughs such as the rabies vaccine, understanding of human reproduction and basic knowledge about brain function and that the prevention of harm to humans should be a higher priority than the possible harm done to monkeys. The topic has become a popular cause for [[animal rights]] and [[animal welfare]] groups.{{Citation needed|date=August 2009}}
+
+====In space====
+A number of countries have used monkeys as part of their space exploration programmes, including the United States and France. The first [[monkeys in space|monkey in space]] was Albert II who flew in the US-launched [[V-2|V-2 rocket]] on June 14, 1949.
+
+===As food===
+[[monkey brain (cuisine)|Monkey brains]] are eaten as a delicacy in South Asia, China, and Africa.<ref>{{cite web |author=Bonné, J. |url=http://www.msnbc.msn.com/id/9687163/page/7/ |title=Some bravery as a side dish |publisher=msnbc.com |accessdate=2009-08-15 |date=2005-10-28 }}</ref> In traditional [[Islamic dietary laws]], the eating of monkeys is [[Haraam|forbidden]]. However, monkeys are sometimes eaten in parts of Africa, where they can be sold as "[[bushmeat]]".<ref>{{cite web|author=Institut De Recherche Pour Le Développement |year=2002 |title=Primate Bushmeat : Populations Exposed To Simian Immunodeficiency Viruses |publisher=[[ScienceDaily]] |accessdate=2009-08-15 |url=http://www.sciencedaily.com/releases/2002/04/020403025234.htm}}</ref>
+
+<!-- There are innumerable monkeys in pop culture. Let's not start a laundry list here.-->
+
+===Literature===
+[[Sun Wukong]] (the "Monkey King"), a character who figures prominently in [[Chinese mythology]], is the main protagonist in the classic comic Chinese novel ''[[Journey to the West]]''.
+
+Monkeys are prevalent in numerous books, television programs, and movies. The [[television program|television series]] [[Monkey (TV series)|''Monkey'']] and the literary characters [[Monsieur Eek]] and [[Curious George]] are all examples.
+
+[[Image:Tokyo monkey statue.jpg|thumb|right|upright|Simian statue at a [[buddhism|Buddhist]] shrine in [[Tokyo]], [[Japan]].]]
+
+Informally, the term "monkey" is often used more broadly than in scientific use, and may be used to refer to apes, particularly chimpanzees, gibbons, and gorillas. Author [[Terry Pratchett]] alludes to this difference in usage in his ''[[Discworld]]'' novels, in which the [[Librarian (Discworld)|Librarian]] of the [[Unseen University]] is an [[orangutan]] who gets very violent if referred to as a monkey.
+
+The [[Winged monkeys]] are prominent characters in ''[[List of Oz books|The Wizard of Oz]]''.
+
+===Religion and worship===
+[[Hanuman]], a prominent divine entity in [[Hinduism]], is a monkey-like humanoid. He may bestow longevity.
+
+In [[Buddhism]], the monkey is an early incarnation of Buddha but may also represent trickery and ugliness. The [[Buddhism in China|Chinese Buddhist]] "[[mind monkey]]" metaphor refers to the unsettled, restless state of human mind. Monkey is also one of the Three Senseless Creatures, symbolizing greed, with the tiger representing anger and the deer lovesickness.
+
+The ''Mizaru'' or [[three wise monkeys]] are revered in Japanese folklore.<ref name = "Cooper92">{{cite book |last=Cooper |first=J. C. |title=Symbolic and Mythological Animals |pages=161–63 |year=1992 |publisher= Aquarian Press |location=London |isbn=1-85538-118-4}}</ref>
+
+The [[Moche]] people of ancient Peru worshipped nature.<ref>{{cite book|author=Benson, E. |title=The Mochica: A Culture of Peru |location=New York |publisher=Praeger Press |year=1972 |isbn=978-0500720011}}</ref> They placed emphasis on animals and often depicted monkeys in their art.<ref>{{cite book | author=Berrin, K. & [[Larco Museum|Museo Arqueológico Rafael Larco Herrera]] |title=The Spirit of Ancient Peru: Treasures from the Museo Arqueológico Rafael Larco Herrera |location=New York |publisher=[[Thames & Hudson]] |year=1997 |isbn=978-0500018026}}</ref>
+
+===Entertainment===
+{{Globalize|section|date=May 2010}}
+In the Tamil country, monkeys would be trained in gymnastics by their owners for public entertainment.
+
+===Zodiac===
+The [[Monkey (zodiac)|Monkey]] is the ninth in the twelve-year cycle of animals which appear in the [[Chinese zodiac]] related to the [[Chinese calendar]]. {{#switch:{{#expr:{{CURRENTYEAR}}mod12}}
+|1=Last year was the year of the monkey.
+|0=This year is the year of the monkey.
+|11=Next year will be the year of the monkey.
+|The next time that the monkey will appear as the zodiac sign will be in the year {{#expr:(({{CURRENTYEAR}}+6)/12round0)*12}}}}.<ref>{{cite web|url=http://www.primatestore.com/yearmonkey.htm|title=Primatestore zodiac signs}}</ref>
+
+==See also==
+{{Portal|Mammals}}
+*[[List of monkeys]]
+*[[List of New World monkey species]]
+*[[List of Old World monkey species]]
+*[[Signifying monkey]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wikiquote|monkeys}}
+{{Commons}}
+*[http://www.ippl.org/newsletter/2000s/084_v28_n2_2001-08.pdf#page=5 "The Impossible Housing and Handling Conditions of Monkeys in Research Laboratories"], by Viktor Reinhardt, International Primate Protection League, August 2001
+*[http://exoticpets.about.com/cs/primates/a/primatesaspets.htm The Problem with Pet Monkeys: Reasons Monkeys Do Not Make Good Pets], an article by veterinarian Lianne McLeod on About.com
+*[http://www.monkeyhelpers.org/ Helping Hands: Monkey helpers for the disabled], a U.S. national non-profit organization based in Boston Massachusetts that places specially trained capuchin monkeys with people who are paralyzed or who live with other severe mobility impairments
+
+[[Category:Monkeys| ]]
+
+[[af:Aap]]
+[[als:Affen]]
+[[ar:سعدان]]
+[[gn:Ka'i]]
+[[ay:K'usillu]]
+[[bjn:Warik]]
+[[bn:বানর]]
+[[zh-min-nan:Kâu]]
+[[be:Малпа]]
+[[bo:སྤྲེའུ།]]
+[[bs:Majmun]]
+[[ca:Mico]]
+[[cs:Opice]]
+[[sn:Shoko]]
+[[tum:Munkhwele]]
+[[cy:Mwnci]]
+[[da:Abe]]
+[[de:Affen]]
+[[el:Μαϊμού]]
+[[es:Mono]]
+[[eo:Simio]]
+[[fa:میمون]]
+[[fr:Singe]]
+[[ga:Moncaí]]
+[[gu:વાંદરો]]
+[[hak:Hèu-è]]
+[[xal:Мөчн]]
+[[ko:원숭이]]
+[[ha:Biri]]
+[[hi:बंदर]]
+[[io:Simio]]
+[[id:Monyet]]
+[[jv:Kethèk]]
+[[kl:Aapakaaq]]
+[[rw:Inguge]]
+[[sw:Kima]]
+[[ht:Makak]]
+[[lv:Pērtiķi]]
+[[lt:Beždžionės]]
+[[hu:Majomalkatúak]]
+[[mk:Мајмун]]
+[[ml:കുരങ്ങ്]]
+[[mr:माकड]]
+[[arz:قرد]]
+[[ms:Monyet]]
+[[cdo:Gàu]]
+[[my:မျောက်]]
+[[nah:Ozomahtli]]
+[[nl:Apen]]
+[[ne:बाँदर]]
+[[ja:サル]]
+[[ce:Maymal]]
+[[nrm:Marmoûset]]
+[[pnb:باندر]]
+[[pt:Macaco]]
+[[ro:Maimuță]]
+[[qu:K'usillu]]
+[[ru:Обезьяны]]
+[[se:Áhppa]]
+[[sq:Majmuni]]
+[[simple:Monkey]]
+[[sl:Opica]]
+[[sr:Мајмун]]
+[[su:Monyét]]
+[[fi:Apinat]]
+[[tl:Unggoy]]
+[[ta:குரங்கு]]
+[[te:కోతి]]
+[[th:ลิง]]
+[[tg:Маймун]]
+[[uk:Мавпи]]
+[[ug:مايمۇن]]
+[[vi:Khỉ]]
+[[wa:Séndje]]
+[[war:Amo]]
+[[wo:Golo]]
+[[yi:מאלפע]]
+[[zh-yue:馬騮]]
+[[zh:猴]]

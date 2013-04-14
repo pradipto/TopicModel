@@ -1,0 +1,17 @@
+This is a very broad question so I am going to give you what I think are a couple of the easiest most effective things you can do to protect yourself.
+
+The #1 Rule is that you are the best anti-fraud and identity theft system you can buy. An educated user is far more effective than any software. 
+
++THINK! Think twice before entering or submitting any information for any type of offer on-line. If it sounds to good to be true, especially if it is unsolicited it is likely to be a scam. Research any company before you submit information. A website alone is NOT proof a company is real. One example is the recent surge in scam sights targeting job seekers. Prospective employees who are more than willing to enter all of their personal information for an opportunity to get what sounds like a dream job.
+
++Absolutely do not use the same password for all your accounts. Almost everyone I know does this. This means that one compromised account compromises all of your accounts. Remembering all of those passwords could be a nightmare but there are solutions. Check out KeePass, it is an open source (translate to free and trustworthy) secure password storage solution that you can carry around with on an $8 memory stick from the little bin at the register in Staples.
+
++Secure your wireless home network. I say again, secure your wireless home network.
+
++Do not conduct ANY transactions with sensitive information open wireless networks unless you have implemented some sort of secondary security measure such as a secure tunnel through a trusted provider.
+
++Finally, keep your anti-virus software up to date.
+
+There are many other more complicated things you can do but online security is like security in any other context. There are so many people that are completely unprotected that all you have to do is be a little more protected than the next guy. If your car has an alarm and his doesn't the thief will steal his first. 
+
+And DON'T be afraid of the internet. Your bills in the trash can were just as much of a security risk as your cache in your browser. Enjoy the convenience of the digital world but always be wary of predators looking to take advantage of naive newcomers.

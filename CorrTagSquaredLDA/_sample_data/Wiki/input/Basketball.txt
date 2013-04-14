@@ -1,0 +1,616 @@
+{{Two other uses|the sport|the ball used in the sport|Basketball (ball)}}
+{{pp-vandalism|expiry=March 21, 2011|small=yes}}
+{{pp-move-indef}}
+{{multiple issues|refimprove=February 2009|howto=February 2009}}
+{{Infobox sport
+| image                 = Jordan_by_Lipofsky_16577.jpg
+| imagesize             = 225px
+| caption               = [[Michael Jordan]] goes for a [[slam dunk]] at the old [[Boston Garden]]
+| union                 = [[International Basketball Federation|FIBA]]
+| nickname              =
+| first                 = 1891, [[Springfield, Massachusetts]], USA
+| registered            =
+| contact               = Contact
+| team                  = 13 to 15 (5 at a time)
+| mgender               = Single
+| category              = Indoor or Outdoor
+| ball                  = [[Basketball (ball)|Basketball]]
+| olympic               = 1936
+}}
+
+'''Basketball''' is a [[team sport]] in which two teams of five players try to score points by throwing or "[[#Shooting|shooting]]" a [[basketball (ball)|ball]] through the top of a basketball hoop while following a set of [[Rules of basketball|rules]]. Basketball is one of the most popular and widely viewed [[sport]]s in the world.<ref>{{cite news|url=http://www.guardian.co.uk/football/2008/dec/06/football-brand-globalisation-china-basketball
+|title=They think it's all over|accessdate=2008-12-24|date=2008-12-06|work=The Guardian | location=London | first=Julian | last=Borger}}</ref>
+
+A regulation basketball hoop consists of a rim {{convert|18|in|cm|1}} in diameter and {{convert|10|ft|m|2}} high mounted to a [[Backboard (basketball)|backboard]]. A team can score a field goal by shooting the ball through the hoop during regular play. A [[Field goal (basketball)|field goal]] scores two points for the shooting team if a player is touching or closer to the hoop than the [[3 point line|three-point line]], and three  points (a "3 pointer") if the player is "outside" the three-point line. The team with more points at the end of the game wins, but additional time (overtime) may be issued when the game ends with a tie. The ball can be advanced on the court by bouncing it while walking or running ([[dribbling]]) or passing it to a teammate. It is a violation ([[Traveling (basketball)|traveling]]) to walk with the ball, [[Carrying (basketball)|carry]] it, or to [[double dribble]] (to hold the ball and then resume dribbling).
+
+Various [[Basketball#Violations|violations]] are generally called "fouls". Disruptive physical contact (a [[Personal foul (basketball)|personal foul]]) is penalized, and a [[free throw]] is usually awarded to an offensive player if he is fouled while shooting the ball. A [[technical foul]] may also be issued when certain infractions occur, most commonly for [[unsportsmanlike conduct]] on the part of a player or [[Coach (basketball)|coach]]. A technical foul gives the opposing team a free throw.
+
+Basketball has evolved many commonly used techniques of shooting, passing, and dribbling, as well as specialized [[Basketball position|player positions]] and offensive and defensive structures (player positioning) and techniques. Typically, the tallest members of a team will play [[Center (basketball)|"center"]], "[[small forward]]", or "[[Power forward (basketball)|power forward]]" positions, while shorter players or those who possess the best ball handling skills and speed play "[[point guard]]" or "[[shooting guard]]".
+
+While competitive basketball is carefully regulated, numerous [[variations of basketball]] have developed for casual play. Competitive basketball is primarily an indoor sport played on carefully marked and maintained [[basketball court]]s, but less regulated variations are often played outdoors in both inner city and rural areas.
+
+==History==
+{{Main|History of basketball}}
+[[File:Firstbasketball.jpg|thumb|The first basketball court: [[Springfield College]]]]
+
+===The first rules, court, and game===
+In early December 1891, Dr. [[James Naismith]],<ref>{{cite news|url=http://www.cbc.ca/inventions/inventions.html|title=The Greatest Canadian Invention | work=CBC News}}</ref> a Canadian-born physical education [[professor]] and instructor at the International Young Men's Christian Association Training School<ref>{{cite web|url=http://web.archive.org/web/20010419124201/www.hoophall.com/history/naismith_resume.htm|title=Hoop Hall History Page}}</ref> (YMCA) (today, [[Springfield College]]) in [[Springfield, Massachusetts]], USA, was trying to keep his gym class active on a rainy day. He sought a vigorous indoor game to keep his students occupied and at proper levels of fitness during the long [[New England]] winters. After rejecting other ideas as either too rough or poorly suited to walled-in [[gymnasiums]], he wrote the basic [[rules of basketball|rules]] and nailed a [[peach]] basket onto a 10-foot (3.05&nbsp;m) elevated track. In contrast with modern basketball nets, this peach basket retained its bottom, and balls had to be retrieved manually after each "basket" or point scored; this proved inefficient, however, so the bottom of the basket was removed,<ref>FAQs.org, [http://www.faqs.org/sports-science/Mo-Pl/Naismith-James-A.html James A. Naismith]. Retrieved 2010.02.24.</ref> allowing the balls to be poked out with a long [[dowel]] each time. The peach baskets were used until 1906 when they were finally replaced by metal hoops with backboards. A further change was soon made, so the ball merely passed through, paving the way for the game we know today. An [[association football ball|association football]] was used to shoot baskets. Whenever a person got the ball in the basket, his team would gain a point. Whichever team got the most points won the game.<ref>{{cite web|url=http://www.naismithmuseum.com/naismith_drjamesnaismith/main_drjamesnaismith.htm|accessdate=2007-02-14|date=2007-02-14|title=James Naismith Biography}}</ref>  The baskets were originally nailed to the mezzanine balcony of the playing court, but this proved impractical when spectators on the balcony began to interfere with shots. The backboard was introduced to prevent this interference; it had the additional effect of allowing rebound shots.<ref>Thinkquest, [http://library.thinkquest.org/10480/b-ball.html Basketball]. Retrieved 2009.01.20.</ref>
+
+Naismith's handwritten diaries, discovered by his granddaughter in early 2006, indicate that he was nervous about the new game he had invented, which incorporated rules from a children's game called "[[Duck on a Rock]]", as many had failed before it. Naismith called the new game "Basket Ball".<ref>{{cite news|url=http://sports.espn.go.com/nba/news/story?id=2660882|title=Newly found documents shed light on basketball's birth|accessdate=2007-01-11|date=2006-11-13|agency=Associated Press|work=ESPN.com}}</ref>
+
+The first official game was played in a YMCA gymnasium on January 20, 1892 with nine players. The game ended at 1–0; the shot was made from {{convert|25|ft|m}}, on a court just half the size of a present-day [[Streetball]] or [[National Basketball Association]] (NBA) court. By 1897–1898 teams of five became standard.
+
+===Women's basketball===
+Women's basketball began in 1892 at [[Smith College]] when [[Senda Berenson]], a physical education teacher, modified Naismith's rules for women. Shortly after she was hired at Smith, she went to Naismith to learn more about the game.<ref>{{cite web|url=http://clio.fivecolleges.edu/smith/berenson/1biog/19411000/index.shtml?page=4|title=Pioneers in Physical Education|pages=661–662|accessdate=2009-06-03}}</ref> Fascinated by the new sport and the values it could teach, she organized the first women’s collegiate basketball game on March 21, 1893, when her Smith freshmen and sophomores played against one another.<ref name="Senda Berenson Papers">{{cite web|url=http://clio.fivecolleges.edu/smith/berenson/|title=Senda Berenson Papers|accessdate=2009-06-03}}</ref> Her rules were first published in 1899 and two years later Berenson became the editor of [[Spalding (sports equipment)|A.G. Spalding]]’s first Women's Basketball Guide.<ref name="Senda Berenson Papers" />
+
+===Surge in popularity===
+Basketball's early adherents were dispatched to YMCAs throughout the [[United States]], and it quickly spread through the USA and [[Canada]]. By 1895, it was well established at several women's high schools. While the YMCA was responsible for initially developing and spreading the game, within a decade it discouraged the new sport, as rough play and rowdy crowds began to detract from the YMCA's primary mission. However, other amateur sports clubs, colleges, and professional clubs quickly filled the void. In the years before [[World War I]], the [[Amateur Athletic Union]] and the [[Intercollegiate Athletic Association of the United States]] (forerunner of the [[National Collegiate Athletic Association|NCAA]]) vied for control over the rules for the game. The first pro league, the National Basketball League, was formed in 1898 to protect players from exploitation and to promote a less rough game. This league only lasted five years.
+
+===Basketball Hall of Fame founded===
+By the 1950s, basketball had become a major college sport, thus paving the way for a growth of interest in professional basketball. In 1959, a [[Basketball Hall of Fame|basketball hall of fame]] was founded in [[Springfield, Massachusetts]], site of the first game. Its rosters include the names of great players, coaches, referees and people who have contributed significantly to the development of the game. The hall of fame has people who have accomplished many goals in their career in basketball.
+
+===Development of equipment and technique===
+Basketball was originally played with an [[association football ball|association football]]. The first balls made specifically for basketball were brown, and it was only in the late 1950s that [[Paul D. "Tony" Hinkle|Tony Hinkle]], searching for a ball that would be more visible to players and spectators alike, introduced the orange ball that is now in common use. Dribbling was not part of the original game except for the "bounce pass" to teammates. Passing the ball was the primary means of ball movement. Dribbling was eventually introduced but limited by the asymmetric shape of early balls. Dribbling only became a major part of the game around the 1950s, as manufacturing improved the ball shape.
+
+===Historical antecedents===
+Basketball, [[netball]], [[dodgeball]], [[volleyball]], and [[lacrosse]] are the only ball games which have been identified as being invented by North Americans{{citation needed|date=October 2010}}. Other ball games, such as [[baseball]] and [[Canadian football]], have [[Commonwealth of Nations]], [[Europe]]an, [[Asia]]n or [[African]] connections. Although there is no direct evidence as yet that the idea of basketball came from the ancient [[Mesoamerican ballgame]], knowledge of that game had been available for at least 50 years prior to Naismith's creation, in the writings of [[John Lloyd Stephens]] and [[Alexander von Humboldt]]. Stephens' works especially, which included drawings by [[Frederick Catherwood]], were available at most educational institutions in the 19th century and also had wide popular circulations.
+
+===Early college basketball development===
+Dr. James Naismith was instrumental in establishing [[college basketball]].  His colleague C.O. Beamis fielded the first college basketball team just a year after the Springfield YMCA game at the suburban [[Pittsburgh]] [[Geneva College]].<ref>{{cite web|url=http://www.postgazette.com/pg/10105/1050305-57.stm |title=Grandson of basketball's inventor brings game's exhibit to Geneva College |publisher=Postgazette.com |date=2010-04-15 |accessdate=2010-07-25}}</ref>  Naismith himself later coached at the [[University of Kansas]] for six years, before handing the reins to renowned coach [[Forrest "Phog" Allen]]. Naismith's disciple [[Amos Alonzo Stagg]] brought basketball to the [[University of Chicago]], while [[Adolph Rupp]], a student of Naismith's at Kansas, enjoyed great success as coach at the [[University of Kentucky]].
+
+On February 9, 1895, the first intercollegiate 5-on-5 game was played at [[Hamline University]] between Hamline and the School of Agriculture, which was affiliated with [[University of Minnesota]].<ref>{{cite web |url=http://www.hamline.edu/hamline_info/athletics/facilities/hutton_arena.html |title=Hamline University Athletics: Hutton Arena |publisher=Hamline.edu |date=1937-01-04 |accessdate=2010-07-25}}</ref><ref>{{cite web|author=dcollier |url=http://www.hamline.edu/cla/admission/campuslife/athletics/athletics.html |title=Hamline University Athletics: Admission Athletics Intro Page |publisher=Hamline.edu |date=2004-09-11 |accessdate=2010-07-25}}</ref>  The School of Agriculture won in a 9–3 game.
+
+In 1901, colleges, including the [[University of Chicago]], [[Columbia University]], [[Dartmouth College]], the [[University of Minnesota]], the [[U.S. Naval Academy]], the [[University of Utah]] and [[Yale University]] began sponsoring men's games. In 1905, frequent injuries on the [[College football|football]] field prompted [[President of the United States|President]] [[Theodore Roosevelt]] to suggest that colleges form a governing body, resulting in the creation of the Intercollegiate Athletic Association of the United States (IAAUS). In 1910, that body would change its name to the [[National Collegiate Athletic Association]] ([[NCAA]]).
+
+===Early women's basketball development===
+In 1891, the [[University of California, Berkeley|University of California]] and Miss Head's School played the first women's interinstitutional game. Berenson's freshmen played the sophomore class in the first women's intercollegiate basketball game at [[Smith College]], March 21, 1893.<ref>{{cite web|url=http://www.smith.edu/newssmith/fall2003/100.php|title=You Come in as a Squirrel and Leave as an Owl|accessdate=2009-06-02}}</ref> The same year, [[Mount Holyoke]] and [[Sophie Newcomb College]] (coached by [[Clara Gregory Baer]]) women began playing basketball. By 1895, the game had spread to colleges across the country, including [[Wellesley College|Wellesley]], [[Vassar College|Vassar]], and [[Bryn Mawr College|Bryn Mawr]]. The first intercollegiate women's game was on April 4, 1896. [[Stanford Cardinal|Stanford]] women played [[University of California, Berkeley|Berkeley]], 9-on-9, ending in a 2–1 Stanford victory.
+
+Women's basketball development was more structured than that for men in the early years. In 1905, the Executive Committee on Basket Ball Rules (National Women's Basketball Committee) was created by the [[American Physical Education Association]].<ref name="Historical Timeline">{{cite web|url=http://www.wbhof.com/timeline.html|title=Historical Timeline|accessdate=2009-06-02}}</ref> These rules called for six to nine players per team and 11 officials. The [[International Women's Sports Federation]] (1924) included a women's basketball competition. 37 women's high school varsity basketball or state tournaments were held by 1925. And in 1926, the Amateur Athletic Union backed the first [[NAIA national women's basketball championship|national women's basketball championship]], complete with men's rules.<ref name="Historical Timeline" />
+
+The [[Edmonton Grads]], a touring [[Canadian]] women's team based in [[Edmonton, Alberta]], operated between 1915 and 1940. The Grads toured all over [[North America]], and were exceptionally successful. They posted a record of 522 wins and only 20 losses over that span, as they met any team which wanted to challenge them, funding their tours from gate receipts.<ref>{{cite web|url=http://www.histori.ca/minutes/lp.do?id=13113|title=The Great Teams|accessdate=2009-06-02}}</ref> The Grads also shone on several exhibition trips to [[Europe]], and won four consecutive exhibition [[Olympics]] tournaments, in 1924, 1928, 1932, and 1936; however, women's basketball was not an official Olympic sport until 1976. The Grads' players were unpaid, and had to remain single. The Grads' style focused on team play, without overly emphasizing skills of individual players.
+
+The first women's [[Amateur Athletic Union|AAU]] All-America team was chosen in 1929.<ref name="Historical Timeline" /> Women's industrial leagues sprang up throughout the United States, producing famous athletes, including [[Babe Zaharias|Babe Didrikson]] of the [[Golden Cyclones]], and the [[All American Red Heads Team]], which competed against men's teams, using men's rules. By 1938, the women's national championship changed from a three-court game to [[6 on 6 Basketball|two-court game with six players per team]].<ref name="Historical Timeline" />
+
+===First Canadian interuniversity game===
+The first Canadian interuniversity basketball game was played at the [[YMCA]] in [[Kingston, Ontario]] on February 6, 1904, when [[McGill University]] visited [[Queen's University]]. McGill won 9–7 in overtime; the score was 7–7 at the end of regulation play, and a ten-minute overtime period settled the outcome. A good turnout of spectators watched the game.<ref>''[[Queen's Journal]]'', vol. 31, no. 7, February 16, 1904; ''105 years of Canadian university basketball'', by Earl Zukerman, http://www.cisport.ca/e/m_basketball/story_detail.cfm?id=13618</ref>
+[[File:Liberator-ad.jpg|thumb|Ad from ''[[The Liberator (magazine)|The Liberator]]'' magazine promoting an exhibition in Harlem, March 1922. Drawing by [[Hugo Gellert]].]]
+
+===Early American professional and barnstorming teams===
+Teams abounded throughout the 1920s. There were hundreds of men's [[professional basketball]] teams in towns and cities all over the United States, and little organization of the professional game. Players jumped from team to team and teams played in armories and smoky dance halls. Leagues came and went. [[Barnstorm (sports)|Barnstorming]] squads such as the [[Original Celtics]] and two all-[[African American]] teams, the [[New York Renaissance|New York Renaissance Five]] ("Rens") and (still in existence as of 2010) the [[Harlem Globetrotters]] played up to two hundred games a year on their national tours.
+
+===American national college championships===
+The first men's national championship tournament, the National Association of Intercollegiate Basketball tournament, which still exists as the [[National Association of Intercollegiate Athletics]] (NAIA) [[NAIA national men's basketball championship|tournament]], was organized in 1937. The first national championship for NCAA teams, the [[National Invitation Tournament]] (NIT) in New York, was organized in 1938; the [[NCAA Men's Division I Basketball Championship|NCAA national tournament]] would begin one year later.
+
+College basketball was rocked by gambling scandals from 1948 to 1951, when dozens of players from top teams were implicated in [[match fixing]] and [[point shaving]]. Partially spurred by an association with cheating, the NIT lost support to the NCAA tournament.
+
+===U.S. high school basketball===
+Before widespread school district consolidation, most United States [[high school]]s were far smaller than their present day counterparts. During the first decades of the 20th century, basketball quickly became the ideal interscholastic sport due to its modest equipment and personnel requirements. In the days before widespread [[television]] coverage of professional and college sports, the popularity of high school basketball was unrivaled in many parts of America. Perhaps the most legendary of high school teams was Indiana's [[Franklin Wonder Five]], which took the nation by storm during the 1920s, dominating Indiana basketball and earning national recognition.
+
+Today virtually every high school in the United States fields a basketball team in [[Varsity team|varsity]] competition<ref>http://www.nfhs.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=3506</ref> Basketball's popularity remains high, both in rural areas where they carry the identification of the entire community, as well as at some larger schools known for their basketball teams where many players go on to participate at higher levels of competition after graduation. In the 2003–04 season, 1,002,797 boys and girls represented their schools in interscholastic basketball competition, according to the [[National Federation of State High School Associations]]. The states of [[Illinois]], [[Indiana]] and [[Kentucky]] are particularly well known for their residents' devotion to high school basketball, commonly called [[Hoosier Hysteria]] in Indiana; the critically acclaimed film ''[[Hoosiers]]'' shows high school basketball's depth of meaning to these communities.
+
+====National championships====
+There is currently no national tournament to determine a national high school champion.
+
+The most serious effort was the [[National Interscholastic Basketball Tournament]] at the [[University of Chicago]] from 1917 to 1930.  The event organized by [[Amos Alonzo Stagg]] and sent invitations to state champion teams.  The tournament started out as a mostly Midwest affair but grew.  In 1929 it had 29 state champions.  Faced with opposition from the [[National Federation of State High School Associations]] and [[North Central Association of Colleges and Schools]] that bore a threat of the schools losing their accreditation the last tournament was in 1930.  The organizations said they were concerned that the tournament was being used to recruit professional players from the prep ranks.<ref>{{cite web|url=http://hoopedia.nba.com/index.php?title=National_Interscholastic_Basketball_Tournament |title=National Interscholastic Basketball Tournament – hoopedeia.nba.com – Retrieved September 13, 2009 |publisher=Hoopedia.nba.com |date= |accessdate=2010-07-25}}</ref>
+
+The tournament did not invite minority schools or private/parochial schools.
+
+The National Catholic Interscholastic Basketball Tournament ran from 1924 to 1941 at [[Loyola University Chicago|Loyola University]].<ref>{{cite web|url=http://hoopedia.nba.com/index.php?title=National_Catholic_Interscholastic_Basketball_Tournament |title=National Catholic Interscholastic Basketball Tournament, 1924–1941 – hoopedia.nba.com – Retrieved September 13, 2009 |publisher=Hoopedia.nba.com |date=1941-12-07 |accessdate=2010-07-25}}</ref> The National Catholic Invitational Basketball Tournament from 1954 to 1978 playing at a series of venues at [[The Catholic University of America|Catholic University]], [[Georgetown University|Georgetown]] and [[George Mason University|George Mason]].<ref>{{cite web|url=http://hoopedia.nba.com/index.php?title=National_Catholic_Invitational_Basketball_Tournament |title=National Catholic Invitations Basketball Tournament – hoopedia.nba.com – Retrieved September 13, 2009 |publisher=Hoopedia.nba.com |date= |accessdate=2010-07-25}}</ref>
+
+The National Interscholastic Basketball Tournament for Black High Schools was held from 1929 to 1942 at [[Hampton University|Hampton Institute]].<ref>{{cite web|url=http://hoopedia.nba.com/index.php?title=National_Interscholastic_Basketball_Tournament_for_Black_Schools |title=– National Interscholastic Basketball Tournament for Black High Schools, 1929–1942 – Retrieved September 13, 2009 |publisher=Hoopedia.nba.com |date= |accessdate=2010-07-25}}</ref> The National Invitational Interscholastic Basketball Tournament was held from 1941 to 1967 starting out at [[Tuskegee University|Tuskegee Institute]].  Following a pause during [[World War II]] it resumed at  [[Tennessee State University|Tennessee State College]] in Nashville.  The basis for the champion dwindled after 1954 when ''[[Brown v. Board of Education]]'' began an integration of schools. The last tournaments were held at [[Alabama State University|Alabama State College]] from 1964 to 1967.<ref>{{cite web|url=http://hoopedia.nba.com/index.php?title=National_Invitational_Interscholastic_Basketball_Tournament |title=National Invitational Interscholastic Basketball Tournament – hoopedia.nba.com – Retrieved September 13, 2009 |publisher=Hoopedia.nba.com |date= |accessdate=2010-07-25}}</ref>
+
+===National Basketball Association===
+{{Main|National Basketball Association}}
+
+In 1946, the Basketball Association of America (BAA) was formed. The first game was played in [[Toronto]], Ontario, Canada between the [[Toronto Huskies]] and [[New York Knicks|New York Knickerbockers]] on November 1, 1946. Three seasons later, in 1949, the BAA merged with the [[National Basketball League (United States)|National Basketball League]] to form the National Basketball Association (NBA). An upstart organization, the [[American Basketball Association]], emerged in 1967 and briefly threatened the NBA's dominance until the [[ABA-NBA merger]] in 1976. Today the NBA is the top professional basketball league in the world in terms of popularity, salaries, talent, and level of competition.
+
+The NBA has featured many famous players, including [[George Mikan]], the first dominating "big man"; ball-handling wizard [[Bob Cousy]] and defensive genius [[Bill Russell]] of the [[Boston Celtics]]; [[Wilt Chamberlain]], who originally played for the barnstorming [[Harlem Globetrotters]]; all-around stars [[Oscar Robertson]] and [[Jerry West]]; more recent big men [[Kareem Abdul-Jabbar]], [[Shaquille O'Neal]] and [[Karl Malone]]; playmaker [[John Stockton]]; crowd-pleasing forward [[Julius Erving]]; European stars [[Dirk Nowitzki]] and [[Dražen Petrović]] and the three players who many credit with ushering the professional game to its highest level of popularity: [[Larry Bird]], [[Magic Johnson|Earvin "Magic" Johnson]], and [[Michael Jordan]].
+
+In 2001, the NBA formed a developmental league, the [[NBA Development League|NBDL]]. As of 2008, the league has sixteen teams.
+
+===Women's National Basketball Association===
+{{Main|Women's National Basketball Association}}
+
+The NBA-backed Women's National Basketball Association (WNBA) began in 1997. Though it had shaky attendance figures, several marquee players ([[Lisa Leslie]], [[Diana Taurasi]], and [[Candace Parker]] among others) have helped the league's popularity and level of competition. Other [[women's professional sports|professional women's basketball]] leagues in the United States, such as the [[American Basketball League (1996-1998)]], have folded in part because of the popularity of the [[WNBA]].
+
+The WNBA has been looked at by many as a niche league. However, the league has recently taken steps forward.
+
+In June 2007, the WNBA signed a contract extension with [[ESPN]]. The new television deal runs from 2009 to 2016. Along with this deal, came the first ever rights fees to be paid to a women's professional sports league. Over the eight years of the contract, "millions and millions of dollars" will be "dispersed to the league's teams."
+
+The WNBA gets more viewers on national television broadcasts (413,000) than both [[Major League Soccer]] (253,000)<ref>''Street & Smith's SportsBusiness Journal'', [http://www.sportsbusinessjournal.com/article/60481 MLS attendance, TV viewership numbers slip]</ref> and the [[NHL]] (310,732).<ref>''Street & Smith's SportsBusiness Journal'', [http://www.sportsbusinessjournal.com/article/61172 NHL’s attendance, TV ratings both showing increases]</ref>
+
+In a March 12, 2009 article, [[NBA]] commissioner [[David Stern]] said that in the bad economy, "the NBA is far less profitable than the WNBA. We're losing a lot of money amongst a large number of teams. We're budgeting the WNBA to break even this year."<ref>''[[Television New Zealand]]'', [http://tvnz.co.nz/basketball-news/nba-getting-through-tough-times-2539976 BASKETBALL | NBA getting through tough times]</ref>
+
+===Philippine Basketball Association===
+{{Main|Philippine Basketball Association}}
+
+The Philippine Basketball Association's first game was played on April 9, 1975 at the [[Araneta Coliseum]] in [[Cubao]], [[Quezon City]]. [[Philippines]]. It was founded as a "rebellion" of several teams from the now-defunct Manila Industrial and Commercial Athletic Association which was tightly controlled by the Basketball Association of the  Philippines (now defunct), the then-FIBA recognized national association. Nine teams from the MICAA participated in the league's first season that opened on April 9, 1975.
+
+===National Basketball League (Australia)===
+{{Main|National Basketball League Australia}}
+The [[National Basketball League Australia|NBL]] is [[Australia]]'s pre-eminent men's professional basketball league. The league commenced in [[1979 NBL Season|1979]], playing a winter season (April–September) and did so until the completion of the 20th season in [[1998 NBL Season|1998]]. The [[1998-99 NBL Season|1998/99]] season, which commenced only months later, was the first season after the shift to the current summer season format (October–April). This shift was an attempt to avoid competing directly against [[Football in Australia|Australia's various football codes]]. It features 8 teams from around Australia and one in New Zealand. A few players including [[Luc Longley]], [[Andrew Gaze]], [[Shane Heal]], [[Chris Anstey]] and [[Andrew Bogut]] made it big internationally, becoming poster figures for the sport in Australia. The [[Women's National Basketball League]] began in 1981.
+
+===International basketball===
+[[File:Munich 1972.jpg|thumb|upright|XX. Olympic games Munich 1972 [[Krešimir Ćosić]] of Yugoslavia (blue shirt) vs. [[Petr Novicky]] of Czechoslovakia]]
+The [[International Basketball Federation]] was formed in 1932 by eight founding nations: [[Argentina]], [[Czechoslovakia]], [[Greece]], [[Italy]], [[Latvia]], [[Portugal]], [[Romania]] and [[Switzerland]]. At this time, the organization only oversaw amateur players. Its acronym, derived from the French ''Fédération Internationale de Basketball Amateur'', was thus "[[International Basketball Federation|FIBA]]".
+
+Men's Basketball was first [[Basketball at the Summer Olympics|included]] at the [[Berlin]] [[1936 Summer Olympics]], although a demonstration tournament was held in 1904. The United States defeated Canada in the first final, played outdoors. This competition has usually been dominated by the United States, whose team has won all but three titles, the first loss in a controversial final game in [[Munich]] in [[Basketball at the 1972 Summer Olympics|1972]] against the Soviet Union. In 1950 the first [[FIBA World Championship]] for men was held in [[Argentina]]. Three years later, the first [[FIBA World Championship for Women]] was held in [[Chile]]. Women's basketball was added to the Olympics in 1976, which were held in [[Montreal]], Canada with teams such as the [[Soviet Union]], [[Brazil women's national basketball team|Brazil]] and [[Australia women's national basketball team|Australia]] rivaling the [[United States women's national basketball team|American]] squads.
+
+===Pros in the Olympics===
+FIBA dropped the distinction between amateur and professional players in 1989, and in 1992, professional players played for the first time in the Olympic Games. The United States' dominance continued with the introduction of their [[1992 United States men's Olympic basketball team|Dream Team]]. However, with developing programs elsewhere, other national teams started to beat the United States. A team made entirely of NBA players finished sixth in the 2002 World Championships in [[Indianapolis]], behind [[Yugoslavia national basketball team|Yugoslavia]], [[Argentina national basketball team|Argentina]], [[Germany national basketball team|Germany]], [[New Zealand national basketball team|New Zealand]] and [[Spain national basketball team|Spain]]. In the [[2004 Summer Olympics|2004 Athens Olympics]], the United States suffered its first Olympic loss while using professional players, falling to [[Puerto Rico national basketball team|Puerto Rico]] (in a 19-point loss) and [[Lithuania national basketball team|Lithuania]] in group games, and being eliminated in the semifinals by [[Argentina national basketball team|Argentina]]. It eventually won the bronze medal defeating Lithuania, finishing behind Argentina and [[Italy national basketball team|Italy]]. In 2006, in the World Championship of Japan, the United States advanced to the semifinals but were defeated by [[Greece national basketball team|Greece]] by 101–95. In the bronze medal game it beat team [[Argentina national basketball team|Argentina]] and finished 3rd behind Greece and Spain.
+
+After the disappointments of 2002 through 2006, the U.S. regrouped, reestablishing themselves as the dominant international team behind the [[2008 United States men's Olympic basketball team|"Redeem Team"]], which won gold at the [[Basketball at the 2008 Summer Olympics|2008 Olympics]], and the so-called "B-Team", which won gold at the [[2010 FIBA World Championship]] in Turkey despite featuring no players from the 2008 squad.
+
+===International stars in the NBA===
+Worldwide, basketball tournaments are held for boys and girls of all age levels. The global popularity of the sport is reflected in the nationalities represented in the NBA. Players from all six inhabited continents currently play in the NBA. Top international players began coming into the NBA in the mid 1990's, including Croatians [[Dražen Petrović]] and [[Toni Kukoč]], Serbian [[Vlade Divac]], Lithuanians [[Arvydas Sabonis]] and [[Šarūnas Marčiulionis]] and German [[Detlef Schrempf]].
+
+John Hollinger of [[ESPN]] has analyzed foreign players' performance in the NBA and his research suggests that players moving from the Euroleague to the NBA experience, on average, a 25 per cent drop in scoring rate, an increase of 18% in their rebound rate, a 31% increase in their assist rate, a drop of 12 per cent in shooting percentage and a 30 per cent drop in [[Player Efficiency Rating]].<ref>{{cite news|last=Hollinger|first=John|title=Forecasting the NBA careers of recently drafted international players|url=http://insider.espn.go.com/nba/draft2007/insider/columns/story?columnist=hollinger_john&id=2920870&action=login&appRedirect=http%3a%2f%2finsider.espn.go.com%2fnba%2fdraft2007%2finsider%2fcolumns%2fstory%3fcolumnist%3dhollinger_john%26id%3d2920870|work=ESPN Insider|date=29 June 2007|accessdate=14 May 2010}}</ref>
+
+===Globalization of basketball===
+The all-tournament teams at the [[2002 FIBA World Championship|2002]] and [[2006 FIBA World Championship|2006]] [[FIBA World Championship]]s, respectively held in Indianapolis and Japan, demonstrate the globalization of the game equally dramatically. Only one member of either team was American, namely [[Carmelo Anthony]] in 2006. The 2002 team featured Nowitzki, Ginobili, Yao, [[Predrag Stojaković|Peja Stojakovic]] of Yugoslavia (now of [[Serbia national basketball team|Serbia]]), and [[Pero Cameron]] of New Zealand. Ginobili also made the 2006 team; the other members were Anthony, Gasol, his [[Spain national basketball team|Spanish]] teammate [[Jorge Garbajosa]] and [[Theodoros Papaloukas]] of [[Greece national basketball team|Greece]]. The only players on either team to never have joined the NBA are Cameron and Papaloukas.
+
+The all-tournament team from the [[2010 FIBA World Championship|2010 edition]] in [[Turkey]] featured four NBA players—MVP [[Kevin Durant]] of Team USA and the [[Oklahoma City Thunder]], [[Linas Kleiza]] of [[Lithuania national basketball team|Lithuania]] and the [[Toronto Raptors]], [[Luis Scola]] of Argentina and the [[Houston Rockets]], and [[Hedo Türkoğlu]] of [[Turkey national basketball team|Turkey]] and the [[Phoenix Suns]]. The only non-NBA player was Serbia's [[Miloš Teodosić]].
+
+The strength of international Basketball is evident in the fact that Team USA won none of the three world championships held between 1998 and 2006, with Serbia (then known as Yugoslavia) winning in 1998 and 2002 and Spain in 2006.
+
+==Rules and regulations==
+{{Main|Rules of basketball}}
+<!-- Please do be careful not to include too much detail when editing this section; see talk page for more info. -->
+
+Measurements and time limits discussed in this section often vary among tournaments and organizations; international and NBA rules are used in this section.
+
+The object of the game is to outscore one's opponents by throwing the ball through the opponents' basket from above while preventing the opponents from doing so on their own. An attempt to score in this way is called a shot. A successful shot is worth two points, or [[three-point field goal|three points]] if it is taken from beyond the three-point arc which is {{convert|6.25|m|ftin|abbr=off}} from the basket in international games and {{convert|23|ft|9|in|m}} in NBA games. A one-point shot can be earned when shooting from the foul line after a foul is made.
+
+===Playing regulations===
+<!-- Please be careful not to include too much detail when editing this section; see talk page for more info. -->
+Games are played in four quarters of 10 ([[International Basketball Federation|FIBA]])<ref>[http://www.fiba.com/asp_scripts/downMana.asp?fileID=1260 FIBA Official Basketball Rules (2010)] Rule 4, Section 8.1 Retrieved July 26, 2010</ref> or 12 minutes (NBA).<ref>[http://i.cdn.turner.com/nba/nba/.element/pdf/2.0/sect/officiating/Official_NBA_Rule_Rook_09-10.pdf NBA Official Rules (2009-2010)] Rule 5, Section II, a. Retrieved July 26, 2010.</ref> College games use two 20-minute halves,<ref name=college>[http://www.ncaapublications.com/DownloadPublication.aspx?download=BR11.pdf 2009-2011 Men's & Women's Basketball Rules] Rule 5, Section 6, Article 1. Retrieved July 26, 2010.</ref> while high school varsity games use 8 minute quarters.<ref name=highschool>{{cite book |editor1-first=Mary |editor1-last=Struckhoff |title=2009-2010 NFHS Basketball Rules |year=2009 |publisher=[[National Federation of State High School Associations|National Federation of High Schools]] |location=Indianapolis, Indiana |page=41 }} Rule 5, Section 5, Article 1</ref> Fifteen minutes are allowed for a half-time break under FIBA, NBA, and NCAA rules<ref name=college /><ref>[http://i.cdn.turner.com/nba/nba/.element/pdf/2.0/sect/officiating/Official_NBA_Rule_Rook_09-10.pdf NBA Official Rules (2009-2010)] Rule 5, Section II, c. Retrieved July 26, 2010.</ref><ref>[http://www.fiba.com/asp_scripts/downMana.asp?fileID=1260 FIBA Official Basketball Rules (2010)] Rule 4, Section 8.4 Retrieved July 26, 2010</ref> and 10 minutes in high school.<ref name=highschool /> [[Overtime (sports)#Basketball|Overtime]] periods are five minutes in length<ref name=college /><ref>[http://i.cdn.turner.com/nba/nba/.element/pdf/2.0/sect/officiating/Official_NBA_Rule_Rook_09-10.pdf NBA Official Rules (2009-2010)] Rule 5, Section II, b. Retrieved July 26, 2010.</ref><ref>[http://www.fiba.com/asp_scripts/downMana.asp?fileID=1260 FIBA Official Basketball Rules (2010)] Rule 4, Section 8.7 Retrieved July 26, 2010</ref> except for high school which is four minutes in length.<ref name=highschool /> Teams exchange baskets for the second half. The time allowed is actual playing time; the clock is stopped while the play is not active. Therefore, games generally take much longer to complete than the allotted game time, typically about two hours.
+
+Five players from each team may be on the court at one time.<ref>[http://www.fiba.com/asp_scripts/downMana.asp?fileID=1260 FIBA Official Basketball Rules (2010)] Rule 3, Section 4.2.2 Retrieved July 26, 2010</ref><ref>[http://i.cdn.turner.com/nba/nba/.element/pdf/2.0/sect/officiating/Official_NBA_Rule_Rook_09-10.pdf NBA Official Rules (2009-2010)] Rule 3, Section I, a. Retrieved July 26, 2010.</ref><ref>[http://www.ncaapublications.com/DownloadPublication.aspx?download=BR11.pdf 2009-2011 Men's & Women's Basketball Rules] Rule 10, Section 2, Article 6. Retrieved July 26, 2010.</ref><ref>{{cite book |editor1-first=Mary |editor1-last=Struckhoff |title=2009-2010 NFHS Basketball Rules |year=2009 |publisher=[[National Federation of State High School Associations|National Federation of High Schools]] |location=Indianapolis, Indiana |page=59 }} Rule 10, Section 1, Article 6</ref> [[Substitution (sport)|Substitution]]s are unlimited but can only be done when play is stopped. Teams also have a [[coach (sport)|coach]], who oversees the development and strategies of the team, and other team personnel such as assistant coaches, managers, statisticians, doctors and trainers.
+
+For both men's and women's teams, a standard uniform consists of a pair of shorts and a [[jersey (clothing)|jersey]] with a clearly visible number, unique within the team, printed on both the front and back. Players wear [[high-top]] sneakers that provide extra ankle support. Typically, team names, players' names and, outside of North America, sponsors are printed on the uniforms.
+
+A limited number of time-outs, clock stoppages requested by a coach (or sometimes mandated in the NBA) for a short meeting with the players, are allowed. They generally last no longer than one minute (100 seconds in the NBA) unless, for televised games, a commercial break is needed.
+
+The game is controlled by the [[Official (basketball)|officials]] consisting of the referee (referred to as crew chief in the NBA), one or two umpires (referred to as referees in the NBA) and the table officials. For college, the NBA, and many high schools, there are a total of three referees on the court. The table officials are responsible for keeping track of each teams scoring, timekeeping, individual and team [[Personal foul (basketball)|fouls]], player substitutions, team [[possession arrow]], and the [[shot clock]].
+
+===Equipment===
+{{Main|Basketball (ball)|Basketball court|Backboard (basketball)}}
+<!-- Please be careful not to include too much detail when editing this section; see talk page for more info. -->
+[[File:Basketball.png|thumb|upright|Traditional eight-panel [[basketball (ball)|basketball]]]]
+
+The only essential equipment in a basketball game is the basketball and the court: a flat, rectangular surface with baskets at opposite ends. Competitive levels require the use of more equipment such as clocks, scoresheets, scoreboard(s), alternating possession arrows, and whistle-operated stop-clock systems.
+
+[[File:Basketball Goal.jpg|thumb|An outdoor basketball net.]]
+A regulation [[basketball court]] in international games is {{convert|28|m|ft|1}} long and {{convert|15|m|ft|1}} wide. In the [[NBA]] and [[NCAA]] the court is {{convert|94|ft|m|1}} by {{convert|50|ft|m|1}}. Most courts have [[wood flooring]], usually constructed from [[maple]] planks running in the same direction as the longer court dimension.<ref>{{cite web|url=http://www.connorfloor.com/green.php|title=Connor Sports Flooring|accessdate=2009-06-03}}</ref> The name and [[logo]] of the home team is usually painted on or around the center circle.
+
+The basket is a steel rim {{convert|18|in|cm|1}} in diameter with an attached net affixed to a backboard that measures {{convert|6|ft|cm|1}} by {{convert|3.5|ft|cm|1}}, and one basket is at each end of the court. The white outlined box on the backboard is {{convert|18|in|cm|1}} high and {{convert|2|ft|cm|1}} wide. At almost all levels of competition, the top of the rim is exactly {{convert|10|ft|cm|0}} above the court and {{convert|4|ft|cm|1}} inside the baseline. While variation is possible in the dimensions of the court and backboard, it is considered important for the basket to be of the correct height - a rim that is off by just a few inches can have an adverse effect on shooting.
+
+The size of the basketball is also regulated. For men, the official ball is {{convert|29.5|in|cm|1}} in circumference (size 7, or a "295 ball") and weighs {{convert|22|oz|g|0}}. If women are playing, the official basketball size is {{convert|28.5|in|cm|1}} in circumference (size 6, or a "285 ball") with a weight of {{convert|20|oz|g|0}}.
+
+===Violations===
+<!-- Please be careful not to include too much detail when editing this section; see talk page for more info. -->
+The ball may be advanced toward the basket by being shot, passed between players, thrown, tapped, rolled or dribbled (bouncing the ball while running).
+
+The ball must stay within the court; the last team to touch the ball before it travels out of bounds forfeits possession. The ball is out of bounds if touches or crosses over a boundary line, or touches a player who is out of bounds. This is in contrast to other sports such as [[association football|football]], [[volleyball]], and [[tennis]] (but not [[Rugby football|rugby]] or [[American football]]) where the ball (or player) is still considered in if any part of it is touching a boundary line.
+
+The ball-handler may not move both feet without dribbling, an infraction known as [[traveling (basketball)|traveling]], nor may he dribble with both hands or catch the ball in between dribbles, a violation called [[double dribble|double dribbling]]. A player's hand cannot be under the ball while dribbling; doing so is known as [[Carrying (basketball)|carrying the ball]]. A team, once having established ball control in the front half of the court, may not return the ball to the backcourt and be the first to touch it. The ball may not be kicked, nor be struck with the fist. A violation of these rules results in loss of possession, or, if committed by the defense, a reset of the [[shot clock]] (with some exceptions in the NBA).
+
+There are limits imposed on the time taken before progressing the ball past halfway (8 seconds in international and NBA; 10 seconds in NCAA men's play and high school for both sexes, but no limit in NCAA women's play), before attempting a shot (24 seconds in the NBA, 30 seconds in NCAA women's and [[Canadian Interuniversity Sport]] play for both sexes, and 35 seconds in NCAA men's play), holding the ball while closely guarded (5 seconds), and remaining in the restricted area below the foul line (the lane, or "[[key (basketball)|key]]") (3 seconds). These rules are designed to promote more offense.
+
+No player may touch the ball on its downward flight to the basket, unless the ball has no chance of entering the basket (goaltending). In addition, no player may touch the ball while it is on or in the basket; when any part of the ball is in the cylinder above the basket (the area extended upwards from the basket); or when the ball is outside the cylinder, if the player reaches through the basket and touches it. This violation is known as "basket interference". If a defensive player goaltends or commits basket interference, the basket is awarded and the offending team gets the ball. If a teammate of the shooter goaltends or commits interference, the basket is cancelled and play continues with the defensive team being given possession.
+
+===Fouls===
+<!-- Please be careful not to include too much detail when editing this section; see talk page for more info. -->
+[[File:Basketball foul.jpg|thumb|upright|The referee signals that a foul has been committed.]]
+{{Main|Personal foul (basketball)|Technical foul}}
+An attempt to unfairly disadvantage an opponent through physical contact is illegal and is called a foul. These are most commonly committed by defensive players; however, they can be committed by offensive players as well. Players who are fouled either receive the ball to pass inbounds again, or receive one or more [[free throw]]s if they are fouled in the act of shooting, depending on whether the shot was successful. One point is awarded for making a free throw, which is attempted from a line {{convert|15|ft|m|abbr=off|lk=off}} from the basket.
+
+The referee may use discretion in calling fouls (for example, by considering whether an unfair advantage was gained), sometimes making fouls controversial calls or no-calls. The calling of fouls can vary between games, leagues and even among referees.
+
+A player or coach who shows poor sportsmanship, such as by arguing with a referee or by fighting with another player, can be charged with a more serious foul called a [[technical foul]]. The penalty involves free throws (where, unlike a personal foul, the other team can choose any player to shoot) and varies among leagues. Repeated incidents can result in [[ejection (sports)|disqualification]]. Blatant fouls with excessive contact or that are not an attempt to play the ball are called intentional fouls (or flagrant fouls in the NBA). In FIBA, a foul resulting in ejection is called a disqualifying foul, while in leagues other than the NBA, such a foul is referred to as flagrant.
+
+If a team exceeds a certain limit of team fouls in a given period (quarter or half) – four for NBA and international games – the opposing team is awarded one or two free throws on all subsequent non-shooting fouls for that period, the number depending on the league. In the US college and high school games, if a team reaches 7 fouls in a half, the opposing team is awarded one free throw, along with a second shot if the first is made. This is called shooting "one-and-one". If a team exceeds 10 fouls in the half, the opposing team is awarded two free throws on all subsequent fouls for the half.
+
+When a team shoots foul shots, the opponents may not interfere with the shooter, nor may they try to regain possession until the last or potentially last free throw is in the air.
+
+After a team has committed a specified number of fouls, it is said to be "in the penalty". On scoreboards, this is usually signified with an indicator light reading "Bonus" or "Penalty" with an illuminated directional arrow indicating that team is to receive free throws when fouled by the opposing team.  (Some scoreboards also indicate the number of fouls committed.)
+
+If a team misses the first shot of a two-shot situation, the opposing team must wait for the completion of the second shot before attempting to reclaim possession of the ball and continuing play.
+
+If a player is fouled while attempting a shot and the shot is unsuccessful, the player is awarded a number of free throws equal to the value of the attempted shot. A player fouled while attempting a regular two-point shot, then, receives two shots. A player fouled while attempting a three-point shot, on the other hand, receives three shots.
+
+If a player is fouled while attempting a shot and the shot is successful, typically the player
+will be awarded one additional free throw for one point. In combination with a regular
+shot, this is called a "three-point play" or "four-point play" (or more colloquially, an "and one") because of the basket made at the time of the foul (2 or 3 points) and the additional free throw (1 point).
+
+==Common techniques and practices==
+===Positions===
+{{main|Basketball position}}
+[[File:Basketball positions.svg|thumb|250px|Basketball positions in the offensive zone]]
+Although the rules do not specify any positions whatsoever, they have evolved as part of basketball. During the first five decades of basketball's evolution, one guard, two forwards, and two centers or two guards, two forwards, and one center were used. Since the 1980s, more specific positions have evolved, namely:
+
+# [[point guard]]: usually the fastest player on the team, organizes the team's offense by controlling the ball and making sure that it gets to the right player at the right time
+# [[shooting guard]]: creates a high volume of shots on offense; guards the opponent's best perimeter player on defense
+# [[small forward]]: often primarily responsible for scoring points via cuts to the basket and dribble penetration; on defense seeks rebounds and steals, but sometimes plays more actively
+# [[Power forward (basketball)|power forward]]: plays offensively often with their back to the basket; on defense, plays under the basket (in a zone defense) or against the opposing power forward (in man-to-man defense)
+# [[Center (basketball)|center]]: uses height and size to score (on offense), to protect the basket closely (on defense), or to rebound.
+
+The above descriptions are flexible. On some occasions, teams will choose to use a ''three guard offense'', replacing one of the forwards or the center with a third guard. The most commonly interchanged positions are point guard and shooting guard, especially if both players have good leadership and ball handling skills.
+
+===Strategy===
+{{main|Basketball playbook}}
+
+The strategies also evolve with the game. In the 1990s and early 2000s, teams played with more "isolation". Teams that had one superstar would let one player, usually the point guard or shooting guard, run most of the offense while the other four offensive players get out of his/her way. Nowadays, teams tend to play with more teamwork. The "Center" position has evolved to become more of a taller "Small Forward" position. Since teams play more teamwork, ball movement has evolved with the game, and more jump shots have been taken as a result.
+
+There are two main defensive strategies: ''zone defense'' and ''man-to-man defense''. In a [[zone defense]], each player is assigned to guard a specific area of the court. In a [[man-to-man defense]], each defensive player guards a specific opponent. Man-to-man defense is generally preferred at higher levels of competition, as it is intuitively easier to understand and avoids mismatches between players who play different positions. However, zone defenses are sometimes used in particular situations or simply to confuse the offense with an unexpected look.
+
+Offensive plays are more varied, normally involving planned passes and movement by players without the ball. A quick movement by an offensive player without the ball to gain an advantageous position is a ''cut''. A legal attempt by an offensive player to stop an opponent from guarding a teammate, by standing in the defender's way such that the teammate cuts next to him, is a ''screen'' or ''pick''. The two plays are combined in the ''[[pick and roll]]'', in which a player sets a pick and then "rolls" away from the pick towards the basket. Screens and cuts are very important in offensive plays; these allow the quick passes and teamwork which can lead to a successful basket. Teams almost always have several offensive plays planned to ensure their movement is not predictable. On court, the point guard is usually responsible for indicating which play will occur.
+
+Defensive and offensive structures, and positions, are more emphasized in higher levels in basketball; it is these that a coach normally requests a time-out to discuss.
+
+===Shooting===
+[[File:Basketball shot.jpg|thumb|upright|Player releases a short jump shot, while her defender is either knocked down, or trying to "take a charge."]]
+
+Shooting is the act of attempting to score points by throwing the ball through the basket. Methods can vary with players and situations.
+
+Typically a player faces the basket with both feet facing the basket. A player will then allow the ball to rest on the fingertips of the dominant hand (the shooting arm) slightly above the head, with the other hand supporting the side of the ball. The ball is typically shot by jumping (though not always) and straightening the shooting arm. The shooting arm, fully extended with the wrist fully bent is held stationary for a moment following the release of the ball, known as a follow-through. Players often try to put a steady backspin on the ball to deaden its impact with the rim. The ideal trajectory of the shot is somewhat arguable, but generally coaches recommend a proper arch. Players may shoot directly into the basket or may use the backboard to redirect the ball into the basket.
+
+The two most common shots that use the above described setup are the ''set shot'' and the ''[[Jump shot (basketball)|jump shot]]''. The set shot is taken from a standing position, with neither foot leaving the floor, typically used for free throws. The jump shot is taken while in mid-air, when the ball is released near the top of the jump. This provides much greater power and range, and it also allows the player to elevate over the defender. Failure to release the ball before the feet return to the ground is considered a traveling violation.
+
+Another common shot is called the ''[[layup]]''. This shot requires the player to be in motion toward the basket, and to "lay" the ball "up" and into the basket, typically off the backboard (the backboard-free, underhand version is called a ''finger roll''). The most crowd-pleasing and typically highest-percentage accuracy shot is the ''[[slam dunk]]'', in which the player jumps very high and throws the ball downward, straight through the hoop.
+
+Another shot that is becoming common is the "circus shot." The circus shot is a low-percentage shot that is flipped, heaved, scooped, or flung toward the hoop while the shooter is off-balance, airborne, falling down, and/or facing away from the basket.
+
+A shot that misses both the rim and the backboard completely is referred to as an [[air ball]]. A particularly bad shot, or one that only hits the backboard, is jocularly called a [[brick (basketball)|brick]].
+
+===Rebounding===
+{{Main|Rebound (basketball)}}
+<!-- There should be at least a paragraph or two here, in addition to the main article link. -->
+The objective of rebounding is to successfully gain possession of the basketball after a missed field goal or free throw, as it rebounds from the hoop or backboard. This plays a major role in the game, as most possessions end when a team misses a shot. There are two categories of rebounds: offensive rebounds, in which the ball is recovered by the offensive side and does not change possession, and defensive rebounds, in which the defending team gains possession of the loose ball. The majority of rebounds are defensive, as the team on defense tends to be in better position to recover missed shots.
+
+===Passing===
+<!-- Image with unknown copyright status removed: [[File:172808 480 art R0.jpg|thumb|left|[[Carlos Arroyo]] shown here with the [[Utah Jazz]], left, passes to a teammate.{{speedy-image-c|2006-10-16}} ]] -->
+{{See also|Assist (basketball)}}
+A pass is a method of moving the ball between players. Most passes are accompanied by a step forward to increase power and are followed through with the hands to ensure accuracy.
+
+A staple pass is the ''chest pass''. The ball is passed directly from the passer's chest to the receiver's chest. A proper chest pass involves an outward snap of the thumbs to add velocity and leaves the defence little time to react.
+
+Another type of pass is the ''bounce pass''. Here, the passer bounces the ball crisply about two-thirds of the way from his own chest to the receiver. The ball strikes the court and bounces up toward the receiver. The bounce pass takes longer to complete than the chest pass, but it is also harder for the opposing team to intercept (kicking the ball deliberately is a violation). Thus, players often use the bounce pass in crowded moments, or to pass around a defender.
+
+The ''overhead pass'' is used to pass the ball over a defender. The ball is released while over the passer's head.
+
+The ''outlet pass'' occurs after a team gets a defensive rebound. The next pass after the rebound is the ''outlet pass''.
+
+The crucial aspect of any good pass is it being difficult to intercept. Good passers can pass the ball with great accuracy and they know exactly where each of their other teammates prefers to receive the ball. A special way of doing this is passing the ball without looking at the receiving teammate. This is called a ''no-look pass''.
+
+Another advanced style of passing is the ''behind-the-back pass'' which, as the description implies, involves throwing the ball behind the passer's back to a teammate. Although some players can perform such a pass effectively, many coaches discourage no-look or behind-the-back passes, believing them to be difficult to control and more likely to result in turnovers or violations.
+
+===Dribbling===
+[[File:Basketball game.jpg|thumb|upright|A U.S. Naval Academy ("Navy") player, left, posts up a U.S. Military Academy ("Army") defender.]]
+{{Main|Dribble}}
+Dribbling is the act of bouncing the ball continuously with one hand, and is a requirement for a player to take steps with the ball. To dribble, a player pushes the ball down towards the ground with the fingertips rather than patting it; this ensures greater control.
+
+When dribbling past an opponent, the dribbler should dribble with the hand farthest from the opponent, making it more difficult for the defensive player to get to the ball. It is therefore important for a player to be able to dribble competently with both hands.
+
+Good dribblers (or "ball handlers") tend to bounce the ball low to the ground, reducing the distance of travel of the ball from the floor to the hand, making it more difficult for the defender to "steal" the ball. Good ball handlers frequently dribble behind their backs, between their legs, and switch directions suddenly, making a less predictable dribbling pattern that is more difficult to defend against. This is called a crossover, which is the most effective way to move past defenders while dribbling.
+
+A skilled player can dribble without watching the ball, using the dribbling motion or [[peripheral vision]] to keep track of the ball's location. By not having to focus on the ball, a player can look for teammates or scoring opportunities, as well as avoid the danger of having someone steal the ball away from him/her.
+
+===Blocking===
+{{Main|Block (basketball)}}
+A block is performed when, after a shot is attempted, a defender succeeds in altering the shot by touching the ball. In almost all variants of play, it is illegal to touch the ball after it is in the downward path of its arc; this is known as ''[[goaltending]]''. It is also illegal under NBA and Men's NCAA basketball to block a shot after it has touched the backboard, or when any part of the ball is directly above the rim.
+
+To block a shot, a player has to be able to reach a point higher than where the shot is released. Thus, height can be an advantage in blocking. Players who are taller and playing the power forward or center positions generally record more blocks than players who are shorter and playing the guard positions. However, with good timing and a sufficiently high vertical leap, even shorter players can be effective shot blockers.
+
+==Height==
+At the professional level, most male players are above {{convert|6|ft|3|in|m|2}} and most women above {{convert|5|ft|7|in|m|2}}. Guards, for whom physical coordination and ball-handling skills are crucial, tend to be the smallest players. Almost all forwards in the men's pro leagues are {{convert|6|ft|6|in|m|2}} or taller. Most centers are over {{convert|6|ft|10|in|m|2}} tall. According to a survey given to all NBA teams, the average height of all NBA players is just under {{convert|6|ft|7|in|m|2}}, with the average weight being close to {{convert|222|lb|kg}}. The tallest players ever in the NBA were [[Manute Bol]] and [[Gheorghe Mureşan]], who were both {{convert|7|ft|7|in|m|2}} tall. The tallest current NBA player is [[Yao Ming]], who stands at {{convert|7|ft|6|in|m|2}}.
+
+The shortest player ever to play in the NBA is [[Muggsy Bogues]] at {{convert|5|ft|3|in|m|2}}.<ref>{{cite web|url=http://www.nba.com/playerfile/muggsy_bogues/bio.html |title=Muggsy Bogues Bio |publisher=NBA.com |date= |accessdate=2010-07-25}}</ref> Other short players have thrived at the pro level.  [[Spud Webb|Anthony "Spud" Webb]] was just {{convert|5|ft|7|in|m}} tall, but had a 42-inch (1.07 m) vertical leap, giving him significant height when jumping. The shortest player in the NBA (and second shortest ever in the NBA) as of the 2009–10 season is [[Earl Boykins]] at 5 feet 5&nbsp;inches (1.65 m).<ref>{{cite web|url=http://www.nba.com/playerfile/earl_boykins/bio.html |title=Earl Boykins Bio Page |publisher=NBA.com |date=1976-06-02 |accessdate=2010-07-25}}</ref> While shorter players are often not very good at defending against shooting, their ability to navigate quickly through crowded areas of the court and steal the ball by reaching low are strengths.
+
+==Variations and similar games==
+{{Main|Variations of basketball}}
+
+'''Variations of basketball''' are activities based on the game of basketball, using common basketball skills and equipment (primarily the ball and basket). Some variations are only superficial rules changes, while others are distinct games with varying degrees of basketball influences. Other variations include children's games, contests or activities meant to help players reinforce skills.
+
+There are principal basketball sports with variations on basketball including '''[[Wheelchair basketball]]''', '''[[Water basketball]]''', '''[[Beach Basketball|Beach basketball]]''', '''[[Slamball]]''', '''[[Streetball]]''' and '''[[Unicycle basketball]]'''. An earlier version of basketball was '''[[Six-on-six basketball]]''' played until the end of the 1950s. '''[[Horseball]]''' is a game played on [[horse]]back where a ball is handled and points are scored by shooting it through a high net (approximately 1.5m×1.5m). The sport is like a combination of [[polo]], [[rugby football|rugby]], and basketball. There is even a form played on donkeys known as '''[[Donkey basketball]]''', but that version has come under attack from animal rights groups.
+
+Games using basketball skills and equipment include popular versions of the half-court game played in informal settings without referees or strict rules. Perhaps the single most common variation is the ''half court'' game. Only one basket is used, and the ball must be "cleared" – passed or dribbled outside the half-court or three-point line -each time possession of the ball changes from one team to the other. Half-court games require less [[cardiovascular]] stamina, since players need not run back and forth a full court. Half-court games also raise the number of players that can use a court, an important benefit when many players want to play. Half court games are also played when there is an insufficient number of players to form full 5-on-5 teams.
+
+There are also other basketball sports like
+*'''[[Twenty-one (basketball)|21]]''' (also known as '''American''', '''cutthroat''' and '''roughhouse''')<ref>{{Cite book
+|title=Basketball and Baseball Games: For the Driveway, Field Or the Alleyway
+|author=Eric Shanburn
+|publisher=AuthorHouse
+|year=2008
+|isbn=9781434389121
+| accessdate = 2010-06-29
+| url = http://books.google.com/?id=6Q7XhPnbT70C&pg=PA35&dq=basketball+cutthroat+21&q
+|postscript=<!--None-->
+}}
+</ref>
+*'''[[Variations of basketball#42|42]]'''
+*'''[[Variations of basketball#Around the World|Around the world]]'''
+*'''[[Variations of basketball#Bounce|Bounce]]'''
+*'''[[Variations of basketball#Firing Squad|Firing Squad]]'''
+*'''[[Variations of basketball#Fives|Fives]]'''
+*'''[[H-O-R-S-E]]'''
+*'''[[Hotshot (game)|Hotshot''']]
+*'''[[Knockout (game)|Knockout]]'''
+*'''[[Variations of basketball#One-shot conquer|One-shot conquer]]'''
+*'''[[Variations of basketball#Steal The Bacon|Steal The Bacon]]'''
+*'''[[Variations of basketball#Tip-it|Tip-it]]'''
+*'''[[Variations of basketball#Tips|Tips]]'''
+*'''[[Variations of basketball#"The One"|"The One"]]'''
+*'''Basketball [[Variations of basketball#War|War]]'''.
+*'''One-on-One''', a variation in which two players will use only a small section of the court (often no more than a half of a court) and compete to play the ball into a single hoop. Such games tend to emphasize individual dribbling and ball stealing skills over shooting and team play.
+
+===Wheelchair Basketball===
+{{Main|Wheelchair basketball}}
+Wheelchair basketball, created by disabled [[World War II]] veterans,<ref>{{cite web|url=http://www.findsportsnow.com/learn/wheelchair-basketball |title=Learn Basketball on FindSportsNow |publisher=Findsportsnow.com |date=2007-11-05 |accessdate=2010-07-25}}</ref> is played on specially designed wheelchairs for the physically impaired. The world governing body of wheelchair basketball is the [[International Wheelchair Basketball Federation]]<ref>{{cite web|author=IWBF |url=http://www.iwbf.org/ |title=IWBF website |publisher=Iwbf.org |date= |accessdate=2010-07-25}}</ref> (IWBF).
+
+===Water Basketball===
+{{Main|Water basketball}}
+Water basketball, played in a swimming pool, merges basketball and [[water polo]] rules.
+
+===Beach Basketball===
+{{Main|Beach basketball}}
+A modified version of basketball, played on beaches, was invented by Philip Bryant.<ref>{{cite web|url=http://www.beachbasketball.com/ |title=World Beach Basketball site |publisher=Beachbasketball.com |date=1995-05-05 |accessdate=2010-07-25}}</ref> Beach basketball is played in a circular court with no backboard on the goal, no out-of-bounds rule with the ball movement to be done via passes or 2½ steps, as dribbling is next to impossible on a soft surface.<ref>[http://www.beachbasketball.com] Beachbasketball.com web site</ref>
+Beach basketball has grown to a very popular, widespread competitive sport. Fifteen Annual World Championships have been organized.
+
+===Dunk Hoops===
+Dunk Hoops (aka Dunk Ball) is a variation of the game of basketball, played on basketball hoops with lowered (under basketball regulation 10 feet) rims. It originated when the popularity of the slam dunk grew and was developed to create better chances for dunks with lowered rims and using altered [[goaltending]] rules.
+
+===Slamball===
+{{Main|Slamball}}
+Slamball is full-contact basketball, with [[trampolines]]. Points are scored by playing the ball through the net, as in basketball, though the point-scoring rules are modified. The main differences from the parent sport is the court; below the padded basketball rim and [[backboard (basketball)|backboard]] are four trampolines set into the floor which serve to propel players to great heights for [[slam dunk]]s. The rules also permit some physical contact between the members of the four-player teams.
+
+===Streetball===
+{{Main|Streetball}}
+Streetball is a less formal variant of basketball, played on [[playground]]s and in [[gym]]nasiums across the world. Often only one half of the court is used, but otherwise the rules of the game are very similar to those of basketball. The number of participants in a game, or a ''run'', may range from one defender and one person on offense (known as ''one on one'') to two full teams of five each.
+
+Streetball is a very popular game worldwide, and some cities in the United States have organized streetball programs, such as [[midnight basketball]]. Many cities also host their own weekend-long streetball tournaments.
+
+===Unicycle Basketball===
+Unicycle basketball is played using a regulation basketball on a regular basketball court with the same rules, e.g., one must dribble the ball whilst riding.  There are a number of rules that are particular to unicycle basketball as well, e.g., a player must have at least one foot on a pedal when in-bounding the ball.  Unicycle basketball is usually played using 24" or smaller unicycles, and using plastic pedals, both to preserve the court and the players' shins. In North America, popular unicycle basketball games are organized.<ref>[http://bayarea.comcastsportsnet.com/UncoveredVid.jsp?bcpid=1274025926&bclid=1313706243&bctid=1432781480 Comcast SportsNet Feature about Berkeley Unicycle Basketball]</ref>
+
+===More distantly related basketball games===
+{{Main|Variations of basketball#More distantly related games}}
+Spin-offs from basketball that are now separate sports include:
+*'''[[Korfball]]''' (Dutch: Korfbal, ''korf'' meaning 'basket') started in the Netherlands and is now played worldwide as a mixed gender team ball game, similar to mixed netball and basketball
+*'''[[Netball]]''' (formerly known as Women basketball but now played by both males and females), a limited-contact team sport in which two teams of seven try to score points against one another by placing a ball through a high hoop.
+
+==Social forms of basketball==
+[[File:Monument to basketball.jpg|thumb|upright|A monument to basketball in [[Vilnius]]]]
+Basketball has been adopted by various social groups, which have established their own environments and sometimes their own rules. Such socialized forms of basketball include the following.
+*'''Recreational basketball,''' where fun, entertainment and camaraderie rule rather than winning a game;
+*'''Basketball Schools and Academies,''' where students are trained in developing basketball fundamentals, undergo fitness and endurance exercises and learn various basketball skills. Basketball students learn proper ways of passing, ball handling, dribbling, shooting from various distances, rebounding, offensive moves, defense, layups, screens, basketball rules and basketball ethics. Also popular are the '''basketball camps''' organized for various occasions, often to get prepared for basketball events, and '''basketball clinics''' for improving skills.
+*'''College and University basketball''' played in educational institutions of higher learning.
+**This includes [[National Collegiate Athletic Association]] (NCAA) intercollegiate basketball.
+*'''Disabled basketball''' played by various disabled groups, such as
+**'''Bankshot basketball''',<ref>{{cite web|url=http://www.bankshot.com/ |title=Bankshot basketball website |publisher=Bankshot.com |date= |accessdate=2010-07-25}}</ref>
+**'''[[Deaf basketball]]''',
+**'''[[Wheelchair basketball]]''', a sport based on basketball but designed for [[disability|disabled]] people in [[wheelchair]]s and considered one of the major [[disabled sports]] practiced.
+*'''Ethnic and Religion-based basketball''': Examples of ethnic basketball include Indo-Pak or Russian or Armenian leagues in the United States or Canada, for example, or Filipino expatriate basketball leagues in the Gulf or the United States. Religion-based basketball includes, most notably, church-related Christian basketball leagues, Jewish, Muslim and Hindu basketball leagues, etc. or denominational leagues like Coptic, Syriac/Assyrian basketball leagues in the United States or Canada.
+*'''Gay basketball''' played in [[gay]], [[lesbian]], [[bisexuality|bisexual]] and [[transgender]] communities in gay basketball leagues. The sport of basketball is a major part of events during the [[Gay Games]], [[World Outgames]] and [[EuroGames (LGBT sporting event)|EuroGames]].
+*'''[[Midnight basketball]]''', a basketball initiative to curb inner-city crime in the United States and elsewhere by keeping urban youth off the streets and engaging them with sports alternatives to drugs and crime.
+*'''Mini basketball''' played by underage children.
+*'''Maxi Basketball''' played by more elderly individuals.
+*'''Prison basketball''', practiced in [[prisons]] and penitentiary institutions. Active religious basketball missionary groups also play basketball with prisoners. Some prisons have developed their own prison basketball leagues. At times, non-prisoners may play in such leagues, provided all home and away games are played within prison courts. Film director [[Jason Moriarty]] has released a documentary relating to the sport, entitled [[Prison Ball]].
+*'''[[Rezball]]''', short for reservation ball, is the term used to describe the avid [[Native Americans in the United States|Native American]] following of basketball and, in some areas, the style of play of Native American teams.
+*'''School or High school basketball''', the sport of basketball being one of the most frequently exercised and popular sports in all school systems.
+*'''Show basketball''' as performed by entertainment basketball show teams, the prime example being the [[Harlem Globetrotters]]. There are even specialized entertainment teams, including
+**'''Celebrity basketball''' teams made of celebrities (actors, singers, etc.) playing in their own leagues or in public, often for entertainment and charity events;
+**'''Midget basketball''' teams made up of athletes of [[short stature]] offering shows using basketball;
+**'''[[Slamball]]''' offered as entertainment events.
+
+==Fantasy basketball==
+{{Main|Fantasy basketball}}
+'''Fantasy basketball''' was inspired by [[fantasy baseball]]. Originally played by keeping track of stats by hand, it was popularized during the 1990s after the advent of the Internet. Those who play this game are sometimes referred to as General Managers, who draft actual [[National Basketball Association|NBA]] players and compute their [[basketball statistics]]. The game was popularized by [[ESPN]] Fantasy Sports, [[NBA.com]], and [[Yahoo!]] Fantasy Sports. Other sports websites provided the same format keeping the game interesting with participants actually owning specific players.
+
+==See also==
+{{Portal|Basketball}}
+{{Main|Outline of basketball}}
+
+*[[Basketball moves]]
+*[[Basketball at the Summer Olympics]]
+*[[Continental Basketball Association]]
+*[[Hot hand fallacy]]
+*[[National Basketball Association]]
+*[[Premier Basketball League]]
+*[[ULEB]] Union des Ligues Européennes de Basket, in English Union of European Leagues of Basketball
+*[[Professional#Sports]]
+
+==References==
+{{reflist|colwidth=30em}}
+<div class="references-small">
+*{{cite web
+ | author=National Basketball Association
+ | year=2001
+ | url=http://www.nba.com/analysis/rules_index.html
+ | title=Official Rules of the National Basketball Association
+ | accessdate=July 16, 2004
+ }}
+*{{cite book
+ | year = 2004
+ | month = June
+ | title = Official Basketball Rules
+ | author = International Basketball Federation
+ | url = http://www.fiba.com/asp_includes/download.asp?file_id=327
+}}
+*{{cite journal
+ | first = Anthony
+ | last = Reimer
+ | year = 2005
+ | month = June
+ | title = FIBA vs North American Rules Comparison
+ | journal = FIBA Assist
+ | issue = 14
+ | pages = 40–44
+ | url = http://www.fiba.com/asp_includes/download.asp?file_id=518}}
+*{{cite web
+ | author=Bonsor, Kevin
+ | url=http://health.howstuffworks.com/basketball2.htm
+ | title=How Basketball Works: Who's Who
+ | work=HowStuffWorks
+ | publisher=
+ | accessdate=January 11, 2006}}</div>
+
+==External links==
+{{Sisterlinks}}
+<!-- Please be selective when adding links, see talk page for more info. -->
+
+===Historical===
+*[http://www.naismithmuseum.com/ Naismith Museum & Basketball Hall of Fame – Almonte, ON]
+*[http://www.hoophall.com/ Basketball Hall of Fame – Springfield, MA]
+*[http://hoopedia.nba.com/index.php/Main_Page Hoopedia – The Basketball Wiki (hosted by the NBA)]
+*[http://www.virtualmuseum.ca/pm.php?id=story_line&lg=English&fl=0&ex=00000176&sl=3555&pos=1 Hometown Sports Heroes]
+*[http://www.nfhs.org/web/2008/05/200809_high_school_basketball_r.aspx New Rule Changes for High School Basketball]
+
+===Organizations===
+* [http://www.olympic.org/uk/sports/programme/index_uk.asp?SportCode=BK Basketball at the Olympic Games]
+* [http://www.fiba.com International Basketball Federation]
+* [http://www.nba.com National Basketball Association]
+* [http://www.wnba.com/ Women's National Basketball Association]
+* [http://www.cbahoopsonline.com Continental Basketball Association (oldest league in the world)]
+* [http://www.nwba.org National Wheelchair Basketball Association]
+
+===Other===
+* {{dmoz|Sports/Basketball|Basketball}}
+* {{yahoo directory|Recreation/Sports/Basketball/|Basketball}}
+* [http://www.basketball.com Basketball.com website]
+* [http://www.eurobasket.com Eurobasket website]
+* [http://www.basketball-reference.com Basketball-Reference.com: Basketball Statistics, Analysis and History]
+* [http://www.ontarioplaques.com/Plaques_JKL/Plaque_Lanark03.html Ontario historical plaque – Dr. James Naismith]
+* [http://www.jimwegryn.com/Names/BasketballTeams.htm Historical List of American Professional Basketball Teams]
+
+{{basketball}}
+{{bb start}}
+{{International basketball}}
+{{Prohoops}}
+{{bb end}}
+{{Team Sport}}
+{{Olympic sports}}
+
+[[Category:Basketball| ]]
+[[Category:1891 introductions]]
+[[Category:Canadian inventions]]
+[[Category:Sports originating in the United States]]
+
+{{Link GA|de}}
+{{Link GA|is}}
+{{Link FA|hr}}
+{{Link FA|mk}}
+
+[[af:Basketbal]]
+[[ar:كرة السلة]]
+[[an:Baloncesto]]
+[[ast:Baloncestu]]
+[[az:Basketbol]]
+[[be:Баскетбол]]
+[[be-x-old:Баскетбол]]
+[[bcl:Basketbol]]
+[[bs:Košarka]]
+[[br:Basketball]]
+[[bg:Баскетбол]]
+[[ca:Basquetbol]]
+[[cv:Баскетбол]]
+[[ceb:Basketbol]]
+[[cs:Basketbal]]
+[[cy:Pêl-fasged]]
+[[da:Basketball]]
+[[de:Basketball]]
+[[et:Korvpall]]
+[[el:Καλαθοσφαίριση]]
+[[es:Baloncesto]]
+[[eo:Korbopilkado]]
+[[ext:Baloncestu]]
+[[eu:Saskibaloi]]
+[[fa:بسکتبال]]
+[[hif:Basketball]]
+[[fo:Kurvabóltur]]
+[[fr:Basket-ball]]
+[[fy:Basketbal]]
+[[fur:Bale tal zei]]
+[[ga:Cispheil]]
+[[gd:Ball-basgaid]]
+[[gl:Baloncesto]]
+[[hak:Làm-khiù]]
+[[ko:농구]]
+[[hy:Բասկետբոլ]]
+[[hi:बास्केटबॉल]]
+[[hr:Košarka]]
+[[io:Basketbalo]]
+[[id:Bola basket]]
+[[ia:Basketball]]
+[[is:Körfuknattleikur]]
+[[it:Pallacanestro]]
+[[he:כדורסל]]
+[[kn:ಬ್ಯಾಸ್ಕೆಟ್‌ಬಾಲ್‌]]
+[[ka:კალათბურთი]]
+[[kk:Баскетбол]]
+[[ky:Баскетбол]]
+[[kv:Кудсяр]]
+[[ht:Baskètbòl]]
+[[la:Canistriludium]]
+[[lv:Basketbols]]
+[[lt:Krepšinis]]
+[[lij:Ballabanastra]]
+[[hu:Kosárlabda]]
+[[mk:Кошарка]]
+[[ml:ബാസ്ക്കറ്റ്ബോൾ]]
+[[mt:Baskitbol]]
+[[mr:बास्केटबॉल]]
+[[mzn:بسکتوال]]
+[[ms:Bola keranjang]]
+[[my:ဘတ်စကက်ဘော]]
+[[nah:Chiquiuhtapayolhuiliztli]]
+[[nl:Basketbal]]
+[[ja:バスケットボール]]
+[[no:Basketball]]
+[[nn:Korgball]]
+[[oc:Basquetbòl]]
+[[mhr:Баскетбол]]
+[[uz:Basketbol]]
+[[pag:Basketball]]
+[[pnb:باسکٹ بال]]
+[[pl:Koszykówka]]
+[[pt:Basquetebol]]
+[[ro:Baschet]]
+[[rm:Ballabasket]]
+[[qu:Isanka rump'u]]
+[[ru:Баскетбол]]
+[[sah:Баскетбол]]
+[[sm:Pasiketipolo]]
+[[sa:शिक्यकन्दुक]]
+[[sco:Basketbaw]]
+[[sq:Basketbolli]]
+[[scn:Palla a canistru]]
+[[simple:Basketball]]
+[[sk:Basketbal]]
+[[sl:Košarka]]
+[[szl:Korbbal]]
+[[so:Kubadda Koleyga]]
+[[sr:Кошарка]]
+[[sh:Košarka]]
+[[fi:Koripallo]]
+[[sv:Basket]]
+[[tl:Basketbol]]
+[[ta:கூடைப்பந்தாட்டம்]]
+[[tt:Баскетбол]]
+[[te:బాస్కెట్ బాల్]]
+[[th:บาสเกตบอล]]
+[[tg:Баскетбол]]
+[[tr:Basketbol]]
+[[uk:Баскетбол]]
+[[ur:باسکٹ بال]]
+[[ug:ۋاسكېتبول]]
+[[vec:Bałacanestro]]
+[[vi:Bóng rổ]]
+[[fiu-vro:Korvpall]]
+[[vls:Basket]]
+[[war:Basketbol]]
+[[yi:קוישבאל]]
+[[zh-yue:籃球]]
+[[diq:Basketbol]]
+[[bat-smg:Krepšėnis]]
+[[zh:篮球]]

@@ -1,0 +1,357 @@
+{{pp-semi|small=yes}}{{pp-move-indef}}
+{{About|a marine mammal}}
+{{Taxobox
+| name = Whale
+| image = DSC 7334.JPG
+| image_size = 300px
+| image_caption = [[Humpback whale]] 
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| subclassis =  [[Eutheria]]
+| ordo = [[Cetacea]]
+}}
+'''Whale''' (origin [[Old English]] ''hƿæl'') is the common name for various [[marine mammal]]s of the order [[Cetacea]].<ref name="OED">{{cite book|title=Shorter Oxford English Dictionary|editor=Brown, Lesley|publisher=Oxford University press|location=Oxford|year=2007|edition=Sixth|volume=II|pages=3611}}</ref> The term ''whale'' sometimes refers to all cetaceans, but more often it excludes [[dolphins]] and [[porpoises]]<ref>http://www.acsonline.org/education/taxonomy.html</ref>, which belong to suborder ''Odontoceti'' ([[toothed whale]]s). This suborder also includes the [[sperm whale]], [[killer whale]], [[pilot whale]], and [[beluga whale]]. The other Cetacean suborder ''Mysticeti'' ([[baleen whale]]s), are [[filter feeder]]s that eat small organisms caught by straining seawater through a comblike structure found in the mouth called [[baleen]]. This suborder includes the [[blue whale]], the [[humpback whale]], the [[bowhead whale]] and the [[minke whale]]. All Cetacea have forelimbs modified as fins, a tail with horizontal [[:wiktionary:fluke|fluke]]s, and nasal openings (blowholes) on top of the head.
+
+Whales range in size from the blue whale, the [[largest organism|largest animal]] known to have ever existed<ref>{{
+cite web |url=http://science.howstuffworks.com/question687.htm | title=What is the biggest animal ever to exist on Earth?| publisher=How Stuff Works | accessdate=2007-05-29}}</ref> at {{m to ft|35|abbr=on}} and {{convert|150|t}}, to various pygmy species, such as the [[pygmy sperm whale]] at {{m to ft|3.5|abbr=on}}.
+
+Whales collectively inhabit all the world's oceans and number in the millions, with annual population growth rate estimates for various species ranging from 3-13%.<ref>{{
+cite web
+|url=http://www.iwcoffice.org/conservation/estimate.htm#table
+|title=Whale Population Estimates
+|date=March 2010
+|accessdate=March 2010
+|publisher=International Whaling Commission
+}}</ref>
+For centuries, whales have been [[whaling|hunted]] for meat and as a source of raw materials. By the middle of the 20th century, however, industrial whaling had left many species seriously [[endangered species|endangered]], leading to the end of whaling in all but a few countries.
+
+==Taxonomy==
+{{See also|List of whale species}}
+
+Cetaceans are divided into two suborders:
+*The largest suborder, Mysticeti ([[baleen whales]]) are characterized by [[baleen]], a sieve-like structure in the upper jaw made of [[keratin]], which it uses to filter [[plankton]] from the water.
+*Odontoceti ([[toothed whales]]) bear sharp teeth for hunting. Odontoceti also include dolphins and porpoises.
+
+Both cetaceans and [[artiodactyl]] are now classified under the super-order  [[Cetartiodactyla]] which includes both whales and [[hippopotamuses]]. Whales are the hippopotamus's closest living relatives.<ref name="physorg">{{cite web|url=http://www.physorg.com/news2806.html|title=Scientists find missing link between the whale and its closest relative, the hippo|last=Anon|date=25 January 2005|work=PhysOrg.com|publisher=PhysOrg.com|accessdate=6 May 2010}}</ref>
+==Evolution==
+[[Image:Ambulocetus BW.jpg|thumb|right|220px|''[[Ambulocetus]] natans'' - a primitive whale]]
+{{See also|Evolution of cetaceans }}
+All [[cetacea]]ns, including whales, dolphins and porpoises, are descendants of land-living [[mammal]]s of the [[Artiodactyl]] [[order (biology)|order]] (even-toed [[ungulate]]s). Both descended from a [[Most recent common ancestor|common ancestor]], the [[Indohyus]] (an extinct [[semi-aquatic]] deer-like ungulate) from which they split around 54 million years ago.<ref name=science_news>{{cite web
+| url = http://www.sciencedaily.com/releases/2007/12/071220220241.htm
+| title = Whales Descended From Tiny Deer-like Ancestors
+| accessdate = 2007-12-21
+| author = Northeastern Ohio Universities Colleges of Medicine and Pharmacy
+| publisher = ScienceDaily
+ }}</ref><ref name="Ancestors_Tale">{{cite book
+| first = Richard
+| last = Dawkins
+| authorlink = Richard Dawkins
+| title = [[The Ancestor's Tale]]
+|The Ancestor's Tale, A Pilgrimage to the Dawn of Life
+| publisher = Houghton Mifflin Company
+| location = Boston
+| year = 2004
+| isbn = 0-618-00583-8 }}</ref>
+Primitive whales probably first took to the sea about 50 million years ago and became fully aquatic about 5-10 million years later.<ref>{{cite web
+|url=http://news.bbc.co.uk/1/hi/sci/tech/1974869.stm
+|title=How whales learned to swim
+|publisher=BBC News
+|date=2002-05-08
+|accessdate=2006-08-20}}</ref>
+
+==Anatomy==
+Like all [[mammals]], whales breathe air, are [[warm-blooded]], nurse their young with milk from [[mammary gland]]s, and have body hair.{{Citation needed|date=March 2010}}
+
+Beneath the [[skin]]  lies a layer of [[fat]]  called [[blubber]],  which stores energy and [[Thermal insulation|insulates]] the body. Whales have a [[spinal column]],  a [[vestigial structure|vestigial]] [[pelvis|pelvic]] bone, and a four-chambered [[heart]]. The [[neck]] [[vertebrae]] are typically fused, trading  flexibility for stability during swimming.{{Citation needed|date=March 2010}}
+
+===Blowhole(s)===
+[[File:Baleen parts.png|thumb|right|Features of a blue whale]]
+Whales breathe via [[blowhole (biology)|blowholes]]; [[baleen whale]]s have two and [[toothed whale]]s  have one. These are located on the top of the [[head]], allowing the animal to remain  mostly submerged whilst breathing. Breathing involves expelling excess  water from the blowhole, forming an upward spout, followed by inhaling  air into the lungs. Spout shapes differ among species and can help with identification.
+
+===Appendages===
+The body shape is [[wikt:fusiform|fusiform]] and the modified forelimbs, or fins, are [[paddle]]-shaped. The end of the tail is composed of two [[:wiktionary:fluke|fluke]]s, which propel the animal by vertical movement, as opposed to the horizontal movement of a fish tail. Although whales do not possess fully developed hind limbs, some (such as [[sperm whale]]s and [[baleen whale]]s) possess discrete rudimentary appendages, which may even have feet and digits. Most species have a [[dorsal fin]].{{Citation needed|date=March 2010}}
+
+===Dentition===
+Toothed whales, such as the [[sperm whale]], possess [[teeth]] with [[cementum]] cells overlying [[dentine]] cells. Unlike human teeth, which are composed mostly of [[Tooth enamel|enamel]] on the portion of the tooth outside of the gum, whale teeth have cementum outside the gum. Only in larger whales, where the cementum has been worn away on the tip of the tooth, does enamel show.<ref>
+"Common Characteristics of Whale Teeth" [http://www.antiquescrimshaw.org/index.htm here]</ref>
+
+Instead of teeth, Baleen whales have a row of plates on the upper side of their jaws that resemble the "teeth" of a comb.
+
+===Ears===
+The whale [[ear]] has specific adaptations to the [[Marine (ocean)|marine]] environment. In humans, the [[middle ear]] works as an impedance matcher between the outside air’s low [[Acoustic impedance|impedance]] and the [[cochlea]]r fluid’s high impedance. In aquatic mammals such as whales, however, there is no great difference between the outer and inner environments. Instead of sound passing through the [[outer ear]] to the [[middle ear]], whales receive sound through the [[throat]], from which it passes through a low-impedance fat-filled cavity to the [[inner ear]].<ref>{{
+cite web
+|title=How is that whale listening?
+|url=http://www.eurekalert.org/pub_releases/2008-02/iop-hit020108.php
+|accessdate=February 4, 2008
+}}</ref>
+
+==Life history/behavior==
+===Reproduction===
+Males are called 'bulls', females, 'cows' and newborns, 'calves'.
+Most species do not maintain fixed partnerships and females have several mates each season.<ref>{{cite episode
+|publisher=Discovery Channel Blue Ocean
+|title=Blue Whale
+|accessdate=October 5, 2009
+}}</ref><ref>
+{{cite episode
+| series=[[Modern Marvels]]
+| title=Milk
+| url=http://www.history.com/minisites/modernmarvels
+| season=14
+| network=[[The History Channel]]
+| airdate=2008-01-07
+}}</ref>
+
+The female delivers usually a single calf tail-first to minimize the risk of drowning. Whale cows nurse by actively squirting milk, so fatty that it has the consistency of toothpaste, into the mouths of their young.<ref name="po"/> Nursing continues for more than a year in many species, and is associated with a strong bond between mother and calf. Reproductive maturity occurs typically at seven to ten years. This [[K selection|mode of reproduction]] produces few offspring, but increases survival probability.
+
+===Socialization===
+Whales are known to teach, learn, cooperate, scheme, and even grieve.<ref name=wwwu>{{
+cite web
+|last=Siebert |first=Charles
+|title=Watching Whales Watching Us
+|work=New York Times Magazine
+|date=July 8, 2009
+|url=http://www.nytimes.com/2009/07/12/magazine/12whales-t.html?pagewanted=all
+}}</ref>
+
+===Sleep===
+[[File:Humpback stellwagen edit.jpg|thumb |right|A Humpback Whale breaching.|alt=Photo of humpback whale with most of its body out of the water and its pectoral fins extended]]
+Unlike most animals, whales are conscious breathers. All mammals [[sleep]], but whales cannot afford to become unconscious for long because they may drown. It is thought that only one hemisphere of the whale's brain sleeps at a time, so they rest but are never completely asleep.<ref name="Discovery">{{cite web|url=http://animals.howstuffworks.com/mammals/question643.htm|title=Do  whales and dolphins sleep?|last=Anon|work=How Stuff  Works|publisher=Discovery Communications|accessdate=14 February 2010}}</ref>
+===Surfacing behavior===
+{{main|Whale surfacing behavior}}
+Many whales exhibit behaviors such as breaching and tail slapping that expose large parts of their bodies to the air.
+
+===Lifespan===
+Whale lifespans vary among species and are not well characterized. Whaling left few older individuals to observe directly. R.M. Nowak of [[Johns Hopkins University]] estimated that humpback whales may live as long as 77 years.<ref name="info">{{
+cite web|url=http://www.animalinfo.org/species/cetacean/meganova.htm#Maximum_age|title=Humpback Whale|last=Anon|year=2005|work=Animal Infor|publisher=Animal Info|accessdate=25 February 2010}}</ref> In 2007, a 19th century lance fragment was found in a [[bowhead whale]] off [[Alaska]], suggesting the individual could be between 115 and 130 years old.<ref>{{
+cite web
+|url=http://www.msnbc.msn.com/id/19195624/
+|title=Netted whale hit by lance a century ago
+|publisher=Associated Press
+|last=Conroy |first=Erin
+|date=June, 2007
+|accessdate=2009-10-05}}</ref> [[Aspartic acid]] [[racemization]] in the whale eye, combined with a [[harpoon]] fragment, indicated an age of 211 years for another male, which, if true would make bowheads the longest-lived [[Extant taxon|extant]] mammal species.<ref>{{
+cite web
+|url=http://www.gi.alaska.edu/ScienceForum/ASF15/1529.html
+|title=Bowhead Whales May Be the World's Oldest Mammals
+| accessdate=2008-03-25
+|date=2008-02-15}}</ref><ref>{{cite journal
+|author=George, J.C. ''et al.''
+| title=Age and growth estimates of bowhead whales (Balaena mysticetus) via aspartic acid racemization
+| journal= Can. J. Zool.
+| volume= 77
+|issue=4
+|pages= 571–580
+|year=1999
+|doi=10.1139/cjz-77-4-571}}</ref>
+The accuracy of this technique has been questioned because racemization did not correlate well with other dating methods.<ref name="Racemization">{{
+cite web|url=http://pubs.acs.org/subscribe/journals/tcaw/10/i02/html/02brignole.html|title=Amino Acid Racemization|last=Brignole|first=Edward|coauthors=McDowell, Julie|work=Today's chemist at work|publisher=American Chemical Society|accessdate=25 February 2010}}</ref>
+
+===Vocalization===
+{{Listen|filename=Humpbackwhale2.ogg|title=Humpback Whale "Song"|description=Recording of Humpback Whales singing and Clicking.|format=[[Ogg]]}} Some species, such as the humpback whale, communicate using melodic sounds, known as [[whale song]]. These sounds can be extremely loud, depending on the species. Sperm whales have only been heard making clicks, while toothed whales ([[Odontoceti]]) use [[animal echolocation|echolocation]] that can generate about 20,000 watts of sound (+73&nbsp;[[dBm]] or +43&nbsp;[[Decibel watt|dBw]]<ref>[http://www.radio-electronics.com/info/formulae/decibels/dBm_dBW_table.php dBm - dBw Watts conversion chart], [http://www.radio-electronics.com/ Radio-Electronics.com]</ref>) and be heard for many miles. Whale vocalization is likely to serve many purposes, including [[echolocation]], [[mating]], and [[identification]].{{fact|date=December 2010}}
+
+==Ecology==
+===Feeding===
+Whales are generally classed as [[predator]]s, but their food ranges from  microscopic [[plankton]]  to very large animals.
+
+Toothed whales eat fish and squid which they hunt by use of [[animal echolocation|echolocation]]. [[Orcas]] sometimes eat other marine mammals,  including whales.
+
+Baleen whales such as humpbacks and blues feed only in arctic  waters, eating mostly [[krill]]. They imbibe enormous amounts of seawater which they expel   through their baleen plates. The water is then expelled and the krill is retained on the  plates and then swallowed.<ref name=po>{{
+cite episode
+|publisher=Discovery  Channel Blue Ocean
+|title=Blue Whale
+|accessdate=October  5, 2009
+}}</ref>  Whales do not drink seawater but indirectly extract water from their  food by metabolizing fat.<ref name=po/>
+
+==Relation to humans ==
+===Whaling===
+{{Main|Whaling}}
+[[File:Walvisvangst bij de kust van Spitsbergen - Dutch whalers near Spitsbergen (Abraham Storck, 1690).jpg|thumb|Dutch whalers near Spitsbergen. ''[[Abraham Storck]], 1690'']]
+[[File:International Whaling Commission members.svg|thumb |right |World map of International Whaling Commission (IWC) members/non-members(member countries in blue)|alt=Map showing IWC non-members such as Canada and most Middle Eastern and African countries in white]]
+[[File:Blue Whale population, Pengo.svg|thumb|right |World population graph of [[Blue Whale]]s (Balaenoptera musculus)|alt=Diagram showing the pre-whaling of 275,000, 1930's population of 30-40,000, mid-60's population of 650-2,000 and 1994 population of less than 5,000]]
+
+Some species of large whales are listed as endangered by multinational organizations such as [[CITES]] along with governments and [[advocacy group]]s primarily due to whaling's impacts. They have been hunted commercially for [[whale oil]], [[whale meat|meat]], [[baleen]] and [[ambergris]] (a perfume ingredient from the [[intestine]] of [[sperm whale]]s) since the 17th century.<ref>
+http://www.whaling.jp/english/history.html</ref> At its peak in 1846, 736 vessels and 70,000 people were involved in the American whaling industry.<ref>{{Cite book
+  | last = Schneider
+  | first = D.R.
+  | title = [http://books.google.com/books?id=yimJZOXm9bEC&pg=PA43&dq&hl=en#v=onepage&q=&f=false Saving the Whales--A Bwana Doc Adventure]
+  | publisher = Bwana Doc Adventures
+  | date = 1980
+  | page = 43
+  | isbn = 0982077602}}
+</ref> More than 2 million were taken in the early 20th century,<ref>{{Cite book
+  | last = Desonie
+  | first = Dana 
+  | title = [http://books.google.com/books?id=7dJ4eYkOWIoC&pg=PA154&dq&hl=en#v=onepage&q=&f=false Polar Regions: Human Impacts]
+  | publisher = Infobase Publishing
+  | date = 2008
+  | page = 154
+  | isbn = 0816062188}}
+</ref> and by the middle of the century, many populations were severely depleted.
+
+The [[International Whaling Commission]] banned commercial whaling in 1986.<ref name="IWC">{{
+cite web|url=http://www.iwcoffice.org/conservation/rms.htm|title=Revised Management Scheme Information on the background and progress of the Revised Management Scheme (RMS)|last=Anon|work=International Whaling Commission|accessdate=14 March 2010}}</ref> The ban is not absolute, however, and some whaling continues under the auspices of scientific research<ref name="IWC"/> (sometimes not proved<ref>[http://www.greenpeace.org/international/en/news/features/Whaling-whale-meat-vindication-231210/ Whaling on trial: Vindication!]</ref>) or [[Aboriginal whaling|aboriginal rights]]; current whaling nations are [[Norway]], [[Iceland]] and [[Japan]] and the aboriginal communities of [[Siberia]], [[Alaska]] and northern [[Canada]].
+
+===Bycatch===
+Several species of small whales are caught as [[bycatch]] in fisheries for other species. In the Eastern Tropical [[Pacific]] [[tuna]] fishery, thousands of dolphins drowned in purse-seine nets, until preventive measures were introduced. Gear and deployment modifications, and [[eco-labelling]] (''dolphin-safe'' or ''dolphin-friendly'' brands of tuna), have contributed to a reduction in dolphin mortality by tuna vessels.{{Citation needed|date=March 2010}} In many countries, small whales are still hunted for food, oil, meat or bait.{{Citation needed|date=March 2010}}
+
+===Naval sonar===
+{{See also|Marine Mammals and Sonar}}
+Environmentalists speculate that advanced naval [[sonar]] endangers some cetaceans, including whales. In 2003 British and Spanish scientists suggested in ''[[Nature (journal)|Nature]]'' that the effects of sonar trigger [[whale beaching]]s and to signs that such whales have experienced decompression sickness.<ref>{{
+cite web
+| url=http://news.bbc.co.uk/2/hi/science/nature/3173942.stm
+|title=Sonar may cause Whale deaths
+|publisher=BBC News
+|date=2003-10-08
+|accessdate=2006-09-14}}</ref> Responses in Nature the following year discounted the explanation.<ref>{{
+cite journal
+|author=Piantadosi CA, Thalmann ED
+|journal=Nature
+|title=Pathology: whales, sonar and decompression sickness
+|date=2004-04-15
+|volume=428
+|issue=6894
+|pmid=15085881
+|pages=716–718}}</ref>
+
+Mass [[beached whale|whale beaching]]s occur in many species, mostly [[beaked whale]]s that use [[echolocation]] for deep diving. The frequency and size of beachings around the world, recorded over the last 1,000 years in religious tracts and more recently in scientific surveys, have been used to estimate the population of various whale species by assuming that the proportion of the total whale population beaching in any one year is constant. Beached whales can give other clues about population conditions, especially health problems. For example, bleeding around ears, internal lesions, and nitrogen bubbles in organ tissue suggest [[decompression sickness]].<ref name=wwwu/>
+
+Following public concern, the U.S. Defense department was ordered by the 9<sup>th</sup> Circuit Court to strictly limit use of its [[Low Frequency Active Sonar]] during peacetime. Attempts by the UK-based [[Whale and Dolphin Conservation Society]] to obtain a [[public inquiry]] into the possible dangers of the [[Royal Navy]]'s equivalent (the "[[Sonar 2087|2087]]" sonar launched in December 2004) failed as of 2008. The [[European Parliament]] has requested that EU members refrain from using the powerful sonar system until an [[environmental impact study]] has been carried out.
+
+===Other environmental disturbances===
+{{See also|Cetacean bycatch}}
+Other human activities have been suggested by marine biologists to adversely impact whale populations, such as collisions with ships and propellers, poisoning by waste contaminants and the unregulated use of fishing gear that catches anything that swims into it.{{Citation needed|date=February 2010}}
+
+===In mythology===
+[[File:Nantucket historical assocation whaling museum weather vane.jpg|right |thumb |Whale weather-vane atop the Nantucket Historical Association Whaling Museum displaying a [[Sperm Whale]].]]
+
+Whales were little understood for most of human history as they spend up to 90% of the lives underwater, only surfacing briefly to breathe.<ref>{{
+cite web|url=http://www.oceanicresearch.org/education/wonders/spermwhales.htm|title=Sperm Wales:The deep rivers of the ocena|last=Bird|first=Jonathon|work=The Wonders of the Seas|publisher=jonathon.bird.org|accessdate=14 February 2010}}</ref> They also include the largest animals on the planet, so it is not surprising that many cultures, even those that have hunted them, hold them in awe and feature them in their mythologies.
+
+In China, [[Yu-kiang]], a whale with the hands and feet of a man was said to rule the ocean.<ref name="Jones">{{
+cite web|url=http://adairjones.wordpress.com/2009/09/29/in-search-of-whales-in-literature/|title=In search of . . . whales in literature|last=Jones |first=Adair|work=Wordpress.com|publisher=wordpress|accessdate=14 February 2010}}</ref>
+
+In the [[Tyrol (state)|Tyrol]] region of Austria it was said that if a sunbeam were to fall on a maiden entering womanhood, she would be carried away in the belly of a whale.<ref name="Jones"/>
+
+[[Paikea]], the youngest and favourite son of the chief Uenuku from the island of [[Mangaia]] in the present day [[Cook Islands]] in [[New Zealand]] was said by the Kati Kuri people of [[Kaikoura]] to have come from the Pacific Islands on the back of a whale many centuries before.<ref>{{
+cite web|url=http://collections.tepapa.govt.nz/exhibitions/whales/EducationResource.aspx?irn=198|title=Whales|last=Anon|work=Tinirau education resource|accessdate=14 February 2010}}</ref> The novel and movie [[Whale Rider]] follow the trials of a girl named Paikia, who lives in such a culture.
+
+The whale features in [[Inuit]] [[creation myths]]. When ‘Big Raven', a deity in human form, found a stranded whale, he was told by the [[Great Spirit]] where to find special mushrooms that would give him the strength to drag the whale back to the sea and thus return order to the world.<ref name="worldtrans">{{
+cite web|url=http://www.worldtrans.org/creators/whale/myths0.html|title=Whale Mythology from around the World|last=Anon|work=The Creative Continuum|publisher=worldtrans.org|accessdate=14 February 2010}}</ref>
+
+The [[Tlingit]] people of northern Canada said that the [[Orca]]s were created when the hunter Natsihlane carved eight fish from yellow cedar, sang his most powerful spirit song and commanded the fish to leap into the water.<ref name="worldtrans"/>
+
+In Icelandic legend a man threw a stone at a [[fin whale]] and hit the blowhole, causing the whale to burst. The man was told  not to go to sea for twenty years but in the nineteenth year he went fishing and a whale came and killed him.<ref name="worldtrans"/>
+
+In East African legend [[King Sulemani]] asked God that He might permit him to feed all the beings on earth. A whale came and ate until there was no [[Maize|corn]] left and then told Sulemani that he was still hungry and that there were 70,000 more in his tribe. Sulemani then prayed to God for forgiveness and thanked the creature for teaching him a lesson in humility.<ref name="worldtrans"/>
+
+The [[King James Version of the Bible]] mentions whales four times: "And God created great whales" ([[Book of Genesis|Genesis]] 1:21); "Am I a sea, or a whale, that thou settest a watch over me? ([[Book of Job|Job]] 7:12); "Thou art like a young lion of the nations, and thou art as a whale in the seas ([[Ezekiel]] 32:2); and "For as Jonas [sic] was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth" ([[Gospel of Matthew|Matthew]] 12:40). The story of [[Jonah]] being swallowed by a whale also is told in the [[Qur'an]].<ref>{{
+cite web|url=http://www.arabnews.com/?page=5&section=0&article=121636&d=19&m=4&y=2009|title=Jonah and the Whale|last=Qutb|first=Sayyid|work=Arab news|publisher=Arab News|accessdate=14 February 2010}}</ref>
+
+Some cultures associate [[divinity]] with whales, such as among [[Ghana]]ians and [[Vietnamese people|Vietnamese]], who occasionally hold funerals for beached whales, a throwback to Vietnam's ancient sea-based Austro-asiatic culture.{{Citation needed|date=February 2010}}
+
+==See also==
+*[[Atlantic Whale Foundation]]
+*[[Baleen whale]]
+*[[Beached whale]]
+*[[Cetacea]]
+*[[Cetacean bycatch]]
+*[[Cetacean Conservation Center]]
+*[[Cetacean intelligence]]
+*[[:Category:Famous cetaceans|Famous cetaceans]] (category)
+*[[List of cetaceans]]
+*[[List of dolphin species]]
+*[[List of extinct cetaceans]]
+*[[List of porpoise species]]
+*[[Toothed whale]]
+*[[Vocal learning]]
+*[[Whale fall]]
+*[[Whale meat]]
+*[[Whale watching]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+*{{Cite book |last=Carwardine |first=M. |title=Whales, Dolphins and Porpoises |location= |publisher=Dorling Kindersley |year=2000 |isbn=0751327816 |postscript=<!--None--> }}.
+*{{Cite book |authorlink=Heathcote Williams |last=Williams |first=Heathcote |title=Whale Nation |location=New York |publisher=Harmony Books |year=1988 |isbn=0517569329 |postscript=<!--None--> }}.
+
+==External links==
+{{Commons category|Cetacea |Whale}}
+* [http://wiki.answers.com/Q/FAQ/2915 WikiAnswers: questions and answers about whales]
+* [http://www.pbs.org/wgbh/evolution/library/03/4/l_034_05.html Whale Evolution]
+* [http://oceans.greenpeace.org/en/our-oceans/whaling Greenpeace work defending whales]
+* [http://savethewhales.org/stwsong_hi.html Save the Whales, founded in 1977]
+* [http://aquaticmammals.org AquaNetwork Marine Mammal Project]
+* [http://news.bbc.co.uk/1/hi/sci/tech/239966.stm Oldest whale fossil confirms amphibious origins]
+* [http://www.sciencedaily.com/news/plants_animals/dolphins_and_whales/ Research on dolphins and whales from Science Daily]
+* [http://www.wdcs.org/ Whale and Dolphin Conservation Society – latest news and information on whales and dolphins]
+* [http://www.oceania.org.au/ The Oceania Project – Caring for whales and dolphins]
+* [http://collections.tepapa.govt.nz/exhibitions/whales/ Whales Tohorā Exhibition Minisite from the Museum of New Zealand Te Papa Tongarewa]
+* [http://www.teara.govt.nz/EarthSeaAndSky/SeaLife/Whales/en Whales in Te Ara the Encyclopedia of New Zealand]
+* [http://www.squidforce.com/tag/whales/ Orca and other whales video at Squid Force]
+* [http://www.whales.org.za www.whales.org.za Whales information portal]
+*[http://www.panda.org/what_we_do/endangered_species/endangered_species_list/cetaceans/ World Wide Fund for Nature (WWF) – information on whales, dolphins, and porpoises]
+*[http://www.whaletrackers.com Whale Trackers – An online documentary series about whales, dolphins and porpoises]
+
+{{Cetacea|M.}}
+
+[[Category:Cetaceans]]
+
+[[af:Walvis]]
+[[ang:Hƿæl]]
+[[ar:حوت]]
+[[bn:তিমি]]
+[[zh-min-nan:Hái-ang]]
+[[be:Кіты]]
+[[be-x-old:Кіты]]
+[[bo:ཆུ་སྲིན།]]
+[[bs:Kit]]
+[[br:Balum]]
+[[bg:Кит (биология)]]
+[[cs:Velryba]]
+[[cy:Morfil]]
+[[nv:Łóóʼtsoh]]
+[[et:Vaalad]]
+[[el:Φάλαινα]]
+[[eo:Baleno]]
+[[es:Ballena]]
+[[fa:نهنگ]]
+[[fr:Baleine]]
+[[ga:Míol mór]]
+[[gd:Muc-mhara]]
+[[hak:Kîn-ǹg]]
+[[xal:Тул]]
+[[io:Baleno]]
+[[id:Paus (mamalia)]]
+[[iu:ᐊᕐᕕᒃ/arvik]]
+[[it:Balena]]
+[[jv:Iwak paus]]
+[[ht:Balèn]]
+[[la:Balaena]]
+[[lv:Vaļi]]
+[[ln:Mondɛ́lɛ́ (nyama)]]
+[[hu:Bálna]]
+[[mk:Кит]]
+[[ml:തിമിംഗലം]]
+[[ms:Paus (mamalia)]]
+[[mn:Халим]]
+[[my:ငါးဝန်]]
+[[nah:Huēyimichin]]
+[[ja:クジラ]]
+[[nrm:Baleine]]
+[[oc:Balena]]
+[[pcd:Balin·ne (Manmifère)]]
+[[pl:Wieloryb]]
+[[ru:Киты]]
+[[sco:Whaul]]
+[[simple:Whale]]
+[[cu:Ки́тъ]]
+[[tl:Balyena]]
+[[ta:திமிங்கலம்]]
+[[te:తిమింగలము]]
+[[th:วาฬ]]
+[[chr:ᎤᏔᎾ ᎠᏣᏗ]]
+[[yi:וואל-פיש]]
+[[zh:鯨]]

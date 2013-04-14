@@ -1,0 +1,380 @@
+{{Other uses}}
+{{Contains Chinese text}}
+{{Chinese|
+pic=Tofu-beijingchina.jpg|
+picsize=150px|
+piccap=Seasoned tofu cubes in a Chinese dish|
+l=bean curd|
+1/2 cup=soy milk
+lang1=Burmese|
+lang1_content=[[File:Bscript pebya.png]] (pebya/péprā:)<br />''or'' [[File:Bscript topu.png]] (tofu/tiuphü:)|
+lang2=Khmer|
+lang2_content=តៅហ៊ូ|
+lang2=Min Bei|
+lang2_content=dae fu ([[Jian'ou dialect]])|
+t=荳腐 or 豆腐|
+s=豆腐|
+showflag=p|
+p=dòufu|
+w=tou-fu|
+y=dauh-fuh|
+j=dau<sup>6</sup>-fu<sup>6</sup> |
+poj=tāu-hū|
+wuu=deu<sup>去</sup> vu<sup>去</sup> <sub>(Wuu Pinyin)</sub><br>{{IPA|[dɤɯ.vʊ]}} <sub>([[International Phonetic Alphabet|IPA]])</sub>|
+h=teu<sup>55</sup> fu<sup>55</sup>|
+tgl=tokwa|
+lang3=Indonesian|
+lang3_content=tahu|
+kanji=豆腐|
+hiragana=[[wikt:とうふ|とうふ]]|
+revhep=tōfu|
+kunrei=tôhu|
+hanja=豆腐|
+hangul=두부|
+rr=dubu<ref>{{Citation|url=http://www.accessmylibrary.com/coms2/summary_0286-25145626_ITM |title=Korea's Pulmuone launches New York bean curd plant |publisher=AsiaPulse News |date=2002-03-13 |accessdate=2009-09-26}}</ref><ref>{{Citation|url=http://www.thestar.com/living/Food/article/250747 |title=Soon dubu simmers under the radar |publisher=Toronto Star |author=Tamsyn Burgmann  |date=August 29, 2007}}</ref>|
+id=tahu|
+mr=tubu|
+msa=tauhu|
+tam=tahu|
+tha=[[wikt:เต้าหู้|เต้าหู้]], {{IPA-th|tâohûː|IPA}}|
+vie=đậu phụ<br />''<small>or</small>'' đậu hũ<br />''<small>or</small>'' tàu hũ
+}}
+'''Tofu''' or '''bean curd'''<ref name="dictionary tofu">{{Citation|url=http://dictionary.reference.com/browse/tofu |title=tofu |publisher=dictionary.com}}</ref> is a food made by [[Coagulation (milk)|coagulating]] [[soy milk]] and then pressing the resulting curds into soft white blocks. It is of [[China|Chinese]] origin,<ref name=Soya>{{Citation|url=http://chinesefood.about.com/library/bltrivia73.htm|title=History of Tofu|accessdate=2008-01-05|publisher=About.com}}</ref> and it is also a part of [[Asian cuisine|East Asian]] and [[Southeast Asian cuisine]] such as [[Chinese cuisine|Chinese]], [[Japanese cuisine|Japanese]], [[Korean cuisine|Korean]], [[Indonesian cuisine|Indonesian]], [[Vietnamese cuisine|Vietnamese]],<ref>Du Bois at al. (2008),  pp.13-14</ref> and others.<ref>Knopper, (Jan. 2002), p.16</ref> There are many different varieties of tofu, including fresh tofu and tofu that has been processed in some way. Tofu has very little flavor or smell on its own, so it can be used either in savory or sweet dishes, and it is often seasoned or marinated to suit the dish.
+
+Tofu originated in the [[Han dynasty]] in ancient [[China]].<ref name=Soya/> [[Li Shizhen]] in the Ming Dynasty described a method of making tofu in [[Bencao Gangmu]].<ref>Joseph Needham, Science and Civilisation in China, Vol 6 Part 5 Chapter 40, section d.2</ref> Tofu and its production technique were subsequently introduced into [[Korea]] and then [[Japan]]<ref name="Shimbo" /><ref name="Dougill">{{Citation|url=http://books.google.com/?id=k7yx0OYDWFEC&pg=PA56 |title=Kyoto: a cultural history |publisher=Oxford University Press US  |author=Dougill, John |year=2006 |isbn=0195301374 |page=223}}</ref><ref>{{Harvnb |Shurtleff|Aoyagi|1998| p=93}}</ref> during the [[Nara period]]. It also spread into other parts of [[East Asia]] as well.<ref>{{Citation|title=Soybeans: Chemistry, Technology and Utilization|last=Liu|first= KeShun|url=http://books.google.com/?id=Plmi4WfHos4C&pg=PA137 |page=137|publisher=Aspen publishers|year=1999|isbn=0834212994}}</ref>  This spread likely coincided with the spread of [[Buddhism]] because it is an important source of protein in the [[Buddhist cuisine|vegetarian diet of East Asian Buddhism]].<ref name="Shimbo">{{Citation|url=http://books.google.com/?id=43puKgiAK2YC&pg=PA133 |title=The Japanese kitchen: 250 recipes in a traditional spirit |author=Shimbo, Hiroko |publisher=Harvard Common Press |year= 2001 |page=133 |isbn=1558321772}}</ref>
+
+Tofu contains a low amount of [[calorie]]s, relatively large amount of [[iron]], and little fat. Depending on the coagulant used in manufacturing, the tofu may also be high in [[calcium]] and/or [[magnesium]].
+
+==Etymology==
+The English word "tofu" comes from the [[Japanese language|Japanese]] ''tōfu'' ({{lang|ja|豆腐}}), ''{{Audio|Tofu.ogg|listen}}'' which itself derives from the [[Chinese language|Chinese]] ''dòufu'' ({{lang|zh|豆腐}} or {{lang|zh|荳腐}}) from "bean" ([[wiktionary:豆|豆]]) plus "curdled" or "fermented" ([[wiktionary:腐|腐]]).<ref>''American Heritage Dictionary''.</ref><ref>{{Citation|url=http://www.tofu-magazine.net/newVersion/pages/etymology.html|title=Etymology|publisher=Tofu Magazine|accessdate=2008-01-05}}</ref>
+
+The English term "bean curd(s)" for tofu has been used since at least 1840.<ref>"[gypsum's] use in curdling bean-curds", ''China: its State and Prospects'', June 1840, p. 80 ''in'' ''The Chinese Repository'', vol. IV. [http://books.google.com/books?id=3y4MAAAAYAAJ&pg=PA80&dq=bean-curd at Google Books]; "''bean-curd'', or cheese (called by them ''Tow-foo'')", J.F. Davis, "Chusan, with a Survey Map of the Island", ''Journal of the Royal Geographical Society of London'' '''23''':261 (1853) [http://www.jstor.org/stable/1797967 at JSTOR]</ref>
+
+==Production==
+{{nutritionalvalue|right=1|name=tofu (raw)|kJ=318|protein=8.1 g|fat=4.8 g|satfat=0.7 g|carbs=1.9 g|calcium_mg=350|iron_mg=5.4|sodium_mg=7|magnesium_mg=30|source_usda=1}}
+
+Tofu is made by coagulating soy milk and pressing the resulting curds.  Although pre-made soy milk may be used, most tofu producers begin by making their own soy milk, which is produced by soaking, grinding, boiling and straining dried (or, less commonly, fresh) [[soybeans]].
+
+[[Coagulation (disambiguation)|Coagulation]] of the protein and oil ([[emulsion]]) suspended in the boiled soy milk is the most important step in the production of tofu.  This process is accomplished with the aid of coagulants.  Two types of coagulants (salts and acids) are used commercially.<ref name=Zeki>{{Harvnb|Berk|1992}}, [http://www.fao.org/docrep/t0532e/t0532e10.htm#9.5 section 9.5]</ref> The third type of coagulant, enzymes, is not yet used commercially but shows potential for producing both firm and "silken" tofu.
+
+===Salt coagulants===
+*'''[[Calcium sulfate]]''' ([[gypsum]]):  The traditional and most widely used coagulant to produce Chinese-style tofu.  It produces a tofu that is tender but slightly brittle in texture.  The coagulant itself has no perceivable taste.  Use of this coagulant also makes a tofu that is rich in [[calcium#Nutrition|calcium]]. As such, many tofu manufacturers choose to use this coagulant to be able to market their tofu as a good source of dietary calcium.{{Citation needed|date=December 2009}}
+
+*Chloride-type Nigari salts or Lushui (	Traditional: 鹵水, 滷水; Simplified:卤水) - [[Magnesium chloride]] and [[calcium chloride]]:  Both of these salts have a high solubility rate in water and affect soy protein in the same way, whereas [[gypsum]] is only very slightly soluble in water and acts differently in soy protein precipitation, the basis for tofu formation. These are the coagulants used to make tofu with a smooth and tender texture.  In Japan, a white powder called ''[[Magnesium chloride|nigari]]'', which consists primarily of magnesium chloride, is produced from [[Sea water|seawater]] after the [[sodium chloride]] is removed and the water evaporated. Depending on its production method, ''nigari/Lushui'' may also contain small quantities of [[magnesium sulfate]] (Epsom salt), [[potassium chloride]], [[calcium chloride]], and trace amounts of other naturally occurring salts.  Although the term ''nigari'' is derived from ''nigai'', the Japanese word for "bitter," neither ''nigari'' nor pure magnesium chloride imparts a perceivable taste to the finished tofu.  Calcium chloride is a common coagulant for tofu in North America.<ref name=Lui>{{Harvnb|Liu|1997}}.</ref> Fresh clean sea water itself can also be used as a coagulant.<ref>http://lists.ibiblio.org/pipermail/homestead/2005-February/004183.html</ref>
+
+===Acid coagulants===
+*'''[[Glucono delta-lactone]]''' (GDL): A naturally occurring organic acid also used in cheese making, which produces a very fine textured tofu that is almost jelly-like.  This coagulant is used especially for "silken" and softer tofus, and confers an almost imperceptible sour taste to the finished product.<ref name=GuoOno>{{Harvnb|Guo|Ono|2005}}.</ref> Commonly used together with calcium sulfate to give soft tofu a smooth tender texture.
+
+*Other edible acids: Though they can affect the taste of the tofu more, and vary in efficacy and texture, acids such as acetic acid (vinegar) and citric acid (such as lemon juice), can also be used to coagulate soy milk and produce tofu. <ref>[http://www.chow.com/food-news/54436/make-your-own-tofu/], ''Chow.com'', April 3, 2008, accessed December 12, 2010.</ref>
+
+===Enzyme coagulants===
+*Among [[enzymes]] that have been shown to produce tofu are  [[papain]], and alkaline and neutral [[protease]]s from microorganisms.  In the case of papain, the enzyme to substrate ratio, by weight, was held constant at 1:400.  An aliquot of 1% crude papain was added to "uncooked" soy milk at room temperature and heated to 90–100 °C.<ref name=Lui/>
+
+Contemporary tofu manufacturers may choose to use one or more of these coagulants, since they each play a role in producing a desired texture in the finished tofu.<ref name=GuoOno/>  Different textures result from different pore sizes and other microscopic features in tofus produced using each coagulant.  The coagulant mixture is dissolved into water, and the solution is then stirred into boiled soy milk until the mixture curdles into a soft [[gel]].<ref name=Zeki/>
+
+[[File:Tofu stacked 01.jpg|thumb|One of the stages in making tofu, the coagulated soya curd is having the water pressed out of it to produce the solid tofu bricks that appear in shops.]]
+The curds are processed differently depending on the form of tofu that is being manufactured.  For soft silken tofu ({{lang|zh|[[wiktionary:嫩|嫩]][[wiktionary:豆|豆]][[wiktionary:腐|腐]]}}; ''nèn dòufu'') or tofu flower ({{lang|zh|[[wiktionary:豆|豆]][[wiktionary:花|花]]}}, ''dòuhuā'') the soy milk is curdled directly in the tofu's selling package.  For standard firm Asian tofu, the soy curd is cut and strained of excess liquid using [[cheese cloth]] or [[muslin]] and then lightly pressed to produce a soft cake.  Firmer tofus, such as Asian dry tofu ({{lang|zh|[[wiktionary:豆|豆]][[wiktionary:乾|乾]]}}) or Western types of tofu, are further pressed to remove even more liquid.  In Vietnam, the curd is strained and molded in a square mold and the end product is called
+''đậu khuôn'' (molded bean) or ''đậu phụ'' (one of the Vietnamese ways to pronounce the Chinese ''dòufu'').  The tofu curds are allowed to cool and become firm.  The finished tofu can then be cut into pieces, flavored or further processed.
+
+Although tartness is sometimes desired in dessert tofu, the acid used in flavoring is usually not the primary coagulant since it is not desirable to the flavor or texture of the resulting tofu to add it in a sufficiently high concentration so as to induce coagulation.  A sour taste in tofu and a slight cloudiness in its storing liquid is also usually an indication of bacterial growth and, hence, spoilage.
+
+==Varieties==
+There is a wide variety of tofu available in both Western and Eastern markets.  Despite the daunting variety, tofu products can be split into two main categories: ''fresh tofu'', which is produced directly from [[soy milk]], and ''processed tofu'', which is produced from fresh tofu.  Tofu production also creates important side products which are often used in various cuisines.
+
+===Fresh tofu===
+Depending on the amount of water that is extracted from the tofu curds, fresh tofu can be divided into three main varieties.
+[[File:TofuWithSoySauceAndCarrot.jpg|thumb|250px|Japanese style "Silken tofu" with soy sauce and a decorative carrot slice]]
+
+====Soft/silken tofu====
+Soft/silken tofu({{lang|zh|嫩豆腐}} or {{lang|zh|滑豆腐}}, ''nèn dòufu'' or ''huá dòufu'', in [[Chinese language|Chinese]], lit. "soft tofu" or "smooth tofu"; {{lang|ja|絹漉し豆腐}}, ''kinugoshi tōfu'' in [[Japanese language|Japanese]], lit. "silk-filtered tofu"; {{lang|ko|순두부}}, {{lang|ko|純豆腐}}, ''sundubu'' in [[Korean language|Korean]], lit. "pure tofu") is undrained tofu that contains the highest moisture content of all fresh tofus.<ref name=WilliamAoyagi_3>{{Harvnb|Shurtleff|Aoyagi|2000}}.</ref>  Its texture can be described as similar to that of very fine [[custard]].  In Japan and Korea, traditional soft tofu is made with [[Sea water|seawater]].<ref>{{Citation|url=http://www.nytimes.com/2005/01/05/dining/05TOFU.html?ex=1262667600&en=a4616d3be9711156&ei=5088&partner=rssnyt|title=Artisanal, Creamy . . . Tofu?|publisher=New York Times|author=Julia Moskin|accessdate=2008-01-05 | date=2005-01-05}}</ref><ref>{{Citation|url=http://www.foodproductiondaily.com/news/ng.asp?id=28874-new-tofu-production|title=New tofu production method|publisher=FoodProductionDaily|accessdate=2008-01-05}}</ref><ref>{{Citation|url=http://www.japanfs.org/en/column/a17.html|title=Deep Seawater Business To Develop Local Economies|publisher=Japan for sustainability|accessdate=2008-01-05}}</ref><ref>{{Citation|url=http://www.gntour.go.kr/english/CMSView.do?pid=1288|title=Chodang Bean Curd Village|publisher=Gangneung-city Tour|accessdate=2008-01-05}}</ref><ref>
+{{Citation|url=http://english.tour2korea.com/03Sightseeing/DestinationsByThemes/Depth04.asp?sight=Sightseeing&sightseeing_id=430&ADDRESS_1=15741&ADDRESS_2=14104&ThemeCode=Sightseeing_13&kosm=m3_2 |title=Chodang Sundubu (watery tofu) Village|publisher=Tour2Korea|accessdate=2008-01-05}}</ref>
+
+''[[Douhua]]'' ({{lang|zh|豆花}}, ''dòu huā'' or {{lang|zh|豆腐花}}, ''dòufu huā'' in Chinese), or ''tofu brain'' ({{lang|zh|豆腐腦}} or {{lang|zh|豆腐脑}}, ''dòufu naǒ'' in Chinese), often eaten as a dessert, but sometimes with salty pickles or hot sauce added instead, is another type of soft tofu with an even higher moisture content.  Because it is nearly impossible to pick up this type of tofu with [[chopsticks]], it is generally eaten with a spoon. With the addition of flavorings such as finely chopped [[spring onions]], dried [[shrimp]], [[soy sauce]], [[chilli sauce]], ''douhua'' is a popular breakfast dish across China. In Malaysia, ''douhua'' is usually served warm with white or dark (palm) sugar syrup, or served cold with longans.
+
+Some variation exists among soft tofus. Black douhua ({{lang|zh|黑豆花}}) is a type of silken tofu made from plain black soy beans and soybeans, which is usually made into ''dòuhuā'' ({{lang|zh|[[wiktionary:豆|豆]][[wiktionary:花|花]]}}) rather than firm or dry tofu.  The texture of black bean tofu is slightly more gelatinous than regular douhua and the color is greyish in tone.  This type of tofu is eaten for the earthy "black bean taste."''Edamame tofu'' is a Japanese variety of ''kinugoshi tōfu'' made from ''edamame'' (fresh green soybeans); it is pale green in color and often studded with whole ''edamame''.
+
+====Firm tofu====
+Firm tofu (called {{lang|zh|老豆腐}} ''lǎo dòufu'' in Chinese; {{lang|ja|木綿豆腐}}, ''momendōfu'' in [[Japanese language|Japanese]], lit. "cotton tofu"): Although drained and pressed, this form of fresh tofu still contains a great amount of moisture.  It has the firmness of raw meat but bounces back readily when pressed.  The texture of the inside of the tofu is similar to that of a firm custard.  The skin of this form of tofu has the pattern of the muslin used to drain it and is slightly more resilient to damage than its inside.  It can be picked up easily with [[chopsticks]].<ref name=WilliamAoyagi_3/><ref name=WilliamAoyagi_1>{{Harvnb|Shurtleff|Aoyagi|2008}}, Volume IV, The History of Traditional Non-Fermented Soyfoods, Chapter 36: {{Citation|title=History of Tofu|url=http://www.soyinfocenter.com/HSS/tofu1.php}}</ref>
+
+And some place in Japan, very firm type of momendofu is eaten.It is called ''ishi-douhu''{石豆腐(lit. ''stone tofu'')} in a part of [[Ishikawa]] etc., or ''iwa-douhu''{岩豆腐(lit. ''rock-tofu'')} in [[Gokayama]] ,[[Toyama]],or [[Iya]],[[Tokushima]] etc. Some of these tofu are able to tie them up by rope to carry, because of theirs firmness.
+These type of firm tofu are produced by using seawater instead of [[nigari]](Magnesium chloride), or using concentrated [[soy milk]].And some of them are using heavy weight and squeezed more moisture.These products are produced in areas where the circulation is inconvenient, such as remote islands, mountain villages, heavy snowfall areas,and so on.
+
+====Dried tofu====
+[[File:Driedtofu.JPG|thumb|250px|right|Sliced and sun dried tofu]]
+Dried tofu ({{lang|zh|豆乾}}, ''dòu gān'' in Chinese, lit. "dry tofu"): Despite its name the tofu has not actually been dried but is rather an extra firm variety of tofu with a large amount of liquids pressed out of it. Dried tofu contains the least amount of moisture of all fresh tofu and has the firmness of fully cooked meat and a somewhat rubbery feel similar to [[paneer]].  When sliced thinly, this tofu can be crumbled easily.  The skin of this form of tofu has the pattern of the muslin used to drain and press it.  Western firm tofu is milled and reformed after the pressing and sometimes lacks the skin with its cloth patterning.  One variety of dried tofu is pressed especially flat and sliced into long strings with a cross section smaller than 2&nbsp;mm × 2&nbsp;mm. Shredded dried tofu ({{lang|zh|豆乾絲}}, ''dòu gān sī'' in Chinese, or simply {{lang|zh|乾絲}}, ''gān sī''), which looks like loose cooked [[noodle]]s, can be served cold, stir-fried, or similar in style to Japanese ''[[aburaage]]''.<ref name=WilliamAoyagi_1/><ref>{{Citation|url=http://www.flickr.com/photos/initial_tai/388562141/|title=A photo}}</ref>
+Fresh tofu is usually sold completely immersed in water to maintain its moisture content.
+
+===Processed tofu===
+Many forms of processed tofus exist, due to the varied ways in which fresh tofu can be used.  Some of these techniques likely originate from the need to preserve tofu before the days of refrigeration, or to increase its shelf life and longevity.  Other production techniques are employed to create tofus with unique textures and flavors.<ref name=WilliamAoyagi_2>{{Harvnb|Shurtleff|Aoyagi|2008}}. Volume V, The History of Traditional Fermented Soyfoods, Chapter 44: {{Citation|title=History of Fermented Tofu|url=http://www.soyinfocenter.com/HSS/fermented_tofu1.php}}</ref>
+
+====Fermented====
+*'''[[Pickled tofu]]''' ({{lang|zh|[[wiktionary:豆|豆]][[wiktionary:腐|腐]][[wiktionary:乳|乳]]}} in Chinese, [[pinyin]]: ''dòufu rǔ'', lit. "tofu dairy," or {{lang|zh|[[wiktionary:腐|腐]][[wiktionary:乳|乳]]}}; ''chao'' in Vietnamese): Also called "preserved tofu" or "fermented tofu," this food consists of cubes of dried tofu that have been allowed to fully air-dry under hay and slowly ferment from aerial bacteria.<ref name=WilliamAoyagi_2 />  The dry fermented tofu is then soaked in salt water, Chinese wine, vinegar, and minced [[chile pepper|chiles]], or a unique mixture of whole rice, bean paste, and soybeans.  In the case of red pickled tofu ({{lang|zh|[[wiktionary:紅|紅]][[wiktionary:豆|豆]][[wiktionary:腐|腐]][[wiktionary:乳|乳]]}} in Chinese, Pinyin: hóng dòufu rǔ), [[red yeast rice]] (cultivated with ''[[Monascus purpureus]]'') is added for color.<ref>The Hwang Ryh Shang Company of Taiwan, a major producer of pickled tofu, mislabels this ingredient as "red date" ([[jujube]]) on the English-language list of ingredients on its product labels, although the Chinese list of ingredients on the same product lists 紅糟 (literally "red [[Lees (fermentation)|lees]]", i.e. red yeast rice).</ref> And in Japan, pickled tofu with miso paste is called 'tofu no misoduke', which is traditional preserving food in [[Kyushu]],especially in [[Kumamoto]].
+*'''[[Stinky tofu]]''' ({{lang|zh|[[wiktionary:臭|臭]][[wiktionary:豆|豆]][[wiktionary:腐|腐]]}} in Chinese, Pinyin: ''chòu dòufu''): A soft tofu that has been fermented in a unique vegetable and fish brine.<ref name=WilliamAoyagi_2/>  The blocks of tofu smell strongly of certain pungent cheeses, and are described by many as rotten and fecal.  Despite its strong odor, the flavor and texture of stinky tofu is appreciated by aficionados, who describe it as delightful.  The texture of this tofu is similar to the soft Asian tofu that it is made from.  The rind that stinky tofu develops from frying is said to be especially crisp, and is usually served with [[soy sauce]], sweet sauce, and/or hot sauce.
+
+====Flavored====
+[[File:Anninndofu-1-.jpg|thumb|250px|right|Almond "tofu," which is not made of [[soy milk]] but rather from [[gelatin]] or [[agar]]ose]]
+[[File:PHOT0070.JPG|thumb|250px|right|Chili-peppered egg tofu from Ipoh, Malaysia.]]
+Flavors can be mixed directly into curdling soy milk while the tofu is being produced.
+*'''Sweet''': Common sweet dessert tofus include peanut tofu ({{lang|zh|落花生豆腐}}, luòhuāshēng dòufu in Chinese and ''jimami-dōfu'' in Japanese), [[Almond jelly|almond tofu]] ({{lang|zh|杏仁豆腐}}, xìngrén dòufu in Chinese; {{lang|ja|杏仁豆腐}}, annindōfu in Japanese), mango tofu, coconut tofu and longan tofu (龙眼豆花).  In order to produce these forms of tofu, sugar, fruit acids, and flavorants are mixed into soy milk prior to curdling.  Most sweet tofus have the texture of silken tofu and are served cold.
+**Products called "almond tofu" in some cases are actually not tofu but are instead gelatinous mixtures including [[agar]] or [[gelatin]] and whitened with [[milk]] or [[coconut milk]]. In Japan these are canned with syrup and sold as sweet desserts.
+*'''Savory''': Egg tofu (Japanese: {{lang|ja|玉子豆腐}}, {{lang|ja|卵豆腐}}, tamagodōfu) (Chinese: {{lang|zh|蛋豆腐}}, dàn dòufu; often called {{lang|zh|日本豆腐}}, rìbĕn dòufu, lit. "Japan bean curd") is the main type of savory flavored tofu. Whole beaten eggs are filtered and incorporated into the soy milk before the coagulant is added. The mixture is filled into plastic tubes and allowed to curdle. The tofu is then cooked in its packaging and sold. Egg tofu has a pale golden color that can be attributed to the addition of egg and, occasionally, food coloring. This tofu has a fuller texture and flavor than silken tofu, which can be attributed to the presence of egg fat and protein.
+
+====Fried====
+*With the exception of the softest tofus, all forms of tofu can be fried. Thin and soft varieties of tofu are [[Deep frying|deep fried]] in oil until they are light and airy in their core ([[wiktionary:豆|豆]][[wiktionary:泡|泡]] ''dòupào'', 豆腐泡 ''doufupao'', 油豆腐 ''youdoufu'', or [[wiktionary:豆|豆]][[wiktionary:卜|卜]] ''doubu'' in Chinese, literally "bean bubble," describing the shape of the fried tofu as a bubble).
+*Tofus such as firm Asian and dry tofu, with their lower moisture content, are cut into bite-sized cubes or triangles and deep fried until they develop a golden-brown, crispy surface ([[wikt:炸|炸]][[wikt:豆腐|豆腐]] in Chinese, ''zhà dòufu'', lit. "fried tofu").  These may be eaten on their own or with a light sauce, or further cooked in liquids; they are also added to hot pot dishes or included as part of the vegetarian dish called ''[[Buddha's delight|luohan zhai]]''.
+*[[Aburaage]] (油揚げ): Japanese thin fried tofu for ''Inari-sushi''.
+*[[Atsuage]] (厚揚げ): The thicker variety of fried tofu.It is also called namaage (生揚げ).
+
+====Frozen====
+[[File:Dong Dou Fu (tofu).jpg|thumb|250px|Thawed and sliced frozen tofu]]
+*'''Thousand layer tofu''' ({{lang|zh|[[wiktionary:千|千]][[wiktionary:葉|葉]][[wiktionary:豆|豆]][[wiktionary:腐|腐]], [[wiktionary:凍|凍]][[wiktionary:豆|豆]][[wiktionary:腐|腐]] or [[wiktionary:冰|冰]][[wiktionary:豆|豆]][[wiktionary:腐|腐]]}} in Chinese, literally "thousand layer tofu" or "frozen tofu"): By freezing tofu, the large ice crystals that develop within the tofu result in the formation of large cavities that appear to be layered.  The frozen tofu takes on a yellowish hue in the freezing process.  Thousand layer tofu is commonly made at home from Asian soft tofu though it is also commercially sold as a specialty in parts of Taiwan.  This tofu is defrosted, and sometimes pressed to remove moisture, prior to use.
+*'''Koyadofu''' (''kōyadōfu'', {{lang|ja|[[wiktionary:高|高]][[wiktionary:野|野]][[wiktionary:豆|豆]][[wiktionary:腐|腐]]}} in Japanese): The name comes from [[Mount Koya]], a center of [[Japanese Buddhism]] famed for its ''[[Buddhist cuisine|shōjin ryōri]]'', or traditional Buddhist vegetarian cuisine.  It is sold in [[freeze drying|freeze-dried]] blocks or cubes in Japanese markets.  It must be soaked in water before eating, and is typically simmered in [[dashi]], [[sake]] or [[mirin]] and [[soy sauce]]. In ''shōjin ryōri'', vegetarian ''kombu dashi'', made from seaweed, is used. When prepared in the usual manner, it has a spongy texture and mild sweet and savory flavor.  A similar form of freeze-dried tofu, in smaller pieces, is found in instant soups (such as [[miso soup]]), in which the toppings are freeze-dried and stored in sealed pouches.
+Tofu is also a main dish, especially this type which is commonly used and is in high demand in eastern Asia.
+
+===Byproducts of tofu production===
+Tofu production creates some edible byproducts. Food products are made from the protein-oil film, or "skin," which forms over the surface of boiling soy milk in an open shallow pan.  The leftover solids from pressing soy milk are called ''[[Okara (food)|okara]]''.
+
+==== Tofu skin ====
+[[Tofu skin]] is produced through the boiling of soy milk, in an open shallow pan, thus producing a film or skin composed primarily of a soy protein-lipid complex on the liquid surface.  The films are collected and dried into yellowish sheets known as '''soy milk skin''' ({{lang|zh|腐皮}}, ''fǔ pí'' in Chinese; {{lang|ja|湯葉}}, ''yuba'' in Japanese).  Its approximate composition is : 50–55% protein, 24–26% lipids (fat), 12% carbohydrate, 3% ash, and 9% moisture.<ref>{{Citation|format=|url=http://www.thesoydaily.com/SFC/NFsoyfoods38.asp|publisher= The Soy Daily|title=Broken link}} {{dead link|date=July 2010}} Not retrieved on 5 January 2008.</ref>
+
+The skin can also be bunched up to stick form and dried into something known as "tofu bamboo" ({{lang|zh|腐竹}}, ''fǔ zhú'' in Chinese; ''phù trúc'' in Vietnamese; ''kusatake'', Japanese), or myriad other forms.  Since tofu skin has a soft yet rubbery texture, it is folded or shaped into different forms and cooked further to imitate meat in vegan cuisine.
+
+Some factories dedicate production to tofu skin and other soy membrane products.
+
+====Okara====
+{{nihongo|[[Okara (food)|Okara]]|おから}} ({{lang|zh|雪花菜}}, ''xuě huā caì'', lit. "snowflake vegetable"; {{lang|zh|豆腐渣}}, ''dòufu zhā'', lit. "tofu sediment/residue"; ''kongbiji'', 콩비지 in Korean), sometimes known in the west as "soy pulp" or "tofu lees",<ref name="Shurtleff p.22">Shurtleff, (1998), p.22</ref> is the fibre, protein, and starch left over when soy milk has been extracted from ground soaked soybeans.<ref name="Shurtleff p.79">Shurtleff, (1998), p.79</ref> Although it is mainly used as animal feed in most tofu producing cultures, it is sometimes used in Japanese and Korean cuisines. It is also an ingredient for [[Veggie burger|vegetarian burgers]] produced in many western nations.
+
+===Non-tofu "tofus"===
+Due to their Asian origins and their textures, many food items are called "tofu" even though their production processes are not technically similar. For instance, many sweet almond tofus are actually gelatinous desserts made from [[agar]] or [[gelatin]] and whitened with [[milk]] or [[coconut milk]] more similar to Japanese [[anmitsu]]. As well, some foods such as Burmese tofu are not coagulated from the "milk" of the legume but rather set in a manner similar to soft [[polenta]], [[Muk (food)|Korean muk]], or the [[jidou liangfen]] of [[Yunnan]] province of [[Southwest China]].
+
+====Burmese tofu====
+[[File:IMG 1416.JPG|thumb|right|250px|''To hpu'' (Burmese tofu), in two forms: fresh and [[fritters]]]]
+[[Burmese tofu]] (''to hpu'' in [[Burmese language|Burmese]]) is a type of legume product made from ''[[Gram flour|besan]]'' ([[Chickpea|''chana dal]]'') flour the [[Shan]] variety uses [[pigeon pea|yellow split pea]] flour instead. Both types are yellow in color and generally found only in [[Myanmar]], though the [[Bamar|Burman]] variety is also available in some overseas restaurants serving [[Cuisine of Myanmar|Burmese cuisine]].<ref>{{Citation|url=http://www.netcooks.com/recipes/Salads/Burmese-Style.Tofu.html|title=Burmese tofu recipe}}</ref>
+
+Burmese tofu may be fried as fritters cut in rectangular or triangular shapes. Rice tofu, called ''hsan to hpu'' (or ''hsan ta hpo'' in Shan regions) is made from rice flour (called ''hsan hmont'' or ''mont hmont'') and is white in color, with the same consistency as yellow Burmese tofu when set. It is eaten as a salad in the same manner as yellow tofu.
+
+==Preparation==
+Tofu has very little flavor or smell on its own.  Consequently tofu can be prepared either in savory or sweet dishes, acting as a bland background for presenting the flavors of the other ingredients used. As a method of flavoring it is often marinated in soy sauce, chilis, sesame oil, etc.
+
+===Eastern methods===
+In Asian cooking, tofu is eaten in myriad ways, including raw, stewed, stir-fried, in soup, cooked in sauce, or stuffed with fillings. The idea of using tofu as a meat substitute is not common in East Asia. Many Chinese tofu dishes such as jiā cháng dòu fǔ (家常豆腐)and má pó dòu fú ([[麻婆豆腐]]) include meat.
+
+====Lightly flavored====
+In [[Japan]], a common lunch in the summer months is ''[[hiyayakko]]'' ({{lang|ja|[[wiktionary:冷|冷]][[wiktionary:奴|奴]]}}), silken or firm Asian tofu served with freshly grated [[ginger]], [[green onion]]s, and/or ''[[katsuobushi]]'' shavings with [[soy sauce]]. In the winter, tofu is frequently eaten as ''yudofu'', which is simmered in a claypot with some vegetables(ex:[[chinese cabbage]], green onion etc.) using [[konbu]][[dashi]].
+
+[[File:Dofuhua-lamma.jpg|thumb|right|250px|''Dòuhuā'' ({{lang|zh|豆花}}), is a soft tofu dish.  The fresh tofu is served warm and here dressed with sweet syrup.  [[Lamma Island]], [[Hong Kong]].]]
+In [[Chinese cuisine]], ''[[Douhua|Dòuhuā]]'' ({{lang|zh|[[wiktionary:豆|豆]][[wiktionary:花|花]]}}) is served with toppings like boiled [[peanut]]s, [[azuki bean]]s, cooked [[oatmeal]], [[tapioca]], [[mung bean]]s and a syrup flavored with [[ginger]] or [[almond]].  During the summer, ''dòuhuā'' is served with crushed ice; in the winter, it is served warm.<ref name=tofuBook>{{Harvnb|Shurtleff|Aoyagi|2005}}.</ref>
+And also,many parts of [[China]], fresh tofu is similarly eaten with soy sauce or further flavored with ''[[katsuobushi]]'' shavings, [[century egg]]s ({{lang|ja|[[wiktionary:皮|皮]][[wiktionary:蛋|蛋]]}}), and [[sesame seed]] oil.
+
+
+In [[Korean cuisine]], ''dubu [[gui]]'' ({{lang|ko|두부구이}}) consists of pan fried cubes of firm tofu, seasoned with soy sauce, garlic, and other ingredients.  Cubes of cold, uncooked firm tofu seasoned with soy sauce, scallions, and ginger, prepared in a manner similar to the Japanese ''hiyayakko'', are also enjoyed.  The popular bar food, or ''[[Anju (food)|anju]]'' ({{lang|ko|안주}}), called ''[[dubu kimchi]]'' ({{lang|ko|두부김치}}), features boiled, firm tofu served in rectangular slices around the edges of a plate with pan fried, sautéed or freshly mixed ''[[kimchi]]'' ({{lang|ko|김치}}) in the middle.
+
+In the [[Philippines]], the sweet delicacy [[taho]] is made of fresh tofu with brown sugar syrup and [[sago]]. The Malaysian version of taho or douhua is called tofufa. Warm soft tofu is served in 'slices' (due to being scooped using a flat spoon from a wooden bucket) in a bowl with either pandan-flavored sugar syrup or palm sugar syrup.
+
+In Vietnam, ''dòuhuā'' is pronounced ''đậu hủ''.  This variety of soft tofu is made and carried around in an earthenware jar.  It is served by being scooped into a bowl with a very shallow and flat spoon, and eaten with either powdered sugar and lime juice or with a ginger-flavored syrup.  It is generally eaten hot, even during summer.
+
+====Fried====
+A common cooking technique in many parts of East and Southeast Asia involves deep frying tofu in [[vegetable oil]], [[sunflower]] oil, and [[canola]] oil to varied results.  Although tofu is often sold preprocessed into fried items, pre-fried tofu is seldom eaten directly and requires additional cooking.  Depending on the type of tofu used, the texture of deep fried tofu may range from crispy on the outside and custardy on the inside, to puffed up like a [[Youtiao|plain doughnut]].  The former is usually eaten plain in Chinese cuisine with garlic soy sauce, while the latter is either stuffed with [[surimi|fish paste]] or cooked in soups.<ref name=tofuBook/>
+In Japan, cubes of lightly coated and fried tofu topped with a [[kombu]] [[dashi]]-based sauce are called ''[[Agedashi tofu|agedashi-dofu]]'' ({{lang|ja|揚げ出し豆腐}}).  Soft tofu that has been thinly sliced and deep fried, known as ''aburage'' in Japan and ''yubu'' ({{lang|ko|유부}}) in Korea, is commonly [[blanching (cooking)|blanched]], seasoned with [[soy sauce]] and [[mirin]] and served in dishes such as ''[[kitsune]] [[udon]]''.  ''Aburage'' is sometimes also cut open to form a pocket and stuffed with [[sushi]] rice; this dish is called ''inarizushi'' ({{lang|ja|稲荷寿司}}) and is also popular in Korea, where it is called ''yubu chobap'' ({{lang|ko|유부초밥}})
+
+====Soups, stews, and braised dishes====
+[[File:Yudofu.jpg|thumb|250px|''Yudofu'', or tofu in hot water]]
+
+A rather famous hot [[Szechuan cuisine|Sichuan]] preparation using firm Asian tofu is ''[[mapo tofu|mápó dòufu]]'' ({{lang|zh|[[wiktionary:麻|麻]][[wiktionary:婆|婆]][[wiktionary:豆|豆]][[wiktionary:腐|腐]]}}).  This involves braised tofu in a [[beef]], chili, and a fermented bean paste sauce.  In the [[Shanghai]] region it is called ''málà dòufu'' ({{lang|zh|[[wiktionary:麻|麻]][[wiktionary:辣|辣]][[wiktionary:豆|豆]][[wiktionary:腐|腐]]}}).
+
+Dried tofu is usually not eaten raw but first stewed in a mixture of soy sauce and spices.  Some types of dried tofu are preseasoned with special blends of spices, so that the tofu may either be called "five spice tofu" ({{lang|zh|五香豆腐}}) or "soy sauce stewed tofu" ({{lang|zh|鹵水豆腐}}).  Dried tofu is typically served thinly sliced with chopped [[Scallion|green onions]] or with slices of meat for added flavor.  Most dried tofu is sold after it has been fried or pre-stewed by tofu vendors.<ref name=tofuBook/>
+
+Soft tofu can also be broken up or mashed and mixed with raw ingredients prior to being cooked.  For example, Japanese ''ganmodoki'' is a mixture of chopped vegetables and mashed tofu.  The mixture is bound together with starch and deep fried.  Chinese families sometimes make a steamed [[meatloaf]] or [[meatball]] dish from equal parts of coarsely mashed tofu and ground pork.  In India, tofu is also used as a low fat replacement for [[paneer]] providing the same texture with similar taste.
+
+Tofu bamboos are often used in [[Lamb (meat)|lamb]] stew or in a [[dessert]] [[soup]].  Tofu skins are often used as wrappers in [[dim sum]].  Freeze-dried tofu and frozen tofu are rehydrated and enjoyed in savory soups.  These products are often taken along on camping trips since a small bag of these dried tofu can provide protein for many days.
+
+In Korean cuisine, soft tofu, called ''sundubu'' (순두부), is used to make a thick stew called ''[[sundubu jjigae]]'' ({{lang|ko|순두부 찌개}}).  Firm, diced tofu often features in the staple stews ''[[doenjang jjigae]]'' ({{lang|ko|된장 찌개}}) and ''[[kimchi jjigae]]'' ({{lang|ko|김치 찌개}}).
+
+====Bacem====
+''Bacem'' is a method of cooking tofu originating from [[Java]], [[Indonesia]]. The tofu is boiled in coconut water, mixed with ''lengkuas'' (galangal), Indonesian bay leaves, [[coriander]], [[shallot]], [[garlic]], [[tamarind]] and [[palm sugar]]. After the spicy coconut water has completely evaporated, the tofu is fried until it is golden brown. The result is sweet, spicy, and crisp. This cooked tofu variant is commonly known as ''tahu bacem'' in [[Indonesian language|Indonesian]]. ''Tahu bacem'' is commonly prepared along with [[tempeh]] and [[chicken]].
+
+====As flavoring====
+Pickled tofu is commonly used in small amounts together with its soaking liquid to flavor stir-fried or braised [[vegetable]] dishes (particularly [[leaf vegetable|leafy green vegetable]]s like [[Ipomoea aquatica|water spinach]]).  It is often eaten directly as a [[condiment]] with rice or [[Rice congee|congee]].
+
+===Western methods===
+Generally, the firmer styles of tofu are used for [[kebab]]s, mock meats, and dishes requiring a consistency that holds together, while the softer styles can be used for desserts, soups, shakes, and sauces.
+
+Firm western tofus can be barbecued since they will hold together on a barbecue grill.  These types of tofu are usually marinated overnight as the marinade does not easily penetrate the entire block of tofu (techniques to increase penetration of marinades are stabbing repeatedly with a fork or freezing and thawing prior to marinating).  Grated firm western tofu is sometimes used in conjunction with [[Textured vegetable protein|TVP]] as a meat substitute.  Softer tofus are sometimes used as a dairy-free or low-calorie filler.  Silken tofu may be used to replace cheese in certain dishes (such as [[lasagna]]).
+
+Tofu has also been fused into other cuisines in the west, for instance used in Indian-style curries.
+
+Tofu and soy protein can be industrially processed to match the textures and flavors to the likes of [[cheese]], [[pudding]], [[egg (food)|eggs]], [[bacon]] etc.  Tofu's texture can also be altered by [[freezing]], [[puree]]ing, and [[cooking]].  In [[the Americas]], [[Europe]], [[Australia]] and [[New Zealand]], tofu is frequently associated with [[vegetarianism]] and [[veganism]] as it is a source of non-animal protein.
+
+==History==
+{{See also|List of Chinese inventions}}
+[[File:Tufo and potatoes grilled.jpg|right|thumb|250px|Tofu and potatoes grilled at a street stall in [[Yuanyang County, Yunnan|Yuanyang]], Yunnan province, China]]
+Tofu originated in ancient [[China]],<ref name=Soya>''[http://www.soya.be/history-of-tofu.php ''History of Tofu'']</ref> although little else is known about the exact historic origins of tofu and its method of production.  While there are many theories regarding tofu's origins, historical information is scarce enough as to relegate the status of most theories to either speculation or legend.  Like the origins of [[cheese]] and [[butter]], the exact origin of tofu production may never be known or proven.
+
+What is known is that tofu production is an ancient technique.  Tofu was widely consumed in ancient [[China]], and techniques for its production and preparation were eventually spread to many other parts of [[Asia]].
+
+===Three theories of origin===
+The most commonly held of the three theories of tofu's origin maintains that tofu was invented in northern China around 164 BC by Lord [[Liu An]], a [[Han Dynasty]] prince.  Although this is possible, the paucity of concrete information about this period makes it difficult to conclusively determine whether Liu An invented the method for making tofu.  Furthermore, in [[Chinese history]], important inventions were often attributed to important leaders and figures of the time.<ref name=WilliamAoyagi_1/> In 1960, a stone mural unearthed from an Eastern Han dynasty tomb provided support for the theory of Han origin of tofu, however some scholars maintained that the tofu in Han dynasty was rudimentary, and lacked the firmness and taste of real tofu.<ref>Joseph Needham Science and Civilization in China, vol 6, part 5, chapter 40, page 306-307, Cambridge University Press</ref>
+
+Another theory states that the production method for tofu was discovered accidentally when a slurry of boiled, ground soybeans was mixed with impure sea salt.  Such sea salt would likely have contained calcium and magnesium salts, allowing the soy mixture to curdle and produce a tofu-like gel.<ref>Korean ''sundubu'' (soft tofu) and Okinawan tofu is still produced in a similar manner, traditionally using seawater as a coagulant.</ref>  This may have possibly been the way that tofu was discovered, since soy milk has been eaten as a savory soup in ancient as well as modern times.  Its technical plausibility notwithstanding, there is little evidence to prove or disprove that tofu production originated in this way.<ref name=WilliamAoyagi_1 />
+
+The last group of theories maintains that the ancient Chinese learned the method for the curdling of soy milk by emulating the milk curdling techniques of the [[Mongols|Mongolian]]s or [[East India]]ns.  For, despite their advancement, no technology or knowledge of culturing and processing milk products existed within ancient Chinese society. (They did not seek such technology, probably because of the Confucian taboo on fermented dairy products and other so-called "barbarian foodstuffs".)  The primary evidence for this theory lies with the etymological similarity between the Chinese term for Mongolian fermented milk (''rufu'', which literally means "milk curdled") and the term ''doufu'' ("beans curdled") or tofu.  Although intriguing and possible, there is no evidence to substantiate this theory beyond the point of academic speculation.<ref name=WilliamAoyagi_1/>
+
+===In Asia===
+[[Image:Tofu in China 03.jpg|thumb|right|250px|Tofu as sold in Haikou, Hainan, China]]
+Although its development likely preceded Liu An, tofu is known to have been a commonly produced and consumed food item in [[China]] by the 2nd century BC.  Although the varieties of tofu produced in ancient times may not have been identical to those of today, descriptions from writings and poetry of the [[Song Dynasty|Song]] and [[Yuan Dynasty]] show that the production technique for tofu had already been standardized by then, to the extent that they would be similar to tofu of contemporary times.
+
+In China, tofu is traditionally used as a food offering when visiting the graves of deceased relatives.  It is claimed that the spirits (or ghosts) have long lost their chins and jaws, and that only tofu is soft enough for them to eat. Before [[refrigeration]] was available in China, tofu was often only sold during the winter time, due to the tofu not spoiling in the colder weather.  During the warmer months, any leftover tofu would be spoiled if left for more than a day. Chinese war hero [[Guan Yu]] used to be a tofu maker before he enlisted in the army. Chinese martial arts expert and hero, [[Yim Wing-chun]], was a celebrated tofu maker in her village.  (Tofu as such plays a part in the 1994 movie about her life, ''[[Wing Chun (film)|Wing Chun]]''.)
+
+Tofu and its production technique were subsequently introduced into [[Japan]] in the [[Nara period]] (late eighth century) as well as other parts of [[East Asia]]. The earliest document of tofu in Japan shows that the dish was served as an offering at the [[Kasuga Shrine]] in [[Nara, Nara|Nara]] in 1183.<ref>''A taste of Japan'', Donald Richie, [[Kodansha]], 2001, ISBN 4770017073</ref> The book ''[[Tofu Hyakuchin]]'' ({{lang|ja|豆腐百珍}}), published in the [[Edo period]], lists 100 recipes for cooking tofu.
+
+The rise in acceptance of tofu likely coincided with that of [[Buddhism]] as it is an important source of proteins in the religion's vegetarian diet.  Since then, tofu has become a [[Staple food|staple]] in many countries, including [[Vietnam]], [[Thailand]], and [[Korea]], with subtle regional variations in production methods, texture, flavor, and usage.
+
+Tofu is so highly esteemed in Korean culture that the menus of many Korean restaurants are based almost entirely on tofu, including some which feature only ''[[sundubu jjigae]]'' (a stew made with soft tofu) and ''[[gochujang]]'' (red chili paste).{{Citation needed|date=December 2007}}
+
+Tofu in the [[Philippines]] is essential to the daily diet, as ''[[taho]]'', widely eaten as breakfast, or ''tokwa'' (a dry fried variation), which is a staple or alternative to meat in main meals, and in numerous regional dishes. Tofu was introduced to the archipelago in the 10-13th centuries by [[Song dynasty|Song]] Chinese mariners and merchants, along with many different foods which had become staples of the Filipino diet. The use and production of Tofu were first limited to urban centers with influential Chinese minorities, such as [[Kingdom of Tondo|Tondo]] or [[Cebu city|Cebu]], but were quickly spread to even remote native villages and islands, long before the Spanish arrival in the 17th century.
+
+In Malaysia, Singapore, Thailand and Indonesia, tofu or tahu is widely available and used in many Malay dishes such as sayur goreng, masak lodeh, tahu sumbat, rojak, pecal, gado-gado, lontong and some curries. The Malaysian and Singaporean Indians use tofu in their cuisine such as Indian mee goreng and rojak pasembor. The makers of tofu in these countries were originally the Chinese but tofu now is made by non-Chinese as well.
+
+===In the West===
+
+The first tofu company in the USA was established in 1878.<ref>http://www.soyinfocenter.com/chronologies_of_soyfoods-tofu.php</ref> However tofu was not well known to most Westerners before the middle of the 20th century. With increased cultural contact between the West and Asia and growing interest in [[vegetarianism]], knowledge of tofu has become widespread. Numerous types of pre-flavored tofu can be found in many supermarket chains throughout the West.
+
+== Nutrition and health information ==
+===Protein===
+Tofu is relatively high in [[protein]], about 10.7% for firm tofu and 5.3% for soft "silken" tofu with about 5% and 2% fat<ref>http://nutritiondata.self.com/foods-tofu016000000000000000000.html</ref> respectively as a percentage of weight.<ref>{{Harvnb|Ang|Liu|Huang|1999}}.</ref>
+
+In 1995, a report from the [[University of Kentucky]], financed by [http://www.solae.com/ The Solae Company] [[St. Louis, Missouri]] (the PTI division of DuPont), concluded that soy protein is correlated with significant decreases in serum cholesterol, Low Density Lipoprotein [[LDL]] (bad cholesterol) and triglyceride concentrations.<ref name="AJC">{{Harvnb|Anderson|Johnstone|Cook-Newell|1995}}</ref> However, High Density Lipoprotein [[High density lipoprotein|HDL]] (good cholesterol) did not increase.  Soy [[phytoestrogens]] ([[isoflavones]]: genistein and daidzein) absorbed onto the soy protein were suggested as the agent reducing serum cholesterol levels.  On the basis of this research, PTI, in 1998, filed a petition with [[Food and Drug Administration]] for a health claim that soy protein may reduce cholesterol and the risk of heart disease.
+
+The FDA granted this health claim for soy: "25 grams of soy protein a day, as part of a diet low in saturated fat and cholesterol, may reduce the risk of heart disease."<ref name="fda">{{Citation|title=Soy: Health Claims for Soy Protein, Questions About Other Components|url=http://www.fda.gov/fdac/features/2000/300_soy.html|publisher=U.S. Food and Drug Administration}}</ref> For instance, 100&nbsp;grams of firm tofu contains 15.78&nbsp;grams of soy protein.<ref>USDA National Nutrient Database for Standard Reference, Release 21 (year 2008): http://www.nal.usda.gov/fnic/foodcomp/search/.</ref> In January 2006, an [[American Heart Association]] review (in the journal ''Circulation'') of a decade-long study of soy protein benefits showed only a minimal decrease in cholesterol levels, but it compared favorably against animal protein sources.<ref>{{Harvnb|Sacks|Lichtenstein|Van Horn|Harris|2006}}, [http://circ.ahajournals.org/cgi/content/full/113/7/1034#SEC2 section 2].</ref>
+
+===Isoflavones===
+Soy isoflavones have not been shown to reduce post [[menopause]] [[hot flash]]es in women or to help prevent cancers of the breast, uterus or prostate.  Thus, soy isoflavone supplements in food or pills are not recommended.<ref>{{Harvnb|Sacks|Lichtenstein|Van Horn|Harris|2006}}. See also {{Citation|last=Doheny|first=Kathleen|url=http://www.lifeclinic.com/healthnews/article_view.asp?story=530561|title=Soy Claim as Heart Helper in Dispute|publisher=[[HealthDay]] News|year=2006|accessdate=2008-01-05}}</ref>
+
+A study done by the [[Pacific Health Research Institute]] followed over 3000 Japanese men between 1965 and 1999, which showed a positive correlation between [[cerebral atrophy]] and consumption of tofu.<ref>{{Harvnb|White|Petrovitch|Ross|Masaki|2000}}</ref> According to the [[Alzheimer's Research Trust]], more research is needed.<ref name=dementia>{{cite news| url=http://news.bbc.co.uk/2/hi/talking_point/7490202.stm | work=BBC News | title=Tofu 'may raise risk of dementia' | date=2008-07-04 | accessdate=2010-05-25}}</ref>
+
+===Health issues===
+High consumption of tofu has been linked with [[dementia]] in older age groups in more than one study, whereas in younger and middle-age age groups it might actually protect the brain. It has been stressed that there is no evidence that eating tofu in moderation can cause any problems, and that further research is needed to confirm both the negative as well as the positive effects.<ref name=dementia/>
+
+==Sales and distribution==
+
+{{unreferenced section|date=August 2010}}
+
+In many countries in the West, tofu can be obtained in [[Asia]]n markets, farmers' markets, and [[health food]] stores. It is also increasingly available in supermarkets, especially in larger branches, and in metropolitan areas. The largest provider of tofu products in the [[United States]] is House Foods America Corp, a subsidiary of Japanese company [[House Foods]] Corp ([[ハウス食品]]).
+
+House Foods America Corp. has tofu plants in California and New Jersey with a combined capacity of manufacturing 350,000 pieces of tofu per day.  Other major brands are [[Vitasoy]], a subsidiary of a Hong Kong based company, which also manufactures the brands Nasoya and Azumaya; and Mori-Nu (Morinaga Nutritional Foods), a subsidiary of [[Morinaga Milk Industry]] (森永乳業) of Japan, which pioneered the sale of shelf-stable, [[Tetra Pak|aseptically packaged]] tofu.
+
+Fresh local tofu varieties are often available in Western areas with high concentrations of Asian populations.
+
+In the East, tofu may be produced locally by relatively small vendors in the form of 2'x2'x2" block, then cut into 2"x2"x2" pieces when sold; or distributed widely by large national brands.  Fresh tofu is usually bought from local vendors and is sold directly from large bins or pots at [[street market]]s.  Asian firm tofu and "tofu flower" are commonly sold in this manner and are usually no more than a few hours old.  Tofu that is sold by large manufacturers often comes packaged in sealed plastic cartons or tubes, and may be at most two weeks old.  In Chinese [[supermarket]]s, tofu can be found in many different flavors and grades of consistency.
+
+Most silken and flavored tofus are produced by large factories, which have the facilities to meet the required sanitary conditions for production of these forms of tofu on a large scale.  In Japan, silken tofu is made daily without preservatives and is considered unsellable if it sits unsold in the supermarket for 2 days.
+
+==See also==
+{{Portal|Food}}
+
+*[[Tempeh]]
+*[[Soy milk]]
+*[[Soybean]]
+*[[Douhua]]
+*[[Femarelle (DT56a)]]
+*[[Buddhist cuisine]]
+*[[Chinese cuisine]]
+*[[Filipino cuisine]]
+*[[Indonesian cuisine]]
+*[[Japanese cuisine]]
+*[[Korean cuisine]]
+*[[Vegetarian cuisine]]
+*[[Vietnamese cuisine]]
+*[[Los Angeles Tofu Festival]]
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+{{Refbegin}}
+*{{citation|last1=Anderson|first1= J. W.|last2= Johnstone|first2= B.M.|last3=Cook-Newell|first3= M.E.|journal=New England Journal of Medicine|volume=333|issue=5|title=Meta-Analysis of the Effects of Soy Protein Intake on Serum Lipids|year=1995|pages=276&ndash;282|pmid=7596371|url=http://content.nejm.org/cgi/content/full/333/5/276|doi=10.1056/NEJM199508033330502}}
+*{{citation|editor1-last=Ang|editor1-first=Catharina Y. W.|editor2-first=KeShun|editor2-last=Liu|editor3-first=Yao-Wen|editor3-last=Huang|year=1999|url= http://www.chipsbooks.com/asianfd.htm|title= Asian Foods: Science & Technology|publisher=Technomic Publishing Co.|place= Lancaster, Pennsylvania}}
+*{{citation|last=Berk|first= Zeki|year= 1992|title= Technology of production of edible flours and protein products from soybeans|series= FAO agricultural services bulletin|volume= 97|place=Rome|publisher= Food and Agriculture Organization of the United Nations|url=http://www.fao.org/docrep/t0532e/t0532e00.htm|isbn=978-9251031186}}.
+*{{citation|title=Diagnosis and Management of the Metabolic Syndrome. An American Heart Association/National Heart, Lung, and Blood Institute Scientific Statement|first1=Scott M.|last1= Grundy|first2= James I.|last2= Cleeman|first3=Stephen R.|last3= Daniels|first4= Karen A.|last4= Donato|first5= Robert H.|last5=Eckel|first6= Barry A.|last6= Franklin|journal=Circulation|doi=10.1161/CIRCULATIONAHA.105.169404|volume=112|pages=2735&ndash;2752|year=2005|pmid=16157765|last7=Gordon|first7=DJ|last8=Krauss|first8=RM|last9=Savage|first9=PJ|issue=17}}
+*{{citation|last1=Guo|first1=Shun-Tang|last2= Ono|first2=Tomotada|year=2005|title=The Role of Composition and Content of Protein Particles in Soymilk on Tofu Curding by Glucono-δ-lactone or Calcium Sulfate|journal= Journal of Food Science|volume= 70 |issue=4|pages=258–262|url=http://www.blackwell-synergy.com/doi/abs/10.1111/j.1365-2621.2005.tb07170.x|doi=10.1111/j.1365-2621.2005.tb07170.x}}.
+*{{citation|last=Liu|first= KeShun|year= 1997|url= http://www.springer.com/uk/home/life+sci/food+science?SGWID=3-40723-22-33274516-0|title=Soybeans: Chemistry, Technology, and Utilization|publisher=Springer| isbn=978-0834212992}}.
+*{{citation|first1=Frank M.|last1=Sacks|first2=Alice|last2=Lichtenstein|first3=Linda|last3=Van Horn|first4=William|last4=Harris|first5=Penny|last5=Kris-Etherton|first6=Mary|last6=Winston|title=Soy Protein, Isoflavones, and Cardiovascular Health. An American Heart Association Science Advisory for Professionals From the Nutrition Committee|journal=Circulation|year=2006|volume=113|issue=7|pages=1034&ndash;1044|doi=10.1161/CIRCULATIONAHA.106.171052|pmid=16418439|author7=American Heart Association Nutrition Committee}}.
+*{{citation|last1=Shurtleff|first1= William|last2= Aoyagi|first2= Akiko|year=2000|title=Tofu & soymilk production: a craft and technical manual|edition= 3rd|place=Lafayette, California|publisher=Soyfoods Center|isbn=978-1928914044}}.
+*{{citation|last1=Shurtleff|first1= William|last2= Aoyagi|first2= Akiko|year=2005|title= Dou fu zhi shu (The book of tofu)|publisher=Taibei Shi|isbn=978-9868131910}}. (In Chinese.)
+*{{citation|last1=Shurtleff|first1= William|last2= Aoyagi|first2= Akiko|year=2008|title=A Comprehensive History of Soy. History of Soybeans and Soyfoods Past Present and Future|publisher=Soyinfo Center|place=Lafayette, California|url=http://www.soyinfocenter.com/HSS/history.php}}.
+*{{citation|title=Brain aging and midlife tofu consumption|last1=White|first1= L. R.|last2= Petrovitch|first2= H.|last3=Ross|first3= G. W.|last4= Masaki|first4= K.|last5=Hardman|first5= J.|last6=Nelson|first6= J.|journal=Journal of the American College of Nutrition|date= April 1, 2000 |volume=19|issue=2|pages=242&ndash;255|url=http://www.jacn.org/cgi/content/full/19/2/242|pmid=10763906|author7=D|author8=M}}.
+*{{citation|last1=Shurtleff|first1= William |first2= Akiko |last2=Aoyagi|year=1998|title= The book of tofu: protein source of the future-- now! |publisher= Ten Speed Press |isbn=1580080138|url= http://books.google.com/?id=k7yx0OYDWFEC&pg=PA93#v=onepage&q= }}.
+*Du Bois, Christine M.; Tan, Chee-Beng. Mintz, Sidney Wilfred (2008), ''The World of Soy'', University of Illinois Press, ISBN 0252033418
+*Knopper, Melissa. (Jan 2002), ''The joy of soy'', The Rotarian, Vol. 180, No. 1, p.&nbsp;16, ISSN 0035-838X
+{{Refend}}
+
+==External links==
+{{Commons category|Tofu}}
+{{Cookbook}}
+{{Wiktionary|tofu}}
+
+* [http://books.google.se/books?id=JTr-ouCbL2AC&pg=PA801&lpg=PA801&dq=dou+fu+contains+calcium&source=bl&ots=1011pbbfxj&sig=dJECMgrGhjwcZUNO6W-Y2t3VZ_c&hl=sv#v=onepage&q&f=false ''The Oxford companion to food'' Alan Davidson,Tom Jaine]
+*{{Citation|url=http://vegetarian.about.com/od/healthnutrition/p/tofunutrition.htm|title=Tofu Nutritional Value Information|publisher=About.com Vegetarian food|accessdate=2008-01-05}}
+*{{Citation|url=http://www.abc.net.au/centralwest/stories/s398519.htm|title=Interview with Robyn Alderton regarding tofu itself and some related health benefits|publisher=ABC Central West NSW|accessdate=2008-01-05 |archiveurl = http://web.archive.org/web/20071230083141/http://www.abc.net.au/centralwest/stories/s398519.htm |archivedate = 2007-12-30}}
+*[http://www.tofushop.com/how-we-make-our-tofu Community scale manufacture of organic nigari tofu] - [[Arcata, California]], [[USA]]
+*[http://uk.youtube.com/watch?v=kwScaCeR9S4 Large scale manufacture of Shan tofu] (video) - [[Inle Lake]], [[Myanmar]]
+
+{{Soy}}
+{{Vegetarianism}}
+
+[[Category:Tofu|*]]
+[[Category:Soy products]]
+[[Category:Meat substitutes]]
+[[Category:Chinese ingredients]]
+[[Category:Chinese cuisine]]
+[[Category:Indonesian cuisine]]
+[[Category:Japanese cuisine]]
+[[Category:Japanese cuisine terms]]
+[[Category:Korean cuisine]]
+[[Category:Vegan cuisine]]
+[[Category:Vietnamese cuisine]]
+
+[[ar:توفو]]
+[[bg:Тофу]]
+[[ca:Tofu]]
+[[cv:Тофу]]
+[[cs:Tofu]]
+[[da:Tofu]]
+[[de:Tofu]]
+[[el:Τόφου]]
+[[es:Tofu]]
+[[eo:Tohuo]]
+[[fa:توفو]]
+[[fr:Tofu]]
+[[hak:Theu-fú]]
+[[ko:두부]]
+[[hr:Tofu]]
+[[id:Tahu]]
+[[is:Tófú]]
+[[it:Tōfu]]
+[[he:טופו]]
+[[jv:Tahu]]
+[[lt:Sojų varškė]]
+[[hu:Tofu]]
+[[ms:Tauhu]]
+[[nl:Tofoe]]
+[[ne:तोफु]]
+[[ja:豆腐]]
+[[no:Tofu]]
+[[pl:Tofu]]
+[[pt:Tofu]]
+[[ro:Tofu]]
+[[ru:Тофу]]
+[[simple:Tofu]]
+[[sk:Tofu]]
+[[sr:Тофу]]
+[[su:Tahu]]
+[[fi:Tofu]]
+[[sv:Tofu]]
+[[tl:Tokwa]]
+[[th:เต้าหู้]]
+[[tr:Tofu]]
+[[uk:Тофу]]
+[[vi:Đậu phụ]]
+[[zh-yue:豆腐]]
+[[zh:豆腐]]

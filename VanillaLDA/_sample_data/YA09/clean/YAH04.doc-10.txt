@@ -1,0 +1,26 @@
+I watch my accounts like a hawk, I rarely use credit cards other then with websites I've grown accustomed to as standards, Amazon, Yahoo, MIDWAY. I run transactions through Paypal.. 
+
+I report phishing attempt to the ebay fraud and paypal fraud divisions. If I receive phishing attempts in emails I send them the appropriate bank. I never reply to emails that require information. 
+
+Common sense is born of necessity. 
+
+NEVER EVER TRUST and EMAIL FROM A VENDOR IN ANY FORM..
+
+I crosscut shred all bills, cancelled checks, and mail that is for a credit application. 
+
+I've been hearing an ad on the radio for a LIFELOCK? I've not investigated.. I do believe online fraud and id theft is something our FBI and State department take more seriously as much of the crime is committed by offshore individuals. We need to seriously consider how we stop it. 
+
+I am a systems engineer, password protection is the 1st step, don't make you password simple. Make it somethin you can remember but make it a minimum of 10 characters in length and a mix of numbers, letters, and !@#$%^&*(){}<>?;',./ characters. 
+
+Make sure you are going to the site you are intending to. Check the SSL certificate by clicking on the lock in your browsers status bar. 
+
+Run Antivirus Daily and Spyware detectors daily or weekly depending on your browsing habits. If you go to a non-trusted site, run the ad program. 
+Make sure your browser is set to prompt you for installations. Don't allow ANYONE to install anything on your computer without your knowledge. spyware/malware often hide in unscrupulous websites, I've detected many that come from children game sites. Because the crooks know their victims, kids use mom and dad's computers so why not design a game sight as a honeypot for kids, plant spyware and next thing you know Your MasterCard bill is maxed. 
+
+I use a filtering package as well to disallow my kids from going to certain websites. I restrict my kids to using their computer and not using my where I have my bank account and tax information stored. 
+
+I encrypt data files prior to burning to CD's, I rotate burned CD's once a year and shred the old ones. 
+
+Password crackers often take login names and redirect them through dictionaries, Don't use a dictionary word for a password. 
+
+Think like a crook. If you think like a crook you can protect yourself.

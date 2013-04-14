@@ -1,0 +1,180 @@
+{{redirect|Vixen}}
+{{Other uses}}
+{{pp-move-indef|small=yes}}
+{{pp-semi|small=yes|expires=March 2, 2011}}
+{{Refimprove|date=May 2007}}
+{{Taxobox
+| name = Fox
+| image = Fuzzy Freddy.jpg
+| image_width = 200px
+| image_caption = [[Red Fox]] (''Vulpes vulpes'')
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[Mammalia]]
+| ordo = [[Carnivora]]
+| familia = [[Canidae]]
+| tribus = [[Vulpini]]
+| subdivision_ranks = [[Genera]]
+| subdivision = * '''[[Vulpes]]'''
+* '''[[Canis]]'''
+* '''[[Cerdocyon]]'''
+* '''[[Chrysocyon]]'''
+* †'''''[[Dusicyon]]'''''
+* '''[[Otocyon]]'''
+* '''[[Urocyon]]'''
+}}
+
+'''Fox''' is a common name for many species of omnivorous [[mammal]]s belonging to the [[Canidae]] family. Foxes are small to medium-sized [[Canidae|canids]] (slightly smaller than the median-sized domestic [[dog]]), characterized by possessing a long narrow [[snout]], and a bushy [[tail]] (or ''brush'').
+
+Members of about 37 [[species]] are referred to as foxes, of which only 12 species actually belong to the ''[[Vulpes]]'' genus of 'true foxes'. By far the most common and widespread species of fox is the [[red fox]] (''Vulpes vulpes''), although various species are found on almost every [[continent]]. The presence of fox-like [[Carnivora|carnivores]] all over the globe has led to their appearance in both [[popular culture]] and [[folklore]] in many cultures around the world (''see also [[Foxes in culture]]'').
+The [[gray fox]] is one of only two canine species known to climb trees; the other is the [[raccoon dog]].
+
+==Etymology==
+The Modern [[English language|English]] word "fox" is [[Old English language|Old English]], and comes from the [[Proto-Germanic]] word ''fukh'' &ndash; compare [[German language|German]] ''Fuchs'', [[Gothic language|Gothic]] ''fauho'', [[Old Norse]] ''foa'' and [[Dutch language|Dutch]] ''vos''.  It corresponds to the [[Proto-Indo-European language|Proto-Indo-European]] word ''puk-'' meaning "tail of it" (compare [[Sanskrit]] ''puccha'', also "tail"). The bushy tail is also the source of the word for fox in [[Welsh language|Welsh]]: ''llwynog'', from ''llwyn'', "bush, grove".<ref>[http://www3.interscience.wiley.com/journal/119890384/abstract Transactions of the Philological Society, retrieved August 31st 2008]</ref> [[Lithuanian language|Lithuanian]]: ''uodegis'', from ''uodega'', "tail",  {{lang-pt|raposa}}, from ''rabo'', "tail"<ref>[http://www.etymonline.com/index.php?term=fox The Online Etymology Dictionary, retrieved  April 3, 2009: headword "Fox"]</ref> and [[Ojibwe language|Ojibwa]]: ''waagosh'', from ''waa'', which refers to the up and down "bounce" or flickering of an animal or its tail.<ref>[http://www.real-dream-catchers.com/Ojibwe_culture_and_language/introduction_to_ojibwe_language.htm Introduction to Ojibwe Language]</ref>  Male foxes are known as dogs or [[reynard]]s, females as vixen, and young as kits, pups, or cubs.<ref>[http://ask.reference.com/related/What+Is+a+Baby+Fox+Called?qsrc=2892&l=dir&o=10601 What Is a Baby Fox Called?]</ref> A group of foxes is a "skulk", "troop" or "earth".
+
+==General characteristics==
+[[Image:Fennec Fox @ Africa Alive, Lowestoft.jpg|thumb|right|The [[Fennec Fox]] is the smallest species of fox.]]
+[[Image:Alopex lagopus coiled up in snow.jpg|thumb|right|[[Arctic fox]] curled up in snow]]
+[[Image:FoxSkelLyd1.png|thumb|200px|Skeleton]]
+In the wild, foxes can live for up to 10 years, but most foxes only live for 2 to 3 years due to hunting, road accidents and diseases. Foxes are generally smaller than other members of the family ''[[Canidae]]'' such as [[Gray Wolf|wolves]], [[jackal]]s, and domestic [[dog]]s. Reynards (male foxes) weigh on average, 5.9&nbsp;kilograms (13&nbsp;lb) and vixens (female foxes) weigh less, at around 5.2&nbsp;kilograms (11.5&nbsp;lb). Fox-like features typically include a distinctive muzzle (a "fox face") and bushy tail. Other physical characteristics vary according to habitat. For example, the [[fennec fox]] (and other species of fox adapted to life in the desert, such as the [[kit fox]]) has large ears and short fur, whereas the [[Arctic fox]] has tiny ears and thick, insulating fur. Another example is the [[red fox]] which has a typical [[auburn hair|auburn]] [[fur|pelt]], the tail normally ending with white [[animal markings|marking]]. Litter sizes can vary greatly according to species and environment - the [[Arctic Fox]] for example, has an average litter of four to five, with eleven as maximum.<ref>[http://www.jstor.org/pss/1376014 Journal of Mammalogy]</ref>
+
+Unlike many canids, foxes are not usually pack animals. Typically, they live in small family groups, and are opportunistic feeders that hunt live prey (especially [[rodent]]s). Using a pouncing technique practised from an early age, they are usually able to kill their prey quickly. Foxes also gather a wide variety of other foods ranging from [[grasshopper]]s to [[fruit]] and [[berry|berries]].
+
+Foxes are normally extremely wary of humans and are not usually kept as indoor pets; however, the [[Tame Silver Fox|silver fox]] was successfully [[domesticated]] in Russia after a 45 year selective breeding program. This selective breeding also resulted in physical and behavioral traits appearing that are frequently seen in domestic cats, dogs, and other animals, such as pigmentation changes, floppy ears, and curly tails.<ref>[http://www.floridalupine.org/publications/PDF/trut-fox-study.pdf Early Canid Domestication: The Fox Farm Experiment]</ref>
+
+==Classification==
+Canids commonly known as foxes include members of the following genera:
+* ''[[Arctic Fox|Alopex]]'': Arctic fox, although the definitive mammal taxonomy list as well as genetic evidence places it in ''Vulpes'', and not as a genus unto itself.
+* ''[[Canis]]'': The [[Ethiopian Wolf]], also called, variously, [[Semien Mountains|Semien]] fox or Semien [[jackal]] (though recently renamed to reflect its biological affinity with the [[gray wolf]]).
+* ''[[Crab-eating Fox|Cerdocyon]]'': Crab-eating fox.
+* [[Maned Wolf|''Chrysocyon'']]: Maned wolf (in [[English language|English]]), ''aguara guazú'' ("big fox" in [[Guarani language|Guarani]]) and ''zorro rojizo'' ("reddish fox," one of several names used by [[Spanish language|Spanish]] speakers).
+* ''[[Falkland Islands Wolf|Dusicyon]]'': Falkland Islands fox.
+* ''[[Lycalopex]]'': Six [[South America]]n species.
+* ''[[Bat-eared Fox|Otocyon]]'': Bat-eared fox.
+* ''[[Urocyon]]'': [[Gray fox]], [[Island Fox|island fox]] and [[Cozumel fox]].
+* ''[[Vulpes]]'': Including twelve species of true foxes, including the red fox, ''V. vulpes'', [[Tibetan Fox|Tibetan Sand Fox]], ''Vulpes ferrilata'' and their closest kin.
+
+==Diet==
+[[Image:fox pan de azucar.JPG|thumb|right|200px|A [[South American Gray Fox|Chilla fox]] in [[Pan de Azúcar National Park]] in the coast of Atacama Desert.]]
+Foxes are omnivores.<ref>[http://animaldiversity.ummz.umich.edu/site/accounts/information/Vulpes_vulpes.html University of Michigan Musem of Zoology]</ref> The diet of foxes is largely made up of [[invertebrates]].  However, it also includes [[rodents]], [[rabbit]]s and other small [[mammal]]s, [[reptiles]], (such as [[snakes]]), [[amphibians]], [[grass]]es, [[berries]], [[fruit]], [[fish]],  [[birds]], [[Egg (food)|egg]]s, [[dung beetles]], [[insects]] and all other kinds of small animals. Many species are generalist predators, but some (such as the [[crab-eating fox]]) are more specialist.  Most species of fox generally consume around 1&nbsp;kg of food every day. Foxes [[Cache (biology)|cache]] excess food, burying it for later consumption, usually under leaves, snow, or soil.
+
+==Conservation==
+[[Image:Urocyon littoralis pair.jpg|right|thumb|The [[island fox]] is a [[critically endangered species]].]]
+Foxes are readily found in cities and cultivated areas and (depending upon species) seem to adapt reasonably well to human presence.
+
+[[Red fox]]es have been introduced into [[Australia]] which lacks similar carnivores, and the introduced foxes prey on native wildlife, some to the point of [[extinction]].
+
+Other fox species do not reproduce as readily as the red fox, and are [[endangered species|endangered]] in their native environments. Key among these are the crab-eating fox ([[Cerdocyon thous]]) and the African bat-eared fox. Other foxes such as [[fennec fox]]es, are not endangered.
+
+Foxes have been successfully employed to control pests on fruit [[farm]]s while leaving the fruit intact.<ref>[http://www.nysaes.cornell.edu/pubs/press/foxes.html Foxes on Fruit Farms<!-- Bot generated title -->]</ref>
+
+==Relationships with humans==
+[[File:Sunny Fox.jpg|thumb|A Red Fox on the porch of an [[Evergreen, Colorado|Evergreen]], [[Colorado]] home.]]
+
+Fox attacks on humans are not common but have been reported. In November 2008, an incident in [[Arizona]] was reported in which a jogger was attacked and bitten by a [[rabies|rabid]] fox.<ref>"[http://news.bbc.co.uk/1/hi/world/americas/7712306.stm Attacked jogger takes fox for run]". BBC News Online. 6 November 2008.</ref>
+In July 2002, a 14-week-old baby was attacked in a house in [[Dartford]], Kentucky.<ref>"[http://news.bbc.co.uk/1/hi/england/2078419.stm Baby 'attacked by fox']". BBC News Online. 1 July 2002.</ref>
+In June 2010, 9-month-old twin girls were bitten on the arms and face when a fox entered their upstairs room in east London.<ref>"[http://news.bbc.co.uk/1/hi/england/10251349.stm Twin girls injured in suspected fox attack]". BBC News Online. 6 June 2010.</ref>
+
+===Fox hunting===
+{{Main|Fox hunting}}
+Fox hunting is a controversial sport that originated in the [[United Kingdom]] in the 16th century. Hunting with dogs is now banned in the United Kingdom,<ref>"[http://news.bbc.co.uk/1/hi/uk/5109184.stm Hunt campaigners lose legal bid]". BBC News Online. 23 June 2006.</ref><ref>{{Cite news| url=http://www.telegraph.co.uk/finance/newsbysector/epic/htg/6203266/David-Cameron-to-vote-against-fox-hunting-ban.html | work=The Daily Telegraph | location=London | title=David Cameron 'to vote against fox hunting ban' | first=Anita | last=Singh | date=September 18, 2009 | accessdate=May 2, 2010}}</ref><ref>http://www.nwlacs.co.uk/foxhunting.htm</ref><ref>http://www.emteconline.co.uk/rliteracy/rpersuade/foxhunt.pdf</ref> though hunting without dogs is still permitted. The sport is practiced in several other countries including Australia, Canada, France, Ireland, Italy, Russia and the United States.
+
+===Domestication===
+{{Main|Domesticated Silver Fox}}
+The Russian Silver Fox, or Domesticated Silver Fox, is the result of nearly 50 years of experiments in the Soviet Union and Russia to domesticate the silver morph of the Red Fox. Notably, the new foxes not only became more tame, but more dog-like as well: they lost their distinctive musky "fox smell", became more friendly with humans, put their ears down (like dogs), wagged their tails when happy and began to vocalize and bark like domesticated dogs. The breeding project was set up by the Soviet scientist [[Dmitri K. Belyaev]].
+
+===In culture===
+{{Main|Foxes in culture}}
+In many cultures, the fox appears in [[folklore]] as a symbol of cunning and [[trickery]], or as a [[familiar animal]] possessed of magic powers.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons|Fox}}
+{{Wiktionary|fox}}
+{{Wikiquote}}
+*[http://www.bbc.co.uk/wales/nature/mediaexplorer/?theme_group=species&theme=mammals&set=fox BBC Wales Nature: Fox videos]
+*[http://www.bbc.co.uk/wales/wildaboutnature/azsearch/fox BBC Wild About Nature: Fox facts and videos]
+*[http://www.thefoxwebsite.org/ The fox website]
+*[http://www.angelfire.com/ar2/thefoxden/sounds.html More fox sound files.]
+*[http://www.environment.gov.au/biodiversity/invasive/publications/pubs/european-red-fox.pdf Australian Department of the Environment and Heritage fact sheet, 2004]
+*{{Cite NIE|Fox|year=1905}}
+*{{Cite Americana|Fox|year=1920}}
+
+[[Category:Foxes| ]]
+
+[[ar:ثعلب]]
+[[an:Vulpini]]
+[[ast:Raposu]]
+[[ca:Guineu]]
+[[gn:Aguara]]
+[[ay:Qamaqi]]
+[[az:Tülkü]]
+[[bn:শিয়াল]]
+[[zh-min-nan:Hô͘-lî]]
+[[bo:ཝ་མོ།]]
+[[br:Louarn]]
+[[cs:Liška (říše živočichů)]]
+[[cy:Llwynog]]
+[[da:Ræv]]
+[[pdc:Fux]]
+[[de:Fuchs]]
+[[el:Αλεπού]]
+[[es:Vulpini]]
+[[eo:Vulpo]]
+[[eu:Azeri]]
+[[fa:روباه]]
+[[fr:Renard]]
+[[ga:Sionnach]]
+[[gd:Sionnach]]
+[[got:𐍆𐌰𐌿𐌷𐍉]]
+[[hak:Fù-lì]]
+[[ko:여우]]
+[[ha:Yanyawa]]
+[[hi:लोमड़ी]]
+[[hr:Lisica]]
+[[bpy:লামুই]]
+[[id:Rubah]]
+[[iu:ᑎᕆᒐᓂᐊᖅ/tiriganiaq]]
+[[is:Refir]]
+[[he:שועל]]
+[[ka:მელა]]
+[[csb:Lës]]
+[[kk:Түлкі]]
+[[koi:Руч]]
+[[ht:Rena]]
+[[ku:Rûvî (ajal)]]
+[[lv:Lapsa]]
+[[hu:Rókák]]
+[[mg:Amboahaolo]]
+[[ml:കുറുക്കന്‍]]
+[[mr:खोकड]]
+[[ms:Rubah]]
+[[my:မြေခွေး]]
+[[nl:Vossen]]
+[[ne:स्याल]]
+[[ja:キツネ]]
+[[ce:Цхьогал]]
+[[frr:Foosen]]
+[[pcd:Àrnàr]]
+[[pl:Lis]]
+[[pt:Raposa]]
+[[ro:Vulpe]]
+[[qu:Atuq]]
+[[ru:Лисица]]
+[[sq:Dhelpra]]
+[[simple:Fox]]
+[[sr:Лисица]]
+[[sv:Räv]]
+[[tl:Soro]]
+[[ta:நரி]]
+[[te:నక్క]]
+[[th:หมาจิ้งจอก]]
+[[chr:ᏧᎳ]]
+[[tr:Tilki]]
+[[uk:Лисиця]]
+[[ur:لومڑ]]
+[[vi:Cáo]]
+[[wa:Rinåd]]
+[[zh:狐狸]]

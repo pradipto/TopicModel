@@ -1,0 +1,30 @@
+it used to be a major issue when i first got a computer but now i had no problem with viruses, worms,... for the past 2 years. Here are some stuff i have done so far:
+1. use firefox: it tends to have fewer security holes than IE. using a browser that is not on the top of the list is good since hackers and viruses would spend less time on to find the problems. try opera if you hate firefox.
+
+2. safely plugins: On firefox I use quick-java which allows me to disable javascript if i want to. There are other plug-ins that monitor javascript for bad or suspecting codes. I also use adblock. It helps me to block codes or other sites so if i am visiting a hacked site I do not see the parts that may contain a virus
+
+3. use online email versus email client: the main reason would be that most online emails such as google,yahoo and hotmail provide free antivirus scanning so if yours is not up to date theirs will protect you.
+
+4. proper email filters: it allows for filtering out phishing and spams. these are the emails with highest chance of virus.
+
+5. read email headers before downloaiding a file: it may sound silly but it actually works ALL the time. if someone fakes their email address and send an email to me they still cannot change the email header and I know that the email is a fake ;)
+
+6. enabled phishing protection: it tells me if a site is faking its front as someone else. if I cannot guess if an email is legiment but requests me to login in their site I simply open a new window AND MANUALLY type in the url myself.
+
+7. roboform: it keeps the passwords for me so i don't need to type them all the time. I just make sure that the files containing my password as protected to prevent identity theft
+
+8. downloading files: I get files from legiment sites ONLY: download.com, microsoft.com. if I do not know much about a company i do some google and see who they are and how well known they are. the less well known the higher chance of virus. I do not judge sites based on their looks since you can go and but a nice look for you site.
+
+9. messengers: I only accept files from people in my list. only acceptable formats are images, documents, movies. i will deny exe, com,dll,bat, vbs,hta as these can contain hidden stuff. The only exception is when I ask them to send me a file EXPLECITLY.
+
+10. use open solutions: ms office is good but open office has fewer major wholes. Also installing linux will reduce damage since it has a better protection methods and if I get infected I can simply create a new user and move the uninfected files over.
+
+11. on purpose mis-spell of name: If i am registering to a site that I just want to use once or twice i mis-spell my name. so if i get emails with mis-spells i know they are not what i want and delete them right away.
+
+12. keep everything up-to-date: most updates are security related. So i make sure that everything has the latest updates.
+
+13. DO NOT USE ANTI-VIRUS: sound stupid. but this way I am more careful and depend on myself to protect myself and not others.
+
+14. use physical firewall or router: it is the best solution to keep hackers and torjans out. it prevent all incoming connections.
+
+15. common sence: if it is too good to be true then i leave it at that: I am not too eager to fill a form to get 10$ discount at wallmart

@@ -1,0 +1,7 @@
+dhoni=0
+wicket=1
+keeper=3
+captain=2
+partha=4
+data=5
+architect=6

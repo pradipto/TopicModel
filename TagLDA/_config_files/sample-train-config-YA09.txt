@@ -1,0 +1,26 @@
+input file: _sample_data/YA09/senti_index/model.input
+
+input dict file: _sample_data/YA09/senti_index/term_to_id.txt
+input tag dict file: _sample_data/YA09/senti_index/tag_to_id.txt
+num topics: 14
+
+# Number of iterations 
+# -------------------- # 
+em iter: 20
+em var iter: 60
+
+# the model root directory where the training model will be stored
+# ---------------------------------------------------------------- #
+model root dir: _sample_data/YA09/taglda_store/train/14
+
+# the symmetric dirichlet prior for topic proportions
+# --------------------------------------------------- #
+topic proportion prior : 0.01
+
+# standard deviation for the regularizer used in the topic-word parameter update (default is 1)
+# --------------------------------------------------- #
+topic word regularizer stddev : 1
+
+# standard deviation for the regularizer used in the tag-word parameter update (default is 1)
+# --------------------------------------------------- #
+tag word regularizer stddev : 1

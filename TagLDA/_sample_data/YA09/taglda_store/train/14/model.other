@@ -1,0 +1,4 @@
+model alpha: 0.01
+model num topics: 14
+model num tags: 4
+model num terms: 5651

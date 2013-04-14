@@ -1,0 +1,18 @@
+You need the following to protect your computer against virus, worms, spyware, ad-ware and all kinds of other malware:
+
+1. A good browser: Since your browser is your gateway to the internet, most threats can be screened off at this level. Firefox is an excellent browser option. It has tons of inbuilt security features which can be enhanced by using add-ons such as "NoScript".
+
+2. A good virus scanner with online protection: Norton and McAfe are the popular paid versions. Avast and AVG are excellent free (for personal and home use) programs that are giving the paid programs a run for their money!
+
+3. Spyware scanner: Spybot according to me is the best in the business. And its free! Tons of other paid / shareware options. Windows defender aint bad either!
+
+4. Adware Scanner: AD Aware SE personal again does the trick for me. 
+
+5. A good firewall: WinPatrol or Zone alarm identify malicious registry entries, cookies and hack attmepts. 
+
+Gadgets can only do so much. To keep your computer safe, its important to practice safe browsing habits:
+
+1. Download software from reputed sites such as download.com, tucows.com etc. 
+2. DO NOT use file sharing programs such as bearshare, limewire or morpheous. You are asking to be flooded with malware and asking to be hacked!
+3. Be weary of useless "freeware" programs such as smiley central. 
+4. Porn sites are often the source of malware. If you must surf porn, go to the most reputed websites.

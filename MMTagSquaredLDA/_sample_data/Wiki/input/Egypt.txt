@@ -1,0 +1,784 @@
+{{about|the modern country|the ancient realm|Ancient Egypt}}
+:''For the current civil unrest, see [[2011 Egyptian protests]].''
+{{other uses2|Egypt}}
+
+{{pp-semi-vandalism|small=yes}}
+{{pp-move-indef}}
+{{Infobox Country
+|native_name              = جمهورية مصر العربية {{ar icon}}<br />''{{transl|ar|DIN|Ǧumhūriyyat Miṣr al-ʿArabiyyah}}''
+|conventional_long_name   = Arab Republic of Egypt
+|common_name              = Egypt
+|image_flag               = Flag of Egypt.svg
+|image_coat               = Coat of arms of Egypt (Official).svg
+|image_map                = Egypt (orthographic projection).svg
+|national_anthem          = |national_anthem = <center>[[File:EGYPT 5.ogg]]</center>"[[Bilady, Bilady, Bilady]]"<br /><small>''My country, my country, my country''</small>
+|official_languages       = [[Modern Standard Arabic|Arabic]]<ref name="official language">[[s:Constitution of Egypt#Chapter one: The State|Constitution of Egypt, Article.2]]: “[[Islam]] is the [[State religion|Religion of the State]]. [[literary Arabic|Arabic]] is its [[official language]], and the [[Islamic Jurisprudence]] ([[Sharia]]) ia a principal source of [[legislation]].”</ref> {{Ref label|engoffbox|a|}}
+|ethnic_groups            = 99% [[Egyptians]]<br>0.9% [[Nubians]]<br>0.1% [[Greeks in Egypt|Greeks]]
+|demonym                  = Egyptian
+|capital                  = [[Cairo]]
+|latd=30 |latm=2 |latNS=N |longd=31 |longm=13 |longEW=E
+|largest_city             = Cairo
+|government_type          = [[Semi-presidential system|Semi-presidential]] [[republic]] under [[State of emergency|Emergency Law]] (Law No. 162 of 1958)<ref>[http://www.emerglobal.com/lex/law-1958-162 Law 1958/162 (Emergency Law)] {{ar}} at [http://emerglobal.com/lex EMERglobal Lex], part of the [[Edinburgh Middle East Report]]. Retrieved 2010-04-02.</ref> since 1967, except for an 18-month break in 1980.
+|leader_title1            = [[President of Egypt|President]]
+|leader_name1             = [[Hosni Mubarak]]
+|leader_title2            = [[Vice President of Egypt|Vice President]]
+|leader_name2             = [[Omar Suleiman]]
+|leader_title3            = [[Prime Minister of Egypt|Prime Minister]]
+|leader_name3             = [[Ahmed Shafik]]
+|leader_title4            = [[People's Assembly of Egypt|Speaker of the People's Assembly]]
+|leader_name4             = [[Ahmad Fathi Sorour]]
+|leader_title5            = [[Supreme Constitutional Court of Egypt|Supreme Constitutional Court Chairman]]
+|leader_name5             = Farouk Sultan
+|established_event1       = [[Khedivate of Egypt|Formal independence]] from the [[Ottoman Empire]]
+|established_date1        = 1867
+|established_event2       = [[Unilateral Declaration of Egyptian Independence|End of protectorate]] with the [[United Kingdom of Great Britain and Ireland|United Kingdom]]
+|established_date2        = 28 February 1922
+|established_event3       = [[Egyptian Revolution of 1952|Republic declared]]
+|established_date3        = 18 June 1953
+|established_event4       = [[Constitution of Egypt|Current constitution]]
+|established_date4        = 11 September 1971
+|area_rank                = 30th
+|area_magnitude           = 1 E12
+|area_km2                 = 1,002,450
+|area_sq_mi               = 387,048
+|percent_water            = 0.632
+|population_estimate = 79,089,650 <ref name=popclock/>
+|population_estimate_year = Sept, 2010
+|population_estimate_rank =
+|population_census        = 76,699,427 <ref name=popclock/>
+|population_census_year   = 2006
+|population_density_km2   = 82.3
+|population_density_sq_mi = 214.4 <!--Do not remove per [[WP:MOSNUM]] -->
+|population_density_rank  = 120th
+|GDP_PPP_year             = 2010
+|GDP_PPP                  = $496.604 billion<ref name=imf2>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=469&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=75&pr.y=6 |title=Egypt|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank             =
+|GDP_PPP_per_capita       = $6,347<ref name=imf2/>
+|GDP_PPP_per_capita_rank  =
+|GDP_nominal              = $215.845 billion<ref name=imf2/>
+|GDP_nominal_rank         =
+|GDP_nominal_year         = 2010
+|GDP_nominal_per_capita   = $2,758<ref name=imf2/>
+|GDP_nominal_per_capita_rank =
+|HDI_year                 = 2010
+|HDI                      = {{increase}} 0.620<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010}}</ref>
+|HDI_rank                 = 101st
+|HDI_category             = medium
+|Gini                     = 34.5
+|Gini_year                = 1999–00
+|Gini_category            = <span style="color:#fc0;">medium</span>
+|currency                 = [[Egyptian pound]]
+|currency_code            = EGP
+|time_zone                = [[Eastern European Time|EET]]
+|utc_offset               = +2
+|time_zone_DST            = [[Eastern European Summer Time|EEST]]
+|utc_offset_DST           = +3
+|drives_on                = right
+|cctld                    = [[.eg]], [[مصر.]]
+|calling_code             = [[+20]]
+|footnotes                =
+{{note|engoffbox}}a. [[Modern Standard Arabic|Arabic]] is the official language;<ref name="official language"/> '''[[Languages of Egypt|spoken languages & varieties]]''' are: [[Egyptian Arabic]], [[Sa'idi Arabic]], [[Bedawi Arabic|Eastern Egyptian Bedawi Arabic]], [[Sudanese Arabic]], [[Domari language|Domari]], [[Nobiin language|Nobiin]], [[Beja language|Beja]] & [[Siwi language|Siwi]]. Main taught '''foreign languages''' are [[English language|English]], [[French language|French]], [[German language|German]] & [[Italian language|Italian]].
+}}
+
+'''Egypt''' ({{IPAc-en|En-us-Egypt.ogg|ˈ|iː|dʒ|ɪ|p|t}}; {{lang|ar|مصر}}, ''{{transl|ar|DIN|Miṣr}}'', {{IPA-ar|mesˤɾ|lang}}; {{IPA-arz|mɑsˤɾ|lang}}; [[Coptic language|Coptic]]: {{Coptic|Ⲭⲏⲙⲓ}}, ''{{Unicode|Kīmi}}''), officially the '''Arab Republic of Egypt''', is a country mainly in [[North Africa]], with the [[Sinai Peninsula]] forming a land bridge in [[Southwest Asia]]. Egypt is thus a [[transcontinental country]], and a major power in [[Africa]], the [[Mediterranean region]], the [[Middle East]] and the [[Islamic world]]. Covering an area of about {{convert|1010000|km2|sp=us}}, Egypt is bordered by the [[Mediterranean Sea]] to the north, the [[Gaza Strip]] and [[Israel]] to the northeast, the [[Red Sea]] to the east, [[Sudan]] to the south and [[Libya]] to the west.
+
+Egypt is one of the most populous countries in Africa and the [[Middle East]]. The great majority of its estimated 79 million people<ref name=popclock>{{cite web|url=http://www.msrintranet.capmas.gov.eg/pls/fdl/tst12e?action=&lname= |title=Central Agency for Population Mobilisation and Statistics&nbsp;— Population Clock (July 2008) |publisher=Msrintranet.capmas.gov.eg |date= |accessdate=2010-08-25}}</ref> live near the banks of the [[Nile]] River, in an area of about {{convert|40000|km2|sp=us}}, where the only [[arable land]] is found. The large areas of the [[Sahara]] Desert are sparsely inhabited. About half of Egypt's residents live in urban areas, with most spread across the densely populated centres of greater [[Cairo]], [[Alexandria]] and other major cities in the [[Nile Delta]].
+
+Egypt is famous for its [[Ancient Egypt|ancient civilization]], with famous monuments such as the [[Giza pyramid complex]] and its [[Great Sphinx of Giza|Great Sphinx]]. Its ancient ruins, such as those of [[Memphis, Egypt|Memphis]], [[Thebes, Egypt|Thebes]], and [[Karnak]] and the [[Valley of the Kings]] outside [[Luxor]], are a significant focus of archaeological study. The [[tourism in Egypt|tourism]] and the [[Red Sea Riviera]] employ  about 12% of Egypt's workforce.
+
+The  [[economy of Egypt]] is one of the most developed and diversified  in the Middle East, with sectors such as tourism, agriculture, industry and service at almost equal production levels.
+
+==Name==
+The English name ''Egypt'' was borrowed from [[Middle French]] ''Egypte'', from [[Latin]] ''{{lang|la|Aegyptus}}'', from [[ancient Greek]] ''Aígyptos'' ({{lang|grc|Αἴγυπτος}}), from earlier [[Linear B]] 𐁁𐀓𐀠𐀴𐀍 ''a-ku-pi-ti-yo''. The adjective ''aigýpti-, aigýptios'' was borrowed into Coptic as ''gyptios, kyptios'', and from there into Arabic as ''{{Transl|ar|qubṭī}}'', back formed into ''{{Transl|ar|qubṭ}}'', whence English ''[[Copt]]''. The Greek forms were borrowed from [[Late Egyptian]] ''(Amarna) Hikuptah'' "Memphis", a corruption of the earlier [[Egyptian language|Egyptian]] name ''Hwt-ka-Ptah'' ({{Transl|egy-Latn|ḥwt-kꜣ-ptḥ}}), meaning "home of the [[Egyptian soul|ka]] (soul) of Ptah", the name of a temple to the god [[Ptah]] at [[Memphis, Egypt|Memphis]].<ref>{{Cite journal|last= Hoffmeier|first =James K| author-link =| title =Rameses of the exodus narratives is the 13th B.C. Royal Ramessid Residence| journal =Trinity Journal| page = 1| date = October 1, 2007|url=http://findarticles.com/p/articles/mi_qa3803/is_200710/ai_n21137941/pg_2}} {{Dead link|date=July 2010}}</ref> [[Strabo]] attributed the word to a [[folk etymology]] in which ''Aígyptos'' ({{lang|grc|Αἴγυπτος}}) evolved as a compound from ''{{lang|grc-Latn|Aigaiou huptiōs}}'' ({{Transl|grc|Aἰγαίου ὑπτίως}}), meaning "below the [[Agean sea|Aegean]]".
+
+''{{Transl|ar|Miṣr}}'', the [[Arabic language|Arabic]] and modern official name of Egypt ([[Egyptian Arabic]]: ''{{Transl|arz-Latn|Maṣr}}''), is of [[Semitic]] origin, directly [[cognate]] with other Semitic words for Egypt such as the [[Hebrew language|Hebrew]] {{lang-Hebrew2|מִצְרַיִם}} (''{{Transl|he|Mitzráyim}}''), literally meaning "the two straits" (a reference to the dynastic separation of upper and lower Egypt).<ref name="hebrewname">{{cite web|url=http://www.ancient-hebrew.org/emagazine/011.html |title=Biblical Hebrew E-Magazine. January, 2005 |publisher=Ancient-hebrew.org |date= |accessdate=2010-08-25}}</ref> The word originally connoted "metropolis" or "civilization" and means "country", or "frontier-land".
+
+The ancient [[Egyptian language|Egyptian]] name of the country is ''Kemet'' ({{Transl|egy-Latn|[[Km (hieroglyph)|km]].t}}) ['''𓆎𓅓𓏏𓊖'''], which means "black land", referring to the fertile black soils of the Nile flood plains, distinct from the ''deshret'' ({{Transl|egy-Latn|dšṛt}}), or "red land" of the [[desert]].<ref>{{Cite book|author=Rosalie, David |title=Pyramid Builders of Ancient Egypt: A Modern Investigation of Pharaoh's Workforce |publisher=Routledge |year=1997 |page=18}}</ref> The name is realized as ''{{lang|cop-Latn|kīmi}}'' and ''{{lang|cop-Latn|kīmə}}'' in the [[Coptic language|Coptic]] stage of the [[Egyptian language]], and appeared in early Greek as {{Polytonic|Χημία}} (''{{lang|grc-Latn|Khēmía}}'').<ref>{{cite web|url=http://www.chm.bris.ac.uk/webprojects2002/crabb/history.html|title=A Brief History of Alchemy|publisher=UNIVERSITY OF BRISTOL SCHOOL OF CHEMISTRY|accessdate=2008-08-21}}</ref> Another name was ''{{lang|egy-Latn|tꜣ-mry}}'' "land of the riverbank".<ref>{{Cite book|title=Ancient Records of Egypt |last=Breasted |first=James Henry |coauthors= Peter A. Piccione |year=2001 |publisher=University of Illinois Press|isbn=9780252069758 |pages=76;40|url=http://books.google.com/?id=bT0q7nt1-gUC }}</ref> The names of [[Upper and Lower Egypt]] were ''Ta-Sheme'aw'' ({{Transl|egy-Latn|tꜣ-šmꜥw}}) "sedgeland" and ''Ta-Mehew'' ({{Transl|egy-Latn|tꜣ mḥw}}) "northland", respectively.
+
+==History==
+{{Main|History of Egypt}}
+{{See also|Population history of Egypt}}
+
+===Pre-historic Egypt===
+{{main|Prehistoric Egypt}}
+There is evidence of [[rock carvings]] along the [[Nile]] terraces and in desert oases. In the [[10th millennium BC]], a culture of [[hunter-gatherer]]s and [[fishing|fishers]] replaced a [[cereal|grain]]-grinding [[culture]]. Climate changes and/or overgrazing around 8000 BC began to desiccate the pastoral lands of Egypt, forming the [[Sahara]]. Early tribal peoples migrated to the Nile River where they developed a settled agricultural [[Economic system|economy]] and more centralized [[society]].<ref>Midant-Reynes, Béatrix. ''The Prehistory of Egypt: From the First Egyptians to the First Kings''. Oxford: Blackwell Publishers.</ref>
+
+By about 6000 BC a [[Neolithic]] culture rooted in the Nile Valley.<ref>{{cite web|url=http://www.worldtimelines.org.uk/world/africa/nile_valley/6000-4000BC|title=The Nile Valley 6000-4000 BC Neolithic|publisher=The British Museum|year=2005|accessdate=2008-08-21}}</ref> During the Neolithic era, several [[Predynastic Egypt|predynastic]] cultures developed independently in [[Upper and Lower Egypt]]. The [[Badarian]] culture and the successor [[Naqada]] series are generally regarded as precursors to [[Ancient Egypt|dynastic Egypt]]. The earliest known Lower Egyptian site, Merimda, predates the Badarian by about seven hundred years. Contemporaneous Lower Egyptian communities coexisted with their southern counterparts for more than two thousand years, remaining culturally distinct, but maintaining frequent contact through trade. The earliest known evidence of [[Egyptian hieroglyphs|Egyptian hieroglyphic]] inscriptions appeared during the predynastic period on [[Naqada]] III pottery vessels, dated to about 3200 BC.<ref>Bard, Kathryn A. Ian Shaw, ed. ''The Oxford Illustrated History of Ancient Egypt''. Oxford: Oxford University Press, 2000. p. 69.</ref>
+
+===Ancient Egypt===
+{{main|Ancient Egypt}}
+[[File:All Gizah Pyramids.jpg|thumb|left|[[Giza Pyramids]]]]
+A unified kingdom was founded c. 3150 BC by King [[Menes]], leading to a [[List of Egyptian dynasties|series of dynasties]] that ruled Egypt for the next three millennia. [[Culture of Egypt|Egyptian culture]] flourished during this long period and remained distinctively Egyptian in its [[Ancient Egyptian religion|religion]], [[Art of Ancient Egypt|arts]], [[Egyptian language|language]] and customs. The [[Protodynastic Period of Egypt|first two ruling dynasties]] of a unified Egypt set the stage for the [[Old Kingdom]] period, ''c''. 2700−2200 BC., famous for its many [[Egyptian pyramids|pyramids]], most notably the [[Third dynasty of Egypt|Third Dynasty]] [[pyramid of Djoser]] and the [[Fourth dynasty of Egypt|Fourth Dynasty]] [[Giza pyramid complex|Giza Pyramids]].
+
+[[File:Egypt.Giza.Sphinx.02.jpg|thumb|left|The [[Great Sphinx of Giza|Great Sphinx]] and the [[Giza pyramid complex|Pyramids of Giza]], built during the [[Old Kingdom]], are modern national icons that are at the heart of Egypt's thriving tourism industry.]]
+The [[First Intermediate Period of Egypt|First Intermediate Period]] ushered in a time of political upheaval for about 150 years.<ref>"[http://www.bbc.co.uk/history/ancient/egyptians/apocalypse_egypt_01.shtml The Fall of the Egyptian Old Kingdom]". BBC&nbsp;— History.</ref> Stronger Nile floods and stabilization of government, however, brought back renewed prosperity for the country in the [[Middle Kingdom of Egypt|Middle Kingdom]] ''c''. 2040 BC, reaching a peak during the reign of Pharaoh [[Amenemhat III]]. A [[Second Intermediate Period of Egypt|second period of disunity]] heralded the arrival of the first foreign ruling dynasty in Egypt, that of the [[Semitic]] [[Hyksos]]. The Hyksos invaders took over much of Lower Egypt around 1650 BC and founded a new capital at [[Avaris]]. They were driven out by an Upper Egyptian force led by [[Ahmose I]], who founded the [[Eighteenth dynasty of Egypt|Eighteenth Dynasty]] and relocated the capital from [[Memphis, Egypt|Memphis]] to [[Thebes, Egypt|Thebes]].
+
+The [[New Kingdom]] ''c''. 1550−1070 BC began with the Eighteenth Dynasty, marking the rise of Egypt as an [[Power in international relations|international power]] that expanded during its greatest extension to an empire as far south as [[Tombos]] in [[Nubia]], and included parts of the [[Levant]] in the east. This period is noted for some of the most well-known [[Pharaoh]]s, including [[Hatshepsut]], [[Thutmose III]], [[Akhenaten]] and his wife [[Nefertiti]], [[Tutankhamun]] and [[Ramesses II]]. The first historically attested expression of [[monotheism]] came during this period as [[Atenism]]. Frequent contacts with other nations brought new ideas to the New Kingdom. The country was later invaded and conquered by [[Ancient Libya|Libyans]], [[Kingdom of Kush|Nubians]] and [[Assyria]]ns, but native Egyptians eventually drove them out and regained control of their country.<ref>{{cite web|url=http://www.ancientsudan.org/history_06_nubconegypt.htm |title="The Kushite Conquest of Egypt". '&#39;AncientSudan.org'&#39; |publisher=Ancientsudan.org |date= |accessdate=2010-08-25}}</ref>
+
+The [[Thirtieth dynasty of Egypt|Thirtieth Dynasty]] was the last native ruling dynasty during the Pharaonic epoch. It [[History of Egypt under Achaemenid Persian domination|fell to the Persians]] in 343 BC after the last native Pharaoh, King [[Nectanebo II]], was defeated in battle.
+
+===Ptolemaic and Roman Egypt===
+{{main|Ptolemaic Egypt|Roman Egypt}}
+The [[Ptolemaic Kingdom]] was a powerful [[Hellenistic civilization|Hellenistic]] state, extending from southern [[Syria]] in the east, to [[Cyrene, Libya|Cyrene]] to the west, and south to the frontier with [[Nubia]]. [[Alexandria]] became the capital city and a center of [[Hellenistic Greece|Greek]] culture and trade. To gain recognition by the native Egyptian populace, they named themselves as the successors to the Pharaohs. The later Ptolemies took on Egyptian traditions, had themselves portrayed on public monuments in Egyptian style and dress, and participated in Egyptian religious life.<ref>{{cite book | last=Bowman | first = Alan K | title= Egypt after the Pharaohs 332 BC – AD 642 | publisher=[[University of California Press]] | location=Berkeley | year=1996 | edition=2nd ed. | pages=25–26 | isbn=0520205316}}</ref><ref>{{cite book | last=Stanwick | first = Paul Edmond | title= Portraits of the Ptolemies: Greek kings as Egyptian pharaohs | publisher=[[University of Texas Press]] | location=Austin | year=2003 | isbn=0292777728}}</ref>
+
+The last ruler from the [[Ptolemaic dynasty|Ptolemaic]] line was [[Cleopatra VII]], who committed suicide with her lover [[Marc Antony]], after [[Caesar Augustus]] had captured them.
+The Ptolemies faced rebellions of native Egyptians often caused by an unwanted regime and were involved in foreign and civil wars that led to the decline of the kingdom and its annexation by Rome. Nevertheless [[Hellenistic culture]] continued to thrive in Egypt well after the [[Muslim conquest of Egypt|Muslim conquest]].
+
+Before Egypt became part of the [[Aegyptus (Roman province)#Byzantine Egypt|Byzantine]] realm, Christianity had been brought by [[Saint Mark the Evangelist]] in the 1st century. [[Diocletian]]'s reign marked the transition from the [[Roman Empire|Roman]] to the [[Byzantine Empire|Byzantine]] era in Egypt, when a great number of Egyptian Christians were persecuted. The [[New Testament]] had by then been translated into Egyptian. After the [[Council of Chalcedon]] in AD 451, a distinct [[Coptic Orthodox Church of Alexandria|Egyptian Coptic Church]] was firmly established.<ref>Kamil, Jill. ''Coptic Egypt: History and Guide''. Cairo: American University in Cairo, 1997. p. 39</ref>
+
+===Arab and Ottoman Egypt===
+{{main|History of Muslim Egypt}}
+[[File:Cairo, Old Cairo, Hanging Church, Egypt, Oct 2004.jpg|thumb|upright|The [[Hanging Church]] of Cairo, first built in the third or fourth century AD, is one of the most famous [[Coptic Orthodox Church of Alexandria|Coptic]] Churches in Egypt.]]
+The Byzantines were able to regain control of the country after a brief [[Aegyptus (Roman province)#Persian and Arab conquests|Persian]] invasion early in the 7th century, until in AD 639, Egypt was [[Muslim conquest of Egypt|absorbed into the Islamic Empire]] by the [[Muslim]] [[Arabs]]. When they defeated the Byzantine Armies in Egypt, the Arabs brought [[Sunni Islam]] to the country. Early in this period, Egyptians began to blend their new faith with indigenous beliefs and practices, leading to various [[Sufism|Sufi]] orders that have flourished to this day. These earlier rites had survived the period of [[Coptic Christianity]].<ref>El-Daly, Okasha. ''Egyptology: The Missing Millennium''. London: UCL Press, 2005. p. 140</ref>
+
+Muslim rulers nominated by the [[Caliphate|Islamic Caliphate]] remained in [[History of Arab Egypt|control of Egypt]] for the next six centuries, with [[Cairo]] as the seat of the Caliphate under the [[Fatimid Caliphate|Fatimids]]. With the end of the [[Ayyubid dynasty]], the [[Mamluk]]s, a [[Turkic people|Turco]]-[[Circassians|Circassian]] military caste, took control about AD 1250. By the late 13th century, Egypt linked the Red Sea, India, Malaya, and East Indies.<ref name="Abu-Lughod 243">Abu-Lughod, p. 243</ref><ref name="Abu-Lughod 243"/> They continued to govern the country until the [[History of Ottoman Egypt|conquest of Egypt]] by the [[Ottoman Turks]] in 1517, after which it became a province of the [[Ottoman Empire]]. The mid-14th-century [[Black Death]] killed about 40% of the country's population.<ref>[http://countrystudies.us/egypt/57.htm Egypt - Major Cities], ''U.S. Library of Congress''</ref>
+
+After the 15th century, the [[Ottoman Empire|Ottoman]] invasion pushed the Egyptian system into decline. The defensive militarization damaged its civil society and economic institutions.<ref name="Abu-Lughod 243"/> The weakening of the economic system combined with the effects of plague left Egypt vulnerable to foreign invasion. Portuguese traders took over their trade.<ref>Abu-Lughod, p. 244</ref> Egypt suffered six famines between 1687 and 1731.<ref>{{Cite book|name=Donald Quataert|title=The Ottoman Empire, 1700-1922|publisher=Cambridge University Press|year=2005|isbn=0521839106|page=115}}</ref> The 1784 [[famine]] cost it roughly one-sixth of its population.<ref>"[http://www.sciencedaily.com/releases/2006/11/061121232204.htm Icelandic Volcano Caused Historic Famine In Egypt, Study Shows]". ''ScienceDaily.'' November 22, 2006</ref>
+[[Image:Francois-Louis-Joseph Watteau 001.jpg|thumb|''[[Battle of the Pyramids]]'', July 21, 1798, by [[François-Louis-Joseph Watteau]].]]
+
+===Muhammad Ali dynasty===
+{{main|History of Egypt under the Muhammad Ali dynasty}}
+{{see|French Campaign in Egypt and Syria|Ottoman–Saudi War|Muhammad Ali's seizure of power|First Turko-Egyptian War|Second Turko-Egyptian War|Khedivate of Egypt}}
+[[Image:RecepcionMehmetAli.jpg|thumb|right|British admiral [[Edward Codrington|Codrington]] negotiating with [[Muhammad Ali Pasha]] in the latter's palace in Alexandria.]]
+[[Image:Mosque of An-Nasir Mohammed in Cairo.jpg|thumb|upright|[[Mosque of Muhammad Ali]]]]
+
+The brief [[French invasion of Egypt (1798)|French invasion of Egypt]] led by [[Napoleon I of France|Napoleon Bonaparte]] began in 1798. The expulsion of the French in 1801 by Ottoman, Mamluk, and British forces was followed by four years of anarchy in which Ottomans, Mamluks, and Albanians who were nominally in the service of the Ottomans, wrestled for power. Out of this chaos, the commander of the Albanian regiment, [[Muhammad Ali of Egypt|Muhammad Ali]] (Kavalali Mehmed Ali Pasha) emerged as a dominant figure and in 1805 was acknowledged by the [[Sultan]] in [[Istanbul]] as his [[viceroy]] in Egypt; <!--[[Muhammad Ali's seizure of power]] -->the title implied subordination to the Sultan but this was in fact a polite fiction: Ottoman power in Egypt was finished and Muhammad Ali, an ambitious and able leader, established a [[dynasty]] that was to rule Egypt until the revolution of 1952. In later years, the dynasty became a British puppet.<ref name="Nejla M. Abu Izzeddin 1973, p 2">Nejla M. Abu Izzeddin, ''Nasser of the Arabs'', published ''circa'' 1973, p 2.</ref>
+
+His primary focus was military: he annexed Northern Sudan (1820–1824), [[Syria]] (1833), and parts of [[Arabia]] and [[Anatolia]]; but in 1841 the European powers, fearful lest he topple the Ottoman Empire itself, forced him to return most of his conquests to the Ottomans, but he kept the Sudan and his title to Egypt was made hereditary. A more lasting result of his military ambition is that it required him to modernize the country. Eager to adopt the military (and therefore industrial) techniques of the great powers, he sent students to the West and invited training missions to Egypt. He built industries, a system of canals for irrigation and transport, and reformed the [[civil service]].<ref name="Nejla M. Abu Izzeddin 1973, p 2"/>
+
+The introduction in 1820 of long-staple [[cotton]], the Egyptian variety of which became famous, transformed its agriculture into a cash-crop [[monoculture]] before the end of the century. The social effects of this were enormous: land ownership became concentrated and many foreigners arrived, shifting production towards international markets.<ref name="Nejla M. Abu Izzeddin 1973, p 2"/>
+
+Muhammad Ali was succeeded briefly by his son [[Ibrahim Pasha of Egypt|Ibrahim]] (in September 1848), then by a grandson [[Abbas I of Egypt|Abbas I]] (in November 1848), then by [[Sa'id of Egypt|Said]] (in 1854), and [[Isma'il Pasha|Isma'il]] (in 1863).
+<!--In 1866, the Assembly of Delegates was founded to serve as an advisory body for the Government. Members of the Assembly were elected from across Egypt and came to have an important influence on Government decisions.<ref>Jankowski, James. ''Egypt: A Short History.'' Oxford: Oneworld Publications, 2000. p. 83</ref>  That's hogwash, the assembly had almost no power and rarely met-->
+Abbas I was cautious. Said and Ismail were ambitious developers, but they spent beyond their means. The [[Suez Canal]], built in partnership with the French, was completed in 1869. The cost of this and other projects had two effects: it led to enormous debt to European [[bank]]s, and caused popular discontent because of the onerous [[tax]]ation it required. In 1875 Ismail was forced to sell Egypt's share in the canal to the British Government. Within three years this led to the imposition of British and French [[Dual control|controllers]] who sat in the Egyptian cabinet, and, "with the financial power of the bondholders behind them, were the real power in the Government."<ref>Nejla M. Abu Izzeddin, ''Nasser of the Arabs", p 2.</ref>
+
+===Modern Egypt===
+{{main|History of modern Egypt}}
+Local dissatisfaction with Ismail and with European intrusion led to the formation of the first nationalist groupings in 1879, with [[Ahmad Urabi]] a prominent figure. In 1882 he became head of a nationalist-dominated ministry committed to democratic reforms including parliamentary control of the budget. Fearing a reduction of their control, the UK and France intervened militarily, bombarding Alexandria and crushing the Egyptian army at the [[battle of Tel el-Kebir]].<ref>Anglo French motivation: Derek Hopwood, ''Egypt: Politics and Society 1945-1981''. London, 1982, George Allen & Unwin. p 11.</ref> They reinstalled Ismail's son [[Tewfik Pasha|Tewfik]] as figurehead of a ''de facto'' British protectorate.<ref>De facto protectorate: Joan Wucher King, ''Historical Dictionary of Egypt''. Metuchen, New Jersey, USA; 1984; Scarecrow. p 17.</ref>
+
+[[File:Cairo-Demonstrations1919.jpg|thumb|upright|Female nationalists demonstrating in [[Cairo]], 1919]]
+In 1914 the Protectorate was made official, and the title of the head of state, which had changed from ''pasha'' to ''[[Khedivate of Egypt|khedive]]'' in 1867, was changed to ''[[Sultanate of Egypt|sultan]]'', to repudiate the vestigial suzerainty of the Ottoman sultan, who was backing the [[Central powers]] in [[World War I]]. [[Abbas II of Egypt|Abbas II]] was deposed as khedive and replaced by his uncle, [[Hussein Kamel of Egypt|Hussein Kamel]], as sultan.<ref>James Jankowski, ''Egypt, A Short History'', p. 111</ref>
+
+In 1906, the [[Dinshaway Incident]] prompted many neutral Egyptians to join the nationalist movement. After the First World War, [[Saad Zaghlul]] and the [[Wafd Party]] led the Egyptian nationalist movement to a majority at the local [[Legislative Assembly]]. When the British exiled Zaghlul and his associates to [[Malta]] on March 8, 1919, the country arose in its [[Egyptian revolution of 1919|first modern revolution]]. The revolt led the [[United Kingdom coalition government (1916–1922)|UK government]] to issue a [[Unilateral Declaration of Egyptian Independence|unilateral declaration of Egypt's independence]] on February 22, 1922.<ref>Jankowski, ''op cit''., p. 112</ref>
+
+====Kingdom====
+{{main|Kingdom of Egypt}}
+The new government drafted and implemented a [[1923 Constitution of Egypt|constitution]] in 1923 based on a [[Parliamentary system|parliamentary]] system. [[Saad Zaghlul]] was popularly elected as [[Prime Minister of Egypt]] in 1924. In 1936 the [[Anglo-Egyptian Treaty of 1936|Anglo-Egyptian Treaty]] was concluded. Continued instability due to remaining British influence and increasing political involvement by the king led to the dissolution of the parliament in a military ''[[coup d'état]]'' known as the [[Egyptian Revolution of 1952|1952 Revolution]]. The [[Free Officers Movement]] forced King [[Farouk of Egypt|Farouk]] to abdicate in support of his son [[Fuad II of Egypt|Fuad]].
+British military presence in Egypt lasted until 1954.{{Citation needed|date=February 2011}}
+
+====Republic====
+On June 18, 1953, the Egyptian Republic was declared, with General [[Muhammad Naguib]] as the first President of the Republic. Naguib was forced to resign in 1954 by [[Gamal Abdel Nasser]]{{ndash}} the real architect of the 1952 movement{{ndash}} and was later put under [[house arrest]]. Nasser assumed [[Political power|power]] as President in June, 1956. British forces completed their withdrawal from the occupied Suez Canal Zone on June 13, 1956. He [[nationalization|nationalized]] the Suez Canal on July 26, 1956, prompting the 1956 [[Suez Crisis]].
+
+Three years after the 1967 [[Six Day War]], during which Israel had invaded and occupied [[Sinai]], Nasser died and was succeeded by [[Anwar Sadat]]. Sadat switched Egypt's [[Cold War]] allegiance from the Soviet Union to the United States, expelling Soviet advisors in 1972. He launched the [[Infitah]] economic reform policy, while violently clamping down on religious and secular opposition.
+
+In 1973, Egypt, along with Syria, launched the [[Yom Kippur War|October War]], a surprise attack against the Israeli forces occupying the Sinai Peninsula and the [[Golan Heights]]. It was an attempt to regain part of the Sinai territory Israel had captured 6 years earlier. Sadat hoped to seize some territory through military force, and then regain the rest of the peninsula by diplomacy. The conflict sparked an international crisis between the US and the USSR, both of whom intervened. The second UN-mandated ceasefire halted military action. While the war ended with a military Israeli victory, it presented Sadat with a political victory that later allowed him to regain the Sinai in return for peace with Israel.<ref>{{cite web| title=The 1973 Arab-Israeli War: Arab Policies, Strategies, and Campaigns | url=http://www.globalsecurity.org/military/library/report/1997/Jordan.htm | author=[[USMC]] Major Michael C. Jordan | publisher=GlobalSecurity.org | year=1997 | accessdate=2009-04-20}}</ref>
+
+Sadat made a historic visit to Israel in 1977, which led to the 1979 [[Israel-Egypt Peace Treaty|peace treaty]] in exchange for Israeli withdrawal from Sinai. Sadat's initiative sparked enormous controversy in the [[Arab world]] and led to Egypt's expulsion from the Arab League, but it was supported by most Egyptians.<ref>{{harvnb|Vatikiotis|p=443}}</ref> A fundamentalist military soldier assassinated Sadat in Cairo in 1981. He was succeeded by [[Hosni Mubarak]].
+
+In 2003, the [[Kefaya|Egyptian Movement for Change]], popularly known as ''Kefaya'', was launched to oppose the Mubarak regime and to establish [[democracy|democratic]] reforms and greater [[civil liberties]].
+
+In January 2011, a popular protest began against the Mubarak government, consisting of a wide range of class demographics. The objective of the protest is for the removal of Mubarak from power. (See  also ''[[#2011 protests|2011 protests]]''.)
+
+==Geography==
+{{Main|Geography of Egypt}}
+[[Image:Egypt Topography.png|thumb|Topography of Egypt]]
+
+At {{convert|1002450|km2|sp=us}},<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2147rank.html |title=World Factbook area rank order |publisher=Cia.gov |date= |accessdate=2011-02-01}}</ref> Egypt is the world's 30th-largest country. In land area, it is about the same size as all Central America,<ref>{{cite news|url=http://findarticles.com/p/articles/mi_hb6597/is_/ai_n29232377 |title=More changes ahead for Egypt |publisher=Findarticles.com |date= 2005-11-01|accessdate=2010-08-25}}</ref> twice the size of Spain,<ref>E. A. Pearce, Charles Gordon Smith, ''The Times Books World Weather Guide'', (Times Books/Random House: 1990), p.40</ref> four times the size of the United Kingdom,<ref>{{cite web|url=http://www.bbc.co.uk/bristol/content/weather/2001/04/18/egypt.shtml |title=Sun, sand and searing heat |publisher=Bbc.co.uk |date=2001-04-18 |accessdate=2010-08-25}}</ref> and the combined size of the US states of [[Texas]] and [[California]].<ref>Robert Pateman, Salwa El-Hamamsy, ''Egypt'', (Marshall Cavendish: 2003), p.7</ref> It lies between latitudes [[22nd parallel north|22°]] and [[32nd parallel north|32°N]], and longitudes [[24th meridian east|24°]] and [[36th meridian east|36°E]].
+
+Nevertheless, due to the aridity of Egypt's climate, population centres are concentrated along the narrow Nile Valley and Delta, meaning that about 99% of the population uses only about 5.5% of the total land area.<ref>Hamza, Waleed. [http://iodeweb1.vliz.be/odin/bitstream/1834/383/1/Hamza.pdf Land use and Coastal Management in the Third Countries: Egypt as a case]. Accessed= 2007-06-10.</ref>
+Egypt is bordered by Libya to the west, Sudan to the south, and by the Gaza Strip and Israel to the east. Egypt's important role in geopolitics stems from its strategic position: a [[transcontinental nation]], it possesses a land bridge (the Isthmus of Suez) between Africa and Asia, traversed by a navigable waterway (the [[Suez Canal]]) that connects the Mediterranean Sea with the Indian Ocean by way of the Red Sea.
+
+Apart from the Nile Valley, the majority of Egypt's landscape is desert. Winds create prolific [[Dune|sand dunes]] that peak at more than {{convert|100|ft}} high. Egypt includes parts of the [[Sahara Desert]] and of the [[Libyan Desert]]. These deserts that  protected the Kingdom of the Pharaohs from western threats were referred to as the "red land" in ancient Egypt.
+
+Towns and cities include [[Alexandria]], one of the greatest ancient cities, [[Aswan]], [[Asyut]], [[Cairo]], the modern Egyptian capital, [[El-Mahalla El-Kubra]], [[Giza]], the site of the Pyramid of Khufu, [[Hurghada]], [[Luxor]], [[Kom Ombo]], [[Port Safaga]], [[Port Said]], [[Sharm el Sheikh]], [[Suez]], where the Suez Canal is located, [[Zagazig]], and [[Minya, Egypt|Al-Minya]]. [[Oasis|Oases]] include [[Bahariya Oasis|Bahariya]], [[Dakhla Oasis|el Dakhla]], [[Farafra, Egypt|Farafra]], [[Kharga Oasis|el Kharga]] and [[Siwa Oasis|Siwa]]. [[Protectorates]] include Ras Mohamed National Park, Zaranik Protectorate and Siwa.
+
+See [[Egyptian Protectorates]] for more information.
+
+<gallery>
+File:View from Cairo Tower 31march2007.jpg|The [[Nile]] at [[Cairo]]
+File:WhiteD1.jpg|White Desert, [[Farafra, Egypt|Farafra]].
+File:Alexcoast.jpg|The coastline of [[Alexandria]], Egypt's second largest city.
+File:NaamaBay2005.JPG|A street in Naama Bay,[[Sharm el-Sheikh]].
+File:Cairo Nile River.jpg|The [[Nile]] at [[Cairo]]
+Image:Nile N517266177 30554 627.jpg|The [[Nile River]] near [[Aswan]].
+</gallery>
+
+===Climate===
+{{MapLibrary|Egypt_sat.png|Egypt}}
+{{Main|Climate of Egypt}}
+Most of Egypt's rain falls in the winter months.<ref>Soliman, KH. ''Rainfall over Egypt''. Quarterly Journal of the Royal Meteorological Society, vol. 80, issue 343, p. 104.</ref> South of Cairo, rainfall averages only around {{convert|2|to|5|mm|in|1|abbr=on}} per year and at intervals of many years. On a very thin strip of the northern coast the rainfall can be as high as {{convert|410|mm|abbr=on|sigfig=3}},<ref>[http://www.weatherbase.com/weather/weather.php3?s=60326&refer= Marsa Matruh, Egypt].  Weatherbase.com. Retrieved February 12, 2008.</ref> mostly between October and March. [[Snow]] falls on Sinai's mountains and some of the north coastal cities such as Damietta, Baltim, Sidi Barrany, etc. and rarely in Alexandria. [[Frost]] is also known in mid-Sinai and mid-Egypt.
+
+Temperatures average between {{convert|80|F}} and {{convert|90|F}} in summer, and up to {{convert|109|F}} on the Red Sea coast. Winter temperatures average between {{convert|55|F}} and {{convert|70|F}}. A steady wind from the northwest helps lower temperatures near the Mediterranean coast. The [[Khamaseen]] is a wind that blows from the south in spring, bringing sand and dust, and sometimes raises the temperature in the desert to more than {{convert|100|F}}.
+
+Prior to the construction of the Aswan Dam, the Nile flooded annually (colloquially ''The Gift of the Nile'') replenishing Egypt's soil. This gave the country consistent harvest throughout the years.
+
+The potential rise in sea levels due to [[global warming]] could threaten Egypt's densely populated coastal strip and have grave consequences for the country's economy, agriculture and industry. Combined with growing demographic pressures, a significant rise in sea levels could turn millions of Egyptians into [[environmental refugees]] by the end of the century, according to some climate experts.<ref>{{cite web|url=http://www.irinnews.org/Report.aspx?ReportId=77240 |title=Contingency planning for rising sea levels in Egypt &#124; IRIN News, March 2008 |publisher=Irinnews.org |date= |accessdate=2010-08-25}}</ref>
+
+==Politics==
+{{Main|Politics of Egypt}}
+
+Egypt has been officially named a "[[Republic]]" since June 18, 1953.  However, it has been under [[Emergency Law]] continually since 1967 (with the exception of an 18-month break in 1980).{{clarify|reason=1 year ≠ 18 months - did it start in 1979 or continue into 1981?|date=January 2011}}
+Since 1981,  Egypt has been ruled [[autocrat]]ically by [[Hosni Mubarak|Mohamed Hosni Mubarak]], who came to power  after the assassination of President [[Anwar Sadat|Mohammed Anwar El-Sadat]].<ref name="nytimes.com">New York Times, 2010 September 11, "Succession Gives Army a Stiff Test in Egypt," http://www.nytimes.com/2010/09/12/world/middleeast/12egypt.html?pagewanted=1&ref=global-home</ref>
+Mubarak is currently serving his fifth term in office (28 years).
+Mubarak is the leader of the ruling [[National Democratic Party (Egypt)|National Democratic Party]] (NDP). [[Heads of government of Egypt|Prime Minister]] [[Ahmed Shafik]] was sworn in as Prime Minister on January 29, 2011, following the resignation of [[Ahmed Nazif]].
+
+Although power is nominally organized under a [[Multi-party system|multi-party]] [[semi-presidential system]], whereby the executive power is theoretically divided between the President and the [[Prime Minister of Egypt|Prime Minister]], in practice it rests almost solely with the President who traditionally has been elected in single-candidate elections for more than fifty years. Egypt also holds regular multi-party parliamentary elections. The last presidential election, in which Mubarak won a fifth consecutive term, [[Egyptian presidential election, 2005|was held in September 2005]]. In 2009, Dr. [[Ali El Deen Hilal Dessouki]], Media Secretary of the NDP, described Egypt as a "[[pharaonic]]" political system, and democracy as a "long term goal". Dessouki also stated that "the real center of power in Egypt is the military".<ref name="09CAIRO1468">{{cite web |url=http://www.wikileaks.ch/cable/2009/07/09CAIRO1468.html|title=NDP Insider: Military will ensure transfer of power|date=2009-07-30|publisher=US Department of State}}</ref>
+
+In late February 2005, Mubarak announced in a surprise television broadcast that he had ordered the reform of the country's presidential election law, paving the way for multi-candidate polls in the upcoming presidential election. For the first time since the [[Free Officers Movement|1952 movement]], the Egyptian people had an apparent chance to elect a leader from a list of various candidates. The President said his initiative came "out of my full conviction of the need to consolidate efforts for more freedom and democracy."<ref>Business Today Egypt. [http://www.businesstodayegypt.com/article.aspx?ArticleID=4565 Mubarak throws presidential race wide open]. March 2005.</ref> However, the new law placed restrictions on the candidates, designed to prevent well-known politicians such as [[Ayman Nour]] from standing against Mubarak, and paved the road for his easy re-election victory.<ref>Lavin, Abigail. [http://www.weeklystandard.com/Content/Public/Articles/000/000/012/034kggwf.asp Democracy on the Nile: The story of Ayman Nour and Egypt's problematic attempt at free elections]. March 27, 2006.</ref> [[image:Mubarak.jpg|thumb|upright|[[Mohammad Hosni Mubarak]]]]
+
+After the 2005 presidential elections observers alleged government interference in the election process through fraud and vote-rigging, and [[police brutality]] and violence by pro-Mubarak supporters against opposition demonstrators.<ref>Murphy, Dan. [http://www.csmonitor.com/2005/0526/p06s01-wome.html Egyptian vote marred by violence]. [[The Christian Science Monitor|Christian Science Monitor]]. 26 May 2005.</ref> After the election, Mubarak [[Ayman Nour#Arrest and imprisonment|imprisoned Ayman Nour]], and the U.S. government stated the "conviction of Mr. Nour, the runner-up in Egypt's 2005 presidential elections, calls into question Egypt's commitment to democracy, freedom, and the rule of law."<ref>[http://www.america.gov/st/washfile-english/2005/December/20051224115656retnuhategdirb0.6396906.html United States "Deeply Troubled" by Sentencing of Egypt's Nour]. U.S. Department of State, Published 24 December 2005</ref>
+
+Most Egyptians are skeptical about the process of [[democratization]] and the intent of the election rules. Less than 25 percent of the country's 32 million registered voters (out of a population of more than 72 million) turned out for the 2005 elections.<ref>Gomez, Edward M. [http://sfgate.com/cgi-bin/article.cgi?file=/gate/archive/2005/09/13/worldviews.DTL Hosni Mubarak's pretend democratic election]. [[San Francisco Chronicle]]. September 13, 2005.</ref>
+
+Thirty-four constitutional changes voted on by parliament on March 19, 2007 prohibit parties from using religion as a basis for political activity; allow the drafting of a new anti-terrorism law to replace the emergency legislation in place since 1981, authorize broad police powers of arrest and surveillance; give the president power to dissolve parliament; and end judicial election monitoring.<ref>[http://news.bbc.co.uk/2/hi/middle_east/6472031.stm Anger over Egypt vote timetable] [[BBC]] News.</ref> Opposition members of parliament abstained from voting on the proposed changes. Only 27% of registered voters turned out under heavy police presence and tight political control. It was officially announced on March 27, 2007 that 75.9% of those who participated in the referendum approved the [[constitutional amendment]]s. The results were endorsed by the rump parliament, thus allowing the introduction of laws that curb the activity of opposition elements, particularly Islamists.
+
+The Egyptian military receives billions of dollars of aid from the United States. It remains Egypt's most powerful institution. It has dozens of factories manufacturing weapons as well as consumer goods, and it exempts itself from laws that apply to other sectors.<ref name="nytimes.com"/>
+
+Mubarak is reportedly unlikely to stand for office when his present term expires in 2011. It was previously assumed that his successor would be his son [[Gamal Mubarak|Gamal]] and as the governing party's candidate, he was all but certain to ascend to power, but the civil unrest of January 2011 makes that now unlikely.(See link at top of page). The real struggle for power used to occur behind the scenes since the NDP candidate all but certainly would become president. The Egyptian military could work behind the scenes to prevent Mubarak's succession if he were not already ousted.<ref name="nytimes.com"/>
+
+The [[CIA World Factbook]] states that the legal system is based on [[Sharia law|Islamic]] and civil law (particularly [[Napoleonic code]]s); and that judicial review takes place by a Supreme Court, which accepts compulsory ICJ jurisdiction only with reservations.{{Citation needed|date=October 2010}}
+
+===2011 protests===
+{{main|2011 Egyptian protests}}
+{{Current|date=January 2011}}
+On 25 January 2011, widespread protests began against Mubarak's regime. By 29 January it was becoming clear that Mubarak's regime had lost control when a curfew order was ignored, and the army took a semi-neutral stance on enforcing the curfew decree. Some protesters, a very small minority in Cairo, expressed nationalistic views against what they deemed was foreign interference, highlighted by the then held view that the U.S. administration had failed to take sides, as well as linking the regime with Israel.<ref name="mubarak_israel">{{cite web |url=http://newshopper.sulekha.com/malaysia-egypt-protest_photo_1689167.htm|title=Malaysia Egypt Protest Pictures & Photos|date=2001-01-31|publisher=AP Photo/Lai Seng Sin}}</ref>
+
+===Foreign relations===
+{{Main|Foreign relations of Egypt}}
+[[File:G8 italy 2009.jpg|thumb|right|[[Mubarak]] in the G8 Summit in Italy 2009]]
+Egypt's foreign policy is supported by its [[population size]], historical events, military strength, diplomatic expertise and a strategic geographical position. It has extensive political influence in [[Africa]] and the [[Middle East]]. [[Cairo]] has been a crossroads of regional commerce and culture for centuries, and its intellectual and Islamic institutions are at the center of the region's social and [[Sociocultural evolution|cultural development]].
+
+The permanent [[Headquarters of the Arab League]] are located in Cairo and the Secretary General of the Arab League has traditionally been Egyptian. Former Foreign Minister [[Amr Moussa]] is the current group's Secretary General. The Arab League briefly moved from Egypt to [[Tunis]] in 1978 to protest the [[Egypt-Israel Peace Treaty]], returning in 1989.
+
+Egypt was the first Arab state to establish diplomatic relations with Israel, with the signing of the treaty. Despite the peace treaty, Israel is still largely considered an enemy country within Egypt.<ref>"Massive Israel protests hit universities" (Egyptian Mail, March 16, 2010) "According to most Egyptians, almost 31 years after a peace treaty was signed between Egypt and Israel, having normal ties between the two countries is still a potent accusation and Israel is largely considered to be an enemy country"</ref> Egypt has historically played an important role as a mediator in resolving disputes between various Arab states, and in the [[Israeli-Palestinian conflict|Israeli-Palestinian dispute]]. Egypt is a [[Major non-NATO ally|major ally]] of the United States.
+
+Former Egyptian [[Deputy Prime Minister]] [[Boutros Boutros-Ghali]] served as [[Secretary-General of the United Nations]] from 1991 to 1996.
+
+In the 21st century, Egypt has had a major problem with immigration, as millions of Africans flee poverty and war. Border control methods can be "harsh, sometimes lethal."<ref>Desperate on the Border, ALASDAIR SOUSSI, Jerusalem Report, Nov. 9, 1953, [http://www.jpost.com/servlet/Satellite?cid=1225910074439&pagename=JPost%2FJPArticle%2FShowFull]{{Dead link|date=August 2010}}</ref>
+
+===Military===
+{{Main|Egyptian Armed Forces}}
+[[Image:Egyptian Air Force F-16.JPEG|thumb|upright|[[Egyptian Air Force]] [[F-16]] refueling during [[Operation Bright Star]]]]
+
+<!--Please expand main Egytian Armed Forces article instead of this section-->
+The [[Egyptian Army|Egyptian Armed forces]] have a combined troop strength of around 450,000 active personnel.<ref>{{cite web|url=http://www.globalfirepower.com/country_detail.asp?country_id=12 |title=Egypt Military Strength |publisher=Globalfirepower.com |date= |accessdate=2010-08-25}}</ref> According to the Israeli chair of the former Knesset Foreign Affairs and Defense Committee, [[Yuval Steinitz]], the [[Egyptian Air Force]] has roughly the same number of modern warplanes as the [[Israeli Air Force]] and far more Western tanks, artillery, anti-aircraft batteries and warships than the [[Israel Defense Forces|IDF]].<ref>Steinitz, Yuval. [http://www.haaretz.com/hasen/spages/795822.html Not the peace we expected]. Haaretz. December 05, 2006.</ref>
+
+The Egyptian military has recently undergone massive military modernization mostly in their Air Force. Egypt is speculated by Israel to be the first country in the region with a [[spy satellite]], [[EgyptSat 1]], and is planning to launch 3 more satellites (DesertSat1, EgyptSat2, DesertSat2) over the next two years.<ref>Katz, Yaacov. "Egypt to launch first spy satellite", [[Jerusalem Post]], January 15, 2007.</ref>
+
+The United States of America provide an annual military assistance, which in 2009 amounted to US$ 1.3 billion (inflation adjusted US$ {{formatnum:{{Inflation|US|1.3|2009|r=2}}}} billion in {{CURRENTISOYEAR}}).<ref name="09CAIRO874">{{cite web |url=http://www.wikileaks.ch/cable/2009/05/09CAIRO874.html|title=Scenesetter:  President Mubarak's visit to Washington |date=2009-05-19|publisher=US Department of State}}</ref>
+
+===Administrative divisions===
+{{Main|Governorates of Egypt|Regions of Egypt}}
+{{Egypt Governorates Map|float=left}}
+Egypt is divided into 29 [[Governorates of Egypt|governorate]]s. The governorates are further divided into [[Regions of Egypt|regions]]. The regions contain towns and villages. Each governorate has a capital, sometimes carrying the same name as the governorate.
+
+In April 2008, Cairo and Giza were subdivided into 4 governorates, namely the governorates of Cairo, Giza, 6 October and Helwan. In 2009, the city of Luxor was declared an independent governorate.
+
+The ''[[Upper Egypt|Upper]]'' governorates are located south of Cairo, while the ''[[Lower Egypt|Lower]]'' governorates are located in the [[Nile Delta|Delta of the Nile]] north of Cairo.
+
+{| style="background:none; font-size:95%;" cellspacing="0" cellpadding="0"
+|- valign="top"
+|
+{| class="wikitable"
+|-
+! Governorate                                   !! Capital             !! Location</tr>
+| [[Al Iskandariyah Governorate|Alexandria]]    || [[Alexandria]]      || Northern</tr>
+| [[Aswan Governorate|Aswan]]                   || [[Aswan]]           || Upper</tr>
+| [[Asyut Governorate|Asyut]]                   || [[Asyut]]           || Upper</tr>
+| [[Beheira Governorate|Beheira]]           || [[Damanhur]]        || Lower</tr>
+| [[Beni Suef Governorate|Beni Suef]]         || [[Beni Suef]]       || Upper</tr>
+| [[Cairo Governorate|Cairo]]              || [[Cairo]]           || Middle</tr>
+| [[Dakahlia Governorate|Dakahlia]]        || [[Mansura]]         || Lower</tr>
+| [[Damietta Governorate|Damietta]]               || [[Damietta]]        || Lower</tr>
+| [[Faiyum Governorate|Faiyum]]              || [[Faiyum]]          || Upper</tr>
+| [[Gharbia Governorate|Gharbia]]          || [[Tanta]]           || Lower</tr>
+| [[Giza Governorate|Giza]]                 || [[Giza]]            || Upper</tr>
+| [[Helwan Governorate|Helwan]]                 || [[Helwan]]          || Middle</tr>
+| [[Ismailia Governorate|Ismailia]]       || [[Ismailia]]        || Canal</tr>
+| [[Kafr el-Sheikh Governorate|Kafr el-Sheikh]]|| [[Kafr el-Sheikh]]  || Lower</tr>
+| [[Luxor Governorate|Luxor]]                 || [[Luxor]]                         || Upper</tr>
+|}
+|
+{| class="wikitable"
+|-
+! Governorate                                   !! Capital                                  !! Location</tr>
+| [[Matruh Governorate|Matruh]]                 || [[Mersa Matruh]]                         || Western</tr>
+| [[Minya Governorate|Minya]]                || [[Minya, Egypt|Minya]]                   || Upper</tr>
+| [[Monufia Governorate|Monufia]]                      || [[Shibin el-Kom]]                        || Lower</tr>
+| [[New Valley Governorate|New Valley]]   || [[Kharga]]                               || Western</tr>
+| [[North Sinai Governorate|North Sinai]]      || [[Arish]]                                || Sinai</tr>
+| [[Port Said Governorate|Port Said]]           || [[Port Said]]                            || Canal</tr>
+| [[Qalyubia Governorate|Qalyubia]]                    || [[Banha]]                                || Lower</tr>
+| [[Qena Governorate|Qena]]                     || [[Qena]]                                 || Upper</tr>
+| [[Red Sea Governorate|Red Sea]]      || [[Hurghada]]                             || Eastern</tr>
+| [[Sharqia Governorate|Sharqia]]         || [[Zagazig]]                              || Upper</tr>
+| [[Sohag Governorate|Sohag]]                   || [[Sohag]]                                || Upper</tr>
+| [[South Sinai Governorate|South Sinai]]       || [[el-Tor]]                               || Sinai</tr>
+| [[Suez Governorate|Suez]]                || [[Suez]]                                 || Canal</tr>
+| [[6th of October Governorate|6th of October]] || [[6th of October City|6th of October]]   || Middle</tr>
+|}
+|style="padding-top:8px;"|
+|}
+
+===Human rights===
+{{Main|Human rights in Egypt}}
+{{See also|Sudanese refugees in Egypt}}
+[[File:Kefaya demo.jpg|thumb|Members of the [[Kefaya]] democracy movement protesting a fifth term for President [[Hosni Mubarak]]. See also [http://www.youtube.com/watch?v=WbEM6soTHOA video].]]
+Several local and international human rights organizations, including [[Amnesty International]] and [[Human Rights Watch]], have for many years criticized Egypt's human rights record as poor. In 2005, President [[Hosni Mubarak]] faced unprecedented public criticism when he clamped down on [[Kefaya|democracy activists]] challenging his rule. Some of the most serious human rights violations, according to HRW's 2006 report on Egypt, are routine [[torture]], arbitrary detentions and trials before military and state security courts.<ref name="HRW">Human Rights Watch. [http://hrw.org/english/docs/2006/01/18/egypt12212.htm Egypt: Overview of human rights issues in Egypt]. 2005</ref>
+
+Egypt has also been cited for discriminatory personal status laws governing marriage, custody and inheritance, which critics say put women at a disadvantage. Laws concerning [[Copt]]ic [[Christian]]s which place restrictions on church building and open worship have been recently eased, but major construction still requires Government approval, while sporadic attacks on Christians and churches continue.<ref>[http://www.wwrn.org/article.php?idd=19813&sec=36&cont=3 Church Building Regulations Eased]{{Dead link|date=August 2010}}</ref> Intolerance of [[Bahá'í Faith|Bahá'ís]] and unorthodox Muslim sects, such as [[Sufism|Sufis]] and [[Shia Islam|Shi'a]], also remains a problem.<ref name="HRW" />
+
+The Egyptian legal system only recognizes three religions: [[Islam]], [[Christianity]] and [[Judaism]]. When the Government moved to computerize identification cards, members of religious minorities, such as [[Bahá'í]]s, could [[Egyptian Identification Card Controversy|not obtain identification documents]].<ref name="International Religious Freedom Report 2008"/> An Egyptian court ruled in early 2008 that members of other faiths can obtain identity cards without listing their faiths, and without becoming officially recognized.<ref name="reuters">{{Cite news|first=Cynthia |last=Johnston |title= Egypt Baha'is win court fight over identity papers|url=http://africa.reuters.com/wire/news/usnL29677385.html|archiveurl=http://web.archive.org/web/20080215133731/http://africa.reuters.com/wire/news/usnL29677385.html|archivedate=2008-02-15 |publisher=Reuters |date=2008-01-29 |accessdate=2008-01-30 }}</ref> (For more on the status of religious minorities, see the [[Egypt#Religion|Religion]] section.)
+
+In 2005, the [[Freedom House]] rated [[political rights]] in Egypt as "6" (1 representing the most free and 7 the least free rating), [[civil liberties]] as "5" and gave it the freedom rating of "Not Free."<ref>{{cite web|url=http://www.freedomhouse.org/uploads/pdf/Charts2006.pdf|title=Freedom in the World 2006|publisher=[[Freedom House]]|date=2005-12-16|accessdate=2006-07-27|format=PDF}}<br/>See also [[Freedom in the World 2006]], [[List of indices of freedom]]</ref> It however noted that "Egypt witnessed its most transparent and competitive presidential and legislative elections in more than half a century and an increasingly unbridled public debate on the country's political future in 2005."<ref>{{cite web|url=http://www.freedomhouse.org/template.cfm?page=22&year=2006&country=6956 |title=Freedom House. Freedom in the World&nbsp;— Egypt. 2006 |publisher=Freedomhouse.org |date=2004-05-10 |accessdate=2010-08-25}}</ref> For [[freedom of the press]], Egypt was deemed "Partly Free" in 2008, ranking 124 out of the 196 countries surveyed.<ref>{{cite web|url=http://www.freedomhouse.org/template.cfm?page=442&year=2008 |title=Freedom House. Freedom of the Press World Ranking. 2009 |publisher=Freedomhouse.org |date=2004-05-10 |accessdate=2010-08-25}}</ref>
+
+In 2007, human rights group [[Amnesty International]] released a report criticizing Egypt for [[torture]] and illegal detention. The report alleges that Egypt has become an international center for torture, where other nations send suspects for interrogation, often as part of the [[War on Terror]]. The report calls on Egypt to bring its [[Anti-terrorism legislation|anti-terrorism laws]] into accordance with international human rights statutes and on other nations to stop sending their detainees to Egypt.<ref>[http://news.bbc.co.uk/2/hi/middle_east/6544149.stm Egypt torture centre, report says]. [[bbc.co.uk]]. Written 2007-4-11. Retrieved 2007-4-11.</ref> Egypt's foreign ministry quickly issued a rebuttal to this report, claiming that it was inaccurate and unfair, as well as causing deep offense.<ref>[http://news.bbc.co.uk/2/hi/middle_east/6551401.stm Egypt rejects torture criticism]. [[bbc.co.uk]]. Written 2007-4-13. Retrieved 2007-4-13.</ref>
+
+The [[Egyptian Organization for Human Rights]] (EOHR) is one of the longest-standing bodies for the defence of [[human rights in Egypt]].<ref>{{cite web|url=http://en.eohr.org |title=Egyptian Organization for Human Rights |publisher=En.eohr.org |date= |accessdate=2010-08-25}}</ref> In 2003, the Government established the National Council for Human Rights, headquartered in Cairo and headed by former [[United Nations Secretary-General|UN Secretary-General]] [[Boutros Boutros-Ghali]] who directly reports to the President.<ref>[http://www.nchr.org.eg/En/home.asp Official page of the Egyptian National Council for Human Rights]{{Dead link|date=August 2010}}.</ref> The council has come under heavy criticism by local activists, who contend it undermines human rights work in Egypt by serving as a propaganda tool for the Government to excuse its violations<ref>[http://www.eohr.org/press/2003/6-3.HTM Egyptian National Council for Human Rights Against Human Rights NGOs]. EOHR. June 3, 2003.</ref> and to give legitimacy to repressive laws such as the recently renewed Emergency Law.<ref>Qenawy, Ahmed. [http://anhri.net/en/discussion/2004/ehrc.shtml The Egyptian Human Rights Council: The Apple Falls Close to the Tree]. ANHRI. 2004</ref> Egypt had announced in 2006 that it was in the process of abolishing the Emergency Law,<ref name=autogenerated1>[http://jurist.law.pitt.edu/paperchase/2006/12/egypt-to-begin-process-of-lifting.php Egypt to begin process of lifting emergency laws]. December 5, 2006.</ref> but in March 2007, Mubarak approved several constitutional amendments to include "an anti-terrorism clause that appears to enshrine sweeping police powers of arrest and surveillance", suggesting that the Emergency Law will remain for the long haul.<ref>[http://africa.reuters.com?type=topNews&storyID=2007-03-20T070538Z_01_BAN025517_RTRIDST_0_OZATP-EGYPT-CONSTITUTION-20070320.XML Egypt parliament approves changes in constitution]. Reuters. March 20, 2007.</ref>
+
+According to the [[World Health Organization]] in 2008, an estimated 91.1% of Egypt's girls and women have suffered [[female genital mutilation]].<ref>{{cite web|url=http://www.who.int/reproductivehealth/topics/fgm/prevalence/en/index.html |title=WHO &#124; Female genital mutilation and other harmful practices |publisher=Who.int |year=2011 |accessdate=2011-01-28}}</ref>
+
+==Economy==
+{{Main|Economy of Egypt}}
+
+Egypt's economy depends mainly on agriculture, media, petroleum exports, and tourism; there are also more than three million Egyptians working abroad, mainly in [[Saudi Arabia]], the [[Persian Gulf]] and Europe. The completion of the [[Aswan High Dam]] in 1970 and the resultant [[Lake Nasser]] have altered the time-honored place of the Nile River in the agriculture and ecology of Egypt. A rapidly growing population, limited [[arable land]], and dependence on the Nile all continue to overtax resources and stress the economy.<ref>{{cite web|url=http://lexicorient.com/e.o/egypt_2.htm|title=Egypt: Economy|publisher=LookLex Encyclopedia|accessdate=2008-08-21}}</ref>
+[[File:Suez Canal Bridge close-up.JPG|thumb|upright|[[Suez Canal Bridge]]]]
+The government has invested in communications and physical infrastructure. Egypt has received U.S. [[foreign aid]] (since 1979, an average of $2.2 billion per year) and is the third-largest recipient of such funds from the United States following the Iraq war. Its main revenues however come from tourism as well as traffic that goes through the Suez Canal.
+
+Egypt has a developed energy market based on coal, oil, [[natural gas]], and [[Hydropower|hydro power]]. Substantial coal deposits are in the northeast Sinai, and are mined at the rate of about {{convert|600000|t|lk=on|sp=us}} per year. Oil and gas are produced in the western desert regions, the [[Gulf of Suez]], and the Nile Delta. Egypt has huge reserves of gas, estimated at {{convert|1,940|km3}},<!--according to Economy of Egypt article--> and [[Liquefied natural gas|LNG]] is exported to many countries.
+
+Economic conditions have started to improve considerably after a period of stagnation from the adoption of more liberal economic policies by the Government, as well as increased revenues from tourism and a booming [[stock market]]. In its annual report, the [[IMF]] has rated Egypt as one of the top countries in the world undertaking economic reforms.{{Citation needed|date=September 2008}} Some major economic reforms taken by the new Government since 2003 include a dramatic slashing of customs and tariffs. A new [[Tax law|taxation law]] implemented in 2005 decreased corporate taxes from 40% to the current 20%, resulting in a stated 100% increase in [[tax revenue]] by the year 2006.
+
+[[File:A Boat in the Nile River.JPG|thumb|upright|Tourists ride in a traditional Nile boat.]]
+
+[[Foreign direct investment|Foreign Direct Investment]] (FDI) into Egypt has increased considerably in the past few years, exceeding $6 billion in 2006, due to the recent [[Liberal theory of economics|economic liberalization]] measures taken by minister of investment Mahmoud Mohieddin.
+
+Although one of the main obstacles still facing the Egyptian economy is the trickle down of the wealth to the average population, many Egyptians criticize their Government for higher prices of basic goods while their [[Standard of living|standards of living]] or purchasing power remains relatively stagnant. Corruption is often cited by Egyptians as the main impediment to further economic growth.<ref>{{cite web|url=http://www.irinnews.org/report.aspx?reportid=27105 |title=IRIN Middle East &#124; Middle East &#124; Egypt: Corruption hampering development, says opposition report &#124; Other &#124; Breaking News |publisher=Irinnews.org |date= |accessdate=2010-08-25}}</ref><ref>[http://www.thedailynewsegypt.com/article.aspx?ArticleID=2963 Daily News Egypt - Full Article]{{Dead link|date=August 2010}}</ref><ref>{{cite web|author=Rania Al Malky |url=http://www.egypttoday.com/article.aspx?ArticleID=2978 |title=et&nbsp;— Full Story |publisher=Egypttoday.com |date= |accessdate=2010-08-25}}</ref> The Government promises major reconstruction of the country's infrastructure, using money paid for the newly acquired third mobile license ($3 billion) by [[Etisalat]].<ref>{{cite web|url=http://www.businesstodayegypt.com/article.aspx?ArticleID=6902|title=Etisalat Wins Third License|author=Fatima El Saadani|month=August | year=2006|publisher=Business Today|accessdate=2008-08-21}}</ref>
+
+Egypt's most prominent multinational companies are the [[Orascom Group]] and Raya Contact Center. The IT sector has expanded rapidly in the past few years, with many start-ups selling outsourcing services to North America and Europe, operating with companies such as Microsoft, Oracle and other major corporations, as well as many small and medium enterprises. Some of these companies are the Xceed Contact Center, Raya, E Group Connections and C3. The sector has been stimulated by new Egyptian entrepreneurs with Government encouragement.
+
+An estimated 2.7 million Egyptians abroad contribute actively to the development of their country through [[remittances]] (US$ 7.8 billion in 2009), as well as circulation of human and social capital and investment.<ref name="IOMEgypt"/>
+
+==Demographics==
+{{Main|Demographics of Egypt|Egyptians}}
+[[Image:Egypt 2010 population density1.png|right|thumb|Egypt population density (people per km<sup>2</sup>)]]
+Egypt is the most populated country in the Middle East and the third most populous on the [[African continent]], at about 80 million inhabitants in 2009.<ref>{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html |title=CIA - The World Factbook |publisher=Cia.gov |date= |accessdate=2011-02-01}}</ref> Population grew rapidly from 1970-2010 due to [[History of medicine#Modern medicine|medical advances]] and increases in agricultural productivity,<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/in_depth/6496585.stm |title=The limits of a Green Revolution? |publisher=BBC News |date=2007-03-29 |accessdate=2010-08-25}}</ref> enabled by the [[Green Revolution]].<ref>{{cite web|author=Posted April 8th, 2000 by admin |url=http://www.foodfirst.org/media/opeds/2000/4-greenrev.html |title=Food First/Institute for Food and Development Policy |publisher=Foodfirst.org |date=2000-04-08 |accessdate=2010-08-25}}</ref> Egypt's population was estimated at only 3 million when [[Napoleon I of France|Napoleon]] invaded the country in 1798.<ref>[http://countrystudies.us/egypt/55.htm Egypt - Population], ''U.S. Library of Congress''</ref> In 1939, Egypt had a population of 16.5 million.<ref>"''[http://books.google.com/books?id=gbe8RIn-ADgC&pg=PA207&dq&hl=en#v=onepage&q=&f=false Many histories deep: the personal landscape poets in Egypt, 1940-45]''". Roger Bowen (1995). p.207. ISBN 0838635679</ref>
+
+The population is concentrated along the Nile (notably Cairo and Alexandria), in the Delta and near the Suez Canal. Approximately 90% of the population adheres to [[Islam in Egypt|Islam]] and most of the rest to [[Christianity in Egypt|Christianity]], primarily the [[Coptic Orthodox Church of Alexandria|Coptic Orthodox]] denomination.<ref name="Factbook">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html#People|title=Egyptian people section from the World Factbook|work=[[World Fact Book]]|accessdate=2007-01-29}}</ref> Apart from religious affiliation, Egyptians can be divided demographically into those who live in the major urban centers and the [[fellah]]in or farmers of rural villages.
+
+[[Egyptians]] are by far the largest ethnic group in Egypt at 91% of the total population.<ref name="Factbook" /> Ethnic minorities include the [[Abaza people|Abazas]], [[Turkish people|Turks]], [[Greeks]], [[Bedouin]] Arab tribes living in the eastern deserts and the [[Sinai Peninsula]], the [[Berber language|Berber]]-speaking [[Siwis]] ([[Berber people|Amazigh]]) of the [[Siwa Oasis]], and the [[Nubian]] communities clustered along the Nile. There are also tribal [[Beja people|Beja]] communities concentrated in the south-eastern-most corner, and a number of [[Dom people|Dom]] clans mostly in the Nile Delta and [[Faiyum]] who are progressively becoming assimilated as urbanization increases. According to the [[International Organization for Migration]], an estimated 2.7 million Egyptians live abroad. Approximately 70% of Egyptian migrants live in Arab countries (923,600 in [[Saudi Arabia]], 332,600 in [[Libya]], 226,850 in [[Jordan]], 190,550 in [[Kuwait]] with the rest elsewhere in the region) and the remaining 30 % are living mostly in [[Europe]] and [[North America]] (318,000 in the [[US]], 110,000 in [[Canada]] and 90,000 in [[Italy]]).<ref name="IOMEgypt">{{Cite document|url=http://www.egypt.iom.int/Doc/IOM%20Migration%20and%20Development%20in%20Egypt%20Facts%20and%20Figures%20(English).pdf |publisher=International Organization for Migration|title=Migration and Development in Egypt: Facts and Figures|year=2010|accessdate=2010-07-21|postscript=<!-- Bot inserted parameter. Either remove it; or change its value to "." for the cite to end in a ".", as necessary. -->}}</ref>
+
+Egypt also hosts an unknown number of [[refugees]] and asylum seekers, estimated to be between 500,000 and 3 million.<ref name="Refugees">[http://www.forcedmigration.org/guides/fmo029/fmo029-3.htm Refugees in Egypt].</ref> There are some 70,000 [[Palestinian refugee]]s,<ref name="Refugees" /> and about 150,000 recently arrived [[Refugees of Iraq|Iraqi refugees]],<ref>{{cite web|url=http://hrw.org/backgrounder/refugees/iraq0407/4.htm |title=Iraq: from a Flood to a Trickle: Egypt |publisher=Hrw.org |date= |accessdate=2010-08-25}}</ref> but the number of the largest group, the [[Sudanese refugees in Egypt|Sudanese]], is contested.<ref>See [http://www.refugees.org/countryreports.aspx?subm=&ssm=&cid=96 The U.S. Committee for Refugees and Immigrants] for a lower estimate. The {{cite web|url=http://www.eohr.org/ref/ |title=The Egyptian Organization for Human Rights |archiveurl=http://web.archive.org/web/20071230012918/http://www.eohr.org/ref/ |archivedate=2007-12-30}} states on its web site that in 2000 the [[World Council of Churches]] claimed that "between two and five million Sudanese have come to Egypt in recent years". Most Sudanese refugees come to Egypt in the hope of resettling in Europe or the US.</ref> The once-vibrant [[Greeks in Egypt|Greek]] and [[History of the Jews in Egypt|Jewish communities in Egypt]] have almost [[Jewish exodus from Arab lands|disappeared]], with only a small number remaining in the country, but many Egyptian [[Jew]]s visit on religious occasions and for tourism. Several important Jewish archaeological and historical sites are found in Cairo, Alexandria and other cities.
+
+===Languages===
+{{main|Languages of Egypt|Egyptian language|Coptic language}}
+
+The [[official language]] of the Republic is [[Modern Standard Arabic]].<ref name="official language"/> The [[spoken language]]s  are: [[Egyptian Arabic]] (68%), [[Sa'idi Arabic]] (29%), [[Bedawi Arabic|Eastern Egyptian Bedawi Arabic]]<!--don't reduce the name, there are many similar named dialects--> (1.6%), [[Sudanese Arabic]] (0.6%), [[Domari language|Domari]] (0.3%), [[Nobiin language|Nobiin]] (0.3%), [[Beja language|Beja]] (0.1%), [[Siwi language|Siwi]] and others. Additionally, [[Greek language|Greek]], [[Armenian language|Armenian]] and [[Italian language|Italian]] are the main languages of immigrants. In Alexandria in the 19th century there was a huge community of [[Italians in Egypt|Italo-Egyptians]] and Italian was the "[[lingua franca]]" of the city.
+
+The main taught foreign languages in schools are [[English language|English]], [[French language|French]], [[German language|German]] and sometimes Italian.
+
+The [[Egyptian languages]] (also known as Copto-Egyptian) consist of ancient [[Egyptian language|Egyptian]] and [[Coptic language|Coptic]], and form a separate branch among the family of [[Afro-Asiatic languages]].
+
+The "[[Koiné]]" dialect of the [[Greek language]] was important in [[Hellenistic]] Alexandria, and was used in the [[philosophy]] and [[science]] of that culture, and was also studied by later Arabic scholars.
+
+===Religion===
+Egypt hosts two major religious institutions, the [[Coptic Orthodox Church of Alexandria]] established in the middle of the 1st century by [[Mark the Evangelist|Saint Mark the Evangelist]], and [[Al-Azhar University]] founded in 970 [[A.D]] by the [[Fatimid Caliphate|Fatimids]] as the first{{Dubious|date=December 2010}} Islamic University in the world.
+
+;Islam
+[[File:Cairo mosques.jpg|thumb|right|Cairo's unique cityscape with its ancient [[mosque]]s. Cairo is known as the ''"city of a thousand minarets"'']]
+Egypt is a predominantly Muslim country with [[Islam]] as its state religion. The percentage of the adherents of various religions is a controversial topic in Egypt, with different sources citing different figures. Around 90% are identified as Muslim.<ref name="pewforum1">[http://pewforum.org/newassets/images/reports/Muslimpopulation/Muslimpopulation.pdf The 2009 American Pew Forum on Religion and Public Life]{{dead link|date=October 2010}}</ref><ref name="The world factbook/Egypt/">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/eg.html|title=Egypt from “The World Factbook”|date=September 4, 2008|publisher=[[Central Intelligence Agency|American Central Intelligence Agency (CIA)]]}}</ref><ref>{{cite web|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=MN&p_theme=mn&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EFE4944AB794537&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|title=Religion/Islamic conservatism's revival attracts followers, worries governments|date=June 18, 2009|publisher=Star Tribune}}</ref><ref name="U.S.Dept of State/Egypt">{{cite web|url=http://www.state.gov/r/pa/ei/bgn/5309.htm|title= Egypt from “U.S. Department of State/Bureau of Near Eastern Affairs”|date=September 30, 2008 |publisher= [[United States Department of State]]}}</ref><ref name="FCO/Egypt/">{{cite web|url=http://www.fco.gov.uk/en/about-the-fco/country-profiles/middle-east-north-africa/egypt|title=Egypt from “Foreign and Commonwealth Office”|date=August 15, 2008|publisher=[[Foreign and Commonwealth Office|Foreign and Commonwealth Office -UK Ministry of Foreign Affairs]]}}</ref><ref name="LOOKLEX Encyclopedia/Egypt/Religions&Peoples">{{cite web|url=http://lexicorient.com/e.o/egypt_4.htm|title=Egypt Religions & Peoples  from “LOOKLEX Encyclopedia”|date=September 30, 2008|publisher= LookLex Ltd.}}</ref><ref name="msn encarta/Egypt">{{cite encyclopedia|url= http://encarta.msn.com/encyclopedia_761557408_3/Egypt.html|title=Egypt from “msn encarta”|date=September 30, 2008 |publisher= [[Microsoft Encarta|Encarta]]}}{{dead link|date=October 2010}}</ref><ref name="Al Arabiya News">{{cite web|url= http://www.alarabiya.net/articles/2008/08/28/55639.html|title=Controversy in Egypt after a prominent church figure declared the number of Copts in Egypt exceeds 12 million|date=November 2, 2008}}</ref><ref name="United Copts">{{cite web|url= http://www.unitedcopts.org/index.php?option=com_content&task=view&id=3073&Itemid=71|title=Pope Shenouda III declares to a TV station that the number of Copts in Egypt exceeds 12 million|date=October 29, 2008}}</ref> A significant number of Muslim Egyptians also follow native [[Sufism|Sufi]] [[Tariqah|orders]],<ref>Hoffman, Valerie J. ''Sufism, Mystics, and Saints in Modern Egypt''. University of South Carolina Press, 1995.</ref> and there is a minority of [[Shi'a]]. Islam plays a central role in the lives of most Egyptian Muslims. The [[Adhan]] (Islamic call to prayer) is heard five times a day, and has the informal effect of regulating the pace of everything from business to media and entertainment.[[Cairo]] is famous for its numerous [[mosque]] [[minaret]]s and is justifiably dubbed "the city of 1,000 minarets".<ref name="The Independent on Cairo">{{Cite news|title= Cairo: Welcome to the city of 1,000 minarets|url= http://www.independent.co.uk/travel/africa/cairo-welcome-to-the-city-of-1000-minarets-692635.html|publisher=[[The Independent]]|location=London|author= Robin Barton|date=2001-02-19}}</ref> [[Cairo]] also comprises a significant number of church [[Steeple (architecture)|towers]].
+
+According to the [[constitution of Egypt]], any new legislation must at least implicitly agree with [[Sharia|Islamic law]]; however, the constitution bans political parties with a religious agenda.<ref name="Egypt may allow first Islamist party">{{Cite news| last = Abdelhadi | first = Magdi | title= Egypt may allow first Islamist party | publisher= [[BBC|BBC NEWS]]| date=October 6, 2005 | url = http://news.bbc.co.uk/2/hi/middle_east/4316258.stm | accessdate=2008-10-02}}</ref>
+
+;Christianity
+{{Main|Christianity in Egypt|Copts|Coptic Orthodox Church of Alexandria|Persecution of Copts}}
+[[File:monastry3.jpg|thumb|Millions of Egyptians follow the [[Christianity|Christian]] faith as members of the [[Coptic Orthodox Church of Alexandria]].]]
+There is a significant minority of [[Christianity|Christians]] in Egypt, who make up between 5% and 10% of the population.<ref name="pewforum1"/><ref name="The world factbook/Egypt/"/><ref name="U.S.Dept of State/Egypt"/><ref name="FCO/Egypt/"/><ref name="LOOKLEX Encyclopedia/Egypt/Religions&Peoples"/><ref name="msn encarta/Egypt"/> Over 90% of Egyptian Christians belong to the native [[Coptic Orthodox Church of Alexandria]], an [[Oriental Orthodox]] Church.<ref name="U.S.Dept of State/Egypt">{{cite web|url=http://www.state.gov/r/pa/ei/bgn/5309.htm|title= Egypt from "U.S. Department of State/Bureau of Near Eastern Affairs"|date=September 30, 2008 |publisher= [[United States Department of State]]}}<!--90% of 80,335,036. --></ref><ref name="FCO/Egypt/">{{cite web|url=http://www.fco.gov.uk/en/about-the-fco/country-profiles/middle-east-north-africa/egypt|title=Egypt from "Foreign and Commonwealth Office"|date=August 15, 2008|publisher=[[Foreign and Commonwealth Office|Foreign and Commonwealth Office -UK Ministry of Foreign Affairs]]}}<!-- 90% of 76.5 million --></ref><ref>{{Cite book|url=http://books.google.com/?id=xrGL7o69KBIC&pg=PA145&lpg=PA145&dq=coptic+orthodox|title=Who are the Christians in the Middle East?|date=June 18, 2009|publisher=Betty Jane Bailey | isbn=9780802810205}}</ref> Other native Egyptian Christians are adherents of the [[Coptic Catholic Church]], the [[Evangelical Church of Egypt (Synod of the Nile)|Evangelical Church of Egypt]] and various other [[Protestantism|Protestant]] denominations. Non-native [[Christian]] communities are largely found in the urban regions of [[Cairo]] and [[Alexandria]].
+
+According to ambassador [[Akbar Ahmed]] and bishop [[John Bryson Chane]], Christian Copts are under severe pressure and siege, and usually live in fear for their lives and "Christian girls are being kidnapped by shadowy Muslim groups and lured into Muslim marriages, with the state looking the other way."
+<ref name="edition.cnn.com">{{cite web|author=Akbar Ahmed and John Bryson Chane|url=http://edition.cnn.com/2010/OPINION/12/21/ahmed.chane.christians.muslims/index.html |title=Christians senselessly tormented by extremists in Muslim world |publisher=Edition.cnn.com |date=2010-12-22 |accessdate=2011-02-01}}</ref> They face discrimination and marginalization on many levels.<ref name="abcnews.go.com">{{cite web|url=http://abcnews.go.com/International/christian-martyrs-victims-radical-islam/story?id=9976549&page=4 |title=Christianity's Modern-Day Martyrs: Victims of Radical Islam - Rising Islamic Extremism Is Putting Pressure on Christians in Muslim Nations |publisher=Abcnews.go.com |date=2010-03-01 |accessdate=2011-02-01}}</ref> In terms of religious freedom, the [[Pew Forum on Religion & Public Life]] ranks Egypt as the fifth worst country in the world, after [[Saudi Arabia]], [[Iran]], [[Uzbekistan]] and [[China]].<ref>{{cite web|url=http://www.ipsnews.net/news.asp?idnews=49738 |title=RELIGION: Few States Enjoy Freedom of Faith, Report Says - IPS |publisher=Ipsnews.net |date=2009-12-17 |accessdate=2011-02-01}}</ref><ref name="pewforum.org">{{cite web|author= |url=http://pewforum.org/docs/?DocID=491 |title=Global Restrictions on Religion - Pew Forum on Religion & Public Life |publisher=Pewforum.org |date=2009-12-17 |accessdate=2011-02-01}}</ref><ref name="ReferenceA">http://pewforum.org/newassets/images/reports/restrictions/restrictionsfullreport.pdf</ref> In addition, Egypt ranks among the 12 worst countries in the world in terms of religious violence against religious minorities and in terms of social hostilities against [[Christians]].<ref name="pewforum.org"/><ref name="ReferenceA"/> Furthermore, the [[United States Commission on International Religious Freedom]] has placed Egypt on its watch list for religious freedom that requires close monitoring due to the nature and extent of violations of religious freedom engaged in or tolerated by the government.<ref>{{cite web|url=http://www.uscirf.gov/index.php?option=com_content&task=view&id=1457&Itemid=1 |title=USCIRF Watch List - USCIRF |publisher=Uscirf.gov |date= |accessdate=2011-02-01}}</ref>
+
+[[Copt|Coptic Christians]] are minimally represented in law enforcement, state security and public office, and are being discriminated against in the workforce on the basis of their religion.<ref name="HRW"/><ref name="abcnews.go.com"/> The Coptic community, as well as several human rights activists and intellectuals, maintain that the number of Christians occupying Government posts is not proportional to the number of Copts in Egypt. They are also the victims of discriminatory religious laws, anti-Christian judges, and anti-Christian state police. Anti-Christian laws include laws governing repairing old churches or constructing new ones, which are usually impossible tasks, requiring presidential permission to build a new church, and a governor’s permission to renovate even the bathroom in an already-built church.<ref name="abcnews.go.com"/> Anti-Christian judges tend to "legislate from the bench". An example includes an Egyptian court's refusal to grant Muslim Egyptians who convert to Christianity identity cards that display their new religion.<ref name="edition.cnn.com"/><ref name="abcnews.go.com"/> On the other hand, converting to Islam does not even require going to court.<ref>{{cite web|url=http://www.aina.org/news/20090701003916.htm |title=The persecution of Coptic Christians continues |publisher=The Assyrian International News agency}}</ref> Copts are denied equal opportunities in recruitment and promotion. Very few are appointed to key positions in the government, and political parties almost never choose Coptic candidates for parliamentary positions. In addition, enrollment of Copts in police academies and military schools is heavily restricted. Along the same lines, very few Copts are granted positions as school teachers or university professors.<ref>{{cite web|url=http://www.arabwestreport.info/?q=node/18302 |title=Discrimination against copts |publisher=Arab West Report}}</ref>
+
+Moreover, Copts are usually on the receiving end of [[anti-Christian]] [[hate crime]]s, the number of which has been rising since the 1970s.<ref>{{cite web|url=http://www.museumstuff.com/learn/topics/Kosheh::sub::Second_Kosheh_Massacre |title=Kosheh: Second Kosheh Massacre |publisher=Museumstuff.com |date= |accessdate=2011-02-01}}</ref><ref name="news.bbc.co.uk">{{cite web|url=http://news.bbc.co.uk/2/hi/8445838.stm |title=Clashes in Egyptian town after Coptic killings |publisher=BBC News |date=2010-01-07 |accessdate=2011-02-01}}</ref> Since Mubarak took office in 1981, more than 1,500 violent attacks against Copts left thousands of Christians killed and injured.<ref>{{cite web|author=Magdi Khalil |url=http://www.meforum.org/2599/egypt-persecution-of-copts |title=How the Mubarak Regime Enables the Persecution of Egypt's Copts :: Middle East Forum |publisher=Meforum.org |date=2010-02-26 |accessdate=2011-02-01}}</ref><ref>{{cite web|url=http://www.elaph.com/Web/opinion/2010/3/541685.html |title=وضع الأقباط تحت حكم مبارك |publisher=Elaph.com |date= |accessdate=2011-02-01}}</ref> The violent anti-Christian attacks in [[Upper Egypt]] during the 1990s forced thousands of Copts to flee to larger cities in Egypt or to immigrate; a form of unrecognized [[ethnic cleansing]]. The last 10 years witnessed a dramatic increase in the scale of anti-Christian hate crimes, including a number of massacres such as the 2001 [[Kosheh Martyrs|Kosheh massacre]], the 2010 [[Nag Hammadi massacre]] and the 2011 [[2011 Alexandria bombing|Alexandria bombing]]. Copts also complain that the Egyptian government and the Egyptian judicial system are doing little to punish such attacks on the Coptic community, failing to prosecute the criminals, and thus leading to further [[Persecution of Copts|persecution of the Copts]].<ref name="news.bbc.co.uk"/><ref>{{cite web|url=http://www.theestimate.com/public/02112000.html |title=Political & Security Intelligence Analysis of the Islamic World and its Neighbours, Volume XII, Number III, 11 February 2000 |publisher=The Estimate |date= |accessdate=2011-02-01}}</ref><ref>{{cite web|last=Baker |first=Barbara G. |url=http://www.atour.com/news/international/20010514e.html |title=Egypt's Prosecutor Appeals El-Kosheh Murder Acquittals |publisher=Atour.com |date=2001-05-14 |accessdate=2011-02-01}}</ref> For instance, all the criminals responsible for the 2001 killing of 21 Copts in [[Kosheh]], most of whom were children and women, were set free by court order.<ref>{{cite web|url=http://www.christianitytoday.com/ct/2000/decemberweb-only/23.0a.html |title=Egyptian Court Releases All 89 El-Kosheh Defendants |publisher=Christianity Today |date= |accessdate=2011-02-01}}</ref><ref>{{cite web|url=http://www.metransparent.com/old/texts/elkosheh_violence.htm |title=Middle East Transparent, 14 June 2004 |publisher=Metransparent.com |date= |accessdate=2011-02-01}}</ref><br>
+Meanwhile, according to the independent Egyptian newspaper [[Al-Masry Al-Youm]], ''«(President Hosni) Mubarak calls on Coptic Pope to cut back religious rhetoric»''.<ref>{{cite web|url=http://almasryalyoum.com/en/news/mubarak-calls-coptic-pope-cut-back-religious-rhetoric |title=Mubarak calls on Coptic Pope to cut back religious rhetoric |publisher=Al-Masry Al-Youm |date=2010-12-22 |accessdate=2011-02-01}}</ref>
+
+;Religious minorities
+The Egyptian religious landscape has been marred by a history of religious extremism, witnessing a 2006 judgement of Egypt's [[Egyptian Judicial System|Supreme Administrative Court]], which made a clear legal distinction between "recognized religions" (i.e., Islam, Christianity, and Judaism) and all other religious beliefs.<ref name="International Religious Freedom Report 2008"/> This ruling effectively delegitimizes and forbids practice of all but the three globally largest sized [[Abrahamic religion]]s.<ref name="eipr2">{{cite web| title = Government Must Find Solution for Baha'i Egyptians | date = 2006-12-16 | accessdate = 2006-12-16 | author = Egyptian Initiative for Personal Rights | publisher = eipr.org | url = http://www.eipr.org/en/press/06/1612.htm | archiveurl = http://web.archive.org/web/20070209221817/http://www.eipr.org/en/press/06/1612.htm | archivedate = 2007-02-09}}</ref> This judgment had made it necessary for non-recognised religious communities to either commit perjury or be denied Egyptian identification cards (see [[Egyptian identification card controversy]]), until a 2008 Cairo court case ruled that unrecognized religious minorities may obtain birth certificates and identification documents, so long as they omit their religion on court documents.<ref name="reuters"/>
+
+There is also a small, but nonetheless historically significant, non-immigrant [[Bahá'í Faith|Bahá'í]] population of around 2000,<ref name="International Religious Freedom Report 2008">{{cite web|url= http://www.state.gov/g/drl/rls/irf/2008/108481.htm|title= Egypt, International Religious Freedom Report 2008|date=September 19, 2008|publisher=[[Bureau of Democracy, Human Rights, and Labor]]}}</ref> who have intrinsically been banned from practising [[Baha'i]]. There's an even smaller community of Jews of about 200,<ref name="International Religious Freedom Report 2008"/><ref>Jewish Community Council (JCC) of Cairo. [http://web.archive.org/web/20091028204254/http://geocities.com/RainForest/Vines/5855/bassa20.htm Bassatine News]. 2006.</ref> then a tiny number of Egyptians who identify as [[atheist]] and [[agnostic]].
+
+==Culture==
+{{Main|Culture of Egypt}}
+{{Life in Egypt}}
+[[File:LibraryAlexandria1-Omar.jpg|thumb|left|[[Bibliotheca Alexandrina]] is a commemoration of the ancient [[Library of Alexandria]] in Egypt's second largest city.]]
+[[Culture of Egypt|Egyptian culture]] has six thousand years of [[Recorded History|recorded history]]. [[Ancient Egypt]] was among the earliest [[civilization]]s and for millennia, Egypt maintained a strikingly complex and stable culture that influenced later cultures of Europe, the Middle East and other African countries. After the Pharaonic era, Egypt itself came under the influence of [[Hellenistic civilization|Hellenism]], Christianity, and Islamic culture. Today, many aspects of Egypt's ancient culture exist in interaction with newer elements, including the influence of modern [[Western culture]], itself with roots in ancient Egypt.
+
+Egypt's capital city, Cairo, is Africa's largest city and has been renowned for centuries as a center of learning, culture and commerce. Egypt has the highest number of [[List of Nobel laureates|Nobel Laureates]] in Africa and the Arab World. Some Egyptian born politicians were or are at the helm of major international organizations like [[Boutros Boutros-Ghali]] of the [[United Nations]] and [[Mohamed ElBaradei]] of the [[IAEA]].
+
+Egypt is a recognized cultural trend-setter of the Arabic-speaking world, and contemporary Arab culture is heavily influenced by Egyptian literature, music, film and television. Egypt gained a regional leadership role during the 1950s and 1960s, which gave a further enduring boost to the standing of Egyptian culture in the Arab world.<ref>{{cite web|url=http://www.ipsnews.net/news.asp?idnews=49061 |title=MIDEAST: Egypt Makes Cultural Clout Count (IPS, Oct. 29, 2009) |publisher=Ipsnews.net |date=2009-10-29 |accessdate=2010-08-25}}</ref>
+
+===Identity===
+{{Main|Egyptians#Identity}}
+[[File:Nahdet Misr.jpg|thumb|upright|left|[[Mahmoud Mokhtar]]'s ''Egypt's Renaissance'' 1919–1928, [[Cairo University]]]]
+The Nile Valley was home to one of the [[Ancient Egypt|oldest cultures in the world]], spanning three thousand years of continuous history. When Egypt fell under a [[History of Egypt|series of foreign occupations]] after 343 BC, each left an indelible mark on the country's [[Culture of Egypt|cultural landscape]]. Egyptian identity evolved in the span of this long period of occupation to accommodate, in principle, two new religions, [[Islam]] and [[Christianity]]; and a new language, [[Arabic language|Arabic]], and its spoken descendant, [[Egyptian Arabic]].<ref>{{cite web|url=http://www.youregypt.com/issue3/topic.htm|title=The Egyptian Identity: Pharaohs, Moslems, Arabs, Africans, Middle Easterners or Mediterranean People?|author=Raymon Kondos|date=February 15|accessdate=2008-08-21}}</ref>
+
+After two thousand years of occupation, three ideologies competed for the attention of newly independent Egyptians: ethno-territorial [[Egyptian nationalism]], secular [[Arab nationalism]]/[[pan-Arabism]], and [[Islamism]]. Egyptian nationalism predates its Arab counterpart by many decades, having roots in the 19th century and becoming the dominant mode of expression of Egyptian anti-colonial activists and intellectuals until the early 20th century.<ref>Jankowski, James. "Egypt and Early Arab Nationalism" in Rashid Khalidi, ed. ''The Origins of Arab Nationalism''. New York: Columbia University Press, 1990, pp. 244–45</ref> Arab nationalism reached a peak under [[Gamal Abdel Nasser|Nasser]] but subsided under [[Anwar El Sadat|Sadat]]; meanwhile, the ideology espoused by [[Islamism|Islamists]] such as the [[Muslim Brotherhood]] is present in small segments of the lower-middle strata of Egyptian society.<ref>Dawisha, Adeed. ''Arab Nationalism in the Twentieth Century''. Princeton: Princeton University Press. 2003, pp. 264–65, 267</ref>
+
+The work of early 19th-century scholar Rifa'a et-Tahtawi led to the Egyptian Renaissance, marking the transition from [[History of Ottoman Egypt|Medieval]] to [[History of Modern Egypt|Early Modern]] Egypt. His work renewed interest in [[Ancient Egypt|Egyptian antiquity]] and exposed Egyptian society to [[Age of Enlightenment|Enlightenment]] principles. Tahtawi co-founded with education reformer [[Ali Mubarak]] a native [[Egyptology]] school that looked for inspiration to medieval Egyptian scholars, such as [[Suyuti]] and [[Maqrizi]], who themselves studied the [[History of ancient Egypt|history]], [[Egyptian language|language]] and [[Ancient Egyptian architecture|antiquities]] of Egypt.<ref>El-Daly, ''op cit''., p. 29</ref>
+
+Egypt's renaissance peaked in the late 19th and early 20th centuries through the work of people like [[Muhammad Abduh]], [[Ahmed Lutfi el-Sayed]], [[Muhammad Loutfi Goumah]], [[Tawfiq el-Hakim]], [[Louis Awad]], [[Qasim Amin]], [[Salama Moussa]], [[Taha Hussein]] and [[Mahmoud Mokhtar]]. They forged a [[liberalism|liberal]] path for Egypt expressed as a commitment to personal freedom, [[secularism]] and faith in science to bring progress.<ref>Jankowski, ''op cit''., p. 130</ref>
+
+===Art and architecture===
+[[File:Maler der Grabkammer des Ramose 002.jpg|thumb|left|[[Eighteenth dynasty of Egypt|Eighteenth dynasty]] painting from the tomb of [[Thebes, Egypt|Theban]] governor [[Ramose]] in [[Deir el-Madinah]]]]
+The Egyptians were one of the first major civilizations to codify design elements in art and architecture. The wall paintings done in the service of the [[Pharaoh]]s followed a rigid code of visual rules and meanings. Egyptian civilization is renowned for its colossal pyramids, [[colonnade]]s and monumental tombs. Well-known examples are the [[Pyramid of Djoser]] designed by ancient architect and engineer [[Imhotep]], the [[Sphinx]], and the temple of [[Abu Simbel]]. Modern and contemporary Egyptian art can be as diverse as any works in the world art scene, from the vernacular architecture of [[Hassan Fathy]] and [[Ramses Wissa Wassef]], to [[Mahmoud Mokhtar]]'s famous sculptures, to the distinctive [[Coptic art|Coptic iconography]] of [[Isaac Fanous]].
+
+The [[Cairo Opera House]] serves as the main performing arts venue in the Egyptian capital. Egypt's media and arts industry has flourished since the late 19th century, today with more than thirty satellite channels and over one hundred motion pictures produced each year. Cairo has long been known as the "Hollywood of the Middle East;" its annual film festival, the [[Cairo International Film Festival]], has been rated as one of 11 festivals with a top class rating worldwide by the International Federation of Film Producers' Associations.<ref>[http://www.ukhotmovies.com/film-festivals/cairo-film-festival/information.html Cairo Film Festival information].</ref> To bolster its media industry further, especially with the keen competition from the [[Persian Gulf Arab States]] and [[Lebanon]], a large media city was built. Some Egyptian-born actors, like [[Omar Sharif]], have achieved worldwide fame.
+
+===Media===
+{{Main|Media of Egypt}}
+Egyptian [[Mass media|media]] are highly influential throughout the [[Arab World]], attributed to large audiences and increasing freedom from government control.<ref name=bbc>[http://news.bbc.co.uk/1/hi/world/middle_east/country_profiles/737642.stm#media Country profiles: Egypt] ''BBC''</ref><ref name=tbs>[http://www.tbsjournal.com/Archives/Fall05/Levinson.html "Plus ca Change: The Role of the Media in Egypt's First Contested Presidential Elections"], ''TBS''</ref> Freedom of the media is guaranteed in the constitution; however, many laws still restrict this right.<ref name=bbc/><ref name=fh>{{cite web|url=http://www.freedomhouse.org/template.cfm?page=251&year=2007 |title=Freedom House 2007 report |publisher=Freedomhouse.org |date=2004-05-10 |accessdate=2010-08-25}}</ref> After the [[Egyptian presidential election, 2005|Egyptian presidential election of 2005]], Ahmed Selim, office director for Information Minister Anas al-Fiqi, declared an era of a "free, transparent and independent Egyptian media."<ref name=tbs/>
+
+Today, the Egyptian media is experiencing greater freedom. Several Egyptian [[Talk shows]], like ''90 Minutes'' and ''Al- Ashera Masa'an'', which air on private channels, and even state television programs such as ''El-beit beitak'' criticize the Government, which was previously banned.
+
+===Literature===
+[[Literature]] is an important cultural element in the life of Egypt. Egyptian novelists and poets were among the first to experiment with modern styles of [[Arabic literature]], and the forms they developed have been widely imitated throughout the Middle East.<ref>{{cite web|url=http://www.sis.gov.eg/En/EgyptOnline/Culture/000001/0203000000000000000567.htm|title=Global influence of Egyptian culture|date=February 4, 2006|publisher=Egypt State Information Service|accessdate=2008-08-21}}</ref> The first modern Egyptian novel ''[[Zaynab (novel)|Zaynab]]'' by [[Muhammad Husayn Haykal]] was published in 1913 in the [[Egyptian Arabic|Egyptian vernacular]].<ref>Vatikiotis, ''op cit''.</ref> Egyptian novelist [[Naguib Mahfouz]] was the first Arabic-language writer to win the [[Nobel Prize in Literature]]. Egyptian women writers include [[Nawal El Saadawi]], well known for her [[feminism|feminist]] [[activism]], and [[Alifa Rifaat]] who also writes about women and tradition.
+
+Vernacular poetry is perhaps the most popular [[literary genre]] among Egyptians, represented by the works of [[Ahmed Fouad Negm]] (Fagumi), [[Salah Jaheen]] and [[Abdel Rahman el-Abnudi]]. In their belief, boats were used by the dead to accompany the sun around the world, as Heaven was referred to as “Upper Waters”.  In Egyptian mythology, every night the serpentine god Apophis would attack the Sun Boat as it brought the sun (and as such order )back to the Kingdom in the morning.  It is referred to as the “Boat of Millions” as all the gods and souls of the blessed dead may at one point or another be needed to defend or operate it.
+
+===Music===
+{{Main|Music of Egypt}}
+[[File:Egyptian musicians.jpg|thumb|right|upright|Upper Egyptian folk musicians from [[Kom Ombo]].]]
+[[Music of Egypt|Egyptian music]] is a rich mixture of indigenous, Mediterranean, African and Western elements. In [[Ancient Egypt|antiquity]], Egyptians were playing harps and flutes, including two indigenous instruments: the [[ney]] and the [[oud]]. [[Percussion]] and vocal music also became an important part of the local music tradition ever since. Contemporary Egyptian music traces its beginnings to the creative work of people such as Abdu-l Hamuli, Almaz and Mahmud Osman, who influenced the later work of Egyptian music giants such as [[Sayed Darwish]], [[Umm Kulthum]], [[Mohammed Abdel Wahab]] and [[Abdel Halim Hafez]]. From the 1970s onwards, Egyptian pop music has become increasingly important in Egyptian culture, while Egyptian folk music continues to be played during weddings and other festivities. Some of the most prominent contemporary Egyptian pop singers include [[Amr Diab]] and [[Mohamed Mounir]].
+
+===Festivals===
+Egypt is famous for its many festivals and religious carnivals, also known as ''mulid''. They are usually associated with a particular Coptic or Sufi saint, but are often celebrated by all Egyptians irrespective of creed or religion. [[Ramadan]] has a special flavor in Egypt, celebrated with sounds, lights (local lanterns known as ''fawanees'') and much flare that many Muslim tourists from the region flock to Egypt during Ramadan to witness the spectacle. The ancient spring festival of [[Sham El Nessim|Sham en Nisim]] ([[Coptic language|Coptic]]: {{Coptic|Ϭⲱⲙ‘ⲛⲛⲓⲥⲓⲙ}} ''shom en nisim'') has been celebrated by Egyptians for thousands of years, typically between the [[Egyptian calendar|Egyptian months]] of [[Paremoude]] (April) and [[Pashons]] (May), following [[Easter]] Sunday.
+
+Egypt is one of the boldest countries in the middle east in the music industry. The next generation of the Egyptian music is considered to be the rise, as the music was disrupted by some foreign influences, bad admixing, and abused oriental styles.
+The new arising talents starting from the late 1990s are taking over the rein now as they play different genres of many cultures.
+Rock And Metal music are prevailing widely in Egypt now,as much as the oriental jazz and folk music are becoming well-known now to the Egyptian and non-Egyptian fans
+
+===Sports===
+[[File:Cairo International Stadium.jpg|thumb|[[Cairo International Stadium]]]]
+[[Football (soccer)|Football]] is the Popular [[National Sport]] of Egypt. Egyptian Football clubs [[Al-Ahly|El Ahly]], [[El Zamalek]], [[Ismaily]], [[El-Ittihad El-Iskandary]] and [[El Masry]] are the most popular teams and enjoy the reputation of long-time regional champions. The great rivalries keep the streets of Egypt energized as people fill the streets when their favorite team wins. The [[Cairo Derby]] is one of the fiercest derbies in Africa and the world, the BBC even picked it as one of the toughest 7 derbies in the world.<ref>{{Cite news|url=http://news.bbc.co.uk/sportacademy/hi/sa/football/features/newsid_2299000/2299305.stm |title=BBC Sport Academy &#124; Football &#124; Features &#124; Al-Ahly v Zamalek |publisher=BBC News |date= 2002-10-05|accessdate=2010-08-25}}</ref>  Egypt is rich in soccer history as soccer has been around for over 100 years. The [[Egypt national football team|Egyptian national football team]] is ranked among the best in the world according to the [[FIFA World Rankings]]. The country is home to many African championships such as the [[Africa Cup of Nations]]. While, [[Egypt national football team|Egypt's national team]] has not qualified for the [[FIFA World Cup]] since 1990, the Egyptian team won the Africa Cup Of Nations an unprecedented seven times, including two times in a row in 1957 and 1959 and an unprecedented three times in a row in 2006, 2008, and 2010 setting a world record.
+
+[[Squash (sport)|Squash]] and [[tennis]] are other popular sports in Egypt. The Egyptian squash team has been known for its fierce competition in international championships since the 1930s. [[Amr Shabana]] is Egypt's best player and the winner of the world open three times and the best player of 2006.
+
+The Egyptian Handball team also holds another record; throughout the 34 times the [[African Handball Nations Championship]] was held, Egypt won first place five times (including 2008), five times second place, four times third place, and came in fourth place twice. The team won 6th and 7th places in 1995, 1997 at the World Men's Handball Championship, and twice won 6th place at the 1996 and 2000 Olympics.
+
+In 2007, [[Omar Samra]] joined Ben Stephens (England), Victoria James (Wales) and Greg Maud (South Africa) in putting together an expedition to climb Mount Everest from its South side. The Everest expedition began on 25 March 2007 and lasted for just over 9 weeks. On the 17th of May at precisely 9:49 am Nepal time, Omar became the first and youngest Egyptian to climb 8,850m Mount Everest. He also became the first Egyptian to climb Everest from its South face, the same route taken by Sir Edmund Hilary and Sherpa Tenzing in 1953.
+
+[[Egypt at the Olympics|Egypt has taken part]] in the [[Summer Olympics]] since 1912.
+
+==See also==
+{{Portal box|Egypt|Africa}}
+{{Main|Outline of Egypt|Index of Egypt-related articles}}
+* [[List of ancient Egypt topics]]
+* [[List of international rankings]]
+* [[List of modern Egypt-related topics]]
+{{-}}
+{{Columns |width=210px
+|col1 =
+* [[2011 Egyptian protests]]
+* [[Canal of the Pharaohs]]
+* [[Communications in Egypt]]
+* [[Ancient Egyptian religion]]
+* [[Flag of Egypt]]
+|col2 =
+* [[Armenians in Egypt]]
+* [[Greeks in Egypt]]
+* [[Italians in Egypt]]
+* [[History of the Jews in Egypt]]
+|col3 =
+* [[Holy Family in Egypt]]
+* [[Education in Egypt]]
+* [[Industry in Egypt]]
+* [[Languages of Egypt]]
+* [[Terrorism in Egypt]]
+|col4 =
+* [[Egyptian Arabic]] (Masri dialect)
+* [[Public holidays in Egypt]]
+* [[Red Sea Riviera]]
+* [[Transport in Egypt]]
+** [[Rail transport in Egypt]]
+}}
+'''Lists:'''
+: ''Main list: [[List of basic Egypt topics]]''
+* [[List of African writers (by country)#Egypt|List of writers from Egypt]]
+* [[List of Egyptian companies]]
+* [[List of Egypt-related topics]]
+* [[List of Egyptians]]
+* [[List of Egyptian products & manufacturers]]
+* [[List of Egyptian universities]]
+* [[List of writers about Egypt till the 19th century]]
+* [[Rulers and heads of state of Egypt|List of Rulers and heads of state of Egypt]]
+* [[Vice President of Egypt]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+*{{CIA World Factbook}}
+*{{StateDept}}
+*{{Cite book|last=Abu-Lughod |first=Janet L. |title=Before European Hegemony The World System A.D. 1250-1350|location=New York |publisher=Oxford UP|year=1991|page=243}}
+
+==External links==
+{{Sister project links|Egypt}}
+{{InterWiki|Egyptian Arabic language|code=arz}}
+;Government
+* [http://www.egypt.gov.eg/english/ Egypt's Government Services Portal] (Arabic, English)
+* [http://www.eip.gov.eg/ Egypt Information Portal] (Arabic, English)
+* [http://www.idsc.gov.eg/ Egypt Information and Decision Support Center] (Arabic, English)
+* [http://www.sis.gov.eg/ Egypt State Information Services] (Arabic, English, French)
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-e/egypt.html Chief of State and Cabinet Members]
+* [http://www.egypt.travel/ Egyptian Tourist Authority]
+;General
+* [http://news.bbc.co.uk/2/hi/world/middle_east/country_profiles/737642.stm Country Profile] from the [[BBC News]]
+* {{CIA World Factbook link|eg|Egypt}}
+* [http://ucblibraries.colorado.edu/govpubs/for/egypt.htm Egypt] at ''UCB Libraries GovPubs''
+* {{dmoz|Regional/Africa/Egypt}}
+* {{Wikiatlas|Egypt}}
+* [http://www.lib.utexas.edu/maps/egypt.html Egypt Maps - Perry-Castañeda Map Collection]
+* {{Wikitravel}}
+;Other
+* Leonard William King, ''History of Egypt'', [[Chaldæa]], [[Syria]], [[Babylonia]], and [[Assyria]] in the Light of Recent Discovery'', [http://www.gutenberg.org/etext/17321 Project Gutenberg].
+* [http://www.ibtada.com/ibtada.php?cur_page=main&sub=submain&mainpage=ajaib_ghar&page=qadeem_mesar&pgno=1 Egyptian History (urdu)]
+* [http://fax.libs.uga.edu/DS49xB8x1920/ By Nile and Tigris], a narrative of journeys in Egypt and Mesopotamia on behalf of the British museum between the years 1886 and 1913, by Sir [[E. A. Wallis Budge]], 1920 ''(a searchable facsimile at the University of Georgia Libraries; [[DjVu]] &[http://fax.libs.uga.edu/DS49xB8x1920/1f/ layered PDF] format)''
+* [http://arthistory.about.com/od/from_exhibitions/ig/Napoleon-on-the-Nile/Joseph--1874.htm Napoleon on the Nile: Soldiers, Artists, and the Rediscovery of Egypt].
+
+{{Template group
+|title = Geographic locale
+|list  =
+{{Egypt topics}}
+{{Governorates of Egypt}}
+{{Countries of North Africa}}
+{{Countries and territories of the Middle East}}
+{{Countries and territories bordering the Mediterranean Sea}}
+{{Countries bordering the Red Sea}}
+}}
+{{Template group
+|title = International membership
+|list  =
+{{Arab League}}
+{{Non-Aligned Movement}}
+{{Afro-Asiatic-speaking nations}}
+{{African Union (AU)}}
+{{D8 nations}}
+{{G15 nations}}
+{{Community of Sahel-Saharan States}}
+{{Organization of the Islamic Conference (OIC)|state=collapsed}}
+{{La Francophonie|state=collapsed}}
+}}
+{{Template group
+|title = [[Languages of Egypt|Languages]]
+|list  = [[Modern Standard Arabic|Arabic]] <small>([[official language|official]])</small> - [[English language|English]] <small>(main [[foreign language|foreign]])</small> - [[French language|French]], [[Italian language|Italian]] & [[German Language|German]] <small>(other foreign)</small><br /><small>''Native [[Spoken language|spoken]] [[Variety (linguistics)|varieties]]:'' [[Egyptian Arabic]] (68%) - [[Sa'idi Arabic|Sa'idi]] (29%) - [[Eastern Egyptian Bedawi|Egyptian Bedouin]](1.6%) - [[Sudanese Arabic|Sudanese]] (0.6%) - [[Nobiin language|Nobiin]] (0.3%) - [[Domari language|Domari]] (0.3%) - [[Bedawi]] (0.1%) - [[Siwi language|Siwi]] - other<br />''Main immigrant languages:'' [[Greek language|Greek]] - [[Armenian language|Armenian]] - [[Italian language|Italian]]
+{{Semitic-speaking nations}}
+}}
+[[Category:Egypt| ]]
+[[Category:African countries]]
+[[Category:African Union member states]]
+[[Category:Arab League member states]]
+[[Category:Arab republics]]
+[[Category:Arabic-speaking countries]]
+[[Category:Articles with inconsistent citation formats]]
+[[Category:Bicontinental countries]]
+[[Category:Countries bordering the Red Sea]]
+[[Category:Countries of the Mediterranean Sea]]
+[[Category:Developing 8 Countries member states]]
+[[Category:Former monarchies]]
+[[Category:G15 nations]]
+[[Category:Member states of La Francophonie]]
+[[Category:Member states of the Union for the Mediterranean]]
+[[Category:Middle Eastern countries]]
+[[Category:North Africa]]
+[[Category:Organisation of the Islamic Conference members]]
+[[Category:States and territories established in 1922]]
+[[Category:Western Asia]]
+
+[[ace:Meusé]]
+[[af:Egipte]]
+[[ak:Egypt]]
+[[als:Ägypten]]
+[[am:ግብፅ]]
+[[ang:Ægypt]]
+[[ab:Мысры]]
+[[ar:مصر]]
+[[an:Echipto]]
+[[arc:ܡܨܪܝܢ]]
+[[frp:Èg·ipte]]
+[[ast:Exiptu]]
+[[az:Misir]]
+[[bm:Misra]]
+[[bjn:Mesir]]
+[[bn:মিশর]]
+[[zh-min-nan:Ai-ki̍p]]
+[[ba:Мысыр]]
+[[be:Егіпет]]
+[[be-x-old:Эгіпет]]
+[[bcl:Ehipto]]
+[[bar:Ägyptn]]
+[[bo:ཨའི་ཅི།]]
+[[bs:Egipat]]
+[[br:Egipt]]
+[[bg:Египет]]
+[[ca:Egipte]]
+[[ceb:Ehipto]]
+[[cs:Egypt]]
+[[cy:Yr Aifft]]
+[[da:Egypten]]
+[[de:Ägypten]]
+[[dv:މިޞްރު]]
+[[nv:Ííjip]]
+[[dsb:Egyptojska]]
+[[et:Egiptus]]
+[[el:Αίγυπτος]]
+[[es:Egipto]]
+[[eo:Egiptujo]]
+[[ext:Egitu]]
+[[eu:Egipto]]
+[[fa:مصر]]
+[[hif:Egypt]]
+[[fo:Egyptaland]]
+[[fr:Égypte]]
+[[fy:Egypte]]
+[[fur:Egjit]]
+[[ga:An Éigipt]]
+[[gv:Yn Egypt]]
+[[gd:An Èipheit]]
+[[gl:Exipto - مصر]]
+[[gan:埃及]]
+[[hak:Âi-khi̍p]]
+[[xal:Иҗибдин Араб Орн]]
+[[ko:이집트]]
+[[ha:Misra]]
+[[haw:‘Aikupika]]
+[[hy:Եգիպտոս]]
+[[hi:मिस्र]]
+[[hsb:Egyptowska]]
+[[hr:Egipat]]
+[[io:Egiptia]]
+[[ilo:Ehipto]]
+[[bpy:মিশর]]
+[[id:Mesir]]
+[[ia:Egypto]]
+[[ie:Egypt]]
+[[os:Мысыр]]
+[[is:Egyptaland]]
+[[it:Egitto]]
+[[he:מצרים]]
+[[jv:Mesir]]
+[[kn:ಈಜಿಪ್ಟ್]]
+[[pam:Ejiptu]]
+[[ka:ეგვიპტე]]
+[[ks:مِسر]]
+[[kk:Мысыр]]
+[[kw:Ejyp]]
+[[rw:Misiri]]
+[[sw:Misri]]
+[[kv:Египет Араб Республика]]
+[[kg:Misiri]]
+[[ht:Ejip]]
+[[ku:Misir]]
+[[lad:Ayifto]]
+[[lbe:Мисри]]
+[[la:Aegyptus]]
+[[lv:Ēģipte]]
+[[lb:Egypten]]
+[[lt:Egiptas]]
+[[lij:Egitto]]
+[[li:Egypte]]
+[[ln:Ejipte]]
+[[jbo:misrygu'e]]
+[[lmo:Egit]]
+[[hu:Egyiptom]]
+[[mk:Египет]]
+[[mg:Ejipta]]
+[[ml:ഈജിപ്റ്റ്‌]]
+[[mt:Eġittu]]
+[[mr:इजिप्त]]
+[[arz:مصر]]
+[[mzn:مصر]]
+[[ms:Mesir]]
+[[mdf:Египет]]
+[[mn:Египет]]
+[[nah:Egipto]]
+[[na:Egypt]]
+[[nl:Egypte (land)]]
+[[nds-nl:Egypte (laand)]]
+[[ne:इजिप्ट]]
+[[new:मिस्र]]
+[[ja:エジプト]]
+[[nap:Naggitto]]
+[[ce:Мисар]]
+[[pih:Ejiipt]]
+[[no:Egypt]]
+[[nn:Egypt]]
+[[nrm:Êgypte]]
+[[nov:Egiptia]]
+[[oc:Egipte]]
+[[uz:Misr]]
+[[pa:ਮਿਸਰ]]
+[[pnb:مصر]]
+[[pap:Egypto]]
+[[ps:مصر]]
+[[km:ប្រទេសអេហ្ស៊ីប]]
+[[pms:Egit]]
+[[tpi:Ijip]]
+[[nds:Ägypten]]
+[[pl:Egipt]]
+[[pnt:Αίγυπτος]]
+[[pt:Egito]]
+[[crh:Mısır]]
+[[ro:Egipt]]
+[[qu:Ihiptu]]
+[[ru:Египет]]
+[[rue:Еґіпет]]
+[[sah:Эгипет]]
+[[se:Egypta]]
+[[sm:Aikupito]]
+[[sa:ईजिप्ट]]
+[[sg:Kâmitâ]]
+[[sc:Egittu]]
+[[sco:Egyp]]
+[[stq:Ägypten]]
+[[sq:Egjipti]]
+[[scn:Eggittu]]
+[[simple:Egypt]]
+[[ss:IGibhithe]]
+[[sk:Egypt]]
+[[cu:Єгѷптъ]]
+[[sl:Egipt]]
+[[szl:Egipt]]
+[[so:Masar]]
+[[sr:Египат]]
+[[sh:Egipat]]
+[[fi:Egypti]]
+[[sv:Egypten]]
+[[tl:Ehipto]]
+[[ta:எகிப்து]]
+[[kab:Maṣer]]
+[[tt:Мисыр]]
+[[te:ఈజిప్టు]]
+[[tet:Ejitu]]
+[[th:ประเทศอียิปต์]]
+[[tg:Миср]]
+[[tr:Mısır]]
+[[tk:Müsür]]
+[[uk:Єгипет]]
+[[ur:مصر]]
+[[ug:مىسىر]]
+[[vec:Egito]]
+[[vi:Ai Cập]]
+[[vo:Lägüptän]]
+[[wa:Edjipe]]
+[[zh-classical:埃及]]
+[[vls:Egypte]]
+[[war:Ehipto]]
+[[wo:Isipt]]
+[[wuu:埃及]]
+[[ts:Egypt]]
+[[yi:עגיפטן]]
+[[yo:Ẹ́gíptì]]
+[[zh-yue:埃及]]
+[[diq:Mısır]]
+[[bat-smg:Egėpts]]
+[[zh:埃及]]

@@ -1,0 +1,4 @@
+TopicTagHeap(0,unimportant):partha dhoni captain data architect keeper wicket 
+TopicTagHeap(0,important):data dhoni architect keeper wicket partha captain 
+TopicTagHeap(1,unimportant):captain dhoni partha keeper wicket data architect 
+TopicTagHeap(1,important):keeper wicket dhoni data architect captain partha 

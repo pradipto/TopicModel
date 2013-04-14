@@ -1,0 +1,7 @@
+likelihood = -313236.61998110  : converged =        inf  num_em_steps =  0 (out of  20)
+likelihood = -195181.05967412  : converged =    0.37689  num_em_steps =  1 (out of  20)
+likelihood = -180439.98490163  : converged =    0.07553  num_em_steps =  2 (out of  20)
+likelihood = -178665.66809876  : converged =    0.00983  num_em_steps =  3 (out of  20)
+likelihood = -178549.91851938  : converged =    0.00065  num_em_steps =  4 (out of  20)
+likelihood = -178500.65729618  : converged =    0.00028  num_em_steps =  5 (out of  20)
+likelihood = -178500.58786149  : converged =    0.00000  num_em_steps =  6 (out of  20)

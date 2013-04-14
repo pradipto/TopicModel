@@ -1,0 +1,13 @@
+- Don't give out your real name and other particulars unless absolutely necessary. Use fake information instead. 
+- Register up to 5 or more different email addresses. Try to rotate your forum/website registration between these email addresses. 
+- Avoid registering to too many newsletters. Though they're fun to read, often the company also keeps your email addresses for certain purposes, some more sinister than others. And the user has no control and no say should said company decide to sell off your information to another company. 
+- Use Anti-spyware programs like Adaware, Spybot Search and Destroy, AVG Anti-spyware, CWShredder, Bazooka, SpywareBlaster, etc, 
+- Make sure you have a good anti-virus program or if you can't afford a commercial one, at least get a free program like AVG. And make sure your anti-virus program is up-to-date and scan your computer constantly.
+- Get a hardware firewall. Software firewalls like Zone Alarm are so-so and not always the best. 
+- Stay away from many pornography and illegal sites. Often, such sites require you to download a dialer or some other form of executable program(a ".exe") which often installs a trojan or some other virus that gathers your confidential information and delivers it back to the hacker/company.
+- Exercise caution in trusting your friends, your employee/co-workers with all your personal details. It is all too easy for someone to masquerade as another employee and "convince" them to divulge their and everyone elses' personal information. Play it safe and don't trust them with every detail, instead! 
+- Use multiple passwords instead of relying on one password for all sites and forums!
+- Use a screensaver and find out how to enable the password protect feature, so your coworker or some other person can't snoop in on your personal information. 
+
+
+But of course, there's way more like keyloggers(which record your typing strokes from the keyboard) and many other various illegal programs which can steal your information and even compromise part of your life!

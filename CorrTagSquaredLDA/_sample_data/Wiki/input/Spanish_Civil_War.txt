@@ -1,0 +1,886 @@
+{{pp-move-indef}}
+{{for|the Spanish Civil War of 1820-1823|Trienio Liberal}}
+{{Infobox military conflict
+|conflict    = Spanish Civil War
+|date        = 17 July 1936 &nbsp;– 1 April 1939
+|place       = [[Iberian Peninsula|Continental Spain]], [[Spanish Morocco]], [[Spanish Sahara]], [[Canary Islands]], [[Balearic Islands]], [[Spanish Guinea]], [[Mediterranean]], [[North Sea]]
+|image       = [[File:The El Campesino directing Republican soldiers at Villanueva de la Canada.jpg|300px]]
+|caption     = Republican troops at [[Villanueva de la Cañada]]
+|result      = Nationalist victory; dissolution of the Second Spanish Republic, beginning of [[Spanish State|Franco's dictatorship]].
+|combatant1  = {{flagicon image|Flag of the Second Spanish Republic.svg}} [[Second Spanish Republic|Spanish Republic]] (''Bando republicano'')
+*{{flagicon image|Bandera_CNT-AIT.svg}} [[Confederación Nacional del Trabajo|CNT]]/[[Federación Anarquista Ibérica|FAI]]
+*{{flagicon image|Red flag.svg}} [[Unión General de Trabajadores|UGT]], [[POUM]], [[Communist Party of Spain (main)|PCE]]
+*{{flagicon image|Flag of the International Brigades.svg}} [[International Brigades]]
+*{{Flag icon|Soviet Union|1923}} [[Soviet Union|Soviet volunteers]]
+|combatant2  = {{flagicon image|Bandera del bando nacional 1936-1938.svg}} [[Spanish State|Spanish ''Nacionales'']] (''Bando nacional'')
+*{{flagicon image|Bandera FE JONS.svg}} [[Falange]]
+*{{Flag icon|Nazi Germany}} [[Condor Legion|Nazi Germany ]]
+*{{flagicon image|Bandera Tradicionalista.png}} [[Requetés]]
+*{{flagicon image|Flag of Italy (1861-1946).svg}} [[Corpo Truppe Volontarie|Italian CTV]]
+
+*{{flagicon image|Banner of the Blueshirts.svg}} [[Irish Brigade (Spanish Civil War)|Irish Brigade]]
+*{{Flag icon|Portugal}} [[Estado Novo (Portugal)|Portugal]]
+*{{flagicon image|Merchant_flag_of_Spanish_Morocco.svg}} ''[[Regulares|Muslim troops from Spanish Morocco - Regulares]]''
+*[[Foreign involvement in the Spanish Civil War|Foreign volunteers]]
+|commander1  = {{flagicon image|Flag of the Second Spanish Republic.svg}} [[Manuel Azaña]]<br /> {{flagicon image|Flag of the Second Spanish Republic.svg}} [[Julián Besteiro]]<br /> {{flagicon image|Flag of the Second Spanish Republic.svg}} [[Francisco Largo Caballero]]<br /> {{Flag icon|Spain|1931}} [[Juan Negrín]]<br /> {{Flag icon|Spain|1931}} [[Indalecio Prieto]]<br /> {{flagicon image|Flag of the Second Spanish Republic.svg}} [[Vicente Rojo Lluch]]<br /> {{flagicon image|Flag of the Second Spanish Republic.svg}} [[José Miaja]]<br /> {{flagicon image|Flag of the Second Spanish Republic.svg}} [[Juan Modesto]]<br /> {{flagicon image|Flag of the Second Spanish Republic.svg}} [[Juan Hernández Saravia]]<br /> {{flagicon image|Bandera_CNT-AIT.svg}} [[Buenaventura Durruti]]{{KIA}}<br /> {{flagicon image|Flag of the International Brigades.svg}} [[Mehmet Shehu]]
+|commander2  = {{flagicon image|Bandera del bando nacional 1936-1938.svg}} [[Francisco Franco]]<br />{{flagicon image|Bandera del bando nacional 1936-1938.svg}} [[José Sanjurjo]]{{KIA}}<br />  {{flagicon image|Bandera del bando nacional 1936-1938.svg}} [[Gonzalo Queipo de Llano]]<br /> {{flagicon image|Bandera del bando nacional 1936-1938.svg}} [[Emilio Mola]]{{KIA}}<br />  {{flagicon image|Bandera del bando nacional 1936-1938.svg}} [[Juan Yagüe]]<br /> {{flagicon image|Bandera del bando nacional 1936-1938.svg}}  [[Manuel Goded Llopis]]{{KIA}}<br /> {{flagicon image|Bandera del bando nacional 1936-1938.svg}}  [[Miguel Cabanellas]]
+|strength1   = 450,000 infantry<br />350 aircraft<br />200 batteries<br />(1938)<ref>Thomas, p. 628</ref>
+|strength2   = 600,000 infantry<br />600 aircraft<br />290 batteries<br />(1938)<ref>Thomas, p. 619</ref>
+|casualties1 =
+|casualties2 =
+|casualties3 = ~500,000<ref name="spanjudge"/><ref name="Thomas Barria-Norton 2001"/>
+|notes       =
+}}
+{{Campaignbox Spanish Civil War}}
+The '''Spanish Civil War''' was a major conflict fought in [[Spain]] from 17 July 1936 to 1 April 1939. It began after a [[Pronunciamiento|military rebellion]] by a group of conservative generals led by [[Francisco Franco]] against the established Government of the [[Second Spanish Republic]], then under the leadership of President [[Manuel Azaña]]. The rebel coup was supported by the conservative groups including the [[Spanish Confederation of the Autonomous Right]] (''Confederación Española de Derechas Autónomas'', or CEDA), monarchists known as [[Carlist]] groups, and the [[Fascism|Fascist]] [[Falange]] (''Falange Española de las JONS'').<ref name="payne">Payne, Stanley [http://books.google.com/books?id=NiD3UeOCSGsC&pg=PA197&vq=mola&hl=es&source=gbs_search_r&cad=0_1#PPA203,M1 ''Fascism in Spain, 1923-1977''], pp. 200-203, 1999 Univ. of Wisconsin Press</ref> Following the only partially successful coup — important cities like [[Madrid]], [[Barcelona]], [[Oviedo]], [[Bilbao]], [[Badajoz]], and [[Málaga]] did not join in the rebellion as did [[Spanish Morocco|Morocco]], [[Pamplona]], [[Burgos]], [[Valladolid]], [[Cadiz|Cádiz]], [[Córdoba, Spain|Cordoba]], [[Seville]], and [[Jerez de la Frontera|Jerez]] — Spain was left militarily and politically divided. From that moment onwards [[General Franco]] began a protracted [[attrition warfare|war of attrition]] against the legally established government, as loyalist supporters of the centre-left Republican Government fought the rebel forces for control of the country. There were bloody purges in every piece of territory conquered from the republic in order to consolidate Franco's future regime,<ref>[http://www.iwm.org.uk/upload/package/5/spanish/MainText.pdf The Spanish Civil War - Imperial War Museum]</ref> and purges done by the communist republicans [[Barcelona May Days|during the war]].<ref>http://struggle.ws/spain/souchy_may.html</ref>
+The War ended with the victory of the rebels, who called themselves 'Nationalists', the overthrow of the [[Republic]]an Government, and the exile of thousands of Spanish Republicans, many of whom ended up in refugee camps in Southern France. With the establishment of a conservative [[Spanish State|dictatorship]] led by General [[Francisco Franco]] in the aftermath of the Civil War, all [[right-wing]] parties were fused into the structure of the Franco regime.<ref name="payne">{{Cite book|url=http://books.google.com/books?id=NiD3UeOCSGsC&dq |title=Stanley G. Payne. ''Fascism in Spain, 1923-1977'' |publisher=Books.google.com |date= |accessdate=24 June 2009}}</ref>
+
+The conservative generals (''nacionales'') received the support of [[Nazi Germany]] and the [[Kingdom of Italy (1861–1946)|Fascist Italy]], as well as neighbouring [[Estado Novo (Portugal)|Portugal]].<ref>Martins, Herminio. "Portugal" in S.J. Woolf (ed). ''European Fascism'', London: Weidenfeld & Nicholson, 1968 pp. 322-3<blockquote> Almost as soon as the Civil War started, the Portuguese Government cast its lot with the rebel forces and decided to support them by all means short of actual participation in the war.</blockquote>quoted in Gallagher, Tom. ''[http://books.google.com/books?id=-xu8AAAAIAAJ&pg=PA86 Portugal: a twentieth-century interpretation]''. Manchester: Manchester University Press, 1983 p.86</ref> The [[Soviet Union]] intervened in support of the socialist Republicans, although it encouraged factional conflict to the benefit of the Soviet foreign policy, and its actions may have been detrimental to the Republican war effort as a whole.<ref>{{cite journal |first=John |last=Newsinger |authorlink=John Newsinger |title=Orwell and the Spanish Revolution |url=http://pubs.socialistreviewindex.org.uk/isj62/newsinger.htm |journal=[[International Socialism Journal]] |publisher=[[Socialist Review]]|issue=62 |year=1994}}</ref> Hispanist [[Hugh Thomas]]: "Had they been able to purchase and transport good arms from US, British, and French manufacturers, the socialist and republican members of the Spanish government might have tried to cut themselves loose from [[Stalin]]." <ref>Hugh Thomas, The Spanish Civil War,  Penguin, 4th revised edition, 2003 p.683</ref> The [[United States|American]] Government offered no official support for either side, although over 2,000 Americans [[International Brigades|volunteered on the Republican side]]. Meanwhile, American corporations such as [[Texaco]], [[General Motors]], [[Ford Motors]], and [[The Firestone Tire and Rubber Company]] greatly assisted the Nationalist army, furnishing a regular supply of trucks, tires, machine tools, and fuel.<ref name="Tierney">Tierney, Dominic. ''FDR and the Spanish Civil War: Neutrality and Commitment in the Struggle That Divided America'', pp. 67-8, Duke University Press, 2007</ref>
+The new [[armoured warfare|tank warfare tactics]] and the [[strategic bombing#Enemy morale and terror bombing|terror bombing]] of cities from the air were features of the Spanish Civil War which played a significant part in the later general [[World War II|European war]].<ref name="Tierney" />
+
+The Spanish Civil War has been dubbed "the first [[mass media|media]] war," with several writers and journalists wanting their work "to support the cause."<ref>{{cite news| url=http://www.reuters.com/article/lifestyleMolt/idUSTRE4AA05220081111?pageNumber=2&virtualBrandChannel=0 | work=Reuters | title=New light shed on Capa's "Falling Soldier" photo | date=11 November 2008}}</ref> [[Foreign correspondent]]s and writers covering it included [[Ernest Hemingway]], [[Georges Bernanos]], [[Martha Gellhorn]], [[César Vallejo]], [[George Orwell]], [[Arthur Koestler]], [[Halfdan Rasmussen]], and [[Robert Capa]]. Like most international observers, they tended to support the Republicans, with some, such as Orwell, participating directly in the fighting.<ref>Orwell and the Spanish Revolution http://pubs.socialistreviewindex.org.uk/isj62/newsinger.htm</ref>
+
+Like most civil wars, it became notable for the passion and political division it inspired. The Spanish Civil War often pitted family members, neighbors, and friends against each other. Apart from the combatants, many civilians were killed for their political or religious views by both sides, and after the War ended in 1939, the losing Republicans were persecuted by the victorious Nationalists.
+
+An estimated total of 500,000 people lost their lives as a consequence of the War.<ref name="spanjudge"/><ref name="Thomas Barria-Norton 2001">The number of casualties is disputed; estimates generally suggest that between 500,000 and 1 million people were killed. Over the years, historians kept lowering the death figures and modern research concludes that 500,000 deaths is the correct figure. Thomas Barria-Norton, ''The Spanish Civil War'' (2001), pp. xviii & 899–901, inclusive.</ref>
+
+==Prelude to war==
+===Historical context===
+[[Image:Oviedo-gce.jpg|thumb|right|An archaeological study of a Republican bunker constructed in 1937 during the siege on Oviedo, Asturias]]
+[[Image:SalvadorDali-SoftConstructionWithBeans.jpg|thumb|right|Foreshadowing the conflict: [[Salvador Dalí]]'s ''[[Soft Construction with Boiled Beans (Premonition of Civil War)]]'']]
+
+There were several reasons for the war, many of them having roots in long-standing tensions that had escalated over the years.
+
+The 19th Century was a turbulent time for Spain. The country had undergone several [[civil war]]s and [[revolt]]s, carried out by both reformists and the conservatives, who tried to displace each other from power. A liberal tradition that first ascended to power with the [[Spanish Constitution of 1812]] sought to abolish the [[monarchy]] of the old regime and to establish a [[liberalism|liberal]] state. The most [[tradition]]alist sectors of the [[Politics of Spain|political sphere]] systematically tried to avert these reforms and to sustain the monarchy. The [[Carlists]] — supporters of [[Infante Carlos, Count of Molina|Infante Carlos]] and his descendants — rallied to the cry of "God, Country and King" and fought for the cause of Spanish tradition ([[monarchy]] and [[Catholicism]]) against the [[liberalism]] &ndash; and later, the republicanism &ndash; of the Spanish governments of the day. The Carlists, at times (including the [[Carlist Wars]]), allied with [[nationalism|nationalists]] (not to be confused with the nationalists of the Civil War) attempting to restore the historic liberties (and broad regional autonomy) granted by the ''[[fuero]]s'' (regional charters) of the [[Basque Country (historical territory)|Basque Country]] and [[Catalonia]]. Further, from the mid-19th century onwards, liberalism was outflanked on its [[left-wing politics|left]] by [[socialism]] of various types and especially by [[anarchism]], which was far stronger in Spain than anywhere else in Europe.<ref>''Blood of Spain'' P.38-39 Ronald Fraser ISBN 0-7126-6014-3</ref>
+{| style="float:right;"
+|{{Listen
+|filename=Los Cuatro Generales and Viva La Quince Brigada.ogg
+|title="Los Cuatro Generales" and "Viva La Quince Brigada"
+|description=Two folk songs from the Spanish Civil War sung by [[Leon Lishner]].
+}}
+|}
+Spain was governed under a number of different systems in the period between the [[Napoleonic wars]] of the early 19th Century and the outbreak of the Civil War. During most of the 19th Century, Spain was a [[constitutional monarchy]], but in 1873, the King ([[Amadeo I of Spain|Amadeo I]]) abdicated due to increasing political pressure. The [[First Spanish Republic]] that emerged was short-lived. A monarchy under [[Alfonso XIII]] lasted from 1887 to 1931, but from 1923 was held in place by the military dictatorship of [[Miguel Primo de Rivera]]. Following the overthrow of Primo de Rivera in 1930, the monarchy was unable to maintain power and the [[Second Spanish Republic]] was declared in 1931. This Republic soon came to be led by a coalition of the left and center. A number of controversial reforms were passed, such as the Agrarian Law of 1932, distributing land among poor peasants. Millions of Spaniards had been living in poverty under the firm control of the aristocratic landowners in a quasi-[[feudalism|feudal]] system. These reforms drew strong opposition from landowners and aristocrats. At the same time, the [[anticlericalism|anti-clericalist]] acts of the Government infuriated the clergymen, while military cutbacks and reforms further alienated the military.
+
+===Constitution of 1931 and anti-clericalism===
+{{Main|Spanish Constitution of 1931}}
+[[File:Bundesarchiv Bild 102-12783, Alcala Zamora.jpg|thumb|upright|left|Niceto Alcalá Zamora in 1931]]
+
+On 14 April 1931, Spain declared itself a Second Republic and ended the monarchy.<ref>p.1 Mary Vincent, ''Catholicism in the Second spanish republic'' ISBN 0-19-820613-5</ref> A meeting of the [[Constituent Cortes|Spanish Parliament]] drew up a new [[constitution]], which was adopted on 9 December 1931,{{Citation needed|date=June 2010}} after being passed by a referendum three days earlier.{{Citation needed|date=December 2008}} The Spanish Constitution of 1931 meant the ''legal'' beginning of the [[Second Spanish Republic]], in which the election of both the positions of [[Head of State]] and [[Head of government]] was to be democratic.
+
+The 1931 Constitution was formally effective from 1931 until 1939; in the spring of 1936, however, at the onset of the Spanish Civil War, it was largely abandoned by the Republicans in favor of leftist revolution - "the revolution...initiated...in response to, and as a result of, the counter-revolutionary revolt of the military."<ref name="payne 646">{{cite journal |last=Payne |first=Stanley G. |url=http://libro.uca.edu/payne2/payne26.htm |title=A History of Spain and Portugal (Print Edition) |vol=Vol. 2, Ch. 26 |pages=646–47 |work=University of Wisconsin Press |year=1973 |publisher=Library of Iberian resources online |accessdate= 15 May 2007}}</ref> 
+
+With the appearance of a Republic, after the revolutionary events of the municipal elections in 1931<ref name="britannica"> "The revolution of 1931 that established the Second Republic brought to power an anticlerical government", [http://www.britannica.com/EBchecked/topic/27867/anticlericalism/337/Spain Anticlericalism in Spain] Britannica Online Encyclopedia article</ref>, Spain "embraced constitutional democracy." Yet the "definition of the Republic was always ambiguous. Never a single movement, [it encompassed] liberals, radicals, federalists, and even early anarchists. The Socialist Party was Republican, but only as part of a wider political program. And to convinced monarchists, the Republic was an anathema - the Carlist militias were training in the mountains as early as 1931. The conservative Republican [[Ángel Ossorio y Gallardo]] recalled that mothers  would reproach a childs untidiness with the words, 'This looks like a Republic!'." <ref> Mary Vincent, Spain 1833-2002, p.120 </ref>  The issues of private property, of land expropriation for reasons of social utility, of religion, -all were areas for competing claims. The constitution provided for [[universal suffrage]] and generally accorded thorough civil liberties and representation, while also removing any special [[Roman Catholic Church|Catholic]] rights.<ref name="payne 632">{{cite journal |last=Payne |first=Stanley G. |url=http://libro.uca.edu/payne2/payne25.htm  |title=A History of Spain and Portugal (Print Edition) |vol=Vol. 2, Ch. 25 |page=632  |work=University of Wisconsin Press |year=1973 |publisher=Library of Iberian resources online |accessdate= 30 May 2007}}</ref> The Constitution proclaimed religious freedom and a complete [[separation of Church and State]], and actually provided for the elected government to regulate the church's exercise of power over citizens.<ref>Burleigh, Michael, ''Sacred Causes: The Clash of Religion and Politics, From the Great War to the War on Terror'', pp. 128-129 HarperCollins, 2007. Burleigh says the constitution "went much further than a legal separation of Church and state".</ref>  Catholic schools continued but outside the state system, and in 1933 further legislation banned all monks and nuns from teaching. "The new Republican nation was , in a sense, to be legislated into existence. But it was also to be created through a system of state education, which would be secular, obligatory, free of charge, and available to all. <ref>Mary Vincent, Spain 1833-2002, P.122 </ref>The Republic regulated Church use of property and investments, provided for recovery and controls on the use of property the Church had obtained during past dictatorships, and banned the Vatican-controlled [[Society of Jesus]].<ref>Torres Gutiérrez, Alejandro ,[http://www.cesnur.org/2002/slc/torres.htm Religious minorities in Spain: A new model of relationships?] Center for Study on New Religions 2002</ref> It was the controversial articles 26 and 27 of the constitution which strictly controlled Church property and prohibited religious orders from engaging in education.<ref name="Historical Dictionary of Spain">Smith, Angel, [http://books.google.com/books?id=IFuxO9NO-voC&dq Historical Dictionary of Spain], p. 195, Rowan & Littlefield 2008</ref> " Religion was to be confined to the private sphere, forcibly if need be; the public world of the Republic was resolutely secular." <ref> Vincent, p.122 </ref> Supporters of an established Church, and even a liberal advocate of separation of church and state like  [[Jose Ortega y Gasset]], considered the articles overreaching, - "the article in which the Constitution legislates the actions of the Church seems highly improper to me." <ref>Paz, Jose Antonio Souto [http://findarticles.com/p/articles/mi_qa3736/is_200101/ai_n8951721/pg_4 Perspectives on religious freedom in Spain] Brigham Young University Law Review Jan. 1, 2001</ref> 
+
+Some conservatives also blamed the government for failing to suppress widespread [[anti-Catholic]] sentiment among ordinary citizens and sometimes-violent protests at monasteries. <ref> Mary Vincent, Spain, 1833-2002, p.127 </ref><ref name="britannica"/>  Catholics mustered their forces in opposition, exacerbating the conditions that led to the war. As early as October 1931 [[José María Gil-Robles y Quiñones|Gil Robles]] the leading spokesman of the parliamentary right maintained that the constitution was 'born dead' - a 'dictatorial Constitution in the name of democracy.' <ref>Gil Robles, No fue posible la paz, quoted in Mary Vincent, Catholicism in the Second Spanish Republic, p. 182</ref>
+
+On 3 June 1933, in the [[encyclical]] ''[[Dilectissima Nobis]]'' (On Oppression Of The Church Of Spain), [[Pope Pius XI]] condemned the Spanish Government's deprivation of the [[civil liberties]] on which the Republic was supposedly based, noting in particular the [[Confiscation|expropriation]] of Church property and schools and the persecution of religious communities and orders.<ref>Dilectissima Nobis</ref>
+{{POV-section|date=December 2010}}
+Commentators have posited that the [[Separation of church and state#Friendly and Hostile separation|"hostile" approach to the issues of church and state]] was a substantial cause of the breakdown of democracy and the onset of civil war.<ref>Stepan, Alfred, [http://books.google.com/books?id=nR2tF4k1PXUC&dq Arguing Comparative Politics], p. 221, Oxford University Press</ref><ref>Martinez-Torron, Javier [http://findarticles.com/p/articles/mi_qa3736/is_200101/ai_n8950497/pg_2 Freedom of religion in the case law of the Spanish Constitutional court] Brigham Young University Law Review 2001</ref> Since the far left considered [[moderation]] of the anticlerical aspects of the constitution as totally unacceptable, the commentator [[Stanley Payne]] has argued that "the Republic as a democratic constitutional [[regime]] was doomed from the outset".<ref name="payne 632">{{cite journal |last=Payne |first=Stanley G. |url=http://libro.uca.edu/payne2/payne25.htm |title=A History of Spain and Portugal (Print Edition) |vol=Vol. 2, Ch. 25 |page=632 |work=University of Wisconsin Press |year=1973 |publisher=Library of Iberian resources online |accessdate= 30 May 2007}}</ref>
+
+===1933 election and aftermath===
+In the [[Spanish general election, 1933|1933 elections]] to the [[Cortes Generales]], the Spanish Confederation of the Autonomous Right ([[Confederación Española de Derechas Autónomas]] or CEDA) won a plurality of seats; however, these were not enough to form a majority. Despite the results, then President [[Niceto Alcalá-Zamora]] declined to invite the leader of the CEDA to form a government and instead invited the [[Radical Republican Party]] and its [[anticlerical]] leader [[Alejandro Lerroux]] to do so. CEDA supported the Lerroux government; it later demanded and, on 1 October 1934, received three ministerial positions.
+
+Lerroux's alliance with the right, his suppression of the revolt in 1934, and the [[Stra-Perlo]] scandal combined to leave him and his party with little support going into the 1936 election; Lerroux lost his seat in parliament.
+
+===Rising tensions and political violence===
+Hostility between the left and the right increased after the 1933 formation of the Government. Spain experienced [[general strike]]s and street conflicts. Noted among the strikes was the miners' revolt in northern Spain and riots in Madrid. Nearly all rebellions were crushed by the Government and political arrests followed.
+
+Tensions rose in the period before the start of the war. Radicals became more aggressive, and conservatives turned to paramilitary and vigilante actions. According to official sources, 330 people were assassinated and 1,511 were wounded in political violence; records show 213 failed assassination attempts, 113 general strikes, and the destruction (typically by arson) of 160 religious buildings.<ref name="carroll">The statistics on assassinations, destruction of religious buildings, etc. immediately before the start of the war come from ''The Last Crusade: Spain: 1936'' by Warren Carroll (Christendom Press, 1998). He collected the numbers from ''Historia de la Persecución Religiosa en España (1936–1939)'' by Antonio Montero Moreno (Biblioteca de Autores Cristianos, 3rd edition, 1999).</ref>
+
+===1936 Popular Front victory and aftermath===
+In the 1936 Elections a new coalition of Socialists ([[PSOE|Spanish Worker Socialist Party, PSOE]]), liberals ([[Republican Left (Spain)|Republican Left]] and the Republican Union Party), Communists, and various regional nationalist groups won the extremely tight election. The results gave 34 percent of the popular vote to the Popular Front and 33 percent to the incumbent government of the CEDA. This result, when coupled with the Socialists' refusal to participate in the new government, led to a general fear of revolution.
+
+===Azaña becomes president===
+Without the Socialists, Prime Minister [[Manuel Azaña]], a liberal who favored gradual reform while respecting the democratic process, led a minority government. In April, parliament replaced President [[Niceto Alcalá-Zamora]] with Azaña. The removal of Zamora was made on specious grounds using a constitutional technicality.<ref name="payne 642">{{cite journal |last=Payne |first=Stanley G. |url=http://libro.uca.edu/payne2/payne25.htm |title=A History of Spain and Portugal (Print Edition) |vol=Vol. 2, Ch. 25 |page=642 |work=University of Wisconsin Press |year=1973 |publisher=Library of Iberian resources online |accessdate= 30 May 2007}}</ref> Although the right also voted for Zamora's removal, this was a watershed event which inspired many conservatives to give up on parliamentary politics.{{Citation needed|date=March 2010}} Azaña had found that by spring of 1936 the left was using its influence to circumvent the Republic and the constitution and was adamant about increasingly radical changes.<ref name="payne 643">{{cite journal |last=Payne |first=Stanley G. |url=http://libro.uca.edu/payne2/payne25.htm |title=A History of Spain and Portugal (Print Edition) |vol=Vol. 2, Ch. 25 |page=643 |work=University of Wisconsin Press |year=1973 |publisher=Library of Iberian resources online |accessdate= 30 May 2007}}</ref> [[Leon Trotsky]] wrote that Zamora had been Spain's "stable pole", and his removal made the climate revolutionary.<ref name="Trotsky">Trotsky, Leon, "[http://www.marxists.org/archive/trotsky/1936/04/spain01.htm The Task in Spain]", April 1936.</ref>
+
+Azaña was the object of intense hatred by Spanish rightists because he had pushed a reform agenda through a recalcitrant parliament in 1931–1933. Joaquín Arrarás, a friend of [[Francisco Franco]], called him "a repulsive caterpillar of red Spain."<ref name="Preston">Preston, Paul, [http://www.historytoday.com/dt_main_allatonce.asp?gid=13944&aid=&tgid=&amid=13944&g13944=x&g10713=x&g30026=x&g20991=x&g21010=x&g19965=x&g19963=x ''Franco and Azaña''], Volume: 49 Issue: 5, May 1999, pp. 17–23</ref> The Spanish generals particularly disliked Azaña because he had cut the army's budget and closed the military academy while war minister (1931). CEDA turned its campaign chest over to army plotter [[Emilio Mola]]. Monarchist [[José Calvo Sotelo]] replaced CEDA's [[José María Gil-Robles y Quiñones|Gil Robles]] as the right's leading spokesman in parliament.<ref name="Preston">Preston, Paul, op. cit.</ref>
+
+===Murder of Calvo Sotelo===
+[[José Calvo Sotelo]] was the leading Spanish monarchist and a prominent parliamentary conservative. He protested against what he viewed as escalating anti-religious terror, expropriations, and hasty agricultural reforms, which he considered [[Bolshevist]] and anarchist. He instead advocated the creation of a [[Corporatism|corporative state]].<ref>Hugh Thomas, ''The Spanish Civil War'', (1987), p. 8.</ref>
+
+On 12 July 1936, in Madrid, a far right group murdered Lieutenant [[José Castillo (Spanish Civil War)|José Castillo]] of the [[Assault Guards]] (a special police corps created to deal with urban violence) and a Socialist. The next day, Assault Guards with forged papers "arrested" Calvo Sotelo and abducted him in an Assault Guard van.<ref>Zhooee, ''TIME Magazine'', 20 July 1936 http://www.time.com/time/magazine/article/0,9171,771840,00.html</ref> Leftist gunman [[Luis Cuenca]], who was operating in a commando unit of the Assault Guard led by Captain Fernando Condés Romero, is said to have murdered Calvo Sotelo. Condés was close to the Socialist leader Indalecio Prieto, and Cuenca was one of Prieto's [[bodyguards]].
+
+The murder of such a prominent member of parliament, with involvement of the police, aroused suspicions and strong reactions among the Center and the Right.<ref>Bullón de Mendoza, Alfonso ''Calvo Sotelo: Vida y muerte'' (2004) Barcelona. Thomas, Hugh ''The Spanish Civil War'' (1961, rev. 2001) New York pp. 196–198 and p.309. Condés was a close personal friend of Castillo. His squad had originally sought to arrest Gil Robles as a reprisal for Castillo's murder, but Robles was not at home, so they went to the house of Calvo Sotelo. Thomas concluded that the intention of Condés was to arrest Calvo Sotelo and that Cuenca acted on his own initiative, although he acknowledges other sources that dispute this finding.</ref>
+Although the Nationalist generals, with a plane en route to take [[Francisco Franco]] to the [[Spanish Army of Africa|Army of Africa]],<ref>Beevor, Anthony. ''The Spanish Civil War''. London: Penguin, 1982. p 49.</ref> were already in advanced stages of a planned uprising, the event provided a catalyst and convenient public justification for their coup.
+
+==Outbreak of the war==
+[[File:Guerra Civil Española.svg|thumb|350px|General map of the Spanish Civil War (1936–1939).
+{{col-begin}}
+{{col-break}}
+{{legend|#C5B358|Initial Nationalist zone - July 1936}}
+{{legend|#BDB76B|Nationalist advance until September 1936}}
+{{legend|#C2B280|Nationalist advance until October 1937}}
+{{legend|#E68FAC|Nationalist advance until November 1938}}
+{{legend|#F4C2C2|Nationalist advance until February 1939}}
+{{legend|#FBCCE7|Last area under Republican control}}
+[[File:Solid blue.png|10px]] Main Nationalist centres <br>
+[[File:Red-square.gif|10px]] Main Republican centres <br>
+{{col-break}}
+[[File:Panzer aus Zusatzzeichen 1049-12.svg|25px]] Land battles <br>
+[[File:Vattenfall.svg|25px]] Naval battles <br>
+[[File:Icon vojn new.png|25px]] Bombed cities <br>
+[[File:City locator 4.svg|25px]] Concentration camps <br>
+[[File:Gatunek trujący.svg|25px]] Massacres <br>
+[[File:Red dot.svg|10px]] Refugee camps
+{{col-end}}
+]]
+
+===Military revolt===
+
+The monarchist General [[José Sanjurjo]] was the figurehead of the rebellion, while General [[Emilio Mola]] was chief planner and second in command.<ref name="Preston">Preston, Paul, [http://www.historytoday.com/dt_main_allatonce.asp?gid=12643&aid=&tgid=&amid=12643&g12643=x&g9105=x&g30026=x&g20991=x&g21010=x&g19965=x&g19963=x "From rebel to Caudillo: Franco's path to power,"] ''History Today'' Volume: 33 Issue: 11, November 1983, pp. 4–10</ref> Mola began serious planning in the spring, but General [[Francisco Franco]] hesitated until early July, inspiring other plotters to refer to him as "Miss Canary Islands 1936".<ref name="Preston"/> Franco was a key player because of his prestige as a former director of the military academy and as the man who suppressed the Socialist uprising of 1934.<ref name="Preston"/>
+
+Fearing a military coup, Prime Minister [[Casares Quiroga]] sent General [[Manuel Goded Llopis]] to the [[Balearic Islands]] and Franco to the [[Canary Islands]]. On 17 July 1936, the plotters signaled the beginning of the coup by broadcasting the code phrase, "Over all of Spain, the sky is clear." Llopis and Franco immediately took control of the islands to which they were assigned. Warned that a coup was imminent, leftists barricaded the roads on 17 July, but Franco avoided capture by taking a tugboat to the airport.<ref name="Preston"/>
+
+Two British [[MI6]] intelligence agents, [[Cecil Bebb]] and Major [[Hugh Pollard (Major)|Hugh Pollard]], then flew Franco to [[Spanish Morocco]]<ref>Alpert, Michael ''BBC History Magazine'' April 2002</ref> to see [[Juan March Ordinas]], where the [[Spanish Army of Africa]], led by Nationalist officers, was unopposed.
+
+===Government reaction===
+The rising was intended to be a swift [[coup d'état]], but the government retained control of most of the country. The rebels failed to take any major cities—in [[Madrid]] they were hemmed into the Montaña barracks. The barracks fell the next day, with much bloodshed. Republican leader Santiago Casares Quiroga was replaced by [[José Giral]] who ordered the distribution of weapons among the civilian population. This facilitated the defeat of the army insurrection in the main industrial centers, including Madrid, [[Barcelona]], [[Valencia, Spain|Valencia]] and other main cities in the Mediterranean area, but it allowed the [[anarchism|anarchists]] to arm themselves and take control of Barcelona and large swathes of [[Aragon]] and [[Catalonia]], so that the control of the Republican Government in those areas became tenuous at best throughout the ensuing conflict.<ref>Chomsky, Noam. "Objectivity and Liberal Scholarship (1969)" in ''Chomsky on Anarchism''. AK Press, Oakland CA, 2005.</ref>
+
+Meanwhile the [[Army of Africa (Spain)|Army of Africa]] crossed the [[Gibraltar Strait]] and met General [[Queipo de Llano]]'s forces in [[Sevilla]]. Their quick movement allowed them to meet [[General Mola]]'s Northern Army and secure most of northern and northwestern Spain, as well as central and western [[Andalusia]].
+
+The Republican Government ended up with controlling almost all of the Eastern Spanish coast and central area around Madrid, as well as [[Asturias]], [[Cantabria]] and part of the [[Basque Country (autonomous community)|Basque Country]] in the north.
+
+==Combatants==
+The war was cast by Republican sympathizers as a struggle between "[[tyranny]] and [[democracy]]", and by Nationalist supporters as between [[Communist]] and [[Anarchism|anarchist]] "red hordes" and "Christian civilization". Nationalists also claimed to be protecting the establishment and bringing security and direction to an ungoverned and lawless society.<ref>Beevor, ''The Battle for Spain'', (2006) ''("Chapter 21: The Propaganda War and the Intellectuals")''</ref>
+
+The active participants in the war covered the entire gamut of the political positions of the time. The Nationalist (''nacionales'') side included the [[Carlists]] and [[Legitimist]] monarchists, Spanish nationalists, the [[Falange]], and most conservatives and monarchist liberals. Virtually all Nationalist groups had very strong [[Catholic Church|Catholic]] convictions and supported the native Spanish clergy. On the Republican side were [[Marxists]],[[socialists]], [[liberals]], and [[Anarchism|anarchists]].
+
+Spanish politics, especially on the left, were quite fragmented. At the beginning, socialists and radicals supported democracy, while the communists and anarchists opposed the institution of the republic as much as the monarchists. There were internal divisions even among the socialists: a group that adhered to classical Marxism, and a more progressive Marxist group. The former was the [[Spanish Socialist Workers' Party|Spanish Socialist Workers' Party (PSOE)]], one of whose delegates to the Soviet Union challenged Stalin regarding his use of the [[CHEKA]] to rein in dissidents, and upon his return to Spain convinced the PSOE to reject affiliation with the 5th to 7th [[Comintern]].<ref>Antony Beevor, ''The Spanish Civil War'', pp 32-3.</ref> From the [[Comintern]]'s point of view the increasingly powerful, if fragmented, left and the weak right were an optimum situation.<ref name="payne 118">Payne, Stanley George ''The Spanish Civil War, the Soviet Union, and Communism'' p. 118 (2004 Yale University Press)</ref> Their goal was to use a veil of legitimate democratic institutions to outlaw the right, converting the state into the Soviet vision of a "people's republic" with total leftist domination, a goal repeatedly voiced in Comintern instructions and in the public statements of the [[Communist Party of Spain (main)|PCE]] (Communist Party of Spain).<ref name="payne 118"/>  The left and Basque or Catalan nationalist conservatives had many conflicting ideas. The Cortes (Spanish Parliament) consisted of 16 parties in 1931. An attempt by the communists to seize control resisted by anarchists resulted in the massacre of hundreds of rebels and civil war between communists and [[Anarchist Catalonia|anarchists in Catalonia]].
+
+The actions of the Republican government slowly coagulated the different people on the right.<ref>Antony Beevor, ''The Spanish Civil War'', pp 42-43.</ref>
+
+The Nationals included the majority of the Catholic clergy and of practicing Catholics (outside of the Basque region), important elements of the army, most of the large landowners, and many businessmen. The Republicans included most urban workers, most peasants, and much of the educated middle class, especially those who were not entrepreneurs.
+
+===Republicans===
+{{Main|Republican Left (Spain)|Spanish Revolution|CNT-FAI|POUM|Unión General de Trabajadores}}
+
+Republicans (also known as Spanish loyalists) received weapons and volunteers from the Soviet Union, Mexico, the international [[Marxists]] movement and the [[International Brigades]]. The Republicans ranged from centrists who supported a moderately capitalist [[liberal democracy]] to revolutionary [[Anarchism in Spain|anarchists]]; their power base was primarily secular and urban, but also included landless peasants, and it was particularly strong in industrial regions like [[Asturias]] and [[Catalonia]].<ref>Antony Beevor, ''The Battle for Spain'' (2006), pp 30-33</ref> This faction was called variously the "loyalists" by its supporters; the "Republicans", "the Popular Front" or "the Government" by all parties; and "the reds" by its enemies. Regarding the term "loyalist", Historian [[Stanley G. Payne|Stanley Payne]] notes: "the adjective "loyalist" is somewhat misleading, for there was no attempt to remain loyal to the constitutional Republican regime. If that had been the scrupulous policy of the left, there would have been no revolt and civil war in the first place."<ref name="payne 646"/>
+
+The conservative, strongly [[Roman Catholic Church|Catholic]] [[Basque Country (autonomous community)|Basque country]], along with [[Galicia (Spain)|Galicia]] and the more left-leaning [[Catalonia]], sought autonomy or even independence from the central government of Madrid. This option was left open by the Republican government.<ref>Hugh Thomas, ''The Spanish Civil War'', (1987), pp. 86–90.</ref> All these forces were gathered under the [[Spanish Army|People's Republican Army]] (''[[Spanish Army|Ejército Popular Republicano]]'', or EPR).
+
+===Nationalists===
+{{Main|Spanish Army of Africa|CEDA|Francoists|Falangists|Carlists|Requetés}}
+[[Image:Bandera Tradicionalista.png|right|thumb|Flag of the [[Requetés]]]]
+The Nationalists (also called "insurgents", "rebels" or by opponents "Francoists" or overinclusively as "Fascists") fearing national fragmentation, opposed the separatist movements, and were chiefly defined by their [[anti-communism]], which galvanized diverse or opposed movements like falangists or monarchists. Their leaders had a generally wealthier, more conservative, monarchist, landowning background, and (with the exception of the Carlists) favoured the centralization of state power.
+
+One of the Nationalists' principal stated motives was to confront the [[anti-clericalism]] of the Republican regime and to defend the [[Roman Catholic Church|Church]], which had been the target of attacks, and which many on the Republican side blamed for the ills of the country. Even before the war, in the Asturias uprising of 1934 religious buildings were burnt and at least 100 clergy, religious, and police were killed, but the president and the radicals prevented the implementation of any serious sanctions against the revolutionaries.<ref name="payne 642">{{cite journal |last=Payne |first=Stanley G. |url=http://libro.uca.edu/payne2/payne25.htm |title=A History of Spain and Portugal (Print Edition) |vol=Vol. 2, Ch. 25 |page=637 |work=University of Wisconsin Press |year=1973 |publisher=Library of Iberian resources online |accessdate= 30 May 2007}}</ref><ref>Coverdale, John F., [http://books.google.com/books?id=bPhSpqRI4kQC&dq Uncommon faith: the early years of Opus Dei, 1928-1943], p. 148, Scepter 2002</ref><ref>[http://db.cbconf.org/cbc.nsf/pages/222A1C2E18EE0B8B86256F230055FBB7 Martyrs of Turon]</ref> According to Payne:
+[[Image:Franco.jpg|right|400px|thumb|General Francisco Franco, leader of the Nationalists.]]
+<blockquote>More than 1,000 were killed, the majority revolutionaries, and there were atrocities on both sides. The revolutionaries shot nearly 100 people in cold blood, most of them policemen and priests, and an almost equal number of rebels–possibly even more--were executed out of hand by the troops that suppressed the revolt.<ref name="payne 642"/></blockquote>
+
+Articles 24 and 26 of the Constitution of the [[Second Spanish Republic|Republic]] had banned the [[Society of Jesus|Jesuits]], which deeply offended many within the conservatives. The revolution in the republican zone at the outset of the war, killing 7,000 clergy and thousands of lay people, drove many Catholics, left then with little alternative, to the Nationalists.<ref>Payne, Stanley [http://books.google.com/books?id=KPgPFqXub14C&vq Franco and Hitler: Spain, Germany, and World], p. 13, 2008 Yale Univ. Press</ref><ref>[http://www.qub.ac.uk/sites/QUEST/FileStore/Issue4PerspectiviesonPowerPapers/Filetoupload,71752,en.pdf Rooney, Nicola "The role of the Catholic hierarchy in the rise to power of General Franco"]</ref>
+Franco's first proclamation from [[Tenerife]] however, as historian Hilari Raguer has observed, "failed to invoke a religious motive behind the Uprising. It denounces the disorder, the revolutionary atmosphere, the violation of the constitution and the new emergency regulations. Leaving aside the volunteers from Navarra, the first rebel on record as having publicly declared a religious motivation was His Imperial Highness Muley Hassan ben El Mehdi, the ''Jalifa'' of the Spanish zone of the Moroccan protectorate. When blessing the first Moors to leave for the peninsula, he declared a Holy War against those evil Spaniards who did not display the sign of God on their banners."<ref>Hilari Raguer, Gunpowder and Incense  p.48</ref>
+
+===Other factions===
+Catalan and Basque nationalists were not univocal. Left-wing [[Catalan nationalism|Catalan nationalists]] were on the Republican side. Conservative Catalan nationalists were far less vocal supporting the Republican government due to the anti-clericalism and [[confiscation]]s occurring in some areas controlled by the latter (some conservative Catalan nationalists like [[Francesc Cambó]] actually funded the Nationalist side). [[Basque nationalist]]s, heralded by the conservative [[Partido Nacionalista Vasco|Basque nationalist party]], were mildly supportive of the Republican government, even though Basque nationalists in [[Álava]] and [[Navarre]] sided with the uprising for the same reasons influencing Catalan conservative nationalists. Notwithstanding the religious matters, the Basque nationalists, who nearly all sided with the Republic, were, for the most part, practicing Catholics.
+
+==Foreign involvement==
+{{Main|Foreign involvement in the Spanish Civil War}}
+<!-- INTRO -->
+The Spanish Civil War had large numbers of non-Spanish citizens participating in combat and advisory positions. Foreign governments contributed large amounts of financial assistance and [[military aid]] to forces led by Franco. Forces fighting on behalf of the Republicans also received limited aid, but support was seriously hampered by the arms embargo declared by France and the UK.  These embargoes were never very effective however, and France especially was accused of allowing large shipments through to the Republicans (but the accusations often came from Italy, itself heavily involved for the Nationalists). The clandestine actions of the various European powers were at the time considered to be risking another '[[World War I|Great War]]'.<ref name="TIMEAPRIL1937">''[http://www.time.com/time/magazine/article/0,9171,757619-1,00.html Business & Blood]''. ''[[Time (magazine)|Time]]'', Monday, 19 April 1937</ref>
+
+The [[League of Nations]]' reaction to the war was mostly neutral and insufficient to contain the massive importation of arms and other war resources by the fighting factions. Although a [[Non-Intervention Committee]] was created, its policies were largely ineffective.  Its directives were dismantled due to the policies of [[appeasement]] of both European democratic and non-democratic powers of the late 1930s: the official Spanish government of [[Juan Negrín]] was gradually abandoned within the organization during this period.<ref>[http://www.time.com/time/printout/0,8816,771949,00.html Peace and Pirates], ''[[TIME Magazine]]'', 27 September 1937</ref>
+
+===Support for Nationalists===
+
+Despite the Irish government's prohibition against participating in the war, around 700 Irishmen, followers of [[Eoin O'Duffy]] known as the [[Irish Brigade (Spanish Civil War)|"Irish Brigade"]], went to Spain to fight on Franco's side. The Nationalists received weapons and logistical support from Portugal. In addition approximately 8,000 Portuguese volunteers, known as [[Viriatos]] after an aborted national legion that failed to get off the ground in the early months of the war, fought in Franco's forces.<ref>Othen, Christopher. ''[[Franco's International Brigades]]'' (Reportage Press, 2008) p79</ref>  Romanian volunteers were led by [[Ion Moţa|Ion I Moţa]], deputy-leader of the Legion of the Archangel Michael (or [[Iron Guard]]), whose group of seven Legionaries visited Spain in December 1936 to ally their movement to the Nationalists.<ref>Othen, Christopher. Op cit p102</ref> Moţa was killed in action at Majadahonda on January 13, 1937.<ref>John R. Lampe and Mark Mazower, ''Ideologies and national identities'', at p. 38</ref>
+
+====Germany====
+Francisco Franco asked [[Adolf Hitler]] from [[Nazi Germany]] and [[Benito Mussolini]] from [[Kingdom of Italy (1861–1946)|Fascist Italy]] to aid the Nationalists.  Hitler agreed and ordered three major military operations in Spain during the Spanish Civil War.  He authorized Operation Feuerzauber ("Fire Magic") in late July 1936.  He mobilized 20 three-motor [[Junkers Ju 52]] planes with six escort fighters, 85 Germans on the SS Usaramo ship to work on the planes, and transferred German troops stationed in Morocco to Spain.  A few months later in late September, Hitler again mobilized men and materials to aid Franco for Operation Otto.  He sent 24 more [[Panzer I]] light tanks, a flak, and some radio equipment.  German commander Major Alexander von Scheele also converted the Junkers 52s to bombers.<ref name="whealey1">Hitler and Spain Robert H Whealey</ref>  By October, there were an estimated 600–800 German soldiers in Spain.<ref name="whealey1"/>  Hitler’s largest and last move was the [[Condor Legion]] (''Legion Condor'').  Initiated in November 1936, he sent an additional 3,500 troops into combat and supplied the Spanish Nationalists with 92 new planes.<ref name="whealey1"/>  Hitler kept the Condor Legion in Spain until the end of the war in May 1939.  At its zenith, The German force numbered about 12,000 men, and as many as 19,000 Germans fought in Spain. In total Nazi Germany provided Nationalists with 600 planes, 200 tanks, and 1,000 artillery pieces.<ref name="Thomas, Hugh 2001. p.944">Thomas, Hugh. ''The spanish civil war.'' Penguin Books. London. 2001. p.944</ref> Scholars such as [[Robert Whealey]] have published books on interactions between Nazis and Spain during this time.<ref name=twsJanEh>{{cite news 
+ |title= ... good books available on the Spanish Civil War
+ |publisher= ''The Historum''
+ |quote= Robert H. Whealey, Hitler and Spain: The Nazi Role in the Spanish Civil War, 1936-1939.
+ |date= 2010-01-05
+ |url= http://www.historum.com/homework-help/6407-spanish-civil-war.html
+ |accessdate= 2010-01-05
+}}</ref>
+
+====Italy====
+After Franco’s request and in response to Adolf Hitler's encouragement, Benito Mussolini joined the war, partly because he did not want to be outdone by Hitler.<ref name="whealey1"/>  While Mussolini sent more ground troops than Hitler, he initially supplied fewer materials.  At the beginning of war in September 1936, Mussolini had only supplied 68 aircraft and several hundred small arms to the Nationalists.<ref name="whealey1"/>  However, the [[Regia Marina|Royal Italian Navy]] (''[[Regia Marina|Regia Marina Italiana]]'') played a major role in the Mediterranean blockade and ultimately Italy supplied machine guns, artillery, aircraft, tankettes, the [[Aviazione Legionaria|"Legionary Air Force"]] (''[[Aviazione Legionaria]]''), and the [[Corpo Truppe Volontarie|"Corps of Volunteer Troops"]] (''Corpo Truppe Volontarie'', or CTV).<ref>The Spanish Civil War Antony Beevor</ref>  The Italian CTV reached a high of about 50,000 men and, by rotation, more than 75,000 Italians were to fight for the Nationalists in Spain. In total fascist Italy provided Nationalists with 660 planes, 150 tanks and 1,000 artillery pieces.<ref name="Thomas, Hugh 2001. p.944"/>
+
+====Portugal====
+[[António de Oliveira Salazar|Salazar]]'s [[Estado Novo (Portugal)|Estado Novo]] played a most important role in supplying Franco’s forces with ammunition and many other logistical resources.<ref>Antony Beevor, The Battle for Spain; The Spanish Civil War, 1936–1939 (Weidenfeld & Nicolson, 2006), pp 116, 133,143, 148, 174, 427.</ref>
+Despite its discreet direct military involvement — restrained to a somewhat "semi-official" endorsement, by its authoritarian regime, of an 8,000&ndash;12,000-strong volunteer force,<ref>Antony Beevor, The Battle for Spain (2006), pp 198</ref> the so-called "[[Viriatos]]" — for the whole duration of the conflict, Portugal was instrumental in providing the Nationalists with a vital logistical organization and by reassuring Franco and his allies that no interference whatsoever would hinder the supply traffic directed to the Nationalists, crossing the borders of the two Iberian countries — the Nationalists used to refer to [[Lisbon]] as ''"the port of Castile"''.<ref>Antony Beevor, The Battle for Spain (2006), pp 116</ref>
+
+===Support for Republicans===
+==== International Brigades ====
+[[Image:International brigades hungary flag.svg|right|thumb|Flag of the Hungarian International Brigades.]]
+Many non-Spanish people, often affiliated with radical, communist or socialist parties or groups, joined the [[International Brigades]], believing that the Spanish Republic was the front line of the war against [[fascism]].  The troops of the International Brigades represented the largest foreign contingent of those fighting for the Republicans. Roughly 30,000 foreign nationals from up to 53 nations fought in the brigades. Most of them were communists or trade unionists, and while organised by communists guided or controlled by Moscow, they were almost all individual volunteers.
+
+Likely more than 1,000 volunteers came from each of France, Italy, Germany, Poland, USSR, USA, UK, Belgium, Czechoslovakia, Ireland, [[Yugoslavia]], Hungary and Canada {{Citation needed|date=September 2010}}. The [[Thälmann Battalion]] was a group of German, Swiss, Austrian and Scandinavian volunteers who distinguished themselves during the [[Siege of Madrid]]. The American volunteers fought in units such as the [[Abraham Lincoln Brigade]] and Canadians in the [[Mackenzie-Papineau Battalion]].
+
+Over five hundred Romanians fought on the Republican side, including [[Romanian Communist Party]] members [[Petre Borilă]] and [[Valter Roman]].<ref>{{Cite book|last=Deletant |first=Dennis |title=Communist terror in Romania: Gheorghiu-Dej and the Police State, 1948-1965 |publisher=C. Hurst & Co.|year=1999 |page=20|isbn=9781850653868|url=http://books.google.com/books?id=hRn56_qAwiYC&pg=PA20&dq=%22spanish+civil+war%22+romanian+volunteers}}</ref>
+
+Some Chinese joined the international brigades. At the end of the war, the majority returned to China, while some went to prison, others went to refugee camps in southern France, and a handful remained in Spain, including about ten who married Spanish women.<ref>{{Cite book|url=http://books.google.com/books?id=_aqcIT11ShsC&pg=PA215&dq=spanish+women+chinese&hl=en&ei=Db5ATOnmN8T68AaM8r3cDw&sa=X&oi=book_result&ct=result&resnum=4&ved=0CEEQ6AEwAw#v=onepage&q=spanish%20women%20chinese&f=false|title=The Chinese in Europe|author=Gregor Benton, Frank N. Pieke|year=1998|publisher=Macmillan|location=|page=215|isbn=0333669134|page=390|accessdate=2010-07-14}}</ref>
+
+====Soviet Union====
+<!-- weapons -->
+The [[Soviet Union]] primarily provided material assistance to the Republican forces.
+In total the USSR provided Spain with 806 planes, 362 tanks, and 1,555 artillery pieces.
+<ref>Academy of Sciences of the USSR, International Solidarity with the Spanish Republic, 1936-1939 (Moscow: Progress, 1974), 329-30</ref> The Soviet Union ignored the League of Nations embargo and sold arms to the Republic when few other nations would do so; thus it was the Republic's only important source of major weapons.  Stalin had signed the Non-Intervention Agreement but decided to break the pact.  However, unlike Hitler and Mussolini who openly violated the pact, Stalin tried to do so secretly.<ref name="Arms for Spain Gerald Howson">Arms for Spain Gerald Howson</ref>  He created a section X of the Soviet Union military to head the operation, coined Operation X. However, while a new branch of the military was created especially for Spain, most of the weapons and artillery sent to Spain were antiques. Stalin did not want the arms to be traceable to the Soviet Union, so most were taken from museums from around the country. He also used weapons captured from past conflicts.<ref name="Arms for Spain Gerald Howson"/> However, modern weapons such as [[BT-5]] tanks and [[Polikarpov I-16|I-16]] fighter aircraft were also supplied to Spain.
+
+Many of the Soviet’s deliveries were lost or smaller than Stalin had ordered. He only gave short notice, which meant many weapons were lost in the delivery process.<ref name="Arms for Spain Gerald Howson"/> Lastly, when the ships did leave with supplies for the Republicans, the journey was extremely slow. Stalin ordered the builders to include false decks in the original design of the boat. Then, once the ship left shore it was required to change its flag and change the color of parts of the ship to minimize capture by the Nationalists.<ref name="Arms for Spain Gerald Howson"/> However in 1938, Stalin withdrew his troops and tanks as government ranks floundered.
+
+The Republic had to pay for Soviet arms with the official gold reserves of the [[Bank of Spain]], in an affair that would become a frequent subject of Francoist propaganda afterward (see [[Moscow Gold]]). The cost to the Republic of Soviet arms was more than US $500 million, two-thirds of the gold reserves that Spain had at the beginning of the war.{{Citation needed|date=February 2009}}
+
+The Soviet Union also sent a number of military advisers to Spain (2,000<ref>Beevor, Antony. The Battle for Spain. Penguin Books. 2006. London. p.163</ref>-3,000<ref>Graham, Helen. The Spanish Civil War. A very short introduction. Oxford University Press. New York. 2005. p.92</ref>).<ref>Thomas, Hugh. ''The Spanish Civil War.'' Penguin Books. London. 2003. p.944</ref> While Soviet troops amounted to no more than 700 men, Soviet "volunteers" often operated Soviet-made Republican tanks and aircraft.{{Citation needed|date=February 2009}} In addition, the Soviet Union directed Communist parties around the world to organize and recruit the International Brigades.
+
+Another significant Soviet involvement was the pervasive activities of the [[NKVD]] all along the Republican rearguard. Communist figures like [[Vittorio Vidali]] ("Comandante Contreras"), [[Iosif Grigulevich]] and, above all, [[Aleksandr Mikhailovich Orlov|Alexander Orlov]] led those not-so-secret operations, that included murders like those of [[Andreu Nin]] and [[José Robles]].
+
+====Mexico====
+Unlike the United States and major Latin American governments such as those of [[Argentina]], [[Brazil]], [[Chile]], and [[Peru]], the Mexican government supported the Republicans.  Mexico refused to follow the French-British non-intervention proposals. Mexico furnished $2,000,000 in aid and provided some material assistance, which included 20,000 rifles, 28 million cartridges, 8 artillery pieces and small number of American-made aircraft such as the [[Bellanca CH-300]] and [[Spartan Aircraft Company|Spartan Zeus]] that served in the [[Mexican Air Force]].
+
+However, Mexico's most important contributions to the Spanish Republic were diplomatic and to provide sanctuary for Republican refugees including many Spanish intellectuals and orphaned children from Republican families.
+
+==Course of the war==
+===1936===
+[[Image:Spanish Civil War August September 1936.png|right|thumb|Situation of the fronts in August–September 1936.]]{{Main|Spanish Civil War chronology 1936}}
+
+<!-- JULY -->
+Coup leader Sanjurjo was killed in a plane crash on 20 July, leaving an effective command split between Mola in the North and Franco in the South.<ref name="Preston"/> On 21 July, the fifth day of the rebellion, the Nationalists captured the main [[Spanish Navy|Spanish naval base]] at [[Ferrol, Spain|Ferrol]] in northwestern Spain.  <!--
+
+ SEPTEMBER -->
+A rebel force under [[Alfonso Beorlegui Canet|Colonel Beorlegui Canet]], sent by General [[Emilio Mola]], undertook the [[Campaign of Guipúzcoa]] from July to September. The capture of [[Guipúzcoa]] isolated the Republican provinces in the north. On 5 September, after [[Battle of Irún|heavy fighting]] the force took [[Irún]], closing the French border to the Republicans. On 13 September, the Basques surrendered [[San Sebastián]] to the Nationalists, who then advanced toward their capital, [[Bilbao]]. The Republican militias on the border of [[Biscay|Vizcaya]] halted these forces at the end of September.
+
+Franco was chosen overall Nationalist commander at a meeting of ranking generals at [[Salamanca]] on 21 September.<ref name="Preston"/> Franco won another victory on 27 September when they [[Siege of the Alcázar|relieved the Alcázar]] at [[Toledo, Spain|Toledo]]. A Nationalist garrison under [[José Moscardó Ituarte|Colonel Moscardo]] had held the [[Alcázar of Toledo|Alcázar]] in the center of the city since the beginning of the rebellion, resisting thousands of Republican troops who completely surrounded the isolated building. The Republic's inability to take the Alcázar was a serious blow to its prestige in view of its overwhelming numerical superiority in the area. Two days after relieving the siege, Franco proclaimed himself ''[[Generalísimo]]'' and ''[[Caudillo]]'' ("chieftain"), while forcibly unifying the various and diverse [[Falange|Falangist]], Royalist and other elements within the Nationalist cause.
+
+<!-- OCTOBER-NOVEMBER -->
+In October, the Francoist troops launched a major offensive toward [[Madrid]], reaching it in early November and launching a major assault on the city on 8 November. The Republican government was forced to shift from Madrid to [[Valencia, Spain|Valencia]], out of the combat zone, on 6 November. However, the Nationalists' attack on the capital was repulsed in fierce fighting between 8 November and 23 November. A contributory factor in the successful Republican defense was the arrival of the [[International Brigades]], though only around 3,000 of them participated in the battle. Having failed to take the capital, Franco bombarded it from the air and, in the following two years, mounted several offensives to try to [[Siege of Madrid (1936-39)|encircle Madrid]].
+
+===1937===
+{{Main|Spanish Civil War chronology 1937}}
+
+[[File:Octubre 1937.png|right|thumb|Situation of the fronts in October 1937.]]
+With his ranks swelled by Italian troops and Spanish colonial soldiers from Morocco, Franco made another attempt to capture Madrid in January and February 1937, but again failed.
+
+[[Image:Bundesarchiv Bild 183-H25224, Guernica, Ruinen.jpg|thumb|left|Ruins of [[Guernica (town)|Guernica]] ]]
+On 21 February the [[League of Nations]] [[Non-Intervention Committee]] ban on foreign national "[[Unlawful combatant|volunteers]]" went into effect. The large city of [[Málaga]] [[Battle of Málaga|was taken]] on 8 February. On 7 March, the German [[Condor Legion]] equipped with [[Heinkel He 51]] biplanes arrived in Spain; on 26 April the Legion [[Bombing of Guernica|bombed the town of Guernica]], killing hundreds. Two days later, Franco's army overran the town.
+
+After the fall of Guernica, the Republican government began to fight back with increasing effectiveness. In July, they made a move to recapture [[Segovia]], forcing Franco to pull troops away from the Madrid front to halt their advance. Mola, Franco's second-in-command, was killed on 3 June, and in early July, despite the fall of [[Bilbao]] in June, the government launched a strong counter-offensive in the Madrid area, which the Nationalists repulsed with difficulty. The clash was called "[[Battle of Brunete]]" after a town in the [[Community of Madrid|province of Madrid]].
+
+Franco invaded [[Aragon|Aragón]] in August and then [[Battle of Santander|took the city of]] [[Santander, Cantabria|Santander]]. With the surrender of the [[Santoña Agreement|Republican army in the Basque territory]] and after two months of bitter fighting in Asturias ([[Gijón]] finally fell in late October) Franco had effectively won in the north.  At the end of November, with Franco's troops closing in on [[Valencia, Spain|Valencia]], the government had to move again, this time to [[Barcelona]].
+
+===1938===
+[[Image:Spanish Civil War November 1938.png|right|thumb|Situation of the fronts in November 1938.]]
+{{Main|Spanish Civil War chronology 1938–1939}}
+The [[Battle of Teruel]] was an important confrontation. The city belonged to the Nationalists at the beginning of the battle, but the Republicans conquered it in January. The Francoist troops launched an offensive and recovered the city by 22 February, but in order to do so Franco relied heavily on German and Italian air support and repaid them with extensive mining rights.<ref>"Nazi Germany and Francoist Spain" by Christian Leitz, pp. 127–150, ''Spain and the Great Powers in the 20th Century'' Routledge, New York, 1999, edited by Sebastian Balfour and Paul Preston.</ref>
+
+On 7 March, the Nationalists launched the [[Aragon Offensive]]. By 14 April, they had pushed through to the Mediterranean, cutting the Republican-held portion of Spain in two. The Republican government tried to sue for peace in May,<ref>Thomas, p. 820-821</ref> but Franco demanded unconditional surrender; the war raged on. In July, the Nationalist army pressed southward from Teruel and south along the coast toward the capital of the Republic at [[Valencia, Spain|Valencia]] but was halted in heavy fighting along the [[XYZ Line]], a system of fortifications defending Valencia.
+
+The Republican government then launched an all-out campaign to reconnect their territory in the [[Battle of the Ebro]], from 24 July until 26 November. The campaign was unsuccessful, and was undermined by the [[Munich Agreement|Franco-British appeasement of Hitler in Munich with the concession of Czechoslovakia]].  This effectively destroyed Republican morale by ending hope of an anti-fascist alliance with the Western powers. The retreat from the Ebro all but determined the final outcome of the war. Eight days before the new year, Franco threw massive forces into an invasion of [[Catalonia]].
+
+===1939===
+{{Main|Spanish Civil War chronology 1938–1939}}
+Franco's troops conquered Catalonia in a whirlwind campaign during the first two months of 1939. [[Tarragona]] fell on 14 January, followed by [[Barcelona]] on 26 January and [[Girona]] on 5 February. Five days after the fall of Girona, the last resistance in Catalonia was broken.
+
+On 27 February, the United Kingdom and France recognized the Franco regime.
+
+[[Image:Spain final-guerra-civil.jpg|thumb|left|Franco declares the end of the war. However, small pockets of Republicans fight on.]]
+Only [[Madrid]] and a few other strongholds remained for the Republican forces. Then, on 28 March, with the help of pro-Franco forces inside the city, Madrid fell to the Nationalists. The next day, [[Valencia, Spain|Valencia]], which had held out under their guns for close to two years, also surrendered. Franco proclaimed victory in a radio speech aired on 1 April, when the last of the Republican forces surrendered.
+
+After the end of the War, there were harsh reprisals against Franco's former enemies;<ref>{{cite web|author=Professor Hilton |url=http://cgi.stanford.edu/group/wais/cgi-bin/index.php?p=1843 |title=Spain: Repression under Franco after the Civil War |publisher=Cgi.stanford.edu |date=27 October 2005 |accessdate=24 June 2009}}</ref> thousands of Republicans were imprisoned and at least 30,000 executed.<ref>{{cite news|url=http://www.guardian.co.uk/spain/article/0,2763,1096841,00.html |title=Spain torn on tribute to victims of Franco |publisher=Guardian |date= 1 December 2003|accessdate=24 June 2009 | location=London | first=Giles | last=Tremlett}}</ref> Other calculations of these deaths range from 50,000<ref>Beevor, Antony. The Battle for Spain; The Spanish Civil War 1936-1939. Penguin Books. 2006. London. p.405</ref> to 200,000. Many others were put to [[forced labour]], building railways, drying out swamps, digging canals, etc.
+
+Hundreds of thousands of Republicans fled abroad, some 500,000 to France.<ref>{{cite news|last=Caistor |first=Nick |url=http://news.bbc.co.uk/2/hi/programmes/from_our_own_correspondent/2809025.stm |title=Spanish Civil War fighters look back |publisher=BBC News |date=28 February 2003 |accessdate=24 June 2009}}</ref>  Refugees were confined in [[Concentration camps in France|internment camps]] of the [[French Third Republic]], such as [[Camp Gurs]] or [[Camp Vernet]], where 12,000 Republicans were housed in squalid conditions. Of the 17,000 refugees housed in Gurs, the farmers and ordinary people who could not find relations in France were encouraged by the Third Republic, in agreement with the Francoist government, to return to Spain. The great majority did so and were turned over to the Francoist authorities in [[Irún]]. From there they were transferred to the [[Miranda de Ebro]] camp for "purification" according to the Law of Political Responsibilities.  After the proclamation by Marshal [[Philippe Pétain]] of the [[Vichy regime]], the refugees became political prisoners, and the French police attempted to round up those who had been liberated from the camp. Along with other "undesirables", they were sent to the [[Drancy internment camp]] before being deported to [[Nazi Germany]]. About 5,000 Spaniards thus died in [[Mauthausen concentration camp]].<ref name=Cite>[http://www.histoire-immigration.fr/index.php?lg=fr&nav=20&flash=0 Film documentary] on the website of the ''[[Cité nationale de l'histoire de l'immigration]]'' {{fr icon}}</ref>
+
+After the official end of the war, [[Spanish maquis|guerrilla war was waged on an irregular basis]] well into the 1950s, being gradually reduced by military defeats and scant support from the exhausted population. In 1944, a group of republican veterans, who also fought in the [[French resistance]] against the Nazis, invaded the [[Val d'Aran]] in northwest [[Catalonia]], but were defeated after ten days.
+
+==Evacuation of children==
+[[Image:Prats-de-Mollo Children's Home.jpg|thumb|right|Residents of the [[War Resisters' International]] (WRI) children's refuge in the French Pyrenees, some time between 1937 and 1939, warden [[José Brocca]] standing third from left.]]
+As war proceeded on the Northern front, the Republican authorities arranged the evacuation of children. These Spanish War children were shipped to Britain, Belgium, the Soviet Union, other European countries and Mexico. Those in Western European countries were able to return to their families after the war, but those in the Soviet Union, from Communist families, were forbidden to return - by Stalin and by Franco.  The first opportunity for most of them to do so came in 1956, three years after Stalin's death.  They lived in Soviet orphanages and were regularly transferred from one orphanage to another according to the progress of the Second World War.  Thus they experienced the War and its effects on the Soviet Union at first hand.
+
+The Nationalist side also arranged evacuations of children, women and elderly from war zones. Refugee camps for those civilians evacuated by the Nationalists were set up in Portugal, Italy, [[Third Reich|Germany]], the Netherlands and Belgium.
+
+==Atrocities==
+At least 50,000 people were executed during the war.<ref>{{cite web| url=http://concise.britannica.com/ebc/article-9379223/Spanish-Civil-War |title=Spanish Civil War |publisher=Concise.britannica.com |date= |accessdate=24 June 2009}}</ref><ref>{{cite news|author=Published: 12:01AM BST 11 Jun 2006 |url=http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2006/06/11/bobee11.xml |title=A revelatory account of the Spanish civil war |publisher=Telegraph.co.uk |date=11 June 2006 |accessdate=24 June 2009 | location=London}}</ref> In his updated history of the Spanish Civil War, [[Antony Beevor]] writes, "Franco's ensuing '[[White Terror (Spain)|white terror]]' claimed 200,000 lives. The '[[Red Terror (Spain)|red terror]]' had already killed 38,000."<ref>[http://www.economist.com/books/displaystory.cfm?story_id=7081116 "Men of La Mancha"].  Rev. of Antony Beevor, ''The Battle for Spain''.  ''The Economist'' (22 June 2006).</ref>  Julius Ruiz concludes that "although the figures remain disputed, a minimum of 37,843 executions were carried out in the Republican zone with a maximum of 150,000 executions (including 50,000 after the war) in [[Spain under Franco|Nationalist Spain]]."<ref>Julius Ruiz, [http://jch.sagepub.com/cgi/content/abstract/42/1/97 "Defending the Republic: The García Atadell Brigade in Madrid, 1936"]. ''Journal of Contemporary History'' 42.1 (2007):97.</ref>  César Vidal puts the number of Republican victims at 110,965.<ref name="republicanas1">César Vidal, ''Checas de Madrid: Las cárceles republicanas al descubierto''. ISBN 978-84-9793-168-7</ref> In 2008 a Spanish judge, [[Baltasar Garzón]], opened an investigation into the executions and disappearances of 114,266 people between 17 July 1936 and December 1951 (he has since been indicted for violating a 1977 amnesty by these actions).  Among the executions investigated was that of the poet and dramatist [[Federico García Lorca]].<ref name="spanjudge">{{cite news|url= http://www.iht.com/articles/2008/10/16/europe/spain.php |title=Spanish judge opens case into Franco's atrocities|publisher = New York Times|date =16 October 2008 |accessdate=28 July 2009 }}</ref><ref>[http://www.latinreporters.com/espagneGarzonFrancoLorca16102008M.pdf Decision of Juzgado Central de Instruccion No. 005, Audiencia Nacional, Madrid (16 October 2008)]</ref>
+
+In the early days of the war, [[extrajudicial killing|executions]] of people who were caught on the "wrong" side of the lines became widespread in conquered areas.  The outbreak of the war provided an excuse for settling accounts and resolving longstanding feuds.  In these ''paseos'' ("strolls"), as the executions were called, the victims were taken from their refuges or jails to be shot outside of town. The corpses were abandoned or interred in graves dug by the victims themselves. Local police just noted the appearance of the corpses.
+
+===Nationalists===
+
+[[Image:Savoia-Marchetti SM.81.jpg|thumb|right|Nationalist aircraft bomb Madrid in late November 1936.]]
+The atrocities of the Nationalists, frequently ordered by authorities in order to eradicate any trace of leftism in Spain, were common. According to historian Paul Preston, the minimum number of those executed by the rebels is 130,000, and is likely to be far higher. The violence carried out in the rebel zone was carried out by the military, the "Civil Guard", the Falange in the name of the regime and legitimized by the Catholic Church.<ref name="wais"/>
+
+[[File:Barcelona bombing.jpg|thumb|Bombing in [[Barcelona]], 1938.]]
+
+Many such acts were committed by reactionary groups during the first weeks of the war. This included the execution of [[school teacher]]s<ref>Antony Beevor, ''The Battle for Spain; The Spanish Civil War, 1936–1939'' (Weidenfeld & Nicolson, 2006), p.89.</ref> (because the efforts of the Second Spanish Republic to promote [[Laïcité|laicism]] and to displace the Church from the education system by closing religious schools were considered by the Nationalists as an attack on the [[Roman Catholic Church]]); the massive killings of civilians in the cities they captured;<ref>{{harvnb|Preston|2007|p=121}}</ref> the execution of unwanted individuals (including [[non-combatant]]s<ref>{{harvnb|Preston|2007|p=120}}</ref> such as [[Trade unionism|trade-unionists]] and known Republican sympathisers etc.).<ref>Antony Beevor, ''The Battle for Spain; The Spanish Civil War, 1936–1939'' (Weidenfeld & Nicolson, 2006), pp 88-89.</ref>
+
+Nationalist forces committed massacres in Seville, where some 10,000 people were shot. In Granada, about 8000 people were murdered.<ref>[http://books.google.com/books?id=r6La2ttR7jEC&pg=PA89&dq=Franco+massacre+civil+war+seville&lr=&ei=I8IxS7SHJ5OkkASA1oS7AQ&cd=3#v=onepage&q=&f=false Franco and the Spanish Civil War By Filipe Ribeiro De Meneses]</ref> After the capture of Almendralejo, about 1000 prisoners were shot, including 100 women. Some 2000 were shot when Badajoz was conquered by Yague. In February 1937, over 4000 were killed after the capture of Malaga. When Bilbao was conquered, some 1000 people were executed.<ref>[http://www.google.es/search?hl=es&q=Julio+de+la+Cueva+guerra&btnG=Buscar&meta=cr%3DcountryES&aq=&oq=Julio+de+la+Cueva+guer Franco and the Spanish Civil WarBy Filipe Ribeiro De Meneses]</ref> The numbers of people killed as the African columns raped, looted, and murdered their way through Seville and Madrid are particularly difficult to calculate.<ref>[http://books.google.com/books?id=2vioVIdend4C&pg=PA120&dq=franco+moors+massacre&lr=&ei=4MsxS9TaMpuMlASX04i8AQ&cd=8#v=onepage&q=raped&f=false The Spanish Civil War: reaction, revolution and revenge By Paul Preston]</ref>
+
+Nationalists murdered Catholic clerics. In one particular incident, following the capture of Bilbao, hundreds of people, including 16 priests who had served as chaplains for the Republican forces, were taken to the countryside or to graveyards to be murdered.<ref>John Bieter, Mark Bieter, [http://books.google.com/books?id=gPQZsu0Ma0cC&pg=PA91&dq=Franco+executed+basque+priests&ei=Qr4xS83NAZqIkATAwNTPAQ&cd=4#v=onepage&q=Franco%20executed%20basque%20priests&f=false An Enduring Legacy: The Story of Basques in Idaho]</ref>
+
+Franco's forces persecuted Protestants. They murdered Protestant ministers. Franco's forces were determined to remove from Spain the "Protestant heresy". Pastor Miguel Blanco of Seville was shot as was Pastor Jose Garcia Fernandez of Granada. In Zaragoza, on August 18, the church was attacked by Franco's forces. They destroyed furniture, burned Bibles and books and stole valuables. Many Protestants were imprisoned and tortured.<ref>http://www.iee-es.org/index.php?option=com_content&task=view&id=36&Itemid=1</ref>
+
+The Nationalists also persecuted the Basque people. They were determined to eradicate Basque culture. According to Basque sources, some 22,000 Basques were murdered by Nationalists immediately after the Civil War.<ref>[http://books.google.com/books?id=7OGih6t_0DgC&pg=PA47&dq=Basques+executed+franco&lr=&ei=DsAxS6WWE6OKkATdm_iuAQ&cd=14#v=onepage&q=Basques%20executed%20franco&f=false Spanish Best: The Fine Shotguns of Spain By Terry Wieland]</ref>
+
+The Nationalist side also conducted [[aerial bombing of cities]] in Republican territory, carried out mainly by the ''[[Luftwaffe]]'' volunteers of the ''[[Condor Legion]]'' and the ''[[Regia Aeronautica|Italian air force]]'' volunteers of the ''[[Corpo Truppe Volontarie]]'' ([[Madrid]], [[Barcelona]], [[Valencia, Spain|Valencia]], [[Guernica (town)|Guernica]], and other cities). The most notorious example of this tactic of terror bombings was the [[Bombing of Guernica]].
+
+===Republicans===
+[[Image:SpanishLeftistsShootStatueOfChrist.jpg|thumb|right|"Execution" of the [[Sacred Heart of Jesus]] by Communist militiamen at [[Cerro de los Ángeles]] near Madrid, on 7 August 1936, was the most infamous of the widespread desecration of religious property.<ref>Ealham, Chris and Michael Richards, [http://books.google.com/books/cambridge?id=ypBS6N0aFJgC&pg=PA80&dq=%22most+famous+ritual+destruction%22 The Splintering of Spain], p. 80, 168, Cambridge University Press, 2005, ISBN 0-521-82178-9, 9780521821780</ref> The photograph in the London ''[[Daily Mail]]'' had the caption the "Spanish Reds' war on religion."<ref>{{cite web|url=http://orpheus.ucsd.edu/speccoll/swphotojournalism/m629-f02-19.html |title=Shots of War: Photojournalism During the Spanish Civil War |publisher=Orpheus.ucsd.edu |date= |accessdate=24 June 2009}}</ref>]]
+
+An estimated 55,000 civilians died in Republican-held territories. The Republican government was anticlerical and supporters attacked and murdered Roman Catholic clergy in reaction to news of the military revolt. In Republican held territories, Roman Catholic churches, convents, monasteries, and cemeteries were desecrated. Through the war, nearly all segments of the Republicans, Basques being a notable exception, took part in semi-organized anti-Roman Catholic, anticlerical killing of 6,832 members of the Catholic clergy and religious orders (including 13 bishops, 4,172 priests, 2,364 monks and friars, and 283 nuns).<ref>[http://links.jstor.org/sici?sici=0022-0094%28199807%2933%3A3%3C355%3ARPATAR%3E2.0.CO%3B2-O "Religious Persecution, Anticlerical Tradition and Revolution: On Atrocities against the Clergy during the Spanish Civil War"] ''Journal of Contemporary History'' 33.3 (July 1998): 355.</ref><ref>Payne, Stanley G., [http://libro.uca.edu/payne2/payne26.htm A History of Spain and Portugal, Vol. 2, Ch. 26, (Print Edition: University of Wisconsin Press, 1973) (LIBRARY OF IBERIAN RESOURCES ONLINE] p. 649.</ref> By the end of the war 20 percent of the nation's clergy had been killed.<ref>Bowen, Wayne H., [http://books.google.com/books?id=zVx2rFJIyQQC&dq Spain During World War II], p. 222, University of Missouri Press 2006</ref>
+
+As well as clergy, civilians were executed in Republican areas. Some civilians were executed as suspected [[fifth column]]ists. Others died in revenge due to news of the massacres carried out in the Nationalist zone. Air raids committed against Republican cities were another factor.<ref>[http://books.google.com/books?id=2vioVIdend4C&dq=Paul+Preston+spanish+civil+war&printsec=frontcover&source=bl&ots=jzdMK80Ak1&sig=GwMah-lm8lvneFpxsjFVyZ7NaNA&hl=en&ei=SMYxS-usHJHCsgOO_MjEBA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CAoQ6AEwAA#v=onepage&q=executed&f=false The Spanish Civil War: reaction, revolution and revenge By Paul Preston]</ref> Historian Paul Preston emphasizes that Republican authorities did not order such measures to be taken.<ref name=wais>[http://cgi.stanford.edu/group/wais/cgi-bin/?p=38123 ''Spain and Germany: Franco and Hitler'', Paul Preston]</ref> As pressure mounted with increasing success of the Nationalists, many civilians were executed by councils and tribunals controlled by competing Communist and Anarchist groups. Some anarchists were executed by Soviet-advised communist functionaries in Catalonia <ref name="Hugh Thomas 1961 p. 176">Hugh Thomas, ''The Spanish Civil War'', (1961)</ref> as described by [[George Orwell]]'s description of the purges in Barcelona in 1937 in ''[[Homage to Catalonia]]''.,<ref name="George Orwell 1938">George Orwell, ''Homage to Catalonia'', 1938</ref> which followed a period of increasing tension between Competing elements of the Catalan political scene.
+
+[[Image:Brigde at Ronda, Spain.jpg|thumb|left|[[Puente Nuevo]], the bridge that links together the two parts of [[Ronda]] in Spain. Behind the window near the center of the bridge is a prison cell. During the Civil War, both Nationalists and Republicans are claimed to have thrown prisoners from the bridge to their deaths in the canyon.<ref name="Hugh Thomas 1961 p. 176">Hugh Thomas, ''The Spanish Civil War'', (1961) p. 176</ref>]]
+Republicans initially reacted to the attempted coup by arresting and executing actual and perceived Nationalists. In the Andalusian town of Ronda, 512 alleged Nationalists were executed in the first month of the war.<ref name="Hugh Thomas 1961 p. 176"/>
+
+Communist [[Santiago Carrillo Solares]] has been accused of the killing of Nationalists in the [[Paracuellos massacre]] near [[Paracuellos del Jarama]] and [[Torrejón de Ardoz]]. However, the extent to which (in particular) Carrillo was responsible remains a source of debate.<ref>Ian Gibson, "Paracuellos. Cómo fue". 1983, Plaza y Janés. Barcelona.</ref> The Pro-Soviet Communists committed numerous atrocities against fellow Republicans, including other Marxists: [[André Marty]], known as the Butcher of Albacete, was responsible for the deaths of some 500 members of the International Brigades.<ref>Anthony Beevor, Battle for Spain p. 161</ref> [[Andreu Nin]], leader of the POUM (Workers' Party of Marxist Unification), and many prominent POUM members were murdered by the Communists.<ref>Arnuad Imatz, "Espagne: la guerre des mémoires" (2009) 40 25-30, at 25</ref>
+
+==Social revolution==
+{{Main|Spanish Revolution}}
+
+In the anarchist-controlled areas, [[Aragon|Aragón]] and [[Catalonia]], in addition to the temporary military success, there was a vast [[social revolution]] in which the workers and peasants [[collectivisation|collectivised]] [[Land rights|land]] and [[industry]], and set up councils parallel to the paralyzed Republican government. This revolution was opposed by both the Soviet-supported communists, who ultimately took their orders from Stalin's politburo (which feared a loss of control), and the [[Social democracy|Social Democratic]] Republicans (who worried about the loss of civil property rights). The agrarian [[collectives]] had considerable success despite opposition and lack of resources.<ref>{{cite web|author=Noam Chomsky |url=http://question-everything.mahost.org/Archive/chomskyspain.html |title=Objectivity and Liberal Scholarship |publisher=Question-everything.mahost.org |date= |accessdate=24 June 2009}}</ref>
+
+As the war progressed, the government and the communists were able to leverage their access to Soviet arms to restore government control over the war effort, through both diplomacy and force.  Anarchists and the [[Workers' Party of Marxist Unification]] (''Partido Obrero de Unificación Marxista'', or [[POUM]]) were integrated into the regular army, albeit with resistance; the POUM was outlawed and falsely denounced as an instrument of the fascists.  In the ''[[Barcelona May Days|May Days]]'' of 1937, many thousands of anarchist and communist republican soldiers fought for control of strategic points in [[Barcelona]].
+
+The pre-war [[Falange]] was a small party of some 30–40,000 members. It also called for a social revolution that would have seen Spanish society transformed by [[National Syndicalism]]. Following the execution of its leader, [[José Antonio Primo de Rivera]], by the Republicans, the party swelled in size to over 400,000. The leadership of the Falange suffered 60% casualties in the early days of the civil war and the party was transformed by new members and rising new leaders, called ''camisas nuevas'' ("new shirts"), who were less interested in the revolutionary aspects of National Syndicalism.<ref>Arnaud Imatz, "La vraie mort de Garcia Lorca" 2009 40 NRH, 31-34, at p. 32-33).</ref> Subsequently, Franco united all rightist parties into the ironically named Falange Española Tradicionalista de las Juntas de Ofensiva Nacional-Sindicalista (FET y de las JONS), or the Traditionalist Spanish Falange of the Unions of the National-Syndicalist Offensive.
+
+The 1930s also saw Spain become a focus for [[pacifist]] organizations including the [[Fellowship of Reconciliation]], the [[War Resisters League]] and the [[War Resisters' International]]. Many people including, as they are now called, the 'insumisos' ('defiant ones', conscientious objectors) argued and worked for non-violent strategies. Prominent Spanish pacifists such as [[Amparo Poch y Gascón]] and [[José Brocca]] supported the Republicans.  Brocca argued that Spanish pacifists had no alternative but to make a stand against fascism. He put this stand into practice by various means including organizing agricultural workers to maintain food supplies and through humanitarian work with war refugees.<ref>Bennett, Scott, ''Radical Pacifism: The War Resisters League and Gandhian Nonviolence in America, 1915–1963'', Syracuse NY, Syracuse University Press, 2003; Prasad, Devi,'' War is A Crime Against Humanity: The Story of War Resisters' International'', London, WRI, 2005. Also see Hunter, Allan, ''White Corpsucles in Europe,'' Chicago, Willett, Clark & Co., 1939; and Brown, H. Runham, ''Spain: A Challenge to Pacifism,'' London, The Finsbury Press, 1937.</ref>
+
+==People==
+{{Important Figures in the Spanish Civil War}}
+
+==Political parties and organizations==
+{{Political Parties and organizations in the Spanish Civil War}}
+
+==See also==
+{{Portal box|History|Spain|War}}
+{{Portal box|Anarchism|Liberalism|Fascism|Socialism|Communism}}
+
+*[[Foreign involvement in the Spanish Civil War]]
+*[[Catholicism in the Second Spanish Republic]]
+*[[Guernica (painting)]]
+*''[[The Falling Soldier]]''
+*[[List of war films and TV specials#Spanish Civil War (1936–1939)]]
+*[[List of foreign correspondents in the Spanish Civil War]]
+*[[Ireland and the Spanish Civil War]]
+*[[Polish volunteers in the Spanish Civil War]]
+*[[Jewish volunteers in the Spanish Civil War]]
+*[[Proxy war]]
+*[[European Civil War]]
+*[[Spain in World War II]]
+*[[Moscow Gold]]
+*[[Surviving veterans of the Spanish Civil War]]
+*[[SS Cantabria (1919)|SS Cantabria]]
+*[[Nationalist Foreign Volunteers]]
+*[[Pacifism in Spain]]
+*[[Spanish Maquis]]
+*[[Spanish Republican Air Force]]
+
+==References==
+===Notes===
+{{Reflist|colwidth=30em}}
+
+===Bibliography===
+{{refbegin|colwidth=30em}}
+'''Phase 1. 1930s–1980'''
+*{{Cite book
+   | last = Bolloten
+   | first = Burnett
+   | authorlink = Burnett Bolloten
+   | year = 1979
+   | title = The Spanish Revolution. The Left and the Struggle for Power during the Civil War
+   | publisher = University of North Carolina
+   | isbn = 1842122037}}
+*{{Cite book
+   | last = Brenan
+   | first = Gerald
+   | authorlink = Gerald Brenan
+   | year = 1943
+   | title = [[The Spanish Labyrinth]]: an account of the social and political background of the Civil War
+   | publisher = Cambridge University Press (1993)
+   | location = Cambridge
+   | isbn = 9780521398275
+   | oclc = 38930004}}
+*{{Cite book
+   | last =  Carr
+   | first = Sir Raymond
+   | year = 1977
+   | title = The Spanish Tragedy: The Civil War in Perspective
+   | publisher = Phoenix Press (2001)
+   | isbn = 1-84212-203-7}}
+* Cowles, Virginia. ''Looking for Trouble''. Faber Finds, 2010. ISBN 978-0-571-27091-0 [Re-issue of 1941 book]
+*{{Cite book
+   | last = Cox
+   | first = Geoffrey
+   | authorlink = Geoffrey Cox (journalist)
+   | year = 1937
+   | title = The Defence of Madrid
+   | publisher = Victor Gollancz
+   | location = London
+   | isbn = 1 877372 3 84 ([http://www.otago.ac.nz/press/booksauthors/2006/defence_madrid.html reprinted 2006] [http://www.listener.co.nz/issue/3481/artsbooks/7953/madrid_midnight_of_the_century.html;jsessionid=C8F5DD17257A84A136886D599DB9D5F9 review]) }}
+*{{Cite book
+   | last = Ibarruri
+   | first = Dolores
+   | year = 1976
+   | title = They Shall Not Pass: the Autobiography of La Pasionaria (translated from El Unico Camino by Dolores Ibarruri)
+   | publisher = International Publishers
+   | location = New York
+   | isbn = 0-7178-0468-2
+   | oclc = 9369478}}
+*{{Cite book
+   | last = Jackson
+   | first = Gabriel
+   | authorlink = Gabriel Jackson
+   | year = 1965
+   | title = The Spanish Republic and the Civil War, 1931–1939
+   | publisher = Princeton University Press
+   | location = Princeton
+   | isbn = 0-691-00757-8
+   | oclc = 185862219}}
+*{{Cite book
+   | last = Jellinek
+   | first = Frank
+   | year = 1938
+   | title = The Civil War in Spain
+   | publisher = Victor Gollanz (Left Book Club)
+   | location = London}}
+*{{Cite book
+   | last = Low
+   | first = Mary
+   | co-author = Juan Breá
+   | year = 1979 reissue of 1937
+   | title = Red Spanish Notebook
+   | publisher = City Lights Books (originally by Martin Secker & Warburg)
+   | location = San Francisco
+   | isbn = 0-87286-132-5
+   | oclc = 4832126}}
+*{{Cite book
+   | last = Orwell
+   | first = George
+   | authorlink = George Orwell
+   | year = 2000, first published in 1938
+   | title = Homage to Catalonia
+   | publisher = Penguin Books in association with Martin Secker & Warburg
+   | location = London
+   | isbn = 0-14-118305-5
+   | oclc = 42954349}}
+*{{Cite book
+   | last = Payne
+   | first = Stanley, G.
+   | authorlink = Stanley G. Payne
+   | year = 1970
+   | title =  The Spanish Revolution
+   | publisher = Weidenfeld & Nicolson
+   | location = London
+   | isbn = 0297001248 }}
+*{{Cite book
+   | last = Puzzo
+   | first = Dante Anthony
+   | authorlink = Dante Anthony Puzzo
+   | year = 1962
+   | title = Spain and the Great Powers, 1936–1941
+   | publisher = Books for Libraries Press (originally Columbia University Press, N.Y.)
+   | location = Freeport, N.Y
+   | isbn = 0-8369-6868-9
+   | oclc = 308726}}
+*{{Cite book
+   | last = Rust
+   | first = William
+   | authorlink = William Rust
+   | year = 2003 Reprint of 1939 edition
+   | title = Britons in Spain: A History of the British Battalion of the XV International Brigade
+   | publisher = Warren and Pell
+   | location = Pontypool, Wales (NP4 7AG)}}
+*{{Cite book
+   | last = Southworth
+   | first = Herbert Rutledge
+   | year = 1963
+   | title =  El mito de la cruzada de Franco
+   | publisher = Ruedo Ibérico
+   | location = Paris
+   | isbn = 8483465744}}
+*{{Cite book
+   | last = Taylor
+   | first= F. Jay
+   | authorlink=F. Jay Taylor
+   | year=1956, 1971
+   | title=The United States and the Spanish Civil War, 1936-1939
+   | publisher=Bookman Assocaites
+   | location= New York
+   | isbn  = ISBN 978-0-374-97849-5}}
+*{{Cite book
+   | last = Thomas
+   | first = Hugh
+   | authorlink = Hugh Thomas (historian)
+   | year = 1961
+   | title = The Spanish Civil War
+   | publisher = Penguin (3rd edition, 2003)
+   | location = London
+   | isbn = 0-14-101161-0
+   | oclc = 248799351}}
+
+'''Phase 2. 1981–1999'''
+
+*{{Cite book
+   | last = Anderson
+   | first = James M.
+   | year = 2003
+   | title =  The Spanish Civil War: A History and Reference Guide
+   | publisher = Greenwood Press
+   | location = Westport, Conn.
+   | isbn = 0-313-32274-0}}
+*{{Cite book
+   | last = Beevor
+   | first = Antony
+   | authorlink = Antony Beevor
+   | year = 1982
+   | title = The Spanish Civil War
+   | publisher = Penguin (2001)
+   | location = London
+   | isbn = 0-14-100148-8
+   | oclc = 185343606}}
+*{{Cite book
+   | last = Brouè
+   | first = Pierre
+   | year = 1988
+   | title = The Revolution and the Civil War in Spain
+   | publisher = Haymarket
+   | location = Chicago
+   | oclc = 1931859515}}
+*{{Cite book
+   | last = Howson
+   | first = Gerald
+   | year = 1998
+   | title = Arms for Spain
+   | publisher = St. Martin's Press
+   | location = New York
+   | isbn = 0-312-24177-1
+   | oclc = 231874197}}
+*{{Cite book
+   | last = Koestler
+   | first = Arthur
+   | authorlink = Arthur Koestler
+   | year = 1983
+   | title = Dialogue with death
+   | publisher = Macmillan
+   | location = London
+   | isbn = 0-333-34776-5
+   | oclc = 16604744}}
+*{{Cite book
+   | last = Monteath
+   | first = Peter
+   | year = 1994
+   | title =  The Spanish Civil War in literature, film, and art : an international Bibliography of secondary literature
+   | publisher = Greenwood Press
+   | location = Westport, Conn.
+   | isbn =  0-313-29262-0}}
+*{{Cite book
+   | last = Monteath
+   | first = Peter
+   | year = 1994
+   | title =  Writing the Good Fight. Political Commitment in the International Literature of the Spanish Civil War
+   | publisher = Greenwood Press
+   | location = Westport, Conn.
+   | isbn =  0-313-28766-X}}
+*{{Cite book
+   | last = Preston
+   | first = Paul
+   | authorlink = Paul Preston
+   | year = 1978
+   | title = The Coming of the Spanish Civil War
+   | publisher = Macmillan
+   | location = London
+   | isbn = 0-333-23724-2
+   | oclc = 185713276}}
+*{{Cite book
+   | last = Preston
+   | first = Paul
+   | authorlink = Paul Preston
+   | year = 1996
+   | title = A Concise history of the Spanish Civil War
+   | publisher = Fontana
+   | location = London
+   | isbn = 978-0006863731
+   | oclc = 231702516}}
+*{{Cite book
+   | last = Wilson
+   | first = Ann
+   | year = 1986
+   | title = Images of the Civil War
+   | publisher = Allen & Unwin
+   | location =  London}}
+
+'''Phase 3.  2000–2008'''
+*{{Cite book
+   | last = Alpert
+   | first = Michael
+   | authorlink = Michael Alpert
+   | year = 2004
+   | title = A New International History of the Spanish Civil War
+   | publisher = Palgrave Macmillan
+   | location = Basingstoke
+   | isbn = 1-4039-1171-1
+   | oclc = 155897766}}
+*{{Cite book
+   | last = Beevor
+   | first = Antony
+   | authorlink = Anthony Beevor
+   | year = 2006
+   | title = The Battle for Spain: The Spanish Civil War 1936–1939
+   | publisher = Weidenfeld & Nicolson
+   | location = London
+   | isbn = 978-0297-848325
+   | oclc = 185382508}}
+*{{Cite book
+   | last = Doyle
+   | first = Bob
+   | year = 2006
+   | title = Brigadista – an Irishman's fight against fascism
+   | publisher = Currach Press
+   | location = Dublin
+   | isbn = 1-85607-939-2
+   | oclc = 71752897}}
+*{{Cite book
+   | last = Francis
+   | first = Hywel
+   | year = 2006
+   | title = Miners against Fascism: Wales and the Spanish Civil War
+   | publisher = Warren and Pell
+   | location = Pontypool, Wales (NP4 7AG)}}
+*{{Cite book
+   | last = Graham
+   | first = Helen
+   | year = 2002
+   | title = The Spanish republic at war, 1936–1939
+   | publisher = Cambridge University Press
+   | location = Cambridge
+   | isbn = 0-521-45932-X
+   | oclc = 231983673}}
+*{{Cite book
+   | last = Greening
+   | first = Edwin
+   | year = 2006
+   | title = From Aberdare to Albacete: A Welsh International Brigader's Memoir of His Life
+   | publisher = Warren and Pell
+   | location = Pontypool, Wales (NP4 7AG)}}
+*{{Cite book
+   | last = Kowalsky
+   | first = Daniel
+   | title = ''La Union Sovietica y la Guerra Civil Espanola''
+   | publisher = Critica
+   | location = Barcelona
+   | isbn = 84-8432-490-7
+   | year = 2004
+   | oclc = 255243139}}
+*{{Cite book
+   | last = O'Riordan
+   | first = Michael
+   | authorlink = Michael O'Riordan
+   | year = 2005
+   | title = The Connolly Column
+   | publisher = Warren and Pell
+   | location = Pontypool, Wales (NP4 7AG)}}
+*{{Cite book
+   | last = Othen
+   | first = Christopher
+   | authorlink = Christopher Othen
+   | year = 2008
+   | title = [[Franco's International Brigades: Foreign Volunteers and Fascist Dictators in the Spanish Civil War]]
+   | publisher = Reportage Press
+   | location = London}}
+*{{Cite book
+   | last = Payne
+   | first = Stanley
+   | authorlink = Stanley G. Payne
+   | year = 2004
+   | title = The Spanish Civil War, the Soviet Union, and Communism
+   | publisher = Yale University Press
+   | location = New Haven; London
+   | isbn = 0-300-10068-X
+   | oclc = 186010979}}
+*{{Cite book
+   | last = Prasad
+   | first = Devi
+   | authorlink = Devi Prasad
+   | year = 2005
+   | title = War is a Crime Against Humanity: The Story of War Resisters' International
+   | publisher = War Resisters' International, wri-irg.org
+   | location = London
+   | isbn = 0-903517-20-5
+   | oclc = 255207524}}
+*{{Cite book
+   | last = Preston
+   | first = Paul
+   | authorlink = Paul Preston
+   | year = 2007
+   | title = The Spanish Civil War: Reaction, Revolution, and Revenge
+   | publisher = W. W. Norton and Company
+   | location = New York
+   | isbn = 0393329879}}
+*{{Cite book
+   | last = Radosh
+   | first = Ronald
+   | coauthors = Mary Habeck, Grigory Sevostianov
+   | authorlink = Ronald Radosh
+   | year = 2001
+   | title = Spain betrayed: the Soviet Union in the Spanish Civil War
+   | publisher = Yale University Press
+   | location = New Haven and London
+   | isbn = 0-300-08981-3
+   | oclc = 186413320}}
+*{{Cite book
+   | last = Wheeler
+   | first = George
+   | authorlink = George Wheeler | coauthors = [[Jack Jones (trade unionist)|Jack Jones]] (foreword), David Leach (editor)
+   | year = 2003
+   | title = To Make the People Smile Again: a Memoir of the Spanish Civil War
+   | publisher = Zymurgy Publishing
+   | location = Newcastle upon Tyne
+   | isbn = 1-903506-07-7
+   | oclc = 231998540}}
+*{{Cite book
+   | last = Williams
+   | first = Alun Menai
+   | authorlink = Alun Menai Williams
+   | year = 2004
+   | title = From the Rhondda to the Ebro: The Story of a Young Life
+   | publisher = Warren & Pell
+   | location = Pontypool, Wales}}
+{{refend}}
+
+==External links==
+{{Commons category|Spanish Civil War}}
+{{Wikisource|Relations of Members of the United Nations with Spain}}
+{{wikisource-lang|es|Condecoraciones otorgadas por Francisco Franco a Benito Mussolini y a Adolf Hitler}}
+
+===Primary documents===
+*[http://magazinesandwar.com/ Magazines and journals published during the war], an online exhibit maintained by the [[University of Illinois at Urbana-Champaign]]
+*[http://www.weisbord.org A collection of essays] by Albert and Vera Weisbord with about a dozen essays written during and about the Spanish Civil War.
+*[http://www.ateneo.unam.mx/textoconstitucion.htm Constitución de la República Española (1931)]
+*[http://www.lacucaracha.info/scw/diary/ La Cucaracha, The Spanish Civil War Diary], a detailed chronicle of the events of the war
+*Ronald Hilton, [http://historicaltextarchive.com/books.php?op=viewbook&bookid=11 ''Spain, 1931–36, From Monarchy to Civil War, An Eyewitness Account'']
+*[http://www.benjamin-peret.org/benjamin-peret/bibliotheque/carnets-de-la-guerre-d_espagne.html Mary Low and Juan Breá:  ''Red Spanish Book''. A testimony by two surrealists and trotskytes]
+*[http://libcom.org/library/spanish-civil-war-1936–1939 Spanish Civil War and Revolution text archive] in the libcom.org library
+*[http://historicalresources.org/2008/11/13/the-nyon-agreement-14-september-1937/ The Nyon Agreement, 14 September 1937 &ndash; Agreement between 9 Powers for collective measures to be taken to suppress attacks by submarines against merchant vessels]
+*[http://libraries.ucsd.edu/locations/mscl/collections/southworth-spanish-civil-war-collection.html Southworth Spanish Civil War Collection], books, pamphlets, periodicals, newspapers, posters, and manuscripts housed at Mandeville Special Collection Library, [[University of California, San Diego]]
+
+===Images and films===
+*[http://blip.tv/file/413638/ Spain in Revolt 1, newsreel documentary (Video Stream)]
+*[http://blip.tv/file/413689/ Spain in Revolt 2, newsreel documentary (Video Stream)]
+*[http://www.revistasyguerra.com/ Revistas y Guerra 1936–1939: La Guerra Civil Espanola y la Cultura Impresa] online exhibition
+*[http://www.vads.ahds.ac.uk/collections/IWMSCW.html Imperial War Museum Collection of Spanish Civil War Posters] hosted online by [http://vads.ahds.ac.uk/index.php Visual Arts Data Service (VADS)]
+*[http://orpheus.ucsd.edu/speccoll/visfront/vizindex.html Posters of the Spanish Civil War from UCSD's Southworth collection]
+*[http://www.tvhastings.org/documents/home.html Civil War Documentaries made by the Confederación Nacional del Trabajo]
+*[http://www.libcom.org/gallery/v/history/we/spanish-civil-war-images/  Spanish Civil War and Revolution image gallery] – photographs and posters from the conflict
+*[http://www.zi.ku.dk/personal/drnash/model/spain/index.html Aircraft of the Spanish Civil War]
+*[http://www.theeuropeanlibrary.org/portal/?lang=en&coll=collections:a0077&q=("spanish+civil+war") 64 "spanish civil war" objects] in [[The European Library]] Harvest
+*[http://museum.icp.org/mexican_suitcase/gallery_capa.html Battle of Rio Segre Photographs] [[Robert Capa|Capa, Robert]] (1938) International Center of Photography. Retrieved 2010-09-23.
+
+===Academics and governments===
+*[http://unx1.shsu.edu/~his_ncp/SpanCW.html A History of the Spanish Civil War], excerpted from a U.S. government country study.
+*[http://www.columbia.edu/cu/history/pdf/chr_vol1.pdf Columbia Historical Review ''Dutch Involvement in the Spanish Civil War'']
+*[http://www.bbc.co.uk/radio4/history/inourtime/inourtime_20030403.shtml "The Spanish Civil War – causes and legacy"] on [[BBC Radio 4]]'s [[In Our Time (BBC Radio 4)|''In Our Time'']] featuring Paul Preston, Helen Graham and Dr Mary Vincent
+
+===Other===
+* [http://www.timesonline.co.uk/tol/system/topicRoot/The_Spanish_Civil_War/ Spanish Civil War] Original reports from The Times
+* [http://www.gmu.edu/departments/economics/bcaplan/spain.htm The Anarcho-Statists of Spain], a different view of the anarchists in the Spanish Civil War, [[George Mason University]]
+* [http://www.spartacus.schoolnet.co.uk/Spanish-Civil-War.htm Spanish Civil War information], from [[Spartacus Educational]]
+* [http://web.archive.org/web/20051208010127/www.jewishvirtuallibrary.org/jsource/History/sugar12.html American Jews in Spanish Civil War], by Martin Sugarman
+* [http://recollectionbooks.com/anow/history/spain/ The Spanish Revolution, 1936–39] articles & links, from Anarchy Now!
+* [http://www.negations.net/?p=88 The Revolutionary Institutions: The Central Committee of Anti-Fascist Militias], by Juan García Oliver
+* [http://www.kbismarck.com/mgl/spanishcivwar.htm Warships of the Spanish Civil War]
+* [[s:No Pasaran|¡No Pasarán! Speech]] Dolores Ibárruri's famous rousing address for the defense of the Second Republic
+* [http://forum.axishistory.com/viewforum.php?f=32 Spanish Civil War Forum]
+* [http://www.nzhistory.net.nz/node/13669 New Zealand and the Spanish Civil War]
+* [http://iberianature.com/barcelona/history-of-barcelona/spanish-civil-war-tour-in-barcelona/ Spanish Civil War tours in Barcelona] Covers themes such as Anarchism, George Orwell, the realities of daily life and bombing.
+
+{{Use dmy dates|date=August 2010}}
+{{Nazi-Soviet relations}}
+
+[[Category:Spanish Civil War| ]]
+[[Category:Carlism]]
+[[Category:Civil wars involving the states and peoples of Europe]]
+[[Category:Civil wars of the Modern era]]
+[[Category:Conflicts in 1936]]
+[[Category:Conflicts in 1937]]
+[[Category:Conflicts in 1938]]
+[[Category:Conflicts in 1939]]
+[[Category:Francoist Spain]]
+[[Category:Succession-based civil wars]]
+[[Category:Wars involving Spain]]
+[[Category:Wars involving the states and peoples of Europe]]
+
+{{Link FA|ca}}
+{{Link FA|eo}}
+{{Link FA|ka}}
+
+[[af:Spaanse Burgeroorlog]]
+[[ar:الحرب الأهلية الإسبانية]]
+[[an:Guerra Civil Espanyola]]
+[[ast:Guerra Civil Española]]
+[[az:İspaniya vətəndaş müharibəsi]]
+[[bs:Španski građanski rat]]
+[[br:Brezel Spagn]]
+[[bg:Гражданска война в Испания]]
+[[ca:Guerra Civil Espanyola]]
+[[cs:Španělská občanská válka]]
+[[cy:Rhyfel Cartref Sbaen]]
+[[da:Spanske borgerkrig]]
+[[de:Spanischer Bürgerkrieg]]
+[[et:Hispaania kodusõda]]
+[[el:Ισπανικός Εμφύλιος]]
+[[es:Guerra Civil Española]]
+[[eo:Hispana Enlanda Milito]]
+[[ext:Guerra Cevil Española]]
+[[eu:Espainiako Gerra Zibila]]
+[[fa:جنگ داخلی اسپانیا]]
+[[hif:Spanish Civil War]]
+[[fr:Guerre d'Espagne]]
+[[fur:Vuere di Spagne]]
+[[ga:Cogadh Cathartha na Spáinne]]
+[[gl:Guerra Civil Española]]
+[[ko:스페인 내전]]
+[[hi:स्पेनी गृहयुद्ध]]
+[[hr:Španjolski građanski rat]]
+[[io:Hispaniana interna milito]]
+[[id:Perang Saudara Spanyol]]
+[[ia:Guerra Civil Espaniol]]
+[[is:Spænska borgarastyrjöldin]]
+[[it:Guerra civile spagnola]]
+[[he:מלחמת האזרחים בספרד]]
+[[ka:ესპანეთის სამოქალაქო ომი]]
+[[kk:Испан азамат соғысы]]
+[[sw:Vita ya wenyewe kwa wenyewe ya Hispania]]
+[[la:Bellum Civile Hispanicum]]
+[[lv:Spānijas pilsoņu karš]]
+[[lb:Spuenesche Biergerkrich]]
+[[lt:Ispanijos pilietinis karas]]
+[[hu:Spanyol polgárháború]]
+[[mk:Шпанска граѓанска војна]]
+[[ml:സ്പാനിഷ് ആഭ്യന്തരയുദ്ധം]]
+[[arz:حرب اهليه اسبانيه]]
+[[ms:Perang Saudara Sepanyol]]
+[[mwl:Guerra Cebil Spanhola]]
+[[nl:Spaanse Burgeroorlog]]
+[[ja:スペイン内戦]]
+[[no:Den spanske borgerkrig]]
+[[nn:Den spanske borgarkrigen]]
+[[oc:Guèrra Civiu Espanhòla]]
+[[nds:Spaansche Börgerkrieg]]
+[[pl:Hiszpańska wojna domowa]]
+[[pt:Guerra Civil Espanhola]]
+[[ro:Războiul Civil Spaniol]]
+[[ru:Гражданская война в Испании]]
+[[sq:Lufta civile spanjolle]]
+[[scn:Guerra civili spagnola]]
+[[simple:Spanish Civil War]]
+[[sk:Španielska občianska vojna (1936)]]
+[[sl:Španska državljanska vojna]]
+[[sr:Шпански грађански рат]]
+[[sh:Španski građanski rat]]
+[[fi:Espanjan sisällissota]]
+[[sv:Spanska inbördeskriget]]
+[[tl:Digmaang Sibil ng Espanya]]
+[[ta:எசுப்பானிய உள்நாட்டுப் போர்]]
+[[kab:Amgaru aɣarim n Spenyul]]
+[[th:สงครามกลางเมืองสเปน]]
+[[tg:Ҷанги шаҳрвандии Испания]]
+[[tr:İspanya İç Savaşı]]
+[[uk:Громадянська війна в Іспанії]]
+[[vi:Nội chiến Tây Ban Nha]]
+[[fiu-vro:Hispaania kodosõda]]
+[[wa:Guere civile espagnole]]
+[[war:Gyera Sibil Espanyol]]
+[[zh-yue:西班牙內戰]]
+[[bat-smg:Ėspanėjės cėvėlėnė vaina]]
+[[zh:西班牙内战]]

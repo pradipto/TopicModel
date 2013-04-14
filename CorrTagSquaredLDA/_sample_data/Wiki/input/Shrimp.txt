@@ -1,0 +1,249 @@
+{{other uses}}
+{{Taxobox
+| fossil_range = {{fossil_range|Lower Jurassic|Recent}}
+| image = Heterocarpus ensifer.jpg
+| image_caption = ''[[Heterocarpus ensifer]]''
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| subphylum = [[Crustacean|Crustacea]]
+| classis = [[Malacostraca]]
+| ordo = [[Decapoda]]
+| subordo = [[Pleocyemata]]
+| infraordo = '''Caridea'''
+| infraordo_authority = [[James Dwight Dana|Dana]], 1852
+| subdivision_ranks = Superfamilies
+| subdivision = 
+*[[Alpheoidea]]
+*[[Atyidae|Atyoidea]]
+*[[Bresilioidea]]
+*[[Campylonotoidea]]
+*[[Crangonoidea]]
+*[[Galatheacaridoidea]]
+*[[Nematocarcinoidea]]
+*[[Oplophoridae|Oplophoroidea]]
+*[[Palaemonoidea]]
+*[[Pandaloidea]]
+*[[Pasiphaeidae|Pasiphaeoidea]]
+*[[Physetocaris|Physetocaridoidea]]
+*[[Procaridoidea]]
+*[[Processoidea]]
+*[[Psalidopus|Psalidopodoidea]]
+*[[Stylodactylidae|Stylodactyloidea]]
+}}
+
+'''Shrimp''' are [[aquatic locomotion|swimming]], [[Decapoda|decapod]] [[crustacean]]s classified in the [[infraorder]] Caridea, found widely around the world in both [[fresh water|fresh]] and [[seawater|salt water]]. Adult shrimp are [[Filter feeder|filter feeding]] [[benthic]] animals living close to the bottom. They can live in [[Shoaling and schooling|schools]] and can swim rapidly backwards. Shrimp are an important food source for larger animals from fish to [[whale]]s. They have a high tolerance to toxins in polluted areas, and may contribute to high [[toxin]] levels in their [[predator]]s. Together with [[prawn]]s, shrimp are widely caught and farmed for human consumption.
+
+==Taxonomy==
+A number of more or less unrelated crustaceans share the word "shrimp" in their common name. Examples are the [[mantis shrimp]] and the opossum or [[mysid shrimp]], both of which belong to the same [[class (biology)|class]] ([[Malacostraca]]) as [[Decapoda|decapods]] including shrimp, but constitute two different [[order (biology)|order]]s within it, the [[Stomatopoda]] and the [[Mysidacea]]. ''[[Triops longicaudatus]]'' and ''[[Triops cancriformis]]'' are also popular animals in freshwater [[aquarium|aquaria]], and are often called shrimp, although they belong instead to the [[Notostraca]], a quite unrelated group.
+
+===Biological definition===
+{{Multiple image
+| direction = vertical
+| align = left
+| width = 200
+| image1 = Pandborealisind.jpg
+| caption1 = Shrimp (Caridea), such as ''[[Pandalus borealis]]'', typically have two pairs of claws, and the second segment of the abdomen overlaps the segments on either side. The abdomen shows a pronounced ''caridean bend''.
+| image2 = Penaeus monodon.jpg
+| caption2 = Prawns (Dendrobanchiata), such as ''[[Penaeus monodon]]'', typically have three pairs of claws, and even-sized segments on the abdomen. There is no pronounced bend in the abdomen.
+}}
+The class Malacostraca contains about half of the crustaceans. The members of this class have a primitive body plan that can be described as shrimp-like, consisting of a 5-8-7 body plan. They have a small carapace that encloses the head and the thorax, and have a muscular abdomen for swimming. They also have a thin exoskeleton to maintain a light weight. These general characters are common in all members of the class.
+
+The class can be further divided into the [[decapoda|decapod]]s, which are even still divided into the [[Prawn|dendrobranchiates]] (prawns) and the carideans (shrimp and snapping shrimp).<ref>{{cite web |url=http://museumvictoria.com.au/crust/caribiol.html#svp |title=Biology of Shrimps |publisher=[[Museum Victoria Australia]] |accessdate=January 9, 2010}}</ref>
+
+The prawns have sequentially overlapping body segments (segment one covers the segment two, segment two covers segment three, etc), chelate (claw like) first three leg pairs, and have a very basic larval body type.
+
+The shrimps also have overlapping segments, however, in a different pattern (segment two overlaps segments one and three), only the first two leg pairs are chelate, and they have a more complex larval form. 
+
+Biologists distinguish the true shrimp from the true [[prawn]] because of the differences in their [[gill]] structures. The gill structure is [[Lamella (zoology)|lamella]]r in shrimp but branching in prawns. The easiest practical way to separate true shrimps from true prawns is to examine the second [[Somite|abdominal segment]]. The second segment of a shrimp overlaps both the first and the third segment, while the second segment of a prawn overlaps only the third segment.<ref>{{cite web |author=Charles Raabe & Linda Raabe |year=2008 |url=http://www.chucksaddiction.com/Caridean.html |title=The Caridean shrimp: Shrimp Anatomy - Illustrations and Glossary}}</ref>
+
+The infraorder Caridea is divided into 16 superfamilies:<ref name="Grave">{{cite journal |journal = [[Raffles Bulletin of Zoology]] |year=2009 |volume = Suppl. 21 |pages=1–109 |title = A classification of living and fossil genera of decapod crustaceans |author=Sammy De Grave, N. Dean Pentcheff, Shane T. Ahyong ''et al.'' |url=http://rmbr.nus.edu.sg/rbz/biblio/s21/s21rbz1-109.pdf |format=[[Portable Document Format|PDF]]}}</ref>
+{{div col|colwidth=21em}}
+*[[Alpheoidea]] <small>Rafinesque, 1815</small>
+*[[Atyidae|Atyoidea]] <small>De Haan, 1849</small>
+*[[Bresilioidea]] <small>Calman, 1896</small>
+*[[Campylonotoidea]] <small>Sollaud, 1913</small>
+*[[Crangonoidea]] <small>Haworth, 1825</small>
+*[[Galatheacaridoidea]] <small>Vereshchaka, 1997</small>
+*[[Nematocarcinoidea]] <small>Smith, 1884</small>
+*[[Oplophoridae|Oplophoroidea]] <small>Dana, 1852</small>
+*[[Palaemonoidea]] <small>Rafinesque, 1815</small>
+*[[Pandaloidea]] <small>Haworth, 1825</small>
+*[[Pasiphaeidae|Pasiphaeoidea]] <small>Dana, 1852</small>
+*[[Physetocaris|Physetocaridoidea]] <small>Chace, 1940a</small>
+*[[Procaridoidea]] <small>Chace & Manning, 1972</small>
+*[[Processoidea]] <small>Ortmann, 1896</small>
+*[[Psalidopus|Psalidopodoidea]] <small>Wood-Mason, 1892</small>
+*[[Stylodactylidae|Stylodactyloidea]] <small>Bate, 1888</small>
+{{div col end}}
+
+A number of extinct genera cannot be placed in any superfamily:<ref name="Grave"/>
+{{div col|colwidth=21em}}
+*''[[Acanthinopus]]'' <small>Pinna, 1974</small>
+*''[[Alcmonacaris]]'' <small>Polz, 2009</small>
+*''[[Bannikovia]]'' <small>Garassino & Teruzzi, 1996</small>
+*''[[Blaculla]]'' <small>Münster, 1839</small>
+*''[[Buergerocaris]]'' <small>Schweigert & Garassino, 2004</small>
+*''[[Gampsurus]]'' <small>von der Marck, 1863</small>
+*''[[Hefriga]]'' <small>Münster, 1839</small>
+*''[[Leiothorax]]'' <small>Pinna, 1974</small>
+*''[[Parvocaris]]'' <small>Bravi & Garassino, 1998</small>
+*''[[Pinnacaris]]'' <small>Garassino & Teruzzi, 1993</small>
+{{div col end}}
+
+===Commercial and culinary definition===
+While in biological terms shrimps and [[prawn]]s belong to different [[Order (biology)|suborder]]s of [[Decapoda]], they are very similar in appearance. In commercial [[farming]] and [[Fishery|fisheries]], the terms "shrimp" and "prawn" are often used interchangeably. However, recent [[aquaculture]] literature increasingly uses the term "prawn" only for the freshwater forms of [[palaemonid]]s and "shrimp" for the marine [[Penaeidae|penaeids]].<ref name="iaa">{{cite web |publisher=[[Indian Aquaculture Authority]] |url=http://aquaculture.tn.nic.in/pdf/farming.pdf |title=Shrimp Aquaculture and the Environment - An Environment Impact Assessment Report, chapter 2; IAA report |year=2001}}</ref>
+
+In the [[United Kingdom]], the word “prawn” is more common on menus than “shrimp”; while the opposite is the case in [[North America]]. The term “prawn” is also loosely used to describe any large shrimp, especially those that come 15 (or fewer) to the pound (such as “king prawns”, yet sometimes known as “jumbo shrimp”). [[Australia]] and some other [[Commonwealth of Nations|Commonwealth]] nations follow this British usage to an even greater extent, using the word “prawn” almost exclusively. When Australian comedian [[Paul Hogan]] used the phrase, [[Shrimp on the barbie|“I'll slip an extra shrimp on the barbie for you”]] in an American television advertisement,<ref name = "BakerBendel">{{cite journal | author=Bill Baker & Peggy Bendel | issue = Summer 2005 | url = http://www.atme.org/pubs/archives/77_1898_11926.cfm | title = Come and Say G’Day! | journal = Travel Marketing Decisions | publisher = [[Association of Travel Marketing Executives]] | accessdate = December 21, 2007}}</ref> it was intended to make what he was saying easier for his American audience to understand, and was thus a deliberate distortion of what an Australian would typically say.
+
+In Britain very small crustaceans with a brownish shell are called shrimp, and are used to make [[potted shrimps|potted shrimp]]. They are also used in dishes where they are not the primary ingredient.
+
+==Consumption==
+[[File:Nordseegarnelen.jpg|thumb|right|A fresh catch of brown shrimp, ''[[Crangon crangon]]'']]
+
+As with other seafood, shrimp is high in [[calcium]], [[iodine]] and [[protein]] but low in [[food energy]]. A shrimp-based meal is also a significant source of [[cholesterol]], from 122&nbsp;[[milligram|mg]] to 251&nbsp;mg per 100&nbsp;[[gram|g]] of shrimp, depending on the method of preparation.<ref>{{cite web |url=http://www.dietaryfiberfood.com/cholesterol-shrimp.php |title=Cholesterol Content in Seafoods |accessdate=January 7, 2007}}</ref> Shrimp consumption, however, is considered healthy for the circulatory system because the lack of significant levels of saturated fat in shrimp means that the high cholesterol content in shrimp actually improves the ratio of LDL to HDL cholesterol and lowers [[triglycerides]].<ref>{{cite journal |url=http://www.ajcn.org/cgi/reprint/64/5/712.pdf |title=Effects of shrimp consumption on plasma lipoproteins |author=Elizabeth R. De Oliveira e Silva, Cynthia E. Seidman, Jason J. Tian, Lisa C. Hudgins, Frank M. Sacks & Jan L. Breslow |journal=[[American Journal of Clinical Nutrition]] |year=l996 |volume=64 |pages=712–717}}</ref>
+
+Shrimp and other [[shellfish]] are among the most common [[food allergy|food allergens]].<ref>{{cite web | title = Common Food Allergens | url = http://www.foodallergy.org/allergens/index.html | publisher = [[Food Allergy & Anaphylaxis Network]] | accessdate = June 24, 2007}}</ref> They are not [[kosher]] and thus are forbidden in [[Jewish cuisine]]. Shrimp, on the other hand are [[halal]] according to some [[Madh'hab]], and therefore are permissible in Islamic cuisine.
+
+===Commercial fishing===
+{{main|Shrimp fishery}}
+[[File:Trawer Hauling Nets.jpg|thumb|left|Double-rigged shrimp [[Fishing trawler|trawler]] hauling in the [[Fishing net|nets]]]]
+Common commercial methods for catching shrimp and prawns include [[bottom_trawling#Otter_trawling|otter trawls]], [[cast net]]s, [[Seine fishing|seines]], [[shrimp baiting]] and [[Hand net|dip netting]]. [[Trawling]] involves the use of a system of nets. In some parts of the [[Pacific Northwest]], fishing with [[Fishing bait|baited]] [[Fish trap|traps]] is also common.
+
+The following table shows the yearly weight of shrimp and prawns captured globally in millions of tonnes:<ref>{{cite book |publisher=[[Food and Agriculture Organization|FAO]] |year=2007 |url=http://www.fao.org/docrep/009/A0699e/A0699e00.htm |title=State of the World Fisheries and Aquaculture 2006 |isbn=978-92-5-105568-7}}</ref>
+{| class="wikitable" border="1"
+|-
+! Production
+! 1999
+! 2000
+! 2001
+! 2002
+! 2003
+! 2004
+! 2005 
+|-
+| align="left"| Million tonnes
+| 3.03
+| 3.09
+| 2.96
+| 2.97
+| 3.55
+| 3.54
+| 3.42
+|}
+The highest rates of [[incidental catch]] of non-target species is associated with shrimp trawling. In 1997, the [[FAO]] documented the estimated [[bycatch]] and discard levels from shrimp fisheries around the world. They found discard rates as high as 20 pounds for every pound of shrimp, with a world average of 5.7 pounds for every pound of shrimp.<ref>{{cite book |author=Ivor Clucas |year=1997 |url=http://www.fao.org/docrep/W6602E/w6602E09.htm |title=Discards and bycatch in shrimp trawl fisheries |publisher=[[Food and Agriculture Organization]] |series=Fisheries Circular No. 928 FIIU/C928}}</ref>
+
+[[Trawling|Trawl nets]] in general, and shrimp trawls in particular, have been identified as sources of mortality for species of [[finfish]] and [[cetaceans]].<ref name="SAFMC">{{cite web |year=1998 |url=http://www.safmc.net/Default.aspx?tabid=80 |title=Final Habitat Plan for the South Atlantic Region |publisher=South Atlantic Fisheries Management Council}}</ref> Bycatch is often discarded dead or dying by the time it is returned to the sea, and may alter the ecological balance in discarded regions.<ref>{{cite book |author=Lance E. Morgan & Ratana Chuenpagdee |year=2003 |title=Shifting Gears. Addressing the Collateral Impacts of Fishing Methods in U.S. Waters |url=http://www.mcbi.org/publications/pub_pdfs/ShiftingGears.pdf |publisher=[[Island Press]] |isbn=1-55963-659-9 |series=Pew science series on conservation and the environment}}</ref> Worldwide, shrimp trawl fisheries generate about 2% of the world’s catch of fish in weight, but result in more than one third of the global bycatch total.
+
+===Farming===
+[[Image:Shrimp hatchery.jpg|right|thumb|Tanks in a shrimp [[Fish hatchery|hatchery]]]]
+{{main|Shrimp farm|Freshwater prawn farm}}
+A shrimp farm is an [[aquaculture]] business for the cultivation of marine shrimp or [[prawn]]s for human consumption. Commercial shrimp farming began in the 1970s, and production grew steeply, particularly to match the market demands of the [[United States]], [[Japan]] and [[Western Europe]]. The total global production of farmed shrimp reached more than 1.6 million [[tonne]]s in 2003, representing a value of nearly 9 billion [[United States dollar|U.S. dollars]]. About 75% of farmed shrimp are produced in [[Asia]], in particular in [[People's Republic of China|China]], [[Thailand]] and in the [[Philippines]](Normally shrimp or prawns are caught in lake, river and sea and are not farmed in tanks). The other 25% are produced mainly in [[Latin America]], where [[Brazil]] is the largest producer. The largest exporting nation is Thailand.
+
+===Marketing===
+{{main|Shrimp marketing}}
+Shrimp are [[marketing|marketed]] and commercialized with several issues in mind. Most shrimp are sold frozen and marketed based on their categorization of presentation, grading, colour, and uniformity.<ref>{{cite journal |author=Yung C. Shang, Pingsun Leung & Bith-Hong Ling |year=1998 |journal=[[Aquaculture (journal)|Aquaculture]] |title=Comparative economics of shrimp farming in Asia |volume=164 |issue=1–4 |pages=183–200 |doi=10.1016/S0044-8486(98)00186-0}}</ref>
+
+===Preparation===
+[[File:NCI steamed shrimp.jpg|thumb|right|A steamed tail-on shrimp]]
+{{Cookbook|shrimp}}
+[[File:Shrimp Curry.jpg|thumb|right|Traditional preparation of tiger shrimp curry in Bengali cusine]]
+
+Preparing shrimp for consumption usually involves removing the head, [[Animal shell|shell]], [[tail]], and "[[sand vein]]". 
+
+To de-shell a shrimp, the tail is held while gently removing the shell around the body. The tail can be detached completely at this point, or left attached for presentation purposes. 
+
+Removing the "vein" (a [[euphemism]] for the [[digestive tract]]) can be referred to as "[[deveining]]", though in fact shrimp do not have any real [[vein]]s; they have an [[Circulatory system#Open circulatory system|open circulatory system]]. The "vein" can be removed by making a shallow cut lengthwise down the outer curve of the shrimp's body, allowing the dark ribbon-like digestive tract to be removed with a pointed utensil. Alternatively, if the tail has been detached, the vein can be pinched at the tail end and pulled out completely with the fingers. The shrimp is then rinsed under cold running water.
+
+Shrimp and prawns are versatile ingredients, and are often used as an accompaniment to fried rice. Common methods of preparation include [[baking]], [[boiling]], [[frying]], and [[grilling]].
+
+Recipes using shrimp form part of the [[cuisine]] of many cultures. Strictly speaking, dishes containing [[scampi]] should be made from the [[Norway lobster]], a shrimp-like crustacean more closely related to the [[lobster]] than shrimp, but in some places it is quite common for large shrimp to be used instead.
+
+Wet shrimp is commonly used as a flavouring and as a soup base in [[Asian cuisine]]s (such as Thai [[tom yum]] goong) while fried shrimp is popular in North America. In Europe, shrimp is very popular, forming a necessary ingredient in Spanish ''{{lang|es|[[paella|paella de marisco]]}}'', Italian ''{{lang|it|[[cacciucco]]}}'', Portuguese ''{{lang|pt|[[caldeirada]]}}'' and many other seafood dishes. Shrimp [[curry]] is very popular in South Asia and Southeast Asia. Shrimp are also found in Latin and Caribbean dishes such as [[enchilada]]s and coconut shrimp. Other recipes include [[jambalaya]], [[okonomiyaki]], [[poon choi]] and [[bagoong]]. Shrimp are also consumed as salad, by frying, with rice, and as shrimp guvec (a dish baked in a clay pot) in the Western and Southern coasts of Turkey.
+
+==Life cycle==
+Most shrimp mature and breed only in a marine [[habitat (ecology)|habitat]], although there are a small number of freshwater species. The females lay 50,000 to 1 million eggs, which hatch after some 24 hours into tiny [[nauplius (larva)|nauplii]]. These nauplii feed on [[yolk]] reserves within their body and then undergo a [[metamorphosis (biology)|metamorphosis]] into [[zoea]]e. This second larval stage feeds in the wild on [[algae]] and after a few days metamorphoses again into the third stage to become [[mysis|myses]]. At this stage the myses already begin to appear like tiny versions of fully developed adults and feed on algae and [[zooplankton]]. After another three to four days they metamorphose a final time into postlarvae: young shrimp having all the characteristics of adults. The whole process takes about 12 days from hatching. In the wild, the marine postlarvae then migrate into [[estuary|estuaries]], which are rich in nutrients and low in [[salinity]]. There they grow and eventually migrate back into open waters when they mature. Most adult shrimp are [[benthic]] animals living primarily on the sea floor.
+
+Common shrimp species include [[pink shrimp|pink]], [[brown shrimp|brown]] and [[snapping shrimp]]. Depending on the species and location, they grow from about {{convert|1.2|to|30|cm}} long, and live between one and 6.5 years.<ref>{{cite web |url=http://www.nefsc.noaa.gov/faq/ |title=A bouillabaisse of fascinating facts about fish |publisher=[[National Oceanic and Atmospheric Administration|NOAA]]: [[National Marine Fisheries Service]] |accessdate=October 22, 2009}}</ref>
+
+==Fossil record==
+The [[fossil record]] of shrimp is sparse, with only 57 exclusively fossil species known.<ref name="Grave"/> The earliest of these cannot be assigned to any family, but date from the [[Lower Jurassic]] and [[Cretaceous]].<ref>{{cite journal |url=http://si-pddr.si.edu/dspace/bitstream/10088/5471/2/SCtZ-0131-Lo_res.pdf |title=Two New Caridean Shrimps, One Representing a New Family, from Marine Pools on Ascension Island (Crustacea: Decapoda: Natantia) |author=Fenner A. Chace, Jr. & Raymond B. Manning |journal=[[Smithsonian Contributions to Zoology]] |year=1972 |volume=131 |pages=18 pp}}</ref>
+
+==Home aquaria==
+[[File:Lysmata debelius.JPG|thumb|right|''[[Lysmata debelius]]'', a popular aquarium shrimp]]
+Several types of shrimp are kept in home [[aquarium|aquaria]]. Some are purely ornamental, while others are useful in controlling algae and removing debris.<ref name=kribshrimp>{{cite web|url=http://www.thekrib.com/Fish/Shrimp/|title=Freshwater Shrimp in the Aquarium |publisher=The Krib |accessdate=July 19, 2006 |author=Joe Anderson}}</ref> Freshwater shrimp commonly available for aquaria include the [[Caridina multidentata|Japanese marsh shrimp]] (''Caridina multidentata,'' also called "Amano shrimp," as their use in aquaria was pioneered by [[Takashi Amano]]), [[cherry shrimp]] (''Neocaridina heteropoda''), and ghost or glass shrimp (''[[Palaemonetes]]'' spp.). Popular saltwater shrimp include the cleaner shrimp ''[[Lysmata amboinensis]]'', the [[fire shrimp]] (''Lysmata debelius'') and the [[harlequin shrimp]] (''Hymenocera picta'').
+
+==Etymology==
+The term ''shrimp'' originated around the 14th century with the [[Middle English]] ''{{lang|enm|shrimpe}}'', akin to the [[Middle Low German]] ''{{lang|gml|schrempen}}'', and meaning to contract or wrinkle; and the [[Old Norse]] ''{{lang|non|skorpna}}'', meaning to shrivel up.<ref>{{cite book |url=http://www.merriam-webster.com/dictionary/shrimp |chapter=Shrimp |year=2008 |title=[[Merriam-Webster Online Dictionary]] |accessdate=October 13, 2008}}</ref>
+
+==See also==
+{{portal|Crustaceans}}
+* [[List of Atlantic decapod species#Shrimp and prawns|List of shrimp and prawn species]]
+* [[List of freshwater aquarium invertebrate species#Shrimp|List of freshwater aquarium shrimp]]
+* ''[[The Shrimp Girl]]'' by [[William Hogarth]]
+* [[Shrimp baiting]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commons category|Caridea}}
+{{wikispecies|Caridea}}
+* {{dmoz|Kids_and_Teens/School_Time/Science/Living_Things/Animals/Invertebrates/Crustaceans/Shrimp/| About shrimp, for kids and teens}}
+* {{dmoz|Science/Biology/Flora_and_Fauna/Animalia/Arthropoda/Crustacea/Malacostraca/Decapoda/| Shrimp biology}}
+* {{dmoz|Home/Cooking/Fish_and_Seafood/Shellfish/Shrimp/| Shrimp recipes}}
+
+{{commercial fish topics}}
+{{Edible crustaceans}}
+
+[[Category:Caridea| ]]
+[[Category:Edible crustaceans]]
+[[Category:Commercial crustaceans]]
+[[Category:Seafood]]
+
+[[ar:روبيان]]
+[[zh-min-nan:Hê-á]]
+[[br:Chevr]]
+[[bg:Скариди]]
+[[ca:Carideu]]
+[[cs:Krevety]]
+[[da:Ægte reje]]
+[[de:Caridea]]
+[[nv:Táłtłʼááh chʼosh daadánígíí]]
+[[et:Krevetilised]]
+[[el:Γαρίδα]]
+[[es:Caridea]]
+[[eo:Salikoko]]
+[[fa:میگو]]
+[[fr:Caridea]]
+[[ko:새우]]
+[[hi:झींगा]]
+[[io:Kreveto]]
+[[id:Udang]]
+[[is:Rækjur]]
+[[it:Caridea]]
+[[he:חסילונים]]
+[[lt:Tikrosios krevetės]]
+[[arz:جمبرى]]
+[[mn:Сам хорхой]]
+[[nl:Garnalen]]
+[[nds-nl:Genoat]]
+[[ja:エビ]]
+[[no:Reker]]
+[[nn:Reker]]
+[[nrm:Chèrvette]]
+[[pl:Krewetki]]
+[[pt:Camarão]]
+[[ro:Crevete]]
+[[qu:Yukra]]
+[[ru:Настоящие креветки]]
+[[simple:Shrimp]]
+[[fi:Caridea]]
+[[sv:Räkor]]
+[[tl:Hipon]]
+[[th:กุ้ง]]
+[[tr:Karides]]
+[[uk:Креветки]]
+[[ur:جَمبری]]
+[[vi:Tôm thực sự]]
+[[zea:Gornaet]]
+[[zh:虾]]

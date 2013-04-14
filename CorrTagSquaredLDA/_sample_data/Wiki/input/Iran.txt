@@ -1,0 +1,786 @@
+{{Redirect|Persia}}
+{{Dablink|This article is about the country of Iran. For a topical guide of this subject, see [[Outline of Iran]]. For other uses, see [[Iran (disambiguation)]].}}
+{{pp-semi-vandalism|small=yes}}{{pp-move-indef}}
+{{Coord|32|N|53|E||display=title}}
+
+{{Infobox Country
+|native_name='''جمهوری اسلامی ایران'''<br/>''Jomhuri-ye Eslāmi-ye Irān''
+|conventional_long_name=Islamic Republic of Iran
+|common_name=Iran
+|image_flag=Flag of Iran.svg
+|image_coat=Coat of arms of Iran.svg
+|symbol_type = Emblem
+|image_map=Iran (orthographic projection).svg
+|official_religion=[[Shia Islam]]
+|national_motto=استقلال. آزادی. جمهوری اسلامی <br/> <small>''Independence, Freedom, Islamic Republic</small>
+|national_anthem=[[Sorud-e Melli-e Iran|National Anthem of Iran]]{{spaces|2}}<small>(official)</small><br/>{{lang|fa|''[[Ey Iran]]''}}{{spaces|2}}<small>(De facto)</small><br/><small>({{lang-fa|Oh Iran}})</small>
+| national_anthem             = <br />[[Sorud-e Melli-e Iran|National Anthem of Iran]]{{spaces|2}}<small>(official)</small><br/>{{lang|fa|''[[Ey Iran]]''}}{{spaces|2}}<small>(De facto)</small><br/><small>({{lang-fa|Oh Iran}})</small>
+|capital=[[Tehran]]
+|latd=35|latm=41|latNS=N|longd=51|longm=25|longEW=E
+|largest_city=capital
+|official_languages=[[Persian language|Persian]]
+|languages_type = Other languages
+|languages = [[Armenian language|Armenian]], [[Assyrian Neo-Aramaic]], [[Azeri]], [[Kurdish language|Kurdish]], [[Luri dialects|Luri]], [[Balochi language|Balochi]], [[Arabic language|Arabic]], [[Turkmen language|Turkmen]]
+|demonym=[[Demography of Iran|Iranian]]
+|Religion=[[Shia Islam]]
+|government_type=[[Islamic republic]]
+|legislature=[[Parliament of Iran|Consultative Assembly]]
+|leader_title1=[[Supreme Leader of Iran|Supreme Leader]]
+|leader_name1={{nowrap|[[Ali Khamenei]]}}
+|leader_title2=[[President of Iran|President]]
+|leader_name2={{nowrap|[[Mahmoud Ahmadinejad]]}}
+|leader_title3=[[Vice President of Iran|First Vice President]]
+|leader_name3={{nowrap|[[Mohammad-Reza Rahimi]]}}
+|leader_title4=[[List of Speakers of the Parliament of Iran|Speaker of the Parliament]]
+|leader_name4={{nowrap|[[Ali Larijani]]}}
+|leader_title5=[[Chief Justice]]
+|leader_name5={{nowrap|[[Sadegh Larijani]]}}
+|sovereignty_type=Unification<ref name="Encyclopædia Britannica Encyclopedia Article: Media ancient region, Iran"/>
+|established_event1=[[Median Empire]]
+|established_date1=625 BC
+|established_event2=[[Safavid Empire]]
+|established_date2=1501<ref name="Andrew J. Newman 2006"/>
+|established_event5=[[Islamic Republic]]
+|established_date5=1 April 1979
+|established_event6=[[Constitution of the Islamic Republic of Iran|Current constitution]]
+|established_date6=24 October 1979
+|area_km2=1,648,195
+|area_sq_mi=636,372 <!--Do not remove per [[WP:MOSNUM]]-->
+|area_rank=18th
+|area_magnitude=1 E12
+|percent_water=0.7
+|population_density_rank=163rd <!--Wiki source-->
+|population_estimate=76,923,300<ref>https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html CIA Factbook - 2010</ref>
+|population_estimate_year=2010
+|population_estimate_rank=17th
+|population_density_km2=45
+|population_density_sq_mi=116.6 <!--Do not remove per [[WP:MOSNUM]]-->
+|population_census=74.700.000|population_census_year=2010
+|GDP_PPP=$858.652 billion<ref name=imf>{{cite web|url=http://www.imf.org/external/pubs/ft/weo/2010/01/weodata/weorept.aspx?sy=2007&ey=2010&scsm=1&ssd=1&sort=country&ds=.&br=1&c=429&s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&grp=0&a=&pr.x=49&pr.y=10|title=Iran|publisher=International Monetary Fund|accessdate=2010-04-21}}</ref>
+|GDP_PPP_rank= 18th
+|GDP_PPP_year=2010
+|GDP_PPP_per_capita=$11,395<ref name="imf"/>
+|GDP_PPP_per_capita_rank=
+|GDP_nominal=$359.970 billion<ref name="imf"/>
+|GDP_nominal_rank=
+|GDP_nominal_year=2010
+|GDP_nominal_per_capita=$4,777<ref name="imf"/>
+|GDP_nominal_per_capita_rank=
+|Gini=38<ref name='CBI'>[http://www.cbi.ir/page/5881.aspx CBI: Economic Trends 2008/2009]. Retrieved 4 July 2009.</ref>
+|Gini_year=2008
+|Gini_category=<span style="color:#fc0;">medium</span>
+|HDI_year=2010
+|HDI={{increase}} 0.702<ref name="HDI">{{cite web|url=http://hdr.undp.org/en/media/HDR_2010_EN_Table1.pdf|title=Human Development Report 2010|year=2010|publisher=United Nations|accessdate=5 November 2010}}</ref>
+|HDI_rank=70th
+|HDI_category=<span style="color:#090;">high</span>
+|currency=[[Iranian rial|Rial]] (﷼)
+|currency_code=IRR
+|time_zone=[[Iran Standard Time|IRST]]
+|utc_offset=+3:30
+|time_zone_DST=Iran Daylight Time (IRDT)
+|utc_offset_DST=+4:30
+|drives_on=right
+|cctld=[[.ir]]
+|calling_code=[[Telephone numbers in Iran|98]]
+|footnote1=[http://www.bookrags.com/browse/Encyclopedia%20of%20Religious%20Practices/50 Bookrags.com]
+|footnote2=[http://www.iranchamber.com/geography/articles/flag_anthem.php Iranchamber.com]
+|footnote3={{cite web|url=http://www.sci.org.ir/content/userfiles/_sci/sci/SEL/f02/2.1.html|title=جمعيت و متوسط رشد سالانه|author=Statistical Center of Iran|accessdate=2009-02-13|language=Persian}} {{Dead link|date=September 2010|bot=H3llBot}}
+|footnote4=[https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html#Econ CIA Factbook]
+}}
+'''Iran''' ({{IPAc-en|En-us-Iran.ogg|ɪ|ˈ|r|ɑː|n}} or {{IPAc-en|ɪ|ˈ|r|æ|n}}; {{lang-fa|<big>ایران</big>}}; {{IPA-fa|ʔiˈɾɒn||Iran_alborz.ogg}}), officially the '''Islamic Republic of Iran''' is a country in [[Central Eurasia]] and [[Western Asia]].<ref>{{cite web|url=http://cesww.fas.harvard.edu/ces_definition.html|title=«CESWW» - Definition of Central Eurasia|publisher=Cesww.fas.harvard.edu|accessdate=2010-08-01}}</ref><ref>[http://travel.nationalgeographic.com/places/countries/country_iran.html [[National Geographic]].]</ref> The [[Iran (word)|name ''Iran'']] has been in use natively since the [[Sassanid Empire|Sassanian era]] and came into use internationally in 1935, before which the country was also known to the western world as ''Persia''.<ref name="Iranica.com">{{cite web|url=http://www.iranica.com/articles/eran-eransah |title=D.N. Mackenzie, "ĒRĀN, ĒRĀNŠAHR" in Encyclopedia Iranica |publisher=Iranica.com |date=1998-12-15 |accessdate=2010-08-25}}</ref> Both ''Persia'' and ''Iran'' are used interchangeably in cultural contexts; however, ''Iran'' is the name used officially in political contexts.<ref name="artarena">[http://www.art-arena.com/history.html Iransaga], "Persia or Iran, a brief history".</ref><ref name="iranian">[http://www.iranian.ws/art.htm Iranian.ws], Iranian & Persian Art.</ref>
+
+The 18th largest country in the world in terms of area at {{convert|1648195|km²|abbr=on}}, Iran has a population of over 74 million.<ref>{{cite web|url=http://siteresources.worldbank.org/INTIRAN/Resources/AAG-IRAM09.pdf |title=Worldbank.org |format=PDF |date= |accessdate=2010-08-25}}</ref> It is a country of particular [[geostrategy|geostrategic]] significance owing to its location in the [[Middle East]] and central [[Eurasia]]. Iran is bordered on the north by [[Armenia]], [[Azerbaijan]] and [[Turkmenistan]]. As Iran is a [[littoral zone|littoral]] state of the [[Caspian Sea]], which is an inland sea and [[Condominium (international law)|condominium]], [[Kazakhstan]] and [[Russia]] are also Iran's direct neighbors to the north. Iran is bordered on the east by [[Afghanistan]] and [[Pakistan]], on the south by the [[Persian Gulf]] and the [[Gulf of Oman]], on the west by [[Iraq]] and on the northwest by [[Turkey]]. [[Tehran]] is the capital, the country's largest city and the political, cultural, commercial and industrial center of the nation. Iran is a [[regional power]],<ref name="parliament">[http://www.publications.parliament.uk/pa/cm200607/cmselect/cmfaff/363/36310.htm parliament.uk, "Select Committee on Foreign Affairs, Eighth Report, Iran]. Retrieved 1 October 2007.</ref><ref name="petro-hunt">[http://www.petro-hunt.com/lectures/LectureOpen.htm Iran @ 2000 and Beyond lecture series, opening address, W. Herbert Hunt, 18 May 2000]. Retrieved 1 October 2007.</ref> and holds an important position in [[Energy superpower#Iran|international energy security]] and [[List of countries by GDP (PPP)|world economy]] as a result of its large reserves of [[petroleum]] and [[natural gas]].
+
+Iran is home to one of the world's oldest continuous major [[civilizations]].<ref>[http://www.iranicatours.com/history.htm Iranian History], Retrieved on 2 February 2009.</ref><ref>[http://www.iranchamber.com/architecture/articles/bazaar_of_isfahan1.php Iranian Architecture & Monuments], Retrieved on 2 February 2009.</ref><ref>[http://www.destinationiran.com/Pottery_Making.htm Pottery Making in Iran], Retrieved on 2 February 2009.</ref> The first Iranian dynasty formed during the [[Elamite kingdom]] in 2800 BC. The Iranian [[Medes]] unified Iran into an empire in 625 BC.<ref name="Encyclopædia Britannica Encyclopedia Article: Media ancient region, Iran">{{cite web|author=Encyclopædia Britannica |url=http://www.britannica.com/EBchecked/topic/372125/Media |title=Encyclopædia Britannica Encyclopedia Article: Media ancient region, Iran |publisher=Britannica.com |date= |accessdate=2010-08-25}}</ref> They were succeeded by the Iranian [[Achaemenid Empire]], the [[Hellenistic civilization|Hellenic]] [[Seleucid Empire]] and two subsequent Iranian empires, the [[Parthian empire|Parthians]] and the [[Sassanid Empire|Sassanids]], before the [[Muslim conquest]] in 651 AD. Iranian post-Islamic dynasties and empires expanded the [[Persian language]] and [[Persian culture|culture]] throughout the [[Iranian plateau]]. Early Iranian dynasties which re-asserted Iranian independence included the [[Tahirids]], [[Saffarids]], [[Samanids]] and [[Buyids]].
+
+The blossoming of [[Persian literature]], [[Persian philosophy|philosophy]], [[Science and technology in Iran|medicine]], [[Science and technology in Iran|astronomy]], [[Science and technology in Iran|mathematics]] and [[Persian art|art]] became major elements of Muslim civilization and started with the [[Saffarids]] and [[Samanids]]. Iranian identity continued despite foreign rule in the ensuing centuries<ref>Ahmad Ashraf, "Iranian Identity" in Encyclopaedia Iranica.  Online link [http://www.iranica.com/articles/iranian-identity-iii-medieval-islamic-period]. Retrieved December 2010.</ref> and Persian culture was adopted also by the [[Ghaznavids]],<ref>B. Spuler, "The Disintegration of the Caliphate in the East", in the Cambridge History of Islam, Vol. IA: The Central islamic Lands from Pre-Islamic Times to the First World War, ed. by P.M. Holt, Ann K.S. Lambton, and Bernard Lewis (Cambridge: Cambridge University Press, 1970). pg 147: One of the effects of the renaissance of the Persian spirit evoked by this work was that the Ghaznavids were also Persianized and thereby became a Persian dynasty.</ref> [[Seljuq]],<ref>Grousset, Rene, The Empire of the Steppes, (Rutgers University Press, 1991), 161,164; "..renewed the Seljuk attempt to found a great Turko-Persian empire in eastern Iran..", "It is to be noted that the Seljuks, those Turkomans who became sultans of Persia, did not Turkify Persia-no doubt because they did not wish to do so. On the contrary, it was they who voluntarily became Persians and who, in the manner of the great old Sassanid kings, strove to protect the Iranian populations from the plundering of Ghuzz bands and save Iranian culture from the Turkoman menace." 
+</ref><ref>Bosworth, C.E.; Hillenbrand, R.; Rogers, J.M.; Blois, F.C. de; Bosworth, C.E.; Darley-Doran, R.E., Saldjukids, Encyclopaedia of Islam. Edited by: P. Bearman , Th. Bianquis , C.E. Bosworth , E. van Donzel and W.P. Heinrichs. Brill, 2009. Brill Online: “Culturally, the constituting of the Seljuq Empire marked a further step in the dethronement of Arabic from being the sole lingua franca of educated and polite society in the Middle East. Coming as they did through a Transoxania which was still substantially Iranian and into Persia proper, the Seljuqs with no high-level Turkish cultural or literary heritage of their own – took over that of Persia, so that the Persian language became the administration and culture in their land of Persia and Anatolia. The Persian culture of the Rum Seljuqs was particularly splendid, and it was only gradually that Turkish emerged there as a parallel language in the field of government and adab; the Persian imprint in Ottoman civilization was to remain strong until the 19th century. "</ref> [[Ilkhanid]]<ref>
+Ross E. Dunn, "The adventures of Ibn Battuta, a Muslim traveler of the fourteenth century", University of California Press, 1986.  pg 144: "Indeed, under Ilkhanid sovereignty the high culutre of eastern and central Anatolia became more Persianized than ever before"</ref> and [[Timurid]]<ref>Maria Subtelny, "Timurids in Transition", BRILL; illustrated edition (2007-09-30). pg 40: "Nevertheless, in the complex process of transition, members of the Timurid dynasty and their Turko-Mongolian supporters became acculturate by the surrounding Persinate millieu adopting Persian cultural models and tastes and acting as patrons of Persian culture, painting, architecture and music." pg 41: "The last members of the dynasty, notably Sultan-Abu Sa'id and Sultan-Husain, in fact came to be regarded as ideal Perso-Islamic rulers who develoted as much attention to agricultural development as they did to fostering Persianate court culture."</ref> rulers.  A turning point in Iran's was the emergence in 1501 of the [[Safavid dynasty]]<ref name="Andrew J. Newman 2006">Andrew J. Newman, Safavid Iran: Rebirth of a Persian Empire, I. B. Tauris (30 March 2006)</ref>—who promoted [[Twelver]] [[Shi'a Islam]]<ref name="savoryeiref">R.M. Savory, ''Safavids'', [[Encyclopedia of Islam]], 2nd edition</ref> as the official [[religion]] of their empire, marking one of the most important turning points in the [[history of Islam]].<ref name="islamic1600"/> [[Iranian Constitutional Revolution|"Persia's Constitutional Revolution"]] established the nation's [[Majles|first parliament]] in 1906, within a [[constitutional monarchy]]. Iran officially became an [[Islamic republic]] on 1 April 1979, following the [[Iranian Revolution]].<ref name="britannica1">[http://www.britannica.com/ebi/article-202892 Iran Islamic Republic], Encyclopaedia Britannica retrieved 23 January 2008</ref><ref name="Britannica"/>
+
+Iran is a founding member of the [[United Nations|UN]], [[Non-Aligned Movement|NAM]], [[Organisation of the Islamic Conference|OIC]] and [[OPEC]]. The [[Politics of Iran|political system of Iran]], based on the 1979 [[Constitution of Islamic Republic of Iran|constitution]], comprises several intricately connected governing bodies. The highest state authority is the [[Supreme Leader of Iran|Supreme Leader]]. Shia Islam is the official religion and Persian is the official language.<ref>{{cite web|title=قانون اساسی جمهوری اسلامی ایران|url=http://fa.wikisource.org/wiki/قانون_اساسی_جمهوری_اسلامی_ایران|language=Persian|accessdate=23 January 2008 }}</ref>
+
+==Name==
+{{Main|Iran (word)|Name of Iran}}
+The term ''Iran'' (ایران) in modern Persian derives from the [[Proto-Iranian]] term ''Aryānā,'' first attested in [[Zoroastrianism]]'s [[Avesta]] tradition.<ref name="Bailey_Arya">{{cite encyclopedia|last=Bailey|first=Harold Walter|authorlink=Harold Walter Bailey|title=Arya|pages=681–683|year=1987|volume=2|encyclopedia=Encyclopedia Iranica|location=New York|publisher=Routledge & Kegan Paul|url=http://www.iranica.com/newsite/articles/v2f7/v2f7a004.html}}</ref> ''Ariya-'' and ''Airiia-'' are also attested as an ethnic designator in [[Achaemenid]] inscriptions. The term ''Ērān'', from [[Middle Persian]] ''Ērān'' ([[Pahlavi scripts|written as]] ''ʼyrʼn'') is found on the inscription that accompanies the investiture relief of [[Ardashir I]] at [[Naqsh-e Rustam]].<ref name="MacKenzie">{{cite encyclopedia|last=MacKenzie|first=David Niel|title=Ērān, Ērānšahr|year=1998|volume=8|encyclopedia=Encyclopedia Iranica|publisher=Mazda|location=Costa Mesa|url=http://www.iranica.com/newsite/articles/v8f5/v8f545.html}}</ref> In this inscription, the king's appellation in [[Middle Persian]] contains the term ''ērān'' (Pahlavi ''ʼryʼn''), while in the [[Parthian language]] inscription that accompanies it, the term ''aryān'' describes Iran. In [[Ardeshir I|Ardeshir]]'s time, ''ērān'' retained this meaning, denoting ''the people'' rather than ''the state''. The name ''Iran'' is a [[cognate]] of ''Aryan'', and means "Land of the [[Aryan]]s".<ref name="hinduwebsite">[http://www.hinduwebsite.com/hinduism/concepts/arya.asp hinduwebsite.com, "The Concepts of Hinduism — Arya"]. Retrieved 1 October 2007.</ref><ref name="wiscper">[http://imp.lss.wisc.edu/~aoliai/languagepage/iranianlanguages.htm LSS.wis.edu], "Iranian Languages", Political, Social, Scientific, Literary & Artistic (Monthly) October 2000, No. 171, Dr. Suzan Kaviri, pp. 26–7retrieved 1 October 2007</ref><ref name="about.com">[http://ancienthistory.about.com/od/persianempiremaps/qt/Iran.htm About.com], "Iran — The Ancient Name of Iran", N.S. Gill. Retrieved 1 October 2007.</ref>
+
+Notwithstanding this inscriptional use of ''ērān'' to refer to the [[Iranian peoples]], the use of ''ērān'' to refer to the geographical empire is also attested in the early Sassanid period. An inscription relating to [[Shapur I]], Ardashir's son and immediate successor, includes regions which were not inhabited primarily by Iranians in ''Ērān'' regions, such as [[Armenia]] and the [[Caucasus]]."<ref name="Gignoux_Aneran">{{cite encyclopedia|title=Anērān|url=http://www.iranica.com/newsite/articles/v2f1/v2f1a035.html|accessdate=25 February 2008 }}</ref> In [[Kartir|Kartir's]] inscriptions the high priest includes the same regions in his list of provinces of the antonymic ''Anērān''.<ref name="Gignoux_Aneran"/> Both ''ērān'' and ''aryān'' come from the [[Proto-Iranian]] term ''Aryānām'', (Land) of the (Iranian) Aryas. The word and concept of [[Airyanem Vaejah]] is present in the name of the country Iran inasmuch as Iran (''Ērān'') is the modern Persian form of the word ''Aryānā''.
+
+Since the Sassanid era the country has been known to its own people as Iran; however, to the western world, the official name of Iran from the 6th century BC until 1935 was '''Persia''' or similar foreign language translations (''La Perse'', ''Persien'', ''Perzie'', etc.).<ref name="artarena"/> In that year, [[Reza Shah]] asked the international community to call the country by the name "Iran". A few years later, some Persian scholars protested to the government that changing the name had separated the country from its past, so in 1959<ref name="yarshater1">Yarshater, Ehsan [http://www.iran-heritage.org/interestgroups/language-article5.htm Persia or Iran, Persian or Farsi], ''Iranian Studies'', vol. XXII no. 1 (1989)</ref> [[Mohammad Reza Shah]] announced that both terms could officially be used interchangeably. Now both terms are common, but "Iran" is used mostly in the modern political context and "Persia" in a cultural and historical context. Since the [[Iranian Revolution]] of 1979, the official name of the country has been the "Islamic Republic of Iran."
+
+==Geography and climate==
+{{Main|Geography of Iran}}
+{{See also|Agriculture in Iran|Wildlife of Iran}}
+[[File:Damavand3.jpg|thumb|left|float|150px|[[Mount Damavand]], Iran's highest point, is located in [[Mazanderan]].]]
+
+Iran is the [[List of countries and outlying territories by total area|eighteenth largest country]] in the world,<ref>[http://www.mongabay.com/igapo/world_statistics_by_area.htm World Statistics by Area]. Retrieved 23 January 2008.</ref> with an area of {{convert|1648000|km²|abbr=on}}.<ref name="CIA">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/ir.html|title=Iran|author=CIA World Factbook|accessdate=2008-03-04}}</ref>
+Its area roughly equals that of the United Kingdom, France, Spain, and Germany combined, or somewhat more than the US state of [[Alaska]].<ref>[http://www.nationsencyclopedia.com/Asia-and-Oceania/Iran-LOCATION-SIZE-AND-EXTENT.html Iran-Location, size, and extent]. Retrieved 23 January 2008.</ref> Iran lies between latitudes [[24th parallel north|24°]] and [[40th parallel north|40° N]], and longitudes [[44th meridian east|44°]] and [[64th meridian east|64° E]]. Its borders are with [[Azerbaijan]] ({{convert|432|km|mi|0|abbr=on|disp=/}}) and [[Armenia]] ({{convert|35|km|mi|0|abbr=on|disp=/}}) to the north-west; the [[Caspian Sea]] to the north; [[Turkmenistan]] ({{convert|992|km|mi|0|abbr=on|disp=/}}) to the north-east; [[Pakistan]] ({{convert|909|km|mi|0|abbr=on|disp=/}}) and [[Afghanistan]] ({{convert|936|km|mi|0|abbr=on|disp=/}}) to the east; [[Turkey]] ({{convert|499|km|mi|0|abbr=on|disp=/}}) and Iraq ({{convert|1458|km|mi|0|abbr=on|disp=/}}) to the west; and finally the waters of the Persian Gulf and the [[Gulf of Oman]] to the south.
+[[File:My-iran-climate-map-simplified.png|thumb|right|150px|Simplified Climatic Map of Iran {{legend|#41ee38|Caspian Mild}} {{legend|#b18114|Mountains}} {{legend|#ffeb6d|Arid and Semi-Arid}}]]
+Iran consists of the [[Iranian Plateau]] with the exception of the coasts of the [[Caspian Sea]] and [[Khuzestan]]. It is one of the world's most mountainous countries, its landscape dominated by rugged [[mountain range]]s that separate various [[drainage basin|basins]] or [[plateau]]x from one another. The populous western part is the most mountainous, with ranges such as the [[Caucasus Mountains|Caucasus]], [[Zagros Mountains|Zagros]] and [[Alborz]] Mountains; the last contains Iran's highest point, [[Mount Damavand]] at {{convert|5610|m|ft|0|abbr=on}}, which is not only the country's highest peak but also the highest mountain on the Eurasian landmass west of the [[Hindu Kush]].<ref>[http://news.surfwax.com/geography/files/Hindu_Kush_Mountains.html SurfWax: News, Reviews and Articles On Hindu Kush]. Retrieved 25 February 2008.</ref>
+
+The northern part of Iran is covered by dense rain forests called [[Caspian Hyrcanian mixed forests|Shomal]] or the [[Jungles of Iran]]. The eastern part consists mostly of [[desert]] basins such as the [[Dasht-e Kavir]], Iran's largest desert, in the north-central portion of the country, and the [[Dasht-e Lut]], in the east, as well as some [[Salt lake (geography)|salt lakes]]. This is because the mountain ranges are too high for rain clouds to reach these regions. The only large [[plain]]s are found along the coast of the [[Caspian Sea]] and at the northern end of the Persian Gulf, where Iran borders the mouth of the [[Shatt al-Arab]] (or the Arvand Rūd) river. Smaller, discontinuous plains are found along the remaining coast of the Persian Gulf, the [[Strait of Hormuz]] and the [[Sea of Oman]].
+[[File:Lynx lynx poing.jpg|thumb|left|upright|150px|[[Eurasian Lynx]]]]
+Iran's [[climate]] ranges from [[Desert climate|arid]] or [[semiarid]], to [[subtropical]] along the Caspian coast and the [[Jungles of Iran|northern forests]]. On the northern edge of the country (the Caspian coastal plain) temperatures rarely fall below freezing and the area remains humid for the rest of the year. Summer temperatures rarely exceed {{convert|29|°C|°F|1|lk=on}}.<ref>[http://www.weneedtrees.com/iran/nature.asp Nature & Mountains of Iran]. Retrieved 25 February 2008. {{Wayback | url=http://www.weneedtrees.com/iran/nature.asp <!-- Bot retrieved archive --> | date=20071122191112 }}</ref><ref name="simmons">[http://my.simmons.edu/lcis/zoom/2005/10/iran-_current_i.html Iran- Current Information]. Retrieved 25 February 2008.</ref> Annual precipitation is {{convert|680|mm|in|1|abbr=on}} in the eastern part of the plain and more than {{convert|1700|mm|in|1|abbr=on}} in the western part.
+
+To the west, settlements in the [[Zagros Mountains|Zagros]] basin experience lower temperatures, severe winters with below zero average daily temperatures and heavy snowfall. The eastern and central basins are arid, with less than {{convert|200|mm|in|1|abbr=on}} of rain, and have occasional deserts.<ref name="simmons"/> Average summer temperatures exceed {{convert|38|°C|1}}. The coastal plains of the Persian Gulf and [[Gulf of Oman]] in southern Iran have mild winters, and very humid and hot summers. The annual precipitation ranges from {{convert|135|to|355|mm|in|1|abbr=on}}.<ref name="simmons"/>
+
+===Fauna===
+[[Wildlife of Iran|Iran's wildlife]] is composed of several animal species including bears, gazelles, wild pigs, wolves, jackals, panthers, Eurasian lynx, and foxes. Domestic animals include, sheep, goats, cattle, horses, water buffalo, donkeys, and camels. The pheasant, partridge, stork, eagles and falcon are also native to Iran.
+{{-}}
+
+===Provinces and cities===
+{{Main|Provinces of Iran|Counties of Iran}}
+{{See also|List of Iran cities by population}}
+{{Provinces of Iran Labelled Map|float=right}}
+Iran is divided into thirty one [[Provinces of Iran|provinces]] (''ostān''), each governed by an appointed governor (استاندار, ostāndār). The provinces are divided into counties (''[[Counties of Iran|shahrestān]]''), and subdivided into districts (''[[bakhsh]]'') and sub-districts (''dehestān'').
+
+Iran has one of the highest urban growth rates in the world. From 1950 to 2002, the urban proportion of the population increased from 27% to 60%.<ref name="payvand2">{{cite web|url=http://www.payvand.com/news/03/nov/1135.html|title=Iran: Focus on reverse migration|author=Payvand|accessdate=2006-04-17}}</ref> The United Nations predicts that by 2030, 80% of the population will be urban.<ref name="sci.org.ir">[http://www.sci.org.ir/portal/faces/public/census85/census85.natayej/census85.abadipage "Islamic Azad University"]. Retrieved 28 January 2008. {{Wayback | url=http://www.sci.org.ir/portal/faces/public/census85/census85.natayej/census85.abadipage <!-- Bot retrieved archive --> | date=20071110154704 }}</ref> Most internal migrants have settled near the cities of [[Tehran]], [[Isfahan]], [[Ahvaz]], and [[Qom]]. The listed populations are from the 2006/07 (1385 [[Iranian calendar|AP]]) census.<ref>[http://www.sci.org.ir/portal/faces/public/census85/census85.natayej/census85.abadipage Iranian National Portal of Statistics]. Retrieved 27 February 2008. {{Wayback | url=http://www.sci.org.ir/portal/faces/public/census85/census85.natayej/census85.abadipage <!-- Bot retrieved archive --> | date=20071110154704 }}</ref> [[Tehran]], with a population of 7,705,036, is the largest city in Iran and is the Capital. Tehran is home to around 11% of Iran's population. Tehran, like many big cities, suffers from severe air pollution. It is the hub of the country's [[Communications in Iran|communication]] and [[Transport in Iran|transport]] network.
+
+[[Mashhad]], with a population of 2,410,800, is the second largest Iranian city and the centre of the province of [[Razavi Khorasan]]. Mashhad is one of the holiest [[Shi'a]] cities in the world as it is the site of the [[Imam Reza shrine]]. It is the centre of tourism in Iran, and between 15 and 20 million pilgrims go to the [[Imam Reza]]'s shrine every year.<ref>[http://www.iran-daily.com/1383/2211/html/panorama.htm Religious Tourism Potentials Rich]. Retrieved 28 February 2008. {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref>[http://www.sacredsites.com/middle_east/iran/mashad.htm Mashhad, Iran]. Retrieved 28 February 2008.</ref>
+
+Another major Iranian city is Isfahan (population 1,583,609), which is the capital of [[Isfahan Province]]. The [[Naghsh-e Jahan Square]] in Isfahan has been designated by [[UNESCO]] as a [[World Heritage Site]]. The city contains a wide variety of [[Islamic architecture|Islamic architectural]] sites ranging from the 11th to the 19th century. The growth of the suburban area around the city has turned Isfahan into Iran's second most populous metropolitan area (3,430,353).<ref>[http://www.sci.org.ir/content/userfiles/_census85/census85/natayej/township/Os10.xls Iran – Statistical Centre]. Retrieved 27 February 2008. {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+The fourth major city of Iran is [[Tabriz]] (population 1,378,935), the capital of the [[East Azerbaijan province]]. It is also the second industrial city of Iran after [[Tehran]]. [[Tabriz]] had been the second largest city in Iran until the late 1960s and one of its former capitals and residence of the crown prince under the [[Qajar]] dynasty. The city has proven extremely influential in the country’s recent history.
+
+The fifth major city is [[Karaj]] (population 1,377,450), located in [[Alborz province]] and situated 20&nbsp;km west of Tehran, at the foot of the [[Alborz]] mountains; however, the city is increasingly becoming an extension of metropolitan Tehran.
+
+The sixth major Iranian city is [[Shiraz]] (population 1,214,808); it is the capital of [[Fars Province]]. The [[Elamite]] civilization to the west greatly influenced the area, which soon came to be known as [[Persis]]. The ancient [[Persian people|Persians]] were present in the region from about the 9th century BC, and became rulers of a large empire under the [[Achaemenid dynasty]] in the 6th century BC. The ruins of [[Persepolis]] and [[Pasargadae]], two of the four capitals of the [[Achaemenid Empire]], are located in or near [[Shiraz]]. Persepolis was the ceremonial capital of the [[Achaemenid Empire]] and is situated {{nowrap|70 km}} northeast of modern Shiraz. [[UNESCO]] declared the citadel of Persepolis a [[World Heritage Site]] in 1979.
+
+{{Largest cities of Iran}}
+
+{{clear}}
+
+==History==
+{{Main|History of Iran}}
+
+===Pre-Historic era===
+{{See|Archaeological sites in Iran}}
+{{See|Tappeh Sialk|Jiroft culture|Shahr-i Sokhta}}
+The earliest archaeological artifacts in Iran were found in the [[Kashafrud]] and [[Ganj Par]] sites that date back to the [[Lower Paleolithic]] era. [[Mousterian]] Stone tools made by [[Neanderthal]] man have also been found.<ref name=Museum>http://www.pbase.com/k_amj/tehran_museum retrieved 27 March 2008</ref> There are more cultural remains of [[Neanderthal]] man dating back to the [[Middle Paleolithic]] period, which have been found mainly in the Zagros region and less frequently in central Iran at sites such as Shanidar, Kobeh, Kunji, Bisetun, Tamtama, [[Warwasi]], Palegawra, and [[Yafteh]] Cave.<ref>J.D. Vigne, J. Peters and D. Helmer, ''First Steps of Animal Domestication'', Proceedings of the 9th Conference of the International Council of Archaeozoology, Durham, August 2002, ISBN 1-84217-121-6</ref> Evidence for [[Upper Paleolithic]] and [[Epipaleolithic]] periods are known mainly from the [[Zagros]] region in the caves of [[Kermanshah]] and [[Khoramabad]].
+
+Early agricultural communities such as [[Chogha Bonut]] in 8000 BC,<ref>''[http://oi.uchicago.edu/research/pubs/nn/spr97_alizadeh.html EXCAVATIONS AT CHOGHA BONUT: THE EARLIEST VILLAGE IN SUSIANA, IRAN]'', by [[Abbas Alizadeh]] - The Oriental Institute and the Department of Near Eastern Languages and Civilizations The University of Chicago</ref><ref>[http://www.iranica.com/newsite/index.isc?Article=http://www.iranica.com/newsite/articles/ot_grp5/ot_neolithic_age_20050106.html ]{{Dead link|date=August 2010}}</ref> [[Susa]] (now a city still existing since 7000 BC)<ref>''Iranian official urges approval of Susa demarcation'', http://www.payvand.com/news/08/sep/1019.html</ref><ref>[http://books.google.com.au/books?id=RTGc9YH-C38C&source=gbs_navlinks_s ''Ancient Near Eastern art''] by Dominique Collon</ref> and [[Chogha Mish]] dating back to 6800 BC.<ref>''Chogha Mish (Iran)'', By K. Kris Hirst - http://archaeology.about.com/od/cterms/g/choghamish.htm</ref><ref name="xinhuaciv">[http://news.xinhuanet.com/english/2007-08/10/content_6508609.htm Xinhua, "New evidence: modern civilization began in Iran", 10 Aug 2007]. Retrieved 1 October 2007.</ref> started to form in the western Iran.
+Dozens of [[Prehistory|pre-historic]] sites across the Iranian plateau point to the existence of ancient cultures and urban settlements in the [[fourth millennium BC]],<ref name="xinhuaciv">[http://news.xinhuanet.com/english/2007-08/10/content_6508609.htm Xinhua, "New evidence: modern civilization began in Iran", 10 August 2007]. Retrieved 1 October 2007.</ref><ref name="iran-daily">[http://www.iran-daily.com/1385/2795/html/panorama.htm Iran Daily, "Panorama", 3 March 2007]. Retrieved 1 October 2007. {{Wayback | url=http://www.iran-daily.com/1385/2795/html/panorama.htm <!-- Bot retrieved archive --> | date=20080124101129 }}</ref><ref name="iranian.ws">[http://www.iranian.ws/iran_news/publish/article_22427.shtml Iranian.ws, "Archaeologists: Modern civilization began in Iran based on new evidence", 12 August 2007]. Retrieved 1 October 2007. {{Dead link|date=October 2010|bot=H3llBot}}</ref> centuries before the earliest civilizations arose in nearby [[Mesopotamia]].<ref>[http://oi.uchicago.edu/OI/MUS/VOL/NN_SUM94/NN_Sum94.html University of Chicago]. Retrieved 2006-04-29.</ref>
+
+===Early history (3200&nbsp;BC – 625&nbsp;BC)===
+{{Main|Tappeh Sialk|Jiroft civilization|Elamite kingdom|Mannaeans}}
+
+[[File:Mappa di Eratostene.jpg|thumb|19th century reconstruction of a map of the world by [[Eratosthenes]], [[Circa|c.]]200 BC. The name Ariana (Aryânâ) was used to describe the region where the [[Iranian Plateau]] is found.]]
+
+Elam was part of the early [[Cities of the Ancient Near East|urbanization]] during the [[Chalcolithic]]. The emergence of written records from around 3000 BC also parallels Mesopotamian history. In the Old Elamite period ([[Middle Bronze Age]]), from around 2800 BC, Elam consisted of kingdoms on the [[Iranian plateau]], centered in [[Anshan (Persia)|Anshan]], and from the mid-[[2nd millennium BC]], it was centered in [[Susa]] in the [[Khuzestan]] lowlands. [[Elamite kingdom]] continued its existence until the emergence of [[Median Empire|Median]] and [[Achaemenid Empire]]s.
+
+[[Proto-Iranian]]s first emerged following the separation of [[Indo-Iranians]], and are traced to the [[Andronovo culture]].<ref name="Panshin">[http://www.panshin.com/trogholm/wonder/indoeuropean/indoeuropean3.html "The Palaeolithic Indo-Europeans"]—Panshin.com. Retrieved 4 June 2006.</ref> ([[Ancient Iranian peoples|Proto-Iranian]]) tribes arrived in the [[Iranian plateau]] in the third and second [[millennium]]&nbsp;BC, probably in more than one wave of emigration, and settled as nomads.
+
+Further separation of Proto-Iranians into "Eastern" and "Western" groups occurred due to migration. By the first millennium BC, [[Medes]], [[Persian people|Persians]], [[Bactria]]ns and [[Parthia]]ns populated the western part, while [[Cimmerians]], [[Sarmatians]] and [[Alans]] populated the steppes north of the [[Black Sea]].
+
+Other tribes began to settle on the eastern edge, as far as on the mountainous frontier of the north-western [[Indian subcontinent]] and into the area which is now [[Balochistan (region)|Balochistan]]. Others, such as the [[Scythia]]n tribes, spread as far west as the [[Balkans]] and as far east as [[Xinjiang]]. [[Avestan]] is an eastern Old [[Iranian language]] that was used to compose the sacred hymns and canon of the [[Zoroastrianism|Zoroastrian]] [[Gathas]] in c. 1000 BC.
+
+===Pre-Islamic statehood (625&nbsp;BC – 651&nbsp;AD)===
+{{Main|Median Empire|Achaemenid Empire|Seleucid Empire|Parthian Empire|Sassanid Empire}}
+{{See also|Greco-Persian Wars|Roman-Persian Wars|Roman relations with the Parthians and Sassanids}}
+
+[[File:Cyrus cilinder.jpg|thumb|130px|The [[Cyrus Cylinder]] a document issued by Cyrus the Great and [[Cyrus cylinder#As a charter of human rights|regarded by some as a charter of human rights]].]]
+The [[Medes]] are credited with the unification<ref name="Encyclopædia Britannica Encyclopedia Article: Media ancient region, Iran"/> of Iran as a nation and empire (625<ref name="Encyclopædia Britannica Encyclopedia Article: Media ancient region, Iran"/>–559&nbsp; BC), the largest of its day, until [[Cyrus the Great]] established a unified empire of the Medes and [[Persian people|Persians]] leading to the Achaemenid Empire (559–330&nbsp; BC), and further unification between peoples and cultures. After Cyrus' death, his son [[Cambyses]] continued his father's work of conquest, making significant gains in Egypt.
+
+Following a power struggle after Cambyses' death, [[Darius I]] was declared king (ruled 522–486&nbsp;BC). Under [[Cyrus the Great]] and [[Darius the Great]], the Persian Empire eventually became the largest and most powerful empire in human history up until that point.<ref>{{cite web|url=http://www.wsu.edu/~dee/MESO/PERSIANS.HTM|title=The Persians|accessdate=2006-08-20}}</ref> The borders of the [[Achaemenid Empire|Persian empire]] stretched from the [[Indus]] and [[Oxus]] Rivers in the east to the Mediterranean Sea in the west, extending through [[Anatolia]] (modern day Turkey) and Egypt.
+
+[[File:Achaemenid Empire.jpg|thumb|left|230px|The [[Achaemenid Empire]] at its greatest extent, at about 500 BC]]
+
+In 499 BC, Athens lent support to a revolt in [[Miletus]] which resulted in the sacking of [[Sardis]]. This led to an Achaemenid campaign against Greece known as the [[Greco-Persian Wars]] which continued through the first half of the 5th century BC. During the [[Greco-Persian wars]] Persia made some major advances and razed Athens in 480 BC, but after a string of Greek victories the Persians were forced to withdraw. Fighting ended with the [[peace of Callias]] in 449 BC.
+
+The rules and ethics emanating from [[Zoroaster]]'s teachings were strictly followed by the Achaemenids who introduced and adopted policies based on [[human rights]], [[equality before the law|equality]] and banning of [[slavery]].{{Citation needed|date=September 2010}} Zoroastrianism spread unimposed during the time of the Achaemenids and through contacts with the exiled [[Jewish]] people in [[Babylon]] freed by Cyrus, Zoroastrian concepts further propagated and influenced the [[Abrahamic religions]]. The [[Golden Age of Athens]] marked by [[Aristotle]], [[Plato]] and [[Socrates]] also came about during the Achaemenid period while their contacts with Persia and the Near East abounded. The peace, tranquility, security and prosperity that were afforded to the people of the [[Near East]] and [[Southeastern Europe]] proved to be a rare historical occurrence, an unparalleled period where commerce prospered and the standard of living for all people of the region improved.<ref name="vohuman">[http://www.vohuman.org/Article/Historical%20perspective%20on%20Zoroastrianism.htm Vohuman.org], "Historical perspective on Zoroastrianism", Reproduced from Âtaš-è Dorün — The Fire Within, Jamshid Soroush Soroushian Memorial Volume II, 1st Books Library, Bloomington, IN, 2003. Retrieved 1 October 2007.</ref>
+
+In 334 BC, [[Alexander the Great]] invaded the Achaemenid Empire, defeating the last Achaemenid Emperor [[Darius III]] at the [[Battle of Issus]] in 333 BC. He left the annexed territory in 328–327. In each of the former Achaemenid territories he installed his own officers as caretakers, which led to friction and ultimately to the [[Partition of Babylon|partitioning of the former empire]] after Alexander's death, and the subsequent formation of the [[Seleucid Empire]].
+
+[[File:Parthian Queen Bust.jpg|thumb|upright|120px|A bust from the [[National Museum of Iran]] of [[Queen Musa]]]]
+
+The Parthian Empire (238 BC–226 AD), led by the Arsacid Dynasty, was the third [[Iranian Peoples|Iranian]] kingdom to dominate the Iranian plateau, after defeating the [[Classical Greece|Greek]] [[Seleucid Empire]], beginning in the late 3rd century BC, and intermittently controlled [[Mesopotamia]] between ca. 150&nbsp;BC and 224&nbsp;AD. This was the third native dynasty of ancient Iran and lasted five centuries.
+After the conquests of [[Medes|Media]], [[Assyria]], [[Babylonia]] and [[Elam]], the Parthians had to organize their empire. The former elites of these countries were [[Greeks|Greek]], and the new rulers had to adapt to their customs if they wanted their rule to last. As a result, the cities retained their ancient rights and civil administrations remained more or less undisturbed.
+
+Parthia was the arch-enemy of the [[Roman Empire]] in the east, limiting Rome's expansion beyond [[Cappadocia]] (central [[Anatolia]]). By using a heavily armed and armoured [[cataphract]] cavalry, and lightly armed but highly mobile [[Horse archer|mounted archers]], the Parthians "held their own against Rome for almost 300 years".<ref>''Persians: Masters of Empire'', 1995, ISBN 0-8094-9104-4, p.142–143, Time-life Books</ref> Rome's acclaimed general [[Mark Antony]] led a disastrous campaign against the Parthians in 36 BC, in which he lost 32,000 men. By the time of Roman emperor [[Augustus]], Rome and Parthia were settling some of their differences through diplomacy. By this time, Parthia had acquired an assortment of golden eagles, the cherished [[Aquila (Roman)|standards of Rome's legions]], captured from Mark Antony, and [[Crassus]], who was defeated by General [[Surena]] in the [[Battle of Carrhae]] in 53 BC.<ref>Cotterell, Arthur. ''From Aristotle to Zoroaster: An A-to-Z Companion to the Classical World.'' 1998. p.272, Free Press</ref>
+
+[[File:Persepolis The Persian Soldiers.jpg|thumb|left|160px|Persian and Median soldiers at [[Persepolis]]]]
+
+The end of the Parthian Empire came in 224 AD, when the empire was loosely organized and the last king was defeated by Ardashir I, one of the empire's vassals. Ardashir I then went on to create the Sassanid Empire. Soon he started reforming the country both economically and militarily. The Sassanids established an empire roughly within the frontiers achieved by the Achaemenids, referring to it as ''Erânshahr'' or ''Iranshahr'', ''[[File:Eranshahr.svg|60px]]'', "Dominion of the Iranians", (i.e. of [[Iranian peoples|Iranians]]), with their capital at [[Ctesiphon]].<ref>Garthwaite, Gene R., ''The Persians'', p. 2, ISBN 1-4051-5680-5, Wiley-Blackwell (2006)</ref> Unlike the [[diadochi]]c Seleucids and the succeeding Arsacids, who used a [[vassal state|vassalary system]], the Sassanids—like the Achaemenids—had a system of governors (MP: ''shahrab'') personally appointed by the Emperor and directed by the central government. The Romans suffered repeated losses particularly by Ardashir I, [[Shapur I]], and [[Shapur II]].<ref>Lorentz, John H. ''Historical Dictionary of Iran.''Asian Historical Dictionaries; No.16. 1995. ISBN 978-0-8108-2994-7, p.189</ref> During their reign, Sassanid battles with the [[Roman Empire]] caused such pessimism in [[Rome]] that the historian [[Cassius Dio]] wrote:
+
+[[File:Scythia-Parthia 100 BC.png|thumb|150px|Geographical extent of Iranian influence in the 1st century BC. The [[Parthia]]n Empire (mostly [[Western Iranian languages|Western Iranian]]) is shown in red, other areas, dominated by [[Scythia]] (mostly [[Eastern Iranian languages|Eastern Iranian]]), in orange.]]
+
+{{Cquote
+|''Here was a source of great fear to us. So formidable does the Sassanid king seem to our eastern legions, that some are liable to go over to him, and others are unwilling to fight at all''.<ref>Arthur Cotterell, ''From Aristotle to Zoroaster: An A-to-Z Companion to the Classical World''. 1998. ISBN 0-684-85596-8, p.344–345, Free Press</ref>}}
+
+In 632 raiders from the Arab peninsula began attacking the [[Sassanid Empire]]. Iran was defeated in the [[Battle of al-Qâdisiyah]], paving way for the [[Islamic conquest of Persia]].
+
+During the Parthian and later [[Sassanid]] eras, trade on the [[Silk Road]] was a significant factor in the development of the great [[civilization]]s of China, [[Ancient Egypt|Egypt]], [[Mesopotamia]], Persia, [[Indian subcontinent]], and [[Ancient Rome|Rome]], and helped to lay the foundations for the modern world. Parthian remains display classical Greek influences in some instances and retain their oriental mode in others, a clear expression of the cultural diversity that characterized Parthian art and life.<ref>''Persians: Masters of Empire'', 1995, ISBN 0-8094-9104-4, p.134, Time-life Books</ref>
+
+The Parthians were [[Parthian style (Iranian architecture)|innovators of many architecture designs]] such as that of [[Ctesiphon]], which later influenced European [[Romanesque architecture]].<ref>''Persians: Masters of Empire'', 1995, ISBN 0-8094-9104-4, p.138, Time-life Books</ref><ref>''"Even the architecture of the Christian church, with its hallowed chancel seems inspired by the designs of [[Mithra]]ic temples"''. [[Abbas Milani]]. ''Lost Wisdom''. 2004. Mage Publishers. p.13. ISBN 0-934211-90-6</ref> Under the Sassanids, Iran [[Iran-China relations|expanded relations with China]]. Arts, [[Sassanid music|music]], and [[Sassanid architecture|architecture]] greatly flourished, and centers such as the [[School of Nisibis]] and [[Academy of Gundishapur]] became world renowned centers of science and scholarship.
+
+===Middle Ages (652–1501)===
+{{Main|Islamization in Iran|Abbasid Caliphate|Tahirid dynasty|Saffarid dynasty|Samanid dynasty|Ziyarid dynasty|Buyid dynasty|Ghaznavid dynasty|Seljuk Empire|Khwārazm-Shāh dynasty}}
+
+[[File:Iran circa 1000AD.png|thumb|Map of Iranian Dynasties c. 1000]]
+After the [[Islamic conquest of Persia]], most of the urban lands of the [[Sassanid empire]], with the exception of Caspian provinces and Transoxiana, came under Islamic rule.<ref name="Ehsan">Encyclopedia Iranica, "Iran in the Islamic Period (651–1980s)", E. Yarshater. [http://www.iranica.com/newsite/index.isc?Article=http://www.iranica.com/newsite/articles/unicode/v13f3/v13f3001a.html Iranica.com]</ref>
+Many provinces in Iran defended themselves against the Arab invaders, although none in the end were able to repulse the invaders. However, when the Arabs had subdued the country, many of the cities rose in rebellions, killing Arab governors, although reinforcement by Arab armies succeeded in putting down the rebellions.
+
+However, the Iranians' conversion to Islam was a complex process and is generally considered to have been gradual; the notion of force has largely been discredited,<ref>"Conversion: Of Iranians to Islam." by Elton L. Daniel in Encyclopedia Iranica. [http://www.iranica.com/newsite/index.isc?Article=http://www.iranica.com/newsite/articles/unicode/v6f3/v6f3a001.html Iranica.com]</ref> although occasional acts of violence did take place, with Zoroastrian scriptures being burned and Zoroastrian priests being executed.<ref name="Ehsan"/><ref>آثار الباقیه، ابوریحان بیرونی، انتشارات امیرکبیر، 1377، ص 7۵ [[Biruni]] states: {{bquote|When [[Qutaibah bin Muslim|Qutaibah bin Moslem]] under the command of Al-Ḥajjāj ibn Yūsuf was sent to [[Khwarazmia]] with a military expedition and conquered it for the second time, he swiftly killed whoever wrote in the [[Khwarezmian language|Khwarazmian native language]] and knew of the Khwarazmian heritage, history, and culture. He then killed all their [[Zoroastrian]] priests and burned and wasted their books, until gradually only the illiterate remained, who knew nothing of writing, and hence the regions history was mostly forgotten.}}</ref>
+
+By the 9th century, Islam became a dominant religion in Persia and the conversion of Iranians to Islam brought profound changes to their life and culture.<ref name="Ehsan"/> However, in some regions, such as the Fars province, Zoroastrianism remained strong up to the 9th century, although [[Sufis]] such as Abu Eshaq Kazeruni, the founder of Kazeruni Sufi order, brought mass conversion of Zoroastrians to Islam in the 10th century.<ref name="Ehsan"/>
+
+During the Abbasid caliphate decline, independent<ref>[http://www.britannica.com/EBchecked/topic/516118/Saffarid-dynasty "Ṣaffārid Dynasty"], [[Encyclopædia Britannica]], 2009. [[Encyclopædia Britannica Online]], 15 March 2009</ref><ref>[http://www.britannica.com/EBchecked/topic/520234/Samanid-dynasty "Sāmānid Dynasty"], Encyclopædia Britannica, 2009. Encyclopædia Britannica Online, 15 March 2009</ref> and semi-independent native Iranian dynasties arose in different parts of Persia including the [[Tahirids]], [[Saffarids]], [[Samanids]], [[Afrighids]], [[Ghurids]], [[Sallarid]], [[Justanids]], [[Shaddadids]] and [[Buyids]]. Socially, the Arabs abolished the previous social class system of Sassanians while later, especially under the Ummayyads, another form of discrimination and exclusion against non-Arabs evolved.<ref>"Class System", in [http://www.iranica.com/newsite/index.isc?Article=http://www.iranica.com/newsite/articles/unicode/v5f6/v5f6a028.html Encyclopedia Iranica.]</ref> In reaction to these, [[Abu Muslim|Abu Moslem]], an Iranian<ref>Joel Carmichael, "The Shaping of the Arabs: A Study in Ethnic Identity", Published by Macmillan, 1967. pg 235. Excerpt: "Abu Muslim, the Persian general and popular leader".</ref><ref>Richard Nelson Frye, "Iran", Edition: 2, revised Published by G. Allen & Unwin, 1960. p. 47: "A Persian Muslim called Abu Muslim.</ref> general, expelled the [[Umayyad]]s from [[Damascus]] and helped the [[Abbasid]] caliphs to conquer [[Baghdad]]. The [[Abbasid]] caliphs frequently chose their Iranians as their "[[Vizier|wazirs]]" (viziers), and Iranian governors acquired a certain amount of local autonomy. Thus in 822, the governor of Khorasan, [[Tahir II of Khorasan|Tahir]], proclaimed his independence and founded a new Persian dynasty of [[Tahirid dynasty|Tahirids]]. And by the [[Samanid]] era, Iran's efforts to regain its independence had been well solidified.<ref>Bosworth C. E., Cambridge History of Iran, vol. 4, p. 90.</ref>
+
+Attempts at [[Arabization]] thus never succeeded in Iran, and movements such as the [[Shuubiyah]] became catalysts for Iranians to regain their independence in their relations with the Arab invaders.<ref>C.E. Bosworth, "Ajam" in Encyclopedia Iranica: ''But by the 3rd/9th century, the non-Arabs, and above all the Persians, were asserting their social and cultural equality (taswīa) with the Arabs, if not their superiority (tafżīl) over them (a process seen in the literary movement of the Šoʿūbīya). In any case, there was always in some minds a current of admiration for the ʿAǰam as heirs of an ancient, cultured tradition of life''.</ref> Other notable major revolts, some by Iranian Muslims and others by practitioners of old Iranian religions against Arab rule were led by [[Al-Muqanna]], [[Sunpadh]], [[Khurramites]], [[Babak Khorramdin]], [[Maziar]], [[Mardavij]], [[Ustadh Sis]] and [[Ya'qub-i Laith Saffari]].
+
+The cultural revival of the post-[[Abbasid]] period led to a resurfacing of Iranian national identity. The resulting cultural movement reached its peak during the 9th and 10th centuries. The most notable effect of the movement was the continuation of the [[Persian language]], the official language of Iran to the present day. [[Ferdowsi]], Iran's greatest epic poet, is regarded today as the most important figure in maintaining the Persian language. After an interval of silence Iran re-emerged as a separate, different and distinctive element within Islam.
+[[File:Khwarezmian Empire 1190 - 1220 (AD).PNG|thumb|left|180px|[[Khwarezmid Empire]] around 1200]]
+In 1218, the eastern [[Khwarezmian Empire|Khwarazmid]] provinces of [[Transoxiana]] and [[Greater Khorasan|Khorasan]] suffered a devastating [[invasion]] by [[Genghis Khan]]. During this period more than half of Iran's population was killed,<ref>The memoirs of [[Edward Teller]], ''[[Lawrence Livermore National Laboratory]] "Science and Technology Review"''. July/August 1998 p. 20. Link: [http://www.llnl.gov/str/pdfs/07_98.pdf LLNL.org]</ref> turning the streets of Persian cities such as [[Neishabur]] into "rivers of blood", as the severed heads of men, women, and children were "neatly stacked into carefully constructed pyramids around which the carcasses of the city's dogs and cats were placed".<ref>[[Sandra Mackey|Mackey, S.]]. ''The Iranians: Persia, Islam, and the soul of a nation''. 1996. ISBN 0-525-94005-7. p. 69.</ref> 
+
+Overall, the [[Mongol conquests|Mongol]] violence and depredations killed up to three-fourths of the population of the Iranian Plateau, possibly 10 to 15 million people. Some historians have estimated that Iran's population did not again reach its pre-Mongol levels until the mid-20th century.<ref>{{Cite book
+  | last = R. Ward
+  | first = Steven
+  | title = [http://books.google.com/books?id=8eUTLaaVOOQC&pg=PA39&dq&hl=en#v=onepage&q=&f=false Immortal: a military history of Iran and its armed forces]
+  | publisher = Georgetown University Press		
+  | year = 2009
+  | page = 39
+  | isbn = 1589012585}}
+</ref>
+In a letter to King [[Louis IX of France]], [[Hulagu Khan|Holaku]], one of the [[Genghis Khan]]'s grandsons, took sole responsibility for 200,000 deaths in his raids of Iran and the Caliphate.<ref>[[Sandra Mackey|Mackey, S.]]. ''The Iranians: Persia, Islam, and the soul of a nation''. 1996. ISBN 0-525-94005-7. p. 70.</ref> He was followed by yet another conqueror, [[Timur|Tamerlane]], who established his capital in [[Samarkand]].<ref>[http://www.ucalgary.ca/applied_history/tutor/oldwrld/armies/tamerlane.html Old World Contacts/Armies/Tamerlane]. Retrieved 23 January 2008.</ref> The waves of devastation prevented many cities such as [[Neishabur]] from reaching their pre-invasion population levels until the 20th century, eight centuries later.<ref>Mackey, S. ''The Iranians: Persia, Islam, and the soul of a nation''. 1996. ISBN 0-525-94005-7. p. 69.</ref>
+
+In 1387, Tamerlane avenged a revolt in Isfahan by massacring 70,000 people.<ref>[http://www.smithsonianmag.com/people-places/Irans-Hidden-Jewel.html?c=y&page=2 Isfahan: Iran's Hidden Jewel]. ''Smithsonian Magazine.''</ref> But both [[Hulagu Khan|Hulagu]], Tamerlane, and their successors soon came to adopt the ways and customs of that which they had conquered, choosing to surround themselves with a culture that was distinctively Persian.<ref>Bertold Spuler. ''The Muslim World. Vol. I The Age of the Caliphs.'' Leiden. E.J. Brill. 1960 ISBN 0-685-23328-6 p. 29.</ref> The mid-14th-century [[Black Death]] killed about 30% of the country's population.<ref>[http://www.nationalreview.com/interrogatory/kelly200509140843.asp Q&A with John Kelly on The Great Mortality on National Review Online].</ref>
+
+[[File:Jami Rose Garden.jpg|thumb|140px|Illustration from [[Jami]] ''"Rose Garden of the Pious"'', dated 1553. The image blends [[Persian literature|Persian poetry]] and [[Persian miniature]] into one, as is the norm for many works of the Timurid era.]]
+
+Iran was gradually Islamized after the collapse of the [[Sassanid empire]]; however, it was not Arabized. Iranian culture re-emerged with a separate and distinctive character and made an immense contribution to the Islamic civilization.<ref name="LewisIranHistory">Bernard Lewis, "Iran in History", [http://www.tau.ac.il/dayancenter/mel/lewis.pdf TAU.ac.il] excerpt: "Iran was indeed Islamized, but it was not Arabized. Persians remained Persians. And after an interval of silence, Iran reemerged as a separate, different and distinctive element within Islam, eventually adding a new element even to Islam itself. Culturally, politically, and most remarkable of all even religiously, the Iranian contribution to this new Islamic civilization is of immense importance. The work of Iranians can be seen in every field of cultural endeavor, including Arabic poetry, to which poets of Iranian origin composing their poems in Arabic made a very significant contribution. In a sense, Iranian Islam is a second advent of Islam itself, a new Islam sometimes referred to as Islam-i Ajam. It was this Persian Islam, rather than the original Arab Islam, that was brought to new areas and new peoples: to the Turks, first in Central Asia and then in the Middle East in the country which came to be called Turkey, and of course to India. The Ottoman Turks brought a form of Iranian civilization to the walls of Vienna."</ref><ref>Grunebaum, G. V. von. "The sources of Islamic civilization." Islamic Society and Civilization. Eds. P. M. Holt, Ann K. S. Lambton and Bernard Lewis. Cambridge University Press, 1970. Cambridge Histories Online. Cambridge University Press. p. 501: "In some ways, the Persian components of Islamic civilization are more difficult to separate out than the Hellenic precisely because they are more fully integrated and have become effective on so many levels. In fact, the Muslim world itself, without necessarily putting this judgment in analytical terms, has long since come to accept Islamic civilization as 'Perso-Islamic synthesis'.</ref> When Islam came through Iran, what developed was an Iranian Islam or Persian Islam rather than the original Arab Islam, and this new Islam is sometimes referred to by scholars as Islam-i Ajam (Persian Islam).<ref name="LewisIranHistory"/><ref>Seyyed Hossein Nasr, Mehdi Amin Razavi,"The Islamic intellectual tradition in Persia", RoutledgeCurzon; annotated edition edition (4 July 1996). p. 157: "The appearance of the school of Ishraq meant both the guarantee of the propagation of Islamic philosophy in a form that was clearer to the heart of Islam than the earlier schools of thoughts, and also the creation of a school that was particularly close to the ethos of Persian Islam and spread wherever Persian Islamic culture was dominant.</ref>
+
+It was this Persian Islam and Sufism which was brought to new areas and new peoples such as the Turks of Central Asia, the Ottoman Empire, and the Indian subcontinent.<ref name="LewisIranHistory"/> Among the major [[Iranian peoples|Iranian]] Muslims who cultivated [[Sufism]] and helped the spread of [[Islam]] through Sufism, one can mention Habib Ajami, [[Hallaj]], [[Hasan Basri]], [[Junayd Baghdadi]], [[Bayazid Bistami]], [[Maruf Karkhi]], [[Abdul Qadir Jilani]], [[Moinuddin Chishti]], [[Jalaluddin Rumi]], [[Najmuddin Kubra]], and [[Baha-ud-Din Naqshband Bukhari]]. Note should also be made of [[Abu Hanifa]], the founder of the [[Hanafi]] school of thought which is followed by most Muslims today.
+
+Arabic writer [[Ibn Khaldun]] has remarked that the sedentary culture which was necessary for the development of civilization was rooted in the Persian empire.<ref name="Franz Rosenthal 1969">The Muqaddimah By Ibn Khaldūn translated by Franz Rosenthal, N. J. Dawood, Published by Princeton University Press, 1969.</ref>
+
+One of the main developments after the advent of Islam in Iran was the rise of the [[Persian language|New Persian language]] as an important [[Indo-European]] language. The New Persian language was an evolution of [[Middle Persian]], which in turn was derived from [[Old Persian]]. New Persian absorbed a considerable amount of Arabic vocabulary<ref>Professor. Gilbert Lazard: ''The language known as New Persian, which usually is called at this period (early Islamic times) by the name of Dari or Parsi-Dari, can be classified linguistically as a continuation of Middle Persian, the official religious and literary language of Sassanian Iran, itself a continuation of Old Persian, the language of the Achaemenids. Unlike the other languages and dialects, ancient and modern, of the Iranian group such as [[Avestan]], [[Parthia]]n, [[Soghdian]], [[Kurdish people|Kurdish]], [[Pashto]], etc., Old [[Middle Persian|Middle]] and New Persian represent one and the same language at three states of its history. It had its origin in [[Fars Province|Fars]] (the true Persian country from the historical point of view) and is differentiated by dialectical features, still easily recognizable from the dialect prevailing in north-western and eastern Iran'' in (Lazard, Gilbert 1975, “The Rise of the New Persian Language” in Frye, R. N., The Cambridge History of Iran, Vol. 4, pp. 595–632, Cambridge: Cambridge University Press.</ref><ref>Lazard, Gilbert, "Pahlavi, Pârsi, dari: Les langues d'Iran d'apès Ibn al-Muqaffa" in R.N. Frye, "Iran and Islam. In Memory of the late Vladimir Minorsky", Edinburgh University Press, 1971.</ref> during this era, although the Arabic vocabulary that was Persianized<ref>Ann K. S. Lambton, "Persian grammar ", Cambridge University Press, Cambridge University Press 1953. Excerpt: "The Arabic words incorporated into the Persian language have become Persianized".</ref> often took a different meaning than the [[Arabic]] origin. In terms of contribution to the Arabic language, Iranians like Sibawayhi<ref>M. G. Carter, "Sibawayhi", Published by I.B.Tauris, 2004. p. 9: "That Sibawayhi was by origin a Persian who came or was taken to Basra seems to be beyond challenge."</ref> pioneered writing books of grammar of the Arabic language.
+
+Culturally, Iranians preserved their language, while they used [[Arabic language|Arabic]] for scientific and philosophical discourses;<ref name="chi-398">{{Cite book
+|title=The Cambridge History of Iran
+|volume=4
+|publisher=Cambridge University Press
+|year=1975
+|pages=397–398
+|isbn=0521200938
+|author=William Bayne Fisher, Richard Nelson Frye, John Andrew Boyle }}</ref> this enabled them to reach a worldwide audience for the first time.<ref name="chi-398"/> After the 10th century, Persian, written in the modified Perso-Arabic script alongside Arabic, was used for scientific, philosophical, historical, mathematical, musical, and medical works, as important Iranian writers such as [[Nasir al-Din al-Tusi]], [[Avicenna]], [[Qotb al-Din Shirazi]], [[Zakhira-i Khwarizmshahi|Gurgani]], [[Naser Khusraw]], [[Biruni]], [[Abdul Qadir Maraghi]] made contributions to Persian scientific writing.
+
+During this era, Iranians continued on a much larger scale the cultural and scientific enterprises set up by the [[Sassanids]].<ref name=chi4-nasr/> The blossoming [[Persian literature]], [[Iranian philosophy|philosophy]], [[Science and technology in Iran|medicine]], and [[Persian art|art]] became major elements in the forming Muslim civilization. The [[Islamic Golden Age]], which is characterized by developments in science, owed to a large extent its importance to vital contributions made by Iranians.<ref>
+*Robert Palter, Solomon Gandz, "Toward Modern Science: Studies in ancient and medieval science", Published by Noonday Press, 1961, p. 180: "The so called golden age of Islamic science owed its importance to largely to the Persian contribution."
+*Ehsan Yarshater, "The Persian Presence in the Islamic World" in Richard G. Hovannisian, Georges Sabagh, "The Persian Presence in the Islamic World", Published by Cambridge University Press, 1997. pp. 6–7: "The Golden age of Islam, as the early Abbassid period has been labeled, was distinguished by intellectual advances, literary innovations, and cultural exuberance attributable, in no small measure, to the vital participation of Persian men of letters, philosophers, theologians, grammarians, mathematicians, musicians, astronomers, geographers, and physicians"
+*Bernard Lewis, "Iran in History", excerpt: "Culturally, politically, and most remarkable of all even religiously, the Iranian contribution to this new Islamic civilization is of immense importance. The work of Iranians can be seen in every field of cultural endeavor, including Arabic poetry, to which poets of Iranian origin composing their poems in Arabic made a very significant contribution." [http://www.tau.ac.il/dayancenter/mel/lewis.pdf TAU.ac.il]</ref> The [[Islamic Golden Age]] reached its peak in the 10th and 11th centuries, during which Persia was the main theatre of scientific activity.<ref name=chi4-nasr>William Bayne Fisher, et al., ''The Cambridge History of Iran 4'' Published by Cambridge University Press, 1975, ISBN 0-521-20093-8, p. 396.</ref> The Persian influence of this period relied heavily upon the achievements of the [[Sassanids]], and the weight of this influence has led the Muslim world to accept Islamic civilization as the ''Perso-Islamic civilization''.<ref>The following references give comprehensive analysis and clarification of the terms "ersian influence" and "perso-islamic" and the relation to Sassanids and the impact on Islamic cultures:
+*Marilyn Robinson Waldman, ''Toward a Theory of Historical Narrative: A Case Study in Perso-Islamicate Historiography'', Published by Ohio State University Press, 1980, ISBN 0-8142-0297-7, p. 30.
+*Richard M. Eaton, ''The Rise of Islam and the Bengal Frontier, 1204–1760'', Published by [[University of California Press]], 1996, ISBN 0-520-20507-3, p. 28.
+*Richard G. Hovannisian (ed.), ''The Persian Presence in the Islamic World'', Published by [[Cambridge University Press]], 1997, ISBN 0-521-59185-6. p. 78.
+*P. M. Holt, et al. ''The Cambridge History of Islam: Volume 2B'', Published by Cambridge University Press, 1977, ISBN 0-521-29138-0. p. 501.</ref>
+
+Even in the development of Arabic scientific prose itself, which differs in style from that of the [[Quran]], Persian scholars such as [[Ibn al-Muqaffa]] had a major role. Indeed, the class of clerks and civil administrators that was responsible for the cultivation of the sciences in the early Islamic centuries consisted mostly of Persians.<ref>William Bayne Fisher, et al., ''The Cambridge History of Iran 4'' Published by Cambridge University Press, 1975, ISBN 0-521-20093-8, p. 397.</ref> The contributions of Iranians to the Arabic language are however not limited to scientific prose but are also found in Arabic poetry. The contributions by Iranians are characterised as "the lively and graceful fancy, elegance of diction, depth and tenderness of feeling, and a rich store of ideas".<ref>Reynold Alleyne Nicholson. ''A Literary History of the Arabs'', Published by Routledge, 1995, ISBN 0-7007-0336-5, p. 290.</ref>
+
+[[Iranian philosophy]] after the Islamic conquest is characterized by different interactions with Old Iranian philosophy, with [[Greek philosophy]], and with the development of [[Islamic philosophy]]. The [[Illumination School]] and [[Transcendent Philosophy]] are regarded as two of the main philosophical traditions of this era in Persia. These movements continued well into the 11th century, during which the [[Nizamiyya]] University was founded, and [[List of Iranian scientists and scholars|hundreds of Iranian scholars and scientists]] contributed greatly to technology, science, and medicine, later influencing the rise of European sciences during [[the Renaissance]].<ref>Kühnel E., in ''Zeitschrift der deutschen morgenländischen Gesell'', Vol. CVI (1956).</ref>
+
+===Early modern era (1501–1921)===
+{{Main|Safavid Dynasty|Afsharid Dynasty|Zand Dynasty|Qajar Dynasty}}{{See also|Russo-Persian Wars (disambiguation)|Anglo-Persian War|Iranian Constitutional Revolution}}
+[[File:Сефи 1й 1629-42.jpg|thumb|upright|130px|[[Shah Ismail I]], the founder of the [[Safavid Dynasty]] (1501–1736)]]
+Iran's first encompassing [[Shi'a Islam]]ic state was established under the [[Safavid Dynasty]] (1501–1722) by [[Shah Ismail I]]. The Safavid dynasty soon became a major political power and promoted the flow of bilateral state contacts. The Safavid peak was during the rule of [[Shah Abbas I|Shah Abbas The Great]].<ref name="islamic1600">[http://www.ucalgary.ca/applied_history/tutor/islam/empires/safavid/abbas.html "The Islamic World to 1600", The Applied History Research Group, The University of Calgary, 1998]. Retrieved 1 October 2007.</ref> The [[Safavid Dynasty]] frequently warred with the [[Ottoman Empire]], [[Uzbekistan|Uzbek]] tribes and the [[Portuguese Empire]].
+
+The Safavids moved their capital from [[Tabriz]] to [[Qazvin]] and then to [[Isfahan]], where their patronage for the arts propelled Iran into one of its most aesthetically productive eras. Under their rule, the state became highly centralized, the first attempts to modernize the military were made, and even [[Isfahani style (Iranian architecture)|a distinct style of architecture developed]]. In 1722 [[Pashtun people|Pashtun]] rebels headed by the [[Hotaki dynasty|Hotakis]] of [[Kandahar]] defeated [[Husayn (Safavid)|Shah Sultan Hossein]] and ended the Safavid Dynasty, but in 1735, [[Nader Shah]] successfully drove out the Pashtuns from Isfahan and established the [[Afsharid Dynasty]].
+[[File:Sattar Khan.jpg|thumb|left|upright|130px|[[Sattar Khan]] was a key figure in the [[Iranian Constitutional Revolution]]]]
+He then staged an incursion into India in 1738, securing the [[Peacock throne]], [[Koh-i-Noor]], and [[Darya-ye Noor]] among other [[Royal family|royal]] treasures. His rule did not last long, however, as he was assassinated in 1747. The [[Mashhad]] based Afshar Dynasty was succeeded by the [[Zand dynasty]] in 1750, founded by [[Karim Khan]], who established his capital at [[Shiraz]]. His rule brought a period of relative peace and renewed prosperity.
+
+The Zand dynasty lasted three generations, until [[Mohammad Khan Qajar|Aga Muhammad Khan]] executed [[Lotf Ali Khan]], and founded his new capital in [[Tehran]], marking the dawn of the [[Qajar|Qajar Dynasty]] in 1794. The [[Qajar]] chancellor [[Amir Kabir]] established [[Dar ul-Funun|Iran's first modern college]] system, among other modernizing reforms. Iran suffered [[Russo-Persian Wars (disambiguation)|several wars with Imperial Russia]] during the [[Qajar]] era, resulting in Iran losing almost half of its territories to [[Imperial Russia]] and the [[British Empire]], via the treaties of [[Treaty of Gulistan|Gulistan]], [[Treaty of Turkmenchay|Turkmenchay]] and [[Treaty of Akhal|Akhal]]. The Great Persian Famine of 1870–1871 is believed to have caused the death of 2 million persons.<ref>{{cite web|url=http://links.jstor.org/sici?sici=0041-977X%281986%2949%3A1%3C183%3ATGPFO1%3E2.0.CO%3B2-Q&size=LARGE&origin=JSTOR-enlargePage |title=The Great Persian Famine of 1870–1871 |publisher=Links.jstor.org |date= |accessdate=2010-08-25}}</ref>
+
+In spite of [[The Great Game]] Iran managed to maintain her sovereignty and was never colonized, unlike neighbouring states in the region. Repeated foreign intervention and a corrupt and weakened Qajar rule led to [[Tobacco Protest|various protests]] and [[Attempts at Constitutionalization in Iran|constitutionalization efforts]] which eventually resulted in the establishment of [[Majles|the nation's first parliament]] in 1906.
+
+===Recent history (1921–present)===
+{{Main|Pahlavi Dynasty|Iranian Revolution|History of the Islamic Republic of Iran|Iran–Iraq War|2009 Iranian election protests}}
+{{See|1953 Iranian coup d'état}}
+[[File:Dr.Mohammad Mosaddeq.jpg|thumb|100px|left|Prime Minister [[Mohammed Mosaddeq]]]] 
+In 1925, [[Reza Shah|Reza Khan]] overthrew the weakening [[Qajar Dynasty]] and became [[Shah]]. Reza Shah initiated [[industrialization]], [[Rail transport|railroad]] construction, and the establishment of a national [[Higher education in Iran|education]] system. Reza Shah sought to balance Russian and British influence, but when [[World War II]] started, his nascent ties to Germany alarmed Britain and Russia. In 1941, [[Anglo-Soviet invasion of Iran|Britain and the USSR invaded Iran]] to use Iranian railroad capacity during [[World War II]]. The Shah was forced to abdicate in favor of his son, [[Mohammad Reza Pahlavi]].
+
+In 1951, after the assassination of prime minister [[Ali Razmara]], Dr. [[Mohammed Mossadegh]] was elected [[Prime Minister of Iran|prime minister]] by a parliamentary vote which was then ratified by the Shah. As prime minister, Mossadegh became enormously popular in Iran after he [[nationalize]]d [[Petroleum industry in Iran|Iran's petroleum industry]] and oil reserves. In response, the British government, headed by [[Winston Churchill]], embargoed Iranian oil and successfully enlisted the United States to join in a plot to depose the democratically [[election|elected]] government of Mossadegh. In 1953 US President [[Dwight D. Eisenhower]] authorized [[Operation Ajax]]. The operation was successful, and Mossadegh was arrested on 19 August 1953. The coup was the first time the US had openly overthrown an elected, civilian government.<ref>[[Stephen Kinzer]]: ''[[All the Shah's Men]]. An American Coup and the Roots of Middle East Terror'', John Wiley and Sons, 2003, p.x</ref>
+[[File:Shah Farah.jpg|thumb|140px|[[Mohammad Reza Pahlavi]] and [[Farah Pahlavi|Empress Farah]] in official uniform]]
+After Operation Ajax, Mohammad Reza Pahlavi's rule became increasingly [[autocracy|autocratic]]. With American support, the Shah was able to rapidly modernize Iranian infrastructure, but he simultaneously crushed all forms of political opposition with his intelligence agency, [[SAVAK]]. [[Ayatollah]] [[Ruhollah Khomeini]] became an active critic of the Shah's [[White Revolution]] and publicly denounced the government.
+
+Khomeini was arrested and imprisoned for 18 months. After his release in 1964 Khomeini publicly criticized the United States government. The Shah was persuaded to send him into exile by General [[Hassan Pakravan]]. Khomeini was sent first to [[Turkey]], then to [[Iraq]] and finally to France. While in exile, he continued to denounce the Shah.
+
+====Iranian Revolution====
+The [[Iranian Revolution]], also known as the [[Islamic Revolution]],<ref>[http://www.iranchamber.com/history/islamic_revolution/islamic_revolution.php Islamic Revolution of 1979]. Retrieved 23 January 2008.</ref><ref>[http://encarta.msn.com/encyclopedia_761588431/Islamic_Revolution_of_Iran.html Islamic Revolution of Iran], [[Encarta]], retrieved 23 January 2008. [http://www.webcitation.org/query?id=1257012838707054 Archived] 2009-10-31.</ref><ref>Fereydoun Hoveyda, ''The Shah and the Ayatollah: Iranian Mythology and Islamic Revolution'' ISBN 0-275-97858-3, Praeger Publishers</ref> began in January 1978 with the first major demonstrations against the [[Shah]].<ref>[http://www.fsmitha.com/h2/ch29ir.html The Iranian Revolution]. Retrieved 23 January 2008.</ref> After strikes and demonstrations paralyzed the country and its economy, the [[Shah]] fled the country in January 1979 and [[Ayatollah Khomeini]] returned from exile to Tehran. The [[Pahlavi Dynasty]] collapsed ten days later, on 11 February, when Iran's military declared itself "neutral" after guerrillas and rebel troops overwhelmed troops loyal to the Shah in armed street fighting. Iran officially became an Islamic Republic on 1 April 1979, when Iranians overwhelmingly approved a national referendum to make it so.<ref name="britannica1"/><ref name="Britannica">[http://www.britannica.com/eb/article-32981 Encyclopædia Britannica] 23 January 2008</ref>
+
+In December 1979, the country approved a [[theocratic]] constitution, whereby Khomeini became [[Supreme Leader]] of the country.
+The speed and success of the revolution surprised many throughout the world,<ref>Jahangir Amuzegar, ''The Dynamics of the Iranian Revolution,'' (1991), p.4, 9–12 ISBN 0-7914-0731-4</ref> as it had not been precipitated by a military defeat, a financial crisis, or a peasant rebellion.<ref>Arjomand, ''Turban'' (1988), p. 191.</ref> Although both nationalists and Marxists joined with Islamic traditionalists to overthrow the Shah, tens of thousands were killed and executed by the Islamic regime afterward, and the revolution ultimately resulted in an Islamic Republic under [[Ayatollah]] [[Ruhollah Khomeini]].<ref name="Benard">Cheryl Benard, Zalmay Khalilzad, ''"The Government of God"'' ISBN 0-231-05376-2, Columbia University Press (1984), p. 18.</ref>
+[[File:تصویر خمینی.jpg|thumb|110px|left|[[Ayatollah]] [[Khomeini]], founder of the Islamic Republic of Iran]]
+Iran's [[US-Iran relations|relationship with the United States]] deteriorated rapidly during the revolution. On 4 November 1979, a group of Iranian students [[Iran hostage crisis|seized US embassy personnel]], labeling the embassy a "den of spies".<ref name="carterpbs">[http://www.pbs.org/wgbh/amex/carter/sfeature/sf_hostage.html PBS, American Experience, Jimmy Carter, "444 Days: America Reacts"]. Retrieved 1 October 2007.</ref> They accused its personnel of being CIA agents plotting to overthrow the revolutionary government, as the CIA had done to [[Mohammad Mossadegh]] in 1953. While the student ringleaders had not asked for permission from [[Khomeini]] to seize the embassy, [[Khomeini]] nonetheless supported the embassy takeover after hearing of its success.<ref name="MarkBowden-Guests">Guests of the Ayatollah: The Iran Hostage Crisis: The First Battle in America's War with Militant Islam, Mark Bowden, p. 127 ISBN 0-8021-4303-2, Grove Press</ref>
+
+While most of the [[female]] and [[African American]] hostages were released within the first months,<ref name="MarkBowden-Guests"/> the remaining 52 hostages were held for 444 days. Subsequent attempts by the [[Jimmy Carter]] administration to negotiate or [[Operation Eagle Claw|rescue]] were unsuccessful. In January 1981 the hostages were set free according to the [[Algiers declaration]].
+
+Iraqi leader [[Saddam Hussein]] decided to take advantage of what he perceived to be disorder in the wake of the Iranian Revolution and its unpopularity with Western governments. The once-strong [[Iranian military]] had been disbanded during the revolution. Saddam sought to expand Iraq's access to the [[Persian Gulf]] by acquiring territories that Iraq had claimed earlier from Iran during the Shah's rule. Of chief importance to Iraq was [[Khuzestan Province|Khuzestan]] which not only has a substantial [[Arab]] population, but boasted rich oil fields as well. On the unilateral behalf of the [[United Arab Emirates]], the islands of [[Abu Musa]] and the [[Greater and Lesser Tunbs]] became objectives as well. On 22 September 1980 the Iraqi army invaded Iran at Khuzestan, precipitating the [[Iran–Iraq War]].
+
+Although Saddam Hussein's forces made several early advances, by 1982, Iranian forces managed to push the Iraqi army back into Iraq. Khomeini sought to [[Export of revolution|export his Islamic revolution]] westward into Iraq, especially on the majority Shi'a Arabs living in the country. The war then continued for six more years until 1988, when Khomeini, in his words, "drank the cup of poison" and accepted a truce mediated by the United Nations. The total Iranian casualties of the war were estimated to be anywhere between 500,000 and 1,000,000; with more than 100,000 Iranians being victims of Iraq's chemical weapons.<ref name="r1">Centre for Documents of The Imposed War, Tehran. (مرکز مطالعات و تحقیقات جنگ)</ref>{{verify source|date=October 2010}} <!--Western sources say from "tens of thousands" to a high of 60,000. Better sourcing required. --> Almost all relevant international agencies have confirmed that Saddam engaged in chemical warfare to blunt Iranian [[human wave attack]]s; these agencies unanimously confirmed that Iran never used chemical weapons during the war.<ref>{{cite web|url=http://www.fas.org/news/iran/1997/970205-480132.htm|title=News|publisher=FAS|accessdate=23 January 2008 }}</ref><ref>[http://www.fas.org/cw/intro.htm Federation of American Scientists] 23 January 2008</ref><ref>[http://www.nti.org/e_research/profiles/Iran/Chemical/2340_2965.html NTI Chemical profile of Iran] 23 January 2008</ref>{{verify source|date=October 2010}} <!-- Only one of the three sources claims that Iran never used chemical weapons and this does not name the "international agencies" that "unanimously" claim this. Better sources are needed for the claim. A 1996 release by the director of the CIA stated Iran used CW from 1985 to 1988 and this was repeated when interviewed by the NYT in 2002. The U.S. Department of Defense publication, ''Proliferation: Threat and Response'', 25 November 1997 confirms Iran began a CW program in 1983 producing  nerve gas, phosgene gas and cyanotic agents and had purchased mustard gas. The DoD reported that Iran "employed CW agents on a small scale between 1984 and 1988". A March, 1990 a U.S. [[Defense Intelligence Agency|DIA]] report stated that a United Nations team had examined Iraqi victims of Iranian chemical attacks who "displayed the effects of exposure to a choking agent believed to have been phosgene." -->
+
+Following the Iran–Iraq War President [[Akbar Hashemi Rafsanjani]] and his administration concentrated on a pragmatic pro-business policy of rebuilding and strengthening the economy without making any dramatic break with the ideology of the revolution. Rafsanjani served until 1997 when he was succeeded by the moderate [[Iranian reform movement|reformist]] [[Mohammad Khatami]]. During his two terms as president, Khatami advocated [[freedom of expression]], tolerance and [[civil society]], constructive diplomatic relations with other states including [[EU]] and [[Asia]]n governments, and an economic policy that supported [[free market]] and foreign investment. However, Khatami is widely regarded as having been unsuccessful in achieving his goal of making Iran more free and democratic.<ref name="autogenerated3">{{Cite news|author=Dan De Luce in Tehran |url=http://www.guardian.co.uk/world/2004/may/04/iran |title=The Guardian, Tuesday 4 May 2004, Khatami blames clerics for failure |publisher=Guardian |date= 4 May 2004|accessdate=2010-08-25 | location=London}}</ref> In the [[Iranian presidential election, 2005|2005 presidential elections]], Iran made yet another change in political direction, when conservative populist candidate [[Mahmoud Ahmadinejad]] was elected over [[Akbar Hashemi Rafsanjani]].<ref>
+{{Cite news|url=http://news.bbc.co.uk/2/hi/middle_east/4740441.stm|title=Iran hardliner becomes president|accessdate=2006-12-06|date=3 August 2005|publisher=BBC}}</ref>
+
+[[File:3rd Day - The Green Protest Rally.jpg|thumb|250px|June [[2009 Iranian election protests]] in Tehran]]
+
+A significant challenge to Ahmadinejad's political power, and the foundations of the Islamic Republic itself occurred during the [[2009 Iranian presidential election]] that was held on 12 June 2009,<ref>{{Cite news|title=Iran To Hold Presidential Election In June 2009|curly=y|url=http://www.rferl.org/content/Iran_To_Hold_Presidential_Election_In_June_2009/1196953.html|format=[[Reuters]]|work=[[Radio Free Europe/Radio Liberty]]|date=7 September 2008|accessdate=2 December 2008}}</ref> the tenth presidential election to be held in the country.<ref name=daily>{{cite web|title=Ahmadinejad Wins Landslide|url=http://www.iran-daily.com/1388/3423/html/|date=13 June 2009|accessdate=13 June 2009|publisher=''[http://www.iran-daily.com/ Iran Daily]''}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> The [[Ministry of Interior (Iran)|Interior Ministry]], announced incumbent president [[Mahmoud Ahmadinejad]] had won the election with 62.63% receiving 24.5 million vote, while [[Mir-Hossein Mousavi]] had come in second place with 13.2 million votes 33.75%.<ref>{{cite web|url=http://moi.ir/Portal/Home/ShowPage.aspx?Object=News&CategoryID=832a711b-95fe-4505-8aa3-38f5e17309c9&LayoutID=dd8faff4-f71b-4c65-9aef-a1b6d0160be3&ID=5e30ab89-e376-434b-813f-8c22255158e1|title=نتایج نهایی دهمین دورهٔ انتخابات ریاست جمهوری|publisher=[[Ministry of Interior (Iran)|Ministry of Interior of Iran]]|language=Persian|date=2009-06-13|accessdate=2009-06-27}}</ref><ref>[[Press TV]] [http://www.presstv.ir/detail.aspx?id=98016&sectionid=351070101 Leader addresses nation on election results], 13 June 2009</ref> The [[European Union]] and several western countries expressed concern over alleged irregularities during the vote,<ref name=defeated>{{Cite news|title=Defeated Iranian reformist Mir-Hossein Mousavi calls for more protest against Mahmoud Ahmadinejad|author1=Colin Freeman|author2=David Blair|url=http://www.telegraph.co.uk/news/worldnews/middleeast/iran/5533782/Defeated-Iranian-reformist-Mir-Hossein-Mousavi-calls-for-more-protest-against-Mahmoud-Ahmadinejad.html|date=2009-06-14|accessdate=2009-06-14|publisher=The Daily Telegraph | location=London}}</ref> and many analysts and journalists from the [[United States]] and [[United Kingdom]] news media voiced doubts about the authenticity of the results.<ref name=skep>{{Cite news|url=http://www.foxnews.com/politics/2009/06/13/official-obama-administration-skeptical-irans-election-results/|title=Official: Obama Administration Skeptical of Iran's Election Results|publisher=[[Fox News Channel|Fox News]]|date=2009-06-13|accessdate=2009-06-13}} {{Dead link|date=August 2010|bot=RjwilmsiBot}}</ref><ref name=tele>{{Cite news|first=Colin|last=Freeman|url=http://www.telegraph.co.uk/news/worldnews/middleeast/iran/5526721/Iran-elections-revolt-as-crowds-protest-at-Mahmoud-Ahmadinejads-rigged-victory.html|title=Iran elections: revolt as crowds protest at Mahmoud Ahmadinejad's 'rigged' victory|publisher=The Daily Telegraph|date=12 June 2009|accessdate=12 June 2009 | location=London}}</ref><ref name=instant>{{Cite news|url=http://www.reuters.com/article/newsMaps/idUSTRE55C0W620090613|title=Instant View: Iran's election result staggers analysts|publisher=Reuters|date=2009-02-09|accessdate=2009-06-13 | first=Alistair | last=Lyon}}</ref>
+
+Mousavi issued a statement accusing the Interior Ministry, which was responsible for conducting the election, of widespread election fraud and urged his supporters to engage in peaceful protests. He also lodged an official appeal with the Guardian Council for new and more transparent elections. [[2009 Iranian Election Protests|Protests, in favour of Mousavi and against the alleged fraud]], broke out in [[Tehran]]. [[Supreme Leader of Iran|Supreme Leader]] [[Ayatollah]] [[Ali Khamenei]] urged the nation to unite behind Ahmadinejad, labeling his victory as a "divine assessment".<ref name=abc>{{Cite news|title=Election Battles Turn Into Street Fights in Iran|publisher=[[ABC News]]|url=http://abcnews.go.com/International/wireStory?id=7830630|date=13 June 2009|accessdate=13 June 2009}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> Khamenei then announced there would be an investigation into vote-rigging claims.<ref name=black>{{Cite news|url=http://www.guardian.co.uk/world/2009/jun/15/iran-opposition-rally-banned-mousavi|title=Iranians march in protest at Ahmadinejad re-election|author1=Ian Black|author2=Vikram Dodd|author3=Matthew Weaver|publisher=The Guardian|date=15 June 2009|accessdate=15 June 2009 | location=London}}</ref>
+
+On 16 June, the [[Guardian Council]] announced it would recount 10% of the votes and concluded there were no irregularities at all, dismissing all election complaints.<ref>[[Press TV]] [http://www.presstv.ir/detail.aspx?id=99364&sectionid=351020101 Iran's Guardian Council confirms vote results], 29 June 2009</ref><ref>{{cite web|url=http://www1.voanews.com/english/news/a-13-2009-06-29-voa6-68692667.html |title=Iran Confirms Ahmadinejad Win After Partial Vote Recount |publisher=.voanews.com |date=2009-06-29 |accessdate=2010-08-25}}</ref><ref>{{cite web|url=http://www.encyclopedia.com/doc/1P2-20479751.html |title=Iran's Guardian Council Affirms Vote Result; Recount of 10 Percent of Ballot Boxes Certifies Landslide Victory by Ahmadinejad |publisher=Encyclopedia.com |date=2009-06-30 |accessdate=2010-08-25}}</ref> However, Mousavi stated that a recount would not be sufficient since he claimed 14 million unused ballots were missing, giving the Interior Ministry an opportunity to manipulate the results.<ref name=recount>{{Cite news|url=http://edition.cnn.com/2009/WORLD/meast/06/16/iran.elections.protests/index.html|title=Rival demonstrations fill Tehran streets|publisher=CNN|date=2009-06-16|accessdate=2009-06-16|author1=Octavia Nasr|author2=Reza Sayah|author3=Samson Desta}}</ref> On 19 June, Supreme Leader Ayatollah Ali Khamenei denounced the pro-Mousavi demonstrations as illegal,<ref name=afp-19june>{{Cite news|title=Amnesty says up to 10 dead in Iran protests|url=http://www.google.com/hostednews/afp/article/ALeqM5hmI8SkGap6fUGvyrbGIRk5oKCA9Q|date=19 June 2009|publisher=AFP|accessdate=19 June 2009}}</ref> and protests the next day were met with stiff resistance from government forces, with many reported deaths.<ref>{{Cite news|title=Iran police 'use gas' on protesters|url=http://english.aljazeera.net/news/middleeast/2009/06/2009620132648106415.html|date=20 June 2009|publisher=al Jazeera|accessdate=20 June 2009}}</ref>
+Independent polls have not contradicted official turnout of [[Iranian presidential election, 2009|2009 election]], which gave around 60% of vote to Ahmadinejad.<ref>{{cite web|url=http://payvand.com/blog/blog/2010/12/13/iranian-public-opinion-survey-by-international-peace-institute/ |title=Iranian Public Opinion Survey by International Peace Institute |publisher=Payvand.com |date= |accessdate=2010-12-18}}</ref>
+
+==Government and politics==
+{{Main|Constitution of Iran|Politics and Government of Iran|Parliament of Iran|President of Iran|Supreme Leader of Iran|Judicial system of Iran|Council of Guardians}}
+
+[[File:Ali Khamenei,.jpg|thumb|130px|[[Ali Khamenei]], Supreme Leader of Iran.]]
+
+The political system of the Islamic [[Republic]] is based on the 1979 [[Iranian Constitution|Constitution]]. Accordingly, it is the duty of the [[Government of Iran|Islamic government]] to furnish all citizens with equal and appropriate opportunities, to provide them with work, and to satisfy their essential needs, so that the course of their progress may be assured.<ref>[http://www.servat.unibe.ch/law/icl/ir00000_.html University of Bern; Iranian Constitution summary]. Retrieved 30 November 2009. {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+The system comprises several intricately connected governing bodies. [[Supreme Leader of Iran|The Leader of the Revolution]] (commonly called "Supreme Leader" in the USA and the UK) is responsible for [[Guardianship of the Islamic Jurists|delineation and supervision]] of the general policies of the Islamic Republic of Iran.<ref name="leader">[http://www.leader.ir/langs/en/index.php?p=leader_law Leader.ir], retrieved 13 May 2008</ref> The Supreme Leader is Commander-in-Chief of the armed forces, controls the military intelligence and security operations; and has sole power to declare war or peace.<ref name="leader"/>
+
+The heads of the judiciary, state radio and television networks, the commanders of the police and military forces and six of the twelve members of the [[Council of Guardians]] are appointed by the Supreme Leader.<ref name="leader"/> The [[Assembly of Experts]] elects and dismisses the Supreme Leader on the basis of qualifications and popular esteem.<ref name="loc">{{cite web|url=http://countrystudies.us/iran/81.htm|title=Iran — The Constitution|first=Library of Congress|last=Federal Research Division|accessdate=2006-04-14}}</ref> The Assembly of Experts is responsible for supervising the Supreme Leader in the performance of legal duties.
+
+After the Supreme Leader, the Constitution defines the [[President of Iran]] as the highest state authority.<ref name="leader"/><ref name="photius">[http://www.photius.com/countries/iran/government/iran_government_the_presidency.html Iran The Presidency]. Retrieved 25 January 2008.</ref> The President is elected by [[universal suffrage]] for a term of four years and can only be re-elected for one term.<ref name="photius"/> Presidential candidates must be approved by the [[Council of Guardians]] prior to running in order to ensure their allegiance to the ideals of the Islamic revolution.<ref>Chibli Mallat, The Renewal of Islamic Law: Muhammad Baqer As-Sadr, Najaf and the Shi'i international, ISBN 0-521-53122-5, Cambridge University Press</ref>
+
+The President is responsible for the implementation of the Constitution and for the exercise of executive powers, except for matters directly related to the Supreme Leader, who has the final say in all matters.<ref name="leader"/> The President appoints and supervises the [[Council of Minsters of Iran|Council of Ministers]], coordinates government decisions, and selects government policies to be placed before the legislature.<ref>[http://countrystudies.us/iran/84.htm Country Studies]. Retrieved 2 February 2008.</ref> Eight Vice-Presidents serve under the President, as well as a cabinet of twenty two ministers, who must all be approved by the legislature.<ref>[http://www.iranchamber.com/government/articles/structure_of_power.php The Structure of Power in Iran]. Retrieved 28 February 2008.</ref>
+Unlike many other states, the executive branch in Iran does not control the armed forces. Although the President appoints the Ministers of Intelligence and Defense, it is customary for the President to obtain explicit approval from the Supreme Leader for these two ministers before presenting them to the legislature for a vote of confidence. Iran's current president, [[Mahmoud Ahmadinejad]], was first elected in a run-off poll in the [[Iranian presidential election, 2005|2005 presidential elections]] and re-elected in the [[2009 Iranian presidential election|2009 presidential elections]].
+[[File:Iran gov power structure.svg|thumb|300px|Iran's complex and unusual political system combines elements of a modern Islamic theocracy with democracy.]]
+As of 2008, the [[Majlis of Iran|Legislature of Iran]] (also known as the [[Majlis of Iran]]) is a [[unicameral]] body.<ref name="Majlis">[http://www.electionguide.org/country.php?ID=103 IFES Election Guide]. Retrieved 3 February 2008.</ref> Before the [[Iranian Revolution]], the legislature was [[bicameral]], but the [[Iranian Senate|upper house]] was removed under the new constitution. The Majlis of Iran comprises 290 members elected for four-year terms.<ref name="Majlis"/> The Majlis drafts [[legislation]], ratifies international [[treaties]], and approves the national budget. All Majlis candidates and all legislation from the assembly must be approved by the [[Council of Guardians]].<ref>[http://countrystudies.us/iran/86.htm Iran – The Council of Guardians]. Retrieved 3 February 2008.</ref>
+
+The [[Council of Guardians]] comprises twelve jurists including six appointed by the Supreme Leader. The others are elected by the [[Majlis|Parliament]] from among the jurists nominated by the Head of the [[Judicial system of Iran|Judiciary]].<ref name="photius">[http://www.photius.com/countries/iran/government/iran_government_the_council_of_guard~276.html Photius.com]. Retrieved 3 February 2008.</ref><ref>[http://www.iranonline.com/iran/iran-info/Government/constitution-6-2.html Iran Online Forum]. Retrieved 3 February 2008.</ref> The Council interprets the constitution and may [[veto]] Parliament. If a law is deemed incompatible with the constitution or [[Sharia]] (Islamic law), it is referred back to Parliament for revision.<ref name="photius"/> In a controversial exercise of its authority, the Council has drawn upon a narrow interpretation of Iran's constitution to veto parliamentary candidates. The [[Expediency Discernment Council|Expediency Council]] has the authority to mediate disputes between Parliament and the Council of Guardians, and serves as an advisory body to the Supreme Leader, making it one of the most powerful governing bodies in the country.<ref>[http://news.bbc.co.uk/1/shared/spl/hi/middle_east/03/iran_power/html/expediency_council.stm BBC News]. Retrieved 3 February 2008.</ref>
+[[File:Mahmoud Ahmadinejad.jpg|left|thumb|150px|President [[Mahmoud Ahmadinejad]] at Columbia University.]]
+The Supreme Leader appoints the head of [[Judicial system of Iran|Iran's Judiciary]], who in turn appoints the head of the Supreme Court and the chief public prosecutor.<ref name="Judiciary">[http://www.iranchamber.com/government/articles/structure_of_power.php Iran Chamber Society]. Retrieved 3 February 2008.</ref> There are several types of courts including public courts that deal with civil and criminal cases, and "revolutionary courts" which deal with certain categories of offenses, including crimes against [[national security]]. The decisions of the revolutionary courts are final and cannot be appealed.<ref name="Judiciary"/> The Special Clerical Court handles crimes allegedly committed by [[cleric]]s, although it has also taken on cases involving [[lay people]]. The Special Clerical Court functions independently of the regular judicial framework and is accountable only to the Supreme Leader. The Court's rulings are final and cannot be appealed.<ref name="Judiciary"/>
+
+The [[Assembly of Experts]], which meets for one week annually, comprises 86 "virtuous and learned" clerics elected by adult suffrage for eight-year terms. As with the presidential and parliamentary elections, the [[Council of Guardians]] determines candidates' eligibility.<ref name="Judiciary"/> The Assembly elects the Supreme Leader and has the constitutional authority to remove the Supreme Leader from power at any time.<ref name="Judiciary"/> It has not challenged any of the Supreme Leader's decisions.<ref name="Judiciary"/>
+
+[[City and Village Councils of Iran|Local City Councils]] are elected by public vote to four-year terms in all cities and villages of Iran. According to article seven of Iran's Constitution, these local councils together with the Parliament are "decision-making and administrative organs of the State". This section of the constitution was not implemented until 1999 when the first local council elections were held across the country. Councils have many different responsibilities including electing mayors, supervising the activities of municipalities; studying, planning, co-ordinating and implementing of social, cultural, educational, health, economic, and welfare requirements of their constituencies.
+
+==Foreign relations and military==
+{{Main|Foreign relations of Iran|Military of Iran|Iranian defense industry}}
+{{See also|Military history of Iran|List of military equipment manufactured in Iran}}
+
+[[Foreign relations of Iran|Iran's foreign relations]] are based on two strategic principles: eliminating outside influences in the region and pursuing extensive diplomatic contacts with developing and [[Non-Aligned Movement|non-aligned countries]]. Iran maintains diplomatic relations with almost every member of the [[United Nations]], except for [[Israel]], which Iran does not recognize, and the United States since the [[Iranian Revolution]].<ref>[http://www.pbs.org/newshour/indepth_coverage/middle_east/iran/timeline.html Key Events in Iran Since 1921]. Retrieved 23 January 2008.</ref> Since 2005, [[Nuclear program of Iran|Iran's nuclear program]] has become the subject of contention with the Western world due to suspicions that Iran could divert the civilian nuclear technology to a weapons program. This has led the [[UN Security Council]] to impose [[sanctions against Iran]] on select companies linked to this program, thus furthering its economic isolation on the international scene. The [[U.S. Director of National Intelligence]] said in February 2009 that Iran would not realistically be able to a get a nuclear weapon until 2013, if it chose to develop one.<ref>{{Cite news|url=http://www.reuters.com/article/idUSN25158068|title=RPT-EXCLUSIVE-Iran would need 18 months for atom bomb-diplomats|publisher=Reuters|accessdate=2010-08-01 | first=Louis | last=Charbonneau | date=26 October 2009}}</ref>
+[[File:Iranian kilo class submarine.jpg|thumb|left|140px|One of Iran's three [[Kilo class submarine|SSK Kilo class submarines]]]]
+The Islamic Republic of Iran has two types of [[armed forces]]: the regular forces [[Islamic Republic of Iran Army]], [[Islamic Republic of Iran Air Force]], [[Islamic Republic of Iran Navy]] and the [[Islamic Revolutionary Guards Corps]] (IRGC), totaling about 545,000 active troops. Iran also has around 350,000 Reserve Force totaling around 900,000 trained troops.<ref>[[IISS]] Military Balance 2006, Routledge for the IISS, London, 2006, p.187</ref> Iran has a paramilitary, volunteer militia force within the IRGC, called the [[Basij]], which includes about 90,000 full-time, active-duty uniformed members. Up to 11 million men and women are members of the Basij who could potentially be called up for service; [[GlobalSecurity.org]] estimates Iran could mobilize "up to one million men". This would be among the largest troop mobilizations in the world.<ref>[http://www.globalsecurity.org/intell/world/iran/basij.htm Niruyeh Moghavemat Basij Mobilisation Resistance Force]. Retrieved 27 February 2008.</ref> In 2007, Iran's military spending represented 2.6% of the GDP or $102 per capita, the lowest figure of the [[Persian Gulf]] nations.<ref>[http://www.payvand.com/news/06/jun/1011.html Iran's defense spending 'a fraction of Persian Gulf neighbors']. Retrieved 27 February 2008.</ref> Iran's military doctrine is based on [[deterrence theory|deterrence]].<ref>[http://www2.irna.com/en/news/view/line-24/0804185731142306.htm IRNA: Iran's doctrine based on deterrence]. Retrieved 28 June 2008.</ref>
+
+Since the [[Iranian revolution]], to overcome foreign embargo, Iran has developed its own [[Iranian military industry|military industry]], produced its own [[tanks]], [[armored personnel carriers]], [[guided missile]]s, [[submarine]]s, military vessels, [[Iranian destroyer Jamaran|guided missile destroyer]], [[radar system]]s, [[helicopters]] and [[fighter planes]].<ref>[http://www.foxnews.com/story/0,2933,156160,00.html Iran Launches Production of Stealth Sub]. Retrieved 27 February 2008.</ref><ref>[http://www.presstv.com/detail.aspx?id=95824&sectionid=351020101 PressTv: Advanced attack chopper joins Iran fleet] Retrieved 24 May 2009</ref><ref>{{cite web|url=http://www.presstv.com/detail.aspx?id=118982&sectionid=351020101|title=Iran launches advanced Jamaran destroyer|publisher=Presstv.com|date=2010-02-19|accessdate=2010-08-01}}</ref> In recent years, official announcements have highlighted the development of weapons such as the [[Hoot (missile)|Hoot]], [[Kowsar]], [[Zelzal]], [[Fateh-110]], [[Shahab-3]] and [[Sajjil]] missiles, and a variety of [[unmanned aerial vehicles]] (UAVs).<ref>{{Cite news|title=Iran tests new long-range missile|work=[[BBC]]|date=2008-11-12|url=http://news.bbc.co.uk/2/hi/middle_east/7725951.stm|accessdate=2008-11-12}}</ref> The [[Fajr-3 (MIRV)]] is currently Iran's most advanced [[ballistic missile]], it is a [[liquid fuel]] missile with an undisclosed range which was developed and produced domestically.
+
+==Economy==
+{{Main|Economy of Iran|Iranian Economic Reform Plan}}
+{{See also|Central Bank of Iran|Tehran Stock Exchange|Industry of Iran|Transport in Iran|Communications in Iran|Construction in Iran|Privatization in Iran|Foreign Direct Investment in Iran|Tourism in Iran|Economic Cooperation Organization|Next Eleven}}
+[[File:TCarpet2.jpg|thumb|150px|There is an estimated population of 1.2 million weavers in Iran producing [[Persian carpet|carpets]] for domestic markets and international export.<ref>{{cite web
+|url=http://www.presstv.com/Detail.aspx?id=74845&sectionid=351020102
+|title=Iran to form carpet export consortium
+|accessdate=2009-03-01
+|date=9 November 2008
+|publisher=[[PressTV]]}}</ref>]]
+The [[economy of Iran]] is the [[List of countries by GDP (PPP)|eighteenth largest]] economy in the world by [[purchasing power parity]] (PPP). Iran's economy is a [[Mixed economy|mixture]] of [[Planned economy|central planning]], [[state ownership]] of oil and other large [[Business|enterprises]], village [[agriculture]], and small-scale private trading and service ventures.<ref>[http://www.traveldocs.com/ir/economy.htm Expedited Visas, Visa Applications, Rush Passport, Passports, Travel]. Retrieved 23 January 2008.</ref> Its economic [[communications in Iran|infrastructure]] has been improving steadily over the past two decades but continues to be affected by [[inflation]] and [[unemployment]].<ref>{{cite web|date=2007-07-08|url=http://iran-daily.com/1386/2887/html|title=World Bank: Iran’s Economic Indices Improving|publisher=Iran Daily|accessdate=2007-07-08 |archiveurl = http://web.archive.org/web/20070927231116/http://iran-daily.com/1386/2887/html |archivedate = 27 September 2007}}</ref> In the early 21st century the service sector contributed the largest percentage of the GDP, followed by industry ([[Mining in Iran|mining]] and manufacturing) and [[Agriculture of Iran|agriculture]]. In 2006, about 45% of the government's budget came from oil and natural gas revenues, and 31% came from taxes and fees.<ref name="payvand.com">[http://www.payvand.com/news/08/jan/1250.html IRNA: Crude price pegged at dlrs 39.6 a barrel under next year's budget]. Retrieved 5 December 2008.</ref>
+
+Government spending contributed to an average annual inflation rate of 14% in the period 2000–2004. As at 2007, Iran had earned $70 billion in [[foreign exchange reserves]] mostly (80%) from crude oil exports.<ref>[http://iran-daily.com/1386/3068/html/economy.htm Iran Daily] Forex Reserves Put at $70b Retrieved on 24 February 2008</ref> In 2009 GDP was $336 billion ($876 billion at PPP), or $12,900 at [[Purchasing power parity|PPP]] per capita.<ref name="CIA"/> In 2008, Iran's official annual growth rate was 6%.<ref>Surrounded:seeing the world from Iran's point of view Military review July–August 2007 Houman A. Sadri p.21</ref> Because of these figures and the country’s diversified but small industrial base, the [[United Nations]] classifies Iran's economy as semi-developed (1998).<ref name="newworldencyclopedia">[http://www.newworldencyclopedia.org/entry/Iran "New World Encyclopedia"]. Retrieved 28 January 2008.</ref>
+[[File:Runna.jpg|thumb|left|170px|[[Iranian automobile industry|Iran's automobile production]] crossed the 1 million mark in 2005. [[Iran Khodro]] is the largest car manufacturer in the Middle-East. It has established joint-ventures with foreign partners on 4 continents.]]
+Close to 1.8% of national employment is generated in the tourism sector which is slated to increase to 10% in the next five years.<ref>[http://www.farsinet.com/travel2iran/ Farsinet.com]. Retrieved 23 January 2008.</ref> About 1,659,000 foreign [[tourists]] visited Iran in 2004; most came from [[Asia]]n countries, including the republics of [[Central Asia]], while a small share came from the countries of the [[European Union]] and [[North America]]. Iran currently ranks 89th in [[tourist]] income, but is rated among the "10 most touristic countries" in the world in terms of [[history of Iran|its history]].<ref name="Tourism">{{cite web|url=http://www.iran-daily.com/1384/2241/html/focus.htm  |title=Iran-daily.com |publisher=Web.archive.org |date= |accessdate=2010-11-07 |archiveurl = http://web.archive.org/web/20080513074502/http://www.iran-daily.com/1384/2241/html/focus.htm |archivedate = 13 May 2008}}</ref><ref>[http://presstv.com/Program/142594.html PressTV: Iranian Hospitality Industry]. Retrieved October 1, 2010.</ref> Weak advertising, unstable regional conditions, a poor public image in some parts of the world, and absence of efficient planning schemes in the tourism sector have all hindered the growth of tourism.
+
+The administration continues to follow the [[Iranian Economic Reform Plan|market reform plans]] of the previous one and indicated that it will diversify Iran's oil-reliant economy. Iran has also developed a [[Science in Iran#Biotechnology|biotechnology]], [[Science in Iran#Nanotechnology|nanotechnology]], and [[Health care in Iran#Pharmaceuticals|pharmaceuticals]] industry.<ref>[http://www.nanovip.com/nanotechnology-companies/iran List of Iranian Nanotechnology companies]. Retrieved 23 January 2008. {{Wayback | url=http://www.nanovip.com/nanotechnology-companies/iran <!-- Bot retrieved archive --> | date=20071013044517 }}</ref> The strong oil market since 1996 helped ease financial pressures on Iran and allowed for Tehran's timely debt service payments.
+
+Iranian [[budget deficits]] have been a chronic problem, mostly due to [[Iranian Economic Reform Plan#Subsidy reform plan|large-scale state subsidies]], that include foodstuffs and especially gasoline, totaling more than $84 billion in 2008 for the energy sector alone.<ref>[http://www.payvand.com/news/07/jan/1295.html Payvand.com], "Ahmadinejad's Achilles Heel: The Iranian Economy". Retrieved 23 January 2008.</ref><ref>{{cite web|date=2007-01-08|url=http://www.iran-daily.com/1387/3111/html/economy.htm|title=Energy subsidies reach $84b|publisher=Iran-Daily|accessdate=2008-04-27 |archiveurl = http://web.archive.org/web/20080506122659/http://www.iran-daily.com/1387/3111/html/economy.htm |archivedate = 6 May 2008}}</ref> In 2010, the [[Iranian Economic Reform Plan#Subsidy reform plan|economic reform plan]] was approved by parliament to cut subsidies gradually and replace them with targeted social assistance. The objective is to move towards [[free market]] prices in a 5-year period and increase productivity and [[social justice]].<ref>{{cite web|url=http://go.worldbank.org/KQD2RP3RX0 |title=Iran - Country Brief |publisher=Go.worldbank.org |date= |accessdate=2010-01-30}}</ref>
+
+Over the past 15 years, the authorities have placed an emphasis on the local production of domestic-consumption oriented goods such as home appliances, cars, agricultural products, pharmaceutical, etc. Today, Iran possesses a good [[industry of Iran|manufacturing industry]], despite [[sanctions against Iran|restrictions imposed by foreign countries]]. However, nationalized industries such as the [[bonyad]]s have often been managed badly, making them ineffective and uncompetitive with years. Currently, the government is trying to [[Privatization in Iran|privatize these industries]], and, despite successes, there are still several problems to be overcome, such as the [[Corruption in Iran|lagging corruption in the public sector]] and lack of competitiveness. Iran ranks 69th out of 139 in [[Global Competitiveness Report]].<ref name="WEF">[http://payvand.com/blog/blog/2010/09/13/iran-ranks-69th-out-of-139-in-global-competitiveness-world-economic-forum/ World Economic Forum: Iran ranks 69th out of 139 in global competitiveness]. Retrieved September 18, 2010.</ref>
+
+Iran has leading [[Industry of Iran|manufacture industry]] in the fields of car-manufacture and transportation, construction materials, home appliances, food and agricultural goods, armaments, pharmaceuticals, information technology, power and petrochemicals in the [[Middle East]].<ref name="Economy">[https://www.uktradeinvest.gov.uk/ukti/appmanager/ukti/countries?_nfls=false&_nfpb=true&_pageLabel=CountryType1&navigationPageId=/iran UK Trade & Investment]. Retrieved 26 February 2008.</ref>
+<center><gallery>
+File:Iran unemployement min-wage Per-capita-income-growth.jpg|Unemployment rate, [[minimum wage]] and per-capita income growth rate in Iran (2000-2009).
+File:Iraneco.PNG|Iran's GDP (% change), CPI (% change) and [[current account|CA balance]] (% of GDP), 1980–2010.
+File:Iranoilandgas.jpg|[[Ministry of Petroleum (Iran)#Revenues from crude oil|Iran's projected oil and gas revenues]] (2006-2015).
+File:IranprovincesGDP.jpg|[[Provinces of Iran|Iranian provinces]]' contribution to GDP. [[Tehran]] host 45% of [[Industry of Iran|Iran's industries]].<ref>[http://csis.org/files/media/csis/pubs/081006_iran_nuclear.pdf CSIS: The US, Israel, the Arab States and a Nuclear Iran]. Retrieved January 27, 2010.</ref>
+</gallery></center>
+
+===Energy===
+[[File:CIAIranKarteOelGas.jpg|thumb|170px|Iran holds 10% of the world's proven [[oil reserves]] and 15% of its [[gas]]. It is [[OPEC]]'s second largest exporter and the world's fourth oil producer.]]
+{{Main|Energy in Iran|Petroleum industry in Iran|Nuclear program of Iran}}
+Iran ranks second in the world in [[Natural gas reserves in Iran|natural gas reserves]] and third in [[Oil reserves in Iran|oil reserves]].<ref>https://www.cia.gov/library/publications/the-world-factbook/rankorder/2178rank.html</ref><ref>[http://www.eia.doe.gov/emeu/cabs/Iran/Background.html Department of Energy]. Retrieved 23 January 2008.</ref> It is [[OPEC]]'s 2nd largest oil exporter and it has the potential to become an [[Energy superpower#Iran|energy superpower]].<ref>[http://www.eurasianhome.org/xml/t/opinion.xml?lang=en&nic=opinion&pid=558 The EU should be playing Iran and Russia off against each other], by Julian Evans, Eurasian Home, 8 November 2006</ref>
+In 2005, Iran spent [[United States dollar|$]]4 billion on fuel imports, because of [[contraband]] and inefficient domestic use.<ref>[http://www.heraldextra.com/content/view/205986/3/ "U.S. targets Iran's vulnerable oil"]. Retrieved 23 January 2008.</ref> Oil industry output averaged {{convert|4|Moilbbl/d|m3/d}} in 2005, compared with the peak of six million barrels per day reached in 1974. In the early 2000s, industry [[infrastructure]] was increasingly inefficient because of technological lags. Few exploratory [[Oil well|wells]] were drilled in 2005.
+
+In 2004, a large share of [[Natural gas reserves in Iran|Iran's natural gas reserves]] were untapped. The addition of new [[hydroelectric]] stations and the streamlining of conventional [[coal]] and oil-fired stations increased installed capacity to 33,000 megawatts. Of that amount, about 75% was based on natural gas, 18% on oil, and 7% on hydroelectric power. In 2004, Iran opened its first [[wind]]-powered and geothermal plants, and the first [[Solar power|solar]] thermal plant is to come online in 2009.
+
+[[Demographics of Iran|Demographic]] trends and intensified industrialization have caused [[electric power]] demand to grow by 8% per year. The government’s goal of 53,000 megawatts of installed capacity by 2010 is to be reached by bringing on line new gas-fired plants and by adding hydroelectric, and [[nuclear programme of Iran|nuclear power generating capacity]]. [[Bushehr Nuclear Power Plant|Iran’s first nuclear power plant]] at [[Bushehr]] is set to go online by 2010.<ref name="nuclear">[http://lcweb2.loc.gov/frd/cs/profiles/Iran.pdf Library of Congress]. Retrieved 23 January 2008.</ref><ref>[http://www.presstv.com/detail.aspx?id=111980 [[PressTV]]: Iran questions Russian credibility over Bushehr plant]. Retrieved 23 November 2009.</ref>
+
+==Demography==
+{{Main|Demography of Iran|Iranian peoples|Religion in Iran|Languages of Iran|Health care in Iran|Social class in Iran|Human rights in the Islamic Republic of Iran|Iranian citizens abroad}}
+[[File:Iran ethnoreligious distribution 2004.jpg|thumb|300px|Iran ethnoreligious distribution]]
+Iran is a diverse country consisting of people of many religions and ethnic backgrounds cemented by the [[Persian culture]].<ref>[http://www.iranica.com/newsite/articles/v13f3/v13f3004a.html Encyclopaedia Iranica. R. N. Frye. Peoples of Iran]{{Dead link|date=August 2010}}</ref> The majority of the population speaks the [[Persian language]], which is also the [[official language]] of the country, as well as other [[Iranian language]]s or dialects. [[Turkic languages]] and dialects, most importantly [[Azeri language]], are spoken in different areas in Iran. Additionally, Arabic is spoken in the southwestern parts of the country.
+
+The exact ethnic breakdown of Iran is unknown as there are no official numbers, however some organizations have made estimates. [[The CIA World Factbook]] released the estimate: Persians (51%), Azerbaijanis (24%), [[Guilak|Gilaki]] and [[Mazandarani people|Mazandarani]] (8%), Kurds (7%), Arabs (3%), Baluchi (2%), Lurs (2%), Turkmens (2%), [[Lak people (Iran)|Laks]], [[Qashqai]], [[Armenians]], [[Persian Jews]], [[Georgians]], [[Assyrian people|Assyrians]], [[Circassians]], [[Tats]], [[Mandaeans]], [[Romani people|Gypsies]], [[Brahui people|Brahuis]], [[Hazara people|Hazara]], [[Kazakh people|Kazakhs]] and others (1%).<ref name="CIA"/> However according to them Persian and its dialects are spoken as first language by 58% while Azeri is spoken by 26%, [[Kurdish language|Kurdish]] by 9%, [[Luri dialects|Luri]] by 3%, [[Balochi language|Balochi]] by 1%, [[Arabic language|Arabic]] by 1% and that some 2% have other languages as first language.<ref name="CIA"/>
+
+The [[Library of Congress]] estimates are as following: [[Persian people|Persians]] (65%), [[Azerbaijani people|Azerbaijani]] (16 %), [[Kurds]] (7%), [[Lurs]] (6%), [[Arabs]] (2%), [[Baloch|Baluchi]] (2%), [[Turkmen people|Turkmens]] (1%), Turkic tribal groups such as the [[Qashqai]] (1%), and non-Iranian, non-Turkic groups such as [[Armenians]], [[Assyrians]], and [[Georgians]] (less than 1%). According to them [[Persian language|Persian]] is spoken as a mother tongue by at least 65% of the population and as a second language by a large proportion of the remaining 35%.<ref>{{cite web|url=http://lcweb2.loc.gov/frd/cs/profiles/Iran.pdf|title=Ethnic Groups and Languages of Iran|first=Library of Congress – Federal Research Division|last=Library of Congress|accessdate=2009-12-02}}</ref>
+
+{{bar box
+|title=Iran religiosity
+|titlebar=#ddd
+|left1='''Religion'''
+|right1='''Percent'''
+|float=right
+|bars=
+{{bar percent|Islam|lightgreen|98}}
+{{bar percent|Other|red|2}}
+}}
+Iran's population increased dramatically during the latter half of the 20th century, reaching about 75 million by 2009.<ref name="una">{{cite web|url=http://www.un.org/Depts/escap/pop/journal/v10n1a1.htm|title=A New Direction in Population Policy and Family Planning in the Islamic Republic of Iran|first=United Nations|last=Asia-Pacific Population Journal|accessdate=2006-04-14}}</ref> According to the 1956 census the population of Iran was about 19 million.<ref>"[http://countrystudies.us/iran/32.htm Iran – population]". [[Library of Congress Country Studies]].</ref> In recent years, however, Iran's [[birth rate]] has dropped significantly. Studies project that Iran's rate of population growth will continue to slow until it stabilizes above 105 million by 2050.<ref name="bureau">{{cite web|url=http://www.census.gov/cgi-bin/ipc/idbsum.pl?cty=IR|title=IDB Summary Demographic Data for Iran|first=Government of the U.S.A.|last=Census Bureau|accessdate=2006-04-14}} {{Dead link|date=September 2010|bot=H3llBot}}</ref><ref name="payvand">{{cite web|url=http://www.payvand.com/news/04/aug/1017.html|title=Iran's population growth rate falls to 1.5 percent: UNFP|first=Payvand.com|last=Iran News|accessdate=2006-10-18}}</ref> More than two-thirds of the population is under the age of 30, and the literacy rate is 83%.<ref name="CIA"/> Women today compose more than half of the incoming classes for universities around the country and increasingly continue to play pivotal roles in society.
+
+Iran hosts one of the largest [[refugee]] populations in the world, with more than one million refugees, mostly from [[Afghan refugees|Afghanistan]] and [[Iraq]].<ref>"[http://www.irinnews.org/Report.aspx?ReportId=77107 Afghanistan-Iran: Iran says it will deport over one million Afghans ]" IRIN Asia. 4 March 2008.</ref> Since 2006, Iranian officials have been working with the [[UNHCR]] and Afghan officials for their [[repatriation]].<ref name="bbcb">{{cite web|url=http://www.unhcr.org/news/NEWS/452b78394.html|title=Tripartite meeting on returns to Afghanistan|first=[[UNHCR]]|last=United Nations|accessdate=2006-04-14}}</ref> According to estimates, about five million [[Iranian citizens abroad|Iranian citizens]] have emigrated to other countries, mostly since the Iranian Revolution in 1979.<ref>{{cite web|url=http://www.presstv.com/detail.aspx?id=123686&sectionid=351020102|title=Iran to start bank for expat-investors|publisher=Presstv.com|date=2010-04-18|accessdate=2010-08-01}}</ref><ref>[http://www.migrationinformation.org/Profiles/display.cfm?ID=424 Migration Information Institute: Characteristics of the Iranian Diaspora]. Retrieved 10 January 2009.</ref>
+
+[[File:Iran Population (1880-2005).JPG|thumb|250px|left|Population of Iran]]
+[[Religion in Iran]] is dominated by the [[Twelver]] [[Shi'a Islam|Shi'a]] branch of [[Islam]], which is the official [[state religion]] and to which about 90% to 95%<ref>Walter Ralston Martin, Ravi K. Zacharias, ''The Kingdom of the Cults'' (2003), p.421; Excerpt: Ninety-five percent of Iran's Muslims are Shi'ites.</ref><ref>Bhabani Sen Gupta, ''The Persian Gulf and South Asia:: prospects and problems of inter-regional cooperation''. p.158; Excerpt: Shias constitute seventy-five percent of the population of the Gulf. Of this, ninety-five percent of Iranians and sixty of Iraqis are Shias.</ref><ref>Daily report, Issues 64-73‎ -'United States. Foreign Broadcast Information Service- Page 50, Excerpt: Ninety -five percent of Iranians are Shiite Moslems.</ref> of Iranians belong. About 4% to 8% of Iranians belong to the [[Sunni Islam|Sunni]] branch of Islam, mainly Kurds and Iran's Balochi Sunni. The remaining 2% are non-Muslim [[Religious minorities in Iran|religious minorities]], including [[Bahá'í Faith|Bahá'ís]], [[Mandaeism|Mandeans]], [[Hindus]], [[Yezidi]]s, [[Yarsan]]is, [[Zoroastrians in Iran|Zoroastrians]], [[Persian Jews|Jews]], and [[Christians in Iran|Christians]].<ref name="CIA"/>
+
+The latter three [[minority group|minority]] religions are officially recognized and protected, and have reserved seats in the ''[[Majlis]]'' (Parliament). However the [[Bahá'í Faith]], Iran's largest religious minority,<ref name="fdih2">{{cite web|date=2003-08-01|title=Discrimination against religious minorities in Iran|author=International Federation for Human Rights|publisher=fdih.org|accessdate=2009-01-17|url=http://www.fidh.org/IMG/pdf/ir0108a.pdf|format=PDF|page=6}}</ref> is not officially recognized, and has been persecuted during its existence in Iran. Since the 1979 revolution the [[persecution of Bahá'ís]] has increased with executions, the [[Denial of request|denial]] of civil rights and liberties, and the denial of access to higher education and employment.<ref name="fdih1">{{cite web|date=2003-08-01|title=Discrimination against religious minorities in Iran|author=International Federation for Human Rights|publisher=fdih.org|accessdate=2007-03-19|url=http://www.fidh.org/IMG/pdf/ir0108a.pdf|format=PDF}}</ref><ref name="ihrdc">{{cite web|author=Iran Human Rights Documentation Center|publisher=Iran Human Rights Documentation Center|title=A Faith Denied: The Persecution of the Bahá'ís of Iran|year=2007|accessdate=2007-03-19|url=http://www.iranhrdc.org/english/pdfs/Reports/bahai_report.pdf|format=PDF}}</ref>
+
+According to the [[Iranian Constitution]], the government is required to provide every citizen of the country with access to [[social security]] that covers [[retirement]], [[unemployment]], old age, [[disability]], [[accidents]], calamities, [[health]] and medical treatment and care services. This is covered by [[Labor and tax laws in Iran|public revenues]] and income derived from public contributions. The [[World Health Organization]] in on health systems ranked Iran's performance on health level 58th, and its overall [[health care in Iran|health system]] performance 93rd among the world's nations in 2000.<ref>{{cite web|url=http://www.who.int/whr/2000/en/annex10_en.pdf|title=The World Health Report 2000|first=[[World Health Organisation]]|last=WHO|accessdate=2006-10-12|format=PDF}}</ref>
+
+==Culture==
+{{Main|Culture of Iran}}
+{{See also|Media of Iran|Cinema of Iran|Iranian cuisine}}
+
+[[File:Azadi1.jpg|thumb|left|140px|[[Azadi Tower]]]]
+[[File:Teatreshahr11.jpg|thumb|left|140px|City Theater of Tehran, the largest Theater auditorium in the [[Middle East]]]]
+The Culture of Iran is a mix of ancient pre-Islamic culture and Islamic culture. Iranian culture has long been a predominant culture of the [[Middle East]] and [[Central Asia]], with Persian considered the language of intellectuals during much of the 2nd millennium, and the language of religion and the populace before that.
+
+The [[Sassanid empire|Sassanid era]] was an important and influential historical period in Iran as Iranian culture influenced China, India and Roman civilization considerably,<ref>J. B. Bury, History of the Later Roman Empire: From the Death of Theodosius I to the Death of Justinian Volume 1, p.109 ISBN 0-486-20398-0, Dover Publications</ref> and so influenced as far as Western Europe and Africa.<ref>[http://www.transoxiana.com.ar/0104/sasanians.html Transoxiana 04: Sassanids in Africa]. Retrieved 23 January 2008.</ref> This influence played a prominent role in the formation of both [[Asian art|Asiatic]] and European [[medieval art]].<ref>[http://www.artarena.force9.co.uk/sass2.htm Iransaga: The art of Sassanids]. Retrieved 23 January 2008.</ref> This influence carried forward to the [[Islamic world]]. Much of what later became known as Islamic learning, such as [[philology]], [[Islamic literature|literature]], [[Fiqh|jurisprudence]], [[Early Islamic philosophy|philosophy]], [[Islamic medicine|medicine]], [[Islamic architecture|architecture]] and the [[Islamic science|sciences]] were based on some of the practises taken from the [[Sassanid dynasty|Sassanid]] Persians to the broader Muslim world.<ref>[http://www.parstimes.com/history/title.html Iran – A country study]. Retrieved 23 January 2008.</ref><ref>[http://www.levity.com/alchemy/islam16.html History of Islamic Science 5]. Retrieved 23 January 2008.</ref><ref name="Iran in Britannica"/>
+
+After [[Islamization in Iran|Islamization of Iran]] Islamic rituals have penetrated in the Iranian culture. The most noticeable one of them is [[commemoration of Husayn ibn Ali]]. Every year in [[Day of Ashura]] most of Iranians, including [[Armenians]] and [[Zoroastrians]] participate in mourning for the martyrs of [[battle of Karbala]]. Daily life in modern Iran is closely interwoven with [[Shia Islam]] and the country's art, literature, and architecture are an ever-present reminder of its deep national tradition and of a broader literary culture.<ref name="Iran in Britannica">{{cite encyclopedia|last=Afary|first=Janet|title=Iran|year=2006|encyclopedia=Encyclopedia Britannica Online|accessdate=2007-10-29|url=http://www.britannica.com/eb/article-9106324/Iran}}</ref><ref>[http://www.tebyan.net/Literature_Art/GodlyPeople/Occasions/2005/2/22/10530.html گزارش عزاداری ، ارامنه و زرتشتیان ایران]</ref>
+
+[[File:Ferdowsi tehran.jpg|thumb|140px|[[Ferdowsi]], poet, author of the ''[[Shahnameh|Shāhnāmeh]]'']]
+The Iranian New Year ([[Nowruz]]) is an ancient tradition celebrated on 21 March to mark the beginning of spring in Iran. It is also celebrated in Afghanistan, Republic of Azerbaijan, Uzbekistan, Turkmenistan, Tajikistan, Kazakhstan and previously also in Georgia and Armenia. It is also celebrated by the Iraqi and Anatolian Kurds.<ref>[http://www.zoroastrian.org/articles/nowruz.htm The Zarathushtrian Assembly]. Retrieved 23 January 2008.</ref> [[Nowruz]] was registered on the list of [[Masterpieces of the Oral and Intangible Heritage of Humanity]]<ref>[http://www.presstv.com/detail.aspx?id=121693&sectionid=351020101 PressTV: Leaders of regional countries to mark Nowruz]. Retrieved 27 March 2010.</ref> and described as the ''Persian New Year''<ref>{{cite web|url=http://www.britishmuseum.org/whats_on/events_calendar/march_2010/norouz_persian_new_year.aspx|title=Norouz Persian New Year|publisher=British Museum|date=2010-03-25|accessdate=2010-04-06}}</ref><ref>{{Cite news|url=http://www.un.org/spanish/aboutun/organs/ga/55/verbatim/a55pv94e.pdf|title=General Assembly Fifty-fifth session 94th plenary meeting Friday, 9 March 2001, 10 a.m. New York|publisher=United Nations General Assembly|date=9 March 2001|accessdate=2010-04-06}}</ref><ref>{{cite web|url=http://news.yahoo.com/s/time/20100317/wl_time/08599197278600|title=Nowrooz, a Persian New Year Celebration, Erupts in Iran - Yahoo!News|publisher=News.yahoo.com|date=2010-03-16|accessdate=2010-04-06}} {{Dead link|date=September 2010|bot=H3llBot}}</ref><ref>{{cite web|url=http://washingtontimes.com/news/2010/mar/19/us-mulls-persian-new-year-outreach-to-iran/|title=U.S. mulls Persian New Year outreach|work=Washington Times|date=2010-03-19|accessdate=2010-04-06}}</ref> by the [[United Nations Educational, Scientific and Cultural Organization]] (UNESCO) in 2009.
+
+===Language and literature===
+{{Main|Persian language|History of the Persian language|Persian literature}}
+{{See also|Music of Iran|Persian miniature}}
+
+[[File:Moderniranianlanguagesmap.jpg|thumb|300px|Geographic distribution of the Modern Iranian languages: Persian (green), Pashto (purple) and Kurdish (turquoise), Lurish (red), Baloch (Yellow), as well as smaller communities of other Iranian languages]]
+
+Article 15 of the Iranian constitution states that the "Official language (of Iran)... is Persian...[and]... the use of regional and tribal languages in the press and mass media, as well as for teaching of their literature in schools, is allowed in addition to Persian." Persian serves as a ''[[lingua franca]]'' in Iran and most publications and broadcastings are in this language.
+
+Next to Persian, there are many publications and broadcastings in other relatively popular languages of Iran such as Azeri, Kurdish and even in less popular ones such as Arabic and [[Armenian language|Armenian]]. Many languages originated in Iran, but Persian is the most used language. Persian belongs to [[Iranian languages|Iranian]] branch of the [[Indo-European languages|Indo-European]] family of languages. The oldest records in [[Old Persian]] date to the [[Achaemenid Empire]],<ref>{{Cite book|title=The Languages of the World|year=2002|last=Katzner|first=Kenneth|publisher=Routledge|page=163|isbn=0415250048}}</ref> and examples of Old Persian have been found in present-day Iran, Iraq, [[Turkey]] and [[Egypt]].
+
+In the late 8th century, Persian was highly Arabized and written in a [[Perso-Arabic script|modified Arabic script]]. This caused a movement supporting the revival of Persian. An important event of this revival was the writing of the ''[[Shahname]]'' by [[Ferdowsi]] (Persian: ''Epic of Kings''), Iran's national epic, which is said to have been written entirely in native Persian. This gave rise to a strong reassertion of Iranian national identity, and is in part credited for the continued existence of Persian as a separate language.
+
+''{{cquote|<center>بسی رنج بردم در این سال سی <br/>عجم زنده کردم بدین پارسی</center>''For thirty years, I suffered much pain and strife<br/>with Persian I gave the [[Ajam]] verve and life''}}<center>''—[[Ferdowsi]]'' (935–1020)</center>''
+
+[[File:Kelileh va Demneh.jpg|thumb|left|140px|[[Kelileh va Demneh]] Persian manuscript copy dated 1429]]
+
+Persian beside Arabic has been a medium for literary and scientific contributions to the [[Islamic world]] especially in [[Anatolia]], [[central Asia]] and [[Indian sub-continent]]. Poetry is a very important part of Persian culture. Poetry is used in many Persian classical works, whether from literature, science, or metaphysics. Persian literature has been considered by such thinkers as [[Goethe]] as one of the four main bodies of world literature.<ref>Von David Levinson, Karen Christensen, Encyclopedia of Modern Asia, Charles Scribner's Sons. 2002 pg 48</ref>
+
+The Persian language has produced a number of famous poets; however, only a few poets as [[Rumi]] and [[Omar Khayyám]] have surfaced among western popular readership, even though the likes of [[Hafez]], [[Saadi (poet)|Saadi]], [[Nezami]]<ref>C. A. (Charles Ambrose) Storey and Franço de Blois (2004), “Persian Literature – A Biobibliographical Survey: Volume V Poetry of the Pre-Mongol Period.”, RoutledgeCurzon; 2nd revised edition (21 June 2004). ISBN 0-947593-47-0. Pg 363: “Nizami Ganja’i, whose personal name was Ilyas, is the most celebrated native poet of the Persians after Firdausi. His nisbah designates him as a native of Ganja (Elizavetpol, Kirovabad) in Azerbaijan, then still a country with an Iranian population</ref> [[Attar Neyshapuri|Attar]], [[Sanai]], [[Naser Khusraw]], [[Jami]] are considered by many Iranians to be just as influential. The books of famous poets have been translated into western languages since 1634. An example of Persian poetic influence is the poem below which is widely popular:
+[[File:Hafeziyeh 0386.JPG|thumb|150px|[[Tomb of Hafez|Hafezi'eh]], tomb of [[Hafez]] in [[Shiraz|Shiraz City]]]]
+''{{cquote|<center>بنى آدم اعضای يک پیکرند <br/>که در آفرينش ز يک گوهرند<br/>چو عضوى به درد آورد روزگار <br/>دگر عضوها را نماند قرار</center>''Of one Essence is the human race<br/>thus has Creation put the base<br/>One Limb impacted is sufficient<br/>For all Others to feel the Mace''}}<center>''—[[Saadi (poet)|Saadi]]'' (1184–1283)</center>''
+
+===Iranian philosophy===
+{{Main|Iranian Philosophy}}
+
+[[Iranian philosophy]] after the acceptance of [[Islam in Persia]], is characterized by different interactions with the [[Iranian philosophy#Ancient Iranian Philosophy|Ancient Iranian Philosophy]], the [[Greek Philosophy]] and with the development of [[Islamic Philosophy]]. The [[Illumination School]] and the [[Transcendent Philosophy]] are regarded as two of the main philosophical traditions of that era in Persia. Important contributors to philosophy in Iran are [[Zoroaster]], [[Jamasp]], [[Iranshahri]], [[Farabi]], [[Avicenna]], [[Suhrawardi]], [[Nasir Khusraw]], [[Biruni]], [[Muhammad ibn Zakariya al-Razi]], [[Abu Yaqub al-Sijistani]], [[Nasir al-Din Tusi]], [[Qutb al-Din Shirazi]], [[Mir Damad]], [[Mulla Sadra]], [[Mir Fendereski]] and [[Hadi Sabzevari]].
+
+===Iranian music===
+{{Main|Iranian Music|Persian Music|Kurdish Music}}
+[[File:Mehmooni2.jpg|thumb|120px|17th century painting from Hasht-Bahesht palace, Isfahan]]
+The musical culture of Persia, while distinct, is closely related to other musical systems of the Middle East and Central Asia. It has also affinities to the music cultures of the Indian subcontinent, to a certain degree even to those of Africa, and, in the period after 1800 particularly, to that of Europe. Its history can be traced to some extent through these relationships. Like that of most of the world’s cultures, the music of Persia has depended on oral/aural transmission and learning.<ref>Bruno Nettl, "Iran: Music" in Encyclopaedia Iranica.  Accessed November 2010 at [http://www.iranica.com/articles/iran-xi-persian-music]</ref>
+
+===Iranian cinema===
+{{Main|Iranian Cinema}}
+[[Iranian cinema]] has thrived in modern Iran, and many Iranian directors have garnered worldwide recognition for their work. Iranian movies have won over three hundred awards in the past twenty-five years. One of the best-known directors is [[Abbas Kiarostami]]. The [[media of Iran]] is a mixture of private and state-owned, but books and movies must be approved by the [[Ministry of Culture and Islamic Guidance]] before being released to the public. The [[Internet]] has become enormously popular among the Iranian youth. Iran is now the world's fourth largest country of [[Iranian Blogs|bloggers]].<ref>[http://www.guardian.co.uk/technology/2004/dec/20/iran.blogging Freedom in Farsi blogs]. Retrieved 23 January 2008.</ref>
+
+===Art and architecture===
+{{Main|Iranian architecture|Iranian art}}
+
+[[Greater Iran]] is home to one of the richest [[art]]istic traditions in world history and encompasses many disciplines, including [[architecture]], [[painting]], [[weaving]], [[pottery]], [[calligraphy]], [[metalworking]] and [[stone masonry]]. Carpet-weaving is one of the most distinguished manifestations of Persian culture and art, and dates back to ancient Persia. Persians were among the first to use [[mathematics]], [[geometry]], and [[astronomy]] in architecture and also have extraordinary skills in making massive domes which can be seen frequently in the structure of bazaars and mosques. The main building types of classical [[Iranian architecture]] are the [[mosque]] and the [[palace]]. Besides being home to a large number of art houses and galleries, Iran also holds one of the [[Iranian Crown Jewels|largest and most valuable jewel collections]] in the world.
+
+Iran ranks seventh among countries in the world with the most archeological architectural ruins and attractions from antiquity as recognized by [[UNESCO]].<ref>[http://www.american.edu/ted/iran-tour.htm Bustling bazaars and ancient sights, parched deserts and snowcapped mountains, awesome architecture and simple hospitality]. Retrieved 23 January 2008.</ref> Fifteen of [[UNESCO]]'s [[World Heritage Site]]s are creations of [[Iranian architecture]].
+{{-}}
+
+{{wide image|Esfahan-shah-sq.jpg|650px|Panoramic view of [[Naqsh-e Jahan Square]]}}
+
+===Cuisine===
+{{Main|Cuisine of Iran}}
+The [[cuisine of Iran]] is diverse, with each province featuring dishes, as well as culinary traditions and styles, distinct to their regions. The main Persian cuisines are combinations of rice with meat, chicken or fish and some onion, vegetables, nuts, and herbs. Herbs are frequently used along with fruits such as plums, pomegranates, quince, prunes, apricots, and raisins. Iranians also usually eat plain [[yogurt]] ({{lang-fa|ماست, māst}}) with lunch and dinner; it is a staple of the diet in Iran. To achieve a balanced taste, characteristic flavourings such as saffron, dried limes, cinnamon, and parsley are mixed delicately and used in some special dishes. Onions and garlic are normally used in the preparation of the accompanying course, but are also served separately during meals, either in raw or pickled form. Iran is also famous for its [[caviar]].<ref>[http://www.iran-daily.com/1383/2228/html/focus.htm Iran-daily.com]{{Dead link|date=August 2010}}</ref> Iranian food is not spicy.
+
+==Science and technology==
+{{Main|Science in Iran}}
+{{See also|Education in Iran|Higher education in Iran}}
+[[File:Ghotb2.jpg|thumb|upright|left|130px|13th century manuscript depicting an [[Epicycle|epicyclic planetary model]]]]
+
+Ancient Iranians built [[Qanat]]s and [[Yakhchal]] to provide and keep water. The first [[windmill]] appeared in Iran in the 9th century.<ref name="Al-Hassan, Hill, p.54f.">[[Ahmad Y Hassan]], [[Donald Routledge Hill]] (1986). ''Islamic Technology: An illustrated history'', p. 54. [[Cambridge University Press]]. ISBN 0-521-42239-6.</ref> Iranians contributed significantly to the current understanding of [[astronomy]], [[natural science]], [[medicine]], [[mathematics]], and [[philosophy]]. [[Muhammad ibn Mūsā al-Khwārizmī|Khwarizmi]] is widely hailed as the father of algebra. Ethanol (alcohol) was first identified by Persian alchemists such as [[Muhammad ibn Zakarīya Rāzi]]. Throughout the [[Middle Ages]], the [[natural philosophy]] and [[mathematics]] of the Ancient Greeks and Persians were furthered and preserved within Persia. The [[Academy of Gundishapur]] was a renowned centre of learning in the city of [[Gundeshapur]] during late antiquity and was the most important medical centre of the ancient world during the 6th and 7th centuries.<ref>The Cambridge History of Iran Vol 4, p396. ISBN 0-521-20093-8</ref> During this period, Persia became a centre for the manufacture of [[Measuring instrument|scientific instruments]], retaining its reputation for quality well into the 19th century.
+
+[[File:Iran rocket irilv.jpg|thumb|130px|Iran's first domestically made satellite ([[Omid (satellite)|Omid]]) was placed into orbit through [[Safir (rocket)|Safir rocket]] in 2009]]
+
+Iran strives to revive the golden age of Persian science. The country has increased its publication output nearly tenfold from 1996 through 2004, and has been ranked first in terms of output growth rate followed by China.<ref>[http://experts.about.com/q/Economics-2301/economic.htm About.com]. Retrieved 23 January 2008.</ref> Despite the limitations in funds, facilities, and international collaborations, [[List of Iranian scientists|Iranian scientists]] remain highly productive in several experimental fields, such as [[pharmacology]], [[pharmaceutical chemistry]], [[organic chemistry]], and [[polymer chemistry]]. Iranian scientists are also helping construct the [[Compact Muon Solenoid]], a detector for [[CERN]]'s [[Large Hadron Collider]]. In 2009, a SUSE Linux-based HPC system made by the Aerospace Research Institute of Iran (ARI) was launched with 32 cores and now runs 96 cores. Its performance was pegged at 192 [[GFLOPS]].<ref>[http://www.computerworld.com/action/article.do?command=viewArticleBasic&taxonomyName=knowledge_center&articleId=340338&taxonomyId=1&intsrc=kc_top Computerworld.com]</ref>
+
+In the biomedical sciences, Iran's [[Institute of Biochemistry and Biophysics]] is a [[UNESCO]] chair in biology.<ref>[http://www.ibb.ut.ac.ir/ Institute of Biochemistry and Biophysics]. Retrieved 23 January 2008.</ref> In late 2006, [[List of modern Iranian scientists|Iranian scientists]] successfully [[Cloning|cloned]] a sheep by somatic cell nuclear transfer, at the [[Royan Institute|Rouyan research centre]] in Tehran.<ref>[http://www.middle-east-online.com/english/?id=17674 Middle East Online ميدل ايست اونلاين] The first successfully cloned animal in Iran retrieved 7 August 2008</ref> According to a study by David Morrison and Ali Khademhosseini (Harvard-MIT and Cambridge), [[stem cell research]] in Iran is amongst the top 10 in the world.<ref>{{cite web|url=http://isg-mit.org/projects-storage/StemCell/stem_cell_iran.pdf |title=Iranian Studies Group at MIT |format=PDF |date= |accessdate=2010-08-25}}</ref> Iran ranks 15th in the world in [[nanotechnologies]].<ref>{{cite web|url=http://en.nano.ir/index.php/news/show/1477|title=INIC - News - 73% of Tehran's Students Acquainted with Nanotechnology|publisher=En.nano.ir|date=2010-01-18|accessdate=2010-08-01}}</ref><ref>{{cite web|url=http://www.bernama.com/bernama/v5/bm/newsworld.php?id=453647|title=Iran Ranks 15th In Nanotech Articles|publisher=Bernama|date=2009-11-09|accessdate=2010-08-01}}</ref><ref>[http://www.iran-daily.com/1388/3372/html/science.htm Iran daily: Iranian Technology From Foreign Perspective]{{Dead link|date=August 2010}}</ref>
+
+The [[Iranian nuclear program]] was launched in the 1950s. Iran is the 7th country in production of [[UF6|uranium hexafluoride]].<ref>{{cite web|url=http://www.payvand.com/news/08/dec/1156.html|title=Iran, 7th in UF6 production - IAEO official|publisher=Payvand.com|date=2006-11-22|accessdate=2010-08-01}}</ref> Iran now controls the entire [[Nuclear fuel cycle|cycle for producing nuclear fuel]].<ref>[http://news.yahoo.com/s/ap/20090411/ap_on_re_mi_ea/ml_iran_nuclear_4 ]{{Dead link|date=August 2010}}</ref> Iran's current facilities includes several research reactors, a [[uranium]] mine, an almost complete commercial [[nuclear reactor]], and uranium processing facilities that include a [[Enriched uranium#Gas centrifuge|uranium enrichment plant]].
+
+[[File:Astrolabe-Persian-18C.jpg|thumb|left|upright|An 18th century Persian [[astrolabe]]]]
+The [[Iranian Space Agency]] launched its first [[reconnaissance satellite]] named [[Sina-1]] in 2006, and a space rocket in 2007,<ref>[http://asia.news.yahoo.com/070225/afp/070225120805top.html Rocket launch]. Retrieved 23 January 2008. {{Wayback | url=http://asia.news.yahoo.com/070225/afp/070225120805top.html <!-- Bot retrieved archive --> | date=20070830060558 }}</ref> which aimed at improving science and research for university students.<ref>[http://newsmax.com/archives/articles/2007/2/26/90124.shtml Iran Says 'Space Rocket' for Research]. NewsMax.com, 26 February 2007.</ref> Iran placed its domestically built [[satellite]], [[Omid (satellite)|Omid]] into orbit on the 30th anniversary of the [[Iranian Revolution]], on 2 February 2009,<ref>[http://www.presstv.ir/Detail.aspx?id=84914&sectionid=351020101 Iran scientific savvy 'amazes world'], [[Press TV]], Retrieved on 11 February 2009.</ref> through [[Safir (rocket)|Safir rocket]], becoming the ninth country in the world capable of both producing a [[satellite]] and sending it into [[space]] from a domestically made [[launch pad|launcher]].<ref>[http://www.presstv.ir/Detail.aspx?id=84906&sectionid=351020101 West 'shocked by Iran spaceshot'], [[Press TV]], Retrieved on 11 February 2009.</ref>
+
+[[List of Iranian scientists|Iranian scientists]] outside Iran have also made some major contributions to science. In 1960, [[Ali Javan]] co-invented the first [[gas laser]] and [[Fuzzy set|fuzzy set theory]] was introduced by [[Lotfi Zadeh]].<ref>[http://www-bisc.cs.berkeley.edu/Zadeh-1965.pdf cs.berkeley.edu]. Retrieved 23 January 2008.</ref> Iranian cardiologist, [[Toffy Musivand|Tofy Mussivand]] invented and developed the first artificial cardiac pump, the precursor of the [[artificial heart]]. Furthering research and treatment of diabetes, [[HbA1c]] was discovered by [[Samuel Rahbar]]. Iranian physics is especially strong in [[string theory]], with many papers being published in Iran.<ref>[http://press.web.cern.ch/press/PressReleases/Releases2001/PR09.01EIran.html CERN – European Organization for Nuclear Research]. Retrieved 23 January 2008.</ref> [[Iranian-American]] string theorist [[Cumrun Vafa]] proposed the [[Vafa-Witten theorem]] together with [[Edward Witten]].
+
+==Sports==
+{{Main|Sport in Iran}}
+[[File:ورزشگاه آزادی در سایه.JPG|thumb|[[Azadi Stadium|Azadi Football Stadium]]]] 
+With two thirds of Iran's population under the age of 25, many sports are practised in Iran, both traditional and modern. Iran is the birthplace of [[polo]],<ref>[http://news.bbc.co.uk/2/hi/middle_east/4272210.stm news.bb.co.uk]. Retrieved 23 January 2008.</ref> and [[Varzesh-e Pahlavani]]. [[Freestyle wrestling]] has been traditionally regarded as Iran's [[national sport]], however today, the most popular sport in Iran is [[football (soccer)]], with the [[Iran national football team|national team]] having reached the [[Football World Cup|World Cup]] Final Tournament three times, and having won the [[Asian Cup]] on three occasions. In [[1974 Asian Games|1974]], Iran became the first country in the [[Middle East]] to host the [[Asian Games]]. Iran is home to several unique skiing resorts,<ref>[http://www.bloomberg.com/apps/news?pid=10000088&sid=aGpcjac1ZTF8&refer=culture bloomberg.com]. Retrieved 23 January 2008.</ref> with the [[Tochal]] resort being the world's fifth-highest ski resort ({{convert|3730|m|ft|0|abbr=on|disp=/}} at its highest station), and located only fifteen minutes away from Tehran. Being a mountainous country, Iran is a venue for hiking, rock climbing,<ref>[http://www.rockclimbing.com Rockclimbing.com: Rock Climbing Routes, Gear, Photos, Videos & Articles]. Retrieved 23 January 2008.</ref> and mountain climbing.<ref>[http://www.mountainzone.ir Iran Mountain Zone (IMZ)]. Retrieved 23 January 2008.</ref><ref>[http://www.abc-of-mountaineering.com/middle-east/iran/ Mountaineering in Iran]. Retrieved 23 January 2008.</ref><ref>[http://abclocal.go.com/kgo/story?section=News&id=2062458 Local Woman Feared Dead In Iran Mountain Hike]. Retrieved 23 January 2008.</ref>
+
+{{-}}
+
+==See also==
+{{Portal|Iran}}
+{{Main|Outline of Iran}}
+*[[List of Iran-related topics]]
+*[[Greater Iran]]
+
+==References==
+<!-- DO ''not'' use a scroll template or form/table for the reflink; read the warning on the scroll template page at [[Template:Scroll box#Warning]] -->
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+*A. Christian Van Gorder. ''Christianity in Persia and the Status of Non-Muslims in Iran'' (Lexington Books; 2010) 329 pages. Traces the role of Persians in Persia and later Iran since ancient times, with additional discussion of other non-Muslim groups.
+*[[Benjamin Walker]], ''Persian Pageant: A Cultural History of Iran,'' Arya Press, Calcutta, 1950.
+*A. Khanbaghi. ''The Fire, the Star and the Cross: Minority Religions in Medieval and Early Modern Iran'' (IB Tauris; 2006) 268 pages. Social, political and cultural history of religious minorities in Iran, c. 226-1722 AD.
+
+==External links==
+{{Sister project links}}
+*[http://www.president.ir/en/ The President of Iran]
+*[http://en.iran.ir/ Iran.ir]
+*{{CIA World Factbook link|ir|Iran}}
+*{{dmoz|Regional/Middle_East/Iran}}
+*{{wikiatlas|Iran}}
+*{{Wikitravel}}
+{{Geographic location
+|Northwest = {{Flag icon|Turkey}} [[Outline of Turkey|Turkey]]
+|North = {{Flag icon|Armenia}} [[Outline of Armenia|Armenia]], {{Flag icon|Azerbaijan}} [[Outline of Azerbaijan|Azerbaijan]], [[Caspian Sea]]
+|Northeast = {{Flag icon|Turkmenistan}} [[Outline of Turkmenistan|Turkmenistan]]
+|West = {{Flag icon|Iraq}} [[Outline of Iraq|Iraq]]
+|Centre = {{Flag icon|Iran}} [[Outline of Iran|Iran]]
+|East = {{Flag icon|Afghanistan}} [[Outline of Afghanistan|Afghanistan]]
+|Southwest = {{Flag icon|Kuwait}} [[Outline of Kuwait|Kuwait]]
+|South =  [[Persian Gulf]], [[Gulf of Oman]]
+|Southeast = {{Flag icon|Pakistan}} [[Outline of Pakistan|Pakistan]]
+}}
+{{Template group
+|title = Articles Related to Iran
+
+{{Iran topics}}
+{{Template group
+|title = Geographic locale
+|list =
+{{Countries bordering the Caspian Sea}}
+{{Countries bordering the Persian Gulf}}
+{{Countries bordering the Arabian Sea}}
+{{Countries and territories of the Middle East}}
+{{Countries of Southwest Asia}}
+{{Countries and Territories of South Asia}}
+}}
+{{Template group
+|title = International membership
+|list =
+}}
+{{Economic Cooperation Organization}}
+{{D8 nations}}
+{{G15 nations}}
+{{OPEC}}
+{{Organization of the Islamic Conference (OIC)|state=collapsed}}
+{{Iranian-speaking regions}}
+{{Islamic republics}}
+}}
+{{Use dmy dates|date=October 2010}}
+
+[[Category:Iran| ]]
+[[Category:Developing 8 Countries member states]]
+[[Category:G15 nations]]
+[[Category:Iranian Plateau]]
+[[Category:Islamic republics]]
+[[Category:Middle Eastern countries]]
+[[Category:Near Eastern countries]]
+[[Category:OPEC member states]]
+[[Category:Organisation of the Islamic Conference members]]
+[[Category:Persian Gulf countries]]
+[[Category:Persian-speaking countries and territories]]
+[[Category:Southwest Asian countries]]
+[[Category:Western Asia]]
+
+{{Link FA|fr}}
+{{Link FA|hr}}
+<!--Interwiki-->
+
+[[ace:Iran]]
+[[af:Iran]]
+[[als:Iran]]
+[[am:ፋርስ]]
+[[ang:Persealand]]
+[[ar:إيران]]
+[[an:Irán]]
+[[arc:ܐܝܪܐܢ]]
+[[frp:Éran]]
+[[as:ইৰাণ]]
+[[ast:Irán]]
+[[gn:Irán]]
+[[az:İran]]
+[[bn:ইরান]]
+[[zh-min-nan:Iran]]
+[[be:Іран]]
+[[be-x-old:Іран]]
+[[bcl:Iran]]
+[[bo:ཡི་ལང་།]]
+[[bs:Iran]]
+[[br:Iran]]
+[[bg:Иран]]
+[[ca:Iran]]
+[[cv:Ислам Республики Иран]]
+[[ceb:Iran]]
+[[cs:Írán]]
+[[co:Iranu]]
+[[cy:Iran]]
+[[da:Iran]]
+[[pdc:Iraen]]
+[[de:Iran]]
+[[dv:އީރާން]]
+[[nv:Iiwą́ą́]]
+[[dsb:Iran]]
+[[dz:ཨི་རཱན་]]
+[[et:Iraan]]
+[[el:Ιράν]]
+[[es:Irán]]
+[[eo:Irano]]
+[[ext:Irán]]
+[[eu:Iran]]
+[[fa:ایران]]
+[[hif:Iran]]
+[[fo:Iran]]
+[[fr:Iran]]
+[[fy:Iran]]
+[[ga:An Iaráin]]
+[[gv:Yn Eeraan]]
+[[gag:İran]]
+[[gd:Ioràn]]
+[[gl:Irán - ایران]]
+[[gan:伊朗]]
+[[gu:ઈરાન]]
+[[hak:Yî-làn]]
+[[xal:Сарта Иранмудин Орн]]
+[[ko:이란]]
+[[ha:Iran]]
+[[haw:‘Ilana]]
+[[hy:Իրան]]
+[[hi:ईरान]]
+[[hsb:Iran]]
+[[hr:Iran]]
+[[io:Iran]]
+[[ilo:Iran]]
+[[bpy:ইরান]]
+[[id:Iran]]
+[[ia:Iran]]
+[[ie:Iran]]
+[[os:Иран]]
+[[is:Íran]]
+[[it:Iran]]
+[[he:איראן]]
+[[jv:Iran]]
+[[kn:ಇರಾನ್]]
+[[pam:Iran]]
+[[ka:ირანი]]
+[[ks:ईरान]]
+[[csb:Iran]]
+[[kk:Иран]]
+[[kw:Iran]]
+[[rw:Irani]]
+[[ky:Иран]]
+[[sw:Uajemi]]
+[[kv:Иран]]
+[[ht:Iran]]
+[[ku:Îran]]
+[[lad:Iran]]
+[[la:Irania]]
+[[lv:Irāna]]
+[[lb:Iran]]
+[[lt:Iranas]]
+[[lij:Iran]]
+[[li:Iraan]]
+[[ln:Iran]]
+[[jbo:iran]]
+[[lmo:Iran]]
+[[hu:Irán]]
+[[mk:Иран]]
+[[ml:ഇറാൻ]]
+[[mi:Īrāna]]
+[[mr:इराण]]
+[[arz:ايران]]
+[[mzn:ایران]]
+[[ms:Iran]]
+[[mn:Иран]]
+[[nah:Iran]]
+[[na:Iran]]
+[[nl:Iran]]
+[[ne:इरान]]
+[[new:इरान]]
+[[ja:イラン]]
+[[pih:Eraan]]
+[[no:Iran]]
+[[nn:Iran]]
+[[nov:Iran]]
+[[oc:Iran]]
+[[or:ଇରାନ]]
+[[uz:Eron]]
+[[pnb:ایران]]
+[[pap:Iran]]
+[[ps:ایران]]
+[[pcd:Iran]]
+[[pms:Iran]]
+[[nds:Iran]]
+[[pl:Iran]]
+[[pt:Irão]]
+[[crh:İran]]
+[[ro:Iran]]
+[[rm:Iran]]
+[[qu:Iran]]
+[[ru:Иран]]
+[[rue:Іран]]
+[[sah:Иран]]
+[[se:Iran]]
+[[sa:ईरान]]
+[[sc:Iran]]
+[[sco:Iran]]
+[[stq:Iran]]
+[[sq:Irani]]
+[[scn:Iran]]
+[[simple:Iran]]
+[[ss:I-Irani]]
+[[sk:Irán]]
+[[sl:Iran]]
+[[szl:Iran]]
+[[so:Iiraan]]
+[[ckb:ئێران]]
+[[sr:Иран]]
+[[sh:Iran]]
+[[su:Iran]]
+[[fi:Iran]]
+[[sv:Iran]]
+[[tl:Iran]]
+[[ta:ஈரான்]]
+[[kab:Iran]]
+[[tt:Иран]]
+[[te:ఇరాన్]]
+[[th:ประเทศอิหร่าน]]
+[[tg:Эрон]]
+[[tr:İran]]
+[[tk:Eýran]]
+[[udm:Иран]]
+[[uk:Іран]]
+[[ur:ایران]]
+[[ug:ئىران]]
+[[za:Iran]]
+[[vec:Iran]]
+[[vi:Iran]]
+[[vo:Lirän]]
+[[wa:Iran]]
+[[zh-classical:伊朗]]
+[[war:Iran]]
+[[wo:Iraan]]
+[[wuu:伊朗]]
+[[yi:איראן]]
+[[yo:Ìránì]]
+[[zh-yue:伊朗]]
+[[diq:İran]]
+[[bat-smg:Irans]]
+[[zh:伊朗]]

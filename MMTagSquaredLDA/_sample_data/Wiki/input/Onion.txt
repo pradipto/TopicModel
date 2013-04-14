@@ -1,0 +1,372 @@
+{{Redirect|Onions|the surname|Onions (surname)}}
+{{about|the plant term}}
+{{Taxobox
+| name               = Onion 
+| image              = Onions.jpg
+| image_caption      = Onions
+| regnum             = [[Plantae]]
+| divisio            = [[Angiosperms]]
+| classis            = [[Monocots]]
+| ordo               = [[Asparagales]]
+| familia            = [[Alliaceae]]
+| genus              = ''[[Allium]]''
+| species            = '''''A. cepa'''''
+| binomial           = ''Allium cepa''
+| binomial_authority = [[Carolus Linnaeus|L.]]
+}}
+[[Image:Allium cepa viviparum 003.JPG|thumb|right|''Allium cepa'' var. ''proliferum'', Top Onion]]
+
+The '''onion''' is any of a variety of plants in the genus ''[[Allium]]'', specifically ''Allium cepa''. ''Allium cepa'' is also known as the "garden onion" or "[[bulb]]" onion. Above ground, the onion shows only a single vertical shoot; the bulb grows underground, and is used for energy storage, leading to the possibility of confusion with a [[tuber]], which it is not.<ref>http://www.uri.edu/ce/factsheets/sheets/onions.html</ref> It is a close relative to [[garlic]].
+
+''Allium cepa'' is known only in cultivation,<ref>{{cite web | url = http://www.efloras.org/florataxon.aspx?flora_id=1&taxon_id=200027457 | title = Allium cepa Linnaeus | work = Flora of North America }}</ref> but related wild species occur in Central Asia. The most closely related species include ''Allium vavilovii'' (Popov & Vved.) and ''Allium asarense'' (R.M. Fritsch & Matin) from [[Iran]].<ref name="prota">Grubben, G.J.H. & Denton, O.A. (2004) Plant Resources of Tropical Africa 2. Vegetables. PROTA Foundation, Wageningen; Backhuys, Leiden; CTA, Wageningen.</ref> However, Zohary and Hopf warn that "there are doubts whether the ''A. vavilovii'' collections tested represent genuine wild material or only feral derivatives of the crop."<ref>Daniel Zohary and Maria Hopf, ''Domestication of plants in the Old World'', third edition (Oxford: University Press, 2000), p. 198</ref>
+
+== Uses ==
+Onions are found in a large number of recipes and preparations spanning almost the totality of the world's cultures. The whole plant is edible and is used as food in some form or the other. They are now available in fresh, frozen, canned, [[caramelization|caramelized]], pickled, powdered, chopped, and dehydrated forms. Onions can be used, usually chopped or sliced, in almost every type of food, including cooked foods and fresh salads and as a spicy garnish. In European cultures they are rarely eaten on their own, but usually act as accompaniment to the main course. Depending on the variety, an onion can be sharp, spicy, tangy, pungent, mild or sweet.
+
+Onions pickled in vinegar are eaten as a snack. These are often served as a side serving in fish and chip shops throughout the [[United Kingdom]] and [[Australia]], often served with [[cheese]] in the [[United Kingdom]] and are referred to simply as "pickled onions" in Eastern Europe. Onions are widely used in [[Iran]] and [[India]] and [[Pakistan]], and are essential to daily life in the local cuisine. They are commonly used as a base for [[curry|curries]] or made into a paste and eaten as a main course or as a side dish.
+
+Onions are also used as an aromatic in cooking. In the classic [[Mirepoix (cuisine)|mirepoix]] onion is used along with celery and carrots to flavor stocks, soups, stews and sauces.
+
+Onions have particularly large cells that are readily observed at low magnification; consequently, onion tissue is frequently used in [[science education]] for demonstrating [[microscope]] usage.<ref>{{cite web
+| date=2004-06-15
+| accessdate=2008-01-28
+| url=http://genetics-education-partnership.mbt.washington.edu/class/elem.htm
+| title=Genetics Teaching Vignettes: Elementary School
+}}</ref>
+
+===Onion powder===
+Onion powder is a [[spice]] used for seasoning in [[cooking]]. It is made from finely ground dehydrated onions, mainly the pungent varieties of [[bulb onion]]s, which causes the powder to have a very strong odor.
+
+Onion powder comes in a few varieties:
+
+* White onion powder
+* Red onion powder
+* Yellow onion powder
+* Toasted onion powder
+
+{{Cookbook|Onion powder}}
+Onion powder can be toxic to dogs.<ref>{{cite journal|journal=Dogs Monthly|month=April|year=2009|publisher=ABM|title=Canine Queries|author=Susan McKay|page=p.97}}</ref>
+
+== Historical uses ==
+It is thought that bulbs from the onion family have been used as a food source for millennia. In [[Bronze Age]] settlements, traces of onion remains were found alongside [[ficus|fig]] and [[date palm|date]] stones dating back to 5000 BC.<ref name="selfsufficientish">{{cite web
+|url=http://www.selfsufficientish.com/onion.htm
+|title=Onions Allium cepa
+|work=selfsufficientish.com
+|accessdate=2006-04-02}}</ref>
+
+However, it is not clear if these were cultivated onions. Archaeological and literary evidence such as the [[Book of Numbers]] 11:5 suggests cultivation probably took place around two thousand years later in [[ancient Egypt]], at the same time that [[leek (vegetable)|leek]]s and [[garlic]] were cultivated. Workers who built the [[Egyptian pyramids]] may have been fed [[radish]]es and onions.<ref name="selfsufficientish"/>
+
+The onion is easily propagated, transported and stored. The [[Ancient Egypt]]ians worshipped it,<ref name="onions-usa">{{cite web
+| title=About Onions: History
+| url=http://www.onions-usa.org/about/history.php
+| accessdate=2008-01-30
+}}</ref> believing that its spherical shape and concentric rings symbolized eternal life. Onions were even used in Egyptian burials, as evidenced by onion traces being found in the eye sockets of [[Ramesses IV]].
+
+In [[ancient Greece]], athletes ate large quantities of onion because it was believed that it would lighten the balance of blood. Roman [[gladiator]]s were rubbed down with onion to firm up their muscles. In the [[Middle Ages]], onions were such an important food that people would pay their rent with onions, and even give them as gifts.<ref name="onions-usa"/> Doctors were known to prescribe onions to facilitate bowel movements and erections, and also to relieve headaches, coughs, [[snake]] bite and hair loss. The cultivated onion was introduced to [[North America]] by [[Christopher Columbus]] on his 1492 expedition to [[Hispaniola]]. However, they found that strains of wild onions already grew throughout North America. Native American Indians used wild onions in a variety of ways, eating them raw or cooked, as a seasoning or as a vegetable. Such onions were also used in syrups, as poultices, as an ingredient in dyes and even as toys. According to diaries of colonists, bulb onions were planted as soon as the Pilgrim fathers could clear the land in 1648.<ref name="onions-usa"/> Onions were also prescribed by doctors in the early 16th century to help with infertility in women, and even dogs, cats and cattle and many other household pets. However, recent evidence has shown that dogs, cats, and other animals should not be given onions in any form, due to toxicity during digestion.{{citation needed|date=November 2010}}
+
+== Medicinal properties and health effects of onions ==
+{{nutritionalvalue | name = Raw Onions | kJ=166 | carbs = 9.34 g | protein=1.1 g | fat= 0.1 g | satfat=0.042 g | monofat = 0.013 g | polyfat = 0.017 g | sugars=4.24 g | fiber = 1.7 g | thiamin_mg=0.046 | riboflavin_mg=0.027 | niacin_mg=0.116 | folate_ug=19 | vitA_ug = 0 | vitB6_mg=0.12 | vitB12_ug=0 | vitC_mg=7.4 | vitE_mg=0.02 | vitK_ug=0.4 | calcium_mg=23 | iron_mg=0.21 | magnesium_mg=0.129 | phosphorus_mg=29 | potassium_mg=146 | sodium_mg=4 | zinc_mg=0.17 | water=89.11 g | source_usda=1 | right=1}}
+
+Wide-ranging claims have been made for the effectiveness of onions against conditions ranging from the common cold to heart disease, [[diabetes]], [[osteoporosis]], and other diseases.<ref>{{cite web|url=http://www.whfoods.com/genpage.php?tname=foodspice&dbid=45 |title=World's Healthiest Foods |publisher=Whfoods.com |date=2006-06-06 |accessdate=2009-09-04}}</ref> They contain chemical compounds believed to have [[anti-inflammatory]], anticholesterol, anticancer, and [[antioxidant]] properties such as [[quercetin]]. However, it has not been conclusively demonstrated that increased consumption of onions is directly linked to health benefits. Some studies have shown that increased consumption of onions reduces the risk of head and neck cancers.<ref>{{cite web|url=http://www.ajcn.org/cgi/content/abstract/84/5/1027 |title=Onion and garlic use and human cancer. (The American Journal of Clinical Nutrition) |publisher=Ajcn.org |date=2006-11-01 |accessdate=2009-09-04}}</ref> In India some sects do not eat onion due to its alleged [[aphrodisiac]] properties.<ref>{{cite book |title= Plants of life, plants of death|last= Simoons|first=Frederick |year=1998 |publisher= Univ of Wisconsin Press|isbn= 0299159043|pages= 153|page= 568|url=http://books.google.com/?id=KEUAbrBoeBAC&pg=PR11&lpg=PR11&dq=Plants+of+life,+plants+of+death+++bibliography |accessdate=2009-07-13}}</ref> Many also believe that eating onions can lead to weight loss; this claim, however, has never been substantiated.
+
+In many parts of the world, onions are used to heal blisters and [[boils]]. A traditional [[Malta|Maltese]] remedy for [[sea urchin]] wounds is to tie half a baked onion to the afflicted area overnight. An application of raw onion is also said to be helpful in reducing swelling from bee stings. In the [[United States]], products that contain onion extract are used in the treatment of topical scars; some studies have found their action to be ineffective,<ref>{{cite web|url=http://dermatology.about.com/od/skincareproducts/gr/MedermaReview.htm |title=Product Review: Mederma for Scars |publisher=Dermatology.about.com |date= |accessdate=2009-09-04}}</ref><ref>{{cite web|url=http://linkinghub.elsevier.com/retrieve/pii/S1090820X05001093 |title=Topical scar modification: Hype or help?. (Aesthetic Surgery Journal) |publisher=Linkinghub.elsevier.com |date= |accessdate=2009-09-04}}</ref><ref name="pmid17097399">{{cite journal | author=Zurada JM, Kriegel D, Davis IC | title=Topical treatments for hypertrophic scars. | journal=Journal of the American Academy of Dermatology | volume=55 | issue=6 | pages=1024–1031 | year=2006 | pmid=17097399 | doi=10.1016/j.jaad.2006.03.022}}</ref> while others found that they may act as an anti-inflammatory or bacteriostatic<ref name="augusti">K. Augusti, Therapeutic values of onion (Allium cepa L.) and garlic (Allium sativum L.), Indian J Exp Biol 34 (1996), pp. 634–640.</ref> and can improve collagen organization in rabbits.<ref name="pmid12087249">{{cite journal | author=Saulis, Alexandrina S. M.D.; Mogford, Jon H. Ph.D.; Mustoe, Thomas A. M.D. | title=Effect of Mederma on Hypertrophic Scarring in the Rabbit Ear Model | journal=Plastic and Reconstructive Surgery | volume=110 | issue=1 | pages=177–183 | year=2002 | pmid=12087249 | doi=10.1097/00006534-200207000-00029}}</ref>
+
+Onions may be especially beneficial for women,<ref>{{cite web
+| accessdate=2008-01-30
+| title=Onion Compound May Help Fight Osteoporosis
+| date=2005-04-11
+| url=http://www.sciencedaily.com/releases/2005/04/050411112150.htm
+}}</ref> who are at increased risk for [[osteoporosis]] as they go through menopause, by destroying [[osteoclasts]] so that they do not break down bone.
+
+An American chemist has stated<ref>[[Chemical & Engineering News]] Vol. 85 No. 35, 1 Sept. 2008, "Letters", p. 7</ref> that the [[pleiomeric]] chemicals in onions have the potential to alleviate or prevent [[Pharyngitis|sore throat]]. Onion in combination with [[jaggery]] has been widely used as a traditional household remedy for sore throat in India.
+
+[[Shallot]]s have the most [[phenol]]s, six times the amount found in Vidalia onion, the variety with the lowest phenolic content. Shallots also have the most [[antioxidant]] activity, followed by Western Yellow, pungent yellow (New York Bold<ref name="cornellnews"/>), Northern Red, Mexico, Empire Sweet, Western White, Peruvian Sweet, Texas 1015, Imperial Valley Sweet, and Vidalia. Western Yellow onions have the most [[flavonoid]]s, eleven times the amount found in Western White, the variety with the lowest flavonoid content.
+
+For all varieties of onions, the more phenols and flavonoids they contain, the more reputed antioxidant and anticancer activity they provide. When tested against liver and colon cancer cells, 'Western Yellow' pungent yellow (New York Bold<ref name="cornellnews"/>) and shallots were most effective in inhibiting their growth. The milder-tasting cultivars (i.e., 'Western White,' 'Peruvian Sweet,' 'Empire Sweet,' 'Mexico,' 'Texas 1015,' 'Imperial Valley Sweet,' and 'Vidalia') showed little cancer-fighting ability.<ref name="cornellnews"/>
+
+Shallots and ten other onion (''Allium cepa'' L.) varieties commonly available in the United States were evaluated: Western Yellow, Northern Red, pungent yellow (New York Bold), Western White, Peruvian Sweet, Empire Sweet, Mexico, Texas 1015, Imperial Valley Sweet, and Vidalia. In general, the most pungent onions delivered many times the benefits of their milder cousins.<ref name="cornellnews" >{{cite web
+| date=2004-10-07
+| accessdate=2008-01-30
+| format=hmtl
+| title=Onion a day keeps doctor away? (funded by the New York State Department of Agriculture and Markets)
+| url=http://www.news.cornell.edu/releases/Oct04/onions.cancer.ssl.html
+| publisher=Cornell University
+}}</ref>
+
+'''3-mercapto-2-methylpentan-1-ol''' in onion was found to have an antioxidant potent that inhibits [[peroxynitrite]]-induced diseases.<ref name=ipct>{{cite journal
+  | last = Rose
+  | first = Peter ''et al.''
+  | authorlink =
+  | coauthors =
+  | title = Inhibition of peroxynitrite-mediated cellular toxicity, tyrosine nitration, and α1-antiproteinase inactivation by 3-mercapto-2-methylpentan-1-ol, a novel compound isolated from ''Allium cepa''
+  | journal = Biochemical and Biophysical Research Communications
+  | volume = 302
+  | issue = 2
+  | pages = 397–402
+  | publisher =
+  | location =
+  | year = 2003
+  | url =
+  | issn =
+  | doi = 10.1016/S0006-291X(03)00193-1
+  | id =
+  | accessdate = 28 June 2009
+  | pmid = 12604361
+  | last2 = Widder
+  | first2 = S
+  | last3 = Looft
+  | first3 = J
+  | last4 = Pickenhagen
+  | first4 = W
+  | last5 = Ong
+  | first5 = CN
+  | last6 = Whiteman
+  | first6 = M}}</ref>
+
+==Cultivated onions==
+Spanish onions come in three colors: yellow, red, and white. Yellow onions are full-flavored and are a reliable standby for cooking almost anything. Yellow onions turn a rich, dark brown when cooked and give French onion soup its tangy sweet flavor. The red onion, with its wonderful color, is a good choice for fresh uses or in grilling and char-broiling. White onions are the traditional onion used in classic Mexican cuisine. They have a golden color and sweet flavor when sautéed. 
+
+I'itoi onion (''Allium cepa'') is a prolific multiplier onion cultivated near Baboquiviri, Arizona. They have a shallot-like flavor. They are easy to grow and ideal for hot, dry climates. To grow them, separate bulbs, and plant in the fall 1&nbsp;inch below surface and 12&nbsp;inches apart. Bulbs will multiply into clumps and can be harvested throughout the cooler months. Tops will die back in the heat of summer and may return with monsoon rains; bulbs can remain in the ground or be harvested and stored in a cool dry place for planting in the fall. The plants rarely flower; propagation is by division.
+
+== Eye irritation ==
+[[File:Cortando cebolla.jpg|thumb|When an onion is cut, certain compounds are released causing the [[Lacrimal gland|lachrymal glands]] to become irritated.]]
+As onions are sliced or eaten, [[cell (biology)|cells]] are broken, allowing [[enzymes]] called [[alliinase]]s to break down [[amino acid]] [[sulphoxide]]s and generate [[sulphenic acid]]s. A specific sulfenic acid, 1-propenesulfenic acid, formed when onions are cut, is rapidly rearranged by a second enzyme, called the lachrymatory factor synthase or LFS, giving [[syn-propanethial-S-oxide]], a volatile gas known as the onion lachrymatory factor or LF.<ref name="Eric Block 2010">Eric Block, "Garlic and Other Alliums: The Lore and the Science" (Cambridge: Royal Society of Chemistry, 2010)</ref> The LF gas diffuses through the air and eventually reaches the eye, where it activates sensory neurons, creating a stinging sensation. Tear glands produce [[tears]] to dilute and flush out the irritant.<ref name="Sciam">{{cite web 
+  | last = Scott
+  | first = Thomas
+  | authorlink =
+  | coauthors=
+  | title = What is the chemical process that causes my eyes to tear when I peel an onion?
+  | work = Ask the Experts: Chemistry
+  | publisher = Scientific American
+  | date =
+  | url = http://www.sciam.com/article.cfm?id=what-is-the-chemical-proc
+  | doi=
+  | accessdate = 2007-04-28}}
+</ref> Chemicals that exhibit such an effect on the eyes are known as [[lachrymatory agent]]s.
+
+Supplying ample water to the reaction while peeling onions prevents the gas from reaching the eyes. Eye irritation can, therefore, be avoided by cutting onions under running water or submerged in a basin of water.<ref name="Sciam">{{cite web
+  | last = Scott
+  | first = Thomas
+  | authorlink =
+  | coauthors=
+  | title = What is the chemical process that causes my eyes to tear when I peel an onion?
+  | work = Ask the Experts: Chemistry
+  | publisher = Scientific American
+  | date =
+  | url = http://www.sciam.com/article.cfm?id=what-is-the-chemical-proc
+  | doi=
+  | accessdate = 2009-08-26}}</ref> Another way to reduce irritation is by chilling, or by not cutting off the root of the onion (or by doing it last), as the root of the onion has a higher concentration of enzymes.<ref>{{cite web|url=http://www.onions-usa.org/about/faq.php#cooking |title=FAQ |publisher=Onions-usa.org |date= |accessdate=2009-09-04}}</ref> Using a sharp blade to chop onions will limit the cell damage and the release of enzymes that drive the irritation response. Chilling or freezing onions prevents the enzymes from activating, limiting the amount of gas generated. Eye irritation can also be avoided by having a fan blow the gas away from the eyes as the onion is being cut.
+
+It is also possible to avoid eye irritation by wearing goggles or any eye protection that creates a seal around the eye. Contact lens wearers can experience less immediate irritation as a result of the slight protection afforded by the lenses themselves. It may{{Citation needed|date=March 2010}} also be that lens wearers are familiar with controlling reflexive actions of their eyes, such as blinking, with regard to irritation, as this is an ability useful when manipulating the lenses.
+
+The amount of sulfenic acids and LF released and the irritation effect differs among ''Allium'' species. On January 31, 2008, the [[New Zealand]] Crop and Food institute created a strain of "no tears" onions by using [[gene]]-silencing [[biotechnology]] to prevent synthesis by the onions of the lachrymatory factor synthase enzyme.<ref>{{cite news|last=Staunton |first=Margot |url=http://www.news.com.au/story/0,23599,23144566-23109,00.html |title= Scientists create 'no tears' onions |publisher=News.com.au |date=2008-02-01 |accessdate=2009-09-04}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+== Propagation ==
+[[File:2005onion and shallot.PNG|thumb|right|Onion and [[shallot]] output in 2005]]
+[[File:Onion whitebackground.jpg|thumb|Onion growing shoots]]
+Onions may be grown from seed or, more commonly today, from sets started from seed the previous year. Onion sets are produced by sowing seed very thickly one year, resulting in stunted plants that produce very small bulbs. These bulbs are very easy to set out and grow into mature bulbs the following year, but they have the reputation of producing a less durable bulb than onions grown directly from seed and thinned.
+
+Seed-bearing onions are day-length sensitive; their bulbs begin growing only after the number of daylight hours has surpassed some minimal quantity. Most traditional European onions are what is referred to as "long-day" onions, producing bulbs only after 15+ hours of daylight occur. Southern European and North African varieties are often known as "intermediate day" types, requiring only 12–13 hours of daylight to stimulate bulb formation. Finally, "short-day" onions, which have been developed in more recent times, are planted in mild-winter areas in the fall and form bulbs in the early spring, and require only 9–10 hours of sunlight to stimulate bulb formation.
+
+Either planting method may be used to produce spring onions or [[Scallion|green onion]]s, which are the leaves of immature plants. Green onion is a name also used to refer to another species, ''Allium fistulosum'', the [[Welsh onion]], which is said not to produce dry bulbs.
+
+The [[tree onion]] produces bulbs instead of flowers and seeds, which can be planted directly in the ground.
+
+== Varieties ==
+<div class="center"><gallery  | align = center>
+File:Two colors of onions.jpg|Brown and [[White onion|white]] onions
+File:YellowOnions.jpg|[[Yellow onion]]s
+File:Onion Flower Head.jpg|Flower head of a yellow onion
+File:ARS red onion.jpg|[[Red onion]]s
+</gallery></div>
+
+* Bulb onion – Grown from seed (or onion sets), bulb onions range from the pungent varieties used for dried soups and onion powder to the mild and hearty [[sweet onion]]s, such as the [[Vidalia onion|Vidalia]] from [[Georgia (U.S. State)|Georgia]] or Walla Walla from [[Washington (U.S. State)|Washington]] that can be sliced and eaten on a sandwich instead of meat.
+* Multiplier onions – May refer to perennial green onions, or to onions raised from bulbs that produce multiple shoots, each of which forms a bulb. The second type is often referred to as a [[potato onion]].
+* [[Tree onion]] or Egyptian onion - Produce bulblets in the flower head; a [[hybrid (biology)|hybrid]] of ''Allium cepa''s.
+* [[Welsh onion]] – Sometimes referred to as green onion or spring onion, although these onions may refer to any green onion stalk.
+* [[Leek]]
+* [[Yellow onion]] - generally tapered ends, brown skin over the onion.
+* [[Sweet onion]] - flatter ends and sold individually. Spanish and Vidalia
+
+===European onions===
+A number of onions have [[Protected Geographical Status]] in [[Europe]], these include:
+* [[Red onion#Red onion of Tropea|Cipolla Rossa di Tropea]], a red onion from [[Calabria]], [[Italy]] (''PGI'')
+* [[Cipollotto Nocerino]], a spring/salad onion sized ''Allium Cepa'' from [[Campania]], Italy (''PDO'')
+* [[Oignon doux des Cévennes]], a sweet onion from the south east of [[France]] (''PDO'')
+
+==Storage==
+Green onion and leeks are optimally stored refrigerated.<ref name=cpma>[http://www.cpma.ca/en_hea_storage.asp Canadian Produce Marketing Association > Home Storage Guide for Fresh Fruits & Vegetables] Retrieved August 2010</ref> Cooking onions and sweet onions, on the other hand, can be stored at room temperature, optimally in a single layer, in mesh bag in a dry, cool, dark, well ventilated location.<ref name=cpma/> In this environment, cooking onions have a shelf life of 3 to 4 weeks, and sweet onions 1 to 2 weeks.<ref name=cpma/> Cooking onions will absorb odours from apples and pears.<ref name=cpma/> Also, they draw moisture from vegetables they are stored with which may cause them to decay.<ref name=cpma/> Sweet onions have a greater water and sugar content than cooking onions. This makes them sweeter and milder tasting, but also reduces their shelf life.<ref name=cpma/> Sweet onions can also be stored refrigerated, where they have a shelf life of approximately 1 month, optimally uncovered.<ref name=cpma/> Irrespective of type, any cut pieces of onion are optimally tightly wrapped, stored away from other produce, and used within 2 to 3 days.<ref name=cpma/>
+
+== Production trends ==
+[[File:OnionsOnField.jpg|thumb|350px|Onion field during harvest, [[Vale, Oregon]] (USA).]]
+
+{| class="wikitable" style="float:left; clear:left;"
+|-
+! colspan=2|Top Ten Onion Producers — 2008<br />
+|-
+| {{CHN}} || style="text-align:right;"| 20,817,295
+|-
+| {{IND}} || style="text-align:right;"| 8,178,300
+|-
+| {{AUS}} || style="text-align:right;"| 4,003,491
+|-
+| {{USA}} || style="text-align:right;"| 3,349,170
+|-
+| {{PAK}} || style="text-align:right;"| 2,015,200
+|-
+| {{TUR}} || style="text-align:right;"| 2,007,120
+|-
+| {{IRI}} || style="text-align:right;"| 1,849,275
+|-
+| {{EGY}} || style="text-align:right;"| 1,728,417
+|-
+| {{RUS}}|| style="text-align:right;"| 1,712,500
+|-
+| {{BRA}} || style="text-align:right;"| 1,299,815
+|-
+|'''World Total''' || style="text-align:right;"| ''''''
+|-
+|colspan=2|''Source: <br />[[UN Food & Agriculture Organisation]] (FAO)''<ref>http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567#ancor</ref>
+|}
+{{clear}}
+
+The [[Onion Futures Act]], passed in [[1958]], bans the trading of [[futures contract]]s on onions in the [[United States]], after farmers complained about alleged [[market manipulation]] by Sam Seigel and [[Vincent Kosuga]] at the [[Chicago Mercantile Exchange]]. It provides [[economist]]s with a unique case study in the effects of futures trading on agricultural prices. It remains in effect {{as of|2010|lc=on}}.
+
+River Point Farms is America's largest grower, packer, shipper and processor of onions; including yellow, white, red, sweet and organic onions.
+
+== Pictures ==
+<gallery  | align = center>
+File:Onion on lettuce by Swatjester.jpg|Red onion
+File:Muck onions 8640.jpg|Onion fields near [[Elba, New York]]
+File:Cooked onions in frying pan.JPG|Onions cooked in a [[frying pan]]
+File:Pro-Pak onion weigher CW10.jpg|Onion weighing and packing in The Netherlands
+File:Onion.jpg|Cut onion
+File:Spring Onion.jpg|[[Spring onion]]
+</gallery>
+
+== See also ==
+* [[Allicin]]
+* [[Desquamation]]
+* [[Herbalism]]
+* [[List of Allium species]]
+* [[Onion Johnny]]
+* [[Pyruvate scale]]
+* [[Welsh onion]]
+
+== Notes ==
+{{Reflist|2}}
+
+== References ==
+{{Refbegin}}
+* {{cite book | author=Block, E. | title=Garlic and Other Alliums: The Lore and the Science | publisher=Royal Society of Chemistry (UK) | year=2010 | isbn=978-0-85404-190-9}}
+* Sen, Colleen T. (2004). ''Food culture in India''. Greenwood Publishing. ISBN 0313324875.
+* {{cite web| last=Barbagallo|first=Tricia|url=http://www.archives.nysed.gov/apt/magazine/MagSummer05FeatureArticle_000.pdf|format=PDF|title=Black Beach: The Mucklands of Canastota, New York|date=June 1, 2005|accessdate=2008-06-04}}
+{{Refend}}
+
+== External links ==
+{{Wiktionary|onion}}
+* [http://database.prota.org/dbtw-wpd/exec/dbtwpub.dll?AC=QBE_QUERY&BU=http%3A%2F%2Fdatabase.prota.org%2Fsearch.htm&TN=PROTAB~1&QB0=AND&QF0=Species+Code&QI0=Allium+cepa&RF=Webdisplay PROTAbase on ''Allium cepa'']
+* [http://video.about.com/southernfood/No-Cry-Onion-Chopping.htm Watch the Video: No Cry Onion Chopping (with Jonathon Stewart)]
+{{Allium}}
+
+[[Category:Onions| ]]
+[[Category:Allium]]
+
+[[ar:بصل]]
+[[gn:Sevói]]
+[[ay:Siwilla]]
+[[az:Adi soğan]]
+[[bn:পিঁয়াজ]]
+[[zh-min-nan:Chhang-thâu]]
+[[be-x-old:Цыбуля рэпчатая]]
+[[bcl:Sibulyas]]
+[[bo:ཙོང་རིལ།]]
+[[bg:Кромид лук]]
+[[ca:Ceba]]
+[[cs:Cibule kuchyňská]]
+[[da:Løg]]
+[[pdc:Zwiwwel]]
+[[de:Zwiebel]]
+[[dv:ފިޔާ]]
+[[nv:Tłʼohchin (chʼil daadánígíí)]]
+[[et:Harilik sibul]]
+[[el:Κρεμμύδι]]
+[[myv:Чурька]]
+[[es:Allium cepa]]
+[[eo:Cepo]]
+[[eu:Tipula]]
+[[fa:پیاز]]
+[[fr:Oignon]]
+[[fur:Civole]]
+[[gv:Unnish]]
+[[gd:Uinnean]]
+[[gl:Cebola]]
+[[gu:ડુંગળી]]
+[[ko:양파]]
+[[hi:प्याज़]]
+[[hsb:Cybličkowacy kobołk]]
+[[hr:Luk (biljka)]]
+[[io:Onyono]]
+[[id:Bawang Bombay]]
+[[xh:Itswele]]
+[[is:Laukur]]
+[[it:Allium cepa]]
+[[he:בצל הגינה]]
+[[kn:ಈರುಳ್ಳಿ]]
+[[kk:Пияз]]
+[[ht:Zonyon]]
+[[ku:Pîvaz]]
+[[la:Allium cepa]]
+[[lv:Sīpols]]
+[[lb:Ënn]]
+[[lt:Valgomasis svogūnas]]
+[[lmo:Allium cepa]]
+[[hu:Vöröshagyma]]
+[[mk:Кромид]]
+[[ml:ഉള്ളി]]
+[[mr:कांदा]]
+[[ms:Bawang]]
+[[mn:Сонгино]]
+[[mrj:Охыра]]
+[[nl:Ui (plant)]]
+[[nds-nl:Uui]]
+[[ja:タマネギ]]
+[[no:Vanlig løk]]
+[[nn:Lauk]]
+[[oc:Ceba]]
+[[ps:پياز]]
+[[pl:Cebula zwyczajna]]
+[[pt:Cebola]]
+[[ksh:Öllisch]]
+[[ro:Ceapă]]
+[[qu:Siwilla]]
+[[ru:Лук репчатый]]
+[[sc:Chibudda]]
+[[sco:Ingan]]
+[[sq:Qepa]]
+[[scn:Allium cepa]]
+[[simple:Onion]]
+[[sk:Cesnak cibuľový]]
+[[sl:Čebula]]
+[[szl:Cwibla]]
+[[so:Basal]]
+[[sr:Црни лук]]
+[[sh:Luk (biljka)]]
+[[fi:Keltasipuli]]
+[[sv:Lök (art)]]
+[[tl:Sibuyas]]
+[[ta:வெங்காயம்]]
+[[te:ఉల్లిపాయ]]
+[[th:หอมใหญ่]]
+[[tg:Пиёз]]
+[[to:Onioni]]
+[[tr:Soğan]]
+[[uk:Цибуля ріпчаста]]
+[[ur:پیاز]]
+[[ug:پىياز]]
+[[vec:Zeóła]]
+[[vi:Hành tây]]
+[[vls:Andjoen]]
+[[yi:ציבל]]
+[[bat-smg:Cėbolė]]
+[[zh:洋蔥]]

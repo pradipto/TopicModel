@@ -1,0 +1,857 @@
+{{pp-semi|small=yes}}{{pp-move-indef}}
+{{Infobox country
+| native_name = {{lang|ko|조선민주주의인민공화국}}<br /><small>''Chosŏn Minjujuŭi Inmin Konghwaguk''</small><ref>{{cite web|title = Administrative Population and Divisions Figures (#26) |work = DPRK: The Land of the Morning Calm |publisher = Permanent Committee on Geographical Names for British Official Use |date = 2003-04 |url = http://www.pcgn.org.uk/North%20Korea-%20Land%20of%20the%20Morning%20Calm-%202003.pdf |format = PDF |accessdate = 2006-10-10}}</ref>
+| conventional_long_name = <small>Democratic People's Republic of Korea</small>
+| conventional_short_name = North Korea
+| common_name = North Korea
+| image_flag = Flag of North Korea.svg
+| image_coat = Coat of Arms of North Korea.svg
+| symbol_type = Emblem
+| image_map = <!--Do not change without discussing at the Talk page-->North Korea (orthographic projection).svg<!--Do not change without discussing at the Talk page-->
+| mapsize = 220px
+| motto = 강성대국<br />''Powerful and Prosperous Nation''
+| national_anthem = ''[[Aegukka]]'' (애국가)<br /><small>("The Patriotic Song")</small>
+| official_languages = [[Korean language|Korean]]
+| languages_type         = [[Official script]]s
+| languages              = [[Chosŏn'gŭl]]
+| demonym                = North Korean, Korean
+| capital = [[Pyongyang]] |latd = 39 |latm = 2 |latNS = N |longd = 125 |longm = 45 |longEW = E
+| government_type = ''[[Juche]]''<!-- <<<--DO NOT CHANGE! --> [[republic]],<br />[[Unitary state|unitary]] [[Single-party state|single-party republic]]
+| leader_title1 = [[Eternal President of the Republic|Eternal President]]
+| leader_title2 = [[List of leaders of North Korea|Supreme Leader]]<ref name="nytimes-supreme">{{Cite news|url=http://www.nytimes.com/2009/09/29/world/asia/29korea.html|title=New North Korean Constitution Bolsters Kim’s Power |last=Choe|first=Sang-Hun|date=2009-09-28|publisher=New York Times|accessdate=2009-09-30}}</ref><ref name="bbc-supreme">{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/8279830.stm|title=N Korea constitution bolsters Kim|last=McGivering|first=Jill|date=2009-09-29|publisher=BBC|accessdate=2009-09-30}}</ref>
+| leader_title3 = <small>[[Chairman of the National Defence Commission of North Korea|NDC Chairman]]</small>
+| leader_title4 = <small>[[Supreme People's Assembly Presidium|Chairman of the Presidium]]</small>
+| leader_title5 = [[Premier of North Korea|Premier]]
+| leader_name1 = [[Kim Il-sung]]<br /><small>(deceased)</small>{{Ref label|aaa|a|}}
+| leader_name2 = [[Kim Jong-il]]
+| leader_name3 = Kim Jong-il
+| leader_name4 = [[Kim Yong-nam]]{{Ref label|bbb|b|}}
+| leader_name5 = [[Choe Yong-rim]]
+| legislature = [[Supreme People's Assembly of North Korea|Supreme People's Assembly]]
+| largest_city = [[Pyongyang]]
+| area_km2 = 120,540
+| area_sq_mi = 46,528 <!--Do not remove per [[WP:MOSNUM]]-->
+| area_rank = 98th
+| area_magnitude = 1 E11
+| percent_water = 4.87
+| population_estimate = 24,051,218<ref name="unfpa">{{ko}} {{Cite journal | url = http://news.joins.com/article/686/4109686.html | title = 한반도 인구 7천400만명 시대 임박 | publisher = United Nations | author = UNFPA | date = 2009-10-01 | accessdate =  2010-04-14}}</ref>
+| population_estimate_year = 2009
+| population_estimate_rank = 51st
+| population_census =
+| population_census_year =
+| population_density_km2 = 198.3
+| population_density_sq_mi = 513.8 <!--Do not remove per [[WP:MOSNUM]]-->
+| population_density_rank = 55th
+| GDP_PPP_year = 2008<ref>{{cite web| url = http://www.fco.gov.uk/en/travel-and-living-abroad/travel-advice-by-country/country-profile/asia-oceania/north-korea?profile=economy|title=Country Profile: North Korea |accessdate=2010-02-10 |date=2009-06-25 |work=[[Foreign and Commonwealth Office]], UK }}</ref>
+| GDP_nominal_year = 2009<ref name="cia-kn" />
+| GDP_nominal = $28.2 billion
+| GDP_nominal_rank = 88th
+| GDP_nominal_per_capita = $1,244<ref>[https://www.cia.gov/library/publications/the-world-factbook/fields/2195.html GDP (official exchange rate)], [[The World Factbook]], [[Central Intelligence Agency]], last updated on April 26, 2010; accessed on May 17, 2010. Population data obtained from [http://www.census.gov/ipc/www/idb/tables.html Total Midyear Population], [[U.S. Census Bureau]], International Data Base, accessed on May 17, 2010. Note: Per capita values were obtained by dividing the GDP (official exchange rate) data by the Population data.</ref>
+| GDP_nominal_per_capita_rank = 139th
+| GDP_PPP = [[United States dollar|$]]40 billion
+| GDP_PPP_rank = 94th
+| GDP_PPP_per_capita = $1,900 (2009 est.)<ref name="cia-kn" />
+| GDP_PPP_per_capita_rank = 154th
+| Gini = n/a
+| Gini_year = 2009<ref name="UN-HDR">{{cite web|url=http://hdrstats.undp.org/en/indicators/161.html |title=Korea, North |accessdate=2009-10-09 |year=2009) | work = The United Nations Human Development Report}}</ref>
+| Gini_category=<span style = "color:#090;">low</span>
+| FSI = 97.7 {{increase}} 0.4
+| FSI_year = 2007
+| FSI_rank = 13th
+| FSI_category = <span style="color:#f00;">Alert</span>
+| sovereignty_type = [[Soviet Civil Authority|Establishment]]
+| established_event1 = [[March 1st Movement|Independence&nbsp;declared]]
+| established_event2 = [[Victory over Japan Day|Liberation]]
+| established_event3 = Formal declaration
+| established_date1 = March 1, 1919
+| established_date2 = August 15, 1945
+| established_date3 = September 9, 1948
+| currency = [[North Korean won]] (₩)
+| currency_code = KPW
+| time_zone = [[Korea Standard Time]]
+| utc_offset = +9
+| time_zone_DST =
+| utc_offset_DST =
+| date_format = yy, yyyy년 mm월 dd일<br />yy, yyyy/mm/dd ([[Juche calendar|CE–1911]], [[Common Era|CE]])
+| drives_on = right
+| cctld = [[.kp]]
+| calling_code = [[Telephone numbers in North Korea|850]]
+| footnotes =
+{{note|aaa}} a. Died 1994, named "Eternal President" in 1998.<br />
+{{note|bbb}} b. [[Kim Yong-nam]] is the "[[Head of State|head of state]] for foreign affairs".
+}}
+{{Coord|40|00|N|127|00|E|display=title}}
+'''North Korea''' ({{IPAc-en|En-us-North Korea.ogg|icon|ˈ|n|ɔr|θ|_|k|ə|ˌ|r|i|ə}}), officially the '''Democratic People's Republic of Korea''' ('''DPRK'''; [[Hangul|Chosongul]]: 조선민주주의인민공화국), is a country in [[East Asia]], occupying the northern half of the [[Korean Peninsula]]. Its capital and largest city is [[Pyongyang]]. The [[Korean Demilitarized Zone]] serves as the [[buffer zone]] between North Korea and [[South Korea]]. The [[Yalu River|Amnok River]] and the [[Tumen River]] form the border between North Korea and the [[People's Republic of China]]. A section of the Tumen River in the extreme northeast is the border with [[Russia]].
+
+The peninsula was governed by the [[Korean Empire]] until it was annexed by [[Korea under Japanese rule|Japan]] following the [[Russo-Japanese War]] of 1905. It was [[Division of Korea|divided]] into Soviet and American occupied zones in 1945, following the end of [[World War II]]. North Korea refused to participate in a [[United Nations]]–supervised election held in the south in 1948, which led to the creation of separate Korean governments for the two occupation zones. Both North and South Korea claimed [[sovereignty]] over the Korean Peninsula as a whole, which led to the [[Korean War]] of 1950. The [[s:Korean Armistice Agreement|Armistice Agreement of 1953]] ended the fighting; however, the two countries are officially still at war with each other, as a peace treaty was never signed.<ref>{{Cite news|url=http://www.foxnews.com/story/0,2933,528320,00.html|title=U.S.: N. Korea Boosting Guerrilla War Capabilities|coauthors=Associated Press|date=2009-06-23|publisher=FOX News Network, LLC|accessdate=2009-07-04}}</ref> Both states were accepted into the [[United Nations]] in 1991.<ref>{{Cite news|url=http://www.nytimes.com/1991/05/29/world/north-korea-reluctantly-seeks-un-seat.html|title=North Korea Reluctantly Seeks U.N. Seat|last=Sanger|first=David E.|date=1991-05-29|publisher=The New York Times Company|accessdate=2009-07-04}}</ref>
+
+North Korea is a [[single-party state]] under a [[Democratic Front for the Reunification of the Fatherland|united front]] led by the [[Korean Workers' Party]] (KWP).<ref>{{Cite news
+| url = http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/08/28/wnkorea128.xml
+| title = North Korea power struggle looms
+| accessdate=2007-10-31
+| last=Spencer
+| first=Richard
+| authorlink=
+| date=2007-08-28
+| work=The Telegraph (online version of UK national newspaper)
+| quote=A power struggle to succeed Kim Jong-il as leader of North Korea's Stalinist dictatorship may be looming after his eldest son was reported to have returned from semi-voluntary exile.
+| location=London
+}}<br />
+{{Cite news
+| url=http://www.timesonline.co.uk/tol/news/world/asia/article2388356.ece
+| title=North Korea's nuclear 'deal' leaves Japan feeling nervous
+| accessdate=2007-10-31
+| last=Parry
+| first=Richard Lloyd
+| authorlink=Richard Lloyd Parry
+| date=2007-09-05
+| work=The Times (online version of UK's national newspaper of record)
+| quote=The US Government contradicted earlier North Korean claims that it had agreed to remove the Stalinist dictatorship’s designation as a terrorist state and to lift economic sanctions, as part of talks aimed at disarming Pyongyang of its nuclear weapons.
+| location=London
+}}<br />{{cite web
+| url=http://socialistworld.net/eng/2003/02/08korea.html
+| title=The Korean crisis
+| accessdate=2007-10-31
+| last=Walsh
+| first=Lynn
+| authorlink=Lynn Walsh
+| date=2003-02-08
+| work=CWI online: Socialism Today, February 2003 edition, journal of the Socialist Party, CWI England and Wales
+| publisher=socialistworld.net, website of the committee for a worker’s international
+| quote=Kim Jong-il's regime needs economic concessions to avoid collapse, and just as crucially needs an end to the strategic siege imposed by the US since the end of the Korean war (1950–53). Pyongyang's nuclear brinkmanship, though potentially dangerous, is driven by fear rather than by militaristic ambition. The rotten Stalinist dictatorship faces the prospect of an implosion. Since the collapse of the Soviet Union, which deprived North Korea of vital economic support, the regime has consistently attempted to secure from the US a non-aggression pact, recognition of its sovereignty, and economic assistance. The US's equally consistent refusal to enter into direct negotiations with North Korea, effectively ruling out a peace treaty to formally close the 1950–53 Korean war, has encouraged the regime to resort to nuclear blackmail.
+}}<br />{{cite web
+| url=http://www.sa.org.au/index.php?option=com_content&task=view&id=333&Itemid=106
+| title=US is threat to peace not North Korea
+| accessdate=2007-10-31
+| last=Oakley
+| first=Corey
+| authorlink=
+| year=2006
+| month=October
+| work=Edition 109 - October–November 2006
+| publisher=Socialist Alternative website in Australia
+| quote=In this context, the constant attempts by the Western press to paint Kim Jong-il as simply a raving lunatic look, well, mad. There is no denying that the regime he presides over is a nasty Stalinist dictatorship that brutally oppresses its own population. But in the face of constant threats from the US, Pyongyang's actions have a definite rationality from the regime's point of view.
+}}</ref><ref name="nysuccess">{{Cite news
+| url=http://www.nytimes.com/2003/10/02/international/asia/02CND-KORE.html?ex=1380513600&en=a29d7f1e49aabee0&ei=5007&partner=USERLAND
+| title=North Korea Says It Is Using Plutonium to Make A-Bombs
+| accessdate=2007-10-31
+| last=Brooke
+| first=James
+| authorlink=James Brooke (journalist)
+| date=2003-10-02
+| work=The New York Times
+| quote=North Korea, run by a Stalinist dictatorship for almost six decades, is largely closed to foreign reporters and it is impossible to independently check today's claims.
+}} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref name="intimes">{{cite web
+| url=http://timesofindia.indiatimes.com/Let_The_Music_Play_On/articleshow/2859521.cms
+| title=Leader Article: Let The Music Play On
+| accessdate=2008-03-27
+| last=Baruma
+| first=Ian
+| authorlink=
+| date=
+| work=The Times of India
+| quote=North Korea, officially known as the Democratic People's Republic of Korea, is one of the world's most oppressive, closed, and vicious dictatorships. It is perhaps the last living example of pure totalitarianism - control of the state over every aspect of human life.
+}}</ref><ref>{{Cite news|url=http://www.washingtonpost.com/wp-dyn/content/article/2009/06/07/AR2009060700717.html|title=U.S. to Weigh Returning North Korea to Terror List|last=Finn|first=Peter|date=2009-06-08|publisher=Washington Post|accessdate=2009-06-19|quote=The Bush administration removed North Korea from the list of terrorist states last year as part of an unfulfilled commitment by the dictatorship to dismantle its nuclear weapons program.}}</ref> The country's government follows the ''[[Juche]]'' ideology of self-reliance, developed by the country's former President, [[Kim Il-sung]]. After his death, Kim Il-sung was declared to be the country's [[Eternal President of the Republic|Eternal President]]. Juche became the official state ideology when the country adopted a new [[Constitution of North Korea|constitution]] in 1972,<ref>{{cite web| url = http://en.wikisource.org/wiki/Constitution_of_North_Korea_(1972) | title = Constitution of North Korea (1972) | accessdate = 2009-05-07 | year = 1972}}</ref> though Kim Il-sung had been using it to form policy since at least as early as 1955.<ref name="Juche">{{Cite book
+| last=Martin
+| first=Bradley K.
+| authorlink=
+| coauthors=
+| title=Under the Loving Care of the Fatherly Leader: North Korea and the Kim Dynasty
+| publisher=Thomas Dunne Books
+| year=2004
+| location=New York, NY
+| page=111
+| quote=Although it was in that 1955 speech that Kim gave full voice to his arguments for ''juche'', he had been talking along similar lines as early as 1948.
+| doi=
+| id=
+| isbn=0-312-32322-0}}</ref> After the collapse of the Soviet Union and a series of natural disasters, a [[North Korean famine|famine]] occurred, causing the death of 900,000 to 2 million people.<ref name="famine" /> Facing these circumstances, leader [[Kim Jong-Il]] adopted ''[[Songun]]'', or a "military-first" policy in order to strengthen the country and its government.<ref>[http://www.carlisle.army.mil/usawc/Parameters/03spring/hodge.htm "North Korea’s Military Strategy"], ''Parameters'', US Army War College Quarterly, 2003.</ref> Although North Korea is officially a [[socialist republic]],<ref>[[wikisource:Constitution of North Korea (1972)|Constitution of North Korea]], Chapter I, Article 1: "The Democratic People’s Republic of Korea is an independent socialist State".</ref> many outside media organizations report that it is a [[totalitarian]] [[Stalinist]] [[dictatorship]]<ref name="nysuccess" /><ref name="intimes" /><ref>{{cite web
+| url = http://freedomhouse.org/template.cfm?page=22&year=2006&country=6993
+| title=Freedom in the World, 2006|publisher=Freedom House|accessdate=2007-02-13
+| quote=Citizens of North Korea cannot change their government democratically. North Korea is a totalitarian dictatorship and one of the most restrictive countries in the world.}}</ref><ref>{{Cite news
+| url = http://www.economist.com/media/pdf/DEMOCRACY_TABLE_2007_v3.pdf
+| title=Economist Intelligence Unit democracy index 2006
+| accessdate=2007-10-09 |year=2007 |format=PDF |publisher=[[Economist Intelligence Unit]]}}
+North Korea ranked in last place (167)</ref><ref>{{Cite news
+| url=http://www.economist.com/world/asia/displaystory.cfm?story_id=11465278
+| title=A portrait of North Korea's new rich
+| accessdate=2009-06-18|date=2008-05-29|work=[[The Economist]]
+| quote=EVERY developing country worth its salt has a bustling middle class that is transforming the country and thrilling the markets. So does Stalinist North Korea.
+}}</ref> with an elaborate [[cult of personality]] around the Kim family and one of the worst [[human rights in North Korea|human rights]] records of any country.<ref>{{cite web| url = http://www.hrw.org/en/news/2009/02/17/human-rights-north-korea | title = Human Rights in North Korea | work = hrw.org | publisher = Human Rights Watch | date = 2009-02-17 | accessdate = 2010-12-13 }}</ref> North Korea is the world's most militarized nation with a total of 9,495,000 active, reserve, and paramilitary personnel.<ref>''See [[List of countries by number of troops]]''</ref> It is a [[List of states with nuclear weapons|nuclear weapons state]], and has an active [[space program]].<ref>[http://www.popularmechanics.com/science/space/4307281 International Space Dominance: 7 Nations Launching the Next Space Race], ''Popular Mechanics'', October 1, 2009</ref> Due to the government's secretive nature and its reluctance to allow in foreigners, North Korea is today considered the world's most isolated country and has thus been given the moniker "[[Hermit kingdom (Korea)|The Hermit Kingdom]]" by some.<ref>[http://www.cbsnews.com/stories/2006/01/12/60minutes/main1203973.shtml North Korea – The Hermit Kingdom], CBS News, January 15, 2006</ref><ref>[http://www.time.com/time/magazine/article/0,9171,1122059,00.html Inside the Hermit Kingdom], ''[[The Time]]'', October 24, 2005</ref><ref>The term "Hermit Kingdom" actually dates back to the 19th Century. See [[William Elliot Griffis]]' 1882 book, ''Corea: The Hermit Nation''.</ref>
+
+== History ==
+{{Main|History of North Korea}}
+{{See also|History of Korea}}
+In the aftermath of the [[Korea under Japanese rule|Japanese occupation of Korea]] which ended with Japan's defeat in [[World War II]] in 1945, Korea was divided at the [[38th parallel north|38th parallel]] in accordance with a [[United Nations]] arrangement, to be administered by the [[Soviet Union]] in the north and the [[United States]] in the south. The history of North Korea formally begins with the establishment of the Democratic [[People's Republic]] in 1948.
+
+=== Division of Korea ===
+{{Main|Division of Korea}}
+In August 1945, the [[Soviet Army]] established a Soviet Civil Authority to rule the northern portion of the Korean Peninsula until a domestic regime, friendly to the USSR, could be established. This became governed by the [[Provisional People's Committee for North Korea]] through 1948. After the Soviet forces' departure in 1948, the main agenda in the following years was unification of Korea until the consolidation of [[Syngman Rhee]] regime in the South with American military support and the suppression of the October 1948 insurrection ended hopes that the country could be reunified by way of [[Communist]] revolution in the South.
+In 1949, a military intervention into [[South Korea]] was considered by Kim Il-sung, but failed to receive support from the Soviet Union, which had played a key role in the establishment of the country.<ref name=Cumings1981>Bruce Cummings, ''The Origins of the Korean War, Vol. 1: Liberation and the Emergence of Separate Regimes, 1945–1947'', Princeton University Press</ref>
+
+The withdrawal of most [[United States]] forces from the South in June dramatically weakened the [[Syngman Rhee|Southern regime]] and encouraged Kim Il-sung to re-think an invasion plan against the South.<ref name="Cumings1981" /> The idea itself was first rejected by [[Joseph Stalin]] but with the development of Soviet nuclear weapons, [[Mao Zedong]]'s victory in China and the Chinese indication that it would send troops and other support to North Korea, Stalin approved an invasion which led to the [[Korean War]].<ref>{{Cite book| last = Martin | first = Bradley K. | authorlink = | coauthors = | title = Under the Loving Care of the Fatherly Leader: North Korea and the Kim Dynasty | publisher = Thomas Dunne Books + | year = 2004 | location = New York, NY | pages = 66–67 | url = | doi = | id = | isbn = 0-312-32322-0}}</ref>
+
+=== Korean War ===
+{{Main|Korean War}}
+{{See also|Aftermath of the Korean War|Korean Demilitarized Zone|North Korea – South Korea relations}}
+[[File:Victorious Fatherland Liberation War Museum Monument7.jpg|thumb|left|North Korean war monument in Pyongyang.]]
+
+The Korean War was a war between North Korea and South Korea with major hostilities beginning on June 25, 1950, ending with [[s:Korean Armistice Agreement|an armistice]] signed on July 27, 1953. The conflict arose from the division of Korea by the UN and the attempts of the two Korean powers to reunify [[Korea]] under their respective governments. The division led to full scale civil war with a cost of more than 2 million civilians and soldiers from both sides. The period immediately before the war was marked by escalating border conflicts at the [[38th parallel north|38th parallel]] and attempts to negotiate elections for the entirety of Korea.<ref name="TruceTent">{{Cite book| last =Hermes, Jr. | first =Walter | title =Truce Tent and Fighting Front | publisher = [[United States Army Center of Military History]] |year=1992| origyear = 1966| id = CMH Pub 20-3-1 | pages =2, 6, 9 | url = http://www.history.army.mil/books/korea/truce/fm.htm}}</ref>
+
+These negotiations ended when the [[military of North Korea]] invaded the South on June 25, 1950. Under the aegis of the [[United Nations]], nations allied with the [[United States]] intervened on behalf of South Korea. After rapid advances in a South Korean counterattack, North-allied [[People's Republic of China|Chinese]] forces intervened on behalf of North Korea, shifting the balance of the war and ultimately leading to an armistice that approximately restored the original boundaries between North and South Korea.
+
+While some have referred to the conflict as a civil war, there were many other factors at play.<ref name="AMH">{{Cite book| chapter = The Korean War, 1950–1953 | url = http://www.history.army.mil/books/AMH-V2/AMH%20V2/ | chapterurl = http://www.history.army.mil/books/AMH-V2/AMH%20V2/chapter8.htm | title = American Military History, Volume 2 | year = 2005 | accessdate = 2007-08-20 | publisher = [[United States Army Center of Military History]]| editor = Richard W. Stewart | id = CMH Pub 30-22}}</ref> The Korean War was also the first armed confrontation of the [[Cold War]] and set the standard for many later conflicts. It created the idea of a [[proxy war]], where the two [[superpower]]s would fight in another country, forcing the people in that nation to suffer the bulk of the destruction and death involved in a war between such large nations. The superpowers avoided [[Limited war|descending into an all-out war]] with one another, as well as the mutual use of [[nuclear weapons]]. It also expanded the Cold War, which to that point had mostly been concerned with Europe. A heavily guarded [[Korean Demilitarized Zone|demilitarized zone]] on the 38th parallel continues to divide the peninsula today with anti-Communist and anti-North Korea sentiment still remaining in South Korea.
+
+[[File:Korean Armistice Agreement.JPG|thumb|right|Korean War Armistice Agreement]]
+
+Since the Armistice in 1953, the relations between the North Korean government and South Korea, the European Union, Canada, the United States, and Japan have remained tense and hostile incidents occur frequently.<ref>Casey, Steven (2008). ''Selling the Korean War: propaganda, politics, and public opinion in the United States, 1950–1953.'' Oxford University Press US. ISBN 978-0195306927.</ref>{{Page needed|date=September 2010}} Both North and South Korea signed the [[June 15th North-South Joint Declaration]] in 2000, in which both sides made promises to seek out a peaceful reunification.<ref>{{cite web|url=http://www.kcckp.net/en/one/nation.php?1+joint |title=North-South Joint Declaration |accessdate=2007-08-01 |date=2000-06-15 |work=[[Naenara]] }}</ref> Additionally, on October 4, 2007, the leaders of North and South Korea pledged to hold summit talks to officially declare the war over and reaffirmed the principle of mutual non-aggression.<ref name=autogenerated3>{{Cite news|url=http://uk.reuters.com/article/worldNews/idUKSEO16392220071004 |title=Factbox - North, South Korea pledge peace, prosperity |accessdate=2007-10-04 |author=Reuters | date=2007-10-04}}</ref>
+
+=== Late 20th century ===
+{{Main|Korean Demilitarized Zone}}
+The relative peace between the south and the north was punctuated by border skirmishes and assassination attempts. The North failed in several assassination attempts on South Korean leaders, most notably in 1968, 1974 and the [[Rangoon bombing]] in 1983; tunnels were frequently found under the DMZ and war nearly broke out over the [[Axe Murder Incident]] at [[Panmunjeom]] in 1976.<ref>Kirkbride, Wayne (1984). ''DMZ, a story of the Panmunjom axe murder.'' Hollym International Corp.</ref> In 1973, extremely secret, high-level contacts began to be conducted through the offices of the [[Red Cross]], but ended after the Panmunjeom incident with little progress having been made and the idea that the two Koreas would join international organisations separately.<ref>Bandow, Doug; Carpenter, Ted Galen (1992). ''The U.S.-South Korean alliance: time for a change.'' Transaction Publishers. p.98–99. ISBN 978-1560005834.</ref>
+
+In the late 1990s, with the South having transitioned to [[liberal democracy]], the success of the [[Nordpolitik]] policy, and power in the North having been taken up by Kim Il-sung's son [[Kim Jong-il]], the two nations began to engage publicly for the first time, with the South declaring its [[Sunshine Policy]].<ref>Kwak, Tae-Hwan; Joo, Seung-Ho (2003). ''The Korean peace process and the four powers.'' Ashgate Publishing, Ltd. ISBN 978-0754636533.</ref><ref>DeRouen, Karl; Heo, Uk (2005). ''Defense and Security: A Compendium of National Armed Forces and Security Policies.'' ABC-CLIO.</ref>
+
+[[File:DPRK Soldier.JPG|thumb|left|DPRK soldier pointing to the DMZ]]
+
+=== 21st century ===
+{{Globalize/USA|date=November 2010}}
+In 2002, United States president [[George W. Bush]] labeled North Korea part of an "[[axis of evil]]" and an "[[outposts of tyranny|outpost of tyranny]]". The highest-level contact the government has had with the United States was with [[United States Secretary of State|U.S. Secretary of State]] [[Madeleine Albright]], who made a visit to Pyongyang in 2000,<ref>{{cite web|url=http://www.pbs.org/wgbh/pages/frontline/shows/clinton/interviews/albright.html |title=Interview - Madeleine Albright |accessdate=2007-08-11 |author=Bury, Chris |month=November | year=2000 |work=[[Nightline (US news program)|Nightline]] [[Frontline (US TV series)|Frontline]], on [[Public Broadcasting Service|PBS]].org }}</ref> but the two countries do not have formal diplomatic relations.<ref name="cia-kn">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/geos/kn.html#Econ |title=Korea, North |accessdate=2010-05-17 |year=2009 | work=The World Factbook}}</ref> By 2006, approximately 37,000 American soldiers remained in South Korea, although by June 2009 this number had fallen to around 30,000.<ref>{{Cite news|url=http://www.telegraph.co.uk/news/worldnews/asia/northkorea/5397767/South-Korea-and-US-troops-raise-alert-level-over-North-Korean-threat.html |title=South Korean and US Troops raise alert level over North Korean Threat |accessdate=2009-07-06 |author=Malcom Moore |date=2009-05-28|work=[[Telegraph]] Online | location=London}}</ref><ref>{{cite web|url=http://english.people.com.cn/200501/13/eng20050113_170566.html |title=S. Korea to cut 40,000 troops by 2008 |accessdate=2007-08-01 |author=Xinhua |date=2005-01-13 |work=[[People's Daily]] Online}}</ref> Kim Jong-il has privately stated his acceptance of U.S. troops on the peninsula, even after a possible [[Korean reunification|reunification]].<ref name="wpost">{{Cite news|url=http://www.washingtonpost.com/wp-dyn/content/discussion/2005/07/27/DI2005072701759.html |title=North Korea: Six-Party Talks Continue |accessdate=2007-08-01 |author=Oberdorfer, Don |date=2005-07-28 |work=[[The Washington Post]] Online }}</ref> Publicly, North Korea strongly demands the removal of American troops from Korea.<ref name="wpost" />
+
+On June 13, 2009, the [[Associated Press]] reported that in response to new UN sanctions, North Korea declared it would progress with its [[uranium enrichment]] program. This marked the first time the DPRK has publicly acknowledged that it is conducting a uranium enrichment program.<ref>{{Cite news|url=http://news.aol.com/article/north-korea-nuclear-program/506625 | title=North Korea Vows Nuclear Step-Up |accessdate=2009-06-14 |author=Kim, Kwang-Tae |date=2009-06-13 |agency=Associated Press }} {{Dead link|date=September 2010|bot=H3llBot}}</ref> In August 2009, former US president [[Bill Clinton]] met with Kim Jong-il to secure the release of 2 US journalists, who had been sentenced for entering the country illegally.<ref>{{Cite news|url=http://www.cnn.com/2009/WORLD/asiapcf/08/04/nkorea.clinton/index.html |title=U.S. journalists head home from North Korea |publisher=CNN.com |date= 2009-08-05|accessdate=2010-01-02}}</ref> Current U.S. President [[Barack Obama]]'s position towards North Korea has been to remain calm in the face of North Korea's provocations while resisting making deals with North Korea merely for the sake of defusing tension, a policy known as "strategic patience."<ref>{{Cite news|url=http://www.foreignaffairs.com/articles/66581/sung-yoon-lee/the-pyongyang-playbook | title=The Pyongyang Playbook |accessdate=2010-11-06 |author=Lee, Sung-Yoon|date=2010-08-26|work =[[Foreign Policy]]}}</ref>
+
+On November 23, 2010, North Korea fired about 170 rounds of artillery on [[Yeonpyeong Island]] and the surrounding waters near the Yellow Sea border, with some 90 shells landing on the island - see [[Bombardment of Yeonpyeong]]. The attack resulted in the deaths of two marines and two civilians on the South Korean side, and fifteen marines and at least three civilians wounded. <ref>{{Cite news|url=http://english.yonhapnews.co.kr/national/2010/11/24/86/0301000000AEN20101124012200315F.HTML | title=S. Korea to toughen rules of engagement against N. Korean attack |accessdate=2010-11-24 |author=Kim Deok-hyun|date=2010-11-24 }}</ref> The South fired back 80 shells, with unknown effects. 
+North Korean news sources alleged that the North Korean actions, described as "a prompt and powerful physical strike", were in response to provocation from South Korea that had held an artillery exercise in the disputed waters south of the island.<ref>{{Cite news|url=http://175.45.179.68/English/Today/news13.htm | title=Lee Myung Bak Group Accused of Scuttling Dialogue and Humanitarian Work | accessdate=2010-11-24 | author=Korean Central News Agency }}</ref>
+
+Former US President [[Jimmy Carter]] made a call for a peaceful solution of this crisis.<ref>{{cite web |url=http://www.washingtonpost.com/wp-dyn/content/article/2010/11/23/AR2010112305808.html  |title=North Korea's consistent message to the U.S. |author=[[Jimmy Carter|Carter, Jimmy]] |date=November 24, 2010 |work=[[The Washington Post]]  |publisher= |accessdate=November 24, 2010}}</ref>
+
+== Geography ==
+{{Main|Geography of North Korea}}
+[[File:PaektuDPRK.jpg|thumb|left|250px|Lake [[Heaven Lake|Ch'ŏnji]] at [[Mount Paektu]], North Korea's highest point]]
+North Korea occupies the northern portion of the [[Korean Peninsula]], lying between latitudes [[37th parallel north|37°]] and [[43rd parallel north|43°N]], and longitudes [[124th meridian east|124°]] and [[131st meridian east|131°E]]. It covers an area of {{convert|120540|km2|sqmi|0}}. North Korea shares land borders with People's Republic of China and Russia to the north, and borders South Korea along the [[Korean Demilitarized Zone]]. To its west are the [[Yellow Sea]] and [[Korea Bay]], and to its east lies Japan across the [[Sea of Japan]] (East Sea of Korea). The highest point in North Korea is [[Baekdu Mountain|Paektu-san Mountain]] at {{convert|2744|m|ft|0}}. The longest river is the Amnok River which flows for {{convert|790|km|mi|0}}.<ref>{{cite web|url=http://www.koreanhistoryproject.org/Jta/Kr/KrGEO0.htm |title=Korea Geography |accessdate=2007-08-01 |author=Caraway, Bill |year=2007 |work=The Korean History Project }}</ref>
+
+[[File:North Korea Topography.png|thumb|250px|right|Topography of North Korea.]]
+
+The capital and largest city is [[Pyongyang]]; other major cities include [[Kaesong]] in the south, [[Sinuiju]] in the northwest, [[Wonsan]] and [[Hamhung]] in the east and [[Chongjin]] in the northeast.
+
+=== Topography ===
+{{See|Korean Peninsula}}
+Early [[Europe]]an visitors to Korea remarked that the country resembled "a sea in a heavy gale" because of the many successive [[mountain range]]s that crisscross the peninsula.<ref name="Topography">{{cite web|url=http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0030)|title=Topography and Drainage|publisher=Library of Congress|accessdate=2009-08-17|date=1993-06-01}}</ref> Some 80% of North Korea is composed of [[mountain]]s and [[Highland (geography)|uplands]], separated by deep and narrow [[valley]]s, with all of the peninsula's mountains with elevations of {{convert|2000|m|ft|spell=us}} or more located in North Korea. The coastal [[plain]]s are wide in the west and discontinuous in the east. A great majority of the population lives in the plains and [[lowland]]s.
+
+The highest point in North Korea is [[Baekdu Mountain]] which is a [[volcano|volcanic mountain]] near the Chinese border with [[basalt]] [[lava]] [[plateau]] with elevations between {{convert|1400|and|2000|m|ft|spell=us}} above sea level.<ref name="Topography" /> The [[Hamgyong Range]], located in the extreme northeastern part of the peninsula, has many high peaks including [[Gwanmosan]] at approximately {{convert|1756|m|0|abbr=on}}.
+
+Other major ranges include the [[Rangrim Mountains]], which are located in the north-central part of North Korea and run in a north-south direction, making communication between the eastern and western parts of the country rather difficult; and the [[Kangnam Mountains|Kangnam]] Range, which runs along the North Korea–China border. [[Geumgangsan]], often written Mt Kumgang, or Diamond Mountain, (approximately {{convert|1638|m|ft|disp=or}}) in the [[Taebaek Mountains|Taebaek Range]], which extends into South Korea, is famous for its scenic beauty.<ref name="Topography" />
+
+For the most part, the plains are small. The most extensive are the [[Pyongyang]] and [[Chaeryong]] plains, each covering about {{convert|500|km2|sqmi|spell=us}}. Because the mountains on the east coast drop abruptly to the sea, the plains are even smaller there than on the west coast. Unlike neighboring Japan or northern China, North Korea experiences few severe [[earthquake]]s.
+
+=== Climate ===
+{{Main|Climate of North Korea}}
+North Korea has a [[continental climate]] with four distinct seasons.<ref name="climate">{{cite web|url=http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0031) |title=North Korea Country Studies. Climate |publisher=Lcweb2.loc.gov |date= |accessdate=2010-06-23}}</ref> Long winters bring bitter cold and clear weather interspersed with snow storms as a result of northern and northwestern winds that blow from [[Siberia]]. Average snowfall is 37 days during the winter. The weather is likely to be particularly harsh in the northern, mountainous regions.
+
+Summer tends to be short, hot, humid, and rainy because of the southern and southeastern [[monsoon]] winds that bring moist air from the [[Pacific Ocean]]. Typhoons affect the peninsula on an average of at least once every summer.<ref name="climate" /> Spring and autumn are transitional seasons marked by mild temperatures and variable winds and bring the most pleasant weather. Natural hazards include late spring droughts which often are followed by severe flooding. There are occasional [[typhoon]]s during the early fall.
+
+North Korea's climate is relatively [[temperate]]. Most of the country is classified as type ''Dwa'' in the [[Köppen climate classification]] scheme, with warm summers and cold, dry winters. In summer there is a short rainy season called ''changma''.<ref>{{cite web|url=http://countrystudies.us/north-korea/21.htm |title=North Korea - Climate |accessdate=2007-08-01 |author=[[Federal Research Division]] of the US [[Library of Congress]] |year=2007 |work=Country Studies }}</ref> On August 7, 2007, the most devastating [[2007 North Korea flooding|floods]] in 40 years caused the North Korean government to ask for international help. [[NGO]]s, such as the [[Red Cross]], asked people to raise funds because they feared a humanitarian catastrophe.<ref>{{cite web|url=http://www.ifrc.org/Docs/News/pr07/4607.asp |title="Emergency appeal for DPRK flood survivors", website of the Red Cross |publisher=Ifrc.org |date=2007-08-20 |accessdate=2010-06-23}}</ref>
+
+== Administrative divisions ==
+{{Main|Administrative divisions of North Korea}}
+{{See also|Provinces of Korea|Special cities of Korea|List of cities in North Korea}}
+[[File:Provinces of North Korea New.PNG|thumb|left|250px|Principal divisions of North Korea]]
+[[File:Korea, North-CIA WFB Map.png|thumb|right|250px|right|Major North Korean cities.]]
+
+<div class="center">
+{| class="wikitable"
+|-
+! !! Name<sup>a</sup> !! Chosŏn'gŭl !! Hanja
+|-
+!colspan="4"| Directly governed cities (''Chikhalsi'')<sup>a</sup>
+|-
+| 1 || [[Pyongyang|Pyongyang (National Capital)]] ||평양직할시|| 平壤直轄市
+|-
+| 2 || [[Rason]] ||라선직할시|| 羅先直轄市
+|-
+!colspan="32"| Special Administrative Regions (''T'ŭkpyŏl Haengjŏnggu'')<sup>a</sup>
+|-
+| 3 || [[Kaesong Industrial Region]] ||개성공업지구|| 開城工業地區
+|-
+| 4 || [[Kumgangsan Tourist Region]] ||금강산관광지구|| 金剛山觀光地區
+|-
+| 5 || [[Sinuiju Special Administrative Region]] ||신의주특별행정구|| 新義州特別行政區
+|-
+!colspan="4"| Provinces (''do'')<sup>a</sup>
+|-
+| 6 || [[Chagang]] ||자강도||慈江道
+|-
+| 7 || [[North Pyongan]] ||평안북도||平安北道
+|-
+| 8 || [[South Pyongan]] ||평안남도||平安南道
+|-
+| 9 || [[South Hwanghae]] ||황해남도||黃海南道
+|-
+| 10 || [[North Hwanghae]] ||황해북도||黃海北道
+|-
+| 11 || [[Kangwon-do (North Korea)|Kangwon]] ||강원도||江原道
+|-
+| 12 || [[South Hamgyong]] ||함경남도||咸鏡南道
+|-
+| 13 || [[North Hamgyong]] ||함경북도||咸鏡北道
+|-
+| 14 || [[Ryanggang]] <cite id = "Ad_1></cite>[[#Ad 2|*]] ||량강도||兩江道
+|-
+| colspan="4"|<cite id="Ad_2></cite>[[#Ad 1|*]] – Rendered in [[North-South differences in the Korean language|Southern dialects]] as "Yanggang" (양강도).
+|}
+</div>
+
+=== Major cities ===
+{{Columns
+| col1 =
+* [[Pyongyang]]
+* [[Hamhung]]
+* [[Chongjin]]
+* [[Nampo]]
+* [[Sinuiju]]
+* [[Wonsan]]
+* [[Pyongsong]]
+* [[Sariwon]]
+| col2 =
+* [[Anju (city)|Anju]]
+* [[Haeju]]
+* [[Kanggye]]
+* [[Kimchaek]]
+* [[Hyesan]]
+* [[Kaesong]]
+* [[Songrim]]
+* [[Hoeryong]]
+}}
+
+== Culture and arts ==
+{{Main|Culture of North Korea|Culture of Korea|National Treasures of North Korea}}
+[[File:North Korea-Pyongyang-Arirang Mass Games-01 (1).jpg|thumb|right|Scene from the [[Arirang Festival|Mass Games]]]]
+[[File:Kimchek-univ e-library1.jpg|thumb|left|upright|Kimchaek University e-Library in [[Pyongyang]]]]
+[[File:An3 man.jpg|thumb|right|A drawing in one of the chambers of the [[Complex of Goguryeo Tombs|Goguryeo tombs]].]]
+North Korea shares its traditional culture with [[South Korea]], but the two Koreas have developed distinct contemporary forms of culture since the peninsula was divided in 1945. Historically, while the culture of Korea has been influenced by that of neighbouring China, it has nevertheless managed to develop a unique and distinct cultural identity from its larger neighbour.<ref name="Fairbank et al.">{{Cite book|author=John K. Fairbank, Edwin O. Reischauer & Albert M. Craig|title=East Asia: Tradition & Transformation|publisher=Houghton Mifflin Company, Boston|year=1978|isbn=039525812X}}</ref>
+
+Literature and arts in North Korea are state-controlled, mostly through the Propaganda and Agitation Department or the Culture and Arts Department of the Central Committee of the KWP.<ref>[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0051) North Korea - Contemporary Cultural Expression], Country Studies.</ref>
+
+Korean culture came under attack during the [[Korea under Japanese rule|Japanese rule]] from 1910 to 1945. Japan enforced a [[cultural assimilation]] policy. During the Japanese rule, Koreans were encouraged to learn and speak Japanese, adopt the Japanese family name system and [[Shinto]] religion, and forbidden to write or speak the Korean language in schools, businesses, or public places.<ref>{{Cite book| url=http://memory.loc.gov/frd/cs/kptoc.html | chapter=The Rise of Korean Nationalism and Communism | first=Bruce G. | last=Cumings | title=A Country Study: North Korea | publisher=Library of Congress | id=Call number DS932 .N662 1994}}</ref> In addition, the Japanese altered or destroyed various Korean monuments including [[Gyeongbokgung|Gyeongbok Palace]] and documents which portrayed the Japanese in a negative light were revised.
+
+In July 2004, the [[Complex of Goguryeo Tombs]] became the first site in the country to be included in the [[UNESCO]] list of [[World Heritage Site]]s.
+
+In February 2008, The [[New York Philharmonic Orchestra]] became the first US orchestra to perform in North Korea,<ref>{{Cite news|url=http://www.cnn.com/2008/WORLD/asiapcf/02/26/nyphilharmonic.nkorea/index.html |title=Americans in Pyongyang Perform |accessdate=2008-02-26 |author=CNN | archiveurl = http://web.archive.org/web/20080227042528/http://www.cnn.com/2008/WORLD/asiapcf/02/26/nyphilharmonic.nkorea/index.html| archivedate = February 27, 2008}}</ref> albeit for a handpicked "invited audience."<ref>{{cite web|url=http://www.huffingtonpost.com/ben-rosen/letter-from-north-korea-_b_88413.html |title=Letter From North Korea -- Update |accessdate=2008-12-01 |author=Ben Rosen}}</ref> The concert was broadcast on national television.<ref>.[http://uk.reuters.com/article/worldNews/idUKSEO3031620080226 Musical diplomacy as New York Phil plays Pyongyang], Reuters, 26 february 2008</ref> The American Christian band Casting Crowns were previously invited to perform at the annual Spring Friendship Arts Festival in April 2007, held in Pyongyang.<ref>{{Cite news|url=http://www.cmspin.com/newsmanager/anmviewer.asp?a=4222&z=26 |title=Casting Crowns Performs in North Korea |accessdate=2010-11-16 |author=CMSpin}}</ref>
+
+A popular event in North Korea is the [[Mass Games]]. The most recent and largest Mass Games was called "[[Arirang Festival|Arirang]]". It was performed six nights a week for two months, and involved over 100,000 performers. Attendees to this event in recent years report that the anti-West sentiments have been toned down compared to previous performances. The Mass Games involve performances of dance, gymnastics, and [[choreography|choreographic]] routines which celebrate the history of North Korea and the Workers' Party Revolution. The Mass Games are held in Pyongyang at various venues (varying according to the scale of the Games in a particular year) including the [[Rungrado May Day Stadium]], which is the largest stadium in the world with a capacity of 150,000 people.
+
+== Government and politics ==
+{{Main|Government of North Korea|Politics of North Korea}}
+[[File:Juche Tower.jpg|thumb|180px|right|The [[Juche Tower]] ('Tower of [[Juche]] Idea').]]
+North Korea is a self-described ''[[Juche]]'' (self-reliant) state,<ref>{{cite web
+| url=http://www.korea-dpr.com/faq.htm#18
+| title=18. Is North Korea a 'Stalinist' state?
+| accessdate=2007-10-31
+| last=
+| first=
+| authorlink=
+| date=2005-05-05
+| work=DPRK FAQ; Document approved by Zo Sun Il
+| publisher=Official Webpages of the Democratic People's Republic of Korea
+}}</ref> described by some observers as a "hereditary dictatorship"<ref>{{Cite news|url=http://www.timesonline.co.uk/tol/news/world/asia/article2452356.ece|title=A tale of two dictatorships: The links between North Korea and Syria|last=Sheridan|first=Michael|date=16 September 2007|work=[[The Times]]|accessdate=2010-04-09 | location=London}}</ref> with a pronounced [[cult of personality]] organized around [[Kim Il-sung]] (the founder of North Korea and the country's only [[president]]) and his son and heir, [[Kim Jong-il]]. Following Kim Il-sung's death in 1994, he was not replaced but instead received the designation of "[[Eternal President of the Republic|Eternal President]]", and was entombed in the vast [[Kumsusan Memorial Palace]] in central Pyongyang.{{Citation needed|date=November 2010}}
+
+Although the office of the president is ceremonially held by the deceased Kim Il-sung,<ref name="hitchens07">{{Cite news|url=http://www.slate.com/id/2180464/|title=Why has the Bush administration lost interest in North Korea?|last=Hitchens|first=Christopher|date=December 24, 2007|work=[[Slate (magazine)|Slate]]|accessdate=2010-04-09}}</ref><ref>{{cite web|url=http://www.ansa.it/ansalatina/notizie/fdg/200909281404357105/200909281404357105.html |title=Ansa.it |publisher=Ansa.it |date=2009-09-28 |accessdate=2010-03-11}} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref>{{cite web|url=http://www1.korea-np.co.jp/pk/061st_issue/98091708.htm |title=DPRK's Socialist Constitution (Full Text) |accessdate=2007-08-01 |author=10th [[Supreme People's Assembly]]. |date=1998-09-15 |work=The People's Korea }}</ref> the [[de facto]] head of state is Kim Jong-il, who is [[Chairman of the National Defence Commission of North Korea]]. The legislature of North Korea is the [[Supreme People's Assembly]], currently led by President [[Kim Yong-nam]]. The other senior government figure is [[List of Premiers of North Korea|Premier]] [[Choe Yong-rim]].
+
+The structure of the government is described in the [[s:Constitution of North Korea (1972)|Constitution of North Korea]]. It is a [[single-party state]]. The governing party is the [[Democratic Front for the Reunification of the Fatherland]], a coalition of the [[Workers' Party of Korea]] and two other smaller parties, the [[Korean Social Democratic Party]] and the [[Chondoist Chongu Party]]. These parties nominate all candidates for office and hold all seats in the Supreme People's Assembly.
+
+In June 2009, it was reported in South Korean media that intelligence indicates the country's next leader will be [[Kim Jong-un]], the youngest of Kim Jong-il's three sons.<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/8078324.stm|title=N Korea 'names Kim's successor' |date=2009-06-02|publisher=BBC|accessdate=2009-06-02}}</ref>{{Update after|2010|11}}
+
+=== Foreign relations ===
+{{Main|Foreign relations of North Korea}}
+
+[[File:Vladimir Putin with Kim Jong-Il-4.jpg|thumb|230px|right|[[Kim Jong-il]] and [[Vladimir Putin]] in 2002.]]
+North Korea has long maintained close relations with the People's Republic of China and Russia. The [[Revolutions of 1989|fall of communism]] in eastern Europe in 1989, and the disintegration of the Soviet Union in 1991, resulted in a devastating drop in aid to North Korea from Russia, although China continues to provide substantial assistance. North Korea continues to have strong ties with its [[socialism|socialist]] southeast Asian allies in [[Vietnam]] and [[Laos]], as well as with [[Cambodia]].<ref>{{cite web|url=http://www1.korea-np.co.jp/pk/165th_issue/2001072510.htm |title=Kim Yong Nam Visits 3 ASEAN Nations To Strengthen Traditional Ties |accessdate=2007-08-01 |year=2001 |work=The People's Korea }}</ref>
+North Korea has started installing a [[Chinese–Korean border fence|concrete and barbed wire fence]] on its northern border, in response to China's wish to curb refugees fleeing from North Korea. Previously the border between China and North Korea had only been lightly patrolled.<ref>{{Cite news|url=http://chron.com/disp/story.mpl/front/5084232.html{{Dead link|date=July 2009}}|title=Report: N. Korea building fence to keep people in|publisher=The Houston Chronicle|accessdate=2009-07-04}} {{Dead link|date=September 2010|bot=H3llBot}}</ref>
+
+As a result of the [[North Korea and weapons of mass destruction|North Korean nuclear weapons program]], the [[Six-party talks]] were established to find a peaceful solution to the growing tension between the two Korean governments, the Russian Federation, the People's Republic of China, Japan, and the United States.
+
+On July 17, 2007, United Nations inspectors verified the shutdown of five North Korean nuclear facilities, according to the February 2007 agreement.<ref>{{Cite news|url=http://www.cnn.com/2007/WORLD/asiapcf/07/18/nkorea.iaea/index.html |title=U.N. verifies closure of North Korean nuclear facilities |accessdate=2007-07-18 |author=CNN | date=2007-07-18}}</ref>
+
+On October 4, 2007, South Korean President Roh Moo-Hyun and North Korean leader Kim Jong-il signed an 8-point peace agreement, on issues of permanent peace, high-level talks, economic cooperation, renewal of train, highway and air travel, and a joint Olympic cheering squad.<ref name=autogenerated3 />
+
+The United States and South Korea previously designated the North as a [[state sponsored terrorism|state sponsor of terrorism]].<ref>{{cite web| url=http://www.state.gov/s/ct/rls/crt/2007/103711.htm | title=Country Reports on Terrorism: Chapter 3 -- State Sponsors of Terrorism Overview | author=Office of the Coordinator for Counterterrorism | accessdate=2008-06-26}}</ref> The [[Rangoon bombing|1983 bombing that killed members of the South Korean government]] and the [[Korean Air Flight 858|destruction of a South Korean airliner]] have been attributed to North Korea.<ref>{{Cite news|url=http://www.washingtonpost.com/wp-srv/world/countries/korea.html |title=Country Guide|accessdate=2008-06-26|author=Washington Post | work=The Washington Post}}</ref> North Korea has also admitted responsibility for the kidnapping of 13 Japanese citizens in the 1970s and 1980s, five of whom were returned to Japan in 2002.<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/5074234.stm |title=N Korea to face Japan sanctions |accessdate=2008-06-26|author=BBC | date=2006-06-13 | work=BBC News}}</ref> On October 11, 2008, the United States removed North Korea from its list of states that sponsor terrorism.<ref>{{Cite news| url = http://www.cnn.com/2008/WORLD/asiapcf/10/11/us.north.korea/index.html | title = U.S. takes North Korea off terror list | publisher = CNN | date = 2008-10-11 | accessdate = 2008-10-11}}</ref>
+
+As of early 2009, relationships between North and South Korea were very tense; North Korea had been reported to have deployed missiles,<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/7905361.stm|title=North Korea deploying more missiles|publisher=BBC News|date=23 February 2009}}</ref> ended its former agreements with South Korea,<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/7859671.stm|title=North Korea tears up agreements|publisher=BBC News|date=30 January 2009|accessdate=2009-03-08}}</ref> and threatened South Korea and the United States not to interfere with a satellite launch it had planned.<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/7931670.stm|publisher=BBC News|date=3 March 2009|accessdate=2009-03-08|title=North Korea warning over satellite}}</ref>
+North and South Korea are still technically at war (having never signed a peace treaty after the Korean War) and share the world’s most heavily fortified border.<ref name=border>{{Cite news|url=http://edition.cnn.com/2004/WORLD/asiapcf/06/03/koreas.agree/index.html|title= Koreas agree to military hotline - Jun 4, 2004|publisher=Edition.cnn.com|date=2004-06-04|accessdate=2010-02-18}}</ref> On May 27, 2009, North Korean media declared that the [[s:Korean Armistice Agreement|Korean Armistice]] is no longer valid due to the South Korean government's pledge to "definitely join" the [[Proliferation Security Initiative]].{{Citation needed|date=November 2010}} To further complicate and intensify strains between the two nations, the [[ROKS Cheonan sinking|sinking of the South Korean warship ''Cheonan'']] in March 2010, killing 46 seamen, is as of May 20, 2010 claimed by a multi-national research team<ref>{{Cite news| url=http://news.bbc.co.uk/2/hi/world/asia_pacific/10131683.stm | work=BBC News | title=Anger at North Korea over sinking | date=2010-05-20 | accessdate=2010-05-23}}</ref> to have been caused by a North Korean torpedo, which the North denies. South Korea agreed with the findings from the research group and President Lee Myung-bak declared in May 2010 that Seoul would cut all trade with North Korea as part of measures primarily aimed at striking back at North Korea diplomatically and financially.<ref>[http://apnews.myway.com/article/20100524/D9FT51NG0.html Clinton: Koreas security situation 'precarious'], by Matthew Lee, Associated Press, 24-05-2010</ref> As a result of this, North Korea severed all ties, completely abrogated the previous pact of non aggression and expelled all South Koreans from [[Kaesong Industrial Region|a joint industrial zone in Kaesong]].<ref>[http://www.reuters.com/article/idUSTRE64O3YU20100525 Text from North Korea statement], by Jonathan Thatcher, Reuters, 25-05-2010</ref>
+
+Most of the foreign embassies connecting with diplomatic ties to North Korea are situated in Beijing rather than Pyongyang.<ref>{{cite web |url=http://app.yonhapnews.co.kr/YNA/Basic/article/search/YIBW_showSearchArticle.aspx?searchpart=article&searchtext=%E5%8C%97%20%EC%88%98%EA%B5%90%EA%B5%AD%20%EC%83%81%EC%A3%BC%EA%B3%B5%EA%B4%80&contents_id=AKR20090302193700083 |title=北 수교국 상주공관, 평양보다 베이징에 많아 |accessdate=2010-12-13 |date=2009-03-02 |work=[[Yonhap News]]}}</ref>
+
+== Military ==
+{{Main|Korean People's Army}}
+{{See also|North Korea and weapons of mass destruction}}
+[[File:JointSecurityAreaNorthKoreans.jpg|thumb|Korean People's Army soldiers observing the South Korean side of the DMZ]]
+
+The [[Korean People's Army]] (KPA) is the name for the collective armed personnel of the North Korean military. It has five branches: [[North Korean Ground Force|Ground Force]], [[Korean People's Army Navy|Naval Force]], [[Korean People's Army Air Force|Air Force]], [[North Korean Special Operation Force|Special Operations Force]], and [[Artillery Guidance Bureau|Rocket Force]]. According to the [[United States Department of State|U.S. Department of State]], North Korea has the [[List of countries by number of troops|fourth-largest]] [[army]] in the world, at an estimated 1.21 million armed personnel, with about 20% of men aged 17–54 in the regular armed forces.<ref name="bgn">{{cite web|url=http://www.state.gov/r/pa/ei/bgn/2792.htm |title=Background Note: North Korea |accessdate=2007-08-01 |author=[[Bureau of East Asian and Pacific Affairs]] |month=April | year=2007 |work=[[United States Department of State]] }}</ref> North Korea has the highest percentage of military personnel per capita of any nation in the world, with approximately 1 enlisted soldier for every 25 citizens.<ref>{{cite web|url=http://www.nationmaster.com/graph/mil_arm_per_percap-military-army-personnel-per-capita |title=Army personnel (per capita) by country |accessdate=2007-08-01 |year=2007 |work=NationMaster }}</ref>
+
+[[File:SPG M-1978 KOKSAN.JPG|thumb|left|200px|[[Koksan]], one of North Korea's principal heavy artillery pieces. This example was captured in Iraq.]]
+
+Military strategy is designed for insertion of agents and sabotage behind enemy lines in wartime,<ref name="bgn" /> with much of the KPA's forces deployed along the heavily fortified [[Korean Demilitarized Zone]]. The Korean People's Army operates a very large amount of equipment, including 4,060 [[tank]]s, 2,500 [[Armoured personnel carrier|APCs]], 17,900 [[artillery]] pieces, 11,000 air defence guns and some 10,000 [[MANPADS]] and [[anti-tank guided missile]]s<ref>[http://www.soldiering.ru/country/guide2003/army-09.php Армии стран мира : К], soldiering.ru</ref> in the Ground force; at least 915 vessels in the Navy and 1,748 aircraft in the Air Force,<ref>[http://lcweb2.loc.gov/frd/cs/profiles/North_Korea.pdf Library of Congress country study], see p. 19 - Major Military Equipment</ref> of which 478 are fighters and 180 are bombers.<ref>[http://www.milaviapress.com/orbat/northkorea/index.php Order of Battle - North Korea], MilAviaPress</ref> The equipment is a mixture of World War II vintage vehicles and small arms, widely proliferated Cold War technology, and more modern Soviet or locally produced weapons. In line with its [[asymetric warfare]] strategy, North Korea has also developed a wide range of unconventional techniques and equipment, such as [[GPS]] jammers,<ref>[http://www.globalsecurity.org/wmd/library/news/dprk/2010/dprk-101007-voa01.htm North Korea Appears Capable of Jamming GPS Receivers], globalsecurity.org, 7 October 2010</ref> [[stealth]] paint,<ref>[http://www.telegraph.co.uk/news/worldnews/asia/northkorea/7960218/North-Korea-develops-stealth-paint-to-camouflage-fighter-jets.html North Korea 'develops stealth paint to camouflage fighter jets'], The Daily Telegraph, 23 August 2010</ref> [[midget submarine]]s and [[human torpedo]]es,<ref>[http://www.dailynk.com/english/read.php?cataId=nk02500&num=6463   North Korea's Human Torpedoes], DailyNK, 06-05-2010</ref> a vast array of chemical and biological weapons,<ref>{{cite web| url = http://english.chosun.com/site/data/html_dir/2010/04/29/2010042901362.html | title = New Threat from N.Korea's 'Asymmetrical' Warfare | publisher = The Chosun Ilbo (English Edition) | work = English.chosun.com | date = 2010-04-29 | accessdate = 2010-12-13 }}</ref> and anti-personnel lasers.<ref>[http://edition.cnn.com/2010/WORLD/asiapcf/11/24/north.korea.capability/index.html North Korea's military aging but sizable], CNN, 25 November 2010</ref> According to official North Korean media, military expenditures for 2010 amount to 15.8% of the state budget.<ref name="kcna2010budget">{{cite web|title=Report on Implementation of 2009 Budget and 2010 Budget|url=http://kcna.co.jp/item/2010/201004/news09/20100409-10ee.html|publisher=[[Korean Central News Agency]]|date=09|month=04|year=2010}}</ref>
+
+North Korea has active nuclear and ballistic missile weapons programs and has been subject to United Nations Security Council resolutions [[United Nations Security Council Resolution 1695|1695]] of July 2006, [[United Nations Security Council Resolution 1718|1718]] of October 2006, and [[United Nations Security Council Resolution 1874|1874]] of June 2009, for carrying out both missile and nuclear tests. North Korea probably has fissile material for up to 9 nuclear weapons,<ref>[http://isis-online.org/mapproject/country_pages/northkorea.html ISIS Fast Facts on North Korea]. Retrieved 21 April 2009. {{Dead link|date=October 2010|bot=H3llBot}}</ref> and has the capability to deploy nuclear warheads on [[intermediate-range ballistic missile]]s.<ref>{{Cite news|url=http://www.timesonline.co.uk/tol/news/world/asia/article6155956.ece|title=North Korea is fully fledged [[nuclear powers|nuclear power]], experts agree|accessdate=2009-04-25 | work=The Times | location=London | date=2009-04-24}}</ref>
+
+== Economy ==
+{{Main|Economy of North Korea}}
+[[File:Korean peninsula at night.jpg|thumb|right|160px|An image of the Korean Peninsula at night rendered from [[Defense Meteorological Satellite Program|DMSP]] observations. The disparity in illumination levels is an indication of the difference in population and energy and economic development between the North and South.<ref>{{Cite news|last=Zeller Jr. | first=Tom | title=The Internet Black Hole That Is North Korea | publisher=The New York Times | date=October 23, 2006 | url=http://www.nytimes.com/2006/10/23/technology/23link.html | accessdate=December 26, 2008}}</ref><ref>{{Cite news| last=Powell | first=Bill | title=North Korea | publisher=[[Time (magazine)|Time]] | date=August 14, 2007 | url=http://www.time.com/time/topics/article/0,8599,1653050,00.html | accessdate=December 26, 2008}}</ref>]]
+[[File:Datongjiangfanchuan.JPG|200px|thumb|left|[[Pyongyang]] and the [[Taedong river]]]]
+
+North Korea has an industrialised, near-[[autarky|autarkic]], highly centralized [[command economy]]. Of the five remaining Communist states in the world, North Korea is one of only two (along with [[Cuba]]) with an almost entirely government-planned, state-owned economy. The Central Planning Committee prepares, supervises and implements economic plans, while a General Bureau of Provincial Industry in each region is responsible for the management of local manufacturing facilities, production, resource allocation and sales.<ref>[http://www.hartford-hwp.com/archives/55a/160.html Local factories in North Korea], Interview by staff reporter, Joon Ang Ilbo, taken from Tong-il Hankuk newspaper, 14 March 2002</ref>
+
+North Korea's isolation policy means that [[international trade]] is highly restricted. North Korea passed a law in 1984 allowing for foreign investment through joint ventures,<ref>http://www.jstor.org/pss/2644057</ref> but failed to attract any significant investment. In 1991, it established the [[Rajin-Sonbong Economic Special Zone|Rason Economic Special Zone]],<ref>{{cite web|url=http://www.nkeconwatch.com/2010/04/05/scott-snyder-on-rason/ |title=North Korean Economy Watch » Blog Archive » Scott Snyder on Rason |publisher=Nkeconwatch.com |date=2010-04-05 |accessdate=2010-06-23}}</ref> in an attempt to attract foreign investment from [[China]] and [[Russia]]. Chinese and Russian companies have purchased rights to use the ports at Rason. Chinese investors are renovating a road from Rason to China,<ref>{{cite web|url=http://www.nkeconwatch.com/2010/04/13/bridge-on-china-north-korea-border-being-renovated/ |title=North Korean Economy Watch » Blog Archive » Bridge on China-North Korea border being renovated |publisher=Nkeconwatch.com |date=2010-04-13 |accessdate=2010-06-23}}</ref> and Russian railway workers are renovating the railway from Rason to Russia, from where it continues onto the [[Trans-Siberian Railway]].<ref>{{cite web|url=http://www.nkeconwatch.com/2008/08/12/russia-inks-deal-connecting-rajin-to-trans-siberian-railroad/ |title=North Korean Economy Watch » Blog Archive » Russia inks deal connecting Rajin to Trans-Siberian Railroad |publisher=Nkeconwatch.com |date=2008-08-12 |accessdate=2010-06-23}}</ref>
+
+Until 1998, the United Nations published [[Human Development Index|HDI]] and [[GDP per capita]] figures for North Korea, which stood at a medium level of human development at 0.766 (ranked 75th) and a GDP per capita of $4,058.<ref name="hdr.undp.org">{{cite web|url=http://hdr.undp.org/en/reports/global/hdr1998/|title=Human Development Report 1998|year=1998|publisher=United Nations Development Programme|accessdate=2009-07-04}}</ref> The average salary is about $47 per month.<ref>[http://www.csmonitor.com/2004/1202/p11s01-trgn.html Welcome to North Korea. Rule No. 1: Obey all rules], Steve Knipp, Contributor to The Christian Science Monitor. December 2, 2004.</ref> Despite substantial economic problems, quality of life is improving and wages are rising steadily.<ref>{{Cite news|url=http://www.hani.co.kr/arti/english_edition/e_international/212761.html|title=<nowiki>[</nowiki>Feature<nowiki>]</nowiki> In reclusive North, signs of economic liberalization|last=Ryu|first=Yi-geun|coauthors=Daniel Rakove|date=2007-05-30|work=The Hankyoreh|publisher=The Hankyoreh Media Company|accessdate=2009-07-04}}</ref> Small-scale private markets, known as ''janmadang'', exist throughout the country and provide the population with imported food and commodities ranging from cosmetics to motorcycles in exchange for money.<ref>[http://www.dailynk.com/english/read.php?cataId=nk00400&num=2828 Jangmadang Will Prevent “Second Food Crisis” from Developing], DailyNK, 2007-10-26</ref><ref>[http://www.dailynk.com/english/read.php?cataId=nk00100&num=4409 2008 Top Items in the Jangmadang], The DailyNK, 1 January 2009</ref> In 2009, the government carried out a currency redenomination with the aim to curb free market activity across the country, but the attempt failed, causing [[inflation]] rates to skyrocket, and eventually led to the lifting of the ban on free market trade.<ref>[http://www.dailynk.com/english/read.php?cataId=nk00400&num=7084 Kim Jong Eun's Long-lasting Pain in the Neck], TheDailyNK, 30 November 2010</ref>
+
+Food rations, housing, healthcare, and education are offered from the state for free,<ref>{{cite web|url=http://lcweb2.loc.gov/frd/cs/profiles/North_Korea.pdf|title=COUNTRY PROFILE: NORTH KOREA |date=July 2007|publisher=Library of Congress – Federal Research Division|accessdate=2009-07-04}}</ref> and the payment of taxes has been abolished since April 1, 1974.<ref>{{cite web|url=http://www.globalsecurity.org/wmd/library/news/dprk/2006/dprk-060321-kcna03.htm |title=DPRK--Only Tax-free Country |accessdate=2009-06-19}}</ref> In order to increase productivity from agriculture and industry, since the 1960s the North Korean government has introduced a number of management systems such as the Taean work system.<ref>{{cite web|url=http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0072) |title=The Taean Work System |publisher=Lcweb2.loc.gov |date= |accessdate=2010-06-23}}</ref> In the 21st century, North Korea's [[GDP growth]] has been slow but steady, although in recent years, growth has gradually accelerated to 3.7% in 2008, the fastest pace in almost a decade, largely due to a sharp growth of 8.2% in the agricultural sector.<ref name="koreatimes.co.kr">{{cite web|url=http://koreatimes.co.kr/www/news/nation/2009/06/123_47603.html |title=NK's Economy Records 1st Growth in 3 Years |publisher=Koreatimes.co.kr |date=2009-06-28 |accessdate=2010-01-02}}</ref>
+
+{| class="wikitable"
+|+ GDP Growth by year<ref name="koreatimes.co.kr" /><ref>[http://www.mfa.bg/bg/index.php?option=com_content&task=view&id=14799&Itemid=393 Basic information on the Democratic People's Republic of Korea], Ministry of foreign affairs of Bulgaria.</ref>
+! 2000
+! 2001
+! 2002
+! 2003
+! 2004
+! 2005
+! 2006
+! 2007
+! 2008
+! 2009
+|-
+| 1.3%
+| 3.7%
+| 1.2%
+| 1.8%
+| 2.2%
+| 1.0%
+| 1.6%
+| 1.8%
+| 3.7%
+| 3.7%
+|}
+
+Based on estimates in 2002, the dominant sector in the North Korean economy is industry (43.1%), followed by [[service (economics)|services]] (33.6%) and agriculture (23.3%). In 2004, it was estimated that agriculture employed 37% of the workforce while industry and services employed the remaining 63%.<ref name="cia-kn" /> Major industries include military products, machine building, electric power, chemicals, mining, metallurgy, textiles, food processing and tourism.
+
+In 2005, North Korea was ranked by the [[FAO]] as an estimated 10th in the production of fresh fruit<ref>{{cite web|url=http://www.fao.org/es/ess/top/commodity.html?lang=en&item=619&year=2005|title=MAJOR FOOD AND AGRICULTURAL COMMODITIES AND PRODUCERS - Countries by commodity|year=2005|publisher=UN FAO Statistics Division|accessdate=2009-07-04}}</ref> and as an estimated 19th in the production of [[apple]]s.<ref>{{cite web|url=http://www.fao.org/es/ess/top/commodity.html?item=515&lang=en&year=2005|title=MAJOR FOOD AND AGRICULTURAL COMMODITIES AND PRODUCERS - Countries by commodity|year=2005|publisher=UN FAO Statistics Division|accessdate=2009-07-04}}</ref> It has substantial natural resources and is the world's 18th largest producer of [[List of countries by iron production|iron]] and [[List of countries by zinc production|zinc]],<ref>[[List of countries by iron production]]</ref><ref>See [[List of countries by zinc production]]</ref> having the [[Coal#World coal reserves|22nd largest]] [[coal]] reserves in the world.<ref>See [[Coal]].</ref> It is also the 15th largest [[List of countries by fluorite production|fluorite producer]]<ref>See [[List of countries by fluorite production]]</ref> and 12th largest producer of [[List of countries by copper mine production|copper]] and [[List of countries by salt production|salt]] in Asia.<ref>See [[List of countries by copper mine production]]</ref><ref>See [[List of countries by salt production]]</ref> Other major natural resources in production include [[lead]], [[tungsten]], [[graphite]], [[magnesite]], [[gold]], [[pyrites]], [[fluorspar]], and [[hydropower]].<ref name="cia-kn" />
+
+[[File:Generic paracetamol dprk.jpg|thumb|Generic [[paracetamol]] tablets made in the DPRK by a joint venture company]]
+[[File:Granja de Pollos Hungju.jpg|thumb|right|Hungju collective chicken farm, [[Chagang]] province.]]
+
+=== Private commerce ===
+[[File:Kaesong familymart.jpg|thumb|left|A convenience store in [[Kaesong Industrial Region]], North Korea's light industry center.]]
+
+In 1991, North Korea started experimenting with private capitalism in the [[Rajin-Sonbong Economic Special Zone]], and in 2002 also set up the [[Kaesong Industrial Region]].<ref>{{Cite news|url=http://query.nytimes.com/gst/fullpage.html?sec=travel&res=9407E0D91239F936A1575AC0A9649C8B63 |title=North Korea to Let Capitalism Loose in Investment Zone |accessdate=2007-08-02 |author=French, Howard W. |date=2002-09-25 |work=[[The New York Times]] }}</ref> A small number of other areas have been designated as [[Special cities of Korea#North Korea|Special Administrative Regions]]. China and South Korea are the biggest trade partners of North Korea, with trade with China increasing 15% to US$1.6 billion in 2005, and trade with South Korea increasing 50% to over 1 billion for the first time in 2005.<ref name="cankor">{{cite web|url=http://www.cankor.ca/issues/220.htm |title=Fourth round of Six-Party Talks |accessdate=2007-08-01 |date=2005-09-27 |work=CanKor, on Korean Peace and Security | archiveurl = http://web.archive.org/web/20070929191454/http://www.cankor.ca/issues/220.htm| archivedate = September 29, 2007}}</ref> China is North Korea's closest economic partner, with 73% of North Korea's foreign trade being conducted with this country.<ref>{{cite web| url = http://search.japantimes.co.jp/cgi-bin/eo20090701mr.html | title = Tough to thwart North Korean arms exports | publisher = The Japan Times Online | work = JapanTimes.co.jp | date = 2009-07-01 | accessdate = 2010-12-13 }}</ref>
+
+In 2000, Centre for the Study of the Capitalist System was established.<ref name="koreatimes-trade">{{Cite news|url=http://www.koreatimes.co.kr/www/news/nation/2008/04/120_14039.html|title=NK Showing Increased Interest in Foreign Trade|date=2007-11-20|publisher=The Korea Times|accessdate=2009-10-17}}</ref> Increasingly more foreign-invested joint ventures have been set up since 2002.<ref>[[Felix Abt]], North Korea – A demanding business environment / Practical advice on investing and doing business, German Asia-Pacific Business Association, Hamburg, September 2009</ref> The Pyongyang Business School was established by the Swiss government to help teach students business management.<ref name="ft-business">{{Cite news|url=http://us.ft.com/ftgateway/superpage.ft?news_id=fto081820051525136708&page=2|title=Graduates prove N Korea is now open for business|last=Fifield|first=Anna|date=2005-08-18|publisher=Financial Times|accessdate=2009-10-17}}</ref>
+
+A small number of capitalistic elements are gradually spreading from the trial area, including a number of advertising billboards along certain highways. Recent visitors have reported that the number of open-air farmers' markets has increased in [[Kaesong]] and [[Pyongyang]], as well as along the China-North Korea border, bypassing the food rationing system.
+In addition to food aid, China reportedly provides an estimated 80 to 90 percent of North Korea's oil imports at "friendly prices" that are sharply lower than the world market price.<ref>{{cite web|url=http://www.koreaherald.co.kr/SITE/data/html_dir/2006/10/26/200610260049.asp |title=China's N.K. policy unlikely to change |accessdate=2007-08-02 |author=Nam, Sung-wook |date=2006-10-26 |work=The [[Korea Herald]] }}</ref>
+
+North Korea also has a [[cartoon animation]] industry, sub-contracting work from South Korean animation studios.<ref>{{Cite news|url=http://www.atimes.com/atimes/Korea/IC14Dg03.html|acessdate2010-10-27|work=[[Asia Times Online]]}}</ref>
+
+=== Tourism ===
+{{Main|Tourism in North Korea}}
+[[File:Lake-samilpo-at-geumgangsan.jpg|thumb|left|The [[Kŭmgangsan Tourist Region]] was popular among South Korean tourists until its suspension in 2008]]
+
+Tourism in North Korea is organized by the state owned Korea International Travel Company. Every group of travelers as well as individual tourists/visitors is permanently accompanied by one or two "guides" who normally speak the mother language of the tourist. While tourism has increased over the last few years, tourists from Western countries remain few.
+
+The majority of the tourists who visit come from China, Russia, and Japan. Russian citizens from the Asian part of Russia prefer North Korea as a tourist destination due to the relatively low prices, lack of pollution and the warmer climate. For citizens of South Korea, it is practically impossible to obtain a [[visa (document)|visa]] for North Korea; however, they can still obtain "entry permits" to special tourist areas designated for South Koreans, such as Kaesong. US citizens were also subject to visa restrictions, only able to visit during the yearly [[Arirang Festival]]. These restrictions were lifted in January 2010, yet currently fewer than 2,500 U.S. citizens have visited North Korea since 1953.<ref>{{cite web|last=Anderson |first=Chris |url=http://www.cnngo.com/explorations/none/north-korea-lifts-travel-restrictions-americans-529062 |title=Visit anytime! North Korea lifts restrictions on U.S. tourists |publisher=CNNGo.com |date=2010-01-15 |accessdate=2010-06-23}}</ref>
+
+In the area of the [[Kŭmgangsan]]-mountains, the company [[Hyundai]] established and operates a special Tourist area. Traveling to this area is also possible for South Koreans and US citizens, but only in organized groups from South Korea. A special administrative region known as the [[Kŭmgangsan Tourist Region]] exists for this purpose. However, trips to the region were suspended after a South Korean woman who wandered into a controlled military zone was shot dead by border guards in late 2008.<ref>{{cite web|title=S Korea hopes DPRK to begin dialogue over S Korean tourist shot dead|publisher=chinaview.cn|url=http://news.xinhuanet.com/english/2009-07/10/content_11686216.htm/|accessdate=2009-07-12}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> When tours had still not resumed by May 2010, North Korea unilaterally announced that it would seize South Korean real estate assets in the region.<ref>{{cite web|url=http://english.chosun.com/site/data/html_dir/2010/04/09/2010040900476.html |title=The Chosun Ilbo (English Edition): Daily News from Korea - N.Korea Seizes S.Korean Property in Mt. Kumgang |publisher=English.chosun.com |date=2010-04-09 |accessdate=2010-06-23}}</ref>
+
+=== Famine ===
+{{Main|North Korean famine}}
+In the 1990s North Korea faced significant economic disruptions, including a series of natural disasters, economic mismanagement and serious resource shortages after the collapse of the [[Eastern Bloc]]. These resulted in a shortfall of staple [[Cereal|grain]] output of more than 1 million tons from what the country needs to meet internationally accepted minimum dietary requirements.<ref>{{cite web|url=http://countrystudies.us/north-korea/49.htm |title=North Korea - Agriculture |accessdate=2007-08-01 |author=[[Federal Research Division]] of the US [[Library of Congress]] |year=2007 |work=Country Studies }}</ref> The [[North Korean famine]] known as "Arduous March" resulted in the deaths of between 300,000 and 800,000 North Koreans per year during the three year famine, peaking in 1997.<ref name="famine">{{Cite news|url=http://www.cnn.com/WORLD/asiapcf/9808/19/nkorea.famine/ |title=Famine may have killed 2 million in North Korea |accessdate=2007-08-01 |author=Lee, May |date=1998-08-19 |work=[[CNN]] | archiveurl = http://web.archive.org/web/20070209071653/http://www.cnn.com/WORLD/asiapcf/9808/19/nkorea.famine/| archivedate = February 9, 2007}}</ref> The deaths were most likely caused by famine-related illnesses such as [[pneumonia]], [[tuberculosis]], and [[diarrhea]] rather than [[starvation]].<ref name="famine" />
+
+In 2006, [[Amnesty International]] reported that a national nutrition survey conducted by the North Korean government, the [[World Food Programme]], and [[United Nations Children's Fund|UNICEF]] found that 7% of children were severely [[malnutrition|malnourished]]; 37% were chronically malnourished; 23.4% were underweight; and one in three mothers was malnourished and [[anemia|anaemic]] as the result of the lingering effect of the famine. The inflation caused by some of the 2002 economic reforms, including the Songun or [[Songun|"Military-first" policy]], was cited for creating the increased price of basic foods.<ref>{{cite web|url=http://web.amnesty.org/report2006/prk-summary-eng |title=Asia-Pacific : North Korea |accessdate=2007-08-01 |year=2007 |work=[[Amnesty International]] }}</ref>
+
+The history of Japanese assistance to North Korea has been marked with challenges; from a large pro-[[Pyongyang]] community of Koreans in Japan to public outrage over the 1998 North Korean missile launch and revelations regarding the abduction of Japanese citizens.<ref name="haggard">Haggard Stephan; Marcus Noland (2007). ''Ch6 The political economy of aid: Famine in North Korea''. New York: Columbia University Press. p. 137.<!--Insert footnote text here--></ref> In June 1995 an agreement was reached that the two countries would act jointly.<ref name="haggard" /> South Korea would provide 150,000 MT of grain in unmarked bags, and Japan would provide 150,000 MT gratis and another 150,000 MT on concessional terms.<ref name="haggard" /> In October 1995 and January 1996, North Korea again approached Japan for assistance. On these two occasions, both of which came at crucial moments in the evolution of the famine, opposition from both South Korea and domestic political sources quashed the deals.<ref name="haggard" />
+
+Beginning in 1997, the U.S. began shipping food aid to North Korea through the United Nations [[World Food Programme]] (WFP) to combat the famine. Shipments peaked in 1999 at nearly 700,000 tons making the U.S. the largest foreign aid donor to the country at the time. Under the [[Presidency of George W. Bush|Bush Administration]], aid was drastically reduced year after year from 350,000 tons in 2001 to 40,000 in 2004.<ref>{{cite web|url=http://www.globalpolicy.org/socecon/hunger/relief/2005/0520nkorea.htm |title=US Has Put Food Aid for North Korea on Hold |accessdate=2007-08-01 |author=Solomon, Jay |date=2005-05-20 |work=Wall Street Journal }} {{Dead link|date=September 2010|bot=H3llBot}}</ref> The Bush Administration took criticism for using "food as a weapon" during talks over the North's nuclear weapons program, but insisted the [[United States Agency for International Development|U.S. Agency for International Development]] (USAID) criteria were the same for all countries and the situation in North Korea had "improved significantly since its collapse in the mid-1990s." Agricultural production had increased from about 2.7 million [[tonne|metric tons]] in 1997 to 4.2 million metric tons in 2004.<ref name="assistance">{{cite web|url=http://internationalrelations.house.gov/archives/109/4-06usaid.pdf |title=Report on U.S. Humanitarian assistance to North Koreans |accessdate=2007-08-01 |date=2006-04-15 |work=[[United States House Committee on Foreign Affairs]] |format=PDF }}</ref>
+
+== Media and communications ==
+{{Main|Media of North Korea|Telecommunications in North Korea}}
+
+=== Media ===
+The media of North Korea are under one of the most strict government controls in the world. The North Korean constitution provides for [[freedom of speech]] and the [[freedom of the press|press]]; however, the government prohibits the exercise of these rights in practice. In its 2010 report, [[Reporters Without Borders]] ranked the freedom of the press in North Korea as 177th out of 178, above only that of [[Eritrea]].<ref name=rwb>[http://en.rsf.org/spip.php?page=classement&id_rubrique=1034 Annual Press Freedom Index]. Retrieved November 4, 2010.</ref> Only news that favors the regime is permitted, while news that covers the economic and political problems in the country, or criticisms of the regime from abroad, is not allowed.<ref name=bbc>[http://news.bbc.co.uk/1/hi/world/asia-pacific/6037715.stm "Meagre media for North Korea"], ''BBC'', October 10, 2006.</ref> The media upholds the personality cult of [[Kim Jong-il]], regularly reporting on his daily activities. The main news provider to media in the DPRK is the [[Korean Central News Agency]].
+
+North Korea has 12 principal newspapers and 20 major periodicals, all of varying periodicity and all published in [[Pyongyang]].<ref>Pervis, Larinda B. (2007). ''North Korea Issues: Nuclear Posturing, Saber Rattling, and International Mischief.'' Nova Science Publishers. p. 22. ISBN 978-1600216558.</ref> Newspapers include the ''[[Rodong Sinmun]]'', ''Joson Inmingun'', ''Minju Choson'', and ''Rodongja Sinmum''. No private press exists.<ref>Liston-Smith, Ian. [http://news.bbc.co.uk/1/hi/world/asia-pacific/6037715.stm Meagre media for North Koreans]. [[BBC News Online]]. October 10, 2006</ref>
+
+=== Telephones and Internet ===
+North Korea has an adequate telephone system, with 1.18 million fixed lines available in 2008.<ref>[https://www.cia.gov/library/publications/the-world-factbook/rankorder/2150rank.html?countryName=Korea, North&countryCode=kn&regionCode=eas&rank=70#kn Country Comparison :: Telephones - main lines in use], CIA - The World Factbook</ref>
+The number of mobile phones in [[Pyongyang]] rose from only 3,000 in 2002 to approximately 20,000 during 2004.<ref>{{cite web|url=http://yaleglobal.yale.edu/display.article?id=5145 |title=Chinese Cell Phone Breaches North Korean Hermit Kingdom |accessdate=2007-08-02 |author=MacKinnon, Rebecca |date=2005-01-17 |work=Yale Global Online }} {{Dead link|date=September 2010|bot=H3llBot}}</ref> As of June 2004, however, mobile phones became forbidden again,<ref>{{Cite news|url=http://www.smh.com.au/articles/2004/06/04/1086203598828.html |title=North Korea recalls mobile phones |accessdate=2007-08-02 |date=2004-06-04 |work=[[The Sydney Morning Herald]] }}</ref> until a new [[3G]] network, [[Koryolink]], was built in 2008 through a joint venture with [[Orascom Telecom Holding]] of [[Egypt]]. In May 2010, over 120,000 North Koreans owned a mobile phone,<ref>{{cite web|url=http://www.businessweek.com/idg/2010-05-13/cell-phone-demand-stays-strong-in-north-korea.html |title=Cell phone demand stays strong in North Korea |publisher=BusinessWeek |date=2010-05-13 |accessdate=2010-06-23}}</ref> and by September the same year the number of subscribers increased more than twice, reaching 301,000 people.<ref>[http://english.yonhapnews.co.kr/northkorea/2010/11/09/0401000000AEN20101109001400315.HTML Mobile phone subscriptions in N. Korea quadruple in one year: operator], YonhapNews, 9 November 2010</ref>
+
+North Korea's first [[Internet café]] opened in 2002 as a joint venture with South Korean internet company Hoonnet. Ordinary North Koreans do not have access to the global Internet network, but are provided with a nationwide, public use Intranet service called ''[[Kwangmyong (network)|Kwangmyong]]'', which features domestic news, an [[e-mail]] service and censored information from foreign websites (mostly scientific).<ref>{{Cite news|title=North Korea's IT revolution
+| first=Bertil|last=Lintner|date=2007-04-24|accessdate=2007-05-11|publisher=Asia Times|url=http://www.atimes.com/atimes/Korea/ID24Dg01.html}}</ref>
+
+== Transportation ==
+{{Main|Communications in North Korea|Transportation in North Korea}}
+{{Ref improve section|date=July 2009}}
+[[File:Pyongyang Metro.JPG|thumb|220px|right|The [[Pyongyang Metro]].]]
+
+Two of the few ways to enter North Korea are over the [[Sino-Korea Friendship Bridge]] or via [[Panmunjeom]], the former crossing the [[Yalu River|Amnok River]] and the latter crossing the [[Korean Demilitarized Zone|Demilitarized Zone]].
+
+Private cars in North Korea are a rare sight, but {{As of|2008|lc=on}} some 70% of households used [[bicycle]]s, which also play an increasingly important role in small-scale private trade.<ref>[http://www.dailynk.com/english/read.php?cataId=nk00100&num=4230 70% of Households Use Bikes], The Daily NK, 2008-10-30</ref> Very few cars and light trucks are made in a joint-venture between [[Pyonghwa|Pyeonghwa Motors]] of South Korea, and the North Korean [[Ryonbong|Ryonbong General Corp]] at a facility in [[Nampo]] North Korea.<ref>{{Cite news|last=  |first= |url=http://www.highbeam.com/doc/1G1-167008653.html |title=PYEONGHWA MOTORS, CHINA'S BRILLIANCE IN TALKS TO PRODUCE TRUCKS. |publisher=AsiaPulse News |date=2007-08-01 |accessdate=2010-08-16}}</ref> Another local producer of vehicles is [[Sungri Motor Plant]], which manufactures civilian vehicles and heavy trucks.
+
+There is a mix of locally built and imported trolleybuses and trams in urban centers in North Korea. Earlier fleets were obtained in Europe and China, but the trade embargo has forced North Korea to build their own vehicles.
+
+=== Rail transport ===
+[[File:Dai Hong Dan.jpg|thumb|220px|right|A North Korean cargo ship off the coast of Somalia]]
+Choson Cul Minzuzui Inmingonghoagug is the only rail operator in North Korea. It has a network of {{convert|5200|km|mi|abbr=on}} of track with {{convert|4500|km|mi|abbr=on}} in [[standard gauge]].<ref name="A Glimpse of North Korea's Railways">{{cite web|url=http://dspace.dial.pipex.com/steam/trains/nkorea04.htm|title=A Glimpse of North Korea's Railways|last=Dickinson|first=Rob|work=The International Steam Pages|accessdate=2009-07-04| archiveurl = http://web.archive.org/web/20080502142007/http://dspace.dial.pipex.com/steam/trains/nkorea04.htm| archivedate = May 2, 2008}}</ref> There is a small narrow gauge railway in operation in Haeju peninsula.<ref name="A Glimpse of North Korea's Railways" /> The railway fleet consists of a mix of electric and steam locomotives. Cars are mostly made in North Korea using Soviet designs. There are some locomotives from Imperial Japan, the United States, and Europe remaining in use. Second-hand Chinese locomotives (early DF4Bs, BJ Hydraulics, etc.) have also been spotted in active service.
+
+=== Marine transport ===
+Water transport on the major rivers and along the coasts plays a growing role in freight and passenger traffic. Except for the Yalu and Taedong rivers, most of the inland waterways, totaling {{convert|2253|km|mi|spell=us}}, are navigable only by small boats. Coastal traffic is heaviest on the eastern seaboard, whose deeper waters can accommodate larger vessels. The major ports are [[Nampho]] on the west coast and [[Rajin]], [[Chongjin]], [[Wonsan]], and [[Hamhung]] on the east coast. The country's harbor loading capacity in the 1990s was estimated at almost 35 million tons a year.
+
+In the early 1990s, North Korea possessed an oceangoing merchant fleet, largely domestically produced, of sixty-eight ships (of at least 1,000 gross-registered tons), totaling 465,801 gross-registered tons ({{DWT|709,442|metric|first=yes}}), which includes fifty-eight cargo ships and two tankers. There is a continuing investment in upgrading and expanding port facilities, developing transportation—particularly on the Taedong River—and increasing the share of international cargo by domestic vessels.
+
+[[File:Sunan International Airport, Pyongyang, North Korea.jpg|thumb|220px|right|[[Il-76]], [[Tu-204]], [[Il-62]] and [[Tu-154]] of [[Air Koryo]] at [[Sunan International Airport]].]]
+
+=== Air transport ===
+North Korea's international air connections are limited. There are regularly scheduled flights from the [[Sunan International Airport]] – {{convert|24|km|mi|spell=us}} north of Pyongyang – to [[Moscow]], [[Khabarovsk]], [[Vladivostok]], [[Bangkok]], [[Beijing]], [[Dalian]], [[Shanghai]], [[Shenyang]] along with seasonal services to [[Singapore]] and charter flights from Sunan numerous Asian and European destinations including Tokyo and Nagoya. Regular charters to existing scheduled services are operated as per demand. An agreement to initiate a service between Pyongyang and Tokyo was signed in 1990. Internal flights are available between [[Pyongyang]], [[Hamhung]], [[Haeju]], [[Kaesong]], [[Kanggye]], [[Kilju]], [[Nampo]], [[Sinuiju]], [[Samjiyon]], [[Wonsan]], and [[Chongjin]].
+
+All civil aircraft are operated by [[Air Koryo]]: 38 aircraft in 2010, which  were purchased from the Soviet Union and Russia. From 1976 to 1978, four [[Tu-154]] jets were added to the 7 of propeller-driven An-24s and 2 Ilyushin Il-18's afterwards adding four long range Ilyushin Il-62M, three Ilyushin Il-76MD large cargo aircraft. In 2008 a long range Tupolev Tu-204-300's purchased along with a larger version the Tupolev Tu-204-100B in 2010.
+
+== Demographics ==
+{{Main|Demographics of North Korea}}
+[[File:Pyramide Corée du Nord.PNG|thumb|right|225px|[[Population pyramid]] of North Korea]]
+North Korea's population of roughly 24 million is one of the most ethnically and linguistically homogeneous in the world, with very small numbers of Chinese, [[Japanese people in North Korea|Japanese]], Vietnamese, South Korean, and European expatriate minorities.
+
+According to the [[CIA World Factbook]], North Korea's life expectancy was 63.8 years in 2009, a figure roughly equivalent to that of [[Pakistan]] and [[Burma]] and slightly lower than Russia.<ref name="Central Intelligence Agency">{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2102rank.html|title=CIA - The World Factbook -- Country Comparison :: Life expectancy at birth|year=2009|work=The World Factbook|publisher=Central Intelligence Agency|accessdate=2009-07-04}}</ref> [[Infant mortality]] stood at a high level of 51.3, which is 2.5 times higher than that of [[People's Republic of China|China]], 5 times that of [[Russia]], 12 times that of [[South Korea]].<ref name="cia-2091">{{cite web| title=Infant mortality rate | url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2091rank.html | work=The World Factbook -- Country Comparisons | publisher=CIA |year=2009 | accessdate=2009-05-01}}</ref>
+
+According to the UNICEF "The State of the world's Children 2003" North Korea appears ranked at the 73rd place (with first place having the highest mortality rate), between [[Guatemala]] (72nd) and [[Tuvalu]] (74th).<ref name="cia-2091" /><ref>{{cite web| title=The State of the World's Children 2003 | url=http://www.unicef.org/sowc03/tables/table1.html | publisher=UNICEF | year=2003 | accessdate=2009-05-01}}</ref> North Korea's [[Total fertility rate]] is relatively low and stood at 2.0 in 2009, comparable to those of the [[United States]] and [[France]].<ref>{{cite web| title=Total fertility rate | url=https://www.cia.gov/library/publications/the-world-factbook/rankorder/2127rank.html | work=The World Factbook -- Country Comparisons | publisher=CIA | year=2009 | accessdate=2009-05-01}}</ref>
+
+=== Language ===
+{{Main|Korean language}}
+North Korea shares the [[Korean language]] with South Korea. There are dialect differences within both Koreas, but the border between North and South does not represent a major linguistic boundary. While prevalent in the South, the adoption of modern terms from foreign languages has been limited in North Korea. [[Hanja]] ([[Chinese character]]s) are no longer used in North Korea, although still occasionally used in South Korea. Both Koreas share the phonetic writing system called [[Chosongul]] in the north and [[Hangul]] south of the DMZ. The official [[Romanization]] differs in the two countries, with North Korea using a slightly modified [[McCune-Reischauer]] system, and the South using the [[Revised Romanization of Korean]].
+
+=== Religion ===
+{{Main|Religion in North Korea}}
+Both Koreas share a [[Korean Buddhism|Buddhist]] and [[Korean Confucianism|Confucian]] heritage and a recent history of [[Christianity in Korea|Christian]] and [[Cheondoism]] ("religion of the Heavenly Way") movements. The North Korean constitution states that freedom of religion is permitted.<ref>{{cite web|url=http://www1.korea-np.co.jp/pk/061st_issue/98091708.htm|title=DPRK's Socialist Constitution (Full Text)|accessdate=2009-07-04|publisher=The People's Korea|year=1998}}; see Chapter 5, Article 68</ref> According to the Western standards of religion, the majority of the North Korean population could be characterized as irreligious. However, the cultural influence of such traditional religions as Buddhism and Confucianism still have an effect on North Korean spiritual life.<ref>{{cite web|url=http://www.everyculture.com/Ja-Ma/North-Korea.html|title=Culture of North Korea - Alternative name, History and ethnic relations|work=Countries and Their Cultures|publisher=Advameg Inc.|accessdate=2009-07-04}}</ref><ref>[https://www.cia.gov/library/publications/the-world-factbook/geos/kn.html#People CIA The World Factbook -- North Korea]</ref><ref>{{cite web|url=http://www.state.gov/r/pa/ei/bgn/2792.htm|title=Background Note: North Korea|coauthors=Bureau of East Asian and Pacific Affairs|date=2009-2|publisher=U.S. State Department|accessdate=2009-07-04}}</ref>
+
+[[File:Myogilsang-naegeumgang.jpg|thumb|An ancient relief image of [[the Buddha]], mount Kumgang]]
+
+Nevertheless, Buddhists in North Korea reportedly fare better than other religious groups, particularly Christians, who are said to face persecution by the authorities. Buddhists are given limited funding by the government to promote the religion, because Buddhism played an integral role in traditional Korean culture.<ref>{{Cite news|url=http://articles.latimes.com/2005/oct/02/world/fg-temple2|title=Buddhist Temple Being Restored in N. Korea|date=October 2, 2005|publisher=[[Los Angeles Times]] | first=Barbara | last=Demick | accessdate=2010-05-20}}</ref>
+
+According to [[Human Rights Watch]], free religious activities no longer exist in North Korea, as the government sponsors religious groups only to create an illusion of religious freedom.<ref>{{cite web|url=http://hrw.org/english/docs/2004/07/08/nkorea9040.htm |title=Human Rights in North Korea |accessdate=2007-08-02 |month=July | year=2004 |work=[[Human Rights Watch]] }}</ref>
+According to Religious Intelligence the situation of religion in North Korea is the following:<ref>{{cite web|url=http://www.religiousintelligence.co.uk/country/?CountryID=37|title=Religious Intelligence UK report|work=Religious Intelligence|publisher=Religious Intelligence|accessdate=2009-07-04 |archiveurl = http://web.archive.org/web/20071013201130/http://www.religiousintelligence.co.uk/country/?CountryID=37 |archivedate = October 13, 2007}}</ref>
+* [[Irreligion]]: 15,460,000 (64.3% of population, the vast majority of which are adherents of the Juche philosophy)
+* [[Korean shamanism]]: 3,846,000 adherents (16% of population)
+* [[Cheondoism]]: 3,245,000 adherents (13.5% of population)
+* [[Buddhism]]: 1,082,000 adherents (4.5% of population)
+* [[Christianity]]: 406,000 adherents (1.7% of population)
+
+Pyongyang was the center of Christian activity in Korea until 1945. From the late forties 166 priests and other religious figures were killed or kidnapped (disappeared without trace), including [[Francis Hong Yong-ho]], bishop of Pyongyang.<ref>{{cite web|url= http://www.30giorni.it/us/articolo.asp?id=10278 |title=Korea, for a reconciliation between North and South |accessdate=2010-04-21 |date=2006-03-24 |work=30 Days }}</ref> No catholic priest survived the persecution, all churches were destroyed and the government never allowed any foreign priest to set up in North Korea.
+
+Today, four state-sanctioned churches exist, which freedom of religion advocates say are showcases for foreigners.<ref>{{cite web|url=http://www.nautilus.org/fora/security/0434A_ReligionI.html |title=Annual Report of the United States Commission on International Religious Freedom |accessdate=2007-08-02 |author=[[United States Commission on International Religious Freedom]] |date=2004-09-21 |work=Nautilus Institute | archiveurl = http://web.archive.org/web/20070311032937/http://www.nautilus.org/fora/security/0434A_ReligionI.html| archivedate = March 11, 2007}}</ref><ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/4431321.stm |title=N Korea stages Mass for Pope |accessdate=2007-08-02 |date=2005-04-10 |work=[[BBC News]] }}</ref> Official government statistics report that there are 10,000 [[Protestantism|Protestants]] and 4,000 [[Roman Catholic Church|Roman Catholics]] in North Korea.<ref>{{cite web|url=http://www.asia.msu.edu/eastasia/NorthKorea/religion.html |title=North Korean Religion |accessdate=2007-08-02 |work=Windows on Asia | archiveurl = http://web.archive.org/web/20070702213117/http://asia.msu.edu/eastasia/NorthKorea/religion.html| archivedate = July 2, 2007}}</ref>
+
+According to a ranking published by [[Open Doors]], an organization that supports persecuted Christians, North Korea is currently the country with the most severe persecution of Christians in the world.<ref>{{cite web|url=http://sb.od.org/index.php?supp_page=wwl_top_ten&supp_lang=en|title=Open Doors International : WWL: Focus on the Top Ten|work=Open Doors International|publisher=Open Doors (International)|accessdate=2009-07-04}}</ref> Open Doors estimates that 50000 – 70000 Christians are detained in [[Human rights in North Korea#The prison system|North Korean prison camps]].<ref>{{Cite news|url=http://www.dailynk.com/english/read.php?cataId=nk01600&num=997 |title=50,000~70,000 North Korean Christians Detained in Gulags |accessdate=2010-04-21 |date=2006-08-16 |work=[[Daily NK]] }}</ref> Human rights groups such as [[Amnesty International]] also have expressed concerns about religious persecution in North Korea.<ref>{{cite web|url=http://web.amnesty.org/web/ar2002.nsf/asa/democratic+people's+republic+of+korea |title=Korea Report 2002 |accessdate=2007-08-02 |year=2001 |work=[[Amnesty International]] }}</ref>
+
+=== Education ===
+{{Main|Education in North Korea}}
+[[File:Mangyondae Schoolchildrens Palace in Pyongyang 04.jpg|thumb|left|A young girl in a school in [[Mangyongdae-guyok|Mangyongdae]]]]
+
+Education in North Korea is controlled by the government and is compulsory until the secondary level. Education in North Korea is free.<ref>[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0055) North Korea - Education Overview], Library of Congress.</ref> The state also used to provide school uniforms free of charge until the early 1990s.<ref>{{cite web|url=http://www.dailynk.com/english/read.php?cataId=nk02900&num=6466 |title=Political Life Launched by Chosun Children's Union |publisher=Daily NK |date= |accessdate=2010-06-23}}</ref>  [[Heuristics]] is actively applied in order to develop the independence and creativity of students.<ref>{{cite web|url=http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0056) |title=Educational themes and methods |publisher=Lcweb2.loc.gov |date= |accessdate=2010-06-23}}</ref> Compulsory education lasts eleven years, and encompasses one year of preschool, four years of [[primary education]] and six years of [[secondary education]]. The North Korean school curricula consist of both academic and political subject matter.<ref>{{cite web|url=http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0057) |title=Primary and Secondary education |publisher=Lcweb2.loc.gov |date= |accessdate=2010-06-23}}</ref>
+
+Primary schools are known as people's schools and children attend this school from the age of six to nine. They are later enrolled in either a regular secondary school or a special secondary school, depending on their specialities. They enter secondary school at the age of ten and leave when they are sixteen.
+
+[[Higher education]] is not compulsory in North Korea. It is composed of two systems: academic higher education and higher education for continuing education. The academic higher education system includes three kinds of institutions: [[university|universities]], [[professional school (disambiguation)|professional school]]s, and [[technical school]]s. [[Graduate school]]s for master's and doctoral level studies are attached to universities, and are for students who want to continue their education.<!--blacklisted link: <ref>{{cite web |url=http://education.stateuniversity.com/pages/1116/North-Korea-HIGHER-EDUCATION.html|title=North Korea - Higher Education|accessdate=2008-11-18|year=|work=State University.com}}</ref>--> Two notable universities in the DPRK are the [[Kim Il-sung University]] and [[Pyongyang University of Science and Technology]], both in [[Pyongyang]]. The former, founded in October 1946, is an elite institution whose enrollment of 16,000 full- and part-time students in the early 1990s occupies, in the words of one observer, the "pinnacle of the North Korean educational and social system."<ref>{{cite web|url=http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0059) |title=North Korea - Higher education. |publisher=Lcweb2.loc.gov |date= |accessdate=2010-06-23}}</ref>
+
+North Korea is one of the most literate countries in the world, with an average literacy rate of 99%.<ref name="cia-kn" />
+
+=== Health care ===
+[[File:North Korea-Pyongyang Maternity Hospital-04.jpg|thumb|right|A dental cabinet at one of North Korea's major hospitals]]
+{{Main|Health Care in North Korea}}
+
+North Korea has a national medical service and health insurance system.<ref>[http://lcweb2.loc.gov/frd/cs/profiles/North_Korea.pdf Library of Congress country study], see p. 8 - Health</ref> North Korea spends 3% of its gross domestic product on health care. Since the 1950s, the DPRK has put great emphasis on healthcare, and between 1955 and 1986, the number of [[hospital]]s grew from 285 to 2,401, and the number of [[clinic]]s – from 1,020 to 5,644.<ref>[http://country-studies.com/north-korea/public-health.html North Korea Public Health], Country Studies</ref> There are hospitals attached to factories and mines. Since 1979 more emphasis has been put on traditional [[Korean medicine]], based on treatment with herbs and [[acupuncture]].
+
+North Korea's healthcare system has been in a steep decline since the 1990s due to natural disasters, economic problems, and food and energy shortages. Many hospitals and clinics in North Korea now lack essential medicines, equipment, running water and electricity.<ref>{{Cite news|title=N Korea healthcare 'near collapse'|work=BBC News|date=2008-11-18|url=http://news.bbc.co.uk/2/hi/asia-pacific/1666806.stm}}</ref>
+
+Almost 100% of the population has access to water and sanitation, but it is not completely potable. [[Infectious disease]]s, such as tuberculosis, malaria, and hepatitis B, are considered to be [[endemic (epidemiology)|endemic]] to the country.<ref>{{cite web|url=http://www.state.gov/p/eap/rls/rm/2003/21269.htm|title=Life Inside North Korea|accessdate=2008-11-18|work=U.S. Department of State|archiveurl=http://web.archive.org/web/20080711165256/http://www.state.gov/p/eap/rls/rm/2003/21269.htm|archivedate=July 11, 2008}}</ref> [[Life expectancy]] in North Korea is 63.8 years, occupying the 170th [[List of countries by life expectancy|place in the world]], according to 2009 estimates.<ref name="Central Intelligence Agency" />
+
+Among other health problems, many North Korean citizens suffer from the after effects of [[malnutrition]], caused by famines related to the failure of its food distribution program and "military first" policy. A 1998 United Nations (UN) World Food Program report revealed that 60% of children suffered from malnutrition, and 16% were acutely malnourished. As a result, those who suffered during the disaster have ongoing health problems.
+
+== Society ==
+=== Human rights ===
+{{Main|Human rights in North Korea}}
+
+[[File:Korean youth on Pyongyang street.jpg|thumb|175px|left|[[Sneakers (footwear)|Sneaker]]-wearing Korean youth walking in Pyongyang.]]
+
+Multiple international [[human rights]] organizations, including [[Amnesty International]] and [[Human Rights Watch]], accuse North Korea of having one of the worst human rights records of any nation.<ref>{{cite web|url=http://www.amnestyusa.org/countries/north_korea/index.do |title=Our Issues, North Korea |accessdate=2007-08-01 |author=[[Amnesty International]] |year=2007 |work=Human Rights Concerns }}</ref> North Koreans have been referred to as "some of the world's most brutalized people" by Human Rights Watch, due to the severe restrictions placed on their [[Freedom (political)|political]] and [[economic freedom]]s.<ref>{{cite web|url=http://hrw.org/english/docs/2007/05/16/nkorea15944.htm |title=Grotesque indifference |accessdate=2007-08-01 |author=Seok, Kay |date=2007-05-15 |work=[[Human Rights Watch]] }}</ref>
+[[File:North Korea-Pyongyang-Grand Peoples Study House-01.jpg|thumb|175px|right|A uniformed civilian man riding a bicycle in Pyongyang. Uniforms such as this one are part of the nationally mandated dress code.]]
+
+[[North Korean defectors]] have testified to the existence of [[Human rights in North Korea#The prison system|prisons and concentration camps]]<ref>Torture in North Korea: Concentration Camps in the Spotlight http://www.huffingtonpost.com/karin-badt/torture-in-north-korea-co_b_545254.html Retrieved October 08, 2010</ref> with an estimated 150,000 to 200,000 inmates (about 0.85% of the population), and have reported torture, starvation, rape, murder, [[North Korean human experimentation|medical experimentation]], forced labour, and forced abortions.<ref name="hrnk">{{cite web|url=http://hrnk.org/hiddengulag/part3.html |title=The Hidden [[Gulag]]: Exposing North Korea’s Prison Camps - Prisoners' Testimonies and Satellite Photographs |accessdate=2007-08-01 |author=Hawk, David |year=2003 |work=[[U.S. Committee for Human Rights in North Korea]] | archiveurl = http://web.archive.org/web/20070728012214/http://www.hrnk.org/hiddengulag/part3.html| archivedate = July 28, 2007}}</ref> Convicted political prisoners and their families are sent to these camps, where they are prohibited from marrying, required to grow their own food, and cut off from external communication (which was previously allowed).<ref>[http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+kp0163) North Korea - Punishment and the Penal System], Library of Congress.</ref>
+
+The system changed slightly at the end of 1990s, when population growth became very low. In many cases, where capital punishment was ''de facto''{{Citation needed|date=June 2009}}, it was replaced by less severe punishments. Bribery became prevalent throughout the country.<ref>Hagard, Stephen and Noland, Marcus [http://www.iie.com/publications/wp/wp10-2.pdf Peterson Institute for International Economics Working Paper 10-2 Economic Crime and Punishment in North Korea] P. 16, March 2010 Retrieved 2010-05-28</ref> For example, years ago{{Specify|date=March 2009}} just listening to South Korean radio could result in capital punishment{{Citation needed|date=June 2009}}. However, many North Koreans now illegally wear clothes of South Korean origin, listen to Southern music, watch South Korean videotapes and even receive Southern broadcasts.<ref>{{Cite news|title=South Korean Dramas Are All the Rage among North Korean People |work=The Daily NK |first=Yoon Il Geun |date=2007-11-02 |url=http://www.dailynk.com/english/read.php?cataId=nk01500&num=2862 }}</ref><ref>{{Cite news|title=North Korean People Copy South Korean TV Drama for Trade |work=The Daily NK |first=Lee Sung Jin |date=2008-02-22 |url=http://www.dailynk.com/english/read.php?cataId=nk01500&num=3290 }}</ref>
+
+=== Personality cult ===
+The North Korean government exercises control over many aspects of the nation's culture, and this control is used to perpetuate a [[cult of personality]] surrounding Kim Il-sung, and, to a lesser extent, Kim Jong-il. While visiting North Korea in 1979, journalist [[Bradley Martin]] noted that nearly all music, art, and sculpture that he observed [[propaganda|glorified]] "Great Leader" Kim Il-sung, whose personality cult was then being extended to his son, "Dear Leader" Kim Jong-il.<ref name="LovingCare">Bradley K. Martin. ''Under the Loving Care of the Fatherly Leader: North Korea and the Kim Dynasty''. ISBN 0-312-32322-0</ref> There is even widespread belief that Kim Il-sung "created the world", and Kim Jong-il can "control the weather".<ref name="LovingCare" />
+
+[[File:Kim Il-sung.jpg|thumb|175px|left|A propaganda poster with Kim Il-sung's official portrait]]
+
+The song "[[No Motherland Without You]]" (당신이없으면 조국도없다), sung by the North Korean Army Choir, was created especially for Kim Jong-il and is one of the most popular tunes in the country. Kim Il-sung is still officially revered as the nation's "Eternal President". Several landmarks in North Korea are named for Kim Il-sung, including [[Kim Il-sung University]], [[Kim Il-sung Stadium]], and [[Kim Il-sung Square]]. Defectors have been quoted as saying that North Korean schools deify both father and son.<ref>Chol-hwan Kang and Pierre Rigoulot (2005). ''The Aquariums of Pyongyang: Ten Years in the North Korean Gulag'', Basic Books. ISBN 0-465-01104-7</ref> Kim Il-sung rejected the notion that he had created a cult around himself, and accused those who suggested this of "[[Political faction|factionalism]]".<ref name="LovingCare" />
+
+Critics maintain this Kim Jong-il personality cult was inherited from his father, Kim Il-sung. Kim Jong-il is often the center of attention throughout ordinary life in the DPRK. His birthday is one of the most important public holidays in the country. On his 60th birthday (based on his official date of birth), mass celebrations occurred throughout the country.<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/1823713.stm|title=North Korea marks leader's birthday|publisher=BBC|date=16 February 2002|accessdate=2007-12-18}}</ref> Kim Jong-il's personality cult, although significant, is not as extensive as his father's. In 2004, some of his official portraits were taken down from public buildings.<ref>[http://www.voanews.com/english/archive/2004-11/2004-11-18-voa15.cfm?moddate=2004-11-18 Removal of Kim Jong-il Portraits in North Korea Causes Speculation], VOA, 18 November 2004</ref> One point of view is that Kim Jong-il's cult of personality is solely out of respect for Kim Il-sung or out of fear of punishment for failure to pay homage.<ref>{{cite web|url=http://www.nautilus.org/DPRKbriefingbook/negotiating/issue.html|title="Korean Monarch Kim Jong Il: Technocrat Ruler of the Hermit Kingdom Facing the Challenge of Modernity" The Nautilus Institute. Accessed 18 December 2007|last=Mansourov|first=Alexandre}}</ref> Media and government sources from outside of North Korea generally support this view,<ref>{{Cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/6368203.stm|title=Nuclear deal fuels Kim's celebrations|publisher=BBC|date=16 February 2007|accessdate=2007-12-18|last=Scanlon|first=Charles}}</ref><ref>{{Cite news|url=http://news.independent.co.uk/world/asia/article1916374.ece|title=Kim Jong Il, the tyrant with a passion for wine, women and the bomb|publisher=The Independent|date=21 October 2006|accessdate=2007-12-18|last=Coonan|first=Clifford | location=London}}</ref><ref>Richard Lloyd Parry. [http://www.timesonline.co.uk/article/0,,25689-2396147,00.html "'Dear Leader' clings to power while his people pay the price"], The Times. 10 October 2006. Retrieved 18 December 2007.</ref><ref>{{cite web|url=http://www.nzherald.co.nz/category/story.cfm?c_id=340&ObjectID=10405224|title='North Korea's 'Dear Leader' flaunts nuclear prowess|publisher=New Zealand Herald|date=10 October 2006|accessdate=2007-12-18}}</ref><ref>Compiled by the Bureau of Democracy, Human Rights, and Labor. [http://www.state.gov/g/drl/rls/hrrpt/2003/27775.htm "Country Reports on Human Rights Practices"] US Department of State. 25 February 2004. Retrieved 18 December 2007.</ref> while North Korean government sources say that it is genuine hero worship.<ref>Jason LaBouyer [http://www.korea-dpr.com/lodestar0605v.pdf "When friends become enemies&nbsp;— Understanding left-wing hostility to the DPRK"] Lodestar. May/June 2005: pp. 7–9. Korea-DPR.com. Retrieved 18 December 2007.</ref>
+
+=== Korean reunification ===
+{{Main|Korean reunification}}
+North Korea's policy is to seek reunification without what it sees as outside interference, through a federal structure retaining each side's leadership and systems. Both North and South Korea signed the [[June 15th North–South Joint Declaration]] in which both sides made promises to seek out a peaceful reunification.<ref>{{cite web|url=http://www.kcckp.net/en/one/nation.php?1+joint|title="Naenara"-Korea is One-Leader and Nation-June 15 North-South Joint Declaration|date=2000-06-15|work=Naenara|publisher=Korea Computer Center in DPR Korea|accessdate=2009-07-04}}</ref> The Democratic Federal Republic of Korea is a [[proposed state]] first mentioned by then North Korean president Kim Il-sung on October 10, 1980, proposing a federation between North and [[South Korea]] in which the respective political systems would initially remain.<ref>{{cite web|url=http://www.songunpoliticsstudygroup.org/Oct102008/W-801010.HTM|title=REPORT TO THE SIXTH CONGRESS OF THE WORKERS’ PARTY OF KOREA ON THE WORK OF THE CENTRAL COMMITTEE|last=Kim|first=Il Sung|date=1980-10-10|publisher=Songun Politics Study Group (USA)|accessdate=2009-07-04}}</ref>
+
+== Sports ==
+{{Main|Sport in North Korea}}
+[[File:FIFA World Cup 2010 Brazil North Korea 9.jpg|thumb|right|North Korea (in red) playing against Brazil in the [[2010 FIFA World Cup]] in South Africa.]]
+Perhaps the most well known sporting event in North Korea is the annual [[Arirang Festival]].  The main attraction of Arirang is the [[mass gymnastics]] display.  In football, fifteen clubs compete in the [[DPR Korea League]] level-one and vie for both the Technical Innovation Contests and the Republic Championship.  The national football team, [[Korea DPR national football team|Chollima]], compete in the [[Asian Football Confederation|AFC]] and are ranked 105 by [[FIFA]] as of 26 May 2010.  The team competed in the [[FIFA World Cup]] in [[1966 FIFA World Cup|1966]] and [[2010 FIFA World Cup|2010]].  In hockey, North Korea has a [[North Korea men's national ice hockey team|men’s team]] that is ranked 43rd out of 49<ref>{{cite web|title=2010 Men's World Ranking|url=http://www.iihf.com/de/home-of-hockey/championships/world-ranking/mens-world-ranking/2010-ranking.html|publisher=International Ice Hockey Federation|accessdate=24 October 2010}}</ref> and competes in Division II.  The women’s team is ranked 21 out of 34<ref>{{cite web|title=2010 Women's World Ranking|url=http://www.iihf.com/de/home-of-hockey/championships/world-ranking/womens-world-ranking/2010-ranking.html|publisher=International Ice Hockey Federation|accessdate=24 October 2010}}</ref> and competes in Division II.
+
+North Korea has been competing in the Olympics since [[1964 Winter Olympics|1964]] and debuted at the summer games in [[1972 Summer Olympics|1972]] by taking home five medals, including one gold.  The IOC Code is [[North Korea at the Olympics|PRK]].  At the [[2004 Summer Olympics|Athens]] Games in 2004, the North and South marched together in the opening and closing ceremonies under the [[Unification Flag]], but competed separately. North Korea has medaled in every Olympics they have participated in.
+
+The [[martial arts|martial art]] [[taekwondo]] originated in Korea. In the 1950s and 60s, modern rules were standardised and taekwondo became an official [[Olympic Games|Olympic sport]] in 2000. Other Korean martial arts include [[taekkyeon]], [[hapkido]], [[tang soo do]], [[kuk sool won]], [[kumdo]] and [[subak]].
+
+== See also ==
+{{Portal|Korea}}
+
+* [[Index of Korea-related articles]]
+* [[Korean War]]
+* [[North Korea Uncovered]]
+* [[Outline of North Korea]]
+* [[List of documentary films about North Korea]]
+
+{{Clear}}
+
+== References ==
+
+{{Reflist|colwidth=30em}}
+
+== Further reading ==
+* Ben Anderson, [http://www.pbs.org/frontlineworld/stories/northkorea/interview.html Interview on visit to North Korea], ''Frontline World'', January 2003
+* Jasper Becker ''Rogue Regime: Kim Jong Il and the Looming Threat of North Korea'' Oxford University Press (2005) , hardcover, 328 pages, ISBN 13: 9780195170443
+* Gordon Cucullu, ''Separated At Birth: How North Korea Became The Evil Twin'' Globe Pequot Press (2004), hardcover, 307 pages, ISBN 1-59228-591-0
+* [[Bruce Cumings]], <cite>Korea's Place in the Sun: A Modern History</cite>, [[W.W. Norton & Company]], 1998, paperback, 527 pages, ISBN 0-393-31681-5
+* [[Bruce Cumings]], <cite>Origins of the Korean War (Vol. 1) : Liberation and the Emergence of Separate Regimes 1945–1947</cite>, [[Princeton University Press]], 1981, paperback, ISBN 0-691-10113-2
+* [[Bruce Cumings]], <cite>Origins of the Korean War (Vol. 2): The Roaring of the Cataract 1947–1950</cite>, [[Cornell University Press]], 2004, hardcover, ISBN 89-7696-613-9
+* [[Bruce Cumings]], <cite>North Korea: Another Country</cite>, [[New Press]], 2004, paperback, ISBN 1-56584-940-X
+* [[Bruce Cumings]], <cite>Living Through The Forgotten War: Portrait Of Korea</cite>, Mansfield Freeman Center for East Asian Studies, 2004, paperback, ISBN 0-9729704-0-1
+* [[Bruce Cumings]], <cite>Inventing the Axis of Evil: The Truth About North Korea, Iran, and Syria</cite>, [[New Press]], 2006, paperback, ISBN 1-59558-038-7
+* Delisle, Guy, <cite>Pyongyang: A Journey in North Korea</cite>, Drawn & Quarterly Books, 2005, hardcover, 176 pages, ISBN 1-896597-89-0
+* [[Barbara Demick]], ''Nothing to Envy: Real Lives in North Korea'', Granta, 2010. ISBN 9781847080141 (& New York, Random House, 2009)
+* Nick Eberstadt, aka Nicholas Eberstadt, ''The End of North Korea'', American Enterprise Institute Press (1999), hardcover, 191 pages, ISBN 0-8447-4087-X
+* John Feffer, <cite>North Korea South Korea: U.S. Policy at a Time of Crisis</cite>, [[Seven Stories Press]], 2003, paperback, 197 pages, ISBN 1-58322-603-6
+* Michael Harrold, <cite>[[Comrades and Strangers]]: Behind the Closed Doors of North Korea</cite>, Wiley Publishing, 2004, paperback, 432 pages, ISBN 0-470-86976-3
+* Helen-Louise Hunter, ''Kim Il-song's North Korea.'' Praeger, 1999. ISBN 0-275-96296-2.
+* {{Cite book|author=[[Kang Chol-Hwan]] |title=[[The Aquariums of Pyongyang|The Aquariums of Pyongyang: Ten Years in the North Korean Gulag]] |publisher=Basic Books, 2001 |year=2001 |isbn=0-465-01102-0}}
+* [[Lee Soon Ok]]. [[Eyes of the Tailless Animals: Prison Memoirs of a North Korean Woman]]. Living Sacrifice Book Co, 1999, ISBN 978-0882643359
+* Hyejin Kim, <cite>Jia: A Novel of North Korea</cite>, [[Cleis Press]], 2007, ISBN 1573442755
+* [[Christian Kracht]], Eva Munz, Lukas Nikol, "The Ministry Of Truth: Kim Jong Il's North Korea", Feral House, Oct 2007, 132 pages, 88 color photographs, ISBN 978-1932595277
+* Mitchell B. Lerner, <cite>The Pueblo Incident: A Spy Ship and the Failure of American Foreign Policy</cite>, University Press of Kansas, 2002, hardcover, 408 pages, ISBN 0-7006-1171-1
+* Andrei Lankov, <cite>'North of the DMZ: Essays on Daily Life in North Korea'' </cite>, McFarland & Company (April 24, 2007), paperback, 358 pages, ISBN 978-0786428397
+* John Feffer, <cite>North Korea South Korea: U.S. Policy at a Time of Crisis</cite>, [[Seven Stories Press]], 2003, paperback, 197 pages, ISBN 1-58322-603-6
+* [[Don Oberdorfer]]. <cite>The Two Koreas : a contemporary history</cite> Addison-Wesley, 1997, 472 pages, ISBN 0-201-40927-5
+* Kong Dan Oh, and Ralph C. Hassig, ''North Korea Through the Looking Glass'', The Brookings Institution, 2000, paperback, 216 pages, ISBN 0-8157-6435-9
+* Osmond, Andrew, ''High'', Minnow Press, 2004, paperback, 216 pages, ISBN 978-0953944828 Includes a fictional account of the creation of a new state of New Korea.
+* Quinones, Dr C. Kenneth, and Joseph Tragert, ''The Complete Idiot's Guide to Understanding North Korea'', Alpha Books, 2004, paperback, 448 pages, ISBN 1-59257-169-7
+* Sigal, Leon V., ''Disarming Strangers: Nuclear Diplomacy with North Korea'', [[Princeton University Press]], 199, 336 pages, ISBN 0-691-05797-4
+* Chris Springer, ''Pyongyang: The Hidden History of the North Korean Capital'' Saranda Books, 2003. ISBN 963-00-8104-0.
+* Vladimir, ''Cyber North Korea'', Byakuya Shobo, 2003, paperback, 223 pages, ISBN 4-89367-881-7
+* Norbert Vollertsen, <cite>Inside North Korea: Diary of a Mad Place</cite>, Encounter Books, 2003, hardcover, 280 pages, ISBN 1-893554-87-2
+* Wahn Kihl, Y. (1983) "North Korea in 1983: Transforming "The Hermit Kingdom"?" ''Asian Survey'', Vol. 24, No. 1: pp100–111
+* Robert Willoughby, ''North Korea: The Bradt Travel Guide.'' Globe Pequot, 2003. ISBN 1-84162-074-2.
+* [[Hyun Hee Kim]], "[[The Tears of My Soul]]", William Morrow and Company, Inc., 1993, hardcover, 183 pages, ISBN 0-688-12833-5
+* Ducruet, Cesar et Jo, Jin-Cheol (2008) [http://www.informaworld.com/smpp/462288788-26821155/content~content=a782923580~db=all~tab=content~order=page Coastal Cities, Port Activities and Logistic Constraints in a Socialist Developing Country: The Case of North Korea], Transport Reviews, Vol. 28, No. 1, pp.&nbsp;1–25:
+
+== External links ==
+{{Sister project links}}
+* [http://www.kcna.co.jp/index-e.htm KCNA] – Korean Central News Agency, the official news agency of the DPRK
+* [http://www.dailynk.com/english/index.php Daily NK] – Uncensored news from North Korea
+* [http://www.korea-dpr.com/ The Official Webpage of The Democratic People's Republic of Korea] - maintained by the [[Korean Friendship Association]]
+* {{dmoz|Regional/Asia/North_Korea}}
+* {{CIA World Factbook link|kn|North Korea}}
+* {{Wikiatlas|North Korea}}
+* {{Wikitravel}}
+* [https://www.cia.gov/library/publications/world-leaders-1/world-leaders-k/korea-north-nde.html Chief of State and Cabinet Members] ([[United States|US]] [[CIA]])
+* [http://ucblibraries.colorado.edu/govpubs/for/nkorea.htm North Korea] - Link Collection ([[University of Colorado at Boulder]] Libraries GovPubs)
+
+====Images====
+* [http://www.thefirstpost.co.uk/45314,news-comment,news-politics,inside-north-korea-rare-insight-into-a-very-foreign-country Inside North Korea] - slideshow by ''[[The First Post]]''
+* [http://www.life.com/image/first/in-gallery/53201/north-korea-inside-a-secret-state#index/0 North Korea: Inside a Secret State] - slideshow by ''[[Life magazine]]''
+
+{{Korea topics}}
+{{Regions and administrative divisions of North Korea}}
+{{North Korean armed forces}}
+{{Countries and territories of East Asia}}
+{{Countries of Asia}}
+{{Socialist states}}
+
+{{DEFAULTSORT:Korea, North}}
+[[Category:North Korea| ]]
+[[Category:East Asian countries]]
+[[Category:Divided regions]]
+[[Category:States and territories established in 1948]]
+[[Category:1948 in North Korea]]
+[[Category:Single-party states]]
+[[Category:Communist states]]
+
+{{Link FA|bg}}
+<!--Other languages-->
+
+[[ace:Korèa Barôh]]
+[[af:Noord-Korea]]
+[[als:Nordkorea]]
+[[ang:Norþcorēa]]
+[[ar:كوريا الشمالية]]
+[[an:Coreya d'o Norte]]
+[[frp:Corê du Nord]]
+[[as:উত্তৰ কোৰিয়া]]
+[[ast:Corea del Norte]]
+[[az:Koreya Xalq Demokratik Respublikası]]
+[[bn:উত্তর কোরিয়া]]
+[[zh-min-nan:Tiâu-sián]]
+[[be:Паўночная Карэя]]
+[[be-x-old:Карэйская Народна-Дэмакратычная Рэспубліка]]
+[[bcl:North Korea]]
+[[bo:བྱང་ཀོ་རི་ཡ།]]
+[[bs:Sjeverna Koreja]]
+[[br:Republik Poblel ha Demokratel Korea]]
+[[bg:Северна Корея]]
+[[ca:Corea del Nord]]
+[[ceb:Amihanang Korea]]
+[[cs:Severní Korea]]
+[[cbk-zam:Corea del Norte]]
+[[cy:Gogledd Corea]]
+[[da:Nordkorea]]
+[[de:Nordkorea]]
+[[dv:އުތުރު ކޮރެއާ]]
+[[nv:Kolíya Bikéyah Náhookǫsjí Siʼánígíí]]
+[[dsb:Pódpołnocna Koreja]]
+[[dz:བྱང་ཀོ་རི་ཡ་]]
+[[et:Põhja-Korea]]
+[[el:Βόρεια Κορέα]]
+[[es:Corea del Norte]]
+[[eo:Nord-Koreio]]
+[[ext:Corea el Norti]]
+[[eu:Ipar Korea]]
+[[ee:North Korea]]
+[[fa:کره شمالی]]
+[[hif:North Korea]]
+[[fo:Norðurkorea]]
+[[fr:Corée du Nord]]
+[[fy:Noard-Korea]]
+[[ga:An Chóiré Thuaidh]]
+[[gv:Yn Chorea Twoaie]]
+[[gd:Coirea a Tuath]]
+[[gl:Corea do Norte - 조선]]
+[[gu:ઉત્તર કોરિયા]]
+[[hak:Tsêu-siên Mìn-tsú Tsú-ngi Ngìn-mìn Khiung-fò-koet]]
+[[xal:Солңһудин Улс Орн]]
+[[ko:조선민주주의인민공화국]]
+[[haw:Kōlea ʻĀkau]]
+[[hy:Կորեայի Ժողովրդա-Դեմոկրատական Հանրապետություն]]
+[[hi:उत्तर कोरिया]]
+[[hsb:Sewjerna Koreja]]
+[[hr:Sjeverna Koreja]]
+[[io:Nord-Korea]]
+[[ilo:Amianan a Korea]]
+[[bpy:ঔয়াং কোরিয়া]]
+[[id:Korea Utara]]
+[[ia:Corea del Nord]]
+[[ie:Nord-Korea]]
+[[os:Корейы Адæмон Демократон Республикæ]]
+[[is:Norður-Kórea]]
+[[it:Corea del Nord]]
+[[he:קוריאה הצפונית]]
+[[jv:Koréa Lor]]
+[[kl:Korea Avannarleq]]
+[[kn:ಉತ್ತರ ಕೊರಿಯಾ]]
+[[pam:Pangulung Korea]]
+[[krc:Корей Халкъ-Демократ Республика]]
+[[ka:ჩრდილოეთი კორეა]]
+[[csb:Kòrejańskô Lëdowò-Demokratnô Repùblika]]
+[[kk:Солтүстік Корея]]
+[[kw:Korea Gledh]]
+[[rw:Koreya y’Amajyaruguru]]
+[[sw:Korea Kaskazini]]
+[[kv:Корея Войтыр Демократия Республика]]
+[[ht:Kore dinò]]
+[[ku:Korêya Bakur]]
+[[lad:Korea del Nord]]
+[[la:Respublica Popularis Democratica Coreana]]
+[[lv:Ziemeļkoreja]]
+[[lb:Demokratesch Volleksrepublik Korea]]
+[[lt:Šiaurės Korėja]]
+[[li:Noord-Korea]]
+[[ln:Kore ya Nola]]
+[[jbo:berti zei .xanguk]]
+[[lmo:Corea del Nòrd]]
+[[hu:Észak-Korea]]
+[[mk:Демократска Народна Република Кореја]]
+[[mg:Korea Avaratra]]
+[[ml:ഉത്തര കൊറിയ]]
+[[mr:उत्तर कोरिया]]
+[[arz:كوريا الشماليه]]
+[[ms:Korea Utara]]
+[[mn:Хойд Солонгос]]
+[[my:ကိုရီးယား ဒီမိုကရက်တစ် ပြည်သူ့သမ္မတနိုင်ငံ]]
+[[nah:Corea Mictlāmpa]]
+[[na:Republik Engame Korea]]
+[[nl:Noord-Korea]]
+[[ja:朝鮮民主主義人民共和国]]
+[[pih:North Koriya]]
+[[no:Nord-Korea]]
+[[nn:Nord-Korea]]
+[[nov:Nord Korea]]
+[[oc:Corèa del Nòrd]]
+[[uz:Koreya Xalq Demokratik Respublikasi]]
+[[pnb:اتلا کوریا]]
+[[pap:Nort Korea]]
+[[ps:د کوريا ولسواک خلق جمهوريت]]
+[[pms:Coréa dël Nòrd]]
+[[tpi:Not Koria]]
+[[nds:Noordkorea]]
+[[pl:Korea Północna]]
+[[pt:Coreia do Norte]]
+[[crh:Şimaliy Koreya]]
+[[ksh:Nordkorea]]
+[[ro:Coreea de Nord]]
+[[qu:Chinchay Kuriya]]
+[[ru:Корейская Народно-Демократическая Республика]]
+[[sah:Хоту Кэриэйэ]]
+[[se:Davvi-Korea]]
+[[sco:North Korea]]
+[[sq:Koreja e Veriut]]
+[[scn:Corea dû Nord]]
+[[simple:North Korea]]
+[[ss:IKhoriya leseNyakatfo]]
+[[sk:Kórejská ľudovodemokratická republika]]
+[[sl:Severna Koreja]]
+[[szl:Půłnocno Koryjo]]
+[[so:Waqooyiga Kuuriya]]
+[[ckb:کۆریای باکوور]]
+[[sr:Северна Кореја]]
+[[sh:Demokratska Narodna Republika Koreja]]
+[[su:Koréa Kalér]]
+[[fi:Korean demokraattinen kansantasavalta]]
+[[sv:Nordkorea]]
+[[tl:Hilagang Korea]]
+[[ta:வடகொரியா]]
+[[tt:Корея Халык Демократик Җөмһүрияте]]
+[[te:ఉత్తర కొరియా]]
+[[th:ประเทศเกาหลีเหนือ]]
+[[tg:Куриёи Шимолӣ]]
+[[tr:Kuzey Kore]]
+[[tk:Demirgazyk Koreýa]]
+[[udm:Корея Калык-Демократи Республика]]
+[[uk:Північна Корея]]
+[[ur:شمالی کوریا]]
+[[ug:شىمالىي چاۋشيەن]]
+[[vec:Corea del Nord]]
+[[vi:Cộng hòa Dân chủ Nhân dân Triều Tiên]]
+[[vo:Nolüda-Koreyän]]
+[[fiu-vro:Põh'a-Korea]]
+[[zh-classical:朝鮮民主主義人民共和國]]
+[[war:Amihanan nga Korea]]
+[[wo:Kore gu Bëj-gànnaar]]
+[[wuu:朝鲜民主主义人民共和国]]
+[[yi:צפון קארעע]]
+[[yo:Àríwá Kòréà]]
+[[zh-yue:朝鮮民主主義人民共和國]]
+[[diq:Korya Zımey]]
+[[bat-smg:Šiaurės Kuoriejė]]
+[[zh:朝鲜民主主义人民共和国]]

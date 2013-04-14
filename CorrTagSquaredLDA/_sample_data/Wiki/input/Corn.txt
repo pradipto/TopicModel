@@ -1,0 +1,605 @@
+{{About|the cereal grain, also known as ''corn'' in some countries|other uses}}
+{{Redirect|Corn|other uses|Corn (disambiguation)}}
+{{Taxobox
+| name = Maize
+| image = Koeh-283.jpg
+| image_caption = Illustration depicting both male and female flowers of maize
+| regnum = [[Plant]]ae
+| phylum_divisio = [[Angiosperms]]
+| class_classis = [[Monocots]]
+| unranked_ordo = [[Commelinids]]
+| ordo = [[Poales]]
+| familia = [[Poaceae]]
+| subfamilia = [[Panicoideae]]
+| tribus = [[Andropogoneae]]
+| genus = ''[[Teosinte|Zea]]''
+| species = '''''Z. mays'''''
+| binomial = ''Zea mays''
+| binomial_authority = [[Carl Linnaeus|L.]]
+}}
+
+'''Maize''' (''Zea mays'' [[Carl Linnaeus|L]]. ssp. ''mays'', {{pron-en|ˈmeɪz}}), known in many [[English language|English]]-speaking countries as '''corn''', is a [[grain]] domesticated by [[indigenous peoples]] in [[Mesoamerica]] in prehistoric times. The [[Aztecs]] and [[Maya peoples|Mayans]] cultivated it in numerous varieties throughout central and southern [[Mexico]], to cook or grind in a process called [[nixtamalization]]. Later the crop spread through much of the [[Americas]]. Between 1250 and 1700, nearly the whole continent had gained access to the crop. Any significant or dense populations in the region developed a great trade network based on surplus and varieties of maize crops. After [[European colonization of the Americas|European contact with the Americas]] in the late 15th and early 16th centuries, explorers and traders carried maize back to Europe and introduced it to other countries through trade. Maize spread to the rest of the world due to its popularity and ability to grow in diverse climates. 
+
+Maize is the most widely grown [[crop]] in the Americas with 332 million [[tonne|metric tons]] grown annually in the [[United States]] alone. [[Transgenic maize]] made up 85% of the maize planted in the United States in 2009.<ref name= GMOCompass/> While some maize varieties grow to {{convert|12|m|ft|abbr=off}} tall,<ref>cf. http://best-fit.hypothesis.angelfire.com/publ2010/</ref> most commercially grown maize has been bred for a standardized height of {{convert|2.5|m|ft|abbr=off}}. [[Sweet corn]] is usually shorter than [[field corn|field-corn]] varieties.
+
+== Naming conventions ==
+[[File:Corntassel 7095.jpg|left|thumb|upright|Many small male flowers make up the male inflorescence, called the tassel]]
+The term ''maize'' derives from the Spanish form of the indigenous ''[[Taino]]'' word ''maiz'' for the plant. This was the term used in the [[United Kingdom]] and [[Ireland]], where it is now usually called "sweet corn", the most common form of the plant known to people there. Sweet corn is harvested earlier and eaten as a vegetable rather than a grain.<ref>"Maize". ''The Oxford English Dictionary'', online edition. December 2007. Accessed December 16, 2007.[http://dictionary.oed.com/cgi/entry/00299980?query_type=word&queryword=maize&first=1&max_to_show=10&sort_type=alpha&result_place=2&search_id=2K83-vPUJCp-982&hilite=00299980]</ref>
+
+Outside the [[British Isles]], another common term for maize is "corn". This was originally the English term for any [[cereal]] crop. In North America, its meaning has been restricted since the 19th century to maize, as it was shortened from "Indian corn."<ref name="OED_corn"/> The term Indian corn now refers specifically to multi-colored "field corn" ([[flint corn]]) cultivars.<ref name="OED_corn">"Corn". ''The Oxford English Dictionary'', online edition. 1989. Accessed December 16, 2007.[http://dictionary.oed.com/cgi/entry/50050313?query_type=word&queryword=corn&first=1&max_to_show=10&sort_type=alpha&result_place=2&search_id=2K83-GWYYAL-972&hilite=50050313]</ref>
+
+In scientific and formal usage, "maize" is normally used in a global context. Equally, in bulk-trading contexts, "corn" is used most frequently. In the UK, [[Australia]] and other English-speaking countries, the word "corn" is often used in culinary contexts, particularly in naming products such as [[popcorn]] and [[corn flakes]]. "Maize" is used in agricultural and scientific references.{{#tag:ref|The growers industry body for the crop in Australia is the [http://www.maizeaustralia.com.au Maize Association of Australia], for example, and "maize" is used by government agricultural bodies and [[research institute]]s such as the [[CSIRO]]. This usage is replicated among the English-speaking countries of Africa. For example, [[Kenya]] has the Kenya Maize Consortium and Maize Breeders Network, [[Nigeria]] the National Maize Association of Nigeria, [[Zimbabwe]] the Zimbabwe Seed Maize Association, and [[South Africa]] the Maize Board, until its dissolution in the 1990s. Agricultural and farmers' federations in Burundi, Uganda, Botswana, Ghana etc all call it "maize", as do relevant industry bodies in the UK. In India, there is the Indian Maize Development Association. It is usually if not preferentially called 'maize' in [[FAO]] and other international agricultural organizations.|group=Note}}
+
+In [[Southern Africa]], maize is commonly referred to as ''mielie'' or ''mealie'', from the Portuguese ''milho''.<ref>http://dictionary.reference.com/browse/mielie</ref> [[Mielie-meal]] is the ground form.
+
+== Structure and physiology ==
+[[File:Cornsilk 7091.jpg|right|thumb|upright|Female inflorescence, with young silk]]
+Maize stems superficially resemble [[bamboo]] canes and the [[internode (botany)|internodes]] can reach 44.5 [[centimetre]]s (17.5 [[inch|in]]). Maize has a distinct growth form; the lower leaves being like broad flags, generally 50–100&nbsp;centimetres long and 5–10&nbsp;centimetres wide (2–4&nbsp;ft by 2–4&nbsp;in); the stems are erect, conventionally 2–3&nbsp;metres (7–10&nbsp;ft) in height, with many [[plant stem|nodes]], casting off flag-leaves at every node. Under these leaves and close to the stem grow the ears. They grow about 3&nbsp;millimetres a day.
+
+[[File:GreenCorn.JPG|left|thumb|upright|Stalks, ears, and silk]]
+The ears are female [[inflorescence]]s, tightly covered over by several layers of leaves, and so closed-in by them to the stem that they do not show themselves easily until the emergence of the pale yellow silks from the leaf whorl at the end of the ear. The silks are elongated [[Stigma (botany)|stigmas]] that look like tufts of hair, at first green, and later red or yellow. Plantings for [[silage]] are even denser, and achieve a lower percentage of ears and more plant matter. Certain varieties of maize have been bred to produce many additional developed ears. These are the source of the "[[baby corn]]" used as a vegetable in [[Asian cuisine]].
+
+Maize is a [[facultative]] [[long-night plant]] and flowers in a certain number of [[growing degree day]]s > {{convert|50|°F|°C|abbr=on}} in the environment to which it is adapted.<ref>Coligado 1975, Salamini 1985, Poethig 1994, Paliwal 2000</ref> The magnitude of the influence that long nights have on the number of days that must pass before maize [[flower]]s is genetically prescribed and regulated by the [[phytochrome]] system.<ref>P. V. Nelson 1985.</ref> [[circadian rhythm|Photoperiodicity]] can be eccentric in tropical [[cultivar]]s, while the long days characteristic of higher latitudes allow the plants to grow so tall that they do not have enough time to produce seed before being killed by frost. These attributes, however, may prove useful in using tropical maize for [[biofuel]]s.<ref>[http://www.aces.uiuc.edu/news/stories/news4169.html Tropical Maize for Biofuels<!-- Bot generated title -->]</ref>
+
+[[File:Männliche Blüte einer Maispflanze 2009-08-19.JPG|thumb|male flowers]]
+The apex of the stem ends in the tassel, an [[inflorescence]] of male flowers. When the tassel is mature and conditions are suitably warm and dry, anthers on the tassel [[dehiscence (botany)|dehisce]] and release pollen. Maize pollen is ''anemophilous'' (dispersed by wind) and because of its large settling velocity most pollen falls within a few meters of the tassel. Each silk may become pollinated to produce one kernel of maize. Young ears can be consumed raw, with the [[corncob|cob]] and silk, but as the plant matures (usually during the summer months) the cob becomes tougher and the silk dries to inedibility. By the end of the [[growing season]], the kernels dry out and become difficult to chew without cooking them tender first in boiling water. Modern farming techniques in [[Developed country|developed countries]] usually rely on dense planting, which produces one large ear per stalk.
+
+=== Seeds ===
+[[File:Ab food 06.jpg|thumb|left|Maize kernels]]
+The kernel of maize has a [[pericarp]] of the fruit fused with the seed coat, typical of the [[Poaceae|grasses]], and the entire kernel is often referred to as the ''seed''. The cob is close to a [[multiple fruit]] in structure, except that the individual fruits (the kernels) never fuse into a single mass. The grains are about the size of [[pea]]s, and adhere in regular rows round a white pithy substance, which forms the ear. An ear contains from 200 to 400 kernels, and is from {{convert|10|–|25|cm|0|abbr=on}} in length. They are of various colors: blackish, [[blue corn|bluish-gray]], purple, green, red, white and yellow. When ground into [[flour]], maize yields more flour, with much less [[bran]], than wheat does. However, it lacks the protein [[gluten]] of wheat and, therefore, makes baked goods with poor rising capability.
+
+A [[gene]]tic variant that accumulates more sugar and less [[starch]] in the ear is consumed as a [[vegetable]] and is called [[sweet corn]].{{Citation needed|date=February 2010}}
+
+Immature maize shoots accumulate a powerful antibiotic substance, [[DIMBOA]] (2,4-dihydroxy-7-methoxy-1,4-benzoxazin-3-one). DIMBOA is a member of a group of [[hydroxamic acid]]s (also known as benzoxazinoids) that serve as a natural defense against a wide range of pests including insects, [[pathogenic]] fungi and [[bacteria]]. DIMBOA is also found in related grasses, particularly wheat. A maize mutant (bx) lacking DIMBOA is highly susceptible to be attacked by [[aphid]]s and [[fungi]]. DIMBOA is also responsible for the relative resistance of immature maize to the European corn borer (family [[Crambidae]]). As maize matures, DIMBOA levels and resistance to the corn borer decline.
+
+Because of its shallow roots, maize is susceptible to droughts, intolerant of nutrient-deficient soils, and prone to be uprooted by severe winds.<ref>{{cite web| title = Corn Stalk Lodging| publisher = [[Monsanto Company|Monsanto]] Imagine| date = 2008-10-02| url = http://www.dekalb.ca/content/pdf/corn_stalk_lodging.pdf| accessdate = 2009-02-23}}</ref>
+
+== Some hazards of maize in the diet ==
+=== Pellagra ===
+{{Main|Pellagra}}
+{{Refimprove|section|date=July 2010}}
+When maize was first introduced into other farming systems than those used by traditional native-American peoples, it was generally welcomed with enthusiasm for its productivity. However, a widespread problem of malnutrition soon arose wherever maize was introduced as a [[staple food]]. This was a mystery since these types of malnutrition were not normally seen among the indigenous Americans, for whom maize was the principal staple food.<ref name=pellagra_mystery>{{cite web| url = http://www.eufic.org/web/article.asp?cust=1&lng=en&sid=4&did=16&artid=103| title = The origins of maize: the puzzle of pellagra| accessdate = September 14, 2006| work = EUFIC > Nutrition > Understanding Food| month = December| year = 2001| publisher = The European Food Information Council}}</ref>
+
+It was eventually discovered that the indigenous Americans had learned to soak maize{{Citation needed|date=July 2010}} in [[alkali]]-water—made with ashes and lime ([[calcium oxide]]) by [[Mesoamericans]] and North Americans—which liberates the B-vitamin [[niacin]], the lack of which was the underlying cause of the condition known as [[pellagra]]. This alkali process is known by its [[Nahuatl language|Nahuatl]] (Aztec)-derived name: [[nixtamalization]].
+
+Besides the lack of niacin, pellagra was also characterized by [[protein]] deficiency, a result of the inherent lack of two key [[amino acid]]s in pre-modern maize, [[lysine]] and [[tryptophan]]. Nixtamalisation was also found to increase the availability of lysine and tryptophan to some extent, but more importantly, the indigenous Americans had also learned to balance their consumption of maize with [[beans]] and other protein sources such as [[amaranth]] and [[Salvia hispanica|chia]], as well as meat and fish, in order to acquire the complete range of amino acids for normal [[protein synthesis]].
+
+Since maize had been introduced into the diet of non-indigenous Americans without the necessary cultural knowledge acquired over thousands of years in the Americas, the reliance on maize in other cultures was often tragic. In the late 19th century pellagra reached epidemic proportions in parts of the deep southern U.S., as medical researchers debated two theories for its origin: the deficiency theory (eventually shown to be true) posited that pellagra was due to a deficiency of some nutrient, and the germ theory posited that pellagra was caused by a germ transmitted by stable flies. In 1914 the U.S. government officially endorsed the germ theory of pellagra, but rescinded this endorsement several years later as evidence grew against it. By the mid-1920s the deficiency theory of pellagra was becoming [[scientific consensus]], and the theory was validated in 1932 when niacin deficiency was determined to be the cause of the illness.
+
+Once alkali processing and dietary variety were understood and applied, pellagra disappeared in the developed world. The development of high lysine maize and the promotion of a more balanced diet has also contributed to its demise. Pellagra still exists today in food-poor areas and refugee camps where people survive on donated corn.<ref>{{cite book |chapter=Nutrients involved in energy metabolism |title=The Science of Nutrition |author=Janice L. Thompson, Melinda M. Manore & Linda Ann Vaughan |edition=2nd |location=San Francisco |publisher=[[Pearson Education]] |year=2010 |pages=292–321 |isbn=978-0321643162}}</ref>
+
+=== Allergy ===
+Maize contains [[Lipid transfer proteins|lipid transfer protein]], an indigestible protein that survives cooking. This protein has been linked to a rare and understudied [[allergy]] to maize in humans.<ref name="Allergy">[http://foodallergens.ifr.ac.uk/food.lasso?selected_food=33#summary Corn (maize) Allergy], InformAll Database, 18 October 2006</ref> The allergic reaction can cause skin rash, swelling or itching of [[mucous membranes]], diarrhea, vomiting, [[asthma]] and, in severe cases, [[anaphylaxis]]. It is unclear how common this allergy is in the general population.
+
+== Genetics ==
+[[File:GEM corn.jpg|thumb|right|Exotic varieties of maize are collected to add [[genetic diversity]] when selectively breeding new domestic strains.]]
+[[File:Corncobs.jpg|thumb|right|Variegated maize ears]]
+
+Many forms of maize are used for food, sometimes classified as various subspecies related to the amount of starch each had:
+* Flour corn&nbsp;— ''Zea mays var. amylacea''
+* [[Popcorn]]&nbsp;— ''Zea mays var. everta''
+* [[Dent corn]] &nbsp;— ''Zea mays var. indentata''
+* [[Flint corn]]&nbsp;— ''Zea mays var. indurata''
+* [[Sweet corn]]&nbsp;— ''Zea mays var. saccharata'' and ''Zea mays var. rugosa''
+* [[Waxy corn]]&nbsp;— '' Zea mays var. ceratina''
+* [[Amylomaize]]&nbsp;— '' Zea mays''
+* Pod corn&nbsp;— ''Zea mays var. tunicata'' Larrañaga ex A. St. Hil.
+* Striped maize&nbsp;— ''Zea mays var. japonica''
+This system has been replaced (though not entirely displaced) over the last 60 years by multi-variable classifications based on ever more data. [[Agronomics|Agronomic]] data were supplemented by botanical traits for a robust initial classification, then genetic, [[Cell biology|cytological]], protein and DNA evidence was added. Now the categories are forms (little used), races, racial complexes, and recently branches.
+
+Maize has 10 [[chromosome]]s (n=10). The combined length of the chromosomes is 1500 [[Centimorgan|cM]]. Some of the maize chromosomes have what are known as "chromosomal knobs": highly repetitive [[heterochromatin|heterochromatic]] domains that stain darkly. Individual knobs are [[Polymorphism (biology)|polymorphic]] among strains of both maize and [[teosinte]].
+
+[[Barbara McClintock]] used these knob markers to validate her [[transposon]] theory of "jumping genes", for which she won the 1983 [[Nobel Prize in Physiology or Medicine]]. Maize is still an important [[model organism]] for genetics and [[developmental biology]] today.<ref>{{cite web
+|url=http://www.washingtonpost.com/wp-dyn/content/article/2009/11/19/AR2009111903190.html
+|title=Scientists have high hopes for corn genome
+|first=David
+|last=Brown
+|publisher=Washington Post
+|date=2009-11-20}}</ref>
+
+The Maize Genetics Cooperation Stock Center, funded by the USDA [[Agricultural Research Service]] and located in the Department of Crop Sciences at the [[University of Illinois at Urbana-Champaign]], is a stock center of maize mutants. The total collection has nearly 80,000 samples. The bulk of the collection consists of several hundred named genes, plus additional gene combinations and other heritable variants. There are about 1000 chromosomal aberrations (e.g., translocations and inversions) and stocks with abnormal chromosome numbers (e.g., [[tetraploid]]s). Genetic data describing the maize mutant stocks as well as myriad other data about maize genetics can be accessed at [http://maizegdb.org/ MaizeGDB], the Maize Genetics and Genomics Database.<ref>[http://www.maizegdb.org/ MaizeGDB<!-- Bot generated title -->]</ref>
+
+In 2005, the U.S. [[National Science Foundation]] (NSF), Department of Agriculture ([[United States Department of Agriculture|USDA]]) and the [[United States Department of Energy|Department of Energy]] (DOE) formed a consortium to sequence the B73 maize [[genome]]. The resulting DNA sequence data was deposited immediately into [[GenBank]], a public repository for genome-sequence data. Sequences and genome annotations have also been made available throughout the project's lifetime at the project's official site, [http://www.maizesequence.org MaizeSequence.org].
+
+Primary sequencing of the maize genome was completed in 2008.<ref>[http://www.reuters.com/article/rbssIndustryMaterialsUtilitiesNews/idUSN2632641520080226 Researchers sequence genome of maize, a key crop]</ref> On November 20, 2009, the consortium published results of its sequencing effort in ''Science''.<ref>[http://www.sciencemag.org/cgi/content/abstract/sci;326/5956/1112 The B73 Maize Genome: Complexity, Diversity, and Dynamics (Abstract)]</ref> The genome, 85% of which is composed of [[transposon]]s, was found to contain 32,540 genes (By comparison, the [[human genome]] contains about 2.9 billion bases and 26,000 genes). Much of the maize genome has been duplicated and reshuffled by [[Helitron (biology)|helitrons]] a group of rolling circle transposons.<ref>{{cite journal | last1 = Feschotte | first1 = C. | last2 = Pritham | first2 = E. | title = A cornucopia of ''Helitrons'' shapes the maize genome | journal =[[Proceedings of the National Academy of Sciences]] | volume = 106 | issue = 47 | pages = 19747–19748 | year = 2009 | pmid = 19926864 | pmc = 2785235 | doi = 10.1073/pnas.0910273106}}</ref>
+
+== Origin ==
+[[File:Corn parents1.jpg|right|thumb|A ''Tripsacum'' grass (big) and a teosinte (small)]]
+Several theories have been proposed about the specific origin of maize in Mesoamerica:<ref name="wilkes-origin">{{cite book |first=Garrison |last=Wilkes |chapter=Chapter 1.1 Corn, strange and marvelous: but is a definitive origin known? |title=Corn: Origin, History, Technology, and Production |editor-first=C.&nbsp;Wayne |editor-last=Smith |pages=3–63 |publisher= Wiley |year=2004 |isbn=978-0-471-41184-0 |editor3-first=Javier |editor3-last=Betrán |editor1-first=E.&nbsp;C.&nbsp;A. |editor2-last=Runge}}</ref><ref name="isbn0-88029-595-3">{{cite book |author=Ordish, George; Hyams, Edward |title=The last of the Incas: the rise and fall of an American empire |publisher=Barnes & Noble |location=New York |year=1996 |page=26 |isbn=0-88029-595-3 |oclc= |doi= |accessdate=}}</ref>
+# It may be a direct [[domestication]] of a [[Mexican people|Mexican]] annual [[teosinte]], ''Zea mays'' ssp. ''parviglumis'', native to the [[Balsas River valley]] in south-eastern [[Mexico]], with up to 12% of its [[genetic material]] obtained from ''Zea mays'' ssp. ''mexicana'' through [[introgression]].
+# It may have been derived from hybridization between a small domesticated maize (a slightly changed form of a wild maize) and a teosinte of section ''Luxuriantes'', either ''Z. luxurians'' or ''Z. diploperennis''.
+# It may have undergone two or more domestications either of a wild maize or of a teosinte.
+# It may have evolved from a hybridization of ''Z. diploperennis'' by ''[[Tripsacum dactyloides]]''. (The term "teosinte" describes all [[species]] and subspecies in the genus ''Zea'', excluding ''Zea mays'' ssp. ''mays''.)
+In the late 1930s, Paul Mangelsdorf suggested that domesticated maize was the result of a hybridization event between an unknown wild maize and a species of ''[[Tripsacum]]'', a related genus. However, the proposed role of ''Tripsacum'' (gama grass) in the origins of maize has been refuted by modern [[genetic testing]], refuting Mangelsdorf’s model and the fourth listed above.<ref name="wilkes-origin"/>{{rp|40}}
+
+[[File:Guila Naquitz cave.jpg|right|thumb|Guila Naquitz Cave, site of one of the oldest known remains of maize]]
+The teosinte origin theory was proposed by the Russian botanist [[Nikolai Ivanovich Vavilov]] in 1931 and the later American [[Nobel Prize]] winner [[George Beadle]] in 1932.<ref name="wilkes-origin"/>{{rp|10}} Though it had experimental support, in particular the ability of teosinte and maize to cross-breed and produce fertile offspring, it did not explain a number of problems, among them:
+# how the immense diversity of the species of sect. ''Zea'' originated,
+# how the tiny archaeological specimens of 3500–2700 BC could have been selected from a teosinte, and
+# how domestication could have proceeded without leaving remains of teosinte or maize with teosintoid traits earlier than the earliest known until recently, dating from ca. 1100 BC.
+
+The [[domestication]] of maize is of particular interest to researchers&nbsp;— [[archaeologist]]s, [[genetics|geneticists]], [[ethnobotany|ethnobotanists]], geographers, etc. The process is thought by some to have started 7,500 to 12,000 years ago. Research from the 1950s to 1970s originally focused on the hypothesis that maize domestication occurred in the highlands between [[Oaxaca]] and [[Jalisco]], because the oldest archaeological remains of maize known at the time were found there. Genetic studies led by [[John Doebley]] identified ''Zea mays'' ssp. ''parviglumis'', native to the Balsas River valley and also known as Balsas teosinte, as being the [[crop wild relative]] teosinte genetically most similar to modern maize.<ref>{{cite journal |author=Doebley, J. F. |authorlink=John Doebley |title=The genetics of maize evolution |url=http://teosinte.wisc.edu/pdfs/DoebleyAnnRev2004.pdf |journal=[[Annual Review of Genetics]] |year=2004 |volume=38 |pmid=15568971 |pages=37–59 |doi=10.1146/annurev.genet.38.072902.092425}}</ref> However, archaeobotanical studies published in 2009 now point to the lowlands of the Balsas River valley, where stone milling tools with maize residue have been found in a 8,700-years old layer of deposits.<ref>[http://www.eurekalert.org/pub_releases/2009-03/nsf-wgb032309.php "Wild grass became maize crop more than 8,700 years ago", National Science Foundation, News Release at ''Eurekalert'' March 24, 2009]</ref><ref>{{cite journal |author=Ranere, Anthony J., Dolores R. Piperno, Irene Holst, Ruth Dickau, José Iriarte |title=The cultural and chronological context of early Holocene maize and squash domestication in the Central Balsas River Valley, Mexico |url=http://www.pnas.org/content/106/13/5014.full.pdf |journal=[[Proceedings of the National Academy of Sciences]] |year=2009 |volume=106 |pmid=19307573 |issue=13 |pages=5014–5018 |pmc=2664064 |doi=10.1073/pnas.0812590106}}</ref><ref>{{cite journal |author=Piperno, Dolores R., Anthony J. Ranere, Irene Holst, José Iriarte, Ruth Dickau |title=Starch grain and phytolith evidence for early ninth millennium B.P. maize from the Central Balsas River Valley, Mexico |url=http://www.pnas.org/content/106/13/5019.full.pdf |journal=[[Proceedings of the National Academy of Sciences]] |year=2009 |volume=106 |pmid=19307570 |issue=13 |pages=5019–5024 |pmc=2664021 |doi=10.1073/pnas.0812525106}}</ref> Some of the earliest pollen remains from Latin America have been found in lake sediments from [[tropics]] of southern Mexico and upper Central America, up to [[Laguna Martinez]] and have been radiocarbon dated to around 4,700 years ago.{{Citation needed|date=November 2009}} Archaeological remains of early maize ears, found at [[Guila Naquitz Cave]] in the [[Oaxaca Valley]], date back roughly 6,250 years; the oldest ears from caves near [[Tehuacan]], Puebla, date ca. 2750 BC. Little change occurred in ear form until ca. 1100 BC when great changes appeared in ears from Mexican caves: maize diversity rapidly increased and archaeological teosinte was first deposited.
+
+[[File:Field, corn, Liechtenstein, Mountains, Alps, Vaduz, sky, clouds, landscape.jpg|thumb|right|Field of maize in [[Liechtenstein]]]]
+Perhaps as early as 1500 BC, maize began to spread widely and rapidly. As it was introduced to new cultures, new uses were developed and new varieties selected to better serve in those preparations. Maize was the staple food, or a major staple, of most [[pre-Columbian]] [[North America]]n, [[Mesoamerican]], [[South American]], and [[Caribbean]] cultures. The Mesoamerican civilization was strengthened upon the field crop of maize; through harvesting it, its religious and spiritual importance and how it impacted their diet. Maize formed the Mesoamerican people’s identity. During the [[1st millennium]] AD, maize cultivation spread from [[Mexico]] into the [[U.S. Southwest]] and a millennium later into [[northeastern U.S.|U.S. Northeast]] and southeastern [[Canada]], transforming the landscape as Native Americans cleared large forest and grassland areas for the new crop.
+
+It is unknown what precipitated its domestication, because the edible portion of the wild variety is too small and hard to obtain to be eaten directly, as each kernel is enclosed in a very hard bi-valve shell. However, George Beadle demonstrated that the kernels of teosinte are readily "popped" for human consumption, like modern popcorn. Some have argued that it would have taken too many generations of [[selective breeding]] in order to produce large compressed ears for efficient cultivation. However, studies of the hybrids readily made by intercrossing teosinte and modern maize suggest that this objection is not well founded.
+
+In 2005, research by the [[United States Department of Agriculture|USDA]] [[United States Forest Service|Forest Service]] indicated that the rise in maize cultivation 500 to 1,000 years ago in what is now the southeastern United States contributed to the decline of freshwater [[mussel]]s, which are very sensitive to environmental changes.<ref>{{cite journal |author=Evan Peacock, Wendell R. Haag & Melvin L. Warren, Jr. |year=2005 |title=Prehistoric decline in freshwater mussels coincident with the advent of maize agriculture |journal=[[Conservation Biology]] |volume=19 |issue=2 |pages=547–551 |url=http://www.srs.fs.usda.gov/pubs/ja/ja_peacock001.pdf |format=[[Portable Document Format|PDF]] |doi=10.1111/j.1523-1739.2005.00036.x}}</ref>
+
+== Production ==
+===Quantity===
+[[File:MaizeYield.png|thumb|right|Worldwide maize production]]
+[[File:2005maize.PNG|thumb|right|Maize output in 2005]]
+[[File:Iowa harvest 2009.jpg|thumb|right|Harvesting maize during the record 2009 season in [[Jones County, Iowa]]]]
+
+Maize is widely cultivated throughout the world, and a greater weight of maize is produced each year than any other grain. The United States produces 40% of the world's harvest; other top producing countries include [[People's Republic of China|China]], [[Brazil]], [[Mexico]], [[Indonesia]], [[India]], [[France]] and [[Argentina]]. Worldwide production was 817 million [[tonne]]s in 2009—more than [[rice]] (678 million [[tonne]]s) or [[wheat]] (682 million [[tonne]]s).<ref name="FAOstats">{{cite web|title=Maize, rice and wheat : area harvested, production quantity, yield|url=http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567|author=[[Food and Agriculture Organization|Food and Agriculture Organization of the United Nations]], Statistics Division|year=2009}}</ref> In 2009, over 159 million [[hectare]]s of maize were planted worldwide, with a yield of over 5 tonnes/[[hectare]]. Production can be significantly higher in certain regions of the world; 2009 forecasts for production in Iowa were 11614&nbsp;kg/ha.<ref>{{cite news |title=Iowa corn crop poised to set record |url=http://gazetteonline.com/top-story/2009/08/12/iowa-corn-crop-poised-to-set-record |publisher=[[Cedar Rapids Gazette]] |date=12 August 2009}}</ref>{{#tag:ref|Calculated from 185 bushels per acre at USDA 25.4 kg per bushel.|group=Note}}
+"There is conflicting evidence to support the hypothesis that maize yield potential has increased" over the past few decades.<ref>{{cite journal | doi = 10.2135/cropsci1999.3961622x | author = Duvick, D. N. & Cassman, K. G. | title = Post-green-revolution trends in yield potential of temperate maize in the north-central United States |journal=[[Crop Science (journal)|Crop Science]] | volume= 39 | pages= 1622–1630 |year=1999 | url=http://crop.scijournals.org/cgi/content/abstract/39/6/1622 | issue = 6}}</ref>
+
+{| class="wikitable" border="1" cellpadding="3" cellspacing="0" align="center" style="clear:left"
+! colspan=3|Top ten maize producers in 2009
+|-
+! Country
+! Production ([[ton]]s)
+! <small>Note</small>
+|-
+| {{flag|United States}}||align=right|333,010,910||
+|-
+| {{noflag|Asia}}||align=right|233,633,476||[A]
+|-
+| {{flag|China}}||align=right|163,118,097||
+|-
+| {{noflag|Europe}}||align=right|83,958,488||[A]
+|-
+| {{noflag|Africa}}||align=right|56,685,857||[A]
+|-
+| {{flag|Brazil}}||align=right|51,232,447||
+|-
+| {{flag|Mexico}}||align=right|20,202,600||
+|-
+| {{flag|Indonesia}}||align=right|17,629,740||
+|-
+| {{flag|India}}||align=right|17,300,000||
+|-
+| {{flag|France}}||align=right|15,299,900||
+|-
+| {{flag|Argentina}}||align=right|13,121,380||
+|-
+| {{flag|South Africa}}||align=right|12,050,000||
+|-
+| {{flag|Ukraine}}||align=right|10,486,300||
+|- bgcolor="#CCCCCC"
+| {{noflag}}'''World'''||align=right| '''817,110,509'''||'''[A]'''
+|-
+|colspan=5 style="font-size:.7em"|No symbol = official figure, A = Aggregate (may include official, semi-official or estimates).<ref name="FAOstats"/>
+|}
+
+====United States====
+In 2010, the corn planted area for all purposes in the US was estimated at 35 million hectares,<ref>{{cite journal|title=Acreage|date=30 June 2010|url=http://usda.mannlib.cornell.edu/MannUsda/viewDocumentInfo.do?documentID=1000|accessdate=5 November 2010|publisher=USDA, National Agricultural Statistics Service|issn=1949-1522|quote=Corn planted area for all purposes in 2010 is estimated at 87.9 million acres|archiveurl=http://usda.mannlib.cornell.edu/usda/current/Acre/Acre-06-30-2010.txt|archivedate=2010-06-30}}</ref> following an increasing trend since 2008.<ref>{{cite web|title=Corn Production Trends 1991-2009|url=http://www.ncga.com/corn-production-trends|accessdate=5 November 2010|author=National Corn Growers Association}}</ref> About 14% of the harvested corn area is irrigated.<ref>{{cite web|title=Irrigated Corn for Grain, Harvested Acres: 2002|url=http://www.nass.usda.gov/research/2002mapgallery/mediafiles/l3.jpg|accessdate=5 November 2010|year=2002|quote=United States total: 9,709,872}}</ref>
+
+=== Methods ===
+[[File:Corn Zea mays Plant Row 2000px.jpg|right|thumb|upright|Young stalks]]
+Because it is cold-intolerant, in the [[Temperate|temperate zones]] maize must be planted in the spring. Its [[root system]] is generally shallow, so the plant is dependent on soil moisture. As a C4 plant (a plant that uses [[C4 carbon fixation]]), maize is a considerably more water-efficient crop than C3 plants (plants that use [[C3 carbon fixation]]) like the small grains, [[alfalfa]] and [[soybeans]]. Maize is most sensitive to drought at the time of silk emergence, when the flowers are ready for pollination. In the [[United States]], a good harvest was traditionally predicted if the corn was "knee-high by the [[Independence Day (United States)|Fourth of July]]," although modern [[Hybrid (biology)|hybrid]]s generally exceed this growth rate. Maize used for [[silage]] is harvested while the plant is green and the fruit immature. Sweet corn is harvested in the "milk stage," after pollination but before starch has formed, between late summer and early to mid-autumn. Field maize is left in the field very late in the autumn in order to thoroughly dry the grain, and may, in fact, sometimes not be harvested until winter or even early spring. The importance of sufficient soil moisture is shown in many parts of [[Africa]], where periodic [[drought]] regularly causes [[famine]] by causing maize crop failure. 
+
+[[File:Maispflanze.jpg|left|thumb|upright|Mature plants showing ears]]
+Maize was planted by the [[Native American (Americas)|Native American]]s in hills, in a complex system known to some as the [[Three Sisters (agriculture)|Three Sisters]]. Maize provided support for [[bean]]s, and the beans provided nitrogen derived from nitrogen-fixing [[Rhizobia]] bacteria which live on the roots of beans and other [[legumes]]; and [[Squash (fruit)|squash]]es provided ground cover to stop weeds and inhibit evaporation by providing shade over the soil. This method was replaced by single species hill planting where each hill {{convert|60|–|120|cm|ft|abbr=on}} apart was planted with 3 or 4 seeds, a method still used by home gardeners. A later technique was ''checked maize'' where hills were placed 40&nbsp;inches apart in each direction, allowing cultivators to run through the field in two directions. In more arid lands this was altered and seeds were planted in the bottom of {{convert|10|–|12|cm|in|abbr=on}} deep furrows to collect water. Modern technique plants maize in rows which allows for cultivation while the plant is young, although the hill technique is still used in the maize fields of some Native American reservations.
+
+[[File:Cornheap.jpg|thumb|right|A maize heap at the harvest site, [[India]]]]
+In North America, fields are often planted in a two-[[crop rotation]] with a [[Nitrogen fixation|nitrogen-fixing]] crop, often [[alfalfa]] in cooler climates and [[soybean]]s in regions with longer summers. Sometimes a third crop, [[winter wheat]], is added to the rotation.
+
+Many of the maize varieties grown in the United States and Canada are hybrids. Often the varieties have been [[genetically modified]] to tolerate [[glyphosate]] or to provide protection against natural pests.
+Glyphosate (trade name Roundup) is an herbicide which kills all plants except those with genetic tolerance. This genetic tolerance is very rarely found in nature.
+
+In midwestern United States, low-till or [[no-till farming]] techniques are usually used. In low-till, fields are covered once, maybe twice, with a tillage implement either ahead of crop planting or after
+the previous harvest. The fields are planted and [[anhydrous ammonia|fertilized]]. Weeds are controlled through the use of [[herbicide]]s and no cultivation tillage is done during the growing season. This technique reduces moisture evaporation from the soil and thus provides more moisture for the crop.
+The technologies mentioned in the previous paragraph enable low-till and no-till farming. Weeds compete with the crop for moisture and nutrients, making them undesirable.
+
+[[File:YellowCorn.jpg|thumb|left|Mature field corn ears]]
+Before about [[World War II]], most maize in North America was harvested by hand (as it still is in most of the other countries where it is grown). This often involved large numbers of workers and associated social events. Some one- and two-row mechanical pickers were in use but the maize [[combine harvester|combine]] was not adopted until after the War. By hand or mechanical picker, the entire ear is harvested which then requires a separate operation of a maize sheller to remove the kernels from the ear. Whole ears of maize were often stored in ''corn cribs'' and these whole ears are a sufficient form for some livestock feeding use. Few modern farms store maize in this manner. Most harvest the grain from the field and store it in bins. The combine with a maize head (with points and snap rolls instead of a reel) does not cut the stalk; it simply pulls the stalk down. The stalk continues downward and is crumpled in to a mangled pile on the ground. The ear of maize is too large to pass between slots in a plate as the snap rolls pull the stalk away, leaving only the ear and husk to enter the machinery. The combine separates out the husk and the cob, keeping only the kernels.
+
+== Synopsis of major staple foods ==
+{| class="wikitable"
+ ! Synopsis<ref>[http://www.nal.usda.gov/fnic/foodcomp/search/ USDA]</ref> of [[Staple food]] ~composition: !! [[Amaranth]]{{#tag:ref|Raw, uncooked|group=Note}} !! [[Wheat]]{{#tag:ref|Germ, crude|group=Note}} !! [[Rice]]{{#tag:ref|White, long-grain,regular, raw, unenriched|group=Note}} !! Sweetcorn{{#tag:ref|Sweet, yellow, raw|group=Note}} !! [[Potato]]{{#tag:ref|White, flesh and skin, raw|group=Note}}
+ |- 
+ ! Component (per 100g portion) !! Amount !! Amount !! Amount !! Amount !! Amount
+ |-
+ | water (g) || 11 || 11 || 12 || 76 || '''82''' 
+ |- 
+ | energy (kJ) || '''1554''' || 1506 || 1527 || 360 || 288
+ |-
+ | protein (g) || 14 || '''23''' || 7 || 3 || 1.7
+ |-
+ | fat (g) || 7 || '''10''' || 1 || 1 || 0.1
+ |-
+ | carbohydrates (g) || 65 || 52 || '''79''' || 19 || 16
+ |-
+ | fiber (g) || 7 || '''13''' || 1 || 3 || 2.4
+ |-
+ | sugars (g) || 1.7 || 0.1 || >0.1 || '''3''' || 1.2
+ |-
+ | iron (mg) || '''7.6''' || 6.3 || 0.8 || 0.5 || 0.5
+ |-
+ | manganese (mg) || 3.4 || '''13.3''' || 1.1 || 0.2 || 0.1
+ |-
+ | calcium (mg) || '''159''' || 39 || 28 || 2 || 9
+ |-
+ | magnesium (mg) || '''248''' || 239 || 25 || 37 || 21
+ |-
+ | phosphorus (mg) || 557 || '''842''' || 115 || 89 || 62
+ |-
+ | potassium (mg) || 508 || '''892''' || 115 || 270 || 407
+ |-
+ | zinc (mg) || 2.9 || '''12.3''' || 1.1 || 0.5 || 0.3
+ |-
+ | panthothenic acid (mg) || '''1.5''' || 0.1 || 1.0 || 0.7 || 0.3
+ |-
+ | vitB6 (mg) || 0.6 || '''1.3''' || 0.2 || 0.1 || 0.2
+ |-
+ | folate (µg) || 82 || '''281''' || 8 || 42 || 18
+ |-
+ | thiamin (mg) || 0.1 || '''1.9''' || 0.1 || 0.2 || 0.1
+ |-
+ | riboflavin (mg) || 0.2 || '''0.5''' || >0.1 || 0.1 || >0.1
+ |-
+ | niacin (mg) || 0.9 || '''6.8''' || 1.6 || 1.8 || 1.1
+ |}
+
+== Genetic modification ==
+{{Main|Transgenic maize}}
+[[Genetically modified]] (GM) maize is one of the 11 [[Genetically modified food|GM crops]] grown commercially in 2009.<ref>[http://www.isaaa.org/resources/publications/briefs/41/executivesummary/default.asp Global Status of Commercialized Biotech/GM Crops: 2009] ISAAA Brief 41-2009, February 23, 2010, retrieved August 10, 2010</ref> Grown since 1997 in the United States and Canada, in 2009 85% of the US maize crop was genetically modified. It is also grown commercially in Brazil, Argentina, [[South Africa]], Canada, the Philippines, Spain and, on a smaller scale, in the [[Czech Republic]], [[Portugal]], Egypt and Honduras.<ref name = GMOCompass>[http://www.gmo-compass.org/eng/agri_biotechnology/gmo_planting/341.genetically_modified_maize_global_area_under_cultivation.html Genetically modified plants: Global Cultivation Area Maize] GMO Compass, March 29, 2010, retrieved August 10, 2010</ref>
+
+[[File:CornShocksForestvilleMinnesota2006.JPG|thumb|165px|maize shocks, or bundles, are a traditional harvest practice.]]
+
+== Pests ==<!-- This section is linked from [[Transgenic maize]] -->
+
+=== Insect pests ===
+* [[Helicoverpa zea|Corn earworm]] (''Helicoverpa zea'')
+* [[Fall armyworm]] (''Spodoptera frugiperda'')
+* [[Common armyworm]] (''Pseudaletia unipuncta'')
+* [[Stalk Borer|Stalk borer]] (''Papaipema nebris'')
+* [[Corn leaf aphid]] (''Rhopalosiphum maidis'')
+* [[European corn borer]] (''Ostrinia nubilalis'') (ECB)
+* [[Corn silkfly]] (''Euxesta stigmatis'')
+* [[Lesser cornstalk borer]] (''Elasmopalpus lignosellus'')
+* [[Corn delphacid]] (''Peregrinus maidis'')
+* [[Western corn rootworm]] (''Diabrotica virgifera virgifera'' LeConte)
+* [[Southwestern corn borer]] (''Diatraea grandiosella'')
+* [[Maize weevil]] (''Sitophilus zeamais'')
+
+The susceptibility of maize to the European corn borer, and the resulting large crop losses, led to the development of [[transgenic plants|transgenic]] expressing the ''[[Bacillus thuringiensis]]'' toxin. "Bt maize " is widely grown in the [[United States]] and has been approved for release in [[Europe]].
+
+=== Diseases ===
+{{Main|List of maize diseases}}
+
+* [[Corn smut]] or common smut (''Ustilago maydis''): a fungal disease, known in [[Mexico]] as ''huitlacoche'', which is prized by some as a gourmet delicacy in itself.
+* [[Maize dwarf mosaic virus]]
+* [[Maize streak virus]]
+* [[Stewart's Wilt]] (''Pantoea stewartii'')
+* [[Common Rust]] (''Puccinia sorghi'')
+* [[Goss's Wilt]] (''Clavibacter michiganese'')
+* [[Grey Leaf Spot]]
+* [[Mal de Río Cuarto Virus]] (MRCV)
+* Stalk Rot
+* Kernel Rot
+
+== Uses ==
+[[File:Dried Maize Mote from Oaxaca.png|thumb|right|Dried maize [[Mote (food)|mote]], also known as hominy, is used in [[Mexican cuisine]]]]
+[[File:Pamonha c pimenta.jpg‎|thumb|The pamonha]]
+[[File:Sweet White Corn.jpg|thumb|right|px150|Cut Sweet White corn]]
+
+=== Human food{{anchor|Food}} ===
+{{See also|Maize#Some hazards of maize in the diet|l1=Some hazards of maize in the diet}}
+
+Maize and [[cornmeal]] (ground dried maize) constitutes a [[staple food]] in many regions of the world. Introduced into [[Africa]] by the Portuguese in the 16th century, maize has become Africa's most important staple food crop.<ref>"[http://www.fao.org/docrep/009/a0154e/A0154E02.HTM The cassava transformation in Africa]". The Food and Agriculture Organization of the United Nations (FAO).</ref> Maize meal is made into a thick [[porridge]] in many cultures: from the [[polenta]] of [[Italy]], the angu of [[Brazil]], the [[mămăligă]] of [[Romania]], to [[Mush (cornmeal)|mush]] in the U.S. or the food called [[mealie pap]] in South Africa and [[sadza]], [[nshima]] and [[ugali]] in other parts of Africa. Maize meal is also used as a replacement for [[wheat]] flour, to make [[cornbread]] and other baked products. [[Masa]] (cornmeal treated with [[lime water]]) is the main ingredient for [[tortilla]]s, [[atole]] and many other dishes of [[Mexican food]].
+
+[[Popcorn]] is kernels of certain varieties that explode when heated, forming fluffy pieces that are eaten as a snack. Roasted dried maize cobs with semi-hardened kernels, coated with a seasoning mixture of fried chopped spring onions with salt added to the oil, is a popular [[snack food]] in Vietnam. Cancha, which are roasted maize chulpe kernels, are a very popular snack food in Peru, and also appears in traditional Peruvian [[ceviche]]. An unleavened bread called [[Makki di roti]] is a popular bread eaten in the [[Punjab region]] of India and Pakistan.
+
+[[Chicha]] and "chicha morada" (purple chicha) are drinks made usually from particular types of maize. The first one is fermented and alcoholic, the second is a soft drink commonly drunk in Peru.
+
+[[Corn flakes]] are a common [[breakfast cereal]] in North America and the United Kingdom, and found in many other countries all over the world.
+
+Maize can also be prepared as [[hominy]], in which the kernels are soaked with [[lye]] in a process called [[nixtamalization]]; or [[grits]], which are coarsely ground hominy. These are commonly eaten in the [[Southeastern United States]], foods handed down from [[Native Americans in the United States|Native Americans]], who called the dish [[sagamite]].
+
+The Brazilian dessert [[canjica (dish)|canjica]] is made by boiling maize kernels in sweetened milk. Corn can also be used to make pamonhas, another Brazilian Dish.
+
+Maize can also be harvested and consumed in the unripe state, when the kernels are fully grown but still soft. Unripe maize must usually be cooked to become palatable; this may be done by simply boiling or roasting the whole ears and eating the kernels right off the cob. Such [[corn on the cob]] is a common dish in the United States, Canada, United Kingdom, some parts of South America, and the Balkans, but virtually unheard of in some European countries. The cooked unripe kernels may also be shaved off the cob and served as a [[vegetable]] in side dishes, [[salad]]s, [[garnish (food)|garnish]]es, etc. Alternatively, the raw unripe kernels may also be grated off the cobs and processed into a variety of cooked dishes, such as maize [[purée]], [[tamale]]s, [[pamonha]]s, [[curau]], [[cake]]s, [[ice cream]]s, etc. [[Sweetcorn]], a genetic variety that is high in sugars and low in starch, is usually consumed in the unripe state.
+
+[[Corn on the cob]], as it is usually called in the United States, was hawked on the streets of early 19th-century New York City by poor, barefoot "Hot Corn Girls", who were thus the precursors of hot-dog carts, churro wagons, and fruit stands seen on the streets of big cities today.<ref>Solon Robinson. Hot Corn: Life Scenes in New York Illustrated (Series appearing in 1853 in the NY Tribune, later as a book)</ref>
+[[File:Roadside maize vendor in India.jpg|thumb|250px|left|A roadside vendor selling roasted maize in [[India]]]]
+
+{{nutritionalvalue| name=Sweetcorn, yellow, raw<br/> (seeds only)| kJ=360| water=75.96 g| protein=3.22 g| fat = 1.18 g| carbs=19.02 g| fiber=2.7 g| sugars=3.22 g| potassium_mg=270| magnesium_mg=37| iron_mg=0.52| vitC_mg=6.8| vitA_ug=9| lutein_ug=644 | folate_ug=46| niacin_mg=1.700| thiamin_mg=0.200|
+tryptophan=0.023 g|
+threonine=0.129 g|
+isoleucine=0.129 g|
+leucine=0.348 g|
+lysine=0.137 g|
+methionine=0.067 g|
+cystine=0.026 g|
+phenylalanine=0.150 g|
+tyrosine=0.123 g|
+valine=0.185 g|
+arginine=0.131 g|
+histidine=0.089 g|
+alanine=0.295 g|
+aspartic acid=0.244 g|
+glutamic acid=0.636 g|
+glycine=0.127 g|
+proline=0.292 g|
+serine=0.153 g|
+source_usda=1| right=1| note=One ear of medium size (6-3/4" to 7-1/2" long)<br/> maize has 90 grams of seeds}}
+
+Maize is a major source of [[starch]]. [[Cornstarch]] (maize flour) is a major ingredient in home cooking and in many industrialized food products. Maize is also a major source of [[cooking oil]] ([[corn oil]]) and of maize gluten. Maize starch can be [[hydrolysis|hydrolyzed]] and enzymatically treated to produce syrups, particularly high fructose [[corn syrup]], a sweetener; and also fermented and distilled to produce [[grain alcohol]]. Grain alcohol from maize is traditionally the source of [[bourbon whiskey]]. Maize is sometimes used as the starch source for [[beer]].
+
+Within the United States, the usage of maize for human consumption constitutes about 1/40th of the amount of grown in the country. In the United States and Canada maize is mostly grown to feed for [[livestock]], as forage, [[silage]] (made by fermentation of chopped green cornstalks), or grain. Maize meal is also a significant ingredient of some commercial animal food products, such as [[dog food]]
+
+Maize is also used as a [[Bait (luring substance)|fish bait]], called "dough balls". It is particularly popular in [[Europe]] for [[coarse fishing]].
+
+=== Chemicals and medicines ===
+Starch from maize can also be made into [[plastics]], [[fabric]]s, [[adhesive]]s, and many other chemical products.
+
+Stigmas from female maize flowers, known popularly as [[corn silk]], are sold as [[herbal medicine|herbal supplement]]s.
+
+The [[corn steep liquor]], a plentiful watery byproduct of maize [[wet milling]] process, is widely used in the [[biochemistry|biochemical industry]] and research as a culture medium to grow many kinds of [[microorganism]]s.<ref name=a>{{cite journal|journal=[[Bacteriological Reviews]] | year = 1948|month = December|volume = 12|issue = 4|pages = 297–311|title = Corn steep liquor in microbiology|first1 = R. Winston|last1=Liggett|first2= H.|last2= Koffler |pmc=180696 |pmid=18101383}}</ref>
+
+=== Biofuel ===
+{{See also|Corn ethanol}}
+"Feed maize" is being used increasingly for heating;{{Citation needed|date=December 2009}} specialized [[pellet stove|corn stove]]s (similar to [[wood fuel|wood stove]]s) are available and use either feed maize or wood pellets to generate heat. Maizecobs are also used as a [[biomass]] fuel source. Maize is relatively cheap and home-heating furnaces have been developed which use maize kernels as a fuel. They feature a large hopper that feeds the uniformly sized maize kernels (or wood pellets or [[cherry]] pits) into the fire.
+
+Maize is increasingly used as a feedstock for the production of [[ethanol fuel]].{{Citation needed|date=December 2009}} Ethanol is mixed with gasoline in order to decrease the amount of pollutants emitted when used to fuel motor vehicles. High fuel prices in mid 2007 led to higher demand for ethanol, which in turn lead to higher prices paid to farmers for maize. This led to the 2007 harvest being one of the most profitable maize crops in modern history for farmers. Because of the relationship between fuel and maize, prices paid for the crop now tend to track the price of oil. {{Citation needed|date=December 2009}}
+
+The price of food is affected to a certain degree by the use of maize for biofuel production. Transportation, production, and marketing costs are a large portion (80%) of the price of food in the United States. Higher energy costs affect these costs, especially transportation. The increase in food prices the consumer has been seeing is mainly due to the higher energy cost. The effect of biofuel production on other food crop prices is indirect. Use of maize for biofuel production increases the demand, and therefore price of maize. This in turn results in farm acreage being diverted from other food crops to maize production. This reduces the supply of the other food crops and increases their prices.<ref>[http://www.csmonitor.com/Money/2008/0128/p03s03-usec.html Christian Science Monitor]</ref><ref>[http://www.iowarfa.org/food_facts.php Iowa Renewable Fuels Association]</ref>
+
+[[File:Haase anaerobic digester.JPG|left|thumb|165px|Farm-based maize silage digester located near [[Neumünster]] in Germany, 2007. Green inflatable biogas holder is shown on top of the digester]]
+Maize is widely used in [[Germany]] as a feedstock for [[anaerobic digesters|biogas plants]]. Here the maize is harvested, shredded then placed in [[silage]] clamps from which it is fed into the biogas plants.
+
+A [[biomass gasification]] power plant in Strem near [[Güssing]], [[Burgenland]], [[Austria]] was begun in 2005. Research is being done to make [[Diesel fuel|diesel]] out of the biogas by the [[Fischer Tropsch]] method.
+
+Increasingly ethanol is being used at low concentrations (10% or less) as an additive in [[gasoline]] ([[gasohol]]) for motor fuels to increase the [[octane rating]], lower pollutants, and reduce petroleum use (what is nowadays also known as "[[biofuels]]" and has been generating an intense debate regarding the human beings' necessity of new sources of energy, on the one hand, and the need to maintain, in regions such as Latin America, the food habits and culture which has been the essence of civilizations such as the one originated in Mesoamerica; the entry, January 2008, of maize among the commercial agreements of [[North American Free Trade Agreement|NAFTA]] has increased this debate, considering the bad labor conditions of workers in the fields, and mainly the fact that NAFTA "opened the doors to the import of maize from the United States, where the farmers who grow it receive multi-million dollar subsidies and other government supports. (...) According to OXFAM UK, after NAFTA went into effect, the price of maize in Mexico fell 70% between 1994 and 2001. The number of farm jobs dropped as well: from 8.1 million in 1993 to 6.8 million in 2002. Many of those who found themselves without work were small-scale maize growers.").<ref>[http://www.envio.org.ni/articulo/2676 Revista Envío - Are Free Trade Agreements Free? Are They Development Strategies?<!-- Bot generated title -->]</ref> However, introduction in the northern latitudes of the U.S. of [http://www.aces.uiuc.edu/news/stories/news4169.html tropical maize for biofuels], and not for human or animal consumption, may potentially alleviate this.
+
+As a result of the [[Federal government of the United States|U.S. federal government]] announcing its production target of 35 billion gallons of [[biofuels]] by 2017, ethanol production will grow to 7 billion gallons by 2010, up from 4.5 billion in 2006, boosting ethanol's share of maize demand in the U.S. from 22.6 percent to 36.1 percent.<ref>[http://www1.ibisworld.com/pressrelease/pressrelease.aspx?prid=115 IBISWorld<!-- Bot generated title -->]</ref>
+
+=== Ornamental and other uses ===
+Some forms of the plant are occasionally grown for ornamental use in the garden. For this purpose, variegated and colored leaf forms as well as those with colorful ears are used. Additionally, size-superlative varieties, having reached {{convert|34|ft|m|abbr=on}} tall, or with cobs {{convert|24|in|cm|2|abbr=off}} long, have been popular for at least a century.<ref>[http://best-fit.hypothesis.angelfire.com/publ2010/] J. Karl 2010. ''Tallest-Maize Data''.</ref><ref>[http://best-fit.hypothesis.angelfire.com/maizejalahistory2007karl/] J. Karl 2007. ''The History Of The Jala Maize''.</ref>
+
+Corncobs can be hollowed out and treated to make inexpensive [[smoking pipe (tobacco)|smoking pipe]]s, first manufactured in the United States in 1869.
+
+[[File:CornKernelBox.jpg|thumb|right|165px|Children playing in a corn kernel box]]
+
+An unusual use for maize is to create a ''[[corn maze]]'' (or ''maize maze'') as a tourist attraction. The idea of a maize maze was introduced by [[Adrian Fisher]], one of the most prolific designers of modern mazes, with The American Maze Company who created a maze in [[Pennsylvania]] in 1993. Traditional mazes are most commonly grown using [[taxus|yew]] [[hedge (gardening)|hedges]], but these take several years to mature. The rapid growth of a field of maize allows a maze to be laid out using [[Global Positioning System|GPS]] at the start of a growing season and for the maize to grow tall enough to obstruct a visitor's line of sight by the start of the summer. In Canada and the U.S., these are popular in many farming communities.
+
+Maize kernels can be used in place of sand in a [[sandpit|sandbox]]-like enclosure for children's play.<ref name=corn_box>{{cite web| url = http://www.mazefunpark.com/attractions/details.php?attraction_id=5| title = Maize Quest Fun Park: Corn Box| accessdate = October 8, 2007}}</ref>
+
+{{further|[[Corn construction]]}}
+
+=== Fodder ===
+Maize makes a greater quantity of [[epigeous]] mass than other [[cereal]] plants, so can be used for [[fodder]]. Digestibility and palatability are higher when ensiled and fermented, rather than dried.
+
+=== Maize as a commodity ===
+Maize as a commodity is bought and sold by investors and price speculators as a tradable commodity. It is referred to as a corn [[futures contract]]. Corn futures contracts are traded on the Chicago Board of Trade (CBOT) under [[ticker symbol]] '''C'''. They are delivered every year in March, May, July, September, and December.<ref>[[wikinvest:Corn Prices|CBOT Corn Futures Contract Overview via Wikinvest]]</ref>
+
+=== U.S. usage breakdown===
+The breakdown of usage of the 12.1 billion bushel 2008 U.S. corn crop was as follows, according to the World Agricultural Supply and Demand Estimates Report by the USDA.<ref>{{cite web |url=http://www.iowacorn.org/User/Docs/2009%20US%20Corn%20Stats.pdf |title=2009 US Corn Stats |publisher=Iowa Corn |accessdate=December 2, 2010}}c</ref>
+
+* 5.25 billion bu. - Livestock feed
+* 3.65 billion bu. - Ethanol production
+* 1.85 billion bu. - Exports
+* 943 million bu. - Production of Starch, Corn Oil, Sweeteners (HFCS,etc.)
+* 327 million bu. - Human consumption - grits, corn flower, corn meal, beverage alcohol
+
+{{multiple image
+ | align     = right
+ | direction = horizontal
+ | image1    = Mochica Corn.jpg
+ | width1    = 175
+ | caption1  = Gold maize. Moche culture 300 A.D., [[Larco Museum]], [[Lima, Peru]]
+ | image2    = CornWaterTower.JPG
+ | width2    = 150
+ | caption2  = [[Water tower]] in [[Rochester, Minnesota]] being painted as an ear of corn
+}}
+
+== In art ==
+Maize has been an essential crop in the [[Andes]] since the [[pre-Columbian]] Era. The [[Moche]] culture from Northern [[Peru]] made ceramics from earth, water, and fire. This pottery was a sacred substance, formed in significant shapes and used to represent important themes. Maize represented anthropomorphically as well as naturally.<ref>Berrin, Katherine & [[Larco Museum]]. The Spirit of Ancient Peru:Treasures from the Museo Arqueológico Rafael Larco Herrera. New York: Thames and Hudson, 1997.</ref>
+
+In the United States, maize itself is sometimes used for temporary architectural detailing when the intent is to celebrate local agricultural productivity and culture. A well-known example of this use is the [[Corn Palace]] in Mitchell, South Dakota, which utilizes cobs of colored maize to implement a design that is recycled annually.
+
+A corn stalk with two ripe cobs is depicted on the [[Obverse and reverse|reverse]] of the Croatian 1 [[Croatian kuna|lipa]] coin, minted since 1993.<ref>[http://www.hnb.hr Croatian National Bank]. [http://www.hnb.hr/novcan/ekovanic.htm?tsfsg=a89719a221b101407a7b882421d5f621 Kuna and Lipa, Coins of Croatia]: [http://www.hnb.hr/novcan/kovanice/e1lipa.htm?tsfsg=dd58a2499ab048a6770b27c3017b7ec2 1 Lipa Coin]. – Retrieved on 31 March 2009.</ref>
+
+==In popular culture==
+{{Expand section|date=July 2010}}
+* ''[[Children of the Corn]]'', 1977 horror short story by Stephen King (later made into a 1984 film with various sequels) about a cornfield-dwelling deity who commands the children in the town to sacrifice all of the town's adults to it
+* ''[[Cornman: American Vegetable Hero]]'', 2001 cult movie about a loser who gets doused with toxic sludge from a cornfield and develops the ability to communicate with ears of corn
+* [[King Corn (film)|''King Corn'']], 2007 documentary about 2 college friends who grow an acre of Iowa corn and learn about where it will end up
+
+==See also==
+{{col-begin}}{{col-break}}
+* [[Baby corn]]
+* [[Blue corn]]
+* [[Columbian Exchange]] {{nb10}}
+* [[Corn syrup]]
+* [[Crop circle]]
+* [[Detasseling]]
+{{col-break}}
+* [[Hominy]]
+* [[List of sweetcorn varieties]]
+* [[MildDisc]]
+* [[Post-harvest losses (Grains)]] {{nb10}}
+* [[Protein per unit area]]
+{{col-break}}
+* [[Push–pull technology]], pest control strategy for maize and sorghum
+* [[Sagamite]]
+* [[Starch]]
+* [[Transgenic maize]]
+* [[Zein]]
+{{col-end}}
+
+==References==
+;Explanatory notes
+{{reflist|2|group=Note}}
+
+;Citations
+{{Reflist|3}}
+
+;Further reading
+*Aureliano Brandolni, Andrea Brandolini. ''[http://www.asa-press.com/l-mais.html Il mais in Italia: storia naturale e agricola]'' XII+370 pages and 80 colour pages. CRF press. Bergamo, Italy, 2006.
+* Ferro, D.N. and Weber, D.C. [http://www.eap.mcgill.ca/CPMP_1.htm Managing Sweet Corn Pests in Massachusetts]
+
+== External links ==
+{{Sister project links}}
+* [http://www.nytimes.com/2010/05/25/science/25creature.html?scp=2&sq=corn&st=cse "Tracking the Ancestry of Corn Back 9,000 Years," New York Times, May 25, 2010]
+* [http://gisweb.ciat.cgiar.org/GapAnalysis/?p=284 Crop Wild Relatives Gap Analysis Portal] reliable information source on where and what to conserve ''ex-situ'', regarding ''Zea'' genepool
+* [http://www.pfaf.org/database/plants.php?Zea+mays&CAN=WIKIPEDIA ''Zea mays'' at Plants For A Future]
+* [http://www.maizegdb.org/ Maize Genetics and Genomics Database project]
+* [http://www.maizesequence.org The Maize Genome Sequence Browser]
+* {{dmoz|Science/Agriculture/Field_Crops/Cereals/Corn/|Corn}}
+* [http://www.geochembio.com/biology/organisms/maize/ ''Zea mays'', corn taxonomy, facts, life cycle, kernel anatomy at GeoChemBio.com]
+* [http://www.ncbi.nlm.nih.gov/sites/entrez?Db=pubmed&Cmd=DetailsSearch&Term=%22Zea+mays%22%5BMajr%5D+AND+%22loattrfree+full+text%22%5Bsb%5D Major topic "''Zea mays''": free full text articles in National Library of Medicine]
+*{{Wikispecies-inline|Zea mays|''Zea mays''}}
+
+<!--spacing-->
+
+{{Cereals}}
+{{Agriculture country lists}}
+{{Model Organisms}}
+
+[[Category:Maize| ]]
+[[Category:Agriculture in Mesoamerica]]
+[[Category:Crops originating from Mexico]]
+[[Category:Crops originating from the Americas]]
+[[Category:Demulcents]]
+[[Category:Energy crops]]
+[[Category:Flora of Guatemala]]
+[[Category:Flora of Mexico]]
+[[Category:Fruit vegetables]]
+[[Category:Grasses of Mexico]]
+[[Category:Mexican ingredients]]
+[[Category:Model organisms]]
+[[Category:Native American cuisine]]
+[[Category:Plants described in 1753]]
+[[Category:Sequenced genomes]]
+[[Category:Staple foods]]
+[[Category:Tropical agriculture]]
+[[Category:Zea]]
+
+{{Link GA|eo}}
+{{Link FA|ast}}
+{{Link FA|sk}}
+[[af:Mielie]]
+[[am:በቆሎ]]
+[[ar:ذرة (نبات)]]
+[[an:Zea mays]]
+[[ast:Zea mays]]
+[[av:ЦIоросаролъ]]
+[[ay:Tunqu]]
+[[az:Qarğıdalı]]
+[[bm:Kaba]]
+[[bn:ভুট্টা]]
+[[zh-min-nan:Hoan-be̍h]]
+[[be:Кукуруза]]
+[[be-x-old:Кукуруза]]
+[[bar:Gugarutz]]
+[[bo:ཨ་ཤོམ།]]
+[[bs:Kukuruz]]
+[[br:Maiz]]
+[[bg:Царевица]]
+[[ca:Dacsa]]
+[[cs:Kukuřice setá]]
+[[tum:Chingoma]]
+[[cy:Indrawn]]
+[[da:Majs]]
+[[de:Mais]]
+[[nv:Naadą́ą́ʼ]]
+[[dsb:Majs]]
+[[et:Mais]]
+[[el:Καλαμπόκι]]
+[[es:Zea mays]]
+[[eo:Maizo]]
+[[ext:Zea mays]]
+[[eu:Arto]]
+[[fa:ذرت]]
+[[fr:Maïs]]
+[[fy:Stynske weet]]
+[[ff:Masarji]]
+[[ga:Arbhar Indiach]]
+[[gd:Cruithneachd Innseanach]]
+[[gl:Millo]]
+[[gan:粟米]]
+[[gu:મકાઇ]]
+[[ko:옥수수]]
+[[ha:Masara]]
+[[hi:मक्का (फसल)]]
+[[hsb:Prawa kukurica]]
+[[hr:Kukuruz]]
+[[io:Maizo]]
+[[id:Jagung]]
+[[ia:Mais]]
+[[os:Нартхор]]
+[[is:Maís]]
+[[it:Zea mays]]
+[[he:תירס]]
+[[jv:Jagung]]
+[[kn:ಮೆಕ್ಕೆ ಜೋಳ]]
+[[pam:Mais]]
+[[ka:სიმინდი]]
+[[kk:Жүгері]]
+[[rw:Ikigori]]
+[[sw:Mhindi]]
+[[ht:Mayi]]
+[[ku:Garis (Zea mays)]]
+[[lbe:Шагьнал лачIа]]
+[[la:Zea mays]]
+[[lv:Kukurūza]]
+[[lt:Paprastasis kukurūzas]]
+[[lij:Granon]]
+[[ln:Lisángú]]
+[[jbo:zumri]]
+[[lmo:Zea mays]]
+[[hu:Kukorica]]
+[[mk:Пченка]]
+[[mg:Katsaka (zavamaniry)]]
+[[ml:ചോളം]]
+[[arz:دره]]
+[[ms:Jagung]]
+[[nah:Cintli]]
+[[nl:Mais]]
+[[ne:मकै]]
+[[ja:トウモロコシ]]
+[[nap:Granone]]
+[[no:Mais]]
+[[nn:Mais]]
+[[oc:Milh]]
+[[pa:ਮੱਕੀ]]
+[[pnb:مکی]]
+[[pl:Kukurydza zwyczajna]]
+[[pnt:Λαζούδ]]
+[[pt:Milho]]
+[[ro:Porumb]]
+[[qu:Sara]]
+[[ru:Кукуруза (род)]]
+[[sah:Маис]]
+[[sc:Trigumoriscu]]
+[[sco:Maize]]
+[[simple:Maize]]
+[[sk:Kukurica siata]]
+[[sl:Koruza]]
+[[so:Galey]]
+[[sr:Кукуруз]]
+[[sh:Kukuruz]]
+[[fi:Maissi]]
+[[sv:Majs]]
+[[tl:Mais]]
+[[ta:மக்காச்சோளம்]]
+[[te:మొక్కజొన్న]]
+[[th:ข้าวโพด]]
+[[to:Koane]]
+[[chr:ᏎᎷ]]
+[[tr:Mısır (bitki)]]
+[[uk:Кукурудза]]
+[[ur:مکئی]]
+[[vec:Formenton]]
+[[vi:Ngô]]
+[[fiu-vro:Mais]]
+[[wa:Dinrêye d' awousse]]
+[[war:Maís]]
+[[yo:Àgbàdo]]
+[[zh-yue:粟米]]
+[[zh:玉米]]

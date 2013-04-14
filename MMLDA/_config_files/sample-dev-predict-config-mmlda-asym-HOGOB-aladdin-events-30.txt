@@ -1,0 +1,25 @@
+input file: _sample_data/model-MMLDA-HOG+OB/index/model.input.predict
+input dict file: _sample_data/model-MMLDA-HOG+OB/index/term_to_id.txt
+corresponding input dict file: _sample_data/model-MMLDA-HOG+OB/index/corr_term_to_id.txt
+
+# Number of iterations 
+# -------------------- # 
+em iter: 40
+em var iter: 80
+
+# num of topics
+# -------------
+num topics: 30
+
+# the model root directory where the training model has been stored
+# ---------------------------------------------------------------- #
+model train root dir: _sample_data/model-MMLDA-HOG+OB/mmlda_asym_store/train/30
+
+# the model root directory where the test model will be stored
+# ---------------------------------------------------------------- #
+model root dir: _sample_data/model-MMLDA-HOG+OB/mmlda_asym_store/dev-predict/30
+
+# the symmetric dirichlet prior for topic proportions
+# --------------------------------------------------- #
+topic proportion prior : 1
+

@@ -1,0 +1,22 @@
+Other people already suggested software utilities that you could download and install to help protect you. Instead I will list common sense tips that sometimes get overlooked:
+
+1. Do not install software that you do not trust or did not intend to install in the first place. 
+Example: A while ago I downloaded and installed DIVX player software. During the installation process it prompted to install Gator. Gator was notorious as spyware.
+
+2. Make sure you update your firewall, antivirus, and other software applications you use on your computer. Keeping up to date with the software available will make it harder for someone to compromise your system. This goes double for system updates such as Windows Update
+
+3. Do not install P2P file sharing software at all. The power that P2P file sharing software gives is also it's biggest flaw. P2P software gives you the power to download music/movies from someone else's computer at the cost of letting people download music/movies off of your computer. Now who's to say that someone cannot alter a movie, let's call it "Spiderman 3 Full Movie", and mask that file so that it installs a keystroke recorder if you try to play the movie. Now let's take it further and say that the person that created this file also programmed it to automatically upload any passwords to his computer via the P2P file sharing software. You wouldn't even know that your passwords were being logged and uploaded off your computer everytime you started the P2P software.
+
+4. Immediately delete email from people that you do not know. 
+Example: From time to time I receive email that looks like it comes from Bank of America telling me to login to online banking and check my status. I don't even have an online banking account with Bank of America.
+
+5. If you must download and install software make sure it is from a reputable website. 
+
+6. Do not go to websites that you are unsure of or never heard of. 
+Example: http://www.google.com is ok to go to but I would avoid going to gogggggle.com, googgel.com, and googledot.com
+
+7. Do not go click on those banners promising you a free Nintendo if you can kill the spiders.
+
+8. Do not be afraid to virus scan your files once a week or even once a day. Most antivirus softwares allow you to set up your computer to be scanned automatically at anytime of the day. Pick a time that you know no one will be using the computer, such as 4am in the morning, then till it to scan your computer at that time.
+
+9. Always back up your work in case something happens.

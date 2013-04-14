@@ -1,0 +1,16 @@
+Well to be honest, I hate Symantic, aka Nortan. The only 3 makers I like, are CA tied with Trend Micro for #1 and secondly, would be AVAST anit-virus, combinded with Sbybot S&D. I came across a report from the US Government, although I cant recall the source as of right now, they stated the only 2 software makers that they recogonized was CA, and Trend Micro. 
+
+I have tested many software providers, although I have not posted such material yet, and I still need to finish my security center on my site, Symantic, and McAffee, Pada, ZoneAlarms, Bulldog, most of the major players did not stand up anywhere close to the accuracy of CA, and Trend Micro. Every single incounter with anything other than CA, TrendMicro, or Avast backed by Spybot for the spyware detection side, I have incountered nothing but worthless scans, slow slow responce times, real time, isnt real time at all or doesnt work right, and only a fraction of the amount of files that are infected are cleaned or even triggered an alert. 
+
+Symantic and McAffee are only big due to they have been around a long time and alot of companies like GeekSquad use them, to maintain their domination in main stream software, being that they know the software is below average and they will have repeat customers. CA and Trend Micro are making a way though. 
+
+For these reasons, We choose CA, mainley being they are alittle bit better at real time than Trend Micro is, and also, they have the biggest Vet File resource now days. where Nortan and others has 2 or 3 variations of vet files for a common bug, CA has 40-100.. Thats what I like!! Research!
+
+Please note this is not an attempt to degrade any of the products or companies talked about here in but only expressings opinions based on facts from results we are selves have optained by testing such products. For sources of Us goverment results please contact us so we can find that information for you.
+
+The Tech Guy
+Sr. Technical Support
+Texas Tech Services L.L.P.
+Visit us on the web@
+http://texastech.mycv.bz
+e-mail support@texastechservices.net

@@ -1,0 +1,15 @@
+input file: _sample_data/YA09/index/model.input
+#data input mode: grouped
+input dict file: _sample_data/YA09/index/term_to_id.txt
+#num topics: 10
+
+# Number of iterations 
+# -------------------- # 
+em iter: 50
+em var iter: 30
+
+# the model root directory where the training model will be stored
+# ---------------------------------------------------------------- #
+model root dir: _sample_data/YA09/lda_store/test/10
+
+model train root dir: _sample_data/YA09/lda_store/train/10

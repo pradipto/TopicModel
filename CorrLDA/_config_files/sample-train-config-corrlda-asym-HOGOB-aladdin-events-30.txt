@@ -1,0 +1,30 @@
+input file: _sample_data/model-MMLDA-HOG+OB/index/model.input
+input dict file: _sample_data/model-MMLDA-HOG+OB/index/term_to_id.txt
+corresponding input dict file: _sample_data/model-MMLDA-HOG+OB/index/corr_term_to_id.txt
+
+# Number of iterations 
+# -------------------- # 
+em iter: 40
+em var iter: 80
+
+# num of topics
+# -------------
+num topics: 30
+
+# the model root directory where the training model will be stored
+# ---------------------------------------------------------------- #
+model root dir: _sample_data/model-MMLDA-HOG+OB/corrlda_asym_store/train/30
+
+# the symmetric dirichlet prior for topic proportions
+# --------------------------------------------------- #
+topic proportion prior : 1
+
+# use of asymmetric alpha
+# -----------------------
+use asym alpha : 1
+# one can set this to zero for symmetric dirichlet optimization - if set to 0, the initial alpha will be set to the value of topic proportion prior
+
+# asymmetric alpha concentration parameter
+# -----------------------
+asym alpha concentration parameter : 10
+

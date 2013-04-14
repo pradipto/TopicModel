@@ -1,0 +1,216 @@
+{{Use dmy dates|date=January 2011}}
+{{About|the Australian marsupial|other uses|Koala (disambiguation)}}
+{{sprotect|small=yes}}
+
+{{Taxobox
+| name = Koala<ref name=MSW3>{{MSW3 Diprotodontia | id = 11000005 | page = 43}}</ref>
+| status = LC
+| trend = unknown
+| status_system = iucn3.1
+| status_ref = <ref name="iucn">{{IUCN2008 | assessors = Gordon G, Menkhorst P, Robinson T, Lunney D, Martin R. & Ellis M | year = 2008 | id = 16892 | title = Koala | downloaded = 30 October 2008}}</ref>
+| image = Friendly Female Koala.JPG
+| image_caption = female
+| image2 = Friendly Male Koala.JPG
+| image2_caption = male
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| infraclassis = [[Marsupialia]]
+| ordo = [[Diprotodontia]]
+| familia = [[Phascolarctidae]]
+| genus = ''[[Phascolarctos]]''
+| species = '''''P. cinereus'''''
+| binomial = ''Phascolarctos cinereus''
+| binomial_authority = ([[Georg August Goldfuss|Goldfuss]], 1817)
+| range_map = Koala area.png
+| range_map_caption = Koala range<br/>(brown — native, red — introduced)
+}}
+The '''koala''' ''(Phascolarctos cinereus)'' is an [[arboreal]] [[herbivore|herbivorous]] [[marsupial]] native to [[Australia]], and the only [[Extant taxon|extant]] representative of the [[family (biology)|family]] [[Phascolarctidae]].
+
+The koala is found in coastal regions of eastern and southern Australia, from [[Adelaide]] to the southern part of [[Cape York Peninsula]]. Populations also extend for considerable distances inland in regions with enough moisture to support suitable [[woodland]]s. The koalas of [[South Australia]] were largely exterminated during the early part of the 20th century, but the state has since been repopulated with [[Victoria (Australia)|Victorian]] stock. The koala is not found in [[Tasmania]] or [[Western Australia]].
+
+==Names==
+The word ''koala'' comes from the [[Sydney Language|Dharuk]] ''gula''. Although the vowel {{IPA|/u/}} was originally written in the [[Latin alphabet]] as "oo" (in spellings such as ''coola'' or ''koolah''), it was changed to "oa" possibly due to an error.<ref name=Dixon>{{Cite book|author=Dixon, R.M.W.; Moore, Bruce; Ramson, W. S.; Thomas, Mandy |year=2006 |title=Australian Aboriginal Words in English: Their Origin and Meaning |edition=2nd |location=South Melbourne |publisher=Oxford University Press |isbn=0-19-554073-5}}</ref> The word is erroneously said to mean "doesn't drink".<ref name=Dixon/>
+
+The scientific name of the koala's [[genus]], ''Phascolarctos'', is derived from [[Greek language|Greek]] ''phaskolos'' "pouch" and ''arktos'' "bear". Its [[species]] name, ''cinereus'', is [[Latin]] and means "ash-coloured".<ref>{{Cite book|author= Kidd, D.A.|year=1973 |title= Collins Latin Gem Dictionary|publisher= Collins|location=London|page= 53|isbn= 0-00-458641-7}}</ref>
+
+Although the koala is not a bear, English-speaking settlers from the late 18th century first called it ''koala bear'' due to its similarity in appearance to [[bear]]s. Although taxonomically incorrect, the name ''koala bear'' is still in use today outside [[Australia]]<ref name="Leitner 1998">{{Cite journal| author = Leitner, Gerhard; Sieloff, Inke | year = 1998 | title = Aboriginal words and concepts in Australian English | journal = World Englishes | volume = 17 | issue = 2 | pages = 153–169 | doi = 10.1111/1467-971X.00089}}</ref> — its use is discouraged because of the inaccuracy in the name.<ref>{{Cite web|author=www.ferngallery.com |url=http://www.savethekoala.com/koalasfacts.html |title=Australian Koala Foundation |publisher=Savethekoala.com |date= |accessdate=9 March 2009}}</ref><ref>{{Cite web|url=http://www.australianfauna.com/koala.php |title=Australian Fauna |publisher=Australian Fauna |date= |accessdate=9 March 2009}}</ref><ref>{{Cite web|url=http://www.arazpa.org.au/Koala/default.aspx |title=Australasian Regional Association of Zoological Parks and Aquaria |publisher=Arazpa.org.au |date= |accessdate=9 March 2009}}</ref><ref name=AKF>{{Cite web|author=Australian Koala Foundation|authorlink=Australian Koala Foundation|title=Frequently asked questions (FAQs)|url=https://www.savethekoala.com/koalasfaqs.html}}</ref><ref>{{Cite web|author=Australian Koala Foundation|authorlink=Australian Koala Foundation|title=Interesting facts about koalas|url=https://www.savethekoala.com/koalasfacts.html}}</ref> Other descriptive English names based on "bear" have included ''monkey bear'', ''native bear'', and ''tree-bear''.<ref name=Dixon/>
+
+==Variation==
+[[Image:Koala Kangaroo Island.jpg|thumb|left|A Southern koala on [[Kangaroo Island]], not native to the island]]
+Although three [[subspecies]] have been described, these are arbitrary selections from a [[Cline (biology)|cline]] and are not generally accepted as valid. Following [[Bergmann's Rule]], southern individuals from the cooler climates are larger.
+
+A typical Victorian koala (formerly ''P. cinereus victor'') has longer, thicker fur, is a darker, softer grey, often with chocolate-brown highlights on the back and forearms, and has a more prominently light-coloured ventral side and fluffy white ear tufts. Typical and New South Wales koala weights are {{convert|12|kg|lb|abbr=on}} for males and {{convert|8.5|kg|lb|abbr=on}} for females. In tropical and sub-tropical [[Queensland]], however, the koala is smaller (at around {{convert|6.5|kg|lb|abbr=on}} for an average male and just over {{convert|5|kg|lb|abbr=on}} for an average female), a lighter often rather scruffy grey in colour, and has shorter, thinner fur. In Queensland, the koala was previously classified as the subspecies ''P. cinereus adustus'', and the intermediate forms in [[New South Wales]] as ''P. cinereus cinereus''. A fourth variation, though not technically a subspecies, is ''Phascolarctos cinereus aurum''{{Verify source|date=August 2010}}<!-- this should be "var. ''aureum''" or something similar; if it is not a subspecies, it must not have a trinomen -->, or in English "golden koala", which has a slight golden tinge to the fur as a result of an absence of the melanin pigment that produces [[albinism]] in most other mammalian species.  The variation from one form to another is continuous and there are substantial differences between individual koalas in any given region such as hair colour. Koalas may also have white fur in rare cases due to a recessive gene.
+
+The origins of the koala are unclear, although almost certainly they descended from terrestrial [[wombat]]-like animals. Koala [[fossil]]s are quite rare, but some have been found in northern Australia dating to 20 million years ago. During this time, the northern half of Australia was [[rainforest]]. The koala did not specialise in a diet of [[eucalyptus]] until the climate cooled and eucalypt forests grew in the place of rainforests. The fossil record indicates that before 50,000 years ago, [[Giant Koala|giant koala]]s inhabited the southern regions of Australia. The koala fills the same ecological role as the [[sloth]]s of South America.
+
+==Physical description==
+[[File:Phascolarctos cinereus Bonorong.jpg|thumb|180px|left|Female]]
+[[Image:Sa-sleeping-koala.JPG|thumb|upright|160px|right|Koalas have a slow metabolism and sleep for most of the day]]
+The koala is broadly similar in appearance to the [[wombat]] (its closest living relative),<ref name=MSW3/> but has a thicker coat, much larger ears, and longer limbs. The koala has large, sharp claws to assist with climbing tree trunks. Weight varies from about {{convert|14|kg|lb|abbr=on}} for a large southern male, to about {{convert|5|kg|lb|abbr=on}} for a small northern female. The koala's five [[finger]]s include two [[thumb|opposable thumb]]s, providing better gripping ability. The first two fingers are positioned in apposition on the front paws, and the first three fingers for the hind paws.<ref name=EoM>{{Cite book|editor=Macdonald, D.|author= Martin, Roger|year=1984 |title= The Encyclopedia of Mammals|publisher= Facts on File|location=New York|pages= 872–875|isbn= 0-87196-871-1}}</ref> The koala is one of the few mammals (other than [[primate]]s) that has [[fingerprint]]s. Koala fingerprints are similar to human fingerprints; even with an electron microscope, it can be quite difficult to distinguish between the two.<ref>{{Cite journal| author = Henneberg, Maciej | coauthors = Lambert, Kosette M., Leigh, Chris M. | title = Fingerprint homoplasy: koalas and humans | url = http://naturalscience.com/ns/articles/01-04/ns_hll.html | journal = NaturalSCIENCE.com | year = 1997 | volume = 1 | article = 4}}</ref>
+[[Image:Koala skeleton1.jpg|thumb|left|A Koala [[Skeleton]]]]
+The teeth of the koala are adapted to their herbivorous diet, and are similar to those of other [[diprotodontia|diprotodont]] marsupials, such as [[kangaroo]]s and wombats. They have sharp [[incisor]]s to clip leaves at the front of the mouth, separated from the grinding cheek teeth by a wide [[diastema (dentistry)|diastema]]. The dental formula for koalas is:{{dentition|3.1.1.4|1.0.1.4}}
+
+The male koala, like many marsupials, has a [[wikt:bifurcated|bifurcated]] [[penis]]. The female has two lateral [[vagina]]s and two separate [[uterus|uteri]], which is common to all marsupials.<ref>{{Cite journal| author = Dawson, T.J. | coauthors = Finch, E., Freedman, L., Hume, I.D., Renfree, M., Temple-Smith, P.D.| title = Fauna of Australia; 17. Morphology and Physiology of Metatheria| url = http://www.environment.gov.au/biodiversity/abrs/publications/fauna-of-australia/pubs/volume1b/17-ind.pdf|format=PDF| pages = 51, 53}}</ref>
+
+[[File:Koala-and-joey-walking---wiki.jpg|thumb|250px|right|Koalas walk on all four legs when walking on the ground, joey clinging to the back]]
+The [[brain]] in the ancestors of the modern koala once filled the whole [[cranial cavity]], but has become drastically reduced in the present species, a degeneration scientists suspect is an adaptation to a diet low in energy.<ref>{{Cite news|url=http://findarticles.com/p/articles/mi_m1134/is_6_108/ai_55127881 |title=PLAY'S the THING &#124; Natural History &#124; Find Articles at BNET |publisher=Findarticles.com |date=1 July 1999 |accessdate=9 March 2009 | first=John A. | last=Byers}}</ref> One of the smallest in marsupials with no more than 0.2% of its body weight,<ref>{{Cite web|url=http://spot.colorado.edu/~humphrey/fact%20sheets/koala/koala.htm |title=Koala (Phascolarctos cinereus) Fact Sheet 2003 |publisher=Spot.colorado.edu |date= |accessdate=9 March 2009 |archiveurl = http://web.archive.org/web/20080121190748/http://spot.colorado.edu/~humphrey/fact+sheets/koala/koala.htm |archivedate = 21 January 2008}}</ref> about 40% of the cranial cavity is filled with [[cerebrospinal fluid]], while the brain's two [[cerebral hemisphere]]s are like "a pair of shrivelled [[walnut]] halves on top of the [[brain stem]], in contact neither with each other nor the bones of the [[skull]]. It is the only animal on Earth with such a strangely reduced brain."<ref>{{Cite book|author=Flannery, T.F.|title=The Future Eaters: An ecological History of the Australasian Lands and People|publisher=Reed New Holland|location=Sydney|year=1994|page=86}}</ref>
+
+It is generally a silent animal, but males have a very loud advertising call that can be heard from almost a kilometre away during the breeding season. When under stress, koalas may issue a loud cry, which has been reported as similar to that of a human baby.<ref>{{Cite web|url=http://koalaplayworld.com/Facts_about_Koalas.html |title=Facts about Koalas |publisher=Koalaplayworld.com |date= |accessdate=9 March 2009}}</ref> There is little reliable information about the lifespan of the koala, but in captivity they have been observed to reach the age of 18 years.<ref name=EoM/>
+
+==Life cycle==
+[[File:Koala Foetus Almost At Birth.jpg|thumb|200px|right|A young joey, preserved at Port Macquarie Koala Hospital]]
+[[File:Koala and joey.jpg|thumb|200px|left|Baby koala on a mothers back]]
+[[File:Cutest Koala.jpg|thumb|200px|left|Baby koala at Currumbin Wildlife Sanctuary]]
+Females reach maturity at 2 to 3 years of age, males at 3 to 4 years. A healthy female koala can produce one young each year for about 12 years. [[Gestation]] is 35 days. Twins are very rare; the world's first confirmed identical twin koalas, named "''Euca''" and "''Lyptus''", were born at the [[University of Queensland]] in April 1999.<ref>http://www.koalaresearch.net.au/General.html</ref><ref>{{Cite web|url=http://koalas.cqu.edu.au/news/baby.htm |title=University of Queensland Koala Study program |publisher=Koalas.cqu.edu.au |date= |accessdate=9 March 2009}}</ref> Mating normally occurs between December and March, the [[Southern Hemisphere]]'s summer.
+
+A baby koala is referred to as a [[joey (marsupial)|joey]] and is hairless, blind, and earless. At birth the joey, only a quarter of an inch long, crawls into the downward-facing [[pouch (marsupial)|pouch]] on the mother's belly (which is closed by a [[drawstring]]-like muscle that the mother can tighten at will) and attaches itself to one of the two [[teat]]s.
+
+Young remain hidden in the pouch for about six months, only feeding on milk. During this time they grow ears, eyes, and fur. The joey then begins to explore outside of the pouch. At about this stage it begins to consume small quantities of the mother’s "pap" (formerly thought to be excrement, but now thought to come from the mother's [[cecum]]) in order to inoculate its gut with the microbes necessary to digest eucalypt leaves.<ref>{{Cite book|last=Martin |first=Roger |coauthors=Handasyde, Kathrine Ann |title=The Koala: Natural History, Conservation and Management |publisher=UNSW Press |year=1999 |pages=64–65 |isbn=0868405442 |series=Australian Natural History Series |edition=2nd}}</ref> The joey will remain with its mother for another six months or so, riding on her back, and feeding on both milk and eucalypt leaves until weaning is complete at about 12 months of age. Young females disperse to nearby areas at that time; young males often stay in the mother's home range until they are two or three years old.
+
+<br clear=all>
+
+==Diet and behaviour==
+[[Image:Koala with young.ogv|thumb|right|thumbtime=3.549|200px|Koala with joey in pouch]]
+[[File:Koala dozing nov08.jpg|thumb|left|200px|Koala dozing during the day]]
+The koala lives almost entirely on [[eucalypt]]<!--this is correct. follow the link--> leaves. This is likely to be an evolutionary adaptation that takes advantage of an otherwise unfilled [[ecological niche]], since eucalypt leaves are low in [[protein]], high in indigestible substances, and contain phenolic and [[terpene]] compounds that are toxic to most species. Like wombats and [[sloth]]s, the koala has a very low [[Metabolism|metabolic rate]] for a [[mammal]] and rests motionless for about 16 to 18 hours a day, sleeping most of that time. Koalas can be aggressive towards each other, throwing a foreleg around their opponent and biting, though most aggressive behavior is brief squabbles.<ref>{{Cite journal|last=Smith|first=M|year=1980|title=Behaviour of the Koala, Phascolarctos cinereus (Goldfuss), in Captivity VI*. Aggression|journal=Australian Wildlife Research|volume=7|issue=2|pages=177–190|url=http://www.publish.csiro.au/paper/WR9800177.htm|doi=10.1071/WR9800177}}</ref> Handling koalas may cause them stress,<ref>{{Cite book|last=Jackson|first=Stephen M.|title=Australian mammals: biology and captive management|publisher=CSIRO Publishing|year=2003|pages=524|chapter=Koalas|isbn=0643066357|url=http://books.google.com/?id=Ys_NC1P9AX4C&pg=PA161}}</ref> and the issue of aggression and stress from handling is a political issue in Australia.<ref>{{Cite web|url=http://www.parliament.nsw.gov.au/prod/parlment/HansArt.nsf/66662d17d79b79d7ca256cfd000e0c22/ca256d11000bd3aa4a25644a00824515!OpenDocument |title=Koalas Welfare - 16&nbsp;November 1995 - ADJ - NSW Parliament |publisher=Parliament.nsw.gov.au |date= |accessdate=9 March 2009 |archiveurl = http://web.archive.org/web/20080610051307/http://www.parliament.nsw.gov.au/prod/parlment/HansArt.nsf/66662d17d79b79d7ca256cfd000e0c22/ca256d11000bd3aa4a25644a00824515!OpenDocument |archivedate = 10 June 2008}}</ref><ref>{{Cite news|url=http://www.newscientist.com/article/mg14820060.800-please-dont-cuddle-the-koalas.html|title=Please don't cuddle the koalas|last=Anderson|first=Ian|date=2 December 1995|work=New Scientist|accessdate=21 October 2009}}</ref>
+
+Koalas spend about three of their five active hours eating. Feeding occurs at any time of day, but usually at night. Koalas eat an average of {{convert|500|g|oz|abbr=on}} of eucalypt leaves each day, chewing them with powerful jaws to a very fine paste before swallowing. The liver deactivates the toxic components ready for [[excretion]], and the hind gut (especially the [[cecum]]) is greatly enlarged to extract the maximum amount of nutrient from the poor quality diet. Much of this is done through [[bacteria]]l [[fermentation (biochemistry)|fermentation]]: while young are being [[wiktionary:wean|weaned]], the mother passes these essential digestive aids on to her offspring.
+[[Image:Koala eating.jpg|thumb|left|A koala eating eucalyptus]]
+[[File:Koala grooming.ogv|thumb|righ|200px|Koala in tree, scratching &amp; grooming]]
+The koala will eat the leaves of a wide range of eucalypts, and occasionally even some non-eucalypt species such as ''[[Acacia]]'', ''[[Leptospermum]]'', and ''[[Melaleuca]]''. It has firm preferences for particular varieties of eucalypt and these preferences vary from one region to another: in the south [[Eucalyptus viminalis|Manna Gum]], [[Blue Gum]], and [[Swamp Gum]] are favoured; [[Eucalyptus punctata|Grey Gum]] and [[Eucalyptus microcorys|Tallowwood]] are important in the north, and the ubiquitous [[Eucalyptus camaldulensis|River Red Gum]] of the isolated seasonal swamps and watercourses that meander across the dry inland plains allows the koala to live in surprisingly [[arid]] areas. Many factors determine which of the 680 species of eucalypt trees the koala eats. Among trees of their favourite species, however, the major factor that determines which individual trees the koala chooses is the concentration of a group of phenolic toxins called formylated phloroglucinol compounds.{{Citation needed|date=March 2010}} Researches on koalas by keepers at 13 wildlife parks and zoos in New South Wales show that the most preferred group of Eucalyptus foliage had the lowest content of [[condensed tannin]]s.<ref>Nutrients, Antinutrients and Leaf Selection by Captive Koalas (Phascolarctos-Cinereus). ID Hume and C Esson, Australian Journal of Zoology 41(4) 379 - 392, {{doi|10.1071/ZO9930379}}</ref>
+
+==Conservation status==
+[[Image:Koala Phascolarctos cinereus.jpg|thumb|A Koala, [[Victoria, Australia]].]]
+The Australian government currently lists the koala as a priority species for conservation status assessment.<ref>{{Cite web| author = Australian Government | title = Environmental Finalised Priority Assessment List for the Assessment Period Commencing 1&nbsp;October 2008 | url = http://www.environment.gov.au/biodiversity/threatened/publications/pubs/priority-assessment-list.pdf|format=PDF}}</ref> Government estimates of the national koala population numbers in the hundreds of thousands, although other studies have estimated as few as 80,000 koalas left in the wild.<ref>{{Cite web| author = Australian Government | title = Environmental assessment of koala's conservation status | url = http://www.environment.gov.au/minister/env/2006/mr14july206.html}}</ref> The [[Australian Koala Foundation]] estimates there are around 100,000 koalas left in the wild.<ref>{{Cite web| author = Australian Koala Foundation| title = Potential Koala Habitat in 2008| url = https://www.savethekoala.com/kc/maplaunch2008.html}}</ref>
+
+As with most native Australian animals, the koala cannot legally be kept as a pet in Australia or anywhere else. The only people who are permitted to keep koalas are wildlife carers and, occasionally, research scientists. These individuals are issued with special permits to care for koalas, but have to return them to the wild when they are either well enough or, in the case of joeys, old enough.<ref name=AKF/>
+
+The [[International Union for Conservation of Nature|IUCN]] lists the species as "Least Concern".<ref name=iucn/> The [[Government of Australia|Australian government]] does not consider the species to be threatened, although the [[Federal government of the United States|US government]] has declared the koala a threatened species.<ref>{{Cite web| author = US Fish and Wildlife Service| title = Threatened and Endangered Species System| url = http://ecos.fws.gov/tess_public/SpeciesReport.do}}</ref>
+
+The koala inhabits four Australian states. Under state legislation, the species is listed as:
+
+*Queensland — Common, or "Least Concern Wildlife" throughout the state, except in the South East Queensland bioregion, where it is listed as ''vulnerable''.<ref>{{Cite web| author = Queensland Parks and Wildlife Service | title = EPA/QPWS Koala designation | url = http://www.epa.qld.gov.au/nature_conservation/wildlife/koala_plan/}}</ref>
+*New South Wales — listed at a state scale as ''vulnerable'', but varying regionally from ''secure'' to ''locally extinct''.<ref>{{Cite web| author = New South Wales Parks and Wildlife Service | title = NSWPWS Koala profile | url = http://www.threatenedspecies.environment.nsw.gov.au/tsprofile/profile.aspx?id=10616}}</ref>
+*South Australia — classified as ''rare''.<ref>{{Cite web| author = Australian Koala Foundation | authorlink = Australian Koala Foundation | title = Koala conservation status (FAQs) | url = https://www.savethekoala.com/koalasendangered.html}}</ref>
+*Victoria — The koala population in Victoria was considered ''large and thriving'', according to an article which was last reviewed on 29 October 2007.<ref>{{Cite web| author = Department of Sustainability and the Environment | title = Victorian Koala designation | url = http://www.dse.vic.gov.au/dse/nrenpa.nsf/LinkView/E260BBD07DD52CF4CA256DE3007F11443B3BE6168C8BE71ECA256E5A0010BD5C}}</ref>
+
+The koala was hunted almost to extinction in the early 20th century,<ref>{{Cite web| author = Australian Koala Foundation | title = History of Koalas| url = https://www.savethekoala.com/koalashistory.html}}</ref> largely for its fur. Millions of furs were traded to [[Europe]] and the [[United States]], and the population has not fully recovered from such decimations. Extensive cullings occurred in Queensland in 1915, 1917, and again in 1919 when over one million koalas were killed with guns, poisons, and nooses.<ref name="qldhistory">{{Cite book|title=A History of Queensland |last=Evans |first=Raymond |authorlink= |coauthors= |year=2007 |publisher=Cambridge University Press |location=Port Melbourne, Victoria |isbn=9780521876926 |page=168 }}</ref> The public outcry over the cullings was most likely the first wide-scale [[Environmental issues in Australia|environmental issue]] that rallied Australians.<ref name="qldhistory" /> Despite the growing movement to protect native species, the poverty brought about by the drought of 1926–28 led to another 600,000 koalas being killed during a one-month [[hunting|open season]] in August 1927.<ref name="qldhistory" />
+
+Today, [[habitat]] loss and the impacts of urbanisation (such as dog attacks and traffic accidents) are the leading threats to the survival of the koala. In recent years, some colonies have been hard hit by disease, especially [[Chlamydia (bacterium)|chlamydia]].<ref>[http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/australia/6537179/Koalas-extinct-within-30-years-after-chlamydia-outbreak.html Koalas 'extinct within 30 years' after chlamydia outbreak], by Bonnie Malkin, The Telegraph, 10 November 2009</ref> The koala requires large areas of healthy, connected forest and will travel long distances along tree corridors in search of new territory and mates. The increasing human population of the coastal parts of the continent continues to cut these corridors by agricultural and residential development, forestry, and road-building, marooning koala colonies in decreasing areas of bush. The long term viability of the koala is therefore threatened by genetic weakness {{Citation needed|date=October 2008}}. The [[Australian Koala Foundation]] is the principal organisation dedicated to the conservation of the koala and its habitat, mapping {{convert|40000|km2|sqmi|abbr=on}} of land for koala habitat and claiming strong evidence that wild koala populations are in serious decline throughout the species' natural range.<ref name="https">{{Cite web| author = Australian Koala Foundation | title = Koalas - Endangered or Not?| url = https://www.savethekoala.com/koalasendangered.html}}</ref>  Local councils in growing urban areas with koala populations that have established or are in the process of establishing planning overlays and controls to preserve habitat for koalas include the Victorian councils of [[City of Ballarat]],<ref>http://www.thecourier.com.au/news/local/news/general/vcat-knocks-back-mt-helen-subdivision-due-to-koalas/1902027.aspx</ref><ref name="ballarat.vic.gov.au">http://www.ballarat.vic.gov.au/media/57443/ballarat%20koala%20plan%20of%20management%20-%20information%20brochure.pdf</ref> [[Macedon Ranges Shire]]<ref>http://macedon-ranges-leader.whereilive.com.au/news/story/have-your-say-macedon-ranges-koala-habitat-plea/</ref> and [[Glenelg Hopkins Catchment Management Authority]]<ref name="ballarat.vic.gov.au"/> as well as the Queensland councils of [[Moreton Bay Regional Council]], [[Redland Shire Council]].
+
+Although the species covers a large area, only 'pieces' of koala habitat remain. Presently, many habitats are lost to weeds, clearance for agriculture, or carved up by developers. Other threats come from logging, poor management, attacks from [[feral]] and [[domestication|domestic]] animals, diseases, and roads.
+
+== Pest status ==
+{{POV|section|date=November 2010}}
+{{Unreferenced section|date=November 2010}}
+[[File:Koala.jpg|thumb|right|A koala at [[Healesville Sanctuary]]]]
+In contrast to the situation on much of the mainland, where populations are declining,<ref name="https"/> koalas, like many other species, can overrun smaller islands or isolated regions where they have been introduced.<ref>{{Cite web|url=http://news.nationalgeographic.com/news/2002/05/0510_020510_TVkoala.html |title=Koalas Overrunning Australia Island "Ark" |publisher=News.nationalgeographic.com |date= |accessdate=9 March 2009}}</ref> On [[Kangaroo Island]] in South Australia, koalas introduced some 90 years ago have thrived in the absence of predators and competition. Combined with an inability to migrate to new areas, this has caused the koala populations to become unsustainable and threaten the island's unique ecology. In particular, species of [[Eucalyptus viminalis|Manna Gum]], native to the island, are being stripped by koalas at a rate faster than they can regenerate, endangering local birds and invertebrates that rely on them, and causing the extinction of at least one isolated population of manna. Koala numbers are estimated at over 30,000{{Citation needed|date=November 2008}}, with ecologists suggesting that the island can sustain 10,000 at most{{Citation needed|date=November 2008}}.
+
+Although [[culling]] has been suggested as a means to reduce koala numbers, with the [[Government of South Australia|South Australian government]] seriously considering such in 1996, this has met with fierce opposition both domestically and internationally, and the species remains protected. The popularity of the koala has made the possibility of a cull politically improbable, with any negative perception likely to impact tourism and a government's electability. In place of a cull, sterilization and relocation programs have had only limited success in reducing numbers thus far, and remain expensive. There is evidence that koalas relocated to the mainland have difficulty establishing themselves in the different circumstances. A mooted alternative to the complex sterilization method, wherein the animal must first be captured, are hormonal implants that can be injected via darts.
+
+==See also==
+*[[Fauna of Australia]]
+*[[Koala emblems and popular culture]]
+*[[List of monotremes and marsupials]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commons|Koala}}
+{{Wikispecies|Phascolarctos cinereus}}
+*[http://www.savethekoala.com/  Australian Koala Foundation]
+*[http://www.koala.net/index.php/koala.html  Lone Pine Koala Sanctuary]
+*[http://www.thekoala.com/koala  The Koala]
+{{Diprotodontia|V.}}
+
+[[Category:Koalas| ]]
+[[Category:Vombatiforms]]
+[[Category:Dharuk words and phrases]]
+[[Category:Mammals of South Australia]]
+[[Category:Mammals of Queensland]]
+[[Category:Mammals of New South Wales]]
+[[Category:Mammals of Victoria (Australia)]]
+[[Category:Marsupials of Australia]]
+[[Category:Living fossils]]
+[[Category:Herbivorous animals]]
+[[Category:Animals described in 1817]]
+
+{{Link GA|fi}}
+{{Link FA|de}}
+<!-- interwiki -->
+
+[[ar:كوالا]]
+[[bn:কোয়ালা]]
+[[zh-min-nan:Koala]]
+[[be:Каала]]
+[[bs:Koala]]
+[[br:Koala]]
+[[bg:Коала]]
+[[ca:Coala]]
+[[cs:Koala medvídkovitý]]
+[[cy:Coala]]
+[[da:Koala]]
+[[de:Koala]]
+[[nv:Shash bizaʼazis hólóní]]
+[[dsb:Koala]]
+[[el:Κοάλα]]
+[[es:Phascolarctos cinereus]]
+[[eo:Koalo]]
+[[eu:Koala]]
+[[fa:کوآلا]]
+[[fr:Koala]]
+[[ga:Cóála]]
+[[gd:Mathan coala]]
+[[gl:Koala]]
+[[ko:코알라]]
+[[hy:Կոալա]]
+[[hsb:Koala]]
+[[hr:Koala]]
+[[io:Koalo]]
+[[id:Koala]]
+[[is:Pokabjörn]]
+[[it:Phascolarctos cinereus]]
+[[he:קואלה]]
+[[ka:ჩანთოსანი დათვები]]
+[[sw:Koala]]
+[[la:Phascolarctos cinereus]]
+[[lv:Koala]]
+[[lt:Koala]]
+[[hu:Koala]]
+[[mk:Коала]]
+[[ml:കൊവാല]]
+[[mn:Коала]]
+[[nl:Koala]]
+[[ja:コアラ]]
+[[no:Koala]]
+[[nn:Koala]]
+[[oc:Phascolarctos cinereus]]
+[[pl:Koala]]
+[[pt:Coala]]
+[[ro:Koala]]
+[[ru:Коала]]
+[[sah:Коала]]
+[[scn:Koala]]
+[[simple:Koala]]
+[[sk:Koala medvedíkovitá]]
+[[sl:Koala]]
+[[sr:Коала]]
+[[sh:Koala]]
+[[su:Koala]]
+[[fi:Koala]]
+[[sv:Koala]]
+[[tl:Koala]]
+[[ta:கோவாலா]]
+[[te:కోలా]]
+[[th:โคอาลา]]
+[[chr:ᎪᏩᎳ ᏲᎾ]]
+[[tr:Koala]]
+[[udm:Коала]]
+[[uk:Коала]]
+[[ur:کوآلا]]
+[[ug:دەرەخ خالتىلىق ئېيىقى]]
+[[vi:Koala]]
+[[zh-yue:樹熊]]
+[[zh:無尾熊]]

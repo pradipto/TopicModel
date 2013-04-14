@@ -1,0 +1,674 @@
+{{Redirect|Irish potato|the confectionary|Irish potato candy}}
+{{Other uses}}
+{{pp-semi-indef|small=yes}}
+{{ taxobox
+| image              = Patates.jpg
+| regnum             = [[Plantae]]
+| unranked_divisio   = [[Angiosperms]]
+| unranked_classis   = [[Eudicots]]
+| unranked_ordo      = [[Asterids]]
+| ordo               = [[Solanales]]
+| familia            = [[Solanaceae]]
+| genus              = ''[[Solanum]]''
+| species            = '''''S. tuberosum'''''
+| binomial           = ''Solanum tuberosum''
+| binomial_authority = [[Carolus Linnaeus|L.]]
+}}
+
+The '''potato''' is a [[starch]]y, [[tuber]]ous [[crop (agriculture)|crop]] from the [[perennial plant|perennial]] ''[[Solanum]] tuberosum'' of the [[Solanaceae]] family (also known as the nightshades). The word potato may refer to the plant itself as well as the edible tuber. In the region of the [[Andes]], there are some other closely related cultivated potato species. First introduced outside the Andes region four centuries ago, today potatoes have become an integral part of much of the world's cuisine and are the world's fourth-largest food crop, following [[rice]], [[wheat]], and [[maize]].<ref>{{cite web | title = Potatoes: Notes | publisher = [[Purdue University]] Department of Horticulture and Landscape Architecture | url = http://www.hort.purdue.edu/rhodcv/hort410/potat/po00001.htm | accessdate = 15 January 2009 }}</ref> Long-term storage of potatoes requires specialised care in cold warehouses.<ref name="crosstree">Potato storage, value Preservation: {{cite web | first  = Pawanexh | last  = Kohli | year = 2009 | title  = Potato storage and value Preservation: The Basics | url  = http://crosstree.info/Documents/POTATO%20STORAGE.pdf | publisher  = Crosstree Techno-visors }}</ref>
+
+Wild potato species occur throughout [[the Americas]], from the United States to [[Uruguay]].<ref>{{ cite journal | title = Geographic distribution of wild potato species | last = Hijmans | first = RJ | coauthors = DM Spooner | journal = [[American Journal of Botany]] | volume = 88 | issue = 11 | pages = 2101–12 | url = http://www.amjbot.org/cgi/content/full/88/11/2101 | doi = 10.2307/3558435 | year = 2001 | publisher = Botanical Society of America | jstor = 3558435 }}</ref> The potato was originally believed to have been domesticated independently in multiple locations,<ref name="UniWisconsin">University of Wisconsin-Madison, ''Finding rewrites the evolutionary history of the origin of potatoes'' (2005) [http://www.news.wisc.edu/11620]</ref> but later genetic testing of the wide variety of [[cultivar]]s and wild species proved a single origin for potatoes in the area of present-day southern [[Peru]] (from a species in the ''Solanum brevicaule'' complex), where they were domesticated 7,000–10,000 years ago.<ref name="Spooner 2005 14694–99">{{ cite journal | title = A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping | last = Spooner | first = DM | coauthors = et al. | journal = [[Proceedings of the National Academy of Sciences|PNAS]] | volume = 102 | issue = 41 | doi = 10.1073/pnas.0507400102 | pmc = 1253605 | pages = 14694–99 | pmid = 16203994 | year = 2005 | url = http://www.cipotato.org/pressroom/press_releases_detail.asp?cod=17&lang=en Lay summary }}</ref><ref name="online">Office of International Affairs, '' Lost Crops of the Incas: Little-Known Plants of the Andes with Promise for Worldwide Cultivation'' (1989) [http://www.nap.edu/openbook.php?isbn=030904264X&page=92 online]</ref><ref name="John Michael Francis 2005">{{ cite book | author = John Michael Francis|title = Iberia and the Americas | publisher = [[ABC-CLIO]]|year = 2005|url = http://books.google.com/books?id=OMNoS-g1h8cC&pg=PA867&dq=artistic+potato&as_brr=3&client=firefox-a | isbn = 1851094261 }}</ref> Following centuries of [[selective breeding]], over a thousand different types of potatoes currently exist in the world.<ref name="online"/> Of these [[subspecies]], a variety that at one point grew in the [[Chiloé Archipelago]] (the potato's south-central [[Chile]]an [[Potatoes of Chiloé|sub-center of origin]]) left its [[germplasm]] on over 99% of the cultivated potatoes worldwide.<ref name="Solis 2007 0">{{ cite journal | url = http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-34582007000300011&lng=en&nrm =  | title = Molecular description and similarity relationships among native germplasm potatoes (Solanum tuberosum ssp. tuberosum L.) using morphological data and AFLP markers | last = Solis | first = JS | coauthors = et al. | journal = Electronic Journal of Biotechnology | year = 2007 | volume = 10 | issue = 3 | doi = 10.2225/vol10-issue3-fulltext-14 | page = 0 }}</ref><ref name="chile">{{cite web | url = http://www.eurekalert.org/pub_releases/2008-01/uow-uds012908.php | title = Using DNA, scientists hunt for the roots of the modern potato | accessdate = 10 September 2008 | date = 29 January 2008 | last = Miller | first = N | publisher = [[American Association for the Advancement of Science]] }}</ref> 
+
+Following the [[Spanish conquest of the Inca Empire|Spanish conquest]] of the [[Inca Empire]], the Spanish introduced the potato to Europe in the second half of the [[16th century]]. The staple was subsequently conveyed by European mariners to territories and ports throughout the world. The potato was slow to be adopted by distrustful European farmers, but soon enough it became an important food staple and field crop that played a major role in the European [[19th century]] population boom.<ref name="John Michael Francis 2005"/> However, lack of genetic diversity, due to the very limited number of varieties initially introduced, left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like [[oomycete]] ''[[Phytophthora infestans]]'', spread rapidly through the poorer communities of western Ireland, resulting in the crop failures that led to the [[Great Irish Famine]]. Nonetheless, thousands of varieties persist in the Andes, where over 100 cultivars might be found in a single valley, and a dozen or more might be maintained by a single agricultural household.<ref>{{cite web | archiveurl = http://web.archive.org/web/20080114015939/http://research.cip.cgiar.org/confluence/display/wpa/Peru | url = http://research.cip.cgiar.org/confluence/display/wpa/Peru | accessdate = 10 September 2008 | archivedate = 14 January 2008 | publisher = [[International Potato Center]] | title = History and overview | work = World Potato Atlas: Peru | date = 1 January 2007 | last = Theisen | first = K }}</ref>
+
+The annual diet of an average global citizen in the first decade of the 21st century included about {{convert|33|kg|abbr=on}} of potato. However, the local importance of potato is extremely variable and rapidly changing. It remains an essential crop in Europe (especially eastern and central Europe), where per capita production is still the highest in the world, but the most rapid expansion over the past few decades has occurred in southern and eastern Asia. China is now the world's largest potato-producing country, and nearly a third of the world's potatoes are harvested in China and India.<ref name="Hijmans 2001 403–12">{{ cite journal | title = Global distribution of the potato crop | last = Hijmans | first = Robert | journal = [American Journal of Potato Research] | volume = 78 | issue = 6 | pages = 403–12 | url = http://www.springerlink.com/content/x337773202025363/ | doi = 10.1007/BF02896371 | year = 2001 }}</ref>
+
+{{TOC limit}}
+
+== Etymology ==
+{{Redirect|Spud|other uses|Spud (disambiguation)}}
+The English word ''potato'' comes from Spanish ''patata'' (the name used in Spain). The [[Spanish Royal Academy]] says the Spanish word is a compound of the [[Taino]] ''batata'' ([[sweet potato]]) and the [[Quechua languages|Quechua]] ''papa'' (potato).<ref>{{cite web|url=http://buscon.rae.es/draeI/SrvltGUIBusUsual?LEMA=patata |title=Real Academia Española. Diccionario Usual |language={{es icon}} |publisher=Buscon.rae.es |date= |accessdate=2010-07-16}}</ref> The name potato originally referred to a type of sweet potato rather than the other way around, although there is actually no close relationship between the two plants. The English confused the two plants one for the other. In many of the chronicles detailing agriculture and plants, no distinction is made between the two.<ref>{{Cite book | last=Weatherford | first=J. McIver | authorlink=J. McIver Weatherford | title=Indian givers: how the Indians of the Americas transformed the world | year=1988 | publisher=Fawcett Columbine | location=New York | isbn=0-449-90496-2 | page=69}}</ref> The 16th-century English herbalist [[John Gerard]] used the terms "bastard potatoes" and "Virginia potatoes" for this species, and referred to sweet potatoes as "common potatoes".<ref name=OED>{{Cite encyclopedia| title=potato, n.|encyclopedia=Oxford English Dictionary|editor=J. Simpson, E. Weiner (eds)| year=1989 |edition= 2nd | location=Oxford |publisher=Clarendon Press|ISBN= 0-19-861186-2}}</ref> Potatoes are occasionally referred to as "Irish potatoes" or "white potatoes" in the United States, to distinguish them from [[sweet potato]]es.<ref name=OED/>
+
+The name '''spud''' for a small potato comes from the digging of soil (or a hole) prior to the planting of potatoes. The word is of unknown origin and was originally (c. 1440) used as a term for a short knife or dagger, probably related to Dutch ''spyd'' and/or the Latin "spad-" root meaning "sword"; cf. Spanish "espada", English "spade" and "spadroon". The word spud traces back to the 16th century. It subsequently transferred over to a variety of digging tools. Around 1845 it transferred over to the tuber itself.<ref name=Wilton94>David Wilton, Ivan Brunetti; p94 ''Word myths: debunking linguistic urban legends;'' Oxford University Press US; 2004; ISBN 0195172841</ref> The origin of "spud" has erroneously been attributed to a 19th century activist group dedicated to keeping the potato out of [[United Kingdom of Great Britain and Ireland|Britain]], calling itself The Society for the Prevention of an Unwholesome Diet.<ref name=Wilton94/> It was [[Mario Pei]]'s 1949 ''The Story of Language'' that can be blamed for the [[false etymology|false origin]]. Pei writes, "the potato, for its part, was in disrepute some centuries ago. Some Englishmen who did not fancy potatoes formed a Society for the Prevention of Unwholesome Diet. The initials of the main words in this title gave rise to spud." Like most other pre-20th century [[acronym]]ic origins, this one is false.<ref name=Wilton94/>
+
+== Characteristics ==
+[[File:Potato flowers.jpg|thumb|Flowers of a potato plant]]
+[[File:Russet potato cultivar with sprouts.jpg|thumb|Russet potatoes with sprouts]]
+
+Potato plants are herbaceous [[perennial]]s that grow about 60&nbsp;cm (24&nbsp;in) high, depending on variety, the [[culm (plant)|culms]] dying back after flowering. They bear white, pink, red, blue, or purple [[flower]]s with yellow [[stamen]]s. In general, the tubers of varieties with white flowers have white skins, while those of varieties with colored flowers tend to have pinkish skins.<ref>{{cite book |author=Tony Winch |title=Growing Food: A Guide to Food Production |year=2006 |publisher=[[Springer Science+Business Media]]
+|url=http://books.google.com/?id=QDrqL2J-AiYC&pg=PA209&dq=potato+plants+60+cm |isbn=1402066244}}</ref> Potatoes are [[pollination|cross-pollinated]] mostly by [[insects]], including [[bumblebee]]s, which carry pollen from other potato plants, but a substantial amount of self-fertilizing occurs as well. Tubers form in response to decreasing day length, although this tendency has been minimized in commercial varieties.<ref>{{cite journal |author=Virginia Amador, Jordi Bou, Jaime Martínez-García, Elena Monte, Mariana Rodríguez-Falcon, Esther Russo and Salomé Prat |title=Regulation of potato tuberization by daylength and gibberellins |url=http://www.ijdb.ehu.es/abstract.01supp/s37.pdf |format=PDF |journal=International Journal of Developmental Biology |issue=45 |pages= S37–S38 |year=2001 |accessdate=8 January 2009}}</ref>
+[[File:Potato plants.jpg|thumb|Potato plants]]
+After potato plants flower, some varieties produce small green fruits that resemble green [[cherry tomato]]es, each containing up to 300 true [[seed]]s. Potato fruit contains large amounts of the toxic [[alkaloid]] [[solanine]] and is therefore unsuitable for consumption. All new potato varieties are grown from seeds, also called "true seed" or "botanical seed" to distinguish it from seed tubers. By finely chopping the fruit and soaking it in water, the seeds separate from the flesh by sinking to the bottom after about a day (the remnants of the fruit float). Any potato variety can also be [[vegetative propagation|propagated vegetatively]] by planting tubers, pieces of tubers, cut to include at least one or two eyes, or also by cuttings, a practice used in greenhouses for the production of healthy seed tubers. Some commercial potato varieties do not produce [[seed]]s at all (they bear imperfect flowers) and are propagated only from tuber pieces. Confusingly, these tubers or tuber pieces are called "seed potatoes".
+
+== Genetics ==
+The major species grown worldwide is ''Solanum tuberosum'' (a [[tetraploid]] with 48 [[chromosome]]s), and modern varieties of this species are the most widely cultivated. There are also four diploid species (with 24 chromosomes): ''[[Solanum stenotomum|S.&nbsp;stenotomum]]'', ''[[Solanum phureja|S.&nbsp;phureja]]'', ''[[Solanum goniocalyx|S.&nbsp;goniocalyx]]'', and ''[[Solanum ajanhuiri|S.&nbsp;ajanhuiri]]''. There are two triploid species (with 36 chromosomes): ''[[Solanum chaucha|S.&nbsp;chaucha]]'' and ''[[Solanum juzepczukii|S.&nbsp;juzepczukii]]''. There is one pentaploid cultivated species (with 60 chromosomes): ''[[Solanum curtilobum|S.&nbsp;curtilobum]]''.
+
+There are two major subspecies of ''Solanum tuberosum'': ''andigena'', or Andean; and  ''tuberosum'', or Chilean.<ref>{{cite web|url=http://crop.scijournals.org/cgi/reprint/42/5/1451.pdf |title=Chilean Tetraploid Cultivated Potato, '&#39;Solanum tuberosum'&#39; is Distinct from the Andean Populations: Microsatellite Data, Celeste M. Raker and David M. Spooner, Univewrsity of Wisconsin, published in '&#39;Crop Science'&#39;, Vol.42, 2002 |format=PDF |date= |accessdate=2010-07-16}}</ref>  The Andean potato is adapted to the short-day conditions prevalent in the mountainous equatorial and tropical regions where it originated. The Chilean potato is adapted to the long-day conditions prevalent in the higher latitude region of southern Chile, especially on [[Chiloé Archipelago]] where it is thought to have originated.<ref>{{cite web|url=http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-34582007000300011&lng=en&nrm= |title= Molecular description and similarity relationships among native germplasm potatoes (''Solanum tuberosum'' ssp.'' ''tuberosum'' L.) using morphological data and AFLP markers |publisher=Electronic Journal of Biotechnology |date= |accessdate=6 December 2009}}</ref> Genetic testing done in 2005 showed that both subspecies derive from a common ancestor from the area of southern [[Peru]].<ref>{{cite journal|last=Spooner|first=David M.|coauthors=McLean, Karen; Ramsay, Gavin; Waugh, Robbie; Bryan, Glenn J.|date=29 September 2005|title=A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping|journal=[[Proceedings of the National Academy of Sciences|PNAS]]|pmid=16203994|volume=102|issue=41|pmc=1253605|pages=14694–99|doi=10.1073/pnas.0507400102|accessdate=10 April 2009|laysummary=http://www.cipotato.org/pressroom/press_releases_detail.asp?cod=17&lang=en|url=http://www.pnas.org/content/102/41/14694.full}}</ref>
+
+There are about five thousand potato varieties worldwide. Three thousand of them are found in the Andes alone, mainly in Peru, Bolivia, Ecuador, Chile, and Colombia. They belong to eight or nine species, depending on the taxonomic school. Apart from the five thousand cultivated varieties, there are about 200 wild species and subspecies, many of which can be cross-bred with cultivated varieties, which has been done repeatedly to transfer resistances to certain pests and diseases from the gene pool of wild species to the gene pool of cultivated potato species. [[Genetically modified food|Genetically modified]] varieties have met public resistance in the United States and in the European Union.<ref>{{cite news |title=Consumer acceptance of genetically modified potatoes |publisher=American Journal of Potato Research cited through Bnet |year=2002 |url=http://findarticles.com/p/articles/mi_qa4069/is_/ai_n9144615
+|accessdate=15 November 2008}}</ref><ref name="nytimes1">{{cite news |title=A Genetically Modified Potato, Not for Eating, Is Stirring Some Opposition in Europe
+|publisher=New York Times |url=http://www.nytimes.com/2007/07/24/business/worldbusiness/24spuds.html
+|accessdate=15 November 2008 | first=Elisabeth | last=Rosenthal | date=24 July 2007}}</ref>
+
+Most modern potatoes grown in North America arrived through European settlement and not independently from the South American sources. However, at least one wild potato species, ''Solanum fendleri'', is found as far north as Texas and used in breeding for resistance to a [[nematode]] species that attacks cultivated potatoes. A secondary center of genetic variability of the potato is Mexico, where important wild species that have been used extensively in modern breeding are found, such as the hexaploid ''Solanum demissum'', as a source of resistance to the devastating late blight disease. Another relative native to this region, ''[[Solanum bulbocastanum]]'', has been used to genetically engineer the potato to resist potato blight.<ref>{{cite web|url=http://www.pnas.org/cgi/content/full/100/16/9128 |title=Gene RB cloned from Solanum bulbocastanum confers broad spectrum resistance to potato late blight, Junqi Song et al., PNAS 2003 |publisher=Pnas.org |date= |accessdate=2010-07-16}}</ref>
+
+The [[International Potato Center]], based in [[Lima, Peru]], holds an [[International Organization for Standardization|ISO]]-accredited collection of potato [[germplasm]].<ref>{{cite web |title=ISO accreditation a world-first for CIP genebank |publisher=[[International Potato Center]] |year=2008 |url=http://www.cipotato.org/pressroom/press_releases_detail.asp?cod=55 |accessdate=19 November 2008}}</ref>
+
+Potatoes yield abundantly with little effort, and adapt readily to diverse climates as long as the climate is cool and moist enough for the plants to gather sufficient water from the soil to form the starchy tubers. Potatoes do not keep very well in storage and are vulnerable to molds that feed on the stored tubers, quickly turning them rotten. By contrast, grain can be stored for several years without much risk of rotting.<ref>The yield of Calories per acre (about 9.2 million) is higher than that of [[maize]] (7.5 million), [[rice]] (7.4 million), [[wheat]] (3 million), or [[soybean]] (2.8 million). {{cite book |author=Audrey Ensminger |coauthors=M. E. Ensminger, James E. Konlande |title=Foods & Nutrition Encyclopedia |year=1994 |publisher=CTC Press |url=http://books.google.com/?id=XMA9gYIj-C4C&pg=PA1104&dq=potatoes+calories+per+acre |isbn=084938981X}}</ref>
+
+== History ==
+=== Peru ===
+The potato originated in the region of southern [[Peru]].<ref name="Spooner 2005 14694–99"/> Potatoes were first domesticated in Peru between 3000 BC and 2000 BC. In the [[Altiplano]], potatoes provided the principal energy source for the [[Inca Empire]], its predecessors, and its Spanish successor. In Peru above 10,000&nbsp;feet altitude, tubers exposed to the cold night air turned into [[chuño]]; when kept in  permanently frozen underground storehouses, chuño can be stored for years with no loss of nutritional value. The Spanish fed chuño to the silver miners who produced vast wealth in the 16th century for the Spanish government.<ref name="online"/>
+
+=== Europe ===
+Sailors returning from Peru to Spain with silver presumably brought maize and potatoes for their own food on the trip. Historians speculate that leftover tubers (and maize) were carried ashore and planted. Basque fishermen from Spain used potatoes as ships stores for their voyages across Atlantic in the 16th century, and introduced the tuber to western Ireland, where they landed to dry  their cod. In 1553, in the book ''Crónica del Peru'', [[Pedro Cieza de Leon]] mentions he saw it in [[Quito]], [[Popayán]] and [[Pasto]]. Though the English privateer [[Francis Drake]], returning from his circumnavigation, or [[Sir Walter Raleigh]]'s employee [[Thomas Harriot]]<ref>[http://www.btinternet.com/~richard.towers/jim/raleigh1.html Sir Walter Raleigh - American colonies]</ref> are commonly credited with introducing potatoes into England, [[Mary, Queen of Scots]] already complained in 1569 of her enforced confinement at [[Tutbury Castle]] that its garden was no more than "a potato patch... fitter to keep pigs in."<ref>Letter of Mary, quoted in Mary S. Lovell, ''Bess of Hardwick, Empire Builder'' 2005:211.</ref>  In 1588, botanist Carolus Clusius made a painting of what he called "Papas Peruanorum" from a specimen in Belgium; in 1601 he reported that potatoes were in common use in northern Italy for animal fodder and for human consumption.<ref name="autogenerated1">John Reader, John. ''Propitious Esculent: The Potato in World History'' (2008)</ref>
+
+The Spanish had an empire across Europe, and brought potatoes for their armies. Peasants along the way adopted the crop, which was less often pillaged by marauding armies than above-ground stores of grain. Across most of northern Europe, where open fields prevailed, potatoes were strictly confined to small garden plots because field agriculture was strictly governed by custom that prescribed seasonal rhythms for plowing, sowing, harvesting and grazing animals on fallow and stubble. This meant that potatoes were barred from large-scale cultivation because the rules allowed only grain to be planted in the open fields.<ref>William H. McNeill, "How the Potato Changed the World's History." ''Social Research'' 1999 66(1): 67–83.</ref>  In France and Germany government officials and noble landowners promoted the rapid conversion of fallow land into potato fields after 1750. The potato thus became an important [[staple crop]] in northern Europe. Famines in the early 1770s contributed to its acceptance, as did government policies in several European countries and climate change during the [[Little Ice Age]], when traditional crops in this region did not produce as reliably as before.<ref>{{cite book |title=Agricultural Fluctuations in Europe: From the Thirteenth to the Twentieth Centuries |author=Wilhelm Abel |year=1986 |publisher=[[Taylor and Francis]] |url=http://books.google.com/?id=YAkOAAAAQAAJ&pg=PA208&dq=potato+resisted+france+germany |isbn=0312014651}}</ref><ref name="harvard">{{cite web |title=Columbus's Contribution to World Population and Urbanization: A Natural Experiment Examining the Introduction of Potatoes |publisher=[[Harvard University]] |url=http://www.economics.harvard.edu/faculty/nunn/files/Potatoes.pdf |format=PDF |accessdate=8 January 2009}}</ref> At times when and where most other crops failed, potatoes could still typically be relied upon to contribute adequately to food supplies during colder years.<ref>John Reader, ''Propitious Esculent: The Potato in World History'' (2008)</ref>
+
+The potato was not popular in France before 1800. It took time to be popularly adopted, but had widely replaced the [[turnip]] and [[rutabaga]] by the 19th century.<ref>von Bremzen, p. 322</ref> Today, the potato forms an important part of the traditional cuisines of most of Europe. [[Belarus]] has the highest consumption of potato [[per capita]], with each Belorussian consuming 381&nbsp;kg in 2005—about two pounds per person per day.<ref>{{cite web|url=http://www.potato2008.org/en/world/europe.html |title=International year of the potato website |publisher=Potato2008.org |date= |accessdate=2010-07-16}}</ref>
+
+==== 19th century Europe ====
+French physician [[Antoine-Augustin Parmentier|Antoine Parmentier]] studied the potato intensely and in ''Examen chymique des pommes de terres'' (Paris, 1774) showed their enormous nutritional value. King [[Louis XVI]] and his court eagerly promoted the new crop, with Queen [[Marie Antoinette]] even wearing a headdress of potato flowers at a fancy dress ball. The annual potato crop of France soared to 21&nbsp;million hectoliters in 1815 and 117&nbsp;millions in 1840, allowing a concomitant growth in population while avoiding the [[Malthusian catastrophe|Malthusian trap]]. Although potatoes had become widely familiar in Russia by 1800, they were confined to garden plots until the grain failure in 1838–1839 persuaded peasants and landlords in central and northern Russia to devote their fallow fields to raising potatoes. Potatoes yielded from two to four times more calories per acre than grain did, and eventually came to dominate the food supply in eastern Europe. Boiled or baked potatoes were cheaper than rye bread, just as nutritious, and did not require a gristmill for grinding. On the other hand cash-oriented landlords realized that grain was much easier to ship, store and sell, so both grain and potatoes coexisted.<ref>William L. Langer, "American Foods and Europe's Population Growth 1750–1850", ''Journal of Social History'', 8#2 (1975), pp. 51–66</ref>
+[[File:Dumont - Portrait of Antoine Parmentier.jpg|thumb|left|upright|[[Antoine-Augustin Parmentier|Antoine Parmentier]] holding New World plants, [[François Dumont]] 1812]]
+
+Throughout Europe, the most important new food in the 19th century was the potato, which had three major advantages over other foods for the consumer: its lower rate of spoilage, its bulk (which easily satisfied hunger), and its cheapness. The crop slowly spread across Europe, such that, for example, by 1845 it occupied one-third of Irish arable land.{{Citation needed|date=October 2010}} Potatoes comprised about 10% of the caloric intake of Europeans.{{Citation needed|date=October 2010}} Along with several other foods that either originated in the Americas or were successfully grown or harvested there, potatoes sustained European populations.<ref>John Komlos, "The New World's Contribution to Food Consumption During the Industrial Revolution." ''Journal of European Economic History'' 1998 27(1): 67–82. Issn: 0391-5115</ref>
+
+In Britain, the potato promoted economic development by underpinning the [[Industrial Revolution]] in the 19th century. It served as a cheap source of calories and nutrients that was easy for urban workers to cultivate on small backyard plots. Potatoes became popular in the north of England, where coal was readily available, so a potato-driven population boom provided ample workers for the new factories. Marxist [[Friedrich Engels]] even declared that the potato was the equal of iron for its "historically revolutionary role.<ref name="autogenerated1"/> The Dutch potato-starch industry grew rapidly in the 19th century, especially under the leadership of entrepreneur Willem Albert Scholten (1819–92).<ref>Dorien Knaap, The W.A. Scholtencompany: the first Dutch industrial multinational, Summary of dissertation, University of Groningen, 2004 [http://dissertations.ub.rug.nl/FILES/faculties/eco/2004/d.a.knaap/summary.pdf]</ref>
+
+==== Ireland ====
+In Ireland, the expansion of potato cultivation was due entirely to the landless laborers, renting tiny plots from landowners, who were interested only in raising cattle or in producing grain for market. A single acre of potatoes and the milk of a single cow was enough to feed a whole Irish family a monotonous but nutritionally adequate diet for a healthy, vigorous (and desperately poor) rural population. Often even poor families grew enough extra potatoes to feed a pig that they could sell for cash.<ref>William H.  McNeill, "The Introduction of the Potato into Ireland", ''Journal of Modern History'' 21 (1948): 218–21.  [http://www.jstor.org/pss/1876068 in JSTOR]</ref>
+
+A lack of genetic diversity from the low number of varieties left the crop vulnerable to disease. In 1845, a plant disease known as late blight, caused by the fungus-like [[oomycete]] ''[[Phytophthora infestans]]'', spread rapidly through the poorer communities of western Ireland, resulting in the crop failures that led to the [[Great Irish Famine]].<ref>Cormac  Ó Gráda,  ''Black '47 and Beyond: The Great Irish Famine in History, Economy, and Memory.'' (1999).</ref>
+
+The Lumper potato, widely cultivated in western and southern Ireland before and during the great famine, was bland, wet, and poorly resistant to the potato blight, but yielded large crops and usually provided adequate calories for peasants and laborers. Heavy dependence on this potato led to disaster when the potato blight turned a newly harvested potato into a putrid mush in minutes. The [[Great Famine (Ireland)|Irish Famine]] in the western and southern parts of the British-controlled island of Ireland, 1845–49, was a catastrophic failure in the food supply that led to approximately a million deaths from famine and (especially) diseases that attacked weakened bodies, and to massive emigration to Britain, the U.S. and Canada.<ref>Cormac Ó Gráda, et al. ''When the Potato Failed: Causes and Effects of the Last European Subsistence Crisis, 1845–1850.'' (2007)</ref>
+
+===Canary Islands Study===
+Shipping records from 1567 make the [[Canary Islands]] islands off the shores northwest Africa the first known home to potatoes outside of Central and South America. In 2007, David Spooner, a horticulturist with the U.S. Department of Agriculture and a researcher at the University of Wisconsin, Madison, decided to analyze potatoes on the island.<ref name="sciencemag2007">{{cite web|author=by Sarah C. P. Williams |url=http://news.sciencemag.org/sciencenow/2007/05/15-02.html |title=The Secret History of the Potato - ScienceNOW |publisher=News.sciencemag.org |date=2007-05-15 |accessdate=2010-12-19}}</ref> He found that some potatoes on the Canary Islands had genetic markers of Andean origins and some had markers indicating Chilean roots.<ref name="sciencemag2007"/> Two subspecies of these wild spuds, one found in Chile, the other in the Andean highlands of Peru, look very similar but differ genetically.<ref name="sciencemag2007"/> Most scientists have long assumed that European potatoes, the foundation for all modern cultivated potatoes, come from the Chilean variety, because Chilean lowlands resemble Europe's environment most closely.<ref name="sciencemag2007"/> According to Spooner, "The idea that it was a single introduction from Chile just doesn't stand up,". Spooner suggests that different varieties could have been brought from South America at various times.<ref name="sciencemag2007"/>
+
+===Africa===
+It is generally believed that Potatoes also entered Africa with colonists, who consumed them as a vegetable rather than as a staple starch.<ref name="cambridge1">{{cite web|url=http://www.cambridge.org/us/books/kiple/potatoes.htm |title=The Cambridge World History of Food- Potatoes (White) |publisher=Cambridge.org |date=1994-06-10 |accessdate=2010-12-19}}</ref> Shipping records from 1567 make the [[Canary Islands]] islands off the shores northwest Africa the first known home to potatoes outside of Central and South America though.<ref name="sciencemag2007"/> Like in other continents, in spite of its advantages as an antifamine, high-elevation alternative to grain, the potato was at first resisted by local farmers who thought it was poisonous. The colonialists also promoted it as a low cost food to them and so it was a symbol of domination.<ref name="cambridge1"/> In former European colonies of Africa, potatoes were initially consumed only occasionally, but increased production made them a staple in certain areas. In Africa, as in Europe, the popularity of the tubers increased in wartime because they could be stored in the ground.<ref name="cambridge1"/>
+
+In present day Africa it has been a vegetable or co-staple crop.<ref name="cambridge1"/>
+
+====Uses====
+In central African regions of relatively high production, potatoes are beaten with grains and legumes into a stiff porridge, or boiled or roasted and eaten whole.<ref name="cambridge1"/>
+
+====Industrialization of potatoes ====
+Like in many parts of the world, diet has been globalized and it is currently  also used to make industrialized produce like produced potato fries (chips), chips (crisps).<ref name="cambridge1"/>
+
+====Rwandan potatoes====
+In the upper reaches of Rwanda, potatoes took root as a new staple food crop and contributed to subsistence, surplus, and population expansion.<ref name="cambridge1"/> Prior to its most recent civil conflict, Rwanda in some localities witnessed per capita consumption as high as 153 to 200&nbsp;kg per year — higher than that in any Western European country, including Ireland.<ref name="cambridge1"/> There, local farmers in recent years have developed the potato as a cash crop — the result of the introduction of several new varieties brought back by migrant laborers from Uganda, the diffusion of other varieties from Kenya, and the comparative advantage of raising potatoes relative to other cash or subsistence crops.<ref name="cambridge1"/>
+
+=== Asia ===
+The potato diffused widely after 1600, becoming a major food resource in Europe and East Asia. Following its introduction into China toward the end of the Ming dynasty, the potato immediately became a delicacy of the imperial family. After the middle period of the Qianlong reign (1735–96), population increases and a subsequent need to increase grain yields coupled with greater peasant geographic mobility led to the rapid spread of potato cultivation throughout China, and it was acclimated to local natural conditions.
+
+Boomgaard (2003) looks at the adoption of various root and tuber crops in Indonesia throughout the colonial period and examines the chronology and reasons for progressive adoption of foreign crops: [[Sweet potato]], Irish potato, [[Jícama|bengkuang (yam beans)]], and [[Cassava]].
+
+The potato was introduced in the Philippines during the late 16th century, and to [[Java]] and China during the 17th century. It was well-established as a crop in India by the late 18th century and in Africa by the mid-20th century.<ref name="harvard" />
+
+=== US and Canada ===
+Potatoes were planted in Idaho as early as 1838; by 1900 the state's production exceeded a million [[bushel]]s (about 27,000&nbsp;[[tonnes]]{{#tag:ref|Using 60 pounds per bushel, as given by the Alabama Cooperative Extension System<ref name="aces">{{cite web|url=http://www.aces.edu/pubs/docs/A/ANR-0829/|title=Containers and Weights of Commercial Fruits, Nuts, and Vegetables|last=Kemble|first= Joseph|date=February 1997|accessdate=11 March 2010|publisher= The Alabama Cooperative Extension System}}</ref>| name="lb/bshl"}}). Prior to 1910, the crops were stored in barns or root cellars, but, by the 1920s, potato cellars came into use. U.S. potato production has increased steadily; two-thirds of the crop comes from Idaho, Washington, Oregon, Colorado, and Maine, and potato growers have strengthened their position in both domestic and foreign markets.
+
+By the 1960s, the Canadian Potato Research Centre in Fredericton, New Brunswick, was one of the top six potato research institutes in the world. Established in 1912 as a dominion experimental station, the station began in the 1930s to concentrate on breeding new varieties of disease-resistant potatoes. In the 1950s–60s the growth of the French fry industry in New Brunswick led to a focus on developing varieties for the industry. By the 1970s, the station's potato research was broader than ever before, but the station and its research programs had changed, as emphasis was placed on serving industry rather than potato farmers in general. Scientists at the station even began describing their work using engineering language rather than scientific prose.<ref>Steven Turner, and Heather Molyneaux, "Agricultural Science, Potato Breeding and the Fredericton Experimental Station, 1912–66." ''Acadiensis'' 2004 33(2): 44–67. Issn: 0044-5851</ref> Potatoes are Canada's most important vegetable crop; they are grown commercially in all its provinces, led by [[Prince Edward Island|PEI]].<ref>[http://www4.agr.gc.ca/AAFC-AAC/display-afficher.do?id=1222284657608&lang=eng "Potatoes in Canada".] Agriculture and Agri-Food Canada. Retrieved 29 June 2010.</ref>
+
+== Role in world food supply ==
+[[Image:PotatoYield.png|thumb|250px|left|Worldwide potato production]]
+
+{{Agricultural production box
+|year=2006
+|plant=Potato
+|country1={{PRC}}
+|amount1=70
+|country2={{RUS}}
+|amount2=39
+|country3={{IND}}
+|amount3=24
+|country4={{USA}}
+|amount4=20
+|country5={{UKR}}
+|amount5=19
+|country6={{GER}}
+|amount6=10
+|country7={{POL}}
+|amount7=9
+|country8={{BEL}}
+|amount8=8
+|country9={{NLD}}
+|amount9=7
+|country10={{FRA}}
+|amount10=6
+|world=315
+}}
+[[File:2005potato.PNG|thumb|right|Potato output in 2005]]
+The United Nations [[FAO]] reports that the world production of potatoes in 2008 was 314&nbsp;million tonnes.<ref>
+{{cite web
+|url=http://faostat.fao.org/site/567/DesktopDefault.aspx?PageID=567#ancor
+|title=FAOSTAT
+|publisher=faostat.fao.org
+|accessdate=2 January 2010
+}}
+</ref> The annual diet of an average global citizen in the first decade of the 21st century included about 33&nbsp;kg (or 73&nbsp;lb) of potato. However, the local importance of potato is extremely variable and rapidly changing. It remains an essential crop in Europe (especially eastern and central Europe), where per capita production is still the highest in the world, but the most rapid expansion over the past few decades has occurred in southern and eastern Asia. China is now the world's largest potato-producing country, and nearly a third of the world's potatoes are harvested in China and India.<ref name="Hijmans 2001 403–12"/> The geographic shift of potato production has been away from wealthier countries toward lower-income areas of the world, although the degree of this trend is ambiguous.<ref name="potato2008.org">{{cite web |url=http://www.potato2008.org/en/world/index.html |title= World-wide potato production statistics |publisher=Potato World |accessdate=10 September 2008}}</ref>
+
+In 2008, several international organizations highlighted the potato's role in world food production, in the face of developing economic problems. They cited its potential derived from its status as a cheap and plentiful crop that grows in a wide variety of climates and locales.<ref name="Reuters 415">[http://www.reuters.com/article/worldNews/idUSN0830529220080415?feedType=RSS&feedName=worldNews&rpc=22&sp=true As other staples soar, potatoes break new ground] By Terry Wade, Reuters, 15 April 2008.</ref> Due to perishability, only about 5% of the world's potato crop is traded internationally; its minimal presence in world financial markets contributed to its stable pricing during the [[2007–2008 world food price crisis]].<ref>{{cite web |title=Getting Out of the food crisis |publisher=[[Global Policy Forum]] |url=http://www.globalpolicy.org/socecon/hunger/general/2008/07grain.htm |accessdate=14 November 2008}}</ref><ref>{{cite news |title=Potatoes called savior in global food crisis |publisher=San Francisco Chronicle |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/10/26/MN2O13O982.DTL |accessdate=14 November 2008 | first=Elisabeth | last=Rosenthal}}</ref> Thus, the [[United Nations]] officially declared the year 2008 as the ''[[International Year of the Potato]]'',<ref>http://www.khaleejtimes.com/DisplayArticleNew.asp?xfile=data/theworld/2007/October/theworld_October534.xml&section=theworld&col=</ref> to raise its profile in developing nations, calling the crop a "hidden treasure".<ref>'Humble' Potato Emerging as World's next Food Source, p. 20</ref> This followed the International [[Rice]] Year in 2004.
+
+== Nutrition ==
+{{nutritionalvalue
+| name=Potato, raw, with peel
+| water=75 g
+| kJ=321
+| protein=2 g
+| carbs=19 g
+| fat=0.1 g
+| fiber=2.2 g
+| starch=15 g
+| vitA_mg=5
+| thiamin_mg=0.08
+| riboflavin_mg=0.03
+| vitB6_mg=0.25
+| vitC_mg=20
+| niacin_mg=1.1
+| iron_mg=1.8
+| calcium_mg=12
+| magnesium_mg=23
+| phosphorus_mg=57
+| potassium_mg=421
+| sodium_mg=6
+}}
+
+The potato contains [[vitamin]]s and [[Dietary mineral|minerals]], as well as an assortment of [[phytochemicals]], such as [[carotenoids]] and polyphenols. [[Chlorogenic acid]] constitutes up to 90% of the potato tuber polyphenols. Others polyphenols found in potatoes are [[4-O-caffeoylquinic acid|4-O-caffeoylquinic]] (crypto-chlorogenic acid), [[5-O-caffeoylquinic acid|5-O-caffeoylquinic]] (neo-chlorogenic acid), [[3,4-dicaffeoylquinic acid|3,4-dicaffeoylquinic]] and [[3,5-dicaffeoylquinic acid]]s.<ref>Chemistry, Biochemistry, and Dietary Role of Potato Polyphenols. A Review. Mendel Friedman, J. Agric. Food Chem., 1997, 45 (5), pp 1523–1540, {{doi|10.1021/jf960900s}}</ref> A medium-size 150&nbsp;g (5.3&nbsp;oz) potato with the skin provides 27&nbsp;mg of [[vitamin C]] (45% of the Daily Value (DV)), 620&nbsp;mg of [[potassium]] (18% of DV), 0.2&nbsp;mg [[vitamin B6|vitamin B<sub>6</sub>]] (10% of DV) and trace amounts of [[thiamin]], [[riboflavin]], [[folate]], [[niacin]], [[magnesium]], [[phosphorus]], [[Iron#Nutrition and dietary sources|iron]], and [[Zinc metabolism|zinc]]. The fiber content of a potato with skin (2&nbsp;g) is equivalent to that of many whole grain [[bread]]s, [[pasta]]s, and [[cereal]]s.
+
+In terms of nutrition, the potato is best known for its [[carbohydrate]] content (approximately 26&nbsp;grams in a medium potato). The predominant form of this carbohydrate is [[starch]]. A small but significant portion of this starch is resistant to digestion by [[enzyme]]s in the [[stomach]] and [[small intestine]], and so reaches the [[large intestine]] essentially intact. This [[resistant starch]] is considered to have similar physiological effects and health benefits as [[Dietary fiber|fiber]]: It provides bulk, offers protection against [[colon cancer]], improves [[glucose]] tolerance and insulin sensitivity, lowers plasma cholesterol and [[triglyceride]] concentrations, increases satiety, and possibly even reduces fat storage.<ref>{{cite journal |doi=10.1079/BJN19960177 |author=Cummings JH, Beatty ER, Kingman SM, Bingham SA, Englyst HN |title=Digestion and physiological properties of resistant starch in the human large bowel |journal=Br. J. Nutr. |volume=75 |issue=5 |pages=733–47 |year=1996 |month=May |pmid=8695600}}</ref><ref>{{cite journal |author=Hylla S, Gostner A, Dusel G, ''et al.'' |title=Effects of resistant starch on the colon in healthy volunteers: possible implications for cancer prevention |journal=Am. J. Clin. Nutr. |volume=67 |issue=1 |pages=136–42 |year=1998 |month=January |pmid=9440388}}</ref><ref>{{cite journal |author=Raben A, Tagliabue A, Christensen NJ, Madsen J, Holst JJ, Astrup A |title=Resistant starch: the effect on postprandial glycemia, hormonal response, and satiety |journal=Am. J. Clin. Nutr. |volume=60 |issue=4 |pages=544–51 |year=1994 |month=October |pmid=8092089}}</ref> The amount of resistant starch in potatoes depends much on preparation methods. Cooking and then cooling potatoes significantly increased resistant starch. For example, cooked [[potato starch]] contains about 7% resistant starch, which increases to about 13% upon cooling.<ref>{{cite journal|author = Englyst HN, Kingman SM, Cummings JH|year=1992|title=Classification and measurement of nutritionally important starch fractions|journal=Eur J Clin Nutr.|volume=46|pages=S33–S50|pmid = 1330528}}</ref>
+
+The nutrients of the potato seem to be fairly evenly distributed between the flesh and the skin. For a medium potato, with and without the skin, nutritiondata.com gives the following:<ref>{{cite web|url=http://www.nutritiondata.com/facts/vegetables-and-vegetable-products/2554/2 |title=Nutritiondata.com |publisher=Nutritiondata.com |date= |accessdate=2010-07-16}}</ref><ref>{{cite web|url=http://www.nutritiondata.com/facts/vegetables-and-vegetable-products/2770/2 |title=Nutritiondata.com |publisher=Nutritiondata.com |date= |accessdate=2010-07-16}}</ref>
+{{-}}
+{|class="wikitable"
+|-
+!Nutrient
+!Without skin (156&nbsp;g) (% RDA)
+!With skin (173&nbsp;g) (% RDA)
+|-
+!Vitamin C
+|33
+|28
+|-
+!Thiamin
+|11
+|7
+|-
+!Niacin
+|11
+|12
+|-
+!Vitamin B<sub>6</sub>
+|23
+|27
+|-
+!Folate
+|4
+|12
+|-
+!Pantothenic Acid
+|9
+|7
+|-
+!Iron
+|3
+|10
+|-
+!Magnesium
+|10
+|12
+|-
+!Potassium
+|17
+|26
+|-
+!Copper
+|17
+|10
+|-
+!Dietary Fiber
+|9
+|15
+|}
+
+The cooking method used can significantly impact the nutrient availability of the potato.
+
+Potatoes are often broadly classified as high on the [[glycemic index]] (GI) and so are often excluded from the diets of individuals trying to follow a [[low-GI diet]]. In fact, the GI of potatoes can vary considerably depending on type (such as red, russet, white, or Prince Edward), origin (where it was grown), preparation methods (i.e., cooking method, whether it is eaten hot or cold, whether it is mashed or cubed or consumed whole, etc.), and with what it is consumed (i.e., the addition of various high-fat or high-protein toppings).<ref>{{cite journal|author=Fernandes G, Velangi A, Wolever TMS|year=2005|title=[[Glycemic index]] of potatoes commonly consumed in North America|journal=Journal of the American Dietetic Association|volume=105|pages=557–62|doi=10.1016/j.jada.2005.01.003|pmid=15800557|issue=4}}</ref>
+
+Potatoes are not considered by the [[National Health Service|NHS]] as counting towards the [[5 A Day|five portions of fruit and vegetables]] diet.<ref>[http://www.nhs.uk/Livewell/5ADAY/Pages/Whatcounts.aspx List of what counts towards 5 A DAY portions of fruit and vegetables] ''[[National Health Service|NHS]]'' 18 December 2009 retrieved 29 March 2010</ref>
+
+=== Toxicity ===
+[[File:Potato EarlyRose sprouts.jpg|thumb|Early Rose variety seed tuber with sprouts]]
+Potatoes contain toxic compounds known as [[glycoalkaloid]]s, of which the most prevalent are [[solanine]] and [[chaconine]]. Solanine is also found in other plants in the family [[Solanaceae]], which includes such plants as the deadly nightshade (''[[Atropa belladonna]]''), henbane (''[[Hyoscyamus niger]]'') and tobacco (''[[Nicotiana]]'') as well as the potato, eggplant, and [[tomato]]. This toxin affects the nervous system, causing weakness and confusion.
+
+These compounds, which protect the plant from its predators, are, in general, concentrated in its leaves, stems, sprouts, and fruits.<ref>{{cite web |title=Tomato-like Fruit on Potato Plants |publisher=[[Iowa State University]] |url=http://www.ipm.iastate.edu/ipm/hortnews/2004/7-2-2004/tomatopotato.html |accessdate=8 January 2009}}</ref> Exposure to light, physical damage, and age increase glycoalkaloid content within the tuber;<ref>{{cite web |title=Greening of potatoes |publisher=Food Science Australia |year=2005 |url=http://www.foodscience.afisc.csiro.au/spuds.htm |accessdate=15 November 2008}}</ref> the highest concentrations occur just underneath the skin. Cooking at high temperatures (over 170 °C or 340 °F) partly destroys these. The concentration of glycoalkaloid in wild potatoes suffices to produce toxic effects in humans. Glycoalkaloids may cause [[headache]]s, [[diarrhea]], [[cramps]], and in severe cases [[coma]] and death; however, poisoning from potatoes occurs very rarely. Light exposure causes greening from [[chlorophyll]] synthesis, thus giving a visual clue as to areas of the tuber that may have become more toxic; however, this does not provide a definitive guide, as greening and glycoalkaloid accumulation can occur independently of each other. Some varieties of potato contain greater glycoalkaloid concentrations than others; breeders developing new varieties test for this, and sometimes have to discard an otherwise promising [[cultivar]].
+[[File:Potato fruits.jpg|thumb|The [[toxic]] fruits produced by mature potato plants]]
+Breeders try to keep solanine levels below 200&nbsp;mg/kg (200 ppmw). However, when these commercial varieties turn green, even they can approach concentrations of solanine of 1000&nbsp;mg/kg (1000 ppmw). In normal potatoes, analysis has shown solanine levels may be as little as 3.5% of the breeders' maximum, with 7–187&nbsp;mg/kg being found.<ref>''Glycoalkaloid and calystegine contents of eight potato cultivars''
+[http://grande.nal.usda.gov/ibids/index.php?mode2=detail&origin=ibids_references&therow=728718 J-Agric-Food-Chem. 2003 May 7; 51(10): 2964–73]</ref>
+
+The U.S. National Toxicology Program suggests that the average American consume at most 12.5&nbsp;mg/day of solanine from potatoes (the toxic dose is actually several times this, depending on body weight). Douglas L. Holt, the State Extension Specialist for Food Safety at the [[University of Missouri]], notes that no reported cases of potato-source solanine poisoning have occurred in the U.S. in the last 50&nbsp;years, and most cases involved eating green potatoes or drinking potato-leaf tea.{{Citation needed|date=March 2009}}
+
+== Growth and cultivation ==
+[[File:Potato planting machine.JPG|thumb|right|Potato planting in [[Washington (U.S. state)|Washington]]]]
+[[File:Tractors in Potato Field.jpg|right|thumb|Potato field in [[Fort Fairfield, Maine]]]]
+[[File:Potato bag cultivation.JPG|thumb|right|Potatoes grown in a tall bag are common in gardens as they increase potato yield and minimize the amount of digging required at harvest]]
+
+Potato growth has been divided into five phases. During the first phase, sprouts emerge and root growth begins. During the second, [[photosynthesis]] begins as the plant develops leaves and branches. New tubers develop during the third phase, which is often (but not always) associated with flowering. Tuber formation halts when soil temperatures reach {{convert|80|F|C|1}}; hence potatoes are considered a cool-season crop.<ref name=shampoo>{{cite web|url=http://urbanext.illinois.edu/veggies/potato.cfm|title=Potato|publisher=[[University of Illinois]] [[Cooperative extension service|Extension Service]]|accessdate=2010-06-27}}</ref> Tuber bulking occurs during the fourth phase, when the plant begins investing the majority of its resources in its newly formed tubers. At this stage, several factors are critical to yield: optimal soil moisture and temperature, soil nutrient availability and balance, and resistance to pest attacks. The final phase is maturation: The plant canopy dies back, the tuber skins harden, and their sugars convert to starches.<ref name=cornell1/>
+
+New tubers may arise at the soil surface. Since exposure to light leads to greening of the skins and the development of solanin, growers are interested in covering such tubers. Commercial growers usually address this problem by piling additional soil around the base of the plant as it grows ("hilling", or in British English "earthing up"). An alternative method used by home gardeners and smaller-scale growers involves covering the growing area with organic [[mulch]]es such as straw or with plastic sheets.<ref name=cornell1>{{cite web|url=http://suffolk-lamp.cit.cornell.edu/assets/Horticulture-Leaflets/Growing-Potatoes-in-the-Home-Garden.pdf|publisher=[[Cornell University]] [[Cooperative extension service|Extension Service]]|title=Growing Potatoes in the Home Garden|accessdate=2010-06-27}}</ref>
+
+Correct potato husbandry can be an arduous task in some circumstances. Good ground preparation, [[harrowing]], [[plough|plowing]], and rolling are always needed, along with a little grace from the weather and a good source of water. Three successive plowings, with associated harrowing and rolling, are desirable before planting. Eliminating all root-weeds is desirable in potato cultivation. In general, the potatoes themselves are grown from the eyes of another potato and not from seed. Home gardeners often plant a piece of potato with two or three eyes in a hill of mounded soil. Commercial growers plant potatoes as a row crop using seed tubers, young plants or microtubers and may mound the entire row. Seed potato crops are 'rogued' in some countries to eliminate diseased plants or those of a different variety from the seed crop.
+
+Potatoes are sensitive to heavy [[frost]]s, which damage them in the ground. Even cold weather makes potatoes more susceptible to bruising and possibly later rotting, which can quickly ruin a large stored crop.
+
+At harvest time, gardeners usually dig up potatoes with a long-handled, three-prong "grape" (or graip), i.e., a [[spading fork]], or a potato hook, which is similar to the graip but with tines at a 90&nbsp;degree angle to the handle. In larger plots, the plow is the fastest implement for unearthing potatoes. Commercial harvesting is typically done with large potato harvesters, which scoop up the plant and surrounding earth. This is transported up an apron chain consisting of steel links several feet wide, which separates some of the dirt. The chain deposits into an area where further separation occurs. Different designs use different systems at this point. The most complex designs use vine choppers and shakers, along with a blower system or "Flying Willard" to separate the potatoes from the plant. The result is then usually run past workers who continue to sort out plant material, stones, and rotten potatoes before the potatoes are continuously delivered to a wagon or truck. Further inspection and separation occurs when the potatoes are unloaded from the field vehicles and put into storage.
+
+Immature potatoes may be sold as "New Potatoes" and are particularly valued for taste. These are often harvested by the home gardener or farmer by "grabbling", i.e. pulling out the young tubers by hand while leaving the plant in place.
+
+Potatoes are usually cured after harvest to improve skin-set. Skin-set is the process by which the skin of the potato becomes resistant to skinning damage. Potato tubers may be susceptible to skinning at harvest and suffer skinning damage during harvest and handling operations. Curing allows the skin to fully set and any wounds to heal. Wound-healing prevents infection and water-loss from the tubers during storage. Curing is normally done at relatively warm temperatures {{convert|50|°C|°F}} to {{convert|60|°C|°F}} with high humidity and good gas-exchange if at all possible.<ref>Kleinkopf G.E. and N. Olsen. 2003. Storage Management, in: Potato Production Systems, J.C. Stark and S.L. Love (eds), University of Idaho Agricultural Communications, 363–381.</ref>
+
+=== Storage ===
+Storage facilities need to be carefully designed to keep the potatoes alive and slow the natural process of decomposition, which involves the breakdown of starch. It is crucial that the storage area is dark, well ventilated and for long-term storage maintained at temperatures near {{convert|4|C|F}}. For short-term storage before cooking, temperatures of about {{convert|7|°C|°F}} to {{convert|10|°C|°F}} are preferred.<ref name="crosstree" /><ref name="healthypotato">[http://www.potatogoodness.com/Content/pdf/NutritionHandouts/PotatoStorageandCare.pdf ]{{Dead link|date=July 2010}}
+</ref>
+ 
+On the other hand, temperatures below {{convert|4|°C|°F}} convert potatoes' starch into sugar, which alters their taste and cooking qualities and leads to higher [[acrylamide]] levels in the cooked product, especially in deep-fried dishes{{
+mdash}}the discovery of Acrylamides in starchy foods in 2002 has led to many international health concerns as they are believed to be possible carcinogens and their occurrence in cooked foods are currently under study as possible influences in potential health problems.<ref>See text: [[Acrylamides]], esp introduction; Acrylamide was accidentally discovered in foods in April 2002 by scientists in Sweden when they found the chemical in [[starch]]y foods, such as [[potato chip]]s, [[French fried potatoes|French fries]], and bread that had been heated (production of acrylamide in the heating process was shown to be temperature-dependent)</ref><ref
+ name=tareke>{{cite journal|unused_data = DUPLICATE DATA: pmid = 12166997|author = Tareke E, Rydberg P. ''et al.''|title = Analysis of acrylamide, a carcinogen formed in heated foodstuffs
+|journal = J. Agric. Food. Chem.|volume = 50|issue = 17
+|pages = 4998–5006|year = 2002|pmid = 12166997|doi = 10.1021/jf020302f}}</ref>
+
+Under optimum conditions possible in commercial warehouses, potatoes can be stored for up to ten to twelve months.<ref name="crosstree" /> When stored at homes, the shelf life is usually only for several weeks.<ref name="healthypotato" /> If potatoes develop green areas or start to sprout, these areas should be trimmed before using.<ref name="healthypotato" />
+
+Commercial storage of potatoes involves several phases: drying of surface moisture; a wound healing phase at 85% to 95% [[relative humidity]] and temperatures below {{convert|25|°C|°F}}; a staged cooling phase; a holding phase; and a reconditioning phase, during which the tubers are slowly warmed. Mechanical ventilation is used at various points during the process to prevent condensation and accumulation of [[carbon dioxide]].<ref name="crosstree" />
+
+When stored in the home, mature potatoes are optimally kept at room temperature, where they last 1 to 2&nbsp;weeks in paper bag, in a dry, cool, dark, well ventilated location.<ref name=cpma>[http://www.cpma.ca/en_hea_storage.asp Canadian Produce Marketing Association > Home Storage Guide for Fresh Fruits & Vegetables]. Retrieved August 2010.</ref> If mature potatoes are refrigerated, dark spots can occur and conversion of starch into sugar can give rise to unpleasant sweet flavour when cooked.<ref name=cpma/> Only new potatoes can be refrigerated, and should be kept so, where they have a shelflife of 1&nbsp;week.<ref name=cpma/> If kept in too warm temperatures, both mature and new potatoes will sprout and shrivel.<ref name=cpma/> Exposure to light causes them to turn green. Also, potatoes absorb odours produced by [[pears]].<ref name=cpma/>
+
+=== Varieties ===
+[[File:patates.jpg|thumb|right|Different types of potato]]
+[[File:Bamberger Hoernle.jpg|thumb|right|Bamberg potatoes]]
+[[File:Russet potato .jpg|thumb|right|Organically grown Russet Burbanks]]
+While there are close to 4000 different varieties of potato,<ref>{{cite web |title=Saving the Potato in its Andean Birthplace |url=http://news.nationalgeographic.com/news/2002/06/0610_020610_potato.html |date=10 June 2002 |work= |publisher=National Geographic |author=John Roach |accessdate=11 September 2009}}</ref> it has been bred into many standard or well-known varieties, each of which has particular agricultural or culinary attributes. In general, varieties are categorized into a few main groups, such as russets, reds, whites, yellows (also called Yukons) and purples—based on common characteristics. Around 80 varieties are commercially available in the UK.<ref>{{cite web|url=http://www.britishpotatoes.co.uk/potato-varieties/|title=Potato Varieties|last=Potato Council Ltd.|work=Potato Council website|publisher=Agriculture & Horticulture Development Board|accessdate=13 September 2009}}</ref> For culinary purposes, varieties are often described in terms of their waxiness. Floury, or mealy (baking) potatoes have more starch (20–22%) than waxy (boiling) potatoes (16–18%). The distinction may also arise from variation in the comparative ratio of two potato starch compounds: [[amylose]] and [[amylopectin]]. Amylose, a long-chain molecule, diffuses out of the starch granule when cooked in water, and lends itself to dishes where the potato is mashed. Varieties that contain a slightly higher amylopectin content, a highly branched molecule, help the potato retain its shape when boiled.<ref>{{cite web |title=Potato Primer |publisher=[[Cooks Illustrated]] |url=http://www.cooksillustrated.com/images/document/howto/JF07_PotatoPrimer.pdf |format=PDF |accessdate=8 December 2008}}</ref>
+
+The [[European Cultivated Potato Database]] (ECPD) is an online collaborative database of potato variety descriptions, updated and maintained by the Scottish Agricultural Science Agency within the framework of the European Cooperative Programme for Crop Genetic Resources Networks (ECP/GR)—which is organised by the International Plant Genetic Resources Institute (IPGRI).<ref>{{cite web|url=http://www.europotato.org/menu.php |title=Europotato.org |publisher=Europotato.org |date= |accessdate=2010-07-16}}</ref>
+
+Popular varieties ([[cultivar]]s) include:
+{{col-begin|width=60%}}
+{{col-break}}
+* [[Adirondack Blue]]
+* [[Adirondack Red]]
+* [[Agata potato|Agata]]<!-- see de:Agata (Kartoffel) -->
+* [[Almond potato|Almond]]
+* [[Amandine potato|Amandine]]
+* [[Anya potato|Anya]]
+* [[Arran Victory]]
+* [[Atlantic potato|Atlantic]]
+* [[Bamberg potato|Bamberg]]<!-- see de:Bamberger Hörnla -->
+* [[Belle de Fontenay]]
+* [[BF-15]]
+* [[Bildtstar]]<!-- see de:Bildtstar -->
+* [[Bintje]]
+* [[Blue Congo]]<!-- see de:Blauer Schwede fi:Blue Congo no:Blue kongo sv:Blå kongo -->
+* [[Bonnotte]]<!-- see de:Bonnotte fr:Bonnotte -->
+* [[Cabritas]]
+* [[Camota]]
+* [[Chelina]]
+* [[Chiloé Archipelago#Potato|Chiloé]]<ref>{{cite web|url=http://www.papasnativas.cl/chwb/cet/variedades.html |title= Descripción de tuberculos |publisher=Papas Nativas de Chiloé |date= |accessdate=6 December 2009}}</ref>
+* [[Cielo potato|Cielo]]
+{{col-break}}
+* [[Clavela Blanca]]
+* [[Désirée potato|Désirée]]
+* [[Fianna potato|Fianna]]
+* [[Fingerling potato|Fingerling]]
+* [[Flava potato|Flava]]
+* [[Golden Wonder potato|Golden Wonder]]
+* [[Innovator potato|Innovator]]<!-- see de:Innovator (Kartoffelsorte) -->
+* [[Jersey Royal potato|Jersey Royal]]
+* [[Kerr's Pink]]
+* [[Kestrel potato|Kestrel]]
+* [[King Edward potato|King Edward]]
+* [[Kipfler]]
+* [[Lady Balfour]]
+* [[Linda potato|Linda]]<!-- see de:Linda (Kartoffel) -->
+* [[Marfona]]
+* [[Maris Piper]]
+* [[Marquis potato|Marquis]]
+* [[Nicola potato|Nicola]]
+* [[Pachacoña]]
+{{col-break}}
+* [[Pink Eye potato|Pink Eye]]
+* [[Pink Fir Apple]]
+* [[Primura]]
+* [[Ratte potato|Ratte]]
+* [[Red Norland]]
+* [[Red Pontiac potato|Red Pontiac]]
+* [[Rooster potato|Rooster]]
+* [[Russet Burbank potato|Russet Burbank]]
+* [[Russet Norkotah]]
+* [[Selma potato|Selma]]<!-- see de:Selma (Kartoffel) -->
+* [[Shepody]]
+* [[Sieglinde potato|Sieglinde]]<!-- see de:Sieglinde (Kartoffel) fi:Siikli (peruna) -->
+* [[Sirco potato|Sirco]]<!-- see de:Sirco (Kartoffel) - arguably, article should be at "Sirco", which is presently redirect not mentioned anywhere in target article -->
+* [[Spunta]]
+* [[Stobrawa (potato)|Stobrawa]]
+* [[Vivaldi potato|Vivaldi]]
+* [[Vitelotte]]
+* [[Yellow Finn]]
+* [[Yukon Gold potato|Yukon Gold]]
+{{col-end}}
+
+==== Blue varieties ====
+[[Image:BlauerSchwede02.JPG|thumb|alt=Two dark-skinned potatoes on a white plate. A further potato is cut into sections to show the variety's purple-blue flesh, placed at lower-right on the plate.|right|Potato variety 'Blue Swede]]
+The '''blue potato''' originated in South America. It has purple skin and flesh, which becomes blue once cooked. It has a slight whitish scab that seems to be present in all samples. The variety, called ''Cream of the Crop'' has been introduced into Ireland and has proved popular.<ref>{{cite news |first=Nuala |last=McCann |date={{Date|2008-03-04|mdy}} |title=Eat your blues! |url=http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/7276677.stm |publisher=BBC News}}</ref>
+
+A mutation in the varieties' [[P locus]] causes production of the [[antioxidant]] [[anthocyanin]].<ref>{{cite journal |author=Jung CS, Griffiths HM, De Jong DM, Cheng S, Bodis M, De Jong WS |title=The potato P locus codes for flavonoid 3',5'-hydroxylase |journal=TAG |volume=110 |issue=2 |pages=269–75 |year=2005 |month=January |pmid=15565378 |doi=10.1007/s00122-004-1829-z}}</ref>
+
+====Genetically-modified varieties====
+Genetic research has produced several [[genetically modified]] varieties. 'New Leaf', owned by [[Monsanto Company]], incorporated genes from ''[[Bacillus thuringiensis]]'', which conferred resistance to the [[Colorado potato beetle]]; 'New Leaf Plus' and 'New Leaf Y', approved by US regulatory agencies during the 1990s, also included resistance to viruses. [[McDonald's]], [[Burger King]], [[Frito-Lay]], and [[Procter & Gamble]] announced they would not use genetically modified potatoes, and Monsanto published its intent to discontinue the line in March 2001.<ref>{{cite web |title=Genetically Engineered Organisms Public Issues Education Project/Am I eating GE potatoes? |publisher=[[Cornell University]] |url=http://www.geo-pie.cornell.edu/crops/potato.html |accessdate=16 December 2008}}</ref> The starch content of '[[Amflora]]', [[waxy potato starch|waxy potato variety]] from the German chemical company [[BASF]], has been modified to contain only [[amylopectin]], making it inedible but more useful for industrial purposes. In 2010, the European Commission cleared the way for 'Amflora' to be grown in the European Union. Nevertheless, under EU rules, individual countries have the right to decide whether they will allow this potato to be grown on their territory. Commercial planting of 'Amflora' was expected in the Czech Republic and Germany in spring of 2010, and Sweden and the Netherlands in following years.<ref>[http://newsbbc.co.uk/2/hi/8545503.stm GM potato cleared for EU farming] BBC News March 2, 2010. Retrieved September 24, 2010.</ref> Another GM potato variety developed by BASF is '[[Fortuna potato|Fortuna]]'<!-- see de:Fortuna (Kartoffel) fr:Fortuna (pomme de terre) -->. In 2010, a team of Indian scientists announced they had developed a genetically modified potato with 35 to 60% more protein than non-modified potatoes. Protein content was boosted by adding the gene AmA1 from the grain [[amaranth]]. They also found 15 to 25% greater crop yields with these potatoes.<ref>{{cite doi|10.1073/pnas.1006265107}}</ref> The researchers expected that a key market for the GM potato wouuld be the developing world, where more than a billion people are chronically undernourished.<ref>[http://www.dailymail.co.uk/sciencetech/article-1313712/Scientists-invent-genetically-modified-superspud-help-fight-hunger-Third-World.html Scientists invent genetically-modified 'superspud' that could help fight hunger in the Third World] The Daily Mail, September 20, 2010. Retrieved September 24, 2010.</ref>
+
+====New non-GM varieties====
+Other new potato cultivars are conventionally bred. For example, on 22 September 2007, [[Benguet]] [[State University]] (BSU) announced that four potato varieties—'Igorota', 'Solibao', 'Ganza' and one not yet officially named—possess more than 18% [[dry matter]] content required by [[fast-food]] chains to make crispy and sturdy [[French fries]].<ref>{{cite web|url=http://newsinfo.inquirer.net/breakingnews/regions/view_article.php?article_id=90044 |title=Inquirer.net, RP's new potato varieties good for French fries |publisher=Newsinfo.inquirer.net |date= |accessdate=2010-07-16}}</ref> Since 2005, a natural 100% amylopectin waxy potato variety called 'Eliane' is being cultivated by the starch company [[AVEBE]].
+
+Some horticulturists sell [[Chimera (plant)#Graft-chimeras|chimeras]], made by grafting a tomato plant onto a potato plant, producing both edible tomatoes and potatoes. This practice is not very widespread.
+
+==== Pests ====
+{{Main|List of potato diseases}}
+[[File:Phytophtora infestans-effects.jpg|thumb|right|A potato ruined by [[late blight]]]]
+
+The historically significant ''[[Phytophthora infestans]]'' (late blight) remains an ongoing problem in Europe<ref>{{cite web |title=NJF seminar No. 388 Integrated Control of Potato Late Blight in the Nordic and Baltic Countries. Copenhagen, Denmark, 29 November −1 December 2006 |publisher=Nordic Association of Agricultural Scientists |url=http://www.njf.nu/filebank/files/20060330$105643$fil$vodD3dJE390Hb92eKsGd.pdf |format=PDF |accessdate=14 November 2008}}</ref> and the United States.<ref>{{cite web |title=Potato Late Blight in 2006; the year in review and what to look for in 2007 |publisher=[[University of Maine]] |url=http://www.umaine.edu/umext/potatoprogram/images/Johnson%209.00.pdf |format=PDF |accessdate=14 November 2008}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> Other potato diseases include ''Rhizoctonia'', ''[[Sclerotinia]]'', [[Pectobacterium carotovorum|black leg]], [[powdery mildew]], [[powdery scab]], [[Potato leafroll virus|leafroll virus]], and [[purple top]].
+
+Insects that commonly transmit potato diseases or damage the plants include the [[Colorado potato beetle]], the [[potato tuber moth]], the green peach aphid (''[[Myzus persicae]]''), the potato aphid, beetleafhoppers, [[thrips]], and [[mites]]. The [[potato root nematode]] is a microscopic worm that thrives on the roots, thus causing the potato plants to wilt. Since its eggs can survive in the soil for several years, [[crop rotation]] is recommended.
+
+==== Pesticides ====
+During the crop year 2008, many of the [[certified organic food|certified organic]] potatoes produced in the United Kingdom and certified by the [[Soil Association]] as organic were sprayed with a [[copper pesticide]]<ref>Section 4.11.11, page 103 [http://92.52.112.178/web/sacert/sacertweb.nsf/e8c12cf77637ec6c80256a6900374463/4d7054234b8da20a8025740b0012f83f/$FILE/ATTW3W7S/Soil%20Association%20Organic%20Standards%20for%20Producers%202009.pdf Soil Association Organic Standards for Producer, Verion 16, January, 2009]</ref> to control potato blight (''Phytophthora infestans'').<ref>[http://www.dailymail.co.uk/news/article-505427/Thousands-tons-organic-food-produced-using-toxic-chemicals.html "Thousands of tons of organic food produced using toxic chemicals"] article by David Derbyshire in ''[[The Daily Mail]]'' 1 January 2008</ref> According to the Soil Association, the total copper that can be applied to organic land is 6&nbsp;kg/[[Hectare|ha]]/year.<ref>{{cite web|url=http://www.soilassociation.org/Certification/Servicesforlicensees/Forms/Horticultureandarable/tabid/406/Default.aspx |title=Links to forms permitting application of copper fungicide on the website of the Soil Association |publisher=Soilassociation.org |date= |accessdate=2010-07-16}}</ref>
+
+According to an [[Environmental Working Group]] analysis<ref>{{cite web|url=http://static.foodnews.org/pdf/2010-foodnews-data.pdf |title=Metrics Used in EWG's Shopper's Guide to Pesticides Compiled from USDA and FDA Data |publisher=Environmental Working Group |date= |accessdate=2010-09-01}}</ref> of USDA and FDA pesticide residue tests performed from 2000 through 2008, 84% of the 2,216 tested potato samples contained detectable traces of at least one pesticide. A total of 36 unique pesticides were detected on potatoes over the 2,216 samples, though no individual sample contained more than 6 unique pesticide traces, and the average was 1.29 detectable unique pesticide traces per sample. The average quantity of all pesticide traces found in the 2,216 samples was 1.602 [[Parts per million|ppm]]. While this is a very low value of pesticide residue, it is the highest amongst the 50 vegetables analyzed.
+
+== Uses ==
+* Potatoes are used to brew alcoholic beverages such as [[vodka]], [[potcheen]], or [[akvavit]].
+* They are also used as food for domestic animals.
+* [[Potato starch]] is used in the food industry as, for example, thickeners and binders of soups and sauces, in the textile industry, as adhesives, and for the manufacturing of papers and boards.<ref>{{cite book |author=Grant M. Campbell, Colin Webb, Stephen L. McKee |title=Cereals: Novel Uses and Processes |year=1997 |publisher=Springer |url=http://books.google.com/?id=W4o7lUKSxyQC&pg=PA22&dq=potato+uses |isbn=0306455838}}</ref><ref name="jai">{{cite book |title=Handbook of Potato Production, Improvement, and Postharvest |author=Jai Gopal, S. M. Paul Khurana |year=2006 |publisher=[[Haworth Press]] |url=http://books.google.com/?id=hxy8pkP26NEC&pg=PA544&dq=potato+starch+adhesive | isbn=9781560222729}}</ref>
+*[[Maine]] companies are exploring the possibilities of using waste potatoes to obtain [[polylactic acid]] for use in plastic products; other research projects seek ways to use the starch as a base for [[biodegradable]] packaging.<ref name="jai" /><ref>{{cite web |title=Potatoes to Plastics |publisher=[[University of Maine]] |url=http://www.umaine.edu/mcsc/reports/potatoesExecSum.pdf |format=PDF |accessdate=8 January 2009}}</ref>
+
+=== Culinary uses ===
+[[File:PreparedPotatoes.jpg|upright|thumb|Various potato dishes]]
+
+Potatoes are prepared in many ways: skin-on or peeled, whole or cut up, with seasonings or without. The only requirement involves cooking to swell the starch granules. Most potato dishes are served hot, but some are first cooked, then served cold, notably [[potato salad]] and [[potato chip|potato chips/crisps]].
+
+Common dishes are: [[mashed potato]]es, which are first boiled (usually peeled), and then mashed with [[milk]] or [[yogurt]] and [[butter]]; whole [[baked potato]]es; [[boiling|boiled]] or [[steaming|steamed]] potatoes; [[French fries|French-fried potatoes or chips]]; cut into cubes and [[roasting|roasted]]; [[scalloped potatoes|scalloped]], diced, or sliced and fried (home fries); grated into small thin strips and fried (hash browns); grated and formed into dumplings, [[Rösti]] or [[potato pancake]]s. Unlike many foods, potatoes can also be easily cooked in a [[microwave oven]] and still retain nearly all of their nutritional value, provided they are covered in ventilated [[plastic wrap]] to prevent [[water|moisture]] from escaping; this method produces a meal very similar to a steamed potato, while retaining the appearance of a conventionally baked potato. Potato chunks also commonly appear as a [[stew]] ingredient.
+
+Potatoes are boiled between 10 and 25<ref>[http://www.swegro.se/sortiment_potatis_tillreda.asp Swegro]{{Dead link|date=July 2010}}</ref> minutes, depending on size and type, to become soft.
+
+==== Latin America ====
+[[File:Peru PapasRellenas2.jpg|thumb|right|[[Papa rellena]]]]
+
+[[Peruvian cuisine]] naturally contains the potato as a primary ingredient in many dishes, as around 3,000 varieties of this tuber are grown there.<ref>{{cite news|url=http://www.washingtonpost.com/wp-dyn/content/article/2007/06/24/AR2007062400727.html |title='&#39;Peru Celebrates Potato Diversity'&#39; |publisher=Washingtonpost.com |date= 24 June 2007|accessdate=2010-07-16 | first=Monte | last=Hayes}}</ref>
+Some of the more notable dishes include boiled potato as a base for several dishies or with [[ají]]-based sauces like in [[papa a la huancaina]] or ocopa, diced potato for its use in soups like in cau cau, or in [[Carapulca]] with dried potato (papa seca). Smashed condimented potato is used in causa Limeña and [[papa rellena]]. French-fried potatoes are a typical ingredient in Peruvian stir-fries, including the classic dish [[lomo saltado]].
+
+[[Chuño]] is a [[freeze-drying|freeze-dried]] potato product traditionally made by [[Quechuas|Quechua]] and [[Aymara people|Aymara]] communities of [[Peru]] and [[Bolivia]],<ref>Timothy Johns: With bitter Herbs They Shall Eat it : Chemical ecology and the origins of human diet and medicine, The University of Arizona Press, Tucson 1990, ISBN 0-8165-1023-7, p. 82-84</ref>  and is known in various countries of South America, including [[Peru]], [[Bolivia]], [[Argentina]], and [[Chile]]. In Chile's [[Chiloé Archipelago]], potatoes are the main ingredient of many dishes, including milcaos, chapaleles, [[curanto]] and chochoca. In [[Ecuador]], the potato, as well as being a staple with most dishes, is featured in the hearty ''locro de papas'', a thick soup of potato, squash, and cheese.
+
+==== European cuisine ====
+[[File:Fish and chips.jpg|thumb|[[Fish and chips]]]]
+
+In the UK, potatoes form part of the traditional staple [[fish and chips]]. Roast potatoes are commonly served with a [[Sunday roast]], and mashed potatoes form a major component of several other traditional dishes such as [[shepherd's pie]], [[bubble and squeak]], and [[bangers and mash]]. New potatoes are often cooked with [[mentha|mint]] and served with a little melted butter.
+
+The [[Tattie scone]] is a popular Scottish dish containing potatoes. [[Colcannon]] is a traditional Irish food made with mashed potato, shredded [[kale]] or cabbage, and onion; [[champ (food)|champ]] is a similar dish. [[Boxty]] pancakes are eaten throughout Ireland, although associated especially with the north, and in Irish diaspora communities; they are traditionally made with grated potatoes, soaked to loosen the starch and mixed with flour, buttermilk and baking powder. A variant eaten and sold in [[Lancashire]], especially [[Liverpool]], is made with cooked and mashed potatoes.
+
+''[[Bryndzové halušky]]'' is the [[Slovakia]]n national dish, made of a batter of flour and finely grated potatoes that is boiled to form dumplings. These are then mixed with regionally varying ingredients.<ref name=sinkovec2004>{{cite book |first=Magdalena |last=Sinkovec |chapter=Bryndzové Halušky / Potato Dumplings with 'Bryndza' Sheep Cheese and Bacon |chapterurl=http://books.google.com/books?id=9fNgBO3aEK8C&pg=PA115 |title=Culinary Cosmic Top Secrets A Nato Cookbook |year=2004 |publisher=[[Lulu (company)|Lulu]] |pages=115–116 |isbn=9781411608375 |accessdate=1 March 2009}}</ref>
+
+In [[Northern Europe|Northern]] and [[Eastern Europe]], especially in [[Scandinavia|Scandinavian countries]], Poland, Russia, [[Belarus]] and [[Ukraine]], newly harvested, early ripening varieties are considered a special delicacy. Boiled whole and served un-peeled with [[dill]], these "new potatoes" are traditionally consumed with [[pickled herring|Baltic herring]]. Puddings made from grated potatoes ([[kugel]], [[kugelis]], and [[potato babka]]) are popular items of [[Ashkenazi cuisine|Ashkenazi]], [[Lithuanian cuisine|Lithuanian]], and [[Belarusian cuisine|Belarussian]] cuisine.<ref name="Bremzen90">{{cite book|last=von Bremzen, Anya; Welchman, John|title=Please to the Table: The Russian Cookbook|publisher=Workman Publishing|location=New York|year=1990|pages=319–20|isbn=0-89480-845-1}}</ref>
+[[File:BakedPotatoWithButter.jpg|right|thumb|A baked potato served with butter]]
+
+In [[Western Europe]], especially in Belgium, sliced potatoes are fried to create ''frieten'', the original [[French fried potatoes]]. ''[[Stamppot]]'', a traditional [[Netherlands|Dutch]] meal, is based on mashed potatoes mixed with vegetables.
+
+In France, the most notable potato dish is the ''[[Hachis Parmentier]]'', named after [[Antoine-Augustin Parmentier]], a French pharmacist, nutritionist, and agronomist who, in the late 18th century, was instrumental in the acceptance of the potato as an edible crop in the country. The ''[[pâté aux pommes de terre]]'' is a regional potato dish from the central [[Allier]] and [[Limousin (region)|Limousin]] regions.
+
+In the north of Italy, in particular, in the [[Friuli]] region of the northeast, potatoes serve to make a type of pasta called [[gnocchi]].<ref>{{cite book|last=Roden|first=Claudia|title=The Food of Italy|publisher=Arrow Books|location=London|year=1990|page=72|isbn=0-09-976220-X}}</ref> Similarly, cooked and mashed potatoes or [[potato flour]] can be used in the [[Knödel]] or [[dumpling]] eaten with or added to meat dishes all over central and Eastern Europe, but especially in [[Bavaria]] and [[Luxembourg]]. Potatoes form one of the main ingredients in many soups such as the [[vichyssoise]] and Albanian potato and cabbage soup. In western Norway, [[komle]] is popular.
+
+A traditional [[Canary Islands]] dish is [[Canarian wrinkly potatoes]] or ''papas arrugadas''. ''[[Tortilla de patatas]]'' (potato omelete) and ''patatas bravas'' (a dish of fried potatoes in a spicy tomato sauce) are near-universal constituent of Spanish [[tapas]].
+
+==== North America ====
+[[File:Burger 1 bg 080206.jpg|thumb|right|French fries served with a hamburger]]
+[[File:OriginalPoutineLaBanquise.jpg|thumb|right|Poutine: Fried potatoes, cheese curds, and gravy]]
+
+In the United States, potatoes have become one of the most widely consumed crops and thus have a variety of preparation methods and condiments. [[French fries]] and often [[hash browns]] are commonly found in typical American fast-food burger joints and cafeterias. One popular favorite involves a baked potato with cheddar cheese (or sour cream and chives) on top, and in [[New England]] "smashed potatoes" (a chunkier variation on mashed potatoes, retaining the peel) have great popularity. Potato flakes are popular as an instant variety of mashed potatoes, which reconstitute into mashed potatoes by adding water, with butter or oil and salt to taste. A regional dish of [[Central New York]], [[salt potatoes]] are bite-size new potatoes boiled in water saturated with salt then served with melted butter. At more formal dinners, a common practice includes taking small red potatoes, slicing them, and roasting them in an iron skillet. Among [[American Jews]], the practice of eating [[latkes]] (fried potato pancakes) is common during the festival of [[Hanukkah]].
+
+A traditional [[Acadian]] dish from [[New Brunswick]] is known as ''poutine râpée''. The Acadian poutine is a ball of grated and [[mashed potato]], salted, sometimes filled with [[pork]] in the center, and boiled. The result is a moist ball about the size of a [[baseball (ball)|baseball]]. It is commonly eaten with salt and pepper or [[brown sugar]]. It is believed to have originated from the German
+''[[Klöße]]'', prepared by early German settlers who lived among the Acadians.
+
+[[poutine|''Poutine'']], by contrast, is a hearty serving of French fries, fresh [[cheese curd]]s and hot gravy. Tracing its origins to [[Quebec]] in the 1950s, it has become a widespread and popular dish throughout Canada.
+
+==== Indian Subcontinent ====
+[[File:Aloo Puri, typical morning snack, Varanasi.jpg|thumb|''[[Aloo]] ki sabzi'' (Potato Curry) and [[Puri (food)|Puri]], a typical morning snack, [[Varanasi]], India]]
+
+In India, the most popular potato dishes are ''aloo ki sabzi'', [[batata vada]], and [[samosa]], which is spicy mashed potato mixed with a small amount of vegetable stuffed in conical dough, and deep fried. Potatoes are also a major ingredient as fast food items, such as aloo chaat, where they are deep fried and served with chutney. In Northern India, alu dum and alu paratha are a favorite part of the diet; the first is a spicy curry of boiled potato, the second is a type of stuffed chapati.
+
+A dish called masala dosa from South India is very notable all over India. It is a thin pancake of rice and pulse paste rolled over spicy smashed potato and eaten with sambhar and chutney. Poori in sound India in particular in Tamil Nadu is almost always taken with smashed potato masal. Other favorite dishes are alu tikki and pakoda items.
+
+[[Vada pav]] is a popular vegetarian fast food dish in Mumbai and other regions in the Maharashtra in India.
+
+Aloo posto (a curry with potatoes and poppy seeds) is immensely popular in East India, especially Bengal.
+
+==== Far East Asia ====
+In the Far East, rice still dominates the potato, especially in China and Japan. However, it is used in northern China where rice is not easily grown, with a popular dish being 青椒土豆丝 (qing jiao tu dou si), made with green pepper, vinegar and a thin slices of potato. In the winter, roadside sellers in northern China will also sell roasted potatoes. It is also occasionally seen in Korean and Thai cuisines.<ref name=Solomon>{{cite book |title=Charmaine Solomon's Encyclopedia of Asian Food |author=Solomon, Charmaine |year=1996 |publisher=William Heinemann Australia |location=Melbourne |isbn=0-85561-688-1|page=293}}</ref>
+
+== Art ==
+[[File:Papamuseolarco.jpg|thumb|upright|Potato ceramic from the [[Moche]] culture. [[Larco Museum|Larco Museum Collection]]]]
+
+The potato has been an essential crop in the [[Andes]] since the [[pre-Columbian]] Era. The [[Moche]] culture from Northern [[Peru]] made ceramics from earth, water, and fire. This pottery was a sacred substance, formed in significant shapes and used to represent important themes. Potatoes are represented anthropomorphically as well as naturally.<ref>Berrin, Katherine & [[Larco Museum]]. The Spirit of Ancient Peru:Treasures from the Museo Arqueológico Rafael Larco Herrera. New York:Thames and Hudson, 1997.</ref>
+
+During the late 19th century, numerous images of potato harvesting appeared in European art, including the works of [[Willem Witsen]] and [[Anton Mauve]].<ref>{{cite book |author=Steven Adams, Anna Gruetzner Robins |title=Gendering Landscape Art |year=2000 |publisher=[[University of Manchester]] |url=http://books.google.com/?id=dY7xwrA-ibQC&pg=PA67&dq=potatoes++witsen+gathering+potatoes |isbn=0719056284}}</ref> [[Van Gogh]]'s 1885 painting "[[The Potato Eaters]]" portrays a family eating potatoes.<ref name="vgg">{{cite web|url=http://www.vggallery.com/visitors/004.htm|title=The Potato Eaters by Vincent van Gogh|last=van Tilborgh|first=Louis |year=2009|work=The Vincent van Gogh Gallery|accessdate=11 September 2009}}</ref>
+
+Invented in 1949 and marketed and sold commercially by [[Hasbro]] in 1952, [[Mr. Potato Head]] is an American toy that consists of a plastic potato and attachable plastic parts such as ears and eyes to make a face. It was the first toy ever advertised on television.<ref name="VAC">{{cite web|url=http://www.vam.ac.uk/moc/collections/toys/construction_toys/mr_potato_head/index.html|title=Mr Potato Head|work=Museum of Childhood website|publisher=V&A Museum of Childhood|accessdate=11 September 2009}}</ref>
+
+== See also ==
+* [[List of potato museums]]
+* [[New World crops]]
+* [[Potato battery]]
+
+== Notes ==
+{{Reflist|colwidth=30em}}
+
+== References ==
+{{Refbegin|2}}
+* ''Economist''. "Llamas and mash", [http://www.economist.com/world/la/displaystory.cfm?story_id=10766599 ''The Economist'' 28 Feb 2008 online]
+* ''Economist''. "The potato: Spud we like", (leader) [http://www.economist.com/opinion/displaystory.cfm?story_id=10766030 ''The Economist'' 28 Feb 2008 online]
+* Boomgaard, Peter. "In the Shadow of Rice: Roots and Tubers in Indonesian History, 1500–1950." ''Agricultural History'' 2003 77(4): 582–610. Issn: 0002-1482 Fulltext: [[Ebsco]]
+* Hawkes, J.G. (1990). ''The Potato:  Evolution, Biodiversity & Genetic Resources'', Smithsonian Institution Press, Washington, D.C.
+* Lang, James (2001). ''Notes of a Potato Watcher'', Texas A&M University, College Station, Texas.
+* Langer, William L. "American Foods and Europe's Population Growth 1750–1850", ''Journal of Social History'', Vol. 8, No. 2 (Winter, 1975), pp.&nbsp;51–66 [http://www.jstor.org/pss/3786266 in JSTOR]
+* McNeill, William H. "How the Potato Changed the World's History." ''Social Research'' 1999 66(1): 67–83. Issn: 0037-783x Fulltext: [[Ebsco]], by a leading historian
+* McNeill, William H. "The Introduction of the Potato into Ireland", ''Journal of Modern History'' 21 (1948): 218–21. [http://www.jstor.org/pss/1876068 in JSTOR]
+* Ó Gráda, Cormac. ''Black '47 and Beyond: The Great Irish Famine in History, Economy, and Memory.'' (1999). 272 pp.
+# Ó Gráda, Cormac, Richard Paping, and Eric Vanhaute, eds. ''When the Potato Failed: Causes and Effects of the Last European Subsistence Crisis, 1845–1850.'' (2007). 342 pp.&nbsp;ISBN 978-2-503-51985-2. 15 essays by scholars looking at Ireland and all of Europe
+* Reader, John. ''Propitious Esculent: The Potato in World History'' (2008), 315pp a standard scholarly history
+* Salaman, Redcliffe N. (1989). ''The History and Social Influence of the Potato'', Cambridge University Press (originally published in 1949; reprinted 1985 with new introduction and corrections by J.G. Hawkes).
+* Stevenson, W.R., Loria, R., Franc, G.D., and Weingartner, D.P. (2001)  ''Compendium of Potato Diseases'', 2nd ed, Amer. Phytopathological Society, St. Paul, Minnesota.
+* Zuckerman, Larry. ''The Potato: How the Humble Spud Rescued the Western World.'' (1998). 304 pp. Douglas & McIntyre. ISBN 0-86547-578-4.
+{{Refend}}
+
+== Further reading ==
+*{{Cite news |first=[[Reuters]] |last= |authorlink= |author= |coauthors= |title='Humble' Potato Emerging as World's Next Food Source |url= |work=column |publisher=[[Asahi Shimbun]] |id= |pages= |page=20 |date=11 May 2008 |accessdate= |language= |quote= |archiveurl= |archivedate=}}
+* {{Cite journal |last=Spooner |first=David |coauthors=et al. |year=2005 |month=October |title=A single domestication for potato based on multilocus amplified fragment length polymorphism genotyping |journal=Proc. Natl. Acad. Sci. USA |volume=102 |issue=41 |pages=14694–14699 |doi=10.1073/pnas.0507400102 |url=http://www.pnas.org/cgi/content/full/102/41/14694 |pmid=16203994 |pmc=1253605}}
+* The World Potato Atlas at [http://research.cip.cgiar.org/confluence/display/wpa/ Cgiar.org], released by the International Potato Center in 2006 and regularly updated. Includes current chapters of 15 countries:
+**South America: (English and Spanish): Bolivia, Colombia, Ecuador, Peru
+**Africa: Cameroon, Ethiopia, Kenya
+**Eurasia: Armenia, Bangladesh, China, India, Myanmar, Nepal, Pakistan, Tajikistan
+**38 others as brief "archive" chapters
+**Further information links at [http://research.cip.cgiar.org/confluence/display/wpa/Potato+Info+Links Cgiar.org].
+* World Geography of the Potato at [http://www.lanra.uga.edu/potato/ UGA.edu], released in 1993.
+* Reference for potato history: ''The Vegetable Ingredients Cookbook'' by Christine Ingram, Lorenz Books, 1996 ISBN 1-85967-264-7
+* ''The History and Social Influence of the Potato'' by Redcliffe N. Salaman ISBN 0-521-31623-5
+* Hamilton, Andy & Dave, (2004), [http://www.selfsufficientish.com/potatoes.htm Potatoes: Solanum tuberosums] retrieved on 4 May 2005
+*Gauldie, Enid (1981). The Scottish Miller 1700–1900. Pub. John Donald. ISBN 0-85976-067-7.
+
+== External links ==
+{{Wikibooks|Gardening|Potato}}
+{{Cookbook}}
+{{Commons|Solanum tuberosum}}
+{{Commons|Potato}}
+{{Commons category|Potatoes}}
+{{Wiktionary}}
+* [http://glks.ipk-gatersleben.de/home.php GLKS Potato Database]
+* [http://www.cipotato.org/ Centro Internacional de la Papa]: CIP (International Potato Center)
+* [http://www.potatocongress.org/ World Potato Congress]
+* [http://www.potato.org.uk/ British Potato Council]
+* [http://www.plantbreeding.wur.nl/potatopedigree/ Online Potato Pedigree Database for cultivated varieties]
+* [http://www.potatoes.wsu.edu/ Potato Information & Exchange]
+* [http://www.gmo-safety.eu/topic/122 GMO Safety: Genetic engineering on potatoes] Biological safety research projects and results
+* [http://www.potato2008.org/ International Year of the Potato 2008]
+* [http://www.geochembio.com/biology/organisms/potato/ Solanum tuberosum (potato, papas): life cycle, tuber anatomy at GeoChemBio]
+* [http://potatogenome.net Potato Genome Sequencing Consortium]
+* [http://crosstree.info/Documents/POTATO%20STORAGE.pdf Potato storage and value Preservation]: Pawanexh Kohli, CrossTree techno-visors.
+
+{{Agriculture country lists|state=collapsed}}
+{{Use dmy dates|date=August 2010}}
+{{Potato cultivars}}
+
+[[Category:Potatoes| ]]
+[[Category:Crops originating from the Americas]]
+[[Category:Crops originating from Bolivia]]
+[[Category:Crops originating from Chile]]
+[[Category:Crops originating from Peru]]
+[[Category:Indian ingredients]]
+[[Category:Puerto Rican ingredients]]
+[[Category:Quechua loanwords]]
+[[Category:Root vegetables]]
+[[Category:Staple foods]]
+
+{{Link GA|de}}
+{{Link GA|sr}}
+{{Link FA|be-x-old}}
+{{Link FA|es}}
+{{Link FA|is}}
+{{Link FA|sk}}
+[[af:Aartappel]]
+[[als:Kartoffel]]
+[[am:ድንች]]
+[[ang:Eorðæppel]]
+[[ar:بطاطس]]
+[[an:Solanum tuberosum]]
+[[as:আলু]]
+[[ast:Solanum tuberosum]]
+[[ay:Ch'uqi]]
+[[az:Kartof]]
+[[bn:আলু]]
+[[zh-min-nan:Má-lêng-chî]]
+[[ba:Бәрәңге]]
+[[be:Бульба]]
+[[be-x-old:Бульба]]
+[[bar:Erpfe]]
+[[bo:ཞོག་ཁོག]]
+[[bs:Krompir]]
+[[br:Patatez]]
+[[bg:Картоф]]
+[[ca:Patatera]]
+[[ceb:Patatas]]
+[[cs:Lilek brambor]]
+[[cy:Taten]]
+[[da:Kartoffel]]
+[[de:Kartoffel]]
+[[nv:Nimasii]]
+[[et:Kartul]]
+[[el:Πατάτα]]
+[[es:Solanum tuberosum]]
+[[eo:Terpomo]]
+[[eu:Patata]]
+[[fa:سیب‌زمینی]]
+[[fr:Pomme de terre]]
+[[ff:Kudaku]]
+[[ga:Práta]]
+[[gv:Praase]]
+[[gd:Buntàta]]
+[[gl:Pataca]]
+[[gan:土豆]]
+[[gu:બટાકાં]]
+[[ko:감자]]
+[[hi:आलू]]
+[[hsb:Běrna]]
+[[hr:Krumpir]]
+[[io:Terpomo]]
+[[id:Kentang]]
+[[ik:Asiaġruaq]]
+[[zu:Izambane]]
+[[is:Kartafla]]
+[[it:Solanum tuberosum]]
+[[he:תפוח אדמה]]
+[[jv:Kenthang]]
+[[kn:ಆಲೂಗಡ್ಡೆ]]
+[[pam:Patatas]]
+[[ka:კარტოფილი]]
+[[csb:Bùlwa]]
+[[kk:Картофель]]
+[[rw:Ikirayi]]
+[[sw:Kiazi]]
+[[kv:Картупель]]
+[[ht:Pòm tè]]
+[[ku:Kartol]]
+[[koi:Картов]]
+[[krc:Гардош]]
+[[lbe:Нущи]]
+[[la:Patata]]
+[[lv:Kartupelis]]
+[[lb:Gromper]]
+[[lt:Valgomoji bulvė]]
+[[lmo:Solanum tuberosum]]
+[[hu:Burgonya]]
+[[mk:Компир]]
+[[mg:Ovy]]
+[[ml:ഉരുളക്കിഴങ്ങ്]]
+[[mr:बटाटा]]
+[[arz:بطاطس]]
+[[ms:Kentang]]
+[[mn:Төмс]]
+[[nah:Tlālcamohtli]]
+[[nl:Aardappel]]
+[[nds-nl:Eerpel]]
+[[new:आलु]]
+[[ja:ジャガイモ]]
+[[nap:Patana]]
+[[no:Potet]]
+[[nn:Potet]]
+[[oc:Solanum tuberosum]]
+[[pnb:آلو]]
+[[pcd:Pétote]]
+[[pfl:Grumbeerknolle]]
+[[nds:Kantüffel]]
+[[pl:Ziemniak]]
+[[pt:Batata]]
+[[ksh:Ääpel]]
+[[ro:Cartof]]
+[[qu:Papa]]
+[[ru:Картофель]]
+[[sah:Хортуоппуй]]
+[[se:Buđeita]]
+[[sc:Patata]]
+[[sco:Tattie]]
+[[stq:Tuffelke (Solanum tuberosum)]]
+[[sq:Patatja]]
+[[simple:Potato]]
+[[sk:Ľuľok zemiakový]]
+[[sl:Krompir]]
+[[szl:Kartofel]]
+[[ckb:پەتاتە]]
+[[sr:Кромпир]]
+[[sh:Krumpir]]
+[[fi:Peruna]]
+[[sv:Potatis]]
+[[tl:Patatas]]
+[[ta:உருளைக் கிழங்கு]]
+[[te:బంగాళదుంప]]
+[[th:มันฝรั่ง]]
+[[to:Pateta]]
+[[tr:Patates]]
+[[uk:Картопля]]
+[[ur:آلو]]
+[[vi:Khoai tây]]
+[[wa:Crompire]]
+[[vls:Petat]]
+[[war:Patatas]]
+[[wuu:洋山芋]]
+[[yi:קארטאפל]]
+[[zh-yue:薯仔]]
+[[bat-smg:Bolbė]]
+[[zh:马铃薯]]
