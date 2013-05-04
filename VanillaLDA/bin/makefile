@@ -49,7 +49,7 @@ all: VanillaAsymLDA
 VanillaAsymLDA: $(OBJS) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: GCC C++ Linker'
-	g++  -o"VanillaAsymLDA" $(OBJS) $(USER_OBJS) $(LIBS)
+	g++  -o "VanillaAsymLDA" $(OBJS) $(USER_OBJS) $(LIBS)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
