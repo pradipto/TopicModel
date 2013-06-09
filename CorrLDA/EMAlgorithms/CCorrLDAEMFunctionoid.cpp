@@ -51,8 +51,8 @@ void CCorrLDAEMFunctionoid::operator ()() {
 		maximization_step();
 	} // else you already have loaded the model and therefore no need to corpus initialize
 
-	// run expectation maximization
-	_model->_estimate_hypparam = true; //true;
+	_model->_estimate_hypparam = true;
+	if ( _model->_D == 1 ) _model->_estimate_hypparam = false;	// alpha initializer not valid or too bad for single document online inference
 
 	//// For prediction only
 	if ( _model->_operation_mode == "predict" ) {
