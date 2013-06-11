@@ -337,6 +337,12 @@ public class NWayMerge<Key extends Comparable<Key>> {
 		int V = Integer.MAX_VALUE;
 		String inputFileName = null;
 		String outputFileName = null;
+		
+		if ( N == 1 && (args[0].equals("-h") || args[0].equals("--help")) ) {
+			printUsage();
+			return;
+		}
+		
 		for ( int i = 0; i < N; i += 2 ) {
 			if ( args[i].equals("-") ) {
 				System.out.println("Wrong argument string: found '-' instead of \"-"+args[i+1]+"\"");
@@ -383,7 +389,7 @@ public class NWayMerge<Key extends Comparable<Key>> {
 		System.out.println("Default values: numThreads = 10; numItemsToSort = 10,000,000; ");
 		System.out.println("                inputFile = [if not given creates a double array of size numItemsToSort with each entry lying in [0, 10)]; ");
 		System.out.println("                outputFile = [if not given writes to standard output]");
-		System.out.println("                --verbose or -v = [if not given then false]");
+		System.out.println("                --verbose or -v = [if not given then false for standard output]");
 		System.out.println("Example: java -cp NWayMerge.jar NWayMwerge -t 100 ");
 	}
 	
