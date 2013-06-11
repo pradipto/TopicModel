@@ -1,7 +1,14 @@
 
 
+import java.io.BufferedWriter;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Scanner;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -177,6 +184,9 @@ public class NWayMerge<Key extends Comparable<Key>> {
 	 */
 	@SuppressWarnings("unchecked")
 	public void map() {
+		
+		System.out.print("Beginning mapper... ");
+		
 		int V = _gArr.length;
 		int chunkSize = V/_T;
 		for ( int i = 0, t = 0; i < V && t < _T; i += chunkSize, ++t ) {
@@ -209,8 +219,23 @@ public class NWayMerge<Key extends Comparable<Key>> {
 		_executor.shutdown();
 		// Wait until all threads are finish
 		while (!_executor.isTerminated()) { }
-		System.out.println("Finished all mappers");
+		
+		System.out.println("done.");
 	    
+		this.shuffle();
+	}
+	
+	/**
+	 * 
+	 */
+	private void shuffle() {
+		
+		System.out.print("Beginning shuffling... ");
+		
+		for ( int t = 0; t < _T; ++t ) 
+			_reducer.addCombiner(_combiners[t]);
+		
+		System.out.println("done.");
 	}
 	
 	/**
@@ -218,35 +243,180 @@ public class NWayMerge<Key extends Comparable<Key>> {
 	 */
 	public void reduce() {
 		
-		for ( int t = 0; t < _T; ++t ) 
-			_reducer.addCombiner(_combiners[t]);
+		System.out.print("Beginning reducer... ");
 		
 		_reducer.reduce();
 		
-		System.out.println("Printing final sorted list");
-		int i = 1;
-		for ( Object d : _reducer.getOutputList() ) 
-			System.out.println((i++)+") "+(Double)d+" ");
+		System.out.println("done.");
+		
 	}
 	
+	/**
+	 * 
+	 * @param writer
+	 * @param item
+	 * @throws IOException
+	 */
+	public void pushToWriteBuffer(BufferedWriter writer, String item) throws IOException {
+		writer.write(item); writer.newLine();
+	}
+	
+	/**
+	 * 
+	 * @param fileName
+	 * @throws IOException
+	 */
+	private void writeToFile(String fileName) throws IOException {
+		BufferedWriter writer;
+		if ( fileName == null ) {
+			writer = new BufferedWriter(new OutputStreamWriter(System.out));
+		} else {
+			writer = new BufferedWriter(new FileWriter(fileName));
+		}
 		
+		System.out.println("Writing final sorted list to "+(fileName == null? "console" : fileName));
+		int i = 1;
+		for ( Object d : _reducer.getOutputList() ) 
+			pushToWriteBuffer(writer, (i++)+") "+d.toString()+" ");
+		writer.close();
+		
+	}
 	
 	/**
 	 * Test client
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
-		int V = 105;
-		int nThreads = 10;
+		parseOptionsAndLaunch(args);
+	}
+	
+	/**
+	 * 
+	 * @param V
+	 * @param nThreads
+	 * @return
+	 */
+	private static Double[] createDemoArray(int V, int nThreads) {
 		Double[] arr = new Double[V];
 		for ( int i = 0; i < V; ++i )
 			arr[i] = Math.random()*10;
-		
-		NWayMerge mapreduceApp = new NWayMerge<Double>(arr, nThreads);
+		return arr;
+	}
+
+	/**
+	 * 
+	 * @param <T>
+	 * @param arr
+	 * @param nThreads
+	 * @param outputFileName
+	 * @param verbose
+	 */
+	private static <T extends Comparable<T>> void launch(T[] arr, int nThreads, String outputFileName, boolean verbose) {
+		NWayMerge mapreduceApp = new NWayMerge<T>(arr, nThreads);
 		mapreduceApp.map();
 		mapreduceApp.reduce();
 		
+		if ( outputFileName == null && !verbose )
+			return;
+		
+		try {
+			mapreduceApp.writeToFile(outputFileName);
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+
+	
+	/**
+	 * 
+	 * @param args
+	 */
+	private static void parseOptionsAndLaunch(String[] args) {
+		int N = args.length;
+		int nThreads = -1;
+		int V = Integer.MAX_VALUE;
+		String inputFileName = null;
+		String outputFileName = null;
+		for ( int i = 0; i < N; i += 2 ) {
+			if ( args[i].equals("-") ) {
+				System.out.println("Wrong argument string: found '-' instead of \"-"+args[i+1]+"\"");
+				printUsage();
+				return;
+			}
+			if ( args[i].equals("-t") )
+				nThreads = Integer.parseInt(args[i+1]);
+			if ( args[i].equals("-l") )
+				V = Integer.parseInt(args[i+1]);
+			if ( args[i].equals("-i") )
+				inputFileName = args[i+1];
+			if ( args[i].equals("-o") )
+				outputFileName = args[i+1];
+		}
+		Double[] arr = null;
+		
+		boolean verbose = false;
+		if ( N % 2 != 0 ) {
+			if ( args[N-1].equals("-v") || args[N-1].equals("--verbose") )
+				verbose = true;
+		}
+		
+		if ( nThreads == -1 ) {
+			System.out.println("Please specify the number of threads.");
+			System.out.println("Note: Maximum process or threads for Linux kernel 2.6 is 32,000");
+			printUsage();
+			return;
+		}
+		
+		if ( inputFileName == null ) {
+			if ( V == Integer.MAX_VALUE ) V = 10000000;
+			arr = createDemoArray(V, nThreads);
+		} else {
+			arr = readFromFile(inputFileName, V);
+		}
+		
+		launch(arr, nThreads, outputFileName, verbose);
+		
+	}
+	
+	public static void printUsage() {
+		System.out.println("Usage: java -cp NWayMerge.jar NWayMwerge -t <numThreads> -l <numItemsToSort> -i <inputFile> -o <outputFile> [--verbose]");
+		System.out.println("Default values: numThreads = 10; numItemsToSort = 10,000,000; ");
+		System.out.println("                inputFile = [if not given creates a double array of size numItemsToSort with each entry lying in [0, 10)]; ");
+		System.out.println("                outputFile = [if not given writes to standard output]");
+		System.out.println("                --verbose or -v = [if not given then false]");
+		System.out.println("Example: java -cp NWayMerge.jar NWayMwerge -t 100 ");
+	}
+	
+	/**
+	 * 
+	 * @param fileName
+	 * @param numLines
+	 * @return
+	 */
+	public static Double[] readFromFile(String fileName, int numLines) {
+		Double[] arr = new Double[numLines];
+		try {
+
+			Scanner scanner = new Scanner(new FileInputStream(fileName), "UTF-8");
+
+			int l = 0;
+			
+			while (scanner.hasNextLine() && l < numLines) {
+				String line = scanner.nextLine();
+
+				if ( line != null && !line.isEmpty() ) {
+					Double value = Double.parseDouble(line.trim());
+					arr[l++] = value;
+				}
+			}
+			scanner.close();
+			
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+			arr = null;
+			return arr;
+		}
+		return arr;
 	}
 
 	@SuppressWarnings("unused")
